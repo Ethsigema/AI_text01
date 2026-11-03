@@ -13,7 +13,7 @@
   "local_runtime_integrity_checked_files": 19184,
   "runtime_source_manifest_sha256": "c3b958ef50c2032b5bedf59cfcd0af42228157a17d316dbed8e235ad933ea623",
   "execution_fingerprint": "2d19f754370c6c409fb6917315bcb32b3910052cf9e9f099af80e9594915d0e4",
-  "remote_restore_verified": false,
+  "remote_restore_verified": true,
   "bounded_acceptance": {
     "total": 33,
     "denominator": 433,
@@ -32,5 +32,21 @@
   },
   "global_verified": false,
   "overall_completion": "unknown",
-  "notes": "Immutable064223milestone cut; later local changes not included. Requires originalbaseline+all4parts. Previous3backups preserved."
+  "notes": "Immutable064223milestone cut; later local changes not included. Requires originalbaseline+all4parts. Previous3backups preserved.",
+  "verified_backup_commit": "85f7959c82a89985d54a85a3a0123e5bd3db2960",
+  "verification_utc": "2026-11-03T06:49:33Z",
+  "remote_runtime_integrity_checked_files": 19184,
+  "verification_method": "Fresh clone of exact remote commit; verify four part hashes and assembled TAR.XZ; safely extract; restore using remote overlay plus pinned original; verify all 29517 file sizes and SHA256; independent runtime integrity checks 19184 files on c3b958 source. All three prior archives unchanged.",
+  "extract_helper_tests": {
+    "passed": 6,
+    "total": 6,
+    "cases": [
+      "valid",
+      "parent traversal",
+      "absolute path",
+      "symlink",
+      "duplicate member",
+      "wrong archive hash"
+    ]
+  }
 }
