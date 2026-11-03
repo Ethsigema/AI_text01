@@ -1,0 +1,48 @@
+{
+  "snapshot_utc": "2026-11-03T08:29:00Z",
+  "archive_parts_manifest": "checkpoints/20261103T082900Z/battlegrounds_overlay_20261103T082900Z.parts.json",
+  "archive_format": "tar.xz",
+  "archive_bytes": 20154116,
+  "archive_sha256": "fa195fe8c596627b429cec56887841eb22e3d12cd51417fde0400ae99106ca32",
+  "manifest_sha256": "93529612a9ec1db5e4234daf3267e6b9903b2b7059443f9641add335914fd4d3",
+  "restored_files": 30317,
+  "payload_files": 9171,
+  "payload_bytes": 825719964,
+  "baseline_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "local_restore_verified": true,
+  "local_runtime_integrity_checked_files": 19212,
+  "runtime_source_manifest_sha256": "8245a86b7b6b9a7a8668ec7fd8d27252335476823bb161ce76ba4847e7b0aeed",
+  "execution_fingerprint": "3c654b4d3f1f19f29271f84e807da2f0fa7270f6d2f18f199b243873a51343bd",
+  "remote_restore_verified": true,
+  "bounded_acceptance": {
+    "total": 33,
+    "denominator": 433,
+    "percent": 7.62,
+    "minion": 9,
+    "spell": 20,
+    "hero": 4,
+    "scope": "Declared ordinary programs only; tier-7 safety guards add no identity credit."
+  },
+  "combined_review": {
+    "suites": 11,
+    "checks": 16518,
+    "native_reload_checkpoints": 250,
+    "distinct_native_inputs": 249,
+    "combat_records": 261
+  },
+  "safety_guards": {
+    "isolated_checks": 860,
+    "public_atomicity_checks": 166,
+    "thorim_fifo_checks": 108
+  },
+  "global_verified": false,
+  "overall_completion": "unknown",
+  "held_scope": "Full tier-7 discovery and extra mechanisms are not verified. Default full room retains187 admission issues; resource shutdown warnings unresolved.",
+  "notes": "Frozen08:29 milestone, not later local work. Requires original baseline plus all five parts. Prior four backups preserved.",
+  "verified_backup_commit": "96ecb0cc35d37d3c6e03d8882ef2ad1a90481ecb",
+  "remote_verified_utc": "2026-11-03T10:03:43Z",
+  "remote_restored_files": 30317,
+  "remote_runtime_integrity_checked_files": 19212,
+  "previous_four_archives_unchanged": true,
+  "delay_note": "First binary upload awaited approval; original operation resumed10:01 UTC, with no retries. Snapshot remains08:29 UTC."
+}

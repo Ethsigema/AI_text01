@@ -13,7 +13,7 @@
   "local_runtime_integrity_checked_files": 19212,
   "runtime_source_manifest_sha256": "8245a86b7b6b9a7a8668ec7fd8d27252335476823bb161ce76ba4847e7b0aeed",
   "execution_fingerprint": "3c654b4d3f1f19f29271f84e807da2f0fa7270f6d2f18f199b243873a51343bd",
-  "remote_restore_verified": false,
+  "remote_restore_verified": true,
   "bounded_acceptance": {
     "total": 33,
     "denominator": 433,
@@ -38,5 +38,11 @@
   "global_verified": false,
   "overall_completion": "unknown",
   "held_scope": "Full tier-7 discovery and extra mechanisms are not verified. Default full room retains187 admission issues; resource shutdown warnings unresolved.",
-  "notes": "Frozen08:29 milestone, not later local work. Requires original baseline plus all five parts. Prior four backups preserved."
+  "notes": "Frozen08:29 milestone, not later local work. Requires original baseline plus all five parts. Prior four backups preserved.",
+  "verified_backup_commit": "96ecb0cc35d37d3c6e03d8882ef2ad1a90481ecb",
+  "remote_verified_utc": "2026-11-03T10:03:43Z",
+  "remote_restored_files": 30317,
+  "remote_runtime_integrity_checked_files": 19212,
+  "previous_four_archives_unchanged": true,
+  "delay_note": "First binary upload awaited approval; original operation resumed10:01 UTC, with no retries. Snapshot remains08:29 UTC."
 }
