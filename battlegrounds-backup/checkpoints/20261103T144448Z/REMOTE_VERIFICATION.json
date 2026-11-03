@@ -1,0 +1,55 @@
+{
+  "snapshot_utc": "2026-11-03T14:44:48Z",
+  "archive_parts_manifest": "checkpoints/20261103T144448Z/battlegrounds_overlay_20261103T144448Z.parts.json",
+  "archive_format": "tar.xz",
+  "archive_bytes": 78993768,
+  "archive_sha256": "4f7827ed425939a08e6c83a99dc05c1c2abc829dabf58d781efb51c2db053724",
+  "manifest_sha256": "b0b18e53764b575055bc5a40b67f17dd99beeb4af269cf1addff2ec35ae16c90",
+  "file_count": 32808,
+  "payload_files": 11671,
+  "payload_bytes": 1842713054,
+  "baseline_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "verification_mode": "streamed baseline+overlay reconstruction of every file byte; no new full tree materialized and no game executed",
+  "local_streamed_reconstruction_verified": true,
+  "local_runtime_integrity_checked_files": 19232,
+  "runtime_manifest_path": "游戏工程/recovery_evidence_20261103/spell_siphon_development/implementation_worker/runs_and_candidates/candidate_1422/source_manifest_after.json",
+  "runtime_source_manifest_sha256": "97270d918133b1ee825566540745b9fda5ce747f93d0d59e528d318b7aafb627",
+  "execution_fingerprint": "29542b43e501b84a4a80fea463df582fd6cd88d6a0d46a5f894135a739df251b",
+  "remote_streamed_reconstruction_verified": true,
+  "new_on_disk_restore_verified": false,
+  "bounded_acceptance": {
+    "total": 36,
+    "denominator": 433,
+    "percent": 8.31,
+    "minion": 10,
+    "spell": 22,
+    "hero": 4,
+    "scope": "Current compatibility review only:31 full-program actual authorities remain8245,5 remain17cd; zero full ordinary identity reruns on972. No new ordinary or complete Gift credit."
+  },
+  "partial_spell_siphon": {
+    "complete_identity_credit": false,
+    "current972": "Fresh genuine N1 acquisition:280checks,38commands,7combats,2roundtrips and35malformed load rejections.",
+    "historical5e925": "N2/N3/death/sale/zero/current101 actual evidence retained with valid-path compatibility review, not fresh replay."
+  },
+  "global_verified": false,
+  "overall_completion": "unknown",
+  "held_scope": "Other payload combinations, inheritance, lower+2 variant, later rounds, full-hand, wounded gameplay and old mixed migration remain held. Full-room185 issues only last17cd measured; current unmeasured. GUI/full pools/extras completeness unverified.",
+  "helper_sha256": "8c8f36a78f3240a3948c83777441832420b794ee619f569b715c0bd6c9a13f51",
+  "helper_review": {
+    "synthetic_passed": 96,
+    "real_reference_checks": 2
+  },
+  "secret_scan_scope": "Changed payload only; unchanged baseline already public.",
+  "metadata_review": {
+    "checks": 1261,
+    "ledger_sha256": "037ac6a7bbe41c832835c73658ee83c0de362886c5ae7a074ff656c19b704656",
+    "matrix_sha256": "59b55f24536ee901ea0ef77ca414df4dcaad47fb6f8c70ddf277386d311724d3",
+    "progress_sha256": "44d0efac5e1efc15a1991ef67ce4b065ffe50ca8080e4a1eb65c50f0ab0a26fd"
+  },
+  "notes": "Immutable14:44:48 cut. Original release plus all19parts required. Six prior backups preserved. Disk constraint uses streamed verification, not new extracted/runnable restore.",
+  "verified_backup_commit": "58090d9c95a1b5019ad2c1b2614713843156fc9a",
+  "remote_verified_utc": "2026-11-03T15:06:47Z",
+  "remote_streamed_verified_files": 32808,
+  "remote_runtime_integrity_checked_files": 19232,
+  "previous_six_archives_unchanged": true
+}

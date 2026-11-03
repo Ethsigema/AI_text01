@@ -15,7 +15,7 @@
   "runtime_manifest_path": "游戏工程/recovery_evidence_20261103/spell_siphon_development/implementation_worker/runs_and_candidates/candidate_1422/source_manifest_after.json",
   "runtime_source_manifest_sha256": "97270d918133b1ee825566540745b9fda5ce747f93d0d59e528d318b7aafb627",
   "execution_fingerprint": "29542b43e501b84a4a80fea463df582fd6cd88d6a0d46a5f894135a739df251b",
-  "remote_streamed_reconstruction_verified": false,
+  "remote_streamed_reconstruction_verified": true,
   "new_on_disk_restore_verified": false,
   "bounded_acceptance": {
     "total": 36,
@@ -46,5 +46,10 @@
     "matrix_sha256": "59b55f24536ee901ea0ef77ca414df4dcaad47fb6f8c70ddf277386d311724d3",
     "progress_sha256": "44d0efac5e1efc15a1991ef67ce4b065ffe50ca8080e4a1eb65c50f0ab0a26fd"
   },
-  "notes": "Immutable14:44:48 cut. Original release plus all19parts required. Six prior backups preserved. Disk constraint uses streamed verification, not new extracted/runnable restore."
+  "notes": "Immutable14:44:48 cut. Original release plus all19parts required. Six prior backups preserved. Disk constraint uses streamed verification, not new extracted/runnable restore.",
+  "verified_backup_commit": "58090d9c95a1b5019ad2c1b2614713843156fc9a",
+  "remote_verified_utc": "2026-11-03T15:06:47Z",
+  "remote_streamed_verified_files": 32808,
+  "remote_runtime_integrity_checked_files": 19232,
+  "previous_six_archives_unchanged": true
 }
