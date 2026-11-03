@@ -15,7 +15,7 @@
   "runtime_manifest_path": "游戏工程/recovery_evidence_20261103/spell_siphon_development/implementation_worker/runs_and_candidates/candidate_1422/source_manifest_after.json",
   "runtime_source_manifest_sha256": "97270d918133b1ee825566540745b9fda5ce747f93d0d59e528d318b7aafb627",
   "execution_fingerprint": "29542b43e501b84a4a80fea463df582fd6cd88d6a0d46a5f894135a739df251b",
-  "remote_streamed_reconstruction_verified": false,
+  "remote_streamed_reconstruction_verified": true,
   "new_on_disk_restore_verified": false,
   "bounded_acceptance": {
     "total": 36,
@@ -74,5 +74,13 @@
     "evidence_sha256": "44aaad81e096ccf5bc8924ddfdb658fc1ea59c5599dc169639009f081de86df1",
     "review": "recovery_evidence_20261103/siphon_armor_extension_20261103/isolated_partial_1619/V9_PARTIAL_PUBLIC_VERDICT_1614.md",
     "log_limit": "Only known post-terminal ObjectDB/176-resource cleanup pair; no other diagnostics."
-  }
+  },
+  "verified_backup_commit": "7b500b038f11cd9bb571a157a4ec3b451b66c131",
+  "remote_verified_utc": "2026-11-03T16:54:53Z",
+  "remote_streamed_verified_files": 32855,
+  "remote_runtime_integrity_checked_files": 19232,
+  "previous_seven_archive_sets_unchanged": true,
+  "prior_archive_preservation_method": "56 archive-part/manifest blob identities from fresh remote Git tree match previously byte-verified clone. Old archive bytes not downloaded again.",
+  "remote_fetch_method": "Fresh shallow blob-filtered sparse clone; all21 new parts downloaded and SHA-verified.",
+  "disk_available_after_verification_bytes": 439320576
 }
