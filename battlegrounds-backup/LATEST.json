@@ -1,0 +1,13 @@
+{
+  "snapshot_utc": "2026-11-03T02:41:31Z",
+  "overlay": "checkpoints/battlegrounds_overlay_20261103T024131Z.zip",
+  "overlay_bytes": 1243715,
+  "overlay_sha256": "507dac5bc207e5d3970b4cb5ae8fc2dde062b7901b5df36a00d1ccecf3f09b56",
+  "manifest_sha256": "0b7bb668050d0f16f0c966deeab1c1de1969bd494651cf508a6102ba80df7efe",
+  "restored_files": 21193,
+  "payload_files": 18,
+  "baseline_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "local_restore_verified": true,
+  "remote_restore_verified": false,
+  "acceptance": "Initial recovered parser fixes and retained failure logs; no new gameplay acceptance."
+}
