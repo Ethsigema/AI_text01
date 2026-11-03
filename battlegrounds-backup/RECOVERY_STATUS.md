@@ -1,22 +1,29 @@
 # Godot 酒馆战棋恢复备份
 
-最新快照：2026-11-03 03:02:56 UTC（北京时间11:02:56）。历史快照保留在 checkpoints/。
+本次快照：2026-11-03 05:17:13 UTC（北京时间13:17:13）。上传时间晚于截点，实际远端恢复验证状态见 LATEST.json。后续本地变化不自动属于本备份。
 
-## 恢复所需文件
+## 下载与恢复
 
-- checkpoints/battlegrounds_overlay_20261103T030256Z.zip：完整增量、逐文件清单、恢复脚本与验证记录。
-- [原始完整交接包](https://github.com/Ethsigema/AI_text01/releases/download/battlegrounds-handoff-20261101/battlegrounds_new_scope_handoff_20261101.zip)。
-- 原包 SHA256：33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65。
-- 最新增量 ZIP SHA256：d57a7c9e6e4683a2849b38024bbb54ce6bb99fac3b9534c9a2ba452c0a343338。
+本次完整增量压缩包为35,099,798字节，分成9块保存在 checkpoints/20261103T051713Z/。请下载该目录全部9个 .part 文件、.parts.json 清单，以及 tools/assemble_backup.py，保持文件名不变。也可克隆整个分支。先合并并逐块校验：
 
-先解压增量 ZIP，再按其中 battlegrounds-backup/RESTORE.md 执行 Python 恢复工具。目标目录必须尚不存在，不覆盖已有工程。必须同时保留原包和所选增量，增量不能独立运行。
+```sh
+python3 battlegrounds-backup/tools/assemble_backup.py \\
+ battlegrounds-backup/checkpoints/20261103T051713Z/battlegrounds_overlay_20261103T051713Z.parts.json \\
+ battlegrounds_overlay_20261103T051713Z.zip
+```
 
-最新版本包含21248个恢复后文件，相比原包有96个变化/新增文件（8682537字节）。清单 SHA256：1a4c6e41f6a1764a07d7ce1b5a3783bbc06dd470967f055b278ca425e627e103。最新远端读取恢复验证状态以 LATEST.json 为准。
+然后解压合并的ZIP，按其中 battlegrounds-backup/RESTORE.md 恢复。恢复工具需要[原始完整交接包](https://github.com/Ethsigema/AI_text01/releases/download/battlegrounds-handoff-20261101/battlegrounds_new_scope_handoff_20261101.zip)，目标目录必须尚不存在，不覆盖已有工程。不能仅凭增量直接运行游戏。
 
-## 当前验证范围
+- 原包 SHA256：33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65
+- 合并ZIP SHA256：3fbc73ac1862e45749f2eb6ca74dbbcfd72d51465af9a8827f514214b07f0665
+- 完整文件清单 SHA256：35c25fe6295ef87629ce6b6ce85c46e8baa9372719c3a94685f2f96de9787758
 
-Game完整依赖解析无SCRIPT ERROR，实际Catalog构建load_errors为空。自定义双人对局24/24冒烟检查通过，包含买入、打出、冻结、结束回合、出售及5次新Game对象原生存读档，状态/库存/RNG一致。退出仍有ObjectDB及176资源使用警告，明确保留。
+恢复后28457文件；相对原包7308个新增/变化文件（331325805字节），包含源码、必需资源、原始测试证据、验收矩阵和进度台账。缓存.git/.godot/__pycache__排除，素材和.import元数据保留。恢复后按说明用Godot4.6.3重新导入资源；已验证导入3950项成功。
 
-原始导入守卫266项及递归序列化59项隔离检查通过；这不是完整卡牌验收。恢复后完整基础身份验收仍为0/433（尚未重新逐身份验证），不表示没有代码。历史153/433不移植为当前验收；总体完成率仍未知。
+## 截点验证范围
 
-旧主分支、原始Release和历史备份均保留。不强推覆盖，后续每12小时备份并核对远端；仅含游戏工程，不含凭据或私人聊天。
+限定基本效果30/433（6.93%）：6随从、20酒馆法术、4英雄。局部边界验证不等于任意组合或总体完成率，全部全局verified仍false。总体完成率与六机制完整覆盖率未知。历史153/433不移植为恢复工程验收。
+
+最后Naga批次exit124超时，保留36实际命令信封和35完成的存读/等值检查，不计完整身份。所有限制以快照内PROGRESS/ledger/验收矩阵和原始日志为准。
+
+先前两个独立快照及验证记录保留。后续快进提交，不强推、不修改main。备份仅限游戏工程，不含凭据或私人聊天。
