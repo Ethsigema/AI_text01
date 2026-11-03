@@ -1,19 +1,22 @@
 {
-  "snapshot_utc": "2026-11-03T12:30:09Z",
-  "archive_parts_manifest": "checkpoints/20261103T123009Z/battlegrounds_overlay_20261103T123009Z.parts.json",
+  "snapshot_utc": "2026-11-03T14:44:48Z",
+  "archive_parts_manifest": "checkpoints/20261103T144448Z/battlegrounds_overlay_20261103T144448Z.parts.json",
   "archive_format": "tar.xz",
-  "archive_bytes": 50226232,
-  "archive_sha256": "7eb28789e9819291741dc223c274a260d6eefade422a4d75472af3ec6b1a6772",
-  "manifest_sha256": "81b8bf5a2a496c473f9ea4b2b4ba34894623c7c7da65119563057680cf8a13ed",
-  "restored_files": 32142,
-  "payload_files": 10998,
-  "payload_bytes": 1523844249,
+  "archive_bytes": 78993768,
+  "archive_sha256": "4f7827ed425939a08e6c83a99dc05c1c2abc829dabf58d781efb51c2db053724",
+  "manifest_sha256": "b0b18e53764b575055bc5a40b67f17dd99beeb4af269cf1addff2ec35ae16c90",
+  "file_count": 32808,
+  "payload_files": 11671,
+  "payload_bytes": 1842713054,
   "baseline_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
-  "local_restore_verified": true,
-  "local_runtime_integrity_checked_files": 19219,
-  "runtime_source_manifest_sha256": "17cd5539b9f206f52036411d09599e27ae34f8cf59d6987db4a06b97a2545bbd",
-  "execution_fingerprint": "d4b10d417b4bf67423050e944d9d49473f2ba1bbd865cb4d856b6d9cbd5df81f",
-  "remote_restore_verified": true,
+  "verification_mode": "streamed baseline+overlay reconstruction of every file byte; no new full tree materialized and no game executed",
+  "local_streamed_reconstruction_verified": true,
+  "local_runtime_integrity_checked_files": 19232,
+  "runtime_manifest_path": "游戏工程/recovery_evidence_20261103/spell_siphon_development/implementation_worker/runs_and_candidates/candidate_1422/source_manifest_after.json",
+  "runtime_source_manifest_sha256": "97270d918133b1ee825566540745b9fda5ce747f93d0d59e528d318b7aafb627",
+  "execution_fingerprint": "29542b43e501b84a4a80fea463df582fd6cd88d6a0d46a5f894135a739df251b",
+  "remote_streamed_reconstruction_verified": false,
+  "new_on_disk_restore_verified": false,
   "bounded_acceptance": {
     "total": 36,
     "denominator": 433,
@@ -21,21 +24,27 @@
     "minion": 10,
     "spell": 22,
     "hero": 4,
-    "scope": "31 historical executions retained by explicit current compatibility review,4 prior identities freshly executed,1 newly executed Harbinger. Not36 fresh runs; ordinary declared programs only."
+    "scope": "Current compatibility review only:31 full-program actual authorities remain8245,5 remain17cd; zero full ordinary identity reruns on972. No new ordinary or complete Gift credit."
+  },
+  "partial_spell_siphon": {
+    "complete_identity_credit": false,
+    "current972": "Fresh genuine N1 acquisition:280checks,38commands,7combats,2roundtrips and35malformed load rejections.",
+    "historical5e925": "N2/N3/death/sale/zero/current101 actual evidence retained with valid-path compatibility review, not fresh replay."
   },
   "global_verified": false,
   "overall_completion": "unknown",
-  "held_scope": "Default full room retains185 admission issues. GUI, full-pool and extra mechanism completeness remain unverified; shutdown resource warnings unresolved.",
-  "metadata_review": {
-    "checks": 307,
-    "ledger_sha256": "4ac4f5c670192dc47096cb8ac6ed8db1f59d1dd87ae081a0590a0a399cd28dc5",
-    "matrix_sha256": "07da083764e7e7633c17544215ae697928f307b56530afb7d57ca6eaed70fabb",
-    "progress_sha256": "ce7e14c08f0668e52410d92f31d39c38d1bc7aa50ccb15cd561f22399e8b9047"
+  "held_scope": "Other payload combinations, inheritance, lower+2 variant, later rounds, full-hand, wounded gameplay and old mixed migration remain held. Full-room185 issues only last17cd measured; current unmeasured. GUI/full pools/extras completeness unverified.",
+  "helper_sha256": "8c8f36a78f3240a3948c83777441832420b794ee619f569b715c0bd6c9a13f51",
+  "helper_review": {
+    "synthetic_passed": 96,
+    "real_reference_checks": 2
   },
-  "notes": "Corrected12:30 frozen milestone only. Superseded12:25 snapshot was never uploaded. Original release and all12parts required. Previous5backups preserved. Later477f source not included.",
-  "verified_backup_commit": "bfcb0e75225321b6fb64a663cd83efd0111d7135",
-  "remote_verified_utc": "2026-11-03T13:03:56Z",
-  "remote_restored_files": 32142,
-  "remote_runtime_integrity_checked_files": 19219,
-  "previous_five_archives_unchanged": true
+  "secret_scan_scope": "Changed payload only; unchanged baseline already public.",
+  "metadata_review": {
+    "checks": 1261,
+    "ledger_sha256": "037ac6a7bbe41c832835c73658ee83c0de362886c5ae7a074ff656c19b704656",
+    "matrix_sha256": "59b55f24536ee901ea0ef77ca414df4dcaad47fb6f8c70ddf277386d311724d3",
+    "progress_sha256": "44d0efac5e1efc15a1991ef67ce4b065ffe50ca8080e4a1eb65c50f0ab0a26fd"
+  },
+  "notes": "Immutable14:44:48 cut. Original release plus all19parts required. Six prior backups preserved. Disk constraint uses streamed verification, not new extracted/runnable restore."
 }
