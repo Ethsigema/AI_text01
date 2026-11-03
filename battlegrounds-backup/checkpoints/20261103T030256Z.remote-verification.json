@@ -1,0 +1,25 @@
+{
+  "snapshot_utc": "2026-11-03T03:02:56Z",
+  "overlay": "checkpoints/battlegrounds_overlay_20261103T030256Z.zip",
+  "overlay_bytes": 2377591,
+  "overlay_sha256": "d57a7c9e6e4683a2849b38024bbb54ce6bb99fac3b9534c9a2ba452c0a343338",
+  "manifest_sha256": "1a4c6e41f6a1764a07d7ce1b5a3783bbc06dd470967f055b278ca425e627e103",
+  "restored_files": 21248,
+  "payload_files": 96,
+  "payload_bytes": 8682537,
+  "baseline_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "local_restore_verified": true,
+  "remote_restore_verified": true,
+  "acceptance": {
+    "game_parse": "clean",
+    "catalog_load_errors": 0,
+    "smoke_checks": "24/24",
+    "fresh_loads": 5,
+    "shutdown_resource_warning": 176,
+    "whole_identity_acceptance": "0/433 newly revalidated; historical153/433 not transferred",
+    "overall_completion": "unknown"
+  },
+  "verified_backup_commit": "d10707de6cd6756fe7ab19ec4ea95b6e374445a7",
+  "verification_utc": "2026-11-03T03:06:20Z",
+  "verification_method": "Fresh git clone exact remote commit; new ZIP SHA256+CRC and prior ZIP unchanged; restore from remote ZIP+pinned original; all21248 file sizes and SHA256 match."
+}
