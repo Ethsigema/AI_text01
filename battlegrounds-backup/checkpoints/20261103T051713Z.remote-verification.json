@@ -1,0 +1,31 @@
+{
+  "snapshot_utc": "2026-11-03T05:17:13Z",
+  "archive_parts_manifest": "checkpoints/20261103T051713Z/battlegrounds_overlay_20261103T051713Z.parts.json",
+  "archive_bytes": 35099798,
+  "archive_sha256": "3fbc73ac1862e45749f2eb6ca74dbbcfd72d51465af9a8827f514214b07f0665",
+  "manifest_sha256": "35c25fe6295ef87629ce6b6ce85c46e8baa9372719c3a94685f2f96de9787758",
+  "restored_files": 28457,
+  "payload_files": 7308,
+  "payload_bytes": 331325805,
+  "baseline_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "local_restore_verified": true,
+  "local_runtime_integrity_checked_files": 19184,
+  "remote_restore_verified": true,
+  "bounded_acceptance": {
+    "total": 30,
+    "denominator": 433,
+    "percent": 6.93,
+    "minion": 6,
+    "spell": 20,
+    "hero": 4
+  },
+  "global_verified": false,
+  "overall_completion": "unknown",
+  "notes": "Immutable051713cut only; later local work not included. Partial Naga timeout exit124 excluded from acceptance. Requires original baseline plus all9archiveparts.",
+  "verified_backup_commit": "7bc589c117c65e6e47715ab4d776828bfa5bfee7",
+  "verification_utc": "2026-11-03T06:11:36Z",
+  "remote_runtime_integrity_checked_files": 19184,
+  "verification_method": "Fresh clone exactremotecommit; verify all9partSHA and combinedZIP SHA/CRC; preserve prior2ZIP hashes; restore only remoteZIP+pinnedbaseline; all28457file sizes/SHA match; read-only runtimeintegrity19184filespass.",
+  "scheduled_run_utc": "2026-11-03T05:45:00Z",
+  "completed_after_scheduled_time": true
+}
