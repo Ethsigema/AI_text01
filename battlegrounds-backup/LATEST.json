@@ -8,6 +8,9 @@
   "payload_files": 18,
   "baseline_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
   "local_restore_verified": true,
-  "remote_restore_verified": false,
+  "remote_restore_verified": true,
+  "verified_backup_commit": "2766fa13be2cc1d6999cac0cfbf91d0fa7885ff3",
+  "verification_utc": "2026-11-03T02:47:35Z",
+  "verification_method": "Fresh git clone of exact remote commit; remote ZIP SHA256+CRC; restore using only remote ZIP and pinned baseline; compare all21193 file sizes and SHA256.",
   "acceptance": "Initial recovered parser fixes and retained failure logs; no new gameplay acceptance."
 }
