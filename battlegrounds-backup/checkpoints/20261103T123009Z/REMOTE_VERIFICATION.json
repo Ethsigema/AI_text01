@@ -1,0 +1,41 @@
+{
+  "snapshot_utc": "2026-11-03T12:30:09Z",
+  "archive_parts_manifest": "checkpoints/20261103T123009Z/battlegrounds_overlay_20261103T123009Z.parts.json",
+  "archive_format": "tar.xz",
+  "archive_bytes": 50226232,
+  "archive_sha256": "7eb28789e9819291741dc223c274a260d6eefade422a4d75472af3ec6b1a6772",
+  "manifest_sha256": "81b8bf5a2a496c473f9ea4b2b4ba34894623c7c7da65119563057680cf8a13ed",
+  "restored_files": 32142,
+  "payload_files": 10998,
+  "payload_bytes": 1523844249,
+  "baseline_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "local_restore_verified": true,
+  "local_runtime_integrity_checked_files": 19219,
+  "runtime_source_manifest_sha256": "17cd5539b9f206f52036411d09599e27ae34f8cf59d6987db4a06b97a2545bbd",
+  "execution_fingerprint": "d4b10d417b4bf67423050e944d9d49473f2ba1bbd865cb4d856b6d9cbd5df81f",
+  "remote_restore_verified": true,
+  "bounded_acceptance": {
+    "total": 36,
+    "denominator": 433,
+    "percent": 8.31,
+    "minion": 10,
+    "spell": 22,
+    "hero": 4,
+    "scope": "31 historical executions retained by explicit current compatibility review,4 prior identities freshly executed,1 newly executed Harbinger. Not36 fresh runs; ordinary declared programs only."
+  },
+  "global_verified": false,
+  "overall_completion": "unknown",
+  "held_scope": "Default full room retains185 admission issues. GUI, full-pool and extra mechanism completeness remain unverified; shutdown resource warnings unresolved.",
+  "metadata_review": {
+    "checks": 307,
+    "ledger_sha256": "4ac4f5c670192dc47096cb8ac6ed8db1f59d1dd87ae081a0590a0a399cd28dc5",
+    "matrix_sha256": "07da083764e7e7633c17544215ae697928f307b56530afb7d57ca6eaed70fabb",
+    "progress_sha256": "ce7e14c08f0668e52410d92f31d39c38d1bc7aa50ccb15cd561f22399e8b9047"
+  },
+  "notes": "Corrected12:30 frozen milestone only. Superseded12:25 snapshot was never uploaded. Original release and all12parts required. Previous5backups preserved. Later477f source not included.",
+  "verified_backup_commit": "bfcb0e75225321b6fb64a663cd83efd0111d7135",
+  "remote_verified_utc": "2026-11-03T13:03:56Z",
+  "remote_restored_files": 32142,
+  "remote_runtime_integrity_checked_files": 19219,
+  "previous_five_archives_unchanged": true
+}
