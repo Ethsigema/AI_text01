@@ -1,0 +1,35 @@
+{
+  "verified_utc": "2026-11-04T04:06:05.768666+00:00",
+  "content_commit": "3832ad53d7cdc62f36e40b07b72b828e1a3912c8",
+  "fresh_remote_clone": true,
+  "archives": [
+    {
+      "archive": "partial3702_membership_development.tar.xz",
+      "sha256": "0bad7315033e4f06cecbdadf836ea58ec63c1347ac68ef1723e879ef1d355da5",
+      "size": 19584152,
+      "parts_verified": 5,
+      "members_verified": 276,
+      "payload_hashes_verified": 272,
+      "embedded_archives": [
+        {
+          "path": "prerequisites/partial3702_four_spells_development.tar.xz",
+          "sha256": "015a73db17df85b0cf3cb0c470e14aab9068bd8af5c3097808c7567606cf152b",
+          "size": 12169144
+        }
+      ]
+    },
+    {
+      "archive": "patch_reconciliation_3702_20261104T0148Z.tar.xz",
+      "sha256": "3f59f35e20d66beebeb91407f510165a3d48a51291ce3ce8d3538fd1b4c5b492",
+      "size": 2785124,
+      "parts_verified": 1,
+      "members_verified": 22,
+      "payload_hashes_verified": 21,
+      "embedded_archives": []
+    }
+  ],
+  "full_backup_pointer_unchanged": true,
+  "full_restore_executed": false,
+  "engine_executed": false,
+  "full_baseline_dependency": "6fa7ee37aeea8c6af34b9d58e9b8dff312dd45ce"
+}
