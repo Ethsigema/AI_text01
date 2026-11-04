@@ -1,0 +1,219 @@
+{
+  "archives": [
+    {
+      "name": "partial3702_azerite_stage_public_checkpoint.tar.xz",
+      "size": 1242728,
+      "sha256": "6bf96f3ec66857f0a6468dd420b62816cdd7bba50ab3b851eb2f50c1d4d868b1",
+      "parts": [
+        {
+          "name": "partial3702_azerite_stage_public_checkpoint.tar.xz.part000",
+          "size": 262144,
+          "sha256": "45d9f90897e160be6849859c28c8b4853e58235edcd29c9dc40ad7f855a2c296",
+          "git_blob_sha": "867f20df9a56b43534a7a4f71d8d7d4d0ecef1e4"
+        },
+        {
+          "name": "partial3702_azerite_stage_public_checkpoint.tar.xz.part001",
+          "size": 262144,
+          "sha256": "c3cb0a32d874b4b6fc2a51ac52bb3467f4d9976448f46b2fbd6392658e0bf386",
+          "git_blob_sha": "0b43a74fd61836508626fdbf2a0d4eeed90c875c"
+        },
+        {
+          "name": "partial3702_azerite_stage_public_checkpoint.tar.xz.part002",
+          "size": 262144,
+          "sha256": "fb5032cd123a48be1dc726076ea38ee5290948560c5a73e3fa58ff864956030e",
+          "git_blob_sha": "6d7dc92e96d2238b883b45351d07afc61eb6829d"
+        },
+        {
+          "name": "partial3702_azerite_stage_public_checkpoint.tar.xz.part003",
+          "size": 262144,
+          "sha256": "c9d71a1fc10ede46989833565473b05b3546fac94ead4d8b81dc663b8c7323b0",
+          "git_blob_sha": "ca31c57b08f8f1edf177b1fd6d9bea7074b7b0e5"
+        },
+        {
+          "name": "partial3702_azerite_stage_public_checkpoint.tar.xz.part004",
+          "size": 194152,
+          "sha256": "f072701b760acae320a3e5ede584ab0fa1a32d35bf71d3d7ffd8ccb8ef32191d",
+          "git_blob_sha": "747c61006bee64a7a91c89a888e71e71796c3669"
+        }
+      ],
+      "payload_hashes": {
+        "BASE_RUNTIME_MAP.json": "8588fdc48bf128628c90dd5900bf3d6180f344d591a0b2208e69e164747836ee",
+        "DEPENDENCIES.json": "1afb9fd8276bed8323af1b14aef1ece2d645eb0e3ff1cfee8176d0d6af6a57c3",
+        "PROGRESS.md": "ac5a3a9b2c5e21fdbd31871f99267f6096ce1db9a50f3f6d46947cd2c27707a0",
+        "PUBLIC_PACKAGE_SEAL.json": "2f9bc7b136cbb7d13b36482c4dfa0ecd8aa477a81a116df557d7955164107a40",
+        "README.md": "f88f91b1b32abf2883ac26c6e90248cbdb6c465e055b8a20d2416c7585638d2f",
+        "RECOVERY_MANIFEST.json": "0f4461bf2f9ff29ca168575f31b206e04d363b175233f56d2c43d393d8ac3480",
+        "RESTORE.md": "09b445d6f89d5952b22f16a21c45a1feefb0ab19b8436f2546a84d9044fe4f23",
+        "RESULT_RUNTIME_MAP.json": "3e6ac2bd4291e2fe27786d6b7d9fc22bbf9ae5296b1e17d646381fdd2a363720",
+        "SHA256SUMS": "9c59dfd1c4e827b93149fcf39442e99966bb8df6ca33ef45acfbf7225afb88f3",
+        "candidate_delta/core/adjacent_target_listeners.gd": "ee1324ff4b671bb72dc44c657c0db2f7c0cd7378520de3a09e71460fe479123f",
+        "candidate_delta/core/azerite_portrait_sources.gd": "3831095a61ef45b03976a1e08f2b3435c021d166cd11055ca572d38be743255a",
+        "candidate_delta/core/bulk_hero_damage_recruit.gd": "48f291b7eb5e958f89e738b23483a1eebbea2f7d0aa6c8d5373c5e9edf8e1da8",
+        "candidate_delta/core/catalog.gd": "c1210122aab2fdd235a2647338a9265c52cf96c2457007997c89041b6cbe9b39",
+        "candidate_delta/core/damage_listener_room.gd": "cd3c7d104698f51b8ddf6b627d1a753f442778d00adc0ddb9e3c5287b2ac8287",
+        "candidate_delta/core/dark_gift_qualification.gd": "ed387f297c5ddc1c40e35e2f5dba7cdbf30fe9a152808e74ca417f1d8062cc67",
+        "candidate_delta/core/end_turn_category_room.gd": "fb452967795c4be78e49cf25010672f760404345102a89b4e7c36b223745cecd",
+        "candidate_delta/core/lucky_egg_sources.gd": "014f9eaa6a95b438a9b5057b79fa066e3fbedd97f643db96a6fb43ecaf37868b",
+        "candidate_delta/core/patch_3702_ashen_sources.gd": "ac284bd5bc8d5cc6ce46d7301ab01fa4f8f266f668c37aa42f2d4e421861ea5d",
+        "candidate_delta/core/patch_3702_azerite_sources.gd": "3610d387001e372da68e5b780087b010a060fa06e7eeb94abb96563ee3ce3fb7",
+        "candidate_delta/core/patch_3702_tidecaller_sources.gd": "6dd0a3a99eb342a4232befa11bb890c37fcbedc6007a46a261c3b8aa2bb9c5a7",
+        "candidate_delta/core/patch_3702_twilight_sources.gd": "519c4dbd5ff2f07cdfe09c8f674ed0c1dd27737b7619bcdcb4bf0bbdd9e5baf1",
+        "candidate_delta/core/spell_cast_listeners.gd": "b3b556548099b602d132bd4fd88a92c03de56f3823054a72f628013f75681fc9",
+        "candidate_delta/data/patch_3702_ashen.json": "d404d45955c9fec952e4ed6425d82e9baf61eca342c21b81ae3446b44f6a5330",
+        "candidate_delta/data/patch_3702_azerite_overlay.json": "24dac7f3a47f31ed2c3050d90a5fe771761788b1a8730045e475900cb16335ee",
+        "candidate_delta/data/patch_3702_tidecaller_overlay.json": "7faf77570d48c5ce0396163f44904732267d1b063799870a5d797fa79fe1116f",
+        "candidate_delta/data/patch_3702_twilight_overlay.json": "8a4efa3de94b23ccd64cd346e5baa85c043528928c371b7ef9050ad03b8388f8",
+        "candidate_delta/research/patch_3702_ashen/BG32_873.xml": "04a4b89390c1eba61a5524b5ab863254e8584c5b3bdfd6580183b4dd46a163c8",
+        "candidate_delta/research/patch_3702_ashen/BG32_873_G.xml": "27a6309a8ad8a75f01cfe5099bfceb89d8665f2e9530138e0b0822acc9a4b738",
+        "candidate_delta/research/patch_3702_ashen/official_ashen_excerpt.html": "c233e798d083018fb439fa1d88d488352f85089fd3b2d379326cf430e6b8977c",
+        "candidate_delta/research/patch_3702_ashen/source_evidence.json": "5dff78109c3149fdd5ce224c8a699bc01ca1d9aa96a98857abdabcea32822643",
+        "candidate_delta/research/patch_3702_azerite/native/BG28_707.xml": "e9b02b187c58aa25d31495e238e18c579d0b8396d08b485dde679c167dd04493",
+        "candidate_delta/research/patch_3702_azerite/native/BG28_707_G.xml": "1c0caa7ca3e69051cf283a88905bc47d6f2250430240bfc097f0a028481e6ffd",
+        "candidate_delta/research/patch_3702_azerite/official_patch_azerite_excerpt.html": "c9042629d0298c00a12d88f856462b8207cb07ec65404128bc8b241ea68e0d50",
+        "candidate_delta/research/patch_3702_azerite/source_evidence.json": "1af0f8d972c2d63263f03ad1077578a95b19b9609984f988475bba023a35d848",
+        "candidate_delta/research/patch_3702_tidecaller/native/BG36_704.xml": "782ce676db0dce7f47ccea03d34d288cbaa5b3f88905f627815398d8ea825a91",
+        "candidate_delta/research/patch_3702_tidecaller/native/BG36_704_G.xml": "e6320d5aadbe9e9f9cce300ce78078fc2fe96fe1e7e228f38174fc01a66ac52f",
+        "candidate_delta/research/patch_3702_tidecaller/official_patch_tidecaller_excerpt.html": "175ee2676a4829f394d6b2c22158fda6cfc4ce3ced2299c6fbeb77c45a902007",
+        "candidate_delta/research/patch_3702_tidecaller/source_evidence.json": "98bd6e13302fe3023b4b19002bde3026edacc5b48af32189a45607545d81d96b",
+        "candidate_delta/research/patch_3702_twilight/native/BG36_703.xml": "4d249f18fe2c3dc663b2b4f3fee2516e31cb6f0b10bbf5bee623392ce6b10f74",
+        "candidate_delta/research/patch_3702_twilight/native/BG36_703_G.xml": "4984faa86c50fc3da5edb1b991e0347353b768b850752abdca4a8e5d62f37f9e",
+        "candidate_delta/research/patch_3702_twilight/official_patch_twilight_excerpt.html": "accc8b52e03182a133a44440a0cb166f3c747d7b9c3df1b4d4285034866b6d82",
+        "candidate_delta/research/patch_3702_twilight/source_evidence.json": "a3371229b2d13651730d7666b9e7978e36efa1bd92302df1af0ca75c579b9ce5",
+        "docs/evidence_archives.json": "5b7a45b9ac6a5c213c078e551cbc8ca6b8ca72df2dfdd8175d79ef7e7c31bdb8",
+        "docs/progress_ledger.json": "5d2b911aa41a94bbf1af16660d82be949127b2d060883d43a58e7de451c8991e",
+        "docs/restore_validation.json": "3f2be04bcbbc6cf3584be53d1fa8d7dfd6d41eba3770f2027dd641a19994d1f8",
+        "restore_runtime.py": "e4392ddacb31cebe6956886720c44615eeac3c7f0434291bb030efcd5450bfd9"
+      }
+    },
+    {
+      "name": "azerite_v3_catalog_room_only_native_evidence_selected.tar.xz",
+      "size": 23744,
+      "sha256": "5eaae3277fcd6f364ab26d93557eb38ebd72737ae650f876446bd136507770ab",
+      "parts": [
+        {
+          "name": "azerite_v3_catalog_room_only_native_evidence_selected.tar.xz.part000",
+          "size": 23744,
+          "sha256": "5eaae3277fcd6f364ab26d93557eb38ebd72737ae650f876446bd136507770ab",
+          "git_blob_sha": "4e82e7e9631a934bb81d302fcf8b6def28991566"
+        }
+      ],
+      "payload_hashes": {
+        "EVIDENCE_SELECTION.json": "a87f919863659722b4d956c69d5d50eec998aa15d894eb261c1f845daf9cd45d",
+        "PACKAGE_MANIFEST.json": "c85c78577977361ffac2253c7b98f51e03225d1de3d2764cc2c5e4c8b4b787a9",
+        "README.md": "c53a79249e18f80caf5aab896dac2e20485cc95e4a89e3abe3cb05b262fd3ad3",
+        "raw/COMMAND.json": "60a9decee0a3e136e1638ad682df50ac1fd2ced98a102fba0d1203eeb5c70eb4",
+        "raw/FINAL_SEAL.json": "a804bf0fc029a128948bcf4fb63969f6e9bb056b5a24c3ddb38ac63edcf7b0d2",
+        "raw/INPUT_REFERENCES.json": "e7ae221a2c4d44ebd9ab064b612196f49df14f92b1b7b37556ba87a4d532567b",
+        "raw/OUTPUT_MANIFEST.json": "ad143d6207c1d7468ad01b51883a723ba5a2e437c69026635582c5b250c57d34",
+        "raw/RESULT.json": "7e3014dd7de7b1c654f73d4e317a6f9ac4ce5c73e7e40ab82f8680c7b7c978e6",
+        "raw/azerite_reviewed_room.gd": "a9102ce7e329224f90b382e2cffaccfc5c6184dae2a4d4ee4ea66df565b3a2fe",
+        "raw/catalog_probe.gd": "311b623938d3eceec6d2e666e6e7762dd0d48ca16f45dbff0a618d424e46c246",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_catalog_report.json": "587ea928f758cf2eefb5b4afb9c966a2a16da780e373e5402df22531c8de2099",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/logs/godot.log": "87d9400f97064d87d7dbe812edd18fb9c1345618852189c15d0be3e42af0a48f",
+        "raw/engine.log": "87d9400f97064d87d7dbe812edd18fb9c1345618852189c15d0be3e42af0a48f"
+      }
+    },
+    {
+      "name": "azerite_v3_public_v5_native_evidence_selected.tar.xz",
+      "size": 193264,
+      "sha256": "cf18689eb30544328955cdc4eadc781e82b8d706bf3b8b4b989da0a07083c298",
+      "parts": [
+        {
+          "name": "azerite_v3_public_v5_native_evidence_selected.tar.xz.part000",
+          "size": 193264,
+          "sha256": "cf18689eb30544328955cdc4eadc781e82b8d706bf3b8b4b989da0a07083c298",
+          "git_blob_sha": "8e1e12b55de05246b0faedb389252e52eea26de9"
+        }
+      ],
+      "payload_hashes": {
+        "EVIDENCE_SELECTION.json": "0fef3b35b39ca626b2fddee67c18c86234a9714d71857854eedaff2423108950",
+        "PACKAGE_MANIFEST.json": "bd3084432efea24fcd682e497598ddc370006df76e83a4620de5121d68a450a3",
+        "README.md": "183eca783b941724c28242b01ccf4946dd42cb40324253735ade9b3e6b0fbede",
+        "raw/COMMAND.json": "0ec5422f324f1149bc12385d7d3e65107f4541dae0b23335c5c8478bb7a383f5",
+        "raw/EXECUTION_COPIES.json": "75bb3a0bb2df9f9cf71ce492135415314c38fad17a5d420080a7c7a97a33059e",
+        "raw/FINAL_SEAL.json": "f96542eb89c4ea2d2223d75210a653d54f2aaebe54421bb302b5e751b78f3a06",
+        "raw/INPUT_REFERENCES.json": "88c94cfc675d9dfaac9aab1287c9023408ed490fd13c97fc167db64a589ad104",
+        "raw/NATIVE_SAVE_RECEIPTS.json": "5840ce2997ed22c49e0f3f25c4c2e1c4b6a6317b1349dbf796e4fec52a942116",
+        "raw/OUTPUT_MANIFEST.json": "64334f6898611f5d92f95ea32a21082f2aeab2b6c6b6657ac45f9902fd57c301",
+        "raw/POSTVALIDATION.json": "f514f7c0ddbaf0b75eeb4b375970acd031a7d34899206e1f5dbf9dcc5f9e866f",
+        "raw/RESULT.json": "a3538a1186f285ce3f3eacb8206557cbcbddcd43c0d504343b309daf7e20d55e",
+        "raw/azerite_adapter.py": "a214b0430974ddd93ac85949e5a8a4cb08471aa0880741c9dc16097890c1dad3",
+        "raw/azerite_lifecycle_public.gd": "40a0f370c12f5ca7f5401dcf1f8079621bd47aa33fac79b981d96587e6d4cc9a",
+        "raw/azerite_postvalidate.py": "ecaa91000521417eaf44f07a0568e1ca0d0d8da4662e586a8fee1670d0e4abca",
+        "raw/azerite_readonly_observer.gd": "824bb860f53c5c6484a76d2fa5c3028eb47104923408997463f05da3698d9ef5",
+        "raw/azerite_reviewed_room.gd": "a9102ce7e329224f90b382e2cffaccfc5c6184dae2a4d4ee4ea66df565b3a2fe",
+        "raw/core_guard.py": "561692af67a3c5a3b92166f10d81650095a728885331955931b302a6d8b413ce",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_golden_azerite_lifecycle_plain_first_10.json": "6a1acd0b33663fbbd9a7e795204a1694620c656e751e3167c9da498c11d0001a",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_golden_azerite_lifecycle_plain_first_11.json": "547018f9236fad75691e9d7650e59c329b9745775a970e6172374d087499dd4c",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_golden_azerite_lifecycle_plain_first_12.json": "5e5b807266e8dd30efb6af487a51d1dd23a74fb0e217fa9f218f979bc6c85c94",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_golden_azerite_lifecycle_plain_first_13.json": "ff1c41ee2651230c4e0cab3e63ecaf3706c4ef48e36015f13fc1efb841be3e96",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_golden_azerite_lifecycle_plain_first_14.json": "1b065ce8ee7577d95e85db91c96a6f6b8c62aa058740606fadafc35c5c8cb09b",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_golden_azerite_lifecycle_plain_replay_15.json": "547018f9236fad75691e9d7650e59c329b9745775a970e6172374d087499dd4c",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_golden_azerite_lifecycle_plain_replay_16.json": "5e5b807266e8dd30efb6af487a51d1dd23a74fb0e217fa9f218f979bc6c85c94",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_golden_azerite_lifecycle_plain_replay_17.json": "ff1c41ee2651230c4e0cab3e63ecaf3706c4ef48e36015f13fc1efb841be3e96",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_golden_azerite_lifecycle_plain_replay_18.json": "1b065ce8ee7577d95e85db91c96a6f6b8c62aa058740606fadafc35c5c8cb09b",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_lifecycle_public_report.json": "f37ef4bf09ce8960b27203e00a76c63577d54f2362bb6ed819c6efde4d2d26b6",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_normal_azerite_lifecycle_plain_first_1.json": "c7f6fb137fad3e552ec4d70e69bdb98aa73ce14478bca9b8bce8d87539d74638",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_normal_azerite_lifecycle_plain_first_2.json": "b931754aacb8e09fca4ef73b9095944203ca53c743ff5786941e7cbfbbcf505e",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_normal_azerite_lifecycle_plain_first_3.json": "5348b4af9dd90afb0bf46d10f0e0169ad7142c3558611cf1b9d0a354a556dec8",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_normal_azerite_lifecycle_plain_first_4.json": "d10533689723924eadb666f09cf3a51e9c5ef93890823051c7fced70d0bc3cd8",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_normal_azerite_lifecycle_plain_first_5.json": "f174b29cb3f931fb948f87c93914793d59d93f892d37d3b77f4011748e22eaa8",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_normal_azerite_lifecycle_plain_replay_6.json": "b931754aacb8e09fca4ef73b9095944203ca53c743ff5786941e7cbfbbcf505e",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_normal_azerite_lifecycle_plain_replay_7.json": "5348b4af9dd90afb0bf46d10f0e0169ad7142c3558611cf1b9d0a354a556dec8",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_normal_azerite_lifecycle_plain_replay_8.json": "d10533689723924eadb666f09cf3a51e9c5ef93890823051c7fced70d0bc3cd8",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/azerite_normal_azerite_lifecycle_plain_replay_9.json": "f174b29cb3f931fb948f87c93914793d59d93f892d37d3b77f4011748e22eaa8",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/logs/godot.log": "cb8d2d88cfd110bdbc1e332b6bc0970a2c17eac4339966fc9cf76bab54f3ba51",
+        "raw/engine.log": "917db7d4d9bac3449a0876556be9fee86dd03601353894ab1365a3af58df9b72",
+        "raw/harness_contract.json": "88106f613f2a896de38dc8e56c86dd1c53c69cc781c8af7b72ff00f465aac9f7"
+      }
+    },
+    {
+      "name": "azerite_v3_fourspell_shared_native_evidence_selected.tar.xz",
+      "size": 54064,
+      "sha256": "8fecde500958215a3fbb27749f4824622249f4ef8304ee1c18ee10f0d9af3d75",
+      "parts": [
+        {
+          "name": "azerite_v3_fourspell_shared_native_evidence_selected.tar.xz.part000",
+          "size": 54064,
+          "sha256": "8fecde500958215a3fbb27749f4824622249f4ef8304ee1c18ee10f0d9af3d75",
+          "git_blob_sha": "59f504607ec507030d93e064718c58ea01350feb"
+        }
+      ],
+      "payload_hashes": {
+        "EVIDENCE_SELECTION.json": "35284aeecba8ba8f8d20d94f3ec19c9bf2a7cb274c692ca4aa67a52e2a4516d5",
+        "PACKAGE_MANIFEST.json": "41bf0e259119160a71c314f4ccc85cbf3c7b23b9fb53f5d77ef4a87b99285218",
+        "README.md": "88270ce824637ff9b5ecbbb770b5f748b089d70c8fe00d214ae0b2dd511524e3",
+        "raw/COMMAND.json": "1a796495ea3096f1a2847291620ef491a1b736d27c22073d10bc87325523ebbf",
+        "raw/FINAL_SEAL.json": "985d250a145560d587c424c5c0360fa66f54fb740bcb9885f8e698aed05fa591",
+        "raw/INPUT_REFERENCES.json": "3d87e32e1497cdc306dacb53ef86086bd34e96094cdaad822f7b547d28b6c69a",
+        "raw/OUTPUT_MANIFEST.json": "f23aa3ec8dda4a74af531db3cb8e179dedc80b650ddbe9e7ca4398f9250aa3f5",
+        "raw/RESULT.json": "f39a01f87066694432f14acbde6accae9c3703b1e3697cb300427fefa09659c3",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/logs/godot.log": "b4ec1ef36c7fac3b2fcf28d4a943cfdcfcdea9b2ce0205af103335cbe091712d",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_four_spells.json": "05211864af4cdde9e76553c370ff5fa479f671e55b64ebb4162fad22b2d234d0",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_natural_blessing_board_16.json": "f58ffb8961165af87abc40824189567592d6e4ccb623b39cd9a13c8c4bc7a437",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_natural_blessing_board_17.json": "30e11bc1517d9f7d92421e0822720d231626e1c0af994de62a1f6054dc227b95",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_natural_blessing_shop_18.json": "f58ffb8961165af87abc40824189567592d6e4ccb623b39cd9a13c8c4bc7a437",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_natural_blessing_shop_19.json": "5ade24b6ad393bf323ec369d6f66806e8ca74c414c23f03305b3a0cd9a763674",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_perfect_vision_board_1.json": "579ce3a765f37ab4191f0f7512828168e31aea2c21989b28a87fb0eaa18ca1f8",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_perfect_vision_board_2.json": "a55a8f4f2af4144a38441221f8d508e4040ac433b71c154caaf216861c783e9a",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_perfect_vision_board_3.json": "c37c24d06fd1653cd5033c73c728f4c1feb99e3c46bcb1e46a52623356279fab",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_perfect_vision_shop_4.json": "a266de61d4d9ddb552a14ca9dc326e18cb0853119e060ed1c667ce4226d68b6c",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_perfect_vision_shop_5.json": "f4d9e955ffaa49254f4397da3594de778f8c91cc0f8f08826a4ab0c50804c1ab",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_perfect_vision_shop_6.json": "896e10527096ac4875a0ea56b6061947c7d496a2743a1f51522a9b4341f5da55",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_tea_set_13.json": "ae31037c2509c2babb6124f9aaed6f54bf39dcd574e40659e0d0d4da99fbe079",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_tea_set_14.json": "cd21eb6daadf0439576829488c70ff3c7f405cc3e3e7e61c02ad334f3b029090",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_tea_set_15.json": "6bf06069effd76c4d8da222fc2afea7bf0a10da8fcdcb5ab16b58a190aece941",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_wave_gold_10.json": "4a7b70e47eda06002da1627dcefed8e6a686954bb0e3c0c6bf23faddfbb865af",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_wave_gold_11.json": "d2ffbb0dd3ef268c2eee0d3fcf01b5e76ad1f21968bef85feedc9a310bc3ebad",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_wave_gold_12.json": "e451d91b0009a00922a81caee99fb317989a7ac03d8d04643efa5d9c39ee6788",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_wave_gold_7.json": "31e833971b1b09fbf7c053f79f8d3f7bfdffad3407c1a20a207aedafc97c32b6",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_wave_gold_8.json": "2729cd60dc9f4ae5e2b26fc5f72ed41fec549161ce5f12fdb942259bff2fa695",
+        "raw/data/godot/app_userdata/酒馆实验室 · 单机战棋/patch_3702_wave_gold_9.json": "426f487f73c2bb4e0c08ff9c194dec9eee2355d91e89103a02b6856f59dda783",
+        "raw/engine.log": "954f58e6e428f39a9d13ea5fdc12cffb9ffe1a29afd240666c2bdce9d5c4871d",
+        "raw/payload/four_spells.gd": "3900920611866be1b53bd445b5edea2b397fad2a6378131909621c5530df173f"
+      }
+    }
+  ],
+  "old_evidence_location": "battlegrounds-backup/development/20261104T1106Z at788963d1dfb44e170c42753a8ce764aa92929cfa (11 evidence archives sidecar); public failure recovery516e at1bd99a3d164cebac23d90cf88827493633036401",
+  "scope": "Only Azerite partial lifecycle and4boundedspells freshly tested on6dd9 source. Other recorded results retain old4c42 fingerprint; no inherited retest/full identity credit."
+}
