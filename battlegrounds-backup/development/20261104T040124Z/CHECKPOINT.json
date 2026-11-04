@@ -1,0 +1,63 @@
+{
+  "format": "battlegrounds-development-checkpoint-v1",
+  "snapshot_utc": "2026-11-04T04:01:24Z",
+  "archives": [
+    {
+      "archive": "partial3702_membership_development.tar.xz",
+      "size": 19584152,
+      "sha256": "0bad7315033e4f06cecbdadf836ea58ec63c1347ac68ef1723e879ef1d355da5",
+      "parts": [
+        {
+          "path": "partial3702_membership_development.tar.xz.part000",
+          "size": 4194304,
+          "sha256": "685b110d067cb318792980410e9d2064470ff8bb67c575e58b158970cd11902c",
+          "git_blob_sha": "461c81d0a889b578fb5400f29f6cebe3e05ab978"
+        },
+        {
+          "path": "partial3702_membership_development.tar.xz.part001",
+          "size": 4194304,
+          "sha256": "7a59e6a81725dea6ba377ab988aa90a2b29e4680e40a335f027d22b764bfb13b",
+          "git_blob_sha": "08915de689c5fc97bc7bcd1e48c3f7bc2994372a"
+        },
+        {
+          "path": "partial3702_membership_development.tar.xz.part002",
+          "size": 4194304,
+          "sha256": "733cee4d3b24503f798714cad54b0a1cfbb8cdf85bc36e6845ac32a90b8c2c1d",
+          "git_blob_sha": "1d78028c7604931e83299776c2819ae4e817dd63"
+        },
+        {
+          "path": "partial3702_membership_development.tar.xz.part003",
+          "size": 4194304,
+          "sha256": "23013793091dba8bc67a48f624f912497d25de4ab26edaba4e7669f4b49d1804",
+          "git_blob_sha": "528e6d9e0f15d190d97b17ff61aff58bbbaa9855"
+        },
+        {
+          "path": "partial3702_membership_development.tar.xz.part004",
+          "size": 2806936,
+          "sha256": "8459d78c146574268546e8acb92dec932a1b70c53e6cd57708fa8253686ab374",
+          "git_blob_sha": "0c9277e93340cf46e6feae607b3194f6bcda4fa4"
+        }
+      ]
+    },
+    {
+      "archive": "patch_reconciliation_3702_20261104T0148Z.tar.xz",
+      "size": 2785124,
+      "sha256": "3f59f35e20d66beebeb91407f510165a3d48a51291ce3ce8d3538fd1b4c5b492",
+      "parts": [
+        {
+          "path": "patch_reconciliation_3702_20261104T0148Z.tar.xz.part000",
+          "size": 2785124,
+          "sha256": "3f59f35e20d66beebeb91407f510165a3d48a51291ce3ce8d3538fd1b4c5b492",
+          "git_blob_sha": "2a053b4e60fed6cd88f002abb0dc15ee6e3a4657"
+        }
+      ]
+    }
+  ],
+  "baseline_commit": "6fa7ee37aeea8c6af34b9d58e9b8dff312dd45ce",
+  "baseline_overlay_sha256": "db5b24e8f2764804f0793680e5ff7c923d765c74fd8c8494c066109245d107b3",
+  "original_release_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "embedded_predecessor_sha256": "015a73db17df85b0cf3cb0c470e14aab9068bd8af5c3097808c7567606cf152b",
+  "source_manifest_sha256": "febcee11366d1ec9b43116d7b4e9b3676fc7208789ec96bcffa9fcff3094c8cd",
+  "scope": "partial37.0.2 membership successor; exactly four bounded spell identities; Murcules partial and no new gift credit",
+  "remote_verified": false
+}
