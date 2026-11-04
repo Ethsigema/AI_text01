@@ -1,0 +1,3 @@
+# Public Azerite v3 source recovery
+
+Only the specified public recovery archive is stored here. Concatenate the21 parts in MANIFEST order and verify all part and final SHA256 before extraction. Includes source compatibility revisions, exact public file seal, restoration maps/helper and preserved failure logs; no v3 Godot, Catalog-admission, gameplay, saves or complete identity acceptance. Depends on the existing27,164-file baseline/current-developmentfc08 and its841e/full6fa7 chain. Internal working drafts are excluded. Existing verified-development/full baseline pointers and all older versions are unchanged.
