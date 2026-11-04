@@ -1,10 +1,12 @@
 {
-  "format": "battlegrounds-verified-development-pointer-v1",
-  "content_commit": "81a16928e85b3e9b960bddcebdea8d6cb5d846ff",
-  "checkpoint_path": "battlegrounds-backup/development/20261104T053326Z",
-  "archive_sha256": "841e4d4cdeec1bfc6c08e2090a701fe8bc4abdfa3ea55acc7d296d1bf7cbe2fb",
-  "verified_utc": "2026-11-04T05:49:10Z",
+  "content_commit": "ba9f1c0a10a96f9849e985452b6a1662795eda44",
+  "checkpoint_path": "battlegrounds-backup/development/20261104T1106Z",
+  "archive_sha256": "fc08b555988f0ff94ae6d9dfa66218d49c23c29b81c3095c85454441c32fca36",
+  "evidence_archive_sha256": "acce037a4d8800dcda101fa1792f3ee0ec70da667b0d39271362d11bbb5ebd62",
+  "references_backed_up_and_verified": 11,
+  "source_delta_files": 24,
+  "runtime_files": 27164,
   "full_baseline_commit": "6fa7ee37aeea8c6af34b9d58e9b8dff312dd45ce",
-  "full_baseline_pointer": "battlegrounds-backup/LATEST.json",
-  "scope": "partial normal/golden Murcules reciprocal evidence; four bounded spells only; no full identity/Gift/game acceptance"
+  "requires_murcules_sha256": "841e4d4cdeec1bfc6c08e2090a701fe8bc4abdfa3ea55acc7d296d1bf7cbe2fb",
+  "scope": "partial development; four bounded spells; minion lifecycles partial; no new complete identity; overall unknown"
 }
