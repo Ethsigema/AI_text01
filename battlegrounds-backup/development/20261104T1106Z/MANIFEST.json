@@ -1,0 +1,163 @@
+{
+  "archives": [
+    {
+      "name": "partial3702_current_development_checkpoint.tar.xz",
+      "size": 1390080,
+      "sha256": "fc08b555988f0ff94ae6d9dfa66218d49c23c29b81c3095c85454441c32fca36",
+      "parts": [
+        {
+          "name": "partial3702_current_development_checkpoint.tar.xz.part000",
+          "size": 262144,
+          "sha256": "6f30dcb197e9bd801948e0b6e0ad6cbcdc6e111ced23b69954839a93702aa212",
+          "git_blob_sha": "0c771531eeef74c2d3f51da1c3aec3c7489d21bc"
+        },
+        {
+          "name": "partial3702_current_development_checkpoint.tar.xz.part001.sub0",
+          "size": 131072,
+          "sha256": "325e17342d5472494b8be8b0b1c9c54a1c4790c5a33ad1319b87dff39b32454e",
+          "git_blob_sha": "14aed30f137f85b8263927bce4e83775edf60bb2"
+        },
+        {
+          "name": "partial3702_current_development_checkpoint.tar.xz.part001.sub1",
+          "size": 131072,
+          "sha256": "0c33945062b2cf972992690ae6e3d8909d4c8f784c1c7359b367d94389e42e2e",
+          "git_blob_sha": "fd47797eecdef5fd31a301eb8dad8f334a70e89f"
+        },
+        {
+          "name": "partial3702_current_development_checkpoint.tar.xz.part002",
+          "size": 262144,
+          "sha256": "b12b26a2cfcb96f8f595e26b116aea8b0f0e5b95522c66ef2ad5a86e8ff0850e",
+          "git_blob_sha": "8ff4b41054974fa3bdfb1fdfc42383db249e6888"
+        },
+        {
+          "name": "partial3702_current_development_checkpoint.tar.xz.part003.sub0",
+          "size": 131072,
+          "sha256": "bc1047926143722e1b642a0f588b8f96eac7040ef76fa0f51bb87c3a9f111f1b",
+          "git_blob_sha": "2f5a2349c12fd097f2a0bccc994b3e0ec6b3e935"
+        },
+        {
+          "name": "partial3702_current_development_checkpoint.tar.xz.part003.sub1",
+          "size": 131072,
+          "sha256": "29f2638efc13efb7eaf2b5a76112d7e7908688df41c63986cbe16119f7534e8e",
+          "git_blob_sha": "9d263067fc263a0b29b2a130b74eb240ef1c8c2f"
+        },
+        {
+          "name": "partial3702_current_development_checkpoint.tar.xz.part004",
+          "size": 262144,
+          "sha256": "be2b618d8180b66d00b3da1ebf75f1961751192595f2ca88859c03dfdb710d74",
+          "git_blob_sha": "4a5e029c943467ddaf4419f43709257fdb6aa3e0"
+        },
+        {
+          "name": "partial3702_current_development_checkpoint.tar.xz.part005",
+          "size": 79360,
+          "sha256": "ce27e487a25211184250cbc29b55e47556ed2acecec984566b12829d7243ac9d",
+          "git_blob_sha": "cb8aac8e02051acfaf8ba2ed3d30d5b77dc8322a"
+        }
+      ]
+    },
+    {
+      "name": "referenced_native_evidence.tar",
+      "size": 604160,
+      "sha256": "acce037a4d8800dcda101fa1792f3ee0ec70da667b0d39271362d11bbb5ebd62",
+      "parts": [
+        {
+          "name": "referenced_native_evidence.tar.part000",
+          "size": 262144,
+          "sha256": "ab69439576ab6f6c52b532d78c348e37cd2b31b0a9dc0d964b3948703a047ebc",
+          "git_blob_sha": "be5d84bd3d510fdcd91d4075215ed07dd6ba9862"
+        },
+        {
+          "name": "referenced_native_evidence.tar.part001",
+          "size": 262144,
+          "sha256": "a59fcddeff01042033116be30be8dca63ef89f03a4e23030b6c11e906337e2c7",
+          "git_blob_sha": "1cf7afd2ea19ccdfe58ff4b68e9351db456f6e09"
+        },
+        {
+          "name": "referenced_native_evidence.tar.part002",
+          "size": 79872,
+          "sha256": "1a92bd9a76c3bd4f1817460c22b37de08bfa4302e15d0a1730e0507e517e1b6b",
+          "git_blob_sha": "e7bec824188cd585d7fc31cd6bfc5173402fb0e1"
+        }
+      ]
+    }
+  ],
+  "evidence_references": [
+    {
+      "id": "ashen_original_failed",
+      "archive": "ashen_original_failed_native_evidence_selected.tar.xz",
+      "sha256": "180d46cd39a76dc4e1d744e962eb0ef140b9cdbf040acf9ce5415237e0858220",
+      "size": 118760,
+      "scope": "Original raw evidence subset; preserve original RESULT and diagnostics. Referenced archive is separate, not embedded."
+    },
+    {
+      "id": "tidecaller_success",
+      "archive": "tidecaller_success_native_evidence_selected.tar.xz",
+      "sha256": "0fc5a833d3ae7469d6cc0aee380cb11af450096e9bc96d2b9f594b51296f0cbf",
+      "size": 48840,
+      "scope": "Original raw evidence subset; preserve original RESULT and diagnostics. Referenced archive is separate, not embedded."
+    },
+    {
+      "id": "fourspell_success",
+      "archive": "fourspell_success_native_evidence_selected.tar.xz",
+      "sha256": "82ac29a96fb8ff49613b527700d2edb51decf03ad27ae69e17d21ff675c4495a",
+      "size": 52440,
+      "scope": "Original raw evidence subset; preserve original RESULT and diagnostics. Referenced archive is separate, not embedded."
+    },
+    {
+      "id": "murcules_original_failed",
+      "archive": "murcules_original_failed_native_evidence_selected.tar.xz",
+      "sha256": "ab47a9faa3ba942b370bfd7d7071ec47cb953d1b6a0718d853b42d51e1b8bdc1",
+      "size": 42320,
+      "scope": "Original raw evidence subset; preserve original RESULT and diagnostics. Referenced archive is separate, not embedded."
+    },
+    {
+      "id": "synthetic_guards_only",
+      "archive": "synthetic_guards_only_native_evidence_selected.tar.xz",
+      "sha256": "e11b66145d1b554c05ac3c1df16653263ddcbcbea5922f7ae92e8bafc1c1ae0e",
+      "size": 14972,
+      "scope": "Original raw evidence subset; preserve original RESULT and diagnostics. Referenced archive is separate, not embedded."
+    },
+    {
+      "id": "murcules_batch_1",
+      "archive": "murcules_batch_1_native_evidence_selected.tar.xz",
+      "sha256": "e9ca29d261c29e232a2e31b18aa55a4b30e98d9f92864f7380626dc50911c3bb",
+      "size": 56940,
+      "scope": "Original raw evidence subset; preserve original RESULT and diagnostics. Referenced archive is separate, not embedded."
+    },
+    {
+      "id": "murcules_batch_2",
+      "archive": "murcules_batch_2_native_evidence_selected.tar.xz",
+      "sha256": "649ddc3932c53394448c3ebfafe44af9bd7039251740b8846d5b30dd491b7aa2",
+      "size": 61676,
+      "scope": "Original raw evidence subset; preserve original RESULT and diagnostics. Referenced archive is separate, not embedded."
+    },
+    {
+      "id": "murcules_batch_3",
+      "archive": "murcules_batch_3_native_evidence_selected.tar.xz",
+      "sha256": "d423a41cdcf00a44f59fd7c4344ecfc1950839c1d1260e9497b559217e3bcbc7",
+      "size": 70692,
+      "scope": "Original raw evidence subset; preserve original RESULT and diagnostics. Referenced archive is separate, not embedded."
+    },
+    {
+      "id": "aggregate_actual",
+      "archive": "aggregate_actual_native_evidence_selected.tar.xz",
+      "sha256": "fb502990d0227cc63eb6d5c67187eb215effccd7448a0c3ba5778d3a1caa62ed",
+      "size": 3156,
+      "scope": "Original raw evidence subset; preserve original RESULT and diagnostics. Referenced archive is separate, not embedded."
+    },
+    {
+      "id": "twilight",
+      "archive": "twilight_native_evidence_selected.tar.xz",
+      "sha256": "be18f4023891d4a7f617156405e54d282312715d0e5dcb8ab41abc8803e28d44",
+      "size": 55880,
+      "scope": "Original narrow normal/golden lifecycle evidence subset, with probe provenance; not complete identity."
+    },
+    {
+      "id": "ashen_v3_supplement",
+      "archive": "ashen_validator_v3_supplement.tar.gz",
+      "sha256": "98d2ed2e0efa7bc990463f181ad47ab5ea882d78200b65b826fb3904e2d68496",
+      "size": 43733,
+      "scope": "Separate read-only revalidation of the unchanged original Ashen report and eight saves; not a new engine run or rewrite of the original failure."
+    }
+  ]
+}
