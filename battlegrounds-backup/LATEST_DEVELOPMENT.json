@@ -1,12 +1,14 @@
 {
-  "content_commit": "ba9f1c0a10a96f9849e985452b6a1662795eda44",
-  "checkpoint_path": "battlegrounds-backup/development/20261104T1106Z",
-  "archive_sha256": "fc08b555988f0ff94ae6d9dfa66218d49c23c29b81c3095c85454441c32fca36",
-  "evidence_archive_sha256": "acce037a4d8800dcda101fa1792f3ee0ec70da667b0d39271362d11bbb5ebd62",
-  "references_backed_up_and_verified": 11,
-  "source_delta_files": 24,
-  "runtime_files": 27164,
+  "content_commit": "31ab5b459d0a080f52c8bac03727a867516d5bee",
+  "checkpoint_path": "battlegrounds-backup/development/20261104T1229Z-azerite",
+  "archive_sha256": "6bf96f3ec66857f0a6468dd420b62816cdd7bba50ab3b851eb2f50c1d4d868b1",
+  "runtime_files": 27170,
+  "source_delta_files": 33,
+  "current_fingerprint": "6dd9ffb91c9e44020892a8718a028a62f827dbb3cbef4c317f5d9cc78867a8a6",
+  "fresh_scope": "Partial Azerite and4boundedspells only; other results pinned prior4c42 fingerprint",
+  "new_evidence_archives": 3,
+  "prior_11_evidence_location": "development/20261104T1106Z",
   "full_baseline_commit": "6fa7ee37aeea8c6af34b9d58e9b8dff312dd45ce",
   "requires_murcules_sha256": "841e4d4cdeec1bfc6c08e2090a701fe8bc4abdfa3ea55acc7d296d1bf7cbe2fb",
-  "scope": "partial development; four bounded spells; minion lifecycles partial; no new complete identity; overall unknown"
+  "overall_completion": "unknown"
 }
