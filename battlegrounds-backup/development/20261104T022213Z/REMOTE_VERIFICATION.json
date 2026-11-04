@@ -1,0 +1,19 @@
+{
+  "verified_utc": "2026-11-04T03:15:16.267287+00:00",
+  "content_commit": "f90abf62f6570ea141f0389870beb2c244753767",
+  "fresh_remote_clone": true,
+  "archive_sha256": "015a73db17df85b0cf3cb0c470e14aab9068bd8af5c3097808c7567606cf152b",
+  "archive_size": 12169144,
+  "parts_verified": 3,
+  "safe_unique_regular_members": 184,
+  "payload_hashes_verified": 180,
+  "embedded_prerequisites_verified": [
+    "prerequisites/armor_promotion_addendum_20261104T011720Z.tar.xz",
+    "prerequisites/resource_partial_20261104T015119Z.tar.xz",
+    "prerequisites/siphon_armor_development_20261104T005512Z.tar.xz"
+  ],
+  "full_backup_latest_pointer_unchanged": true,
+  "full_restore_executed": false,
+  "engine_executed": false,
+  "restore_requires_immutable_full_baseline": "6fa7ee37aeea8c6af34b9d58e9b8dff312dd45ce"
+}
