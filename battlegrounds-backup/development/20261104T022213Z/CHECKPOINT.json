@@ -1,0 +1,35 @@
+{
+  "format": "battlegrounds-development-checkpoint-v1",
+  "snapshot_utc": "2026-11-04T02:22:13Z",
+  "archive": "partial3702_four_spells_development.tar.xz",
+  "size": 12169144,
+  "sha256": "015a73db17df85b0cf3cb0c470e14aab9068bd8af5c3097808c7567606cf152b",
+  "parts": [
+    {
+      "path": "partial3702_four_spells.tar.xz.part000",
+      "size": 4194304,
+      "sha256": "a9eaa45edb7576c2bc3388811c727a7b65a745566afb947b1db89d886a4e0196",
+      "git_blob_sha": "b4e99a86a6b3ce0f4c94eb6b2e3bdaab7f1bc34b"
+    },
+    {
+      "path": "partial3702_four_spells.tar.xz.part001",
+      "size": 4194304,
+      "sha256": "0d9ed156272dd5b32a61216ae6b7126cc404d5177475046a136ab14db73d7f8c",
+      "git_blob_sha": "12534ca98108d1adcf2af584ee9d38674d4b6aee"
+    },
+    {
+      "path": "partial3702_four_spells.tar.xz.part002",
+      "size": 3780536,
+      "sha256": "86a6917b5c5a85412f7e574870171ea8d7da0378e4d8ee1d8199e725f8e2f993",
+      "git_blob_sha": "83e2f874a1401ac2de5afa34f6f434874ed581d8"
+    }
+  ],
+  "baseline_commit": "6fa7ee37aeea8c6af34b9d58e9b8dff312dd45ce",
+  "baseline_overlay_sha256": "db5b24e8f2764804f0793680e5ff7c923d765c74fd8c8494c066109245d107b3",
+  "original_release_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "status": "bounded_partial_3702_not_full_latest_release",
+  "archive_members": 184,
+  "archive_payload_files": 180,
+  "source_manifest_sha256": "50b763b86882664fb3fe3e1d34a519a1604fd89bc68b01d4bd3aa4e7844a0249",
+  "remote_readback_verified": false
+}
