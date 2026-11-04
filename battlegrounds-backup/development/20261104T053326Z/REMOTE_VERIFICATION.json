@@ -1,0 +1,21 @@
+{
+  "verified_utc": "2026-11-04T05:49:10.238749+00:00",
+  "content_commit": "81a16928e85b3e9b960bddcebdea8d6cb5d846ff",
+  "fresh_remote_clone": true,
+  "archive_sha256": "841e4d4cdeec1bfc6c08e2090a701fe8bc4abdfa3ea55acc7d296d1bf7cbe2fb",
+  "archive_size": 24182480,
+  "parts_verified": 6,
+  "safe_unique_regular_members": 314,
+  "payload_hashes_verified": 310,
+  "embedded_archives": [
+    {
+      "path": "prerequisites/partial3702_membership_development.tar.xz",
+      "sha256": "0bad7315033e4f06cecbdadf836ea58ec63c1347ac68ef1723e879ef1d355da5",
+      "size": 19584152
+    }
+  ],
+  "full_backup_pointer_unchanged": true,
+  "full_restore_executed": false,
+  "engine_executed": false,
+  "full_baseline_dependency": "6fa7ee37aeea8c6af34b9d58e9b8dff312dd45ce"
+}
