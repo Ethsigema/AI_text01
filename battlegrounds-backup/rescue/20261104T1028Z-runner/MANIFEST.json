@@ -1,0 +1,68 @@
+{
+  "archive": "runner_rescue_20261104T0903Z_initial.tar.gz",
+  "size": 2465600,
+  "sha256": "d8089c51301180dc53fce78edeb4965a66e4ba764d05da74e09b13b29b23d8cb",
+  "parts": [
+    {
+      "name": "runner.tar.gz.part000",
+      "size": 262144,
+      "sha256": "2a5bc6cf5248d108d7241c9116e1565d67e4d179e474660aef53afa30387f2ba",
+      "git_blob_sha": "f17817072ba14167064082eb987299c531fed6cd"
+    },
+    {
+      "name": "runner.tar.gz.part001",
+      "size": 262144,
+      "sha256": "c3a9e81de795f8b61dc98d77c8f242becacc0641b11a84bba74e9980c1f1f5d1",
+      "git_blob_sha": "4eab41d029954dbfc17df17c49440f43fd58a4f3"
+    },
+    {
+      "name": "runner.tar.gz.part002",
+      "size": 262144,
+      "sha256": "79fb258717c8fd0f1b0c0dc8a03890896daa1135ca0403fb955bee0cd4169e79",
+      "git_blob_sha": "535d3c615077efdfec41c1bd34dd38a8a7ac18e7"
+    },
+    {
+      "name": "runner.tar.gz.part003",
+      "size": 262144,
+      "sha256": "9c3c34029ea48fa5f4c6612c6310a4ad7788cfbff553076b203d8c2a23f38ab9",
+      "git_blob_sha": "619323dc1e8d5085eaa2e39ff76c55c0dc45aeb2"
+    },
+    {
+      "name": "runner.tar.gz.part004",
+      "size": 262144,
+      "sha256": "0bebcb0cb7fe1fe6b11e5a9681429acb942abdf5ecba3d2028f6aa4674430326",
+      "git_blob_sha": "62fc149c14f263f1056d079cd5f59ed2988450d8"
+    },
+    {
+      "name": "runner.tar.gz.part005",
+      "size": 262144,
+      "sha256": "1bd9c328a7b8af0976c07ec4b1ba0c7179edb9e8e443d96435c8d37a7f63e111",
+      "git_blob_sha": "f3fcf0c37c52cc60eca6755794eb9e41e8b85b14"
+    },
+    {
+      "name": "runner.tar.gz.part006",
+      "size": 262144,
+      "sha256": "64ae990e8efdfc15936be28cf21f2500e4b188a576b963b5cf00b0100184ff93",
+      "git_blob_sha": "8306570fa96f783f18ea892c020859e190c91612"
+    },
+    {
+      "name": "runner.tar.gz.part007",
+      "size": 262144,
+      "sha256": "26a112bb448b5abcecbad9384fba670885ffd245e4a989d218c0c806614dc0bf",
+      "git_blob_sha": "ec391c1da47df1cf94b789d32a8e8cd43c5c096d"
+    },
+    {
+      "name": "runner.tar.gz.part008",
+      "size": 262144,
+      "sha256": "c4be06f73cca9dafb45ffd626708adaebda97ec2935ca0799518bcce0c072a50",
+      "git_blob_sha": "fe9ea72a8a23380e5972bb4fd92779925671e198"
+    },
+    {
+      "name": "runner.tar.gz.part009",
+      "size": 106304,
+      "sha256": "8afc0d1d716fdaf36e24875dc9d71a96ed9ac2de5ae483af685d5453ea2f80bb",
+      "git_blob_sha": "157d583742522667e616eb04f475a0ba90d38d5e"
+    }
+  ],
+  "scope": "recovered runner control package; no new engine acceptance; requires previous source checkpoints; old absolute paths may need review"
+}
