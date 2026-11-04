@@ -1,0 +1,51 @@
+{
+  "format": "battlegrounds-development-checkpoint-v1",
+  "snapshot_utc": "2026-11-04T05:33:26Z",
+  "archive": "partial3702_murcules_reciprocal_development.tar.xz",
+  "size": 24182480,
+  "sha256": "841e4d4cdeec1bfc6c08e2090a701fe8bc4abdfa3ea55acc7d296d1bf7cbe2fb",
+  "parts": [
+    {
+      "path": "partial3702_murcules_reciprocal_development.tar.xz.part000",
+      "size": 4194304,
+      "sha256": "8925119a6f2eefd6aaed57f981bab9de682615f7395e9c2684e63cc3ceb68443",
+      "git_blob_sha": "a80ed7540612592696e115994c138d17cdf2ce48"
+    },
+    {
+      "path": "partial3702_murcules_reciprocal_development.tar.xz.part001",
+      "size": 4194304,
+      "sha256": "b2fccc66d6c095fbd672d3f78f8d28bdac10972bdb30e497d5a7f7012a4ecee0",
+      "git_blob_sha": "35402211f7c9d48d101387bed6baa2d08fd5067c"
+    },
+    {
+      "path": "partial3702_murcules_reciprocal_development.tar.xz.part002",
+      "size": 4194304,
+      "sha256": "1db457570c0b942217438a1e90e421aa9592224cad27ac59ce9b7d37cd1d01ff",
+      "git_blob_sha": "83719f5a8492602192161dd48728327518abe8bb"
+    },
+    {
+      "path": "partial3702_murcules_reciprocal_development.tar.xz.part003",
+      "size": 4194304,
+      "sha256": "8c498c6b28d3ec2cac1a33fd4c3b376adc4f23cf23a434c126feca993bacc51f",
+      "git_blob_sha": "338317fb8f80b0be5a159af2a6c2193a3592ef4e"
+    },
+    {
+      "path": "partial3702_murcules_reciprocal_development.tar.xz.part004",
+      "size": 4194304,
+      "sha256": "02c8a0e0222644f60d94b6338dbaef3e6f756f2a80d0a8b1637734bc2c0c7362",
+      "git_blob_sha": "f82f0a52677bf498cb03afc0440d67695492be34"
+    },
+    {
+      "path": "partial3702_murcules_reciprocal_development.tar.xz.part005",
+      "size": 3210960,
+      "sha256": "d5eac58f2a846f72ab8f6bb4b985722eb9d5db11ab7b7a47df0a2da3feaebdd7",
+      "git_blob_sha": "ce5349c20e56598f9ca3d634af43909395d1335e"
+    }
+  ],
+  "members": 314,
+  "payloads": 310,
+  "baseline_commit": "6fa7ee37aeea8c6af34b9d58e9b8dff312dd45ce",
+  "embedded_predecessor_sha256": "0bad7315033e4f06cecbdadf836ea58ec63c1347ac68ef1723e879ef1d355da5",
+  "scope": "bounded normal/golden Murcules reciprocal evidence; four bounded spells only; no fifth complete identity or Gift credit",
+  "remote_verified": false
+}
