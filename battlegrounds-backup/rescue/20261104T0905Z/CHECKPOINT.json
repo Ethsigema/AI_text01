@@ -1,0 +1,26 @@
+{
+  "status": "recovered_source_and_tests_no_new_Godot_acceptance",
+  "files": [
+    {
+      "name": "twilight_source_v2.tar.gz",
+      "git_blob_sha": "5fdb39faa59fc7dc3d997af45b1c1ec41da338c7",
+      "size": 345534,
+      "sha256": "321a89825871dfaa2623f8d8cfdeefae33f51419608041a1901606ed88d38d30"
+    },
+    {
+      "name": "twilight_tests_v1.tar.xz",
+      "git_blob_sha": "f2f63be9f2769adc5f532e7b374366bdbff7606a",
+      "size": 21236,
+      "sha256": "bfcdbc94522523a1a501ddd62cbc9be96ff00b4213fdf1becd2e6b301e62479c"
+    },
+    {
+      "name": "twilight_tests_v2.tar.xz",
+      "git_blob_sha": "d53da2a0229255516fe19e0a2df4c2e6bc208146",
+      "size": 24992,
+      "sha256": "a9e136bc483f109ba53daab509fc7f37b74adbfdd603f29d316314196daa207b"
+    }
+  ],
+  "requires": "0453 early source checkpoint,841e Murcules chain,6fa7 full baseline; do not treat recovered code as native test execution",
+  "preferred_tests": "twilight_tests_v2.tar.xz",
+  "old_versions_preserved": true
+}
