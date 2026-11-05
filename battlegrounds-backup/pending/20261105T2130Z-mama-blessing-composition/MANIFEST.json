@@ -1,0 +1,195 @@
+{
+  "status": "Bounded Mama plus Blessing composition candidate; no promotion or complete-game claim",
+  "archive": "partial3702_mama_blessing_composition_candidate_v1_20261105T2130Z.tar.xz",
+  "sha256": "f78c1fd2413264c89c3d99fc38540257fa2c8212da75c92f45796a217fec04b7",
+  "bytes": 1048292,
+  "parts": [
+    {
+      "name": "partial3702_mama_blessing_composition_candidate_v1_20261105T2130Z.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "70dd95402837272e294903cd3f908483a0d8fa8b97c4bf36328f56952784b30c"
+    },
+    {
+      "name": "partial3702_mama_blessing_composition_candidate_v1_20261105T2130Z.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "270bbb31d7fe9144fa38ec5c519e3bfa319f6e16c7d51d83a609d1c555d9fb78"
+    },
+    {
+      "name": "partial3702_mama_blessing_composition_candidate_v1_20261105T2130Z.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "563ef7d9a3996a58adb1de193da8c45883850116041210cea286d58ecc4805f0"
+    },
+    {
+      "name": "partial3702_mama_blessing_composition_candidate_v1_20261105T2130Z.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "4ed3e5871825bd26e1626544d57e203abbb03971857127688761f2c7ed539bba"
+    },
+    {
+      "name": "partial3702_mama_blessing_composition_candidate_v1_20261105T2130Z.tar.xz.part004",
+      "bytes": 48292,
+      "sha256": "fd545e87c8b1f3176185191521805d7b3af24e04ecb19b27610dcf81a9729dfd"
+    }
+  ],
+  "files": {
+    "mama_blessing_composition_candidate_v1/BASE_MAP.json": {
+      "bytes": 4497750,
+      "sha256": "5a1709ffa64cac6d082ce53ac06ebfcb2e164c8e34793ad5568f7c42e5264601"
+    },
+    "mama_blessing_composition_candidate_v1/EVIDENCE_REPLAY_NOTES.md": {
+      "bytes": 484,
+      "sha256": "9f03ff94bcfeb5f86213d77aca1ba129503f5d7e4ad6ec8e1275ce4476885b2c"
+    },
+    "mama_blessing_composition_candidate_v1/EXPECTED_CURRENT_ROWS.json": {
+      "bytes": 47888,
+      "sha256": "6234c2a55d8308846748e5484cd70585f8594bb6c6bd50715193ff820d4ec169"
+    },
+    "mama_blessing_composition_candidate_v1/EXPECTED_ROOM.json": {
+      "bytes": 1661,
+      "sha256": "9d525aa670313fe883501be8c0717094c48c4a673cae873be5483a5544854c8e"
+    },
+    "mama_blessing_composition_candidate_v1/README.md": {
+      "bytes": 2751,
+      "sha256": "16b475214aa947d7dfa51ff904a9e8a9be4021cb625fd4cad94f9cc0d34b9cf9"
+    },
+    "mama_blessing_composition_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 5347,
+      "sha256": "158857de7a432e27c70fb77db15fc9378ea3f702b24b77d1c05516ee274428bf"
+    },
+    "mama_blessing_composition_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 1504,
+      "sha256": "55bc5f63e95222b1df94cefa539c2ed815a2e9bcabfc0a4b730ec7f1838904b3"
+    },
+    "mama_blessing_composition_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4497896,
+      "sha256": "707a7f814fb9b51fa9dedb2688b6ad21c75eafd557ec59b102141796b4f9f41f"
+    },
+    "mama_blessing_composition_candidate_v1/audit_run.py": {
+      "bytes": 3338,
+      "sha256": "c3dd0803cfcdc000e08b55d0349c8884b6105465f9e0edbd0ddcab91e8c25e4a"
+    },
+    "mama_blessing_composition_candidate_v1/delta/core/beetle_blessing_host.gd": {
+      "bytes": 18925,
+      "sha256": "978bca1caf7adb9533f2f672d1165e2e6c4d15e51611b170eccf594bfe7289d7"
+    },
+    "mama_blessing_composition_candidate_v1/delta/core/mama_blessing_composition.gd": {
+      "bytes": 6224,
+      "sha256": "938030efbe488052fc136be0366a8f9ec4850589fbd32083dd9c158bc21536da"
+    },
+    "mama_blessing_composition_candidate_v1/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "ecc95febe15f8b75aec95da0fb2d971a3b81d21235d401f2c6351bd56b4b6a5a"
+    },
+    "mama_blessing_composition_candidate_v1/delta/core/sthera_sticker_preview.gd": {
+      "bytes": 25039,
+      "sha256": "5cc8ac847102f344337868c22a555f8ac9735d466d036cdb754a5106ed312496"
+    },
+    "mama_blessing_composition_candidate_v1/gate.gd": {
+      "bytes": 18667,
+      "sha256": "f6702960a3beb7510b5295e514d87e5e21d9393015f33225cc6ac524685bd90e"
+    },
+    "mama_blessing_composition_candidate_v1/gate_no_mama.gd": {
+      "bytes": 18250,
+      "sha256": "92f6109cc7a9606c2dbd93f067ccb469a71e4befe5a87d8451f1af2c45f909a1"
+    },
+    "mama_blessing_composition_candidate_v1/helper_tests.gd": {
+      "bytes": 4120,
+      "sha256": "0c217ccd219390cc1d5d1df551373513c61b809efbdd6e74f84dfab3f8555497"
+    },
+    "mama_blessing_composition_candidate_v1/helper_tests_v2.log": {
+      "bytes": 170,
+      "sha256": "629dff43a2287892b5980ed654eaa6a36a36ab4dfd1f794a1cb643c76e8057b8"
+    },
+    "mama_blessing_composition_candidate_v1/parse_beetle_blessing_host.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "mama_blessing_composition_candidate_v1/parse_helper_v2.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "mama_blessing_composition_candidate_v1/parse_sthera_sticker_preview.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "mama_blessing_composition_candidate_v1/restore_delta.py": {
+      "bytes": 1138,
+      "sha256": "90e11629e8ca9852145c5d60baaafcd0ba66aef5d425c8465bd3d0d4e66b3e77"
+    },
+    "mama_blessing_composition_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "mama_blessing_composition_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 501,
+      "sha256": "9854d1845d5c796934b5703a0e1b4e4009636c2da621b35eedf65217f0b1c1ca"
+    },
+    "mama_blessing_composition_candidate_v1/run_1/SUPPLEMENTAL_AUDIT.json": {
+      "bytes": 848,
+      "sha256": "231a1e78b4a43781f71923d5ec973f2782f40282f1fd5a464166bdaf08911a48"
+    },
+    "mama_blessing_composition_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 416,
+      "sha256": "e70d4a58eb38410f8bac2c91318082b9b0ab8e853cdfba28859b105721c92a18"
+    },
+    "mama_blessing_composition_candidate_v1/run_1/data/initial.native_save.json": {
+      "bytes": 28239,
+      "sha256": "af7613259af9ea6105771f752f6439fce414e23c590e9de620967f1924e07a6d"
+    },
+    "mama_blessing_composition_candidate_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 62362,
+      "sha256": "90783708a4b3b47698781d0ff1bbc3ddb77a1e8978121677493217bc3ab23eda"
+    },
+    "mama_blessing_composition_candidate_v1/run_1/data/report.json": {
+      "bytes": 5197971,
+      "sha256": "684468b66a0f9d51e6c5afa51f709ff55273f25c7d056830cf5a45784ce2ec0f"
+    },
+    "mama_blessing_composition_candidate_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 79480,
+      "sha256": "3be068bca0511c6e2d5fa595130ebf79a1a001d79920a31f353081451ce17433"
+    },
+    "mama_blessing_composition_candidate_v1/run_1/native.log": {
+      "bytes": 1423,
+      "sha256": "1bf700921c4b745641bb499ffad96f18483f1befe9b1f5fe5fb4b615d52fc21b"
+    },
+    "mama_blessing_composition_candidate_v1/run_no_mama/PROCESS.json": {
+      "bytes": 509,
+      "sha256": "dff76e8b3493580017baeb7bf13d8165d5e3193f3459d3058a53cd96940d9cd5"
+    },
+    "mama_blessing_composition_candidate_v1/run_no_mama/VALIDATION.json": {
+      "bytes": 241,
+      "sha256": "38639de3bd673022bf00021d7b1260f0ed80421018ea5e9903691a8c5480dd57"
+    },
+    "mama_blessing_composition_candidate_v1/run_no_mama/data/initial.native_save.json": {
+      "bytes": 28212,
+      "sha256": "6b810c3f47ec07b76a06a029355ba9f2d8c211ddcc9d215195b97cd5de0db283"
+    },
+    "mama_blessing_composition_candidate_v1/run_no_mama/data/prefix.native_save.json": {
+      "bytes": 57096,
+      "sha256": "d2353eccd3d72bfb7966b6895054c9f5ecc8256c7d3ddbc8ad7844f173e5900e"
+    },
+    "mama_blessing_composition_candidate_v1/run_no_mama/data/report.json": {
+      "bytes": 4155148,
+      "sha256": "9e94bbc32ed93cfc8181470455b23f79d2510c3553a4cf823ad2e1a8b7264275"
+    },
+    "mama_blessing_composition_candidate_v1/run_no_mama/data/terminal.native_save.json": {
+      "bytes": 72409,
+      "sha256": "181499b940ed648cb8bb5aa62d6fae1145a75fc1bbdfae5c7a564ccbfbdcfa0f"
+    },
+    "mama_blessing_composition_candidate_v1/run_no_mama/native.log": {
+      "bytes": 1198,
+      "sha256": "65dd6654179d1dbd5231cc6cae2827d9c4efd266d14f1b5e1bc904a073f31fe5"
+    },
+    "mama_blessing_composition_candidate_v1/run_no_mama.py": {
+      "bytes": 1172,
+      "sha256": "be24d47226b5449ad8c92ee0280398c7399a89e77d697be4dc569c56dcae2b35"
+    },
+    "mama_blessing_composition_candidate_v1/validate_control.py": {
+      "bytes": 2176,
+      "sha256": "cf6ea73e900ad8ea04e3dd11d9bec865f7c5e61885f156b2423198c4bec82bef"
+    },
+    "mama_blessing_composition_candidate_v1/validate_run.py": {
+      "bytes": 3424,
+      "sha256": "eeb7ead8b2ac019a1f0caf84d69a1c76a2a5341033b86d7b075c05dc15a4ab88"
+    }
+  }
+}
