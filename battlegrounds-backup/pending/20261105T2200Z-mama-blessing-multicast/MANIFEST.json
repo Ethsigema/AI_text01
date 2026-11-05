@@ -1,0 +1,119 @@
+{
+  "status": "Bounded Mama plus Blessing multicast candidate, no promotion or complete-game claim",
+  "archive": "partial3702_mama_blessing_multicast_candidate_v1.tar.xz",
+  "sha256": "ffaed8c06ab2a058bd324aba2bba2be762d1ad132d014846c45f708916afcabe",
+  "bytes": 1026252,
+  "parts": [
+    {
+      "name": "partial3702_mama_blessing_multicast_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "76b5a13da99ea7a67bc6cf65cdfb2c78df96508ae93c9e8fd7a6f0dac224942d"
+    },
+    {
+      "name": "partial3702_mama_blessing_multicast_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "2d9b18906e004c6f9564d0608bf0caf1dabced7b23ab089b4ad8ebe9947bc8b2"
+    },
+    {
+      "name": "partial3702_mama_blessing_multicast_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "e9956a09e0c63cc82ac72f990ac7f5187393443e0cc39988ae01821328b6442e"
+    },
+    {
+      "name": "partial3702_mama_blessing_multicast_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "48e3653289244468d5896ba4f0fd87a68815f6b0519f095e80ce9053e4955f8f"
+    },
+    {
+      "name": "partial3702_mama_blessing_multicast_candidate_v1.tar.xz.part004",
+      "bytes": 26252,
+      "sha256": "9efd4f52590729828b3ee3742de9d451c1e67ab73da534cf8ad0f6f74490befc"
+    }
+  ],
+  "files": {
+    "mama_blessing_multicast_candidate_v1/BASE_MAP.json": {
+      "bytes": 4497896,
+      "sha256": "707a7f814fb9b51fa9dedb2688b6ad21c75eafd557ec59b102141796b4f9f41f"
+    },
+    "mama_blessing_multicast_candidate_v1/README.md": {
+      "bytes": 2855,
+      "sha256": "4ba678da0f026535e0da1e6c1c7757ea57f720e24cf8a0efbdf9e6f7c2275571"
+    },
+    "mama_blessing_multicast_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 2658,
+      "sha256": "c026f889d0744bfbe0388eac364c721de41375b0fc11826c3e4d6ec3ef33f747"
+    },
+    "mama_blessing_multicast_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 528,
+      "sha256": "02cdbc3c83c4453688281058148f22ca3a62e1a19ae11726b1af27f7b5d47ac6"
+    },
+    "mama_blessing_multicast_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4497896,
+      "sha256": "49f962e950a0e6e10bb2d91b957a6173dfaf58d401bf8c399fba3d498da901ae"
+    },
+    "mama_blessing_multicast_candidate_v1/delta/core/mama_blessing_composition.gd": {
+      "bytes": 6646,
+      "sha256": "4f0638ca3615e104c42fbaaa5b06c78100c9df85c3174d07ea2c416911776203"
+    },
+    "mama_blessing_multicast_candidate_v1/gate.gd": {
+      "bytes": 18857,
+      "sha256": "176ef6dc058afb4fcca23c063e5ee4eddee67970386b2fc4d99a2a8d704e10aa"
+    },
+    "mama_blessing_multicast_candidate_v1/helper_tests.gd": {
+      "bytes": 5112,
+      "sha256": "483d38b34afd0360f5938d7a82ac3b587cb03a127d0813b5a8c4d6e07f31fda0"
+    },
+    "mama_blessing_multicast_candidate_v1/helper_tests.log": {
+      "bytes": 1333,
+      "sha256": "e2558f171ce8cff544a738eaa54b8cdf4b064b2e4af2ee67b3324490e32652c9"
+    },
+    "mama_blessing_multicast_candidate_v1/helper_tests_v2.log": {
+      "bytes": 170,
+      "sha256": "47f29fddd25c2cf2f16968fd2a7fb79d70840ffb16088a9a67d672de484acfa7"
+    },
+    "mama_blessing_multicast_candidate_v1/helper_tests_v3.log": {
+      "bytes": 170,
+      "sha256": "5b6e8782f50fc6ff40b10dd3acdcb9e013901bd6b259c2113754e6a08b4160bf"
+    },
+    "mama_blessing_multicast_candidate_v1/restore_delta.py": {
+      "bytes": 1138,
+      "sha256": "90e11629e8ca9852145c5d60baaafcd0ba66aef5d425c8465bd3d0d4e66b3e77"
+    },
+    "mama_blessing_multicast_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "mama_blessing_multicast_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 496,
+      "sha256": "b8d6eeb581303b1906eb05cd0894cb6703fabc50367a9062f294b44874ea5dd0"
+    },
+    "mama_blessing_multicast_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 417,
+      "sha256": "b944b0cce7f94ccc813222df70110cbf37f11954adec65be6b3e1bde0de6f3b3"
+    },
+    "mama_blessing_multicast_candidate_v1/run_1/data/initial.native_save.json": {
+      "bytes": 28239,
+      "sha256": "1aef00f81968d9189956a79a3c9b6fd50eba1ed712b38d4be8a6b0a210c459b1"
+    },
+    "mama_blessing_multicast_candidate_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 72120,
+      "sha256": "819a9b4e1a224e24f0dcee2c5c870ec6d6beb94344414516cd378fd080f3c37b"
+    },
+    "mama_blessing_multicast_candidate_v1/run_1/data/report.json": {
+      "bytes": 6462316,
+      "sha256": "8cdee51dea2047a72d86ab444c54fb5bf1e724fef44b1868e82cdcd45e4fa6b0"
+    },
+    "mama_blessing_multicast_candidate_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 99148,
+      "sha256": "bb807a47a5b4ad7f6a05df095f09fb4d1247c793580780c5ef2bd67d703f594b"
+    },
+    "mama_blessing_multicast_candidate_v1/run_1/native.log": {
+      "bytes": 1613,
+      "sha256": "505e21eea4484fdbc5de11903dfca850346cd23ab33af7e746bda8ec6af8f001"
+    },
+    "mama_blessing_multicast_candidate_v1/validate_run.py": {
+      "bytes": 3943,
+      "sha256": "508a3526ee0d3c820b151f4eb4690eb01e26c960171147594b88d2032d4b8ed0"
+    }
+  }
+}
