@@ -1,0 +1,151 @@
+{
+  "status": "Independent bounded candidate; no promotion or full trinket acceptance",
+  "archive": "partial3702_weighted_gauntlet_candidate_v1.tar.xz",
+  "sha256": "aa0d8d2ca52bbd76aed256fedbdfc75e73dc89f82fa66aa09172e74fbeb5c971",
+  "bytes": 1139356,
+  "parts": [
+    {
+      "name": "partial3702_weighted_gauntlet_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "776b0c889de74dd2e71023b7c455a41b0061e85512d3f9af8be9c54ed4038370"
+    },
+    {
+      "name": "partial3702_weighted_gauntlet_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "26fea2da7eda7dcf82e28138039bb43caf38a467a386d935a8943a7837b30bc1"
+    },
+    {
+      "name": "partial3702_weighted_gauntlet_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "bc79112188fa8dc1b27584856a7d4b2d8c8b3092eef1098143e9876414fb848d"
+    },
+    {
+      "name": "partial3702_weighted_gauntlet_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "a6edff8ab6b96b7b89b2556c2b01b1a14760f251b03401dbe10227847a0705c6"
+    },
+    {
+      "name": "partial3702_weighted_gauntlet_candidate_v1.tar.xz.part004",
+      "bytes": 139356,
+      "sha256": "cc17949e78d430b307a8e3deee1a0718efccbc5da9d13634415337dfa30ba80d"
+    }
+  ],
+  "files": {
+    "weighted_gauntlet_candidate_v1/BASE_MAP.json": {
+      "bytes": 4503791,
+      "sha256": "685f62d876ab7e781d867430f53f418cf630bf896ca5904d144e9491e692fb44"
+    },
+    "weighted_gauntlet_candidate_v1/EXPECTED_ROW.json": {
+      "bytes": 8204,
+      "sha256": "b8493827730a368800cc36e24e9f99e2b970ae8f451aa439c7692c40d68af99c"
+    },
+    "weighted_gauntlet_candidate_v1/PROGRESS.md": {
+      "bytes": 680,
+      "sha256": "b8da8f682a0c64713f9f8170eec6d4bd2e8dabe76220852adc06c5cec6f08a58"
+    },
+    "weighted_gauntlet_candidate_v1/README.md": {
+      "bytes": 1290,
+      "sha256": "6184bd3bc213d3387e523fe9fa45c228204e63fb715c897840c202cec3c79eed"
+    },
+    "weighted_gauntlet_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 3938,
+      "sha256": "23e52cd7f4037a328646fe3971b652f66351daf7f65553718ec54b21ee3ea283"
+    },
+    "weighted_gauntlet_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 2194,
+      "sha256": "b3928daa245b126dbec1170a2f0476d651beac3ba1eb68ea07d98572901c1f88"
+    },
+    "weighted_gauntlet_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4504630,
+      "sha256": "10617de625a8c8c7c56bd517b7ba8957254c639b2c267fe61ecd846cf8520386"
+    },
+    "weighted_gauntlet_candidate_v1/build.py": {
+      "bytes": 6716,
+      "sha256": "15ec8e0634d672a3ac0c8d8c24562e0ccb9638b6de9fb7804eeff43ba4d4fef5"
+    },
+    "weighted_gauntlet_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1743741,
+      "sha256": "aa7e2eee516de7e5767180528f0e7cc756d7e99ccc217bd51819fdf37cbabed6"
+    },
+    "weighted_gauntlet_candidate_v1/delta/core/owned_recruit_stat_host.gd": {
+      "bytes": 13660,
+      "sha256": "128a0788f7e15aae9ff9a075af4e369f01d47c6513794d5a8327aab8c899fe08"
+    },
+    "weighted_gauntlet_candidate_v1/delta/core/owned_recruit_stat_sources.gd": {
+      "bytes": 24383,
+      "sha256": "2bb7280990cf3fc884d948ac7d4ea83f6c85207e90acdcad577510f5dd3bed9e"
+    },
+    "weighted_gauntlet_candidate_v1/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "babd88a9c4bb8fa852ed9ad8f86c33db8e24de62dd983d33ef4767cf4b6fe4b3"
+    },
+    "weighted_gauntlet_candidate_v1/delta/data/patch_3702_weighted_gauntlet_overlay.json": {
+      "bytes": 19916,
+      "sha256": "d3a4c1780b013c71879b46eb0a7b54389596f5b8ea85db0f37e6d6ace1f683d7"
+    },
+    "weighted_gauntlet_candidate_v1/delta/research/patch_3702_weighted_gauntlet/BG36_MagicItem_414.native.xml": {
+      "bytes": 3564,
+      "sha256": "bdafa62e6b0e763988b2230b5a7913e845902d39a46faec6486aff549dfc24b0"
+    },
+    "weighted_gauntlet_candidate_v1/delta/research/patch_3702_weighted_gauntlet/official_excerpt.html": {
+      "bytes": 280,
+      "sha256": "9fe90f021bc65e625212e05aae1432eaec8c6feec78f39b38a893cb39feb3680"
+    },
+    "weighted_gauntlet_candidate_v1/delta/research/patch_3702_weighted_gauntlet/source_evidence.json": {
+      "bytes": 874,
+      "sha256": "2073641a5eb5eefb4cbe4d809ee1430d839a54b97543e7152291dc6f3d5ffe9f"
+    },
+    "weighted_gauntlet_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 385,
+      "sha256": "3a148aa018de7a5e3da3af79ba2b646a57d97c5adda9ceeda03653f07c67f5ec"
+    },
+    "weighted_gauntlet_candidate_v1/gate.gd": {
+      "bytes": 17522,
+      "sha256": "ea3cc71e421ed6c1bc2afa3134a3708bcccafcc276d89401edcd60ce9fd5aee0"
+    },
+    "weighted_gauntlet_candidate_v1/refresh_bindings.py": {
+      "bytes": 1006,
+      "sha256": "457e362f32aa8f9e9d4b03543bd94a9f799b629f39e8e0b34ee93eaf0e1f72d2"
+    },
+    "weighted_gauntlet_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "weighted_gauntlet_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "weighted_gauntlet_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 485,
+      "sha256": "a393c77d4ea783ad60731eb2bc80fc4ffa9209a7346f164d504742a93cb2169b"
+    },
+    "weighted_gauntlet_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 736,
+      "sha256": "d3a11b4c1c52369d727936670a19485c31a6816887e06ed07ca4fe10568e58f8"
+    },
+    "weighted_gauntlet_candidate_v1/run_1/data/initial.native_save.json": {
+      "bytes": 19442,
+      "sha256": "1ebc650004ce2d565a5ca8c67d36f383f5c66c566efd9110c86401380c763dd0"
+    },
+    "weighted_gauntlet_candidate_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 62976,
+      "sha256": "24a0ee44cb72a4240fcb765c0cdb22074a00dc359edefef263be542061915cd9"
+    },
+    "weighted_gauntlet_candidate_v1/run_1/data/report.json": {
+      "bytes": 5351606,
+      "sha256": "1f43e81a857931e8833eb618ae85d05aa03a3169833deec38b0337cc837d5012"
+    },
+    "weighted_gauntlet_candidate_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 77835,
+      "sha256": "0216dacbb6d2b67a6a2b10708e5b7b6c8325b2def77d9ee36dd039382d2241eb"
+    },
+    "weighted_gauntlet_candidate_v1/run_1/native.log": {
+      "bytes": 1612,
+      "sha256": "d9879f8c68e1e28f47493dc0d784fb4cfc0fea5831097f9b1120b1d3c1bbd0cd"
+    },
+    "weighted_gauntlet_candidate_v1/validate.py": {
+      "bytes": 3742,
+      "sha256": "62c6cd0ba66ae3185e31531263e994c291bdbc8b4deaa8936b97be97fbfaea0c"
+    }
+  }
+}
