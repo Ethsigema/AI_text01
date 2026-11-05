@@ -1,14 +1,10 @@
 {
-  "content_commit": "31ab5b459d0a080f52c8bac03727a867516d5bee",
-  "checkpoint_path": "battlegrounds-backup/development/20261104T1229Z-azerite",
-  "archive_sha256": "6bf96f3ec66857f0a6468dd420b62816cdd7bba50ab3b851eb2f50c1d4d868b1",
-  "runtime_files": 27170,
-  "source_delta_files": 33,
-  "current_fingerprint": "6dd9ffb91c9e44020892a8718a028a62f827dbb3cbef4c317f5d9cc78867a8a6",
-  "fresh_scope": "Partial Azerite and4boundedspells only; other results pinned prior4c42 fingerprint",
-  "new_evidence_archives": 3,
-  "prior_11_evidence_location": "development/20261104T1106Z",
-  "full_baseline_commit": "6fa7ee37aeea8c6af34b9d58e9b8dff312dd45ce",
-  "requires_murcules_sha256": "841e4d4cdeec1bfc6c08e2090a701fe8bc4abdfa3ea55acc7d296d1bf7cbe2fb",
-  "overall_completion": "unknown"
+  "stage": "MiniatureShip27216",
+  "checkpoint_sha256": "70372b3954d7b21bd2416784ca05163cb518f04ad8753618f9b637238ffaf397",
+  "content_commit": "b96acc08539551609f1d2f3d87bb565921f9bb36",
+  "path": "battlegrounds-backup/development/20261105T0344Z-miniature-ship",
+  "verification": "All12parts freshly downloaded and archive524member hashes verified. No fresh engine or fullrestore by backup.",
+  "scope": "Miniature Ship27216: only reviewed five-cast route and four named spells fresh. FailedV2/V3 retained. Cleanup176 unresolved. Older identities not reaccepted. Archive sealing/backup is not engine execution.",
+  "dependency": "Exact Murcules841e and its nested prerequisites plus fullbaseline originalZIP33b3/overlaydb5b at6fa7. Current cumulative84-file delta is included; no intermediate checkpoint needed for this restore route.",
+  "as_of_utc": "2026-11-05T06:09:50Z"
 }
