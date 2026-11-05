@@ -1,0 +1,156 @@
+{
+  "status": "Bounded Greater Booty Brew candidate; no promotion or complete-game acceptance",
+  "archive": "partial3702_greater_booty_brew_candidate_v1.tar.xz",
+  "sha256": "bee267aaad8c48c6fa3ffe2336e0dcad36b4beb1fc8968f6dfacf14fd3ad8d87",
+  "bytes": 1132948,
+  "parts": [
+    {
+      "name": "partial3702_greater_booty_brew_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "4fd94b2ced1be7fc27c1f2567bec9bdee6753bf0c867d719ac1da00b189284e4"
+    },
+    {
+      "name": "partial3702_greater_booty_brew_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "409f73ce9117b28143208805c94245fd7fa0eb1558b40c080e61a3ad39abc8c3"
+    },
+    {
+      "name": "partial3702_greater_booty_brew_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "4fbd5408053db4d7d1a8cd56c43a376a17b188ce54ccb79f3853e79d1ce2767f"
+    },
+    {
+      "name": "partial3702_greater_booty_brew_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "ee350b83a9413ab617ae004a206bab3de503f7758c1f97d2629caeb1370a9b1b"
+    },
+    {
+      "name": "partial3702_greater_booty_brew_candidate_v1.tar.xz.part004",
+      "bytes": 132948,
+      "sha256": "02a64613fdd7c377f19248ff8e0c268e49b55761bfd2e4ed3baa2b8d094d45b0"
+    }
+  ],
+  "files": {
+    "greater_booty_brew_candidate_v1/BASE_MAP.json": {
+      "bytes": 4498715,
+      "sha256": "f041ee1224f40ba9e31e40d1c98a095c5239bdcfe4a7ecacc504d6691232906c"
+    },
+    "greater_booty_brew_candidate_v1/EXPECTED_ROW.json": {
+      "bytes": 7308,
+      "sha256": "ed29b1302cd92f13ebbed3718f65d8722117059442d15a92d9140cd7eb6cc71e"
+    },
+    "greater_booty_brew_candidate_v1/PROGRESS.md": {
+      "bytes": 436,
+      "sha256": "f058524e34746d2062ad90c1757a460a1206e553de40ee45a0bfa519211db95f"
+    },
+    "greater_booty_brew_candidate_v1/README.md": {
+      "bytes": 2564,
+      "sha256": "e1334feebdbaf7375d29be061c2435f3017172020a3a8ea9ca37006f9f707107"
+    },
+    "greater_booty_brew_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 4064,
+      "sha256": "3e0bd5b7ada0b829afcf1da3491aa728ff6497d7414c59e09e8fac56c3b673b9"
+    },
+    "greater_booty_brew_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 1880,
+      "sha256": "26f112a79e05a0945b71f595765ea1d7fc8352c7a992f5a8e4c0e0a0f56bd4aa"
+    },
+    "greater_booty_brew_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4499560,
+      "sha256": "1f5fecca0be1ba198943325c85cccd774cb452dfaf06e59fe0129a814b22118a"
+    },
+    "greater_booty_brew_candidate_v1/delta/core/cagey_random_owned_payment.gd": {
+      "bytes": 5542,
+      "sha256": "9a67e19c2b86ad5d400569d5b2e4a25e1ccb7d04ebebc9b74d3046fec256298e"
+    },
+    "greater_booty_brew_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1734675,
+      "sha256": "b590dab5a25b374c55b51fea5d2cb3a5a7c2dac727433409ebd0606bd5f4ce10"
+    },
+    "greater_booty_brew_candidate_v1/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "ef17f40ff048ac87a868d53d637fb98fccefa7ccc1db19903cc91c9f450861f1"
+    },
+    "greater_booty_brew_candidate_v1/delta/data/patch_3702_greater_booty_brew_overlay.json": {
+      "bytes": 17743,
+      "sha256": "55e5e5e35f6ac0656518eeb2ce87b37fa9f55167c2bf11bb93e69eff05d3f5d6"
+    },
+    "greater_booty_brew_candidate_v1/delta/research/patch_3702_greater_booty_brew/BG30_MagicItem_924t.native.xml": {
+      "bytes": 2781,
+      "sha256": "1a005a82aa7ef47378a8f540c2ebb2cda9e43afcb0841f21a7386f290ee979a4"
+    },
+    "greater_booty_brew_candidate_v1/delta/research/patch_3702_greater_booty_brew/official_excerpt.html": {
+      "bytes": 382,
+      "sha256": "858dfb514061524fba69bd4866cf0ce6c4739529e969205e4216209c07ef9ce3"
+    },
+    "greater_booty_brew_candidate_v1/delta/research/patch_3702_greater_booty_brew/source_evidence.json": {
+      "bytes": 927,
+      "sha256": "a424eceee3eed91c2140e00540f9761582056638b88bd6c9db4ea659a9102c7c"
+    },
+    "greater_booty_brew_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 688,
+      "sha256": "26b416a0bbb60a0ba5983e0a2640eeb9c564813c7603eb70deece2b167bbc438"
+    },
+    "greater_booty_brew_candidate_v1/gate.gd": {
+      "bytes": 18603,
+      "sha256": "235e81bcfc92f8120e6639a1fe27cb9a187e669906da665be4429d01e06a3ffb"
+    },
+    "greater_booty_brew_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "greater_booty_brew_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "greater_booty_brew_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 487,
+      "sha256": "b6f1244a0740009cb43be8460c489d426d163dbbe496c9be69a1f695298d5df3"
+    },
+    "greater_booty_brew_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 2077,
+      "sha256": "31c9f01b9d17dec04e0da90f06311d5ad60451f89a9989b556befda593c2362e"
+    },
+    "greater_booty_brew_candidate_v1/run_1/data/initial.native_save.json": {
+      "bytes": 19443,
+      "sha256": "0e6c8f66231fc31cdce26875e8bfd827a0f4b5b6b37c3dc30eced61e1761bfae"
+    },
+    "greater_booty_brew_candidate_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 93100,
+      "sha256": "248e557cee5ac216098666c02eacdb7094efe270445aa8b7a896a9eb14a06d06"
+    },
+    "greater_booty_brew_candidate_v1/run_1/data/report.json": {
+      "bytes": 6122393,
+      "sha256": "5512f33c7c5d3eb34d1d4472f1544426e84237169c041c924a4915f0127adf55"
+    },
+    "greater_booty_brew_candidate_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 96904,
+      "sha256": "43b0b61c1e2e2aec22974e235d4059dce310d84ef2d740fa0d69ffeb43b27df9"
+    },
+    "greater_booty_brew_candidate_v1/run_1/native.log": {
+      "bytes": 1693,
+      "sha256": "0434f44c12a01268ed8ba7d754d98f8880d24b6cd5af2a6016079f8d999d0896"
+    },
+    "greater_booty_brew_candidate_v1/source_tests.gd": {
+      "bytes": 2063,
+      "sha256": "1066efe29214d12b46dbe7e816b1c0dc09106a0b1ce71b7fde2d1aaa236d8200"
+    },
+    "greater_booty_brew_candidate_v1/source_tests.log": {
+      "bytes": 143,
+      "sha256": "ae258e3c869ff13a6d84c30e3cae0634ff5c229456a2036c7c2deb2cd3559aef"
+    },
+    "greater_booty_brew_candidate_v1/source_tests_original.gd": {
+      "bytes": 1105,
+      "sha256": "4c338597f8ff7733c8c525e80b72c381d3119c5b3f8aeb2058cce919fc538af7"
+    },
+    "greater_booty_brew_candidate_v1/source_tests_v2.log": {
+      "bytes": 144,
+      "sha256": "57efb11dd65533e036663f5f45bc25f7b13b52dc525054087a38cb562b2f9f06"
+    },
+    "greater_booty_brew_candidate_v1/validate.py": {
+      "bytes": 3657,
+      "sha256": "bc3cad94203d21949c1b11f6afa58f6f7c180f1a81678b3ead7448fcfb835413"
+    }
+  },
+  "dependency_archive_sha256": "15b0ae6fce7025ff73f0bdf193e8919fd4e63e352309273980852aa12bf69f08"
+}
