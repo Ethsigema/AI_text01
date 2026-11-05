@@ -1,0 +1,61 @@
+{
+  "archives": [
+    {
+      "name": "partial3702_mama_bear_recruit_failed_evidence_v1_20261105T1804Z.tar.xz",
+      "size": 1043572,
+      "sha256": "9a99419a12a556351a64d6efaf83f5b8528a62460825be04b13305fde17d42f0",
+      "payload_hashes": {
+        "partial3702_mama_bear_recruit_failed_evidence_v1/DEPENDENCIES.json": "9cdbc91cb16afc15ff77cc0abdd1150a0d8bd0aff449c659e29017c7803396c5",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/EXECUTION_FACTS.json": "c326c66efa533975410df3d14edbf19807060d14385f82b7304f0d83c0460487",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/MANIFEST.json": "e1eb6f588c7d8fab160495d8067bb50cb83a35c7ed0b56ee768b04c05b36b02f",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/ORIGINAL_SELECTION.json": "8e9ea4dde444059a14d96c41084ba9783e7ae14ea63e5fac1d0a8132e823a666",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/PUBLIC_TECHNICAL_FACTS.md": "34fc7d9efe3be879aab291a1a9b39070c7ed3f62aded5d3c074549c9c143071f",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/README.md": "b02863e3d06e42ea391129ae3924bc67d189a3d40e474a78a23af5fb1119aabd",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/consumer/EXPECTED_ROOM.json": "d431a76283d4ea2441da4019f0ddc8b9c5f7eb62638ba116a48e32ae0c083d08",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/consumer/EXPECTED_SOURCE_ROWS.json": "e7849c4be56226ae3a7abc41cd10bed29429ee024422b89b2310336d051d792d",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/consumer/SOURCE_SEMANTICS_TEMPLATE.json": "7d8cd66a063d6551d0d25d7457f74674c49529291a50c23ab84fc70c5128e402",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/consumer/glambot_transport.py": "01e602ae883854831512c125056d63b9a26320b2cd081f7daf3c07afaefb7da0",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/consumer/semantic_recruit.py": "cce90995a28151405018299ef39112562b5273d7239f7d012d49bc86e4c02610",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/consumer/shared_native.py": "4782812b690f681d83f673391b824b62883edc2f64dc6f53ed24c1aeb7476f86",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/consumer/shared_validators.py": "5601692cb23a2612aa4bd308013ce97c2697bb38e8dd710e0b7ab0920226cae2",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/consumer/transport_recruit.py": "ce622a77f3b8f66cfca625be2e57583a167559d82905ed93f1ee37fb79f040c5",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/consumer/validate_recruit.py": "c672be5a1b300f9a7031bbb0eeb5c707486f099a5bf159af9c55d917abade064",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/run/RESULT.json": "65e55c7e2307cf1bebe5df1d5273a232bb56bf69832481ddd5446187c1e86bd7",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/run/SOURCE_AFTER.json": "2c5a58af76b67c6b3a5994acf782680ec978a6463561b6f43c3d145fc17708f3",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/run/SOURCE_AFTER_ALL.json": "2c5a58af76b67c6b3a5994acf782680ec978a6463561b6f43c3d145fc17708f3",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/run/SOURCE_BEFORE.json": "2c5a58af76b67c6b3a5994acf782680ec978a6463561b6f43c3d145fc17708f3",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/run/data/acquired_prefix.native_save.json": "fdceb77380557723ec965628a03361fa3c95a76c451ef7046cc154034f68a6ac",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/run/data/final_recruit.native_save.json": "45ba4ce8abe4d6a429379af112c07f87b9faf59c2182faaafe2599895111b459",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/run/data/initial.native_save.json": "585890bd0133035cdaf9ed5e78512b2416781190753273c16181a0077545d3bb",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/run/data/report.json": "e5377f44f5c6c80e94ad87f601a963ced26c8125c5267a7389a5ed62c4aabc37",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/run/engine.log": "56d2fe3484a047c4b1fc6fb91b376b3b969804cc7d334f04dd9556c0277bc007",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/run/recruit_gate.gd": "998f90a9d9b005387cb7ecdb122994aecf3bd0f1808c775f27e1539246d6b893",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/test_evidence.py": "a32fb64e96727f4ee1e2e7c43fa9d59625e2c7d972840c6d7ae828612942d430",
+        "partial3702_mama_bear_recruit_failed_evidence_v1/verify_evidence.py": "59a46ae96c5f0d280f61ba15482a14325c7835b66736d1db72098385de59ff92"
+      },
+      "parts": [
+        {
+          "name": "partial3702_mama_bear_recruit_failed_evidence_v1_20261105T1804Z.tar.xz.part000",
+          "size": 262144,
+          "sha256": "96209d5532ed20a26eeb7a14e7e1f7e5b4b44e00f8509374581c67cf65e13cc0"
+        },
+        {
+          "name": "partial3702_mama_bear_recruit_failed_evidence_v1_20261105T1804Z.tar.xz.part001",
+          "size": 262144,
+          "sha256": "fbc0a4077f764ea166e18de2c4329f3e171cab844d53ec28cd504fd1d5c2ca29"
+        },
+        {
+          "name": "partial3702_mama_bear_recruit_failed_evidence_v1_20261105T1804Z.tar.xz.part002",
+          "size": 262144,
+          "sha256": "6b8722bb11c8251c9d5007cf3b08a689ff1aa7939f3a3c3a68af47b10c9133e3"
+        },
+        {
+          "name": "partial3702_mama_bear_recruit_failed_evidence_v1_20261105T1804Z.tar.xz.part003",
+          "size": 257140,
+          "sha256": "8057aa04b026fc3df406c95de288982625671da9d8d3892a90e39d06d2eff4ef"
+        }
+      ]
+    }
+  ],
+  "scope": "Original FAIL_NO_CREDIT evidence only. No acceptance promotion or source changes. Requires Mama Bear pending V2 archive 17749257f4fcb802fb58f71e7dff03495b4dd41a05b518aea4eae4145aee7179. Concatenate parts in numeric order and verify SHA256 before reading archive README and DEPENDENCIES."
+}
