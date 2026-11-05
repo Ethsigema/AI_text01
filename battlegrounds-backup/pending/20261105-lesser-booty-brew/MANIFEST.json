@@ -1,0 +1,147 @@
+{
+  "status": "Independent bounded candidate; original consumer KeyError and posthoc assessment preserved; no promotion",
+  "archive": "partial3702_lesser_booty_brew_candidate_v1.tar.xz",
+  "sha256": "b5043558ef4ce23d148ab405ebbf9232774d87f9e44ad37a10a7f5960b6c9909",
+  "bytes": 1129944,
+  "parts": [
+    {
+      "name": "partial3702_lesser_booty_brew_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "a60523ed7eb50c367e7ff0f30adbb019d1ef350909da42dffb24023232fc840f"
+    },
+    {
+      "name": "partial3702_lesser_booty_brew_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "fad6c72e4e99479f9e6240324052e004513558ff50f7b785ac4794e40de090ed"
+    },
+    {
+      "name": "partial3702_lesser_booty_brew_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "e8e43510d3f2af097b460df3e72b091a58b65e47f297c99a75b9a54c9a17e2f2"
+    },
+    {
+      "name": "partial3702_lesser_booty_brew_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "1cb31bd58c85777e23b89c444800ea8a615d99c4220cfe95e1f49a62e2c74714"
+    },
+    {
+      "name": "partial3702_lesser_booty_brew_candidate_v1.tar.xz.part004",
+      "bytes": 129944,
+      "sha256": "bd68daa902574f6429cd59d03208f85939bbe0a08125cc0ed29336d49d6d5ab2"
+    }
+  ],
+  "files": {
+    "lesser_booty_brew_candidate_v1/BASE_MAP.json": {
+      "bytes": 4502953,
+      "sha256": "29717dbf86e70652fbe4b43253f6990d15d098ad95cdc3f91f0f779640762da5"
+    },
+    "lesser_booty_brew_candidate_v1/EXPECTED_ROW.json": {
+      "bytes": 7175,
+      "sha256": "61ebc91a6414204ef31c9f16276f9cb2b5585e8525f62c6d1269409b4691aa7e"
+    },
+    "lesser_booty_brew_candidate_v1/PROGRESS.md": {
+      "bytes": 766,
+      "sha256": "ebcf167e3297ccf770ffb98069287b25316f74b6672d7027007d23afbcafdd97"
+    },
+    "lesser_booty_brew_candidate_v1/README.md": {
+      "bytes": 1115,
+      "sha256": "777c428e8bf00c98a59f33ff93cd528a7d8733682882154ddb71b6c1bf621c66"
+    },
+    "lesser_booty_brew_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 3774,
+      "sha256": "85a092dca065740ec03f9d827824c3d09fe94feebea46d43263d0215d6a07196"
+    },
+    "lesser_booty_brew_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 1554,
+      "sha256": "f9d86c780d5bebbf2fa9615537f7096c6bcc566420d725fc11fc0a436d5d5572"
+    },
+    "lesser_booty_brew_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4503791,
+      "sha256": "685f62d876ab7e781d867430f53f418cf630bf896ca5904d144e9491e692fb44"
+    },
+    "lesser_booty_brew_candidate_v1/build.py": {
+      "bytes": 5703,
+      "sha256": "80d9724f6f24a959c4be00f9eae125422f35ee4faf0bbd95617f4842dc53fcca"
+    },
+    "lesser_booty_brew_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1742133,
+      "sha256": "3e16ebd10b554bab5a7309344f8542dbb9e02696f9d325b1a8bff764b7f1da90"
+    },
+    "lesser_booty_brew_candidate_v1/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "558bad89ccd185f5a12d6bd9277b700129dc6cf1607f5563d7e8accdf08ab05d"
+    },
+    "lesser_booty_brew_candidate_v1/delta/data/patch_3702_lesser_booty_brew_overlay.json": {
+      "bytes": 17497,
+      "sha256": "69d91029b750b21787eaee17f92e47d4d642ca8b8774cc6b3055901a73bc9309"
+    },
+    "lesser_booty_brew_candidate_v1/delta/research/patch_3702_lesser_booty_brew/BG30_MagicItem_924.native.xml": {
+      "bytes": 2796,
+      "sha256": "c1923aa740616695cd4d515e8b25c576e6c40b9c3c93e13d0b2a228bfd18877d"
+    },
+    "lesser_booty_brew_candidate_v1/delta/research/patch_3702_lesser_booty_brew/official_excerpt.html": {
+      "bytes": 32,
+      "sha256": "df8fc3109f8d58c3e67f24c76b4cf1d7a1d3f46b6a12eb4e8d0b477f8aec7892"
+    },
+    "lesser_booty_brew_candidate_v1/delta/research/patch_3702_lesser_booty_brew/source_evidence.json": {
+      "bytes": 925,
+      "sha256": "40258697141929199bc2df0269fb0b2da37b6faa196bcb1f12c5dd2287039e92"
+    },
+    "lesser_booty_brew_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 499,
+      "sha256": "72e889f511834ef0a0c3d79b46a30c8898609422655813b7195ee13fb7fd00ec"
+    },
+    "lesser_booty_brew_candidate_v1/gate.gd": {
+      "bytes": 18488,
+      "sha256": "af50264cf9ae3a8a0c9fde6b778d590135a59ae63c68ef658133535fe8991425"
+    },
+    "lesser_booty_brew_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "lesser_booty_brew_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "lesser_booty_brew_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 485,
+      "sha256": "e1f83fca4eff1a34b38e988d7646bb498a3485b08ee04d94d5219740c7e9aa5d"
+    },
+    "lesser_booty_brew_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 2082,
+      "sha256": "e05a2b924823b5937892ef896839ae026d051ae05e4aaae4353f02275015adbe"
+    },
+    "lesser_booty_brew_candidate_v1/run_1/data/initial.native_save.json": {
+      "bytes": 19417,
+      "sha256": "9927e29f012b7ec0a4833f61953c1bd93a1345cd7e4a98db62b5768d2c2dc417"
+    },
+    "lesser_booty_brew_candidate_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 79716,
+      "sha256": "31be2f86870dce697d4b03fe243bb488fdf24d6fa7f91ed28fa9a915df958494"
+    },
+    "lesser_booty_brew_candidate_v1/run_1/data/report.json": {
+      "bytes": 4244453,
+      "sha256": "9d9ced1850cca16961f3276ed13d5986fc910853050b83b240b6696dc271c9dd"
+    },
+    "lesser_booty_brew_candidate_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 84036,
+      "sha256": "e243053fe39ce1647ccf65cbbef587051b54a888f21bbc2f49033bad0fb4cfc9"
+    },
+    "lesser_booty_brew_candidate_v1/run_1/native.log": {
+      "bytes": 1288,
+      "sha256": "d833b0057caa62fc41c87a0fcd334a6349b6b0bee03cc607989d5b1c4a2206a9"
+    },
+    "lesser_booty_brew_candidate_v1/run_1/original_validator.log": {
+      "bytes": 754,
+      "sha256": "d93c64c435e04b61cf7107ddbdd27936ac73b4ad2ab66d70079be283d7549831"
+    },
+    "lesser_booty_brew_candidate_v1/validate.py": {
+      "bytes": 4254,
+      "sha256": "27a75f5edf0e5f8fd04a823c2bcfe98e0de2bd2d12f3f675ea4aad43de29c196"
+    },
+    "lesser_booty_brew_candidate_v1/validate_original.py": {
+      "bytes": 4209,
+      "sha256": "8cac8563bf46386922de81dc480b18a6220a4c2a07ebf2b7e78f0ba1a90f6e5e"
+    }
+  }
+}
