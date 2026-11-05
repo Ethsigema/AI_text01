@@ -1,0 +1,78 @@
+{
+  "archives": [
+    {
+      "name": "partial3702_combat_lifetime_source_checkpoint_v1_20261105T1917Z.tar.xz",
+      "size": 1309312,
+      "sha256": "114ea40a0d65e736143df59c08c60bd57495815edaccf12dbc7597adffa26a8f",
+      "payload_hashes": {
+        "partial3702_combat_lifetime_source_checkpoint_v1/DEPENDENCIES.json": "2488563a34a63ce76e57aa451be74cdf87c0b7c7abc2697098af2d465f31e2a5",
+        "partial3702_combat_lifetime_source_checkpoint_v1/NATIVE_TEST_PLAN.md": "7847abf8191fc4c452b161064d8319ad7d44251a3e0a74a30fdc049627044bd2",
+        "partial3702_combat_lifetime_source_checkpoint_v1/OMISSIONS.json": "2ca84c5deec5e78e2959060ee6f89bf471bcf780a15f8da5a4c1e0762ae33305",
+        "partial3702_combat_lifetime_source_checkpoint_v1/PROGRESS.json": "50f8acc90b53fc8b0a6494d2bd2e30b45e4504efa27d1bd2dc6c108faaaeccce",
+        "partial3702_combat_lifetime_source_checkpoint_v1/PUBLIC_SHA_MANIFEST.json": "a95c6d178d4359d4db3d7e0a7db8f0783d46fa08c3a488a42d2321426e55a652",
+        "partial3702_combat_lifetime_source_checkpoint_v1/README.md": "3e6ac00b7aa0fa807bfdbf18838b7c2176ea0d20073d85d650902cbf6e29c2f2",
+        "partial3702_combat_lifetime_source_checkpoint_v1/RESTORE_AND_VERIFY.md": "b4820fb322fd1d9245ac738ed903ec481617729828ce551c7b6bfe09f66c789b",
+        "partial3702_combat_lifetime_source_checkpoint_v1/offline/PORTABILITY.json": "bb719377d826c6d481814dae70fec17921f1a4ff484d2d1af40c6c844090d913",
+        "partial3702_combat_lifetime_source_checkpoint_v1/offline/PORTABLE_RESULTS.json": "c2b750fddae22890749abfb87c68de6b7c38fcdbd7422c394530df6b6860d422",
+        "partial3702_combat_lifetime_source_checkpoint_v1/offline/PORTABLE_TEST_LOG.txt": "20abc624340421554017c17a0c42e1dc2a4137d83c18e11b28543caa0d360010",
+        "partial3702_combat_lifetime_source_checkpoint_v1/offline/RESULTS.json": "c2b750fddae22890749abfb87c68de6b7c38fcdbd7422c394530df6b6860d422",
+        "partial3702_combat_lifetime_source_checkpoint_v1/offline/TEST_LOG.txt": "421938d5f0664b9ee27a1cc142d3da798eb930a9b9fb95e2ac24c92b52e60219",
+        "partial3702_combat_lifetime_source_checkpoint_v1/restore_source.py": "d63f30108e9b3399481aeb15f0b17b056524612aae48e243349dfa45de251e7a",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/BASELINE_MAP.json": "7db8139da4cce92215274292e16e3c2e54cd6186210c99c61945fa4e8369a88e",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/EXPECTED_RUNTIME_MAP.json": "1b1e472c33752ae96330db3cca7cbbf34e7b0b9e31994684d2d53da1c51652a9",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/PUBLIC_CONTRACT.json": "6e6954af91ee11c3d49eae78b2d12d22b83421871db5b38b96e4211465529c16",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/PUBLIC_DELTA.json": "a4e2e41857035873e15d100353c7ec80590648a7b34b63232b883999b9544425",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/SOURCE_DELTA.patch": "49c13f88463d3e78d66eb800002231ee2eb9de0317f6445bfbde98370f5eb80d",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/SOURCE_DELTA_INVERSE.patch": "146ca407dbae7b613bf8c653d650124d2f04dce70ac47759f746f046bcbba692",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/delta/core/combat.gd": "3686cc19cd4c35b53a53ab2809e4a2c69228b4b8a06bf780be99844c52d539a4",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/delta/core/game.gd": "c87f8f9be7bb298077ad0af647bd8c61879f502782fcbed0cdd2efbe1cfb89e2",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/delta/core/patch_3702_bobblehead_sources.gd": "a0c704da728d3cb7a00ca61e5bfaff890f1ce9b6493b68827400c9be01f2fa96",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/delta/core/patch_3702_cursed_crystal_sources.gd": "06370d6f5e3e52900e8e87818928dddd27fe593258cdcf35b177a269c091c68e",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/delta/core/patch_3702_glambot_sources.gd": "cec2f0b82fae67dc04679485cb3bd16a5daf4f35ca4d55bac0e07902d8683dd9",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/delta/core/patch_3702_greater_phrasebook_sources.gd": "060d7767a71f36fcf0bae35f6182d905425f2b18a7873ae7c82d69e828a4e737",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/delta/core/patch_3702_mama_bear_sources.gd": "f5127df231660c61a7be0f2fc6c63fc1f184a3a7733d2dcdc95274f87e0044b5",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/delta/core/patch_3702_miniature_ship_sources.gd": "6aa669a4048299f31686c71e0e9a01168d6ac4dbd65a04302436f083a76bb244",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/delta/core/patch_3702_murloc_phrasebook_sources.gd": "b07917ac18cf57ae2916c847c009f088297a287f51fe72a8508d452f82c06acd",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/preimages/core/combat.gd": "05a726809ce2ed7eac4c54004c8e48ae25f533d0c2e139d641d63da75f6ee1e7",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/preimages/core/game.gd": "70080ccca580ebd8ce7b143238927fcee0f01f12b083cc92956ee07dfa6a74d0",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/preimages/core/patch_3702_bobblehead_sources.gd": "57456ed04b73ef5bcad36888a040609437a18e476a4042c5563a4a4840fd06bb",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/preimages/core/patch_3702_cursed_crystal_sources.gd": "5d4a1a421be368ac25f5171549bbfe92bdd0a25de1d5e073a12d7c3a097acd2e",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/preimages/core/patch_3702_glambot_sources.gd": "c8d49c03b34ade4c28516acadc10e381d16c8d392cce7010fac915c6132e65d3",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/preimages/core/patch_3702_greater_phrasebook_sources.gd": "70c96554881703ba2ccaee22f7a47552e03fbcd817ddebbfbb1d822331d9f48f",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/preimages/core/patch_3702_mama_bear_sources.gd": "341256da436c886779eee2c7e58e721ee1f01644f1596e355704b619b1d710f6",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/preimages/core/patch_3702_miniature_ship_sources.gd": "70ec9585c6b45b5d20d0706e8a2fd6d10c369adb8808e5786a1ad234311b2197",
+        "partial3702_combat_lifetime_source_checkpoint_v1/source/preimages/core/patch_3702_murloc_phrasebook_sources.gd": "a4b64bf07fbf3d6b73a662a591404ae77b740d8fd0ae396212bebf57ca422ce3",
+        "partial3702_combat_lifetime_source_checkpoint_v1/test_source.py": "2511738ed084ec2fa3baf610b22216fcbeacd31b3f8a905dd9423f5c5ab3bd98",
+        "partial3702_combat_lifetime_source_checkpoint_v1/verify_public.py": "d2e260f9f6d8157802d1fea8662d2c9552be9b00b10685d89b7219c63bf6e8d2"
+      },
+      "parts": [
+        {
+          "name": "partial3702_combat_lifetime_source_checkpoint_v1_20261105T1917Z.tar.xz.part000",
+          "size": 262144,
+          "sha256": "141c65bf176eedaf2caa65ca738187203c2e5dfaa1a7d38963d7cf475968583c"
+        },
+        {
+          "name": "partial3702_combat_lifetime_source_checkpoint_v1_20261105T1917Z.tar.xz.part001",
+          "size": 262144,
+          "sha256": "13ec789c76c7238838f6679b623d87fc8e53518612289b292b5ebff9cee79a34"
+        },
+        {
+          "name": "partial3702_combat_lifetime_source_checkpoint_v1_20261105T1917Z.tar.xz.part002",
+          "size": 262144,
+          "sha256": "243e0a7a532e296e28736300c8cec4cbef47f6c962000596f67000238b61ff8a"
+        },
+        {
+          "name": "partial3702_combat_lifetime_source_checkpoint_v1_20261105T1917Z.tar.xz.part003",
+          "size": 262144,
+          "sha256": "cfcef1229869fc20516345a1ec0cf0ec9ffb6fc90291fdf4bf8b02b91010cf31"
+        },
+        {
+          "name": "partial3702_combat_lifetime_source_checkpoint_v1_20261105T1917Z.tar.xz.part004",
+          "size": 260736,
+          "sha256": "17973e23f77c0e28bd869b37daa57d20596865331cf54fc74821e4dedd390572"
+        }
+      ]
+    }
+  ],
+  "scope": "Source-only candidate, not native cleanup or Game acceptance. Current development unchanged. Requires Mama Bear pending V2 archive 17749257f4fcb802fb58f71e7dff03495b4dd41a05b518aea4eae4145aee7179. Concatenate parts numerically and verify SHA256 before reading archived restore instructions."
+}
