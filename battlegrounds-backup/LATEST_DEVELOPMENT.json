@@ -1,10 +1,10 @@
 {
-  "stage": "MiniatureShip27216",
-  "checkpoint_sha256": "70372b3954d7b21bd2416784ca05163cb518f04ad8753618f9b637238ffaf397",
-  "content_commit": "b96acc08539551609f1d2f3d87bb565921f9bb36",
-  "path": "battlegrounds-backup/development/20261105T0344Z-miniature-ship",
-  "verification": "All12parts freshly downloaded and archive524member hashes verified. No fresh engine or fullrestore by backup.",
-  "scope": "Miniature Ship27216: only reviewed five-cast route and four named spells fresh. FailedV2/V3 retained. Cleanup176 unresolved. Older identities not reaccepted. Archive sealing/backup is not engine execution.",
-  "dependency": "Exact Murcules841e and its nested prerequisites plus fullbaseline originalZIP33b3/overlaydb5b at6fa7. Current cumulative84-file delta is included; no intermediate checkpoint needed for this restore route.",
-  "as_of_utc": "2026-11-05T06:09:50Z"
+  "stage": "Crystal27222 public-safe derivative",
+  "checkpoint_sha256": "abf4cbf4d071628daf0ec92caf183b4b72885fb9d4f8d564be2b219d5b8dc53e",
+  "content_commit": "d79e9e912b2c9e82405152c7b46fed1aad73c125",
+  "path": "battlegrounds-backup/development/20261105T0640Z-crystal-public",
+  "verification": "All13parts freshly downloaded; archive3170760bytes and382payload hashes verified. No new engine or fullrestore.",
+  "scope": "Crystal27222 public-safe derivative. Seven runs retained as selected original evidence; V5 bounded route and four spells accepted only. Cleanup176 unresolved, prior SIGKILL cause unknown. No full identity or pool acceptance. No new engine run by backup.",
+  "dependency": "Exact Murcules841e nested chain plus originalZIP33b3 and overlaydb5b at6fa7. Direct cumulative76 additions16 replacements; no Ship or private Crystal archive needed.",
+  "as_of_utc": "2026-11-05T06:57:19Z"
 }
