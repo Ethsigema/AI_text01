@@ -1,0 +1,102 @@
+{
+  "archives": [
+    {
+      "name": "partial3702_mama_bear_public_pending_checkpoint_v2_20261105T1656Z.tar.xz",
+      "size": 1439312,
+      "sha256": "17749257f4fcb802fb58f71e7dff03495b4dd41a05b518aea4eae4145aee7179",
+      "payload_hashes": {
+        "partial3702_mama_bear_public_pending_checkpoint_v2/OMISSIONS.json": "cbba9280f33645b2dd4f19f0eb12856b4b9ebe9959e1e5dbcc0b5ff2c2893873",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/ORIGINAL_SELECTION.json": "b9c927013a92982c57c736d5f819774d77d1784735318c8f8ecdc52e223361bf",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/PROGRESS.json": "b8835fd516a55c781dc27b39bd359037909f81789b6451937c80e83e38ad7415",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/PUBLIC_SHA_MANIFEST.json": "783def59e7cdca894db683ad90bf6b2a30c5585f1265e668f0f548dfc9d1098b",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/README.md": "043e2ee424d6792085a6e1100d5ed3e15da22f4dc4305384174383a2cf3add60",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/RESTORE_AND_VERIFY.md": "da1fadcccc33942bc7b92578a93a61b6b2bb70522aae09a31017b22e2ded3f59",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/catalog/EXPECTED_CASES.json": "9cfcfa11c4dbfea377244e23e12b1022f56607dc39fad0176286c99fd44ac5c4",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/catalog/TECHNICAL_FACTS.json": "eb213ecc9e03f59152f8b1a2eb02c9ef6eda758f2cd41f8589a1690e9a7c05fd",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/catalog/capture/ACTUAL_CASES.json": "5236d0330e5d480100c21d9652f63899e53fedb408699cfdc87927993c063cf2",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/catalog/capture/RESULT.json": "8dac5309448ffb710ffab59921aa2eedde327924f617f791975a3ac4b89e6648",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/catalog/capture/SOURCE_AFTER.json": "2c5a58af76b67c6b3a5994acf782680ec978a6463561b6f43c3d145fc17708f3",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/catalog/capture/SOURCE_AFTER_ALL.json": "2c5a58af76b67c6b3a5994acf782680ec978a6463561b6f43c3d145fc17708f3",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/catalog/capture/SOURCE_BEFORE.json": "2c5a58af76b67c6b3a5994acf782680ec978a6463561b6f43c3d145fc17708f3",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/catalog/capture/catalog_gate.gd": "b26fd403bd7417fd14f65fef502ecc08d97764be9ac20a042c517fa299ca5d2b",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/catalog/capture/engine.log": "b917242ffb654eab952ff2cdb3f9a30e4bf3407c72843752efe105cc8542c511",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/dependency/DEPENDENCIES.json": "91ca88ee792bace634a37ba142f176646f3fb1c5f7fa78543b71808c68909b92",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/dependency/historical/README.md": "5db360cac88c29881cce653052fca39d39eb3ac4d54dea274c8d5437374fe148",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/dependency/historical/glambot_DEPENDENCIES.json": "6d119f087530f0fff073f678a33058c52693a61e58b9491c43103e855023bfaa",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/dependency/historical/glambot_LAZY_V1_DEPENDENCIES.json": "4ccfa22b65cb6d98d4226208c0daeefe000a89eef4b6e4d4f4017c375ac3b1a1",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/native/EXECUTION_FACTS.json": "5cf9ce5a4df8838f54f4bc8e64ac12e4be7cab71493d3a1e80f58ad23bc782fa",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/native/EXPECTED_CASES.json": "4f9fc1ee8ce14205c4e4660bf18049798fec719102418e2fb24ef80be16072b1",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/native/capture/ACTUAL_CASES.json": "de275e13ea8203cf0a70df975163c5a93e063a1a37f26ca30c09bded833bc143",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/native/capture/RESULT.json": "71846ce4bc789404b883b40f34c8ba3128407881ff90f8665aecdf966d7226c5",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/native/capture/SOURCE_AFTER.json": "af491b1db46560340804ce9ebddaaa4b83ab745e0067aea26a415ed67a05c692",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/native/capture/SOURCE_AFTER_ALL.json": "af491b1db46560340804ce9ebddaaa4b83ab745e0067aea26a415ed67a05c692",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/native/capture/SOURCE_BEFORE.json": "af491b1db46560340804ce9ebddaaa4b83ab745e0067aea26a415ed67a05c692",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/native/capture/engine.log": "abdb6c60142dff370c17afd5d64899539025fd00afa896a9ef1ebf9293dfc9f7",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/native/fixtures/project.godot": "34b171a94a7706fcb90817f38df7001efd829a3ae3e6677e001f56fc2e948ff8",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/native/fixtures/tests/main.gd": "608dd6ad1d1af6742c4c5cfb75ad385dadaf1853098eb0b3d0e218ca76b9528e",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/restore_mama_bear.py": "dcb7f7e44bfc349a70aa0bfbf21be07c086df26a8264edd6f5f682db3fe0982f",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/BASELINE_MAP.json": "8d952542f7a4b409ac3969afd826dae906c49ed5025381c73ac222a66a069a12",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/DEPENDENCY_AUDIT.json": "b6662a9f896620fc8b1ec880645dd9ee2b129f5f7e83185b8771ad498858adb2",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/EXPECTED_EFFECTIVE_ROWS.json": "09d03999ad135c98f463993eaa8579a9545c5bf23b714de5853cdffaf4aaf670",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/EXPECTED_RUNTIME_MAP.json": "7db8139da4cce92215274292e16e3c2e54cd6186210c99c61945fa4e8369a88e",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/PUBLIC_DELTA.json": "bc08ff98e388fdadcbfa3edced27d03edd4c44f696e2dad1b8d78acb8bb823f3",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/REPRODUCIBILITY_TEST.json": "49ee2fc2dec4c38fbaa2e274e30b3b29d650b9c44fc906cb2b34245e883eb82d",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/SOURCE_DELTA.patch": "cb20710ab0cf8194c70021a5ffbb971c75713dc854b7badaf11dad385d6515ca",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/SOURCE_DELTA_INVERSE.patch": "7c2821e3d553f3b79ae3136e95b6c9f2a975f9404b4540d153d7459561dc5086",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/SOURCE_TEST_RESULTS.json": "bfb64d55eb68a7785beb6c4b5a1b7fd5566fdf5e524c843a894a3035d52bc88b",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/STATIC_SYNTAX_CHECK.json": "1d01e2bcde3b77507c7b0e372d7e04b64d9cdd2bd6bcab507ecb671a388bcbef",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/delta/core/catalog.gd": "d801013a1dd063b70e2365067e18c94ba061cf3edcb68b44d14e3ea32020b220",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/delta/core/patch_3702_mama_bear_sources.gd": "341256da436c886779eee2c7e58e721ee1f01644f1596e355704b619b1d710f6",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/delta/core/reborn_mechanism_sources.gd": "8770d9e03c95d9f9f9379e06e789eb70b109e91996f2eeeeb2022cb2d34ae49b",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/delta/data/patch_3702_mama_bear_overlay.json": "eb5ffd17c6a84be99863e4453a2c55a68800b92827ad7f0d1a87d6d18329a1bb",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/delta/research/patch_3702_mama_bear/BG35_MagicItem_871.native.xml": "7926cd6f40c4f3280396e8c8b709d1579284354933fd05483c608b466677e295",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/delta/research/patch_3702_mama_bear/official_mama_bear_excerpt.html": "d9d78b558b49649576b40fd73ea7769a8f9a760fe25c5e125a64e01e025059b0",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/delta/research/patch_3702_mama_bear/source_evidence.json": "9f1ca0820d3b1297ca48c56e077b141fbf9dc8192c0c228b3c3dee02dc4bf14d",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/preimages/core/catalog.gd": "fa3267b4f190e4a9fbb672ef4e6871feff9dc47ee4b75673a8f0a7fd8680469d",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/source/preimages/core/reborn_mechanism_sources.gd": "179eaa2d66ef0c9fd201820e1c3ffbf855eb0d907f77c760e96eb82c4e095d08",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/test_portable.py": "8234cc0276468b6f24855b095678d4afc27426f7543697046590f522db94d774",
+        "partial3702_mama_bear_public_pending_checkpoint_v2/verify_public.py": "f9eb9821f717de000254edae1ba7801ad61b1bb6a05686d6647ba6b1f25e1e29"
+      },
+      "parts": [
+        {
+          "name": "partial3702_mama_bear_public_pending_checkpoint_v2_20261105T1656Z.tar.xz.part000",
+          "size": 262144,
+          "sha256": "6bfe14336cbda381722bc64b33ceadc75d9d25d081baf2ed3aa2bb134f6b2370",
+          "git_blob_sha": "3465ea5700834bbdf9fb5c614b36a95243c8b9f6"
+        },
+        {
+          "name": "partial3702_mama_bear_public_pending_checkpoint_v2_20261105T1656Z.tar.xz.part001",
+          "size": 262144,
+          "sha256": "56475dccff9f01da0bcd991e87292a2bc88c5d0eaf9e69636e4aafe9a64fdfad",
+          "git_blob_sha": "0dc8da73157b45f80b3322c1de4cbfb0c46be381"
+        },
+        {
+          "name": "partial3702_mama_bear_public_pending_checkpoint_v2_20261105T1656Z.tar.xz.part002",
+          "size": 262144,
+          "sha256": "fe3fe66681d71de3d7441642672d55eaeefe198366fe3dd9586e6707b8b6778a",
+          "git_blob_sha": "e7255509eea103e7ebe8e0904556004d81a5ef33"
+        },
+        {
+          "name": "partial3702_mama_bear_public_pending_checkpoint_v2_20261105T1656Z.tar.xz.part003",
+          "size": 262144,
+          "sha256": "038019e6de0db6cd2518b7874baa24ea38633792763863fb98c5d200e3c056c8",
+          "git_blob_sha": "5bc70d123bae540772994b9782c8c2b12af6c6c7"
+        },
+        {
+          "name": "partial3702_mama_bear_public_pending_checkpoint_v2_20261105T1656Z.tar.xz.part004",
+          "size": 262144,
+          "sha256": "daae0c28290bbdc1dd298e34d66be61e1937416c73c94ee6829ed5879ba75a1f",
+          "git_blob_sha": "cca2f60a662053f911fe2523a703278bd3b24c71"
+        },
+        {
+          "name": "partial3702_mama_bear_public_pending_checkpoint_v2_20261105T1656Z.tar.xz.part005",
+          "size": 128592,
+          "sha256": "6c718a9645db14283cd6a8cc0370a1f1182ec835e68841aeac08b6c3a0fecf25",
+          "git_blob_sha": "dd9781632594fb656ce4e8aef91e70404ea16434"
+        }
+      ]
+    }
+  ],
+  "scope": "Mama Bear pending source and evidence: 68 tiny checks and 44 native Catalog checks; no Game, host, or acquisition acceptance. No new engine run performed by backup verification.",
+  "dependency": "Requires exact lazy Glambot archive fa9e88460503e9200ad8ae7745960a54cc4eae53485a846c1d2cf6bb6d7e7fc7 and its e8d75/Bobble/Crystal/Murcules/full baseline chain. Two replacements and five additions. Accepted development and full baseline pointers remain unchanged."
+}
