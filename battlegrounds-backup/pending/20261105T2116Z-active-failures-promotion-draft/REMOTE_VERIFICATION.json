@@ -1,0 +1,21 @@
+{
+  "content_commit": "28fdd58035a42a7e2c74888a69a4e2b211cad92a",
+  "status": "All remote parts downloaded, archives reassembled, all 90 file hashes verified.",
+  "archives": [
+    {
+      "archive": "partial3702_active_lifetime_failed_derived_evidence_v2_20261105T2113Z.tar.xz",
+      "sha256": "724d2681928669199a2e6bb6c5eaf421e237f0832ccfc0d52cfd17b9b2fa337a",
+      "bytes": 2513552,
+      "parts": 11,
+      "files_verified": 71
+    },
+    {
+      "archive": "partial3702_combat_lifetime_limited_promotion_draft_v1_20261105T2116Z.tar.xz",
+      "sha256": "ac1210d291ef5e99a468049e1605aa3bb23dee77974463cda0d0d885df3be38f",
+      "bytes": 14192,
+      "parts": 1,
+      "files_verified": 19
+    }
+  ],
+  "limits": "No engine execution or full runtime restore. Independent failed evidence and promotion draft, no pointer changes."
+}
