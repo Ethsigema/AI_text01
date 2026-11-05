@@ -1,0 +1,135 @@
+{
+  "status": "Bounded Packed Wallet candidate; no promotion or complete-game acceptance",
+  "archive": "partial3702_packed_wallet_candidate_v1.tar.xz",
+  "sha256": "15b0ae6fce7025ff73f0bdf193e8919fd4e63e352309273980852aa12bf69f08",
+  "bytes": 1123656,
+  "parts": [
+    {
+      "name": "partial3702_packed_wallet_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "20f284824aa191cc596c666b091df8904d679a7542477c76e2288d944c9d46c9"
+    },
+    {
+      "name": "partial3702_packed_wallet_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "f9f787e2ba5898309ba556cefdbd5e498174b0f2327747616d595ee4273280b2"
+    },
+    {
+      "name": "partial3702_packed_wallet_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "c1f354228a7587f702dcca6da1034127b8b185ddd834a39a0902dedde3fc8ca5"
+    },
+    {
+      "name": "partial3702_packed_wallet_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "81bc62c64a9a37d322c855f7ddee3aa4fd2ef9864385eb804d80d991db4ec6eb"
+    },
+    {
+      "name": "partial3702_packed_wallet_candidate_v1.tar.xz.part004",
+      "bytes": 123656,
+      "sha256": "6b1fd43b30f2756e44d0c58dc994edf3082f7770d93640238a9e2af5f48e82f8"
+    }
+  ],
+  "files": {
+    "packed_wallet_candidate_v1/BASE_MAP.json": {
+      "bytes": 4497896,
+      "sha256": "49f962e950a0e6e10bb2d91b957a6173dfaf58d401bf8c399fba3d498da901ae"
+    },
+    "packed_wallet_candidate_v1/EXPECTED_ROW.json": {
+      "bytes": 7040,
+      "sha256": "52ff0560696435827ce8b1c006b0eb11cbbc7a203b9521932892d35da7d6d65d"
+    },
+    "packed_wallet_candidate_v1/README.md": {
+      "bytes": 2867,
+      "sha256": "7d305aacef3b6126a707002c9277803c7fda19aba217e8884a8e56b8010ba1e9"
+    },
+    "packed_wallet_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 3357,
+      "sha256": "c48991f8b45cd685afa8c1287725c320e7d6e5535baabf00ae1d580ff0a60a83"
+    },
+    "packed_wallet_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 1535,
+      "sha256": "9eac10015b267ee91da42f2c397dd2790c5fa911f5334c198856af47c11659d0"
+    },
+    "packed_wallet_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4498715,
+      "sha256": "f041ee1224f40ba9e31e40d1c98a095c5239bdcfe4a7ecacc504d6691232906c"
+    },
+    "packed_wallet_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1733048,
+      "sha256": "3f5650422e7822c098f445859fbf00ab0c60bd48b635ed4e97d05e614229e8df"
+    },
+    "packed_wallet_candidate_v1/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "b98101145006f37a0c77a6d76b23bb9f583d79499dac582a6c88beb248efaae6"
+    },
+    "packed_wallet_candidate_v1/delta/data/patch_3702_packed_wallet_overlay.json": {
+      "bytes": 17100,
+      "sha256": "2605015c6f9d77d1456fcb11e191e014b1f76fdb1fc9c90680650d1edf516848"
+    },
+    "packed_wallet_candidate_v1/delta/research/patch_3702_packed_wallet/BG35_MagicItem_814.native.xml": {
+      "bytes": 2419,
+      "sha256": "4669e8f49da04d3f5eef782173273ac975168c806337f6ba76089fdc27a638e7"
+    },
+    "packed_wallet_candidate_v1/delta/research/patch_3702_packed_wallet/official_excerpt.html": {
+      "bytes": 146,
+      "sha256": "d11e4649bd9ecb80a59435754bb467f1cf6b3707c4d9d6245d4f5e8ba10d0950"
+    },
+    "packed_wallet_candidate_v1/delta/research/patch_3702_packed_wallet/source_evidence.json": {
+      "bytes": 912,
+      "sha256": "a06b175d707f6eea76c6f21da31d71cc3f89b0a6f9cd1390cf82f374a9c3873a"
+    },
+    "packed_wallet_candidate_v1/gate.gd": {
+      "bytes": 17738,
+      "sha256": "074443ead0213f9c69bc6b11ff27b5a6294d24ee4fd6121befd423ebaf0577f0"
+    },
+    "packed_wallet_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "packed_wallet_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "packed_wallet_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 476,
+      "sha256": "c8b2fb079dc8d1f69aac5647586b70d429d0898fa7644f119ec6b9de51d5c804"
+    },
+    "packed_wallet_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 1391,
+      "sha256": "4da502fa8861f2112e444bd81770018c53657102e189a8c484a4155c2a3d570b"
+    },
+    "packed_wallet_candidate_v1/run_1/data/initial.native_save.json": {
+      "bytes": 23438,
+      "sha256": "c33e1b0a8032747f2f53afdf3dfe032c71fb7c567a6c0d748f984670352dfc69"
+    },
+    "packed_wallet_candidate_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 60055,
+      "sha256": "1f4168fa607bf90ef40eb61ad1caab5916f3901c3a58338cdb14fba9aca1f778"
+    },
+    "packed_wallet_candidate_v1/run_1/data/report.json": {
+      "bytes": 4199264,
+      "sha256": "ff086fda0c3b77935b37b2c3c705b1e837e249a1cfe1c3b8ec8a7ef46c065a3f"
+    },
+    "packed_wallet_candidate_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 60899,
+      "sha256": "24b5458b8ca9386980c0675f42b4ebb5154432a69e461260bc66e10b78b001fc"
+    },
+    "packed_wallet_candidate_v1/run_1/native.log": {
+      "bytes": 1437,
+      "sha256": "00b02bfd86ee4a2642ec7030293e3f2ac4a9fa02eb29bed64e9fc1c97ebe8534"
+    },
+    "packed_wallet_candidate_v1/source_tests.gd": {
+      "bytes": 1104,
+      "sha256": "fc2da22e6c68ff46d63d5f2edd2e85ab5f6a5add02e5e7f45734f83743c9bd0c"
+    },
+    "packed_wallet_candidate_v1/source_tests.log": {
+      "bytes": 143,
+      "sha256": "ae258e3c869ff13a6d84c30e3cae0634ff5c229456a2036c7c2deb2cd3559aef"
+    },
+    "packed_wallet_candidate_v1/validate.py": {
+      "bytes": 3041,
+      "sha256": "677390d88ea1124ee04af25190ff2cff6b9ca6f0b1f4d4cbc763073f3514e617"
+    }
+  }
+}
