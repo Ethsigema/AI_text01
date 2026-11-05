@@ -1,0 +1,151 @@
+{
+  "status": "Bounded Maw Portrait candidate; no promotion or complete-game acceptance",
+  "archive": "partial3702_maw_portrait_candidate_v1.tar.xz",
+  "sha256": "1db75fb0b6edff152f19e2622305fb5744570bb1ea3b0ad86d72495645bf9378",
+  "bytes": 1132536,
+  "parts": [
+    {
+      "name": "partial3702_maw_portrait_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "e54fdfcbde467a5e87d40b2deaaed0ef7f10662a5cc8efc6303c8eec37171988"
+    },
+    {
+      "name": "partial3702_maw_portrait_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "f7adba5809585b536584b4c7d16b735bee1e92b961027042940a3d3d376d84b6"
+    },
+    {
+      "name": "partial3702_maw_portrait_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "85a410e537840c09990d7801490cd85f21c807b590a842f3308d62029dacdb86"
+    },
+    {
+      "name": "partial3702_maw_portrait_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "19cfc13028e281453b3a0601230f14eb3774c2100f23ef0f1a8ed7a15bde52e2"
+    },
+    {
+      "name": "partial3702_maw_portrait_candidate_v1.tar.xz.part004",
+      "bytes": 132536,
+      "sha256": "dc56bb0d401657c0b315730aa8dcd099cb43b1917c77c5bec74371758612e37c"
+    }
+  ],
+  "files": {
+    "maw_portrait_candidate_v1/BASE_MAP.json": {
+      "bytes": 4500349,
+      "sha256": "6870e0c90a05b488ec2d7606ce4ef573b3853d224675533fef2f21c0d72f157a"
+    },
+    "maw_portrait_candidate_v1/EXPECTED_ROW.json": {
+      "bytes": 8417,
+      "sha256": "a7dfc367706585d311c88e1a3be844bcf7b23aefdac0a74d8bc6ebb2fe39dbd8"
+    },
+    "maw_portrait_candidate_v1/PROGRESS.md": {
+      "bytes": 237,
+      "sha256": "049edd37be508de8e3295832da31ee886afe5673da49ade76b53b6a26351041a"
+    },
+    "maw_portrait_candidate_v1/README.md": {
+      "bytes": 2445,
+      "sha256": "64825d8bc0ccb2b78ba47e268977b6398f40c412a80e961d203ae8891a0bc5ec"
+    },
+    "maw_portrait_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 3917,
+      "sha256": "3502c4ee7e2142cd1215c18221b5b4faa49fe8dad4a3e10dfb00c28a9e0c4d94"
+    },
+    "maw_portrait_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 2167,
+      "sha256": "85cc95ccdf1411391a662e699cfe464235c3d622c165ffc94f56d6c104b4f9d4"
+    },
+    "maw_portrait_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4501163,
+      "sha256": "c8adad8b600de6f150437bad17313cf715574c01c4ac323339520491075f50e0"
+    },
+    "maw_portrait_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1737468,
+      "sha256": "5faadfed4fe00316245eb5aaba791a16bdc90dcec081ccf358fc83921b2a4fa2"
+    },
+    "maw_portrait_candidate_v1/delta/core/maw_caster_portrait_host.gd": {
+      "bytes": 9923,
+      "sha256": "4069a38a683af071138dc5e46fe84a5806caea61bf23bf2588f22307f4b7802b"
+    },
+    "maw_portrait_candidate_v1/delta/core/maw_caster_portrait_sources.gd": {
+      "bytes": 2441,
+      "sha256": "858515321807f6a87443dc1d51f1edb17a22ed9ff20b8914355b2eb7d5dc1c4c"
+    },
+    "maw_portrait_candidate_v1/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "27a484b631d19d212923f2b48ca3d27c4b3dac9076a16ba9a926cd6d6232e9c3"
+    },
+    "maw_portrait_candidate_v1/delta/data/patch_3702_maw_portrait_overlay.json": {
+      "bytes": 20299,
+      "sha256": "77ab61c39399e5f752efa52f4e5bd832822d649e6ad1709a7881384e4777123c"
+    },
+    "maw_portrait_candidate_v1/delta/research/patch_3702_maw_portrait/BG32_MagicItem_205.native.xml": {
+      "bytes": 3605,
+      "sha256": "b6153bef362423418ed4c19a32ff39d9266bab82a6e43b8b0a33d87598c28dd4"
+    },
+    "maw_portrait_candidate_v1/delta/research/patch_3702_maw_portrait/official_excerpt.html": {
+      "bytes": 438,
+      "sha256": "fa51a8395b5c55ab17dd7cbbf9366f4674a16a9698bbc0777bdb8936c1aa14c7"
+    },
+    "maw_portrait_candidate_v1/delta/research/patch_3702_maw_portrait/source_evidence.json": {
+      "bytes": 939,
+      "sha256": "547323499144279e81964c903f262ed67464b524a501f3807ec9d3ce50032490"
+    },
+    "maw_portrait_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 669,
+      "sha256": "94ab092c84ae1e0bb296773b8415da375ad0e7f6550ec49f1d399f3da32970b0"
+    },
+    "maw_portrait_candidate_v1/gate.gd": {
+      "bytes": 18544,
+      "sha256": "c66619f1e9b903d720a9848d8769fd220a3cb771381cd49d93cf2fcd06446bf6"
+    },
+    "maw_portrait_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "maw_portrait_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "maw_portrait_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 484,
+      "sha256": "12f237c539580efc036191973d0cdde73c1d8fb027e0b39675e7daacc4b738bc"
+    },
+    "maw_portrait_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 1670,
+      "sha256": "8719dcf9c3ced192eb15b0d1c8af5b43a609b70e8a213841bf7ab4b1839b0817"
+    },
+    "maw_portrait_candidate_v1/run_1/data/initial.native_save.json": {
+      "bytes": 18010,
+      "sha256": "068717722292220cc4dc6373f10bb7bb1a2acf9f2afc9d701c3ac8cccfeaf517"
+    },
+    "maw_portrait_candidate_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 57448,
+      "sha256": "46838581910d34e8f1a202b7d8475f86d796910a3c43f97c90473024bc385508"
+    },
+    "maw_portrait_candidate_v1/run_1/data/report.json": {
+      "bytes": 4080568,
+      "sha256": "46a13296e021ab7fbbde6902d8c3f15a438febe51526bad6daa6fe5922cd1ada"
+    },
+    "maw_portrait_candidate_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 70585,
+      "sha256": "0a2192f20c303513fcf7c2ca2e82adb67d57fbc1da3b4df4bcc65be5afbe9c33"
+    },
+    "maw_portrait_candidate_v1/run_1/native.log": {
+      "bytes": 1391,
+      "sha256": "97e8923c7119dcdcc8112f883b085d4249cc8cf6e4042ec0126f4cc8b893ad0a"
+    },
+    "maw_portrait_candidate_v1/source_tests.gd": {
+      "bytes": 1388,
+      "sha256": "0afaf163f06a92ca95f154ede94d42a478a87e8b7f2ab97768aa593a2c6a28ca"
+    },
+    "maw_portrait_candidate_v1/source_tests.log": {
+      "bytes": 144,
+      "sha256": "57efb11dd65533e036663f5f45bc25f7b13b52dc525054087a38cb562b2f9f06"
+    },
+    "maw_portrait_candidate_v1/validate.py": {
+      "bytes": 4062,
+      "sha256": "9a99869651e0024166d38b7aa6f471c6ecab71bb392906dfe4848a0d8a0a5bbc"
+    }
+  }
+}
