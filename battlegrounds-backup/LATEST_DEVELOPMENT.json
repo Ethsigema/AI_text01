@@ -1,10 +1,17 @@
 {
-  "stage": "Bobble public checkpoint",
-  "checkpoint_sha256": "7384380d3edc12feddde36b1b5cc7611a6072739b4593087015f12217d3a8847",
-  "content_commit": "1af428b41fd6bd3653c38c520e64db4939989e43",
-  "path": "battlegrounds-backup/development/20261105T0822Z-bobble-public",
-  "verification": "All10parts freshly downloaded; archive2492964bytes and232payload hashes verified. No new engine or fullrestore.",
-  "scope": "Bobble public checkpoint. V4 nativeexit0 but originalcontrollerfailed retained. Posthoc one-expression label validator correction accepted bounded evidence only. Cleanup176 unresolved. Historical draft labels immutable. No new engine run by backup.",
-  "dependency": "Exact Crystal publicabf4 then3replacements6additions, and original Murcules841e nested chain plus originalZIP33b3/overlaydb5b at6fa7. Not standalone.",
-  "as_of_utc": "2026-11-05T08:32:30Z"
+  "stage": "Glambot limited-validation current development",
+  "checkpoint_sha256": "26885c734cac0dc5053bc88b8b3427e53da0cc8424c52a1a2af3f2fba66880c9",
+  "content_commit": "67890a2f7d3da47b1168127e9b0d54d30749268e",
+  "path": "battlegrounds-backup/development/20261105T1559Z-glambot-bounded",
+  "verification": "All30parts freshly downloaded; archive4610908bytes and420payload hashes verified. No new engine or fullrestore by backup.",
+  "scope": "Glambot bounded development candidate: fresh reviewed3lane and currentfourspell, historical failures retained. No full identity/game acceptance; cleanup176 unresolved; Escapee separate.",
+  "dependency": "lazyfa9e -> GlambotV2e8d75 -> Bobble7384380 -> Crystalabf4 -> Murcules841e and original fullbaseline chain. No source delta or fa726 dependency.",
+  "rollback": {
+    "stage": "Bobble",
+    "index_commit": "d3cfc659c6ca25c94aebebe88fa8ee8afa692f68",
+    "content_commit": "1af428b41fd6bd3653c38c520e64db4939989e43",
+    "checkpoint_sha256": "7384380d3edc12feddde36b1b5cc7611a6072739b4593087015f12217d3a8847"
+  },
+  "full_baseline_pointer_unchanged": true,
+  "as_of_utc": "2026-11-05T16:44:56Z"
 }
