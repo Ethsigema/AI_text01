@@ -1,0 +1,101 @@
+{
+  "archives": [
+    {
+      "name": "partial3702_escapee_public_source_only_checkpoint_v1_20261105T1327Z.tar.xz",
+      "size": 1256172,
+      "sha256": "fe1db768cebae214deff9d63c9569778246eff622d5c52ca1c051a69cf2109c1",
+      "payload_hashes": {
+        "partial3702_escapee_public_source_only_checkpoint_v1/BASELINE_SIZES.json": "9bbe734c6f2ff0098d692f8651158d3c6394d874cec21c361e11a06799edf60d",
+        "partial3702_escapee_public_source_only_checkpoint_v1/DEPENDENCIES.json": "142389eb355ad0e830b89d02eda5eb25497a500710341ca8b5b3fdd2e80500f4",
+        "partial3702_escapee_public_source_only_checkpoint_v1/EXTERNAL_STATIC_INPUTS.json": "5d432b6608d3af99e956e346ad7b38b0b66b6b8577ab412424fb3fe8ea6d1a97",
+        "partial3702_escapee_public_source_only_checkpoint_v1/OMISSIONS.json": "2cda260b9ddad980943d09764859540053c970f78957b6cde0363dd59e0862c1",
+        "partial3702_escapee_public_source_only_checkpoint_v1/ORIGINAL_SELECTION.json": "a7beafd0970cfc4068da147470df5ee53bce7be48dd29c8fab8eaf04045ab0da",
+        "partial3702_escapee_public_source_only_checkpoint_v1/PACKAGE_MANIFEST.json": "d1bb43bf9c5218b33fd81ff2da74e9eb98a9ccdc6d66372bf11a79996ed7284b",
+        "partial3702_escapee_public_source_only_checkpoint_v1/PROGRESS.json": "622d2b6b3c21a60a40b1fcf55a05a8d5956dca9c746f19e2df9cc7c929a39e15",
+        "partial3702_escapee_public_source_only_checkpoint_v1/README.md": "7aed7e807b38c607e2fb5e6b2ea9457810aa0daebb614d16eebed7a2118604f6",
+        "partial3702_escapee_public_source_only_checkpoint_v1/RESTORE.md": "bf1340bde91dd7e023451e89cc99f36c4afe9c9cb8fb605b873e2d8399b81bbf",
+        "partial3702_escapee_public_source_only_checkpoint_v1/SOURCE_COMPOSITION.json": "b9ba409454756f19e9f3a4ac0c77c31f1f6af112ec3a123ddc907870957f132e",
+        "partial3702_escapee_public_source_only_checkpoint_v1/VALIDATION.md": "f143d6c3bf2dd15c71e2fdff18978d2aa51bf49ad09fe727044180b8991deb0a",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/BASELINE_FILE_MAP.json": "c17837080edbf7a51cd808cc42431ba069dec83785ae740f360b6737bc21b5e0",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/DELTA_MANIFEST.json": "6f24f0e23c2e53741177b8e6854ba4147968356f26e805707869a04749158091",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/EXPECTED_FILE_MAP.json": "88bc47fa94d861e30ea05cc3a9ed052bbea9e6a7872a1ec3c89852c5093467ad",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/README.md": "47a8612ec422d82dc13b92d931017f6633312bd3d6c05c25f5a049893548ec99",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/SOURCE_DELTA.patch": "be5a7ed9cbab960971cf55419ea698d209f67a8aaa37da2d778f7b7fcb6f9206",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/SOURCE_DELTA_INVERSE.patch": "c5005d7ac3376eb35b367181e659b5591a7103fade613279a5ce4d4e65356f3d",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/checks/group_guard_model.py": "b98f964136b817a1c24d6dc237069dc08e1cb22393729ac26a837ed2813480c3",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/checks/group_guard_report.json": "316f208c2418ce5b8f76b97e94dbbf666cdaa36adf9a18930e3dcce4f0e15594",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/checks/isolated_escapee_test.gd": "48afe5ae919729200e4ae9809aa5f1c751c9764c4b08f5a5b8b15ea261db562d",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/checks/legacy_merged_rows.json": "07839a85e9d56d6605b1f4f2a6c787492579dfaf17b1e100f54fa074ec335f7b",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/checks/patch_roundtrip_report.json": "71ab374f5afa03dd4f839fd24658b9ea14d9d085ee018705eab6e3e90f86a749",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/checks/static_check.py": "995f95f4755dcf54965e13ddd70e8e452ac33c584562957a24570d86151eb61b",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/checks/static_report.json": "1637440eadfeb0675807dbef31bbabe1999b45023a7c319e994663130da759b4",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/core/catalog.gd": "839975a66cfe0e9eea895ebc4509fa08024194ae8a8d65601741ea97af89f0e5",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/core/dark_gift_qualification.gd": "8c3771c4c848827b55e5f29d496248a46dabfeaac17d720f085288b51655f607",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/core/escapee_portrait_sources.gd": "1b1e585f255e5c7539f80cdb7b1c7069c35f3ffdd0e20a0006f2b8d3e9e4777d",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/core/lockbox_host.gd": "1dee7b28cd65c98efb1a50df8c0f3eb6128ef69b1a25c73c815e4739c6a641b8",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/core/lockbox_sources.gd": "f9ae75dd402a4dbe14c3ac0766c6e543399e50a5983dc96b4d4fe565e4ec56b2",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/core/lockbox_spend_projection.gd": "642c691e51e9c3d67815c4d493f52346876da090f650a69e38bdc191fab985f7",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/core/patch_3702_enterprising_escapee_sources.gd": "d5223dc05ed1af32c8ae7223838ebc0a30acfcff78e408ad1dc5643e280973dc",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/data/patch_3702_enterprising_escapee_overlay.json": "5d62a1e5f2b4b99c94dfd816faebbfcf7a347c23f7e8b40f3ba9bbc7616d5de7",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/research/patch_3702_enterprising_escapee/exact_records.json": "3da6d52d190e5b52f00527856b945ebe0bc0ddf75039aad931991fa3e9e10b69",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/research/patch_3702_enterprising_escapee/expected_effective_rows.json": "ce38c0ed9fef93be916d25e6461737d86a9259c2d40a94d4283f2db0a60481a0",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/research/patch_3702_enterprising_escapee/native/BG36_520.xml": "45f3a0a40b13363b3b832b51e6e838bb657862fa997a9a0c2385962ee06c5eee",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/research/patch_3702_enterprising_escapee/native/BG36_520_G.xml": "f4c84d2231ed2d20e7ac39924c7d1131b926e932eab54bf104d16a3c06b0f571",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/research/patch_3702_enterprising_escapee/native/BG36_520t.xml": "f40fec979d8c1dd7ace9c2c2b8efe2e11e4efb197936c674f63120a133685f6a",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/research/patch_3702_enterprising_escapee/native/BG36_521.xml": "30dd9537f2043f5e3e4566d51c57d34b49e8df2f6bae6dd998de8de88aa0a7f7",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/research/patch_3702_enterprising_escapee/native/BG36_521_G.xml": "277f69959a7ccc1ffe521977d2684231f429bac4329381c9125ced074ec252e5",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/research/patch_3702_enterprising_escapee/native/BG36_523.xml": "6649ed8021dfa6f265de9884e0cc0eeba8432248e49a81947c200cad673016b7",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/research/patch_3702_enterprising_escapee/native/BG36_523_G.xml": "6765d55ecd62aa684427936a2e35dfd41df0cb270fac4113a4da55c4b79d2006",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/research/patch_3702_enterprising_escapee/official_patch_excerpt.html": "89b01a4f8fc865f5a54284396fdb7b96bc7361c7408549edb3ea47e9fd18ad57",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/postimage/research/patch_3702_enterprising_escapee/source_evidence.json": "56be81cca9babe5ee87bde2737c1fabc42191109dd4b0e421867ec5b846410ff",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/preimage/core/catalog.gd": "ce57a66474a05d918c3b50e7ef23216accc26a3f02a1b245cfb44a26d2db01fd",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/preimage/core/dark_gift_qualification.gd": "b2ad44d9f38d5a9af12ecac485c4222c14d1ede33a4e01d42ff159b536d4c476",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/preimage/core/escapee_portrait_sources.gd": "7f22a170103e3c1a13ed1d3509f1ac16b134f9f62a1f23d9c2cd7e5737de13c6",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/preimage/core/lockbox_host.gd": "12f5a90fa89585098398f6221a2690790e65eb7ded581e5c9387077c374bc2c6",
+        "partial3702_escapee_public_source_only_checkpoint_v1/original/escapee_source_patch_v2_20261105T1247Z/preimage/core/lockbox_sources.gd": "2c47a0332975bf650dfd4635200a57a4072d5d22feef52c80d16ab6d5c03da20",
+        "partial3702_escapee_public_source_only_checkpoint_v1/reproduce_source_checks.py": "36271d5b3ec919b626450e2ff7c777f0f6b4ba6825108f2c3385ec9d1087170b",
+        "partial3702_escapee_public_source_only_checkpoint_v1/restore_escapee.py": "1bcd1e50f22fe15755c07a4450dbb7defb1cc14a808b81cad9c00d5103339a96",
+        "partial3702_escapee_public_source_only_checkpoint_v1/test_restore_tools.py": "17ef013e5f7435e245a6051f4c3ef425af03c21ca5a36fd62d0b96f05de3e665",
+        "partial3702_escapee_public_source_only_checkpoint_v1/test_source_tools.py": "8ec6103d1f7c1d881f36a3ecc0b2dd570d83d312acec6def9820b7588ac51a9c",
+        "partial3702_escapee_public_source_only_checkpoint_v1/validation/OFFLINE_CHECKS.json": "97c9391abc6e3a8e60ba72ad7b8615e7a34eb538b60dcd036f4e3462e49865c3",
+        "partial3702_escapee_public_source_only_checkpoint_v1/validation/restore_tools.log": "7f2bb9940f5c2b60b16b25f0d7b39d0bf9b38b964cba43c83f609d0a010a1823",
+        "partial3702_escapee_public_source_only_checkpoint_v1/validation/source_tools.log": "4da9f533e0d9d3dd35f2d2b6092526a1a4c1f1da28bf9e817ec976b2d3301b0b",
+        "partial3702_escapee_public_source_only_checkpoint_v1/verify_source.py": "aab784d338957f0eed6e852bd675b3b1988eb86df8194df5e3d882d234d61887"
+      },
+      "parts": [
+        {
+          "name": "partial3702_escapee_public_source_only_checkpoint_v1_20261105T1327Z.tar.xz.part000",
+          "size": 262144,
+          "sha256": "97690d98461c82e008643fb215b7334561290d78fb028eb9daa278539a636d86",
+          "git_blob_sha": "ce404f3fc08983aa005c915e9467415d632ecbaf"
+        },
+        {
+          "name": "partial3702_escapee_public_source_only_checkpoint_v1_20261105T1327Z.tar.xz.part001",
+          "size": 262144,
+          "sha256": "7b46583b96005abb84ec4ce8e5b8d1d7e2c15c003a3608c6df64fa983e55d666",
+          "git_blob_sha": "8844ccd176675f4e1d6bab0f66e3d73ee0d413d7"
+        },
+        {
+          "name": "partial3702_escapee_public_source_only_checkpoint_v1_20261105T1327Z.tar.xz.part002",
+          "size": 262144,
+          "sha256": "3834db01c00f608b321da8120bdb1e93fc47683348642d97cc5ffc3b5a92c0eb",
+          "git_blob_sha": "efff025fe3f28709455bfc5a7d1bbd61d7be2f24"
+        },
+        {
+          "name": "partial3702_escapee_public_source_only_checkpoint_v1_20261105T1327Z.tar.xz.part003",
+          "size": 262144,
+          "sha256": "7cebd54e5daed54cddab8277f098d4c56b1a9a2efaf97fd7fdc7260ce543de60",
+          "git_blob_sha": "423a007afb1abf100c8744c7ca78e6c80882852a"
+        },
+        {
+          "name": "partial3702_escapee_public_source_only_checkpoint_v1_20261105T1327Z.tar.xz.part004",
+          "size": 207596,
+          "sha256": "a4fa935ae155a9c0a6cc578a7bb3a26993ee29911262c427178a770c77cea7c4",
+          "git_blob_sha": "227ea3dc2786191c8efb9cf73357be1aa937d114"
+        }
+      ]
+    }
+  ],
+  "scope": "Escapee source-only public checkpoint. Static checks only; no native gameplay acceptance. Accepted development pointer unchanged.",
+  "dependency": "Exact Bobble public7384380 then5replacements14additions, plus Crystalabf4 and original Murcules/fullbaseline chain. Not standalone. Accepted development pointer remains Bobble."
+}
