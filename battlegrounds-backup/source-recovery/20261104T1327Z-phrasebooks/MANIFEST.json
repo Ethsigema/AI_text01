@@ -1,0 +1,299 @@
+{
+  "archives": [
+    {
+      "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz",
+      "size": 2533184,
+      "sha256": "822eb9cca80d99dfc3a24691bff9e6de7d5c76259fc490169c31fc0033255e5a",
+      "payload_hashes": {
+        "murloc_phrasebook_candidate_20261104T1223Z/DELTA_MANIFEST.json": "133e7ce4d0eb08f1ed61e5dae367597bd179295cf80ff709b84b154c11273307",
+        "murloc_phrasebook_candidate_20261104T1223Z/EXPECTED_RUNTIME_MAP.json": "441ecc8673ec5037cadfcd342594b1c56e4b50c1ceeea37d0058545d0f06314d",
+        "murloc_phrasebook_candidate_20261104T1223Z/NATIVE_TEST_REQUIREMENTS.md": "d11155f03c42efdc50514d29e538693988322cd043035f529d3616d041b26679",
+        "murloc_phrasebook_candidate_20261104T1223Z/PREPARATION_STATUS.json": "83c4a6649e899b66e17ff8c8352220038558572e5d7ed8ac7c3e41e03ea08bcb",
+        "murloc_phrasebook_candidate_20261104T1223Z/README.md": "363db3e49d14f005fc878635c1f14ca01d9509b15706d7ef2da147394bdaec59",
+        "murloc_phrasebook_candidate_20261104T1223Z/SOURCE_DELTA_SEAL.json": "c110a90c75f4476e07a8198e3755972589cf07d0617960d54fe9f2c9aa62aab4",
+        "murloc_phrasebook_candidate_20261104T1223Z/delta/core/catalog.gd": "e56fb3627b362844ed29d41d28029eafdad630d7885577398c2d8c0ef5f1622b",
+        "murloc_phrasebook_candidate_20261104T1223Z/delta/core/patch_3702_murloc_phrasebook_sources.gd": "a4b64bf07fbf3d6b73a662a591404ae77b740d8fd0ae396212bebf57ca422ce3",
+        "murloc_phrasebook_candidate_20261104T1223Z/delta/data/patch_3702_murloc_phrasebook_overlay.json": "c674d8181c8e099046b88d32791e9191e038d03fe5a5ae806e335e975ed756fe",
+        "murloc_phrasebook_candidate_20261104T1223Z/delta/research/patch_3702_murloc_phrasebook/native/BG30_MagicItem_914.xml": "37afe471689acc6d18a3cf996d2af63cf5255c19b623630e432d641c03ab9c67",
+        "murloc_phrasebook_candidate_20261104T1223Z/delta/research/patch_3702_murloc_phrasebook/official_lesser_phrasebook_excerpt.html": "af1b7001e9b86cd4b6e19218a2173caf7390962f1768eb24199092ff1a927456",
+        "murloc_phrasebook_candidate_20261104T1223Z/delta/research/patch_3702_murloc_phrasebook/source_evidence.json": "78412cf332c597654fff9f09b7362fa6fcdf4908c7760a7910f5eee4e613a855",
+        "murloc_phrasebook_candidate_20261104T1223Z/expected_effective_phrasebook.json": "43e78df4daece74704c975b6de71944cacca90e9f647b268c10284c21c236143",
+        "murloc_phrasebook_candidate_20261104T1223Z/preparation/EXACT_CATALOG_HOOKS.json": "52f290c034b1b6979335c68a88949b38f46a0e489c786dfedb114d2929bd69b5",
+        "murloc_phrasebook_candidate_20261104T1223Z/preparation/STATIC_CHECKS.json": "fbb430559163cf4f1f31bbeb852c6aa6a300ae970b21beb0b84c1333bef709d8",
+        "murloc_phrasebook_candidate_20261104T1223Z/preparation/STATIC_CHECKS_FINAL.json": "95264fa1e80aa3008735531f532b5e0c272c41476db0e25432ef4da569f058a8",
+        "murloc_phrasebook_candidate_20261104T1223Z/preparation/build_candidate.py": "880325c82d341962356950255e5199c98d1accc0aa912a37b0c9ab8a07be7c8a",
+        "murloc_phrasebook_candidate_20261104T1223Z/preparation/check_static.py": "001acf28c56c18630647fc57487c8fc463ea0af39a11d7da48274d59a079b27a",
+        "murloc_phrasebook_candidate_20261104T1223Z/preparation/helper.gd.in": "abf1af5cd8c2cb81ec638530565d57f998ba80458dacffa43bb044321221713c",
+        "murloc_phrasebook_candidate_20261104T1223Z/preparation/verify_checkpoint.py": "5760346613f06548af6bef562f4b716584a3e1c6a8503cf6a4954c3ca29a69e5",
+        "murloc_phrasebook_candidate_20261104T1223Z/recovery_inputs/BASELINE_SOURCE_MAP.json": "c0584531b6d30a85f39ef28f827e55d16fbc88b2c7f26094eea9a11272ed7ed2",
+        "murloc_phrasebook_candidate_20261104T1223Z/recovery_inputs/COVERAGE_CONSUMER_CLOSURE.json": "64b65b4421908b6b8a12bf42787942a73313c6dc52eb98f04cc210ecc4c75fb4",
+        "murloc_phrasebook_candidate_20261104T1223Z/recovery_inputs/UNCHANGED_GREATER_CONTROL.json": "3f410ef1105bdf66685e451c9382a1b160ae8764595b6b85602477b765becb79"
+      },
+      "parts": [
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part000",
+          "size": 131072,
+          "sha256": "b5270c909f0d0fc442ebfe64586b1ea1f34ff27a6e1b5a7c88d474301aa6367d",
+          "git_blob_sha": "6167f0b41b89d87af026d4531338942d8b343918"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part001",
+          "size": 131072,
+          "sha256": "f9093aa6574890bd11e51d98a25c7917e9407ab07f89871c2b06a5bb23776194",
+          "git_blob_sha": "b9bbfa4c92d1145b44c02744b2ad92eb44981a4e"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part002",
+          "size": 131072,
+          "sha256": "7273fa15ceabc0a103ec1dc95fbd89242067a8f1a05b41123ff52313fd9bbb86",
+          "git_blob_sha": "3533eb1d87da62603a497565f5780ea331735b12"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part003",
+          "size": 131072,
+          "sha256": "fa9de32aa217d06fc998017db0e4c24dd4ca26089a6384d8edc116b1c2cf3b39",
+          "git_blob_sha": "60c033101886af462838aeffaebd3b69be084ef9"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part004",
+          "size": 131072,
+          "sha256": "62d6d904fc5dc8e6a42d8d6b9d6e2ad17cbd23c4badf6ce6c93e885c8f68dbbf",
+          "git_blob_sha": "11a29a71f117544996e1bfe7bd22b4efa5bbae5d"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part005",
+          "size": 131072,
+          "sha256": "618f7c52bb97763256f0714218d831a04589049656f4ecd2e832111c051eb68d",
+          "git_blob_sha": "070e84bea2d0959f4bb888f370b54641df2b5e9b"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part006",
+          "size": 131072,
+          "sha256": "ff94378a1ffc684f2af9b609da18be3214f3bb29b4ca8b2cf6fdb5358ffcca0c",
+          "git_blob_sha": "9c8d35f103b9c3a813bfcae2b8606a6b84c057dc"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part007",
+          "size": 131072,
+          "sha256": "09ee192375b17cff5ff8942d895728d28e5bb279007a6faa95e91989a1612286",
+          "git_blob_sha": "cdb260a41d627d97dbed64446349f3715eaf9864"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part008",
+          "size": 131072,
+          "sha256": "7f9943f49ba0e9448feba5635c41759ace9fe77ae560da61480e1961d2aaaea7",
+          "git_blob_sha": "1de513b2cecd46be2a823d4c8c3dfcbf21267ad4"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part009",
+          "size": 131072,
+          "sha256": "b276c1e63a02ccb0635d164942177ecacff14f2f48a0c92f0c52f446f95e3bcd",
+          "git_blob_sha": "983a76a36dd35457f3fedca8ec30b8e2321b43a0"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part010",
+          "size": 131072,
+          "sha256": "1ef8081c11ac351476010a613be63bb265bf4c09f63c55c5158cf250e1d96438",
+          "git_blob_sha": "87eb7eac3dd805c764e1d8ee68e43b6cf316d083"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part011",
+          "size": 131072,
+          "sha256": "ef1794721776dfeefb8f0a89e9ea8d679d431058e3690604f30737f55e96ecf1",
+          "git_blob_sha": "5af4e7b6ff15380f4a4a1734f29961f392e762ab"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part012",
+          "size": 131072,
+          "sha256": "e596423b71a9eda7fa840947ed6893eb9fb62dadc725fd8fc6d73d948259b113",
+          "git_blob_sha": "b9389425663dfaa1a57283bc473c08a096d61af7"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part013",
+          "size": 131072,
+          "sha256": "b3dde619daded367ae6c772c1f2d73a725947b5d2639a1b5372c6abe8b02f3a9",
+          "git_blob_sha": "17959da9a2a8173ec6fa25ddbabdc0c81bfbbc73"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part014",
+          "size": 131072,
+          "sha256": "3857f87f8e52bf21be20688bbb5aea7c57ee348ec3134f0238171b2d40a619d8",
+          "git_blob_sha": "9eeb8431d92dd68225b0897552be6d6ce41faabb"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part015",
+          "size": 131072,
+          "sha256": "17ed3e40864b6431d806c773b914964600e7d1f135568afa8fed0183382d997f",
+          "git_blob_sha": "75dce5f077bda3ff0ba5f4e2ab0337c663fc36c8"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part016",
+          "size": 131072,
+          "sha256": "ac86ce1be74bf1e590dc76d8d24b5e3387e1f6ba18f42bc1f3456a82432180ab",
+          "git_blob_sha": "919db6742083a99014715e960522c3224fa6bf42"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part017",
+          "size": 131072,
+          "sha256": "e218a18bbe81f1941c7ab06fc728f8c55cc9d23687c8faeb25fff31129aa76c4",
+          "git_blob_sha": "932c8004262a70eee68b4f96a2f179cef10bc6b0"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part018",
+          "size": 131072,
+          "sha256": "2c325fb0bdae67ba8cfcd1d413ff0187dbc2144edb00a2c9d9b3543238be07ea",
+          "git_blob_sha": "de8777d896463c88b82c013d6090b5bacaf2e792"
+        },
+        {
+          "name": "murloc_phrasebook_candidate_20261104T1223Z_source_frozen.tar.gz.part019",
+          "size": 42816,
+          "sha256": "4c94f01e1847ea9e1ef814cc96a9821979c91b396667c0dbc55f150b8577e015",
+          "git_blob_sha": "991d4407727e842bf3218698f1b2a2ff1ef7ca13"
+        }
+      ]
+    },
+    {
+      "name": "greater_phrasebook_3702_source_delta.tar.gz",
+      "size": 2510582,
+      "sha256": "07530292ebd301ecf5080c55da7b5f66d0ee1c812488495ec8151205e9638b56",
+      "payload_hashes": {
+        "greater_phrasebook_3702_source_delta/CONTENTS_SHA256.json": "03e545a5c177a74053dcf49c35f7574ae9927c5157047fbfac415856707453a7",
+        "greater_phrasebook_3702_source_delta/DELTA_MANIFEST.json": "c84b52df01b102710c9a5333ab8b719e65c2b6656caed6124a3b32d4727d5867",
+        "greater_phrasebook_3702_source_delta/RECOVERY.md": "02c527674635d3f195b4e18bb4a090f2efeca1e15088af05feff59d04f3ea008",
+        "greater_phrasebook_3702_source_delta/delta/core/catalog.gd": "9f61fc47ac93528db87d4e73a86238e639ed4e4140b02210e5115bbbcade38b9",
+        "greater_phrasebook_3702_source_delta/delta/core/patch_3702_greater_phrasebook_sources.gd": "841f3dc286f91380f8bcc667188a7d15334244625997d0c8a0bea84d3e23a565",
+        "greater_phrasebook_3702_source_delta/delta/data/patch_3702_greater_phrasebook_overlay.json": "b7f2efa3890a54626e3e8cbbc65481e8b4177c210d8d1daec16f50bb82166aa6",
+        "greater_phrasebook_3702_source_delta/delta/research/patch_3702_greater_phrasebook/native/BG30_MagicItem_914t.xml": "35f7cce425cb6895f58ca08f64e8a80afdb508962609334c84570460c39b99a3",
+        "greater_phrasebook_3702_source_delta/delta/research/patch_3702_greater_phrasebook/official_greater_phrasebook_excerpt.html": "3ab81628a2ea69d62a584658fd28ec9d31fcc496884f90b379e42e7de1b624c3",
+        "greater_phrasebook_3702_source_delta/delta/research/patch_3702_greater_phrasebook/source_evidence.json": "0141a4200b1e7f43981c1ed5871276263f25c29cf5ed957b0714f513566f4896",
+        "greater_phrasebook_3702_source_delta/maps/BASELINE_27175_SOURCE_MAP.json": "441ecc8673ec5037cadfcd342594b1c56e4b50c1ceeea37d0058545d0f06314d",
+        "greater_phrasebook_3702_source_delta/maps/EXPECTED_27180_SOURCE_MAP.json": "445834543f69d64f4f62963bd8caae7441ce958a0c70636b5f2b939d2aebd568",
+        "greater_phrasebook_3702_source_delta/restore_source.py": "746858870048fda616df3c86d86492c35fd75d6c375de40403e17111687dc5dc"
+      },
+      "parts": [
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part000",
+          "size": 131072,
+          "sha256": "de3e112c9ca52cb9106620c474a6d543a09545e3cc9c7840543ebd46ffdd8c90",
+          "git_blob_sha": "3e0ae45172e1a2b622cfd96b33cede03680e0aa6"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part001",
+          "size": 131072,
+          "sha256": "5a270292b48628761408823e4d73483c8dcbd083d590e147cc3b6e0d0fa06640",
+          "git_blob_sha": "d32e0da470a016b90741f6334ff6e4ba40c157e9"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part002",
+          "size": 131072,
+          "sha256": "70309850494f961ef0f1e8522f76e2503c8f542191cc9b0e196fbeda50c9a42f",
+          "git_blob_sha": "e87c8d70a56d2af990fcd363549dc87d65493804"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part003",
+          "size": 131072,
+          "sha256": "c38fa355491727956a3ab1b52f41968d71c8f2babd562a2c88168c3a009db741",
+          "git_blob_sha": "7b5b2230e870075630fd4a842ff35f737890a13e"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part004",
+          "size": 131072,
+          "sha256": "a641e2cdf91c10a4d7bb684d6bea146add92564bbda1e4915ef6d5e66f235b54",
+          "git_blob_sha": "644c4f926e60217f90cc26c72052af52e4d604c3"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part005",
+          "size": 131072,
+          "sha256": "dba549613e6812297404b2e3f65e8ce2fa3985606e2eec2bd68a55e925191964",
+          "git_blob_sha": "1dc6e4efa59494d8664a724060f088b681d590f9"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part006",
+          "size": 131072,
+          "sha256": "43ffac0121cc876c98c3580ca74840c3bb54e589d44dae9b96857be3fa1f0a81",
+          "git_blob_sha": "5161f214889f4f01611814b75db0c20a5634ad89"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part007",
+          "size": 131072,
+          "sha256": "66582d5c8b5ac3bb7e55a40e49feb95b5f6ac6886fd98387c896b461d758c229",
+          "git_blob_sha": "42c3d4a8a64df379385c81a1207fec400a3d8675"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part008",
+          "size": 131072,
+          "sha256": "c632cbef47f1db1dfb3dbb1731a4c710acb1dc3908dde404430dfae3976315f0",
+          "git_blob_sha": "3ea5c2e4e06b6195419d595296286ea694403dd3"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part009",
+          "size": 131072,
+          "sha256": "c81fa202f152f65f43eb53c67b7e82a2ae634d4cccc661f8ac2ab0b33a50f3ab",
+          "git_blob_sha": "afff52afdf9527f8343845d83844f54700ce6f17"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part010",
+          "size": 131072,
+          "sha256": "4d9464ecc4f21e58a66c13a80ff6436ebccb85f86bef09203da747176c8bc8bb",
+          "git_blob_sha": "7a50b500f65571abd9b140110c4428d165f1a335"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part011",
+          "size": 131072,
+          "sha256": "476411edcf699fb14277e023890b00b5203c8596ff868193b80853d5897d0df5",
+          "git_blob_sha": "9e69178667efae4662c1c5a9e9df7e767df575c1"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part012",
+          "size": 131072,
+          "sha256": "ec0b31a003bd2406b9af7f99c5b29df6ced92bd76f360f4df3c43aa27d1e871c",
+          "git_blob_sha": "7d642db4468a797c00249c9d66bd6ba6b28a47c5"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part013",
+          "size": 131072,
+          "sha256": "c4a0fb4eabb219fe85f58a1d30fd372620a987494eafb2ce3d2ba1090eaa8751",
+          "git_blob_sha": "fb5b42bf1984de6b429fa36d6a1c671edab4c262"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part014",
+          "size": 131072,
+          "sha256": "4428a9e504d09ec6eb5564f17bd6f12b346f9cc65cdd34b509bd17de78aa2ef9",
+          "git_blob_sha": "cdff2c4819ed87dc213949b69fa9cc082eafd9f6"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part015",
+          "size": 131072,
+          "sha256": "c825f00ce74b206a49298ed72ea687fff0aee418192d399f6cddf2a577ed261a",
+          "git_blob_sha": "0cead7eb8d29022d7f8fa8db124070efac27b43d"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part016",
+          "size": 131072,
+          "sha256": "069a7920163f6a606414cd0515cfd99e10dd643aac6c470db13f2e33c13e403c",
+          "git_blob_sha": "51a5e340abcfb503cedcef71653f7646521501e9"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part017",
+          "size": 131072,
+          "sha256": "054dddbf9606bc08fb0c7935b27457242ad5cf3d778d76938023bc7c97141461",
+          "git_blob_sha": "fabf5a75b9d9a07aa70b5d1d886e13f05330be0e"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part018",
+          "size": 131072,
+          "sha256": "cce693b4e39244f85e6f3dbf05514f053422969fde92f09513555e13400a0609",
+          "git_blob_sha": "907270430e8ec5f619c8c6a835c19aaf4a02f760"
+        },
+        {
+          "name": "greater_phrasebook_3702_source_delta.tar.gz.part019",
+          "size": 20214,
+          "sha256": "c5ef23f5870da2b26775143ee64350379e91f97f20c9cfd797c2a54ba118e65f",
+          "git_blob_sha": "473e2e2e98453f04009222471a246b62f4e55bdc"
+        }
+      ]
+    }
+  ],
+  "scope": "Source-only candidates; neither Lesser nor Greater native gameplay accepted. No promotion. Greater requires exact Lesser map441ecc; Lesser requires Azerite27170 baseline.",
+  "dependency": "Azerite6bf96 at e17ebc76003a44b319620b4f2c0d76c31b7e714b; preceding841e and original ZIP33b3 plus overlaydb5b at6fa7 baseline. Preserve full baseline pointer."
+}
