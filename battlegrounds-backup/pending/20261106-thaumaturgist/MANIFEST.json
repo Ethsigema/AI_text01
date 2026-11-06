@@ -1,0 +1,918 @@
+{
+  "status": "Independent bounded ordinary Thaumaturgist candidate; no promotion",
+  "archive": "partial3702_thaumaturgist_v1.tar.xz",
+  "sha256": "3b0bf9c4e03f9d4163035800777f2997aedca3c83612386363694c2e78baf46d",
+  "bytes": 3837008,
+  "parts": [
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "4d6e45f98beeb0c813c772c7e4d4ce7738027aa63aea928f5b452f32cc9e0428"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "e910ba1f92d63650869c6db01ff2a93bef61adcc8afeada7cd27e0223d6cffff"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "68eec6b22335b6d7fda6a5fdddca3c9fa256c23cc26b1f42703e1282ce1a1b90"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "f247215eff3685b95882d808dc735babbf7a3d9698a95aeb324c477b6d5c0560"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "c8f594247c449fae5220682fbd5397b7252bfe7aa85f4d7d48a25b21527221de"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "1be972745c43f3fc8a7ad35a3dd3a3383b3a8990831efeec780877119d7da6fb"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "9462844e35e2cabb560c07b671200ce9e064064f22bde0442616bb7dc2861964"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "ebffcd5c2de7beed60645001126f1cd7679487a36d8e4594b8fc72658718d38b"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "07856cf388a55764b59b977689d8f4b6481949504b0040c8d29a9168ec5ea2f3"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "3c580a8a6173014dce6b2f9da7fefa2070abd0481e9077bfca80a560fd582a95"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "225ecff7d1953fe423254745b9054a0f5dce9557217f999a033486584e47ccd2"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "c632c704b5eea25cb2c62b4b4445c9fa102e95d65822d3ac79ae9e68856a63ef"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part012",
+      "bytes": 250000,
+      "sha256": "312cfc247feb049ccfad268336050eebfc17fd3aaa5ae55b9c1644ffc9894a41"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part013",
+      "bytes": 250000,
+      "sha256": "df71b5dd97718305c9a613e2f7cb357541a1009deeea99c994f3bd01f6936cea"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part014",
+      "bytes": 250000,
+      "sha256": "05f4edabad088a44babdfa96223e8ed323b2f27840b835622af7ebb8bbdd9909"
+    },
+    {
+      "name": "partial3702_thaumaturgist_v1.tar.xz.part015",
+      "bytes": 87008,
+      "sha256": "6ec6bbee9fa9827e3eb49f630b7baafb1514e9d2796f0315522513e6ac7ed339"
+    }
+  ],
+  "files": {
+    "thaumaturgist_v1/BASE_MAP.json": {
+      "bytes": 4522093,
+      "sha256": "777c6a6e2b84afbae642402e4c646103e93ebfdd4ebbbd152469016335f09e5b"
+    },
+    "thaumaturgist_v1/BINDINGS.log": {
+      "bytes": 1769,
+      "sha256": "1d658e59f843a2759298054cbf7cd1c55ecfb5db67951cfb91c3de39d4b5ac82"
+    },
+    "thaumaturgist_v1/BINDINGS_2.log": {
+      "bytes": 5,
+      "sha256": "e628d1e0eca4d8c7f07c8f9e7c2ff22032d7b86798856591ac4cf1074b1a306f"
+    },
+    "thaumaturgist_v1/BINDINGS_3.log": {
+      "bytes": 5,
+      "sha256": "e628d1e0eca4d8c7f07c8f9e7c2ff22032d7b86798856591ac4cf1074b1a306f"
+    },
+    "thaumaturgist_v1/EXPECTED_ROWS.json": {
+      "bytes": 32342,
+      "sha256": "a1aa7f7cca260a0ec4d47fa454d89d49e1af3e6f54e5c22c91e15e1f7729f618"
+    },
+    "thaumaturgist_v1/PROGRESS.json": {
+      "bytes": 677,
+      "sha256": "4bcf2791cbb1d1fbc0951ea02e35fdc94ab04070a0fa65bff9c860938d804b2b"
+    },
+    "thaumaturgist_v1/REBUILD_LOG.txt": {
+      "bytes": 3888,
+      "sha256": "5d04b8c9c5a09ee967f9cf6272cfaec9796ad6e09b7259a6cf43e33912d8b1c4"
+    },
+    "thaumaturgist_v1/RECONSTRUCT_LOG.txt": {
+      "bytes": 288,
+      "sha256": "cbf8f80e7bd5a62d1c919c2681253e529ace9f1440edc92a7ae1912389223fdd"
+    },
+    "thaumaturgist_v1/RESULT.md": {
+      "bytes": 3206,
+      "sha256": "bda61f7502e4d4ecc4c2750114036333d5c5de2ca3dddf7ddb7131a753f50392"
+    },
+    "thaumaturgist_v1/SOURCE_DELTA.json": {
+      "bytes": 15308,
+      "sha256": "94fe71bc3a7302c4e5efce2a3a4a54fab3c52578aeed01eff3b2ec10c9bf9550"
+    },
+    "thaumaturgist_v1/SOURCE_MAP.json": {
+      "bytes": 4524839,
+      "sha256": "398fa8aaba38c8871784f808b1332fee96db4ec14d5f49da338720778bd3f30e"
+    },
+    "thaumaturgist_v1/VALIDATION.json": {
+      "bytes": 472,
+      "sha256": "050ea3c7df4ea90e020d8c8fd8948857eb14b73e4689931cbe8dfb70ef6549eb"
+    },
+    "thaumaturgist_v1/build.py": {
+      "bytes": 9958,
+      "sha256": "560f8b013d0e13a72fd41bff6321cf2889f96600a9a7d801b486cc4da753e1a0"
+    },
+    "thaumaturgist_v1/delta/core/catalog.gd": {
+      "bytes": 1780193,
+      "sha256": "c14334c362ee68a43a77f1f90ed2919a5addc94c5ede89ea4b6f30d2c6f2ce81"
+    },
+    "thaumaturgist_v1/delta/core/dynamic_spell_effects.gd": {
+      "bytes": 25779,
+      "sha256": "97cc96b5869df0c5a2ddecc02050316cb4e35b8a460d66fa1c9ae80888b3a258"
+    },
+    "thaumaturgist_v1/delta/core/game.gd": {
+      "bytes": 1315255,
+      "sha256": "ffa3b98ccd88b3f6a5c00de94cd68205ee447c02c144418e8048443ced2a63f3"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "4ac845d9011dd5ad513dad05947343af524d2b11cf073cc1bc3eaf4f56dcb6c1"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "3d632229385be7fb84861bf48c82666a3900ac68f18d54812d3c6d1bec217df0"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "3ef541b5b95606cab3fbe25bb69e859ded74e92b06fa3fabf57ea211b5d5b78b"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "a95ee5bc7003c7910ab5a0a2ff0ec206d6ed958c970d1f6ccdf68c65b69dcc7f"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "59d0b9835fc3a602e5ea55447b881ae8ca254986219816867da43ad6b43ea438"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "0bfc7287b4ffa4b206889a1c7bd293f69e955b1a16142800c8b77a3485155217"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "2dcf239c39353e301bbd4322219c5de5c484b1f17ef3e00c63bc1401b6cc2b2f"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "6602d67d220b025eb4d355eab3502f24fc974c0df169e9d7c25f7e500e2a43c0"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "850c2b1dd7f69ad705386200011b5905458dd603a9042d706fe422ce5fd5c929"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "e07b06a1566f160be08f54890a41948b4c6cf5dd44b716b8e7584e29c8125ae2"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "4f6e5389f9a0f52a3b51dfe3fc6ecd92ee122bd8d5c0384abfa2cd335cd59d16"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "c15440131f173a98227c5d345fca7b11d57ba02a1461623e7c2de0554c3abca5"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "3c43109c1299f5b94b0d7f65b94e94ec74f89d6bff78166d89dd4b9109c92824"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "2aece84d6969e9a1725e879997bcc636ecb9f7066e1e9b12e507f7d6a8ba1ca4"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "99b9dec1bb1b71587679ebf0b3af1b2237a71615a95a3c7bbf27d84d880c8c16"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "277dfda5f344c42e74a6c45d2f101e2fafc0279af6d6b6c1b6a95c5447dd0fa0"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "2f2eea58b7a324d3ea3defdcf9f4033c544df27617201f941fadcd4f7b98dc24"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "058d5888c08d4822dce1769d691fb9e64a7891e891c2e214fe89f5ac2202ec34"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "e2bfb8588cb99bc0acce768959663fe1ed1a330fbed497e1811cbcb09154551b"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "001cf1064e95373d5f38632edd7d8d28632b4888f2faf5bafccb9c22c90674fa"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "f035e9fbf5817a96fa76d6bae3a5ad3b1924cc2514dda1f5db165742bdaf5f00"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "a36802fd2d9159c319eea2b40f3e8d7962e4d084aa3e1618a03f94906f1e24bd"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "784f4f73a04833b4cce1dc0e63c242ce20e7abbc3d53a407b4fe1370413622f1"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "5b121d3c6d7b86a6744922e3636e7ad34ea5f217ee152abcc7c923d885421906"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "ac77cbd55b457114597004371b4092685d474991d923b2a48f9ea07e1c8e1596"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "a6bf8e7d5d860c98edf44957522fdac1123c58c7938bb58677f97b5a8e4e5141"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "da7e09f3cef220367f016cadb854b265e1bb059de5e0368523cc0c56ddb5db57"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "a797f2bca5a066523c23ecdec4c9002f0e9879277661ae8e1db35cd1f98964ba"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "b37667cf1e7a3f3c56b3009e8b57b1d7044e78ca7f7ee4b6d28f2568eecbac8b"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "54d358ecadb5bd31be19cce114b1e25b02f53391afc908af02b511f0202fbcc8"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "3fe1cd6f794e74d23a88657ad1fa2e94521e84c88179e5f910dd2e36a270b289"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "57d0455ab32a7c869ce844c2e52dd295f44997cb8b86a8a8d46a0abc484e99b8"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "9a489abd4839f8e78bbf94dae254cd96776e93fad859c913a4681f5fa600c5df"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "62b64fed33ae3b735d1374f246a864d0981ce22faf04a0bcea74a8a70b027fc0"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "344a458cb9fe0b44abadcf0ffd02496c4e7c56ac4a2b4e729813451fbb2495ab"
+    },
+    "thaumaturgist_v1/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "e8a839e88683328b589a5bf01a322daff6666f8a88bb478a8b8e9f99718f7c23"
+    },
+    "thaumaturgist_v1/delta/core/thaumaturgy.gd": {
+      "bytes": 3471,
+      "sha256": "7a2e8ca82ec2abf54318977ec2dbb411d5668dddb4eb9c2e28b70612738b8eea"
+    },
+    "thaumaturgist_v1/delta/data/patch_3702_thaumaturgist_golden_overlay.json": {
+      "bytes": 17393,
+      "sha256": "75fe85f71b2aeede5037c0d0318ddb32a7b199174d349c37225c960581b7ed97"
+    },
+    "thaumaturgist_v1/delta/data/patch_3702_thaumaturgist_overlay.json": {
+      "bytes": 17160,
+      "sha256": "067655cd8a67dbd501f41bcd026b029b2140e0619cb27fbaf71c5355fb842832"
+    },
+    "thaumaturgist_v1/delta/data/patch_3702_thaumaturgy_golden_overlay.json": {
+      "bytes": 17433,
+      "sha256": "eaf312ca7ebfc9fb6c07ae366d761110e2ee31bcb7af2287551028af123bc05b"
+    },
+    "thaumaturgist_v1/delta/data/patch_3702_thaumaturgy_overlay.json": {
+      "bytes": 17228,
+      "sha256": "9db65d89c20b0c42c20d3c1e54204ec24850c7d13b1482daf1e4bb80790a91fe"
+    },
+    "thaumaturgist_v1/delta/research/patch_3702_thaumaturgist/BG31_924.native.xml": {
+      "bytes": 6829,
+      "sha256": "044e16ccd63f710f187d6f3d52b5850c18de9885df3321715cd73b3df9f5baa6"
+    },
+    "thaumaturgist_v1/delta/research/patch_3702_thaumaturgist/source_evidence.json": {
+      "bytes": 728,
+      "sha256": "1683c4733246d9b2b23a144899eb1b24bc8d732af4c8be8e7cde651f03df07e8"
+    },
+    "thaumaturgist_v1/delta/research/patch_3702_thaumaturgist_golden/BG31_924_G.native.xml": {
+      "bytes": 6678,
+      "sha256": "252a60436831b53265e4dacad938924ca5816c8dd6a43076c19941f5adf84b90"
+    },
+    "thaumaturgist_v1/delta/research/patch_3702_thaumaturgist_golden/source_evidence.json": {
+      "bytes": 728,
+      "sha256": "b54f953a5aa1aa6885d97f7e8ee195f4359c35aa550989263e660cea15410087"
+    },
+    "thaumaturgist_v1/delta/research/patch_3702_thaumaturgy/BG31_924t.native.xml": {
+      "bytes": 6101,
+      "sha256": "d5ea8653d14421cc20a1699a34eb83559e62b09e8c43c091b50deaea1d139d04"
+    },
+    "thaumaturgist_v1/delta/research/patch_3702_thaumaturgy/source_evidence.json": {
+      "bytes": 728,
+      "sha256": "c978730b9780659d066b5363e7af131a36fbf2aa4e06a06d92165c993fc41ff4"
+    },
+    "thaumaturgist_v1/delta/research/patch_3702_thaumaturgy_golden/BG31_924_Gt.native.xml": {
+      "bytes": 6160,
+      "sha256": "e1891471426e45f49767a50136ee38a6b767059ccc3d78241c3f566fed951512"
+    },
+    "thaumaturgist_v1/delta/research/patch_3702_thaumaturgy_golden/source_evidence.json": {
+      "bytes": 728,
+      "sha256": "46f34df6e15789e95a07ba17bde2d8a8cb0f9d5578d27541f1faede5e7fa8ae5"
+    },
+    "thaumaturgist_v1/gate.gd": {
+      "bytes": 16175,
+      "sha256": "596caded51d1640efd2f54227317ff42eddcb5d32853f9514cd28fb5dfc1df89"
+    },
+    "thaumaturgist_v1/make_gate.py": {
+      "bytes": 5654,
+      "sha256": "2147a75d1bf8c1177158c30226eca6992e31185e93998885e468d87e5ef7daf8"
+    },
+    "thaumaturgist_v1/map_virtual_sources.py": {
+      "bytes": 806,
+      "sha256": "58cf14f2b87c539ab1a678d7df99e8b536840ce53226cf6ec4160a769d33a35a"
+    },
+    "thaumaturgist_v1/package.py": {
+      "bytes": 1336,
+      "sha256": "f91e05c53f4d52f8ac679c8068f5dad4d47270c8393f1d210562ec166f05af4e"
+    },
+    "thaumaturgist_v1/rebuild_original.py": {
+      "bytes": 2240,
+      "sha256": "4dc544f14162c20a3011e711a34c842ed8326259688fb0cbce6cdd9e88453635"
+    },
+    "thaumaturgist_v1/recover_failed_sources.py": {
+      "bytes": 2148,
+      "sha256": "a039d55e1a9646e566db52d21957b45f5b31a36f2bf7696fce3739e95eac7d32"
+    },
+    "thaumaturgist_v1/refresh_virtual_bindings.py": {
+      "bytes": 1149,
+      "sha256": "eb0aa362603c32bf361fa7f0cc94e0e25bcbdfe058505732315192c0913203a0"
+    },
+    "thaumaturgist_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "thaumaturgist_v1/run.py": {
+      "bytes": 1203,
+      "sha256": "00d45e03456ff12d1bdd624aa1eb2bb070ce111ee548c825a1e770260469bd93"
+    },
+    "thaumaturgist_v1/run_1/PROCESS.json": {
+      "bytes": 476,
+      "sha256": "6cd3f80c45e5521328cf2a760cf6be4164fa5ef3f93490174f4bd26fe5688d68"
+    },
+    "thaumaturgist_v1/run_1/SOURCE_REFERENCE.json": {
+      "bytes": 396,
+      "sha256": "29941e11c53a4ebd0eb2e468ca48115cbd1da9980c2b67e74965741e13876b23"
+    },
+    "thaumaturgist_v1/run_1/gate_executed.gd": {
+      "bytes": 15022,
+      "sha256": "1897315f0889bb37d2b2af31a77f860b91b0550280dc8d310bbd7796dbf66211"
+    },
+    "thaumaturgist_v1/run_1/native.log": {
+      "bytes": 437,
+      "sha256": "ecc8b08063afe19cc0788acea6527b525c725cc04addae34d9c4ff15eab66505"
+    },
+    "thaumaturgist_v1/run_2/PROCESS.json": {
+      "bytes": 477,
+      "sha256": "ab66c1bdd206a52d0144dbb4f652e1ac1c00cb687e76bc533f9a19c55d8b1e69"
+    },
+    "thaumaturgist_v1/run_2/PRODUCER_CORRECTION.json": {
+      "bytes": 447,
+      "sha256": "0b6693853417ef66509ac386a039a7cef53ad6d9e9ac8aa8970c64f9af944d0f"
+    },
+    "thaumaturgist_v1/run_2/data/report.json": {
+      "bytes": 14873,
+      "sha256": "cd332bdb8312f38897101dfdf874caba93ff9496da01ed3539a562984f4f1658"
+    },
+    "thaumaturgist_v1/run_2/gate_executed.gd": {
+      "bytes": 15022,
+      "sha256": "2db70543786735d12b276faae788dff9d839c21459bd73b6a5ec8d031b113611"
+    },
+    "thaumaturgist_v1/run_2/native.log": {
+      "bytes": 148,
+      "sha256": "0a27a6fae6383aae49a21d3b22996fb52ec8a350a9ad93256747d69dcacb4dde"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/BASE_MAP.json": {
+      "bytes": 4522093,
+      "sha256": "777c6a6e2b84afbae642402e4c646103e93ebfdd4ebbbd152469016335f09e5b"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/EXPECTED_ROWS.json": {
+      "bytes": 32051,
+      "sha256": "23caa2820000d76dd1810a886449616be36fbc0540601ff0e4b376ae46ec9e1c"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/SOURCE_MAP.json": {
+      "bytes": 4524839,
+      "sha256": "6117471065ef629ff5bce0602800ba08bbe78636de8d0576dfe6e25d4fe1c8de"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/catalog.gd": {
+      "bytes": 1780145,
+      "sha256": "693b8b3f4b3f249f14f8a77afe43c86284585d168752888c88964d1f083bc767"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/dynamic_spell_effects.gd": {
+      "bytes": 25779,
+      "sha256": "97cc96b5869df0c5a2ddecc02050316cb4e35b8a460d66fa1c9ae80888b3a258"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/game.gd": {
+      "bytes": 1315255,
+      "sha256": "ffa3b98ccd88b3f6a5c00de94cd68205ee447c02c144418e8048443ced2a63f3"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "4ac845d9011dd5ad513dad05947343af524d2b11cf073cc1bc3eaf4f56dcb6c1"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "3d632229385be7fb84861bf48c82666a3900ac68f18d54812d3c6d1bec217df0"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "3ef541b5b95606cab3fbe25bb69e859ded74e92b06fa3fabf57ea211b5d5b78b"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "a95ee5bc7003c7910ab5a0a2ff0ec206d6ed958c970d1f6ccdf68c65b69dcc7f"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "59d0b9835fc3a602e5ea55447b881ae8ca254986219816867da43ad6b43ea438"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "0bfc7287b4ffa4b206889a1c7bd293f69e955b1a16142800c8b77a3485155217"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "2dcf239c39353e301bbd4322219c5de5c484b1f17ef3e00c63bc1401b6cc2b2f"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "6602d67d220b025eb4d355eab3502f24fc974c0df169e9d7c25f7e500e2a43c0"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "850c2b1dd7f69ad705386200011b5905458dd603a9042d706fe422ce5fd5c929"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "e07b06a1566f160be08f54890a41948b4c6cf5dd44b716b8e7584e29c8125ae2"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "4f6e5389f9a0f52a3b51dfe3fc6ecd92ee122bd8d5c0384abfa2cd335cd59d16"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "c15440131f173a98227c5d345fca7b11d57ba02a1461623e7c2de0554c3abca5"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "3c43109c1299f5b94b0d7f65b94e94ec74f89d6bff78166d89dd4b9109c92824"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "2aece84d6969e9a1725e879997bcc636ecb9f7066e1e9b12e507f7d6a8ba1ca4"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "99b9dec1bb1b71587679ebf0b3af1b2237a71615a95a3c7bbf27d84d880c8c16"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "277dfda5f344c42e74a6c45d2f101e2fafc0279af6d6b6c1b6a95c5447dd0fa0"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "2f2eea58b7a324d3ea3defdcf9f4033c544df27617201f941fadcd4f7b98dc24"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "058d5888c08d4822dce1769d691fb9e64a7891e891c2e214fe89f5ac2202ec34"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "e2bfb8588cb99bc0acce768959663fe1ed1a330fbed497e1811cbcb09154551b"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "001cf1064e95373d5f38632edd7d8d28632b4888f2faf5bafccb9c22c90674fa"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "f035e9fbf5817a96fa76d6bae3a5ad3b1924cc2514dda1f5db165742bdaf5f00"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "a36802fd2d9159c319eea2b40f3e8d7962e4d084aa3e1618a03f94906f1e24bd"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "784f4f73a04833b4cce1dc0e63c242ce20e7abbc3d53a407b4fe1370413622f1"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "5b121d3c6d7b86a6744922e3636e7ad34ea5f217ee152abcc7c923d885421906"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "ac77cbd55b457114597004371b4092685d474991d923b2a48f9ea07e1c8e1596"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "a6bf8e7d5d860c98edf44957522fdac1123c58c7938bb58677f97b5a8e4e5141"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "da7e09f3cef220367f016cadb854b265e1bb059de5e0368523cc0c56ddb5db57"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "a797f2bca5a066523c23ecdec4c9002f0e9879277661ae8e1db35cd1f98964ba"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "b37667cf1e7a3f3c56b3009e8b57b1d7044e78ca7f7ee4b6d28f2568eecbac8b"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "54d358ecadb5bd31be19cce114b1e25b02f53391afc908af02b511f0202fbcc8"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23251,
+      "sha256": "13bbc2db1125a4188b751fe785b3f65d5c9ffa4e6012e30428805273afafd959"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22901,
+      "sha256": "562f75bd6a482a07feb6e0ede5619b9dc6fd9a762cebacf4b067a5f7e4358ae9"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23319,
+      "sha256": "baaba44d630d072bd3de0a2a673037963a3bf649caf46a7ca762b260640c352c"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 22871,
+      "sha256": "42b289240c69fa485e35a32a2a4370f844bfb752dcbb9430c9d8c1ae497daa8d"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "344a458cb9fe0b44abadcf0ffd02496c4e7c56ac4a2b4e729813451fbb2495ab"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "e8a839e88683328b589a5bf01a322daff6666f8a88bb478a8b8e9f99718f7c23"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/core/thaumaturgy.gd": {
+      "bytes": 3471,
+      "sha256": "7a2e8ca82ec2abf54318977ec2dbb411d5668dddb4eb9c2e28b70612738b8eea"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/data/patch_3702_thaumaturgist_golden_overlay.json": {
+      "bytes": 17288,
+      "sha256": "e5d4e497fab6d9540923a43c94dd09210ddcbaad99868dfa3327b2f8918c93aa"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/data/patch_3702_thaumaturgist_overlay.json": {
+      "bytes": 17160,
+      "sha256": "067655cd8a67dbd501f41bcd026b029b2140e0619cb27fbaf71c5355fb842832"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/data/patch_3702_thaumaturgy_golden_overlay.json": {
+      "bytes": 17340,
+      "sha256": "6b40c52ad2ba3cf7df15e65b7036ef65eb30752462207c97e0f5a9d21b8c82e4"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/data/patch_3702_thaumaturgy_overlay.json": {
+      "bytes": 17135,
+      "sha256": "0269444932f172236e88ff581e6074de578506ef384e8dea718f51768c7951a1"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/research/patch_3702_thaumaturgist/BG31_924.native.xml": {
+      "bytes": 6829,
+      "sha256": "044e16ccd63f710f187d6f3d52b5850c18de9885df3321715cd73b3df9f5baa6"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/research/patch_3702_thaumaturgist/source_evidence.json": {
+      "bytes": 728,
+      "sha256": "1683c4733246d9b2b23a144899eb1b24bc8d732af4c8be8e7cde651f03df07e8"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/research/patch_3702_thaumaturgist_golden/BG31_924_G.native.xml": {
+      "bytes": 6678,
+      "sha256": "252a60436831b53265e4dacad938924ca5816c8dd6a43076c19941f5adf84b90"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/research/patch_3702_thaumaturgist_golden/source_evidence.json": {
+      "bytes": 728,
+      "sha256": "b54f953a5aa1aa6885d97f7e8ee195f4359c35aa550989263e660cea15410087"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/research/patch_3702_thaumaturgy/BG31_924t.native.xml": {
+      "bytes": 6101,
+      "sha256": "d5ea8653d14421cc20a1699a34eb83559e62b09e8c43c091b50deaea1d139d04"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/research/patch_3702_thaumaturgy/source_evidence.json": {
+      "bytes": 728,
+      "sha256": "c978730b9780659d066b5363e7af131a36fbf2aa4e06a06d92165c993fc41ff4"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/research/patch_3702_thaumaturgy_golden/BG31_924_Gt.native.xml": {
+      "bytes": 6160,
+      "sha256": "e1891471426e45f49767a50136ee38a6b767059ccc3d78241c3f566fed951512"
+    },
+    "thaumaturgist_v1/run_2/original_rebuilt/delta/research/patch_3702_thaumaturgy_golden/source_evidence.json": {
+      "bytes": 728,
+      "sha256": "46f34df6e15789e95a07ba17bde2d8a8cb0f9d5578d27541f1faede5e7fa8ae5"
+    },
+    "thaumaturgist_v1/run_3/PROCESS.json": {
+      "bytes": 477,
+      "sha256": "fc8c6a3ace840fe9c7d5ef8efb9f424500669bc57ec8d9e69030e87ad31d0bb0"
+    },
+    "thaumaturgist_v1/run_3/data/report.json": {
+      "bytes": 40270,
+      "sha256": "3a22c7c0efa61edecc6c244f38faf64781abb1ce918e4e0d8702f52f6e9c0ada"
+    },
+    "thaumaturgist_v1/run_3/gate_executed.gd": {
+      "bytes": 15145,
+      "sha256": "d309c42ac4c91bb7e028cef01d1c876907c9b67ad62cd20b184952aa44aa2ef1"
+    },
+    "thaumaturgist_v1/run_3/native.log": {
+      "bytes": 148,
+      "sha256": "b43646f2230eb40419af926a420a0b93d10f99660f88d248084e8cd9d6919c62"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/BASE_MAP.json": {
+      "bytes": 4522093,
+      "sha256": "777c6a6e2b84afbae642402e4c646103e93ebfdd4ebbbd152469016335f09e5b"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/EXPECTED_ROWS.json": {
+      "bytes": 32051,
+      "sha256": "23caa2820000d76dd1810a886449616be36fbc0540601ff0e4b376ae46ec9e1c"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/SOURCE_MAP.json": {
+      "bytes": 4524839,
+      "sha256": "cebff1e31ea0ce849c764274d3ff6a927e21d0ca5ac756e8eecbc744031a0b39"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/catalog.gd": {
+      "bytes": 1780193,
+      "sha256": "c14334c362ee68a43a77f1f90ed2919a5addc94c5ede89ea4b6f30d2c6f2ce81"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/dynamic_spell_effects.gd": {
+      "bytes": 25779,
+      "sha256": "97cc96b5869df0c5a2ddecc02050316cb4e35b8a460d66fa1c9ae80888b3a258"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/game.gd": {
+      "bytes": 1315255,
+      "sha256": "ffa3b98ccd88b3f6a5c00de94cd68205ee447c02c144418e8048443ced2a63f3"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "4ac845d9011dd5ad513dad05947343af524d2b11cf073cc1bc3eaf4f56dcb6c1"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "3d632229385be7fb84861bf48c82666a3900ac68f18d54812d3c6d1bec217df0"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "3ef541b5b95606cab3fbe25bb69e859ded74e92b06fa3fabf57ea211b5d5b78b"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "a95ee5bc7003c7910ab5a0a2ff0ec206d6ed958c970d1f6ccdf68c65b69dcc7f"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "59d0b9835fc3a602e5ea55447b881ae8ca254986219816867da43ad6b43ea438"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "0bfc7287b4ffa4b206889a1c7bd293f69e955b1a16142800c8b77a3485155217"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "2dcf239c39353e301bbd4322219c5de5c484b1f17ef3e00c63bc1401b6cc2b2f"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "6602d67d220b025eb4d355eab3502f24fc974c0df169e9d7c25f7e500e2a43c0"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "850c2b1dd7f69ad705386200011b5905458dd603a9042d706fe422ce5fd5c929"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "e07b06a1566f160be08f54890a41948b4c6cf5dd44b716b8e7584e29c8125ae2"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "4f6e5389f9a0f52a3b51dfe3fc6ecd92ee122bd8d5c0384abfa2cd335cd59d16"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "c15440131f173a98227c5d345fca7b11d57ba02a1461623e7c2de0554c3abca5"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "3c43109c1299f5b94b0d7f65b94e94ec74f89d6bff78166d89dd4b9109c92824"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "2aece84d6969e9a1725e879997bcc636ecb9f7066e1e9b12e507f7d6a8ba1ca4"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "99b9dec1bb1b71587679ebf0b3af1b2237a71615a95a3c7bbf27d84d880c8c16"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "277dfda5f344c42e74a6c45d2f101e2fafc0279af6d6b6c1b6a95c5447dd0fa0"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "2f2eea58b7a324d3ea3defdcf9f4033c544df27617201f941fadcd4f7b98dc24"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "058d5888c08d4822dce1769d691fb9e64a7891e891c2e214fe89f5ac2202ec34"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "e2bfb8588cb99bc0acce768959663fe1ed1a330fbed497e1811cbcb09154551b"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "001cf1064e95373d5f38632edd7d8d28632b4888f2faf5bafccb9c22c90674fa"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "f035e9fbf5817a96fa76d6bae3a5ad3b1924cc2514dda1f5db165742bdaf5f00"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "a36802fd2d9159c319eea2b40f3e8d7962e4d084aa3e1618a03f94906f1e24bd"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "784f4f73a04833b4cce1dc0e63c242ce20e7abbc3d53a407b4fe1370413622f1"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "5b121d3c6d7b86a6744922e3636e7ad34ea5f217ee152abcc7c923d885421906"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "ac77cbd55b457114597004371b4092685d474991d923b2a48f9ea07e1c8e1596"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "a6bf8e7d5d860c98edf44957522fdac1123c58c7938bb58677f97b5a8e4e5141"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "da7e09f3cef220367f016cadb854b265e1bb059de5e0368523cc0c56ddb5db57"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "a797f2bca5a066523c23ecdec4c9002f0e9879277661ae8e1db35cd1f98964ba"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "b37667cf1e7a3f3c56b3009e8b57b1d7044e78ca7f7ee4b6d28f2568eecbac8b"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "54d358ecadb5bd31be19cce114b1e25b02f53391afc908af02b511f0202fbcc8"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23251,
+      "sha256": "13bbc2db1125a4188b751fe785b3f65d5c9ffa4e6012e30428805273afafd959"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22901,
+      "sha256": "562f75bd6a482a07feb6e0ede5619b9dc6fd9a762cebacf4b067a5f7e4358ae9"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23319,
+      "sha256": "baaba44d630d072bd3de0a2a673037963a3bf649caf46a7ca762b260640c352c"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 22871,
+      "sha256": "42b289240c69fa485e35a32a2a4370f844bfb752dcbb9430c9d8c1ae497daa8d"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "344a458cb9fe0b44abadcf0ffd02496c4e7c56ac4a2b4e729813451fbb2495ab"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "e8a839e88683328b589a5bf01a322daff6666f8a88bb478a8b8e9f99718f7c23"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/core/thaumaturgy.gd": {
+      "bytes": 3471,
+      "sha256": "7a2e8ca82ec2abf54318977ec2dbb411d5668dddb4eb9c2e28b70612738b8eea"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/data/patch_3702_thaumaturgist_golden_overlay.json": {
+      "bytes": 17288,
+      "sha256": "e5d4e497fab6d9540923a43c94dd09210ddcbaad99868dfa3327b2f8918c93aa"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/data/patch_3702_thaumaturgist_overlay.json": {
+      "bytes": 17160,
+      "sha256": "067655cd8a67dbd501f41bcd026b029b2140e0619cb27fbaf71c5355fb842832"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/data/patch_3702_thaumaturgy_golden_overlay.json": {
+      "bytes": 17340,
+      "sha256": "6b40c52ad2ba3cf7df15e65b7036ef65eb30752462207c97e0f5a9d21b8c82e4"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/data/patch_3702_thaumaturgy_overlay.json": {
+      "bytes": 17135,
+      "sha256": "0269444932f172236e88ff581e6074de578506ef384e8dea718f51768c7951a1"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/research/patch_3702_thaumaturgist/BG31_924.native.xml": {
+      "bytes": 6829,
+      "sha256": "044e16ccd63f710f187d6f3d52b5850c18de9885df3321715cd73b3df9f5baa6"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/research/patch_3702_thaumaturgist/source_evidence.json": {
+      "bytes": 728,
+      "sha256": "1683c4733246d9b2b23a144899eb1b24bc8d732af4c8be8e7cde651f03df07e8"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/research/patch_3702_thaumaturgist_golden/BG31_924_G.native.xml": {
+      "bytes": 6678,
+      "sha256": "252a60436831b53265e4dacad938924ca5816c8dd6a43076c19941f5adf84b90"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/research/patch_3702_thaumaturgist_golden/source_evidence.json": {
+      "bytes": 728,
+      "sha256": "b54f953a5aa1aa6885d97f7e8ee195f4359c35aa550989263e660cea15410087"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/research/patch_3702_thaumaturgy/BG31_924t.native.xml": {
+      "bytes": 6101,
+      "sha256": "d5ea8653d14421cc20a1699a34eb83559e62b09e8c43c091b50deaea1d139d04"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/research/patch_3702_thaumaturgy/source_evidence.json": {
+      "bytes": 728,
+      "sha256": "c978730b9780659d066b5363e7af131a36fbf2aa4e06a06d92165c993fc41ff4"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/research/patch_3702_thaumaturgy_golden/BG31_924_Gt.native.xml": {
+      "bytes": 6160,
+      "sha256": "e1891471426e45f49767a50136ee38a6b767059ccc3d78241c3f566fed951512"
+    },
+    "thaumaturgist_v1/run_3/original_rebuilt/delta/research/patch_3702_thaumaturgy_golden/source_evidence.json": {
+      "bytes": 728,
+      "sha256": "46f34df6e15789e95a07ba17bde2d8a8cb0f9d5578d27541f1faede5e7fa8ae5"
+    },
+    "thaumaturgist_v1/run_4/PROCESS.json": {
+      "bytes": 476,
+      "sha256": "bf2f597a994d40458e65cca33a795ccedfdaac230db42a0e1e898b41069f5ee5"
+    },
+    "thaumaturgist_v1/run_4/data/after_four.native_save.json": {
+      "bytes": 58524,
+      "sha256": "30777661874f9a1c8ca137f5e27139a19436d852a8f9debf2104a4f1d01de38e"
+    },
+    "thaumaturgist_v1/run_4/data/after_two.native_save.json": {
+      "bytes": 47381,
+      "sha256": "1b46c1d2b3e3cecafbfab72261e35c98b44b27e1f9cc3956550aea26abc8c050"
+    },
+    "thaumaturgist_v1/run_4/data/before_casts.native_save.json": {
+      "bytes": 48877,
+      "sha256": "37d5d40d3b38830bf0c2fc2d9be5eaea8c0eb8943a1136bbf61270c169360b5f"
+    },
+    "thaumaturgist_v1/run_4/data/forged_source.native_save.json": {
+      "bytes": 36231,
+      "sha256": "972a1861c3663c94e85fe8d1784f03880e62da562e15dc78595a7fe58eb848f8"
+    },
+    "thaumaturgist_v1/run_4/data/report.json": {
+      "bytes": 2123301,
+      "sha256": "99febc37712b1912bea0013c2e2e68b6d282921c50b0b5706848af396548611c"
+    },
+    "thaumaturgist_v1/run_4/gate_executed.gd": {
+      "bytes": 16175,
+      "sha256": "596caded51d1640efd2f54227317ff42eddcb5d32853f9514cd28fb5dfc1df89"
+    },
+    "thaumaturgist_v1/run_4/native.log": {
+      "bytes": 823,
+      "sha256": "a5ac03ac4417f1302c5de35073d837a87d5986ef26c348584c2d8294f4dcd83c"
+    },
+    "thaumaturgist_v1/validate.py": {
+      "bytes": 2836,
+      "sha256": "ad3fbb141f5b0bd70c7208124414438b51fcce8cfb2f10af0eb0c9ed415cea7f"
+    },
+    "thaumaturgist_v1/PACKAGE_MANIFEST.json": {
+      "bytes": 34351,
+      "sha256": "c478d7cd13ca864ceca5fe9de2fc5b82a92e0b360295bfa007457024a8343029"
+    }
+  }
+}
