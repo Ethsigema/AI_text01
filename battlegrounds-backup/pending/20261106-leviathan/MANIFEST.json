@@ -1,0 +1,374 @@
+{
+  "status": "Independent bounded candidate; remote-download verification paused after cancelled approval; full chain recoverability unconfirmed; no promotion",
+  "archive": "partial3702_leviathan_candidate_v1.tar.xz",
+  "sha256": "c87f1706c640f5ad13cfe77b777923614208724142fbe9e29fcdfca08bb4a324",
+  "bytes": 1890524,
+  "parts": [
+    {
+      "name": "partial3702_leviathan_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "85bcbfe84a8066eda48f517afa5aa45790cb550c652682180b74b6ddfbcedbe1"
+    },
+    {
+      "name": "partial3702_leviathan_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "db7f524552de122a46d2facd044ead9f31796c89671bcd5ac133dce6004122c7"
+    },
+    {
+      "name": "partial3702_leviathan_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "71aa876f03d5119ad416502af3b610e1be47f097b61d13a08ac699035aed4b0c"
+    },
+    {
+      "name": "partial3702_leviathan_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "2624f0d6c3aa41432066e634d5cc836bfefb7e88fbfc99e87895e3138fd0f35a"
+    },
+    {
+      "name": "partial3702_leviathan_candidate_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "e2b3b371ec5d3cb549b95476348059e252bf5d5eb706a3d891934615de9d845d"
+    },
+    {
+      "name": "partial3702_leviathan_candidate_v1.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "0110a301dacdefabe4018c30b9df910a3b75633f76c4353a10ea37d7cb610f88"
+    },
+    {
+      "name": "partial3702_leviathan_candidate_v1.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "4b35eb16dbfd0fae5adddc334b4157290138e8c85721d95225f90cdfa2c5d462"
+    },
+    {
+      "name": "partial3702_leviathan_candidate_v1.tar.xz.part007",
+      "bytes": 140524,
+      "sha256": "b5f547dba1d8ed6279457770ea4a36fec8912a33efb44384525d813407ea6fb1"
+    }
+  ],
+  "files": {
+    "leviathan_candidate_v1/BASE_MAP.json": {
+      "bytes": 4516211,
+      "sha256": "f488c60938f39511ece9e9e71feb84280be45ba91abdae5a4ee6919283e85ab2"
+    },
+    "leviathan_candidate_v1/CHECK_CORE_initial.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "leviathan_candidate_v1/CHECK_GATE.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "leviathan_candidate_v1/EXPECTED_ROWS.json": {
+      "bytes": 15601,
+      "sha256": "a8b26d7dd4166f7fb394c9e2e6a379a0165c26086f67ef26bd7b6c2d533c9398"
+    },
+    "leviathan_candidate_v1/GATE_NOTES.md": {
+      "bytes": 8593,
+      "sha256": "d1039f7d342a1023a6f9a6c5ce3fdcd10a35e9dd81bf43c529984bbe089c3cca"
+    },
+    "leviathan_candidate_v1/NATIVE_FACTS.json": {
+      "bytes": 1434,
+      "sha256": "0d29907112498526225c319bbfacf7eb7b9c469aaae35dd7a91e63c5131dddea"
+    },
+    "leviathan_candidate_v1/OFFLINE_PREFLIGHT.json": {
+      "bytes": 497,
+      "sha256": "5bd5ec4562936ef82b1e7e1a45ba699f80ef6311579897616aaebbdbcdfcdc56"
+    },
+    "leviathan_candidate_v1/PROGRESS.md": {
+      "bytes": 1131,
+      "sha256": "76d18566d32260dbfaecce7a1521ea2a6bc000c2f475dc2e2534914e248f1de3"
+    },
+    "leviathan_candidate_v1/README.md": {
+      "bytes": 1397,
+      "sha256": "e9fd4c43cb65f751b7d5154245ed37a3da203317e7f43c2e82f37bda17bab4af"
+    },
+    "leviathan_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 11804,
+      "sha256": "58408cb01cc22b140139b8a7fd2c243a2b97bbba38092f1f85da2f8711a81e5b"
+    },
+    "leviathan_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 13034,
+      "sha256": "dfc5d47c68cd9ac7b7a3c47f484dde774532a02335fbea2a0ade6ffce10876b7"
+    },
+    "leviathan_candidate_v1/SOURCE_EVIDENCE.md": {
+      "bytes": 1175,
+      "sha256": "833a2ca040ea288b02420f27949440b9d4d7b48bbca7699a508354c1e16a657f"
+    },
+    "leviathan_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4518243,
+      "sha256": "e0a377c32ddf657a62f711cc993a5d4b93fe0c319196d1417fe55b28319b9fd3"
+    },
+    "leviathan_candidate_v1/build.py": {
+      "bytes": 5155,
+      "sha256": "c4ca733c06923bb93e74ba8741a2006b832a8f556137db4228483ff4ed2aa807"
+    },
+    "leviathan_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1768035,
+      "sha256": "b0ea35abe8e22fef962edd0b6c020d7abcb23178949e0e60cefdd3315044d79b"
+    },
+    "leviathan_candidate_v1/delta/core/combat.gd": {
+      "bytes": 568528,
+      "sha256": "066b5410eca2e5dba1d54adaa6b1dffc9a91fb4c7a95514f21843c0a51f8b8e5"
+    },
+    "leviathan_candidate_v1/delta/core/game.gd": {
+      "bytes": 1312858,
+      "sha256": "278da21f9e354d6eea4ab93fae37045d46112e8465278e45ae0bcd7cb371d8ff"
+    },
+    "leviathan_candidate_v1/delta/core/leviathan_history.gd": {
+      "bytes": 17628,
+      "sha256": "eff4dabf3c8cfd101c80ab2f01ff9f4ac6454d20ac41ebf6084b04da425e5c37"
+    },
+    "leviathan_candidate_v1/delta/core/leviathan_host.gd": {
+      "bytes": 16993,
+      "sha256": "767acc30b80fe760d0ffe91fdc38f3310f18e74641436d3559be18eebdfedf50"
+    },
+    "leviathan_candidate_v1/delta/core/leviathan_sources.gd": {
+      "bytes": 8843,
+      "sha256": "a4cace6a40589a5bc6226636009652fd90a607584bb10c8cd4ba5dd42932b371"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "814b796e4b88066d9d009e6c2ceb0b525088cff753ec463839f4d241daf1557f"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "3fdd6a324c696453a4cf0bd2d63f45130020ed35257760b86c70d8e0ca10a490"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "f8feae747cbecbad54dc8518bc260feccf94b1e158c33b2407a63eaf1b216262"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "edc5e90cc0f04812879f5ffd23a351964cd39549cd31f10fd1a1bae792d5fc2f"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "de9bce197e1e6e855cf0d3bb692a648e53944dae80d445499e52b0ea7e41e339"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "459d00a5d9a0de6e366ec0a6c9d62e235a9bd1650eadd5be8815fd55015b258a"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "038ea906ca3e168b952c64bb60c3e88c4fc2a382d2eb83c54c7b464a442de515"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "4544748466fed788b60289e87ee28b46bd83f97e57e878bc01e8a5747c1590b7"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "13268cbe98e96538178805dc0afd8bd75ad9e0937fc965df8cfb5aa2ab26daa7"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "d377179576a70da023113be9e9c546920937e37276d73b9775e2d85f39877b11"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "3cf40a75db6c50e36eef1b35bc311305eacbf49c74a8da902d0772d9d9baee30"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "4a83528953a5a11f68492af35d43fe97b64e22ce6ee6dfb922d8c1fc97337cc1"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "c42e19ac6bfa8ba7f9a060d0c87631c907e65e4fb54547da59b7657fbe56c4b9"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "305f336a0c248cd0f6af45e84927def28a14791ba3bf1e54394c31d26de8be46"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "dee1810c53acb10c24e585ff9d9417cd634dd7fecb975658952b30d8b69f59e4"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "3a02e6ec1f4525c2e568237388f2f7569df1c6e36ae7ead91a280c8231c00c90"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "f9850e3f79b2eeac4b5c18373a79cdc28ffc63bce9f6462da9680c499c724207"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "33337772dc761f378bf286778eefb6cd49fd1fd356cd55d2889ebcc72df54883"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "64ccb0ff16738a3d166d2e2eebc4e0bf08fc12c1867195a71c08417640734c1c"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "2ea39d8d03a8aa58b4bd7a3f335828eb69fe84be17a812f54afaa04c56210d4c"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "909e954dcd5ed837d5edbc130e17d57809b94c277b1613ecab1fa7e3f0eb9fcb"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "35380ec7e68c59af742eb674a246004199291e657d67d0b7aa8474e96e903fae"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "f5e44f701260bd99061b07b80dd13819d3660799b2d034fdbf4e2eadce1e1e7f"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "4b52fc68678c118b5aa2cd225de9a34d4030216197f296b2c83813af20541798"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "9cb959bef6b87899f2afca172a3793e2a122056c8ac225c8c9be5be427d79f3b"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "a46d736fa7538b4798822c29304edc839ad49b3afabfe05409ae4f516e30a8aa"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "41f68b2476dd597ee461dda82329190d2315df012cc2b2eb7e533229a52fecf2"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "0a6872d5dce4322c0bfda2f4e09013f7c0b1c0903139c00335b206f8e6b0f7cc"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "32e4ce2fbd951d42c5abcb3c732558d47ae5ccda83b94e594345c28884514318"
+    },
+    "leviathan_candidate_v1/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "ee30ff1f4ba0fb004046b48174a11b630c96d145e383684a6e710ec83154ea8d"
+    },
+    "leviathan_candidate_v1/delta/data/patch_3702_leviathan_golden_overlay.json": {
+      "bytes": 16858,
+      "sha256": "ee641d33c1e3452d48f6fb22fd10cbbf277f1992ad76934a1f6dfdbdd9f802eb"
+    },
+    "leviathan_candidate_v1/delta/data/patch_3702_leviathan_overlay.json": {
+      "bytes": 16613,
+      "sha256": "bc61558d399c92c63fc341d6b141bef60cbdf02d354275326133813108c74b7e"
+    },
+    "leviathan_candidate_v1/delta/research/patch_3702_leviathan/BG35_602.native.xml": {
+      "bytes": 3380,
+      "sha256": "e1b8a56183ea35f78b19cccb3e33f86fba018f77b4ab578a49883326c2de45eb"
+    },
+    "leviathan_candidate_v1/delta/research/patch_3702_leviathan/simulator_manifest.json": {
+      "bytes": 828,
+      "sha256": "3e588adce1c85ccb97f38512ee60a20796175916bd789bfa316f9c40ad21af21"
+    },
+    "leviathan_candidate_v1/delta/research/patch_3702_leviathan/source_evidence.json": {
+      "bytes": 448,
+      "sha256": "af2faf9d417f416833a289ffcbca908995d213f9a72d4f778ac00bea9f8292e0"
+    },
+    "leviathan_candidate_v1/delta/research/patch_3702_leviathan_golden/BG35_602_G.native.xml": {
+      "bytes": 3334,
+      "sha256": "ae344e95ee1a1e01c4d5a10bc1f95428d3f3ca28bb1f451664b467f27fe662b3"
+    },
+    "leviathan_candidate_v1/delta/research/patch_3702_leviathan_golden/simulator_manifest.json": {
+      "bytes": 828,
+      "sha256": "3e588adce1c85ccb97f38512ee60a20796175916bd789bfa316f9c40ad21af21"
+    },
+    "leviathan_candidate_v1/delta/research/patch_3702_leviathan_golden/source_evidence.json": {
+      "bytes": 448,
+      "sha256": "f700ffdc88850a0e6a9da55df22418f7ada23fdebfab0fa7a4752e0318321a85"
+    },
+    "leviathan_candidate_v1/docs/INDEPENDENT_REVIEW.json": {
+      "bytes": 1172,
+      "sha256": "608cb2bb2cc069b8995f729dd440a0f43265f327301c13a0c6c65d55a410bd20"
+    },
+    "leviathan_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 1629,
+      "sha256": "b270a2bfa3d0b862b20f86e92987cf5c64ef2cf8d3d523559a50f59d86420c5c"
+    },
+    "leviathan_candidate_v1/gate.gd": {
+      "bytes": 34578,
+      "sha256": "bf484214bf5f9cee3dcc843fd1194647acb1c028bfe7407bc2873218a942a2ca"
+    },
+    "leviathan_candidate_v1/map_sources.py": {
+      "bytes": 652,
+      "sha256": "4ce3a27f33ad9c9f3e82b4a348a6a39c937470368ae975f936403e21f900dfac"
+    },
+    "leviathan_candidate_v1/package.py": {
+      "bytes": 1612,
+      "sha256": "6ea27d89ed8cad6f82ea9625795d67b78d9daf3b640b5e32a8ae44ebf6f29fcb"
+    },
+    "leviathan_candidate_v1/patch_lifecycle_hooks.py": {
+      "bytes": 9383,
+      "sha256": "adbfb38e8d8c1ea1f1e4f0414ce82b5d124b4ed01861534a8c5abfbb24a6efea"
+    },
+    "leviathan_candidate_v1/preflight.py": {
+      "bytes": 1129,
+      "sha256": "816218fec898ebee2941c6f17a703a0cd1c43de33c10b062824639fd86b845c2"
+    },
+    "leviathan_candidate_v1/prepare.py": {
+      "bytes": 321,
+      "sha256": "aa2fe006ced6d1750f477e4d1c048ac9fc0cfa29f566bc97f5e6ad62f3c9dae7"
+    },
+    "leviathan_candidate_v1/refresh_bindings.py": {
+      "bytes": 1006,
+      "sha256": "457e362f32aa8f9e9d4b03543bd94a9f799b629f39e8e0b34ee93eaf0e1f72d2"
+    },
+    "leviathan_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "leviathan_candidate_v1/run.py": {
+      "bytes": 1127,
+      "sha256": "870bf214e24b2485aac6fa4b83e8ebcf8112f2f3ec5715740482a5a82fb08b81"
+    },
+    "leviathan_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 468,
+      "sha256": "a324ceb65709c173877f5d1ca6fd5d92f46d1f1605fa67f122319a1f5f5d51b3"
+    },
+    "leviathan_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 831,
+      "sha256": "fe59afdc3704355b40f62f49e6d7580d8a61e2e3e4a3cce205ac4b061ad37f19"
+    },
+    "leviathan_candidate_v1/run_1/data/between_phases.native_save.json": {
+      "bytes": 721077,
+      "sha256": "dd0836e5673842a1b3d5944b0d47764215bfc2d63ff63fc58b95274b1a7eab01"
+    },
+    "leviathan_candidate_v1/run_1/data/initial.native_save.json": {
+      "bytes": 20294,
+      "sha256": "5ee8651641170093c12f1a86210b324e1c98d2990a43d1dc74d03ac70c29dbf6"
+    },
+    "leviathan_candidate_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 82477,
+      "sha256": "81d75b4e49bf384d0f7e4ad6383640b301e4ea615956d007090d6846766f6018"
+    },
+    "leviathan_candidate_v1/run_1/data/report.json": {
+      "bytes": 19740762,
+      "sha256": "89b96428b815d32ae9dc9d90db4f05922e54350e35558470353ef57db9c66cdb"
+    },
+    "leviathan_candidate_v1/run_1/data/tampered_first_battle.json": {
+      "bytes": 691464,
+      "sha256": "efb98cc4bec42dc03f7d09dd7f9d15ead77b08ebffe0a27dd3f9c2c353517a41"
+    },
+    "leviathan_candidate_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 731687,
+      "sha256": "ee83e8db2341e17fa9a67eab4f27118c3bd46bbae2fcbcb081d83d39d61887e8"
+    },
+    "leviathan_candidate_v1/run_1/native.log": {
+      "bytes": 1551,
+      "sha256": "8e5ebffe2fa0d794511d87616aba35e4282a8bcef6ac29031708758140ec6fec"
+    },
+    "leviathan_candidate_v1/validate.py": {
+      "bytes": 2560,
+      "sha256": "f472b7d3c8bd3e04f22bebe8744585f2ff19e29f53139e2db309e05ba78e0932"
+    },
+    "leviathan_candidate_v1/write_history.py": {
+      "bytes": 487,
+      "sha256": "10930c6810b23fbe77fc4d4c80dea6ecb6e0a3ab9fd41944451d3a965e1ea144"
+    },
+    "leviathan_candidate_v1/write_lifecycle.py": {
+      "bytes": 7943,
+      "sha256": "c4fa5ea7b9343df47c1e2f596d0d0b19f316c7500c41487ccd17ea6857f402fd"
+    }
+  }
+}
