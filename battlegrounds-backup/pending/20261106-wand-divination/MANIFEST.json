@@ -1,0 +1,207 @@
+{
+  "status": "Independent bounded candidate; no promotion or full trinket acceptance",
+  "archive": "partial3702_wand_divination_candidate_v1.tar.xz",
+  "sha256": "b9cd13683941ffcd9466c41ef5cf70d77cf3bf1ca1b4124a66226154dd6a3662",
+  "bytes": 1151604,
+  "parts": [
+    {
+      "name": "partial3702_wand_divination_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "b16195fc4183be1ecb28fad62635f936f159753b1f4423ad3f374f0a6773cce4"
+    },
+    {
+      "name": "partial3702_wand_divination_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "7bda5ec0111ffc8b9033ef87a568bfa4dab799bbec25fe260854e347f6f95883"
+    },
+    {
+      "name": "partial3702_wand_divination_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "54de9263f515933caced588f236bc24428d4e1aba8a51958ff1ffab8ce993659"
+    },
+    {
+      "name": "partial3702_wand_divination_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "e23538a5ee182f4d470fc56a9ccff89e54ef7c96e4713d987a725fdcc7f4e728"
+    },
+    {
+      "name": "partial3702_wand_divination_candidate_v1.tar.xz.part004",
+      "bytes": 151604,
+      "sha256": "b58d39cb8b97e75f45b339340bf36a20f155308f27acb0e1dd938f92c7d5b13c"
+    }
+  ],
+  "files": {
+    "wand_divination_candidate_v1/BASE_MAP.json": {
+      "bytes": 4504630,
+      "sha256": "10617de625a8c8c7c56bd517b7ba8957254c639b2c267fe61ecd846cf8520386"
+    },
+    "wand_divination_candidate_v1/EXPECTED_ROW.json": {
+      "bytes": 7644,
+      "sha256": "5d66c308d892871d44983547ff7dd399317c011cf0d23805f0437df5ae69f4e4"
+    },
+    "wand_divination_candidate_v1/PROGRESS.md": {
+      "bytes": 692,
+      "sha256": "0736f02ba10d04bd16b25a8fc52638741df6a973bb26acba38d897743a5bface"
+    },
+    "wand_divination_candidate_v1/README.md": {
+      "bytes": 1477,
+      "sha256": "a3907f1c2c4bc4ffaa29b94d0fbfe25e1bd914b748431dd1efdb2ea933e1fc7e"
+    },
+    "wand_divination_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 6167,
+      "sha256": "7c3d4ea589e4d5377be1165124df6a48561777a513ce877fa35d837b2abcf6e9"
+    },
+    "wand_divination_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 6760,
+      "sha256": "8d3997579599dc22899654d0d929c62e9cf4ee6c7e90e6c76d9b1aa94ae1ade9"
+    },
+    "wand_divination_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4505459,
+      "sha256": "9723aaf7748349fe57618f2995d7668676b4e90a985425c3211c5a8eeefbe0ff"
+    },
+    "wand_divination_candidate_v1/build.py": {
+      "bytes": 6655,
+      "sha256": "ae33e757abe95df11fbcab2d5e1195a33b8c10dabbf971b3f3f873071454600c"
+    },
+    "wand_divination_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1745291,
+      "sha256": "68e7d0e27c337a45056d82bfbf0f56c7d244062b257892afbd81367349366f35"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "cf78d3e004295ae69c6989d7eee4f63dc8a5ccf690a3e2376dcba9928ca6b1a3"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "b744516f62c8b05ab6759a1d6c79bc15e0b61b975e1e9f6defdaada8c1c0f689"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "29bf9999f0440a524abc423630c5f22419fa8b315b2d64d568b588f9ccdd594e"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "d746ea5d504052dc8d44299d5555232163ad8fe0d2a69abb10756f840b0095f3"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "b17cd72891b3f6a906e0eb636f90cdab8253c958e8f9484db226243d8f80700e"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "254a440fb848373f1ddf295ec836520025638dacc70fc7c03edbeca4e0db3821"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "d1bf8827d23ee8ee9c096129f339f51354b78395d682859b3bdbce2b555fba35"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "5a848c1bd07300d4ebc93542cc4b4e59078527b5f6328f146ddff18d955be2da"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "29b51a1ed24a7dd09012942f194cef992d97bd05cfc304f7d63106a312eebd59"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "367c4738f708755d68a294028a6c4bbe13199be47fb61a8622effd015f891bc5"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "9f4e1e0dbb32ba632315d48534907f3368f20aa6050857dedb6347b67c0f3043"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "bff252fcb049f0bb5e22da6bb31b692e6fcb023e3b92fd0b8c059448ef03914e"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "4d6563a9232846815cdb865c83c06400aea332c9ba7922e375ee2d54f66f8239"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "aeb7c6da32291a3ddbe2c70055d53d9fe5a7dbe23ff0781b6184cc03d8c6fb9d"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "fdf60da566c2e3af02ceaa9d343208a84c92f1527919e2011b4dd8531b28c6f5"
+    },
+    "wand_divination_candidate_v1/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "8b89a3d004b9640a691cb567ec8dddd22c98e6ab6db823042d50d8bd3a35488c"
+    },
+    "wand_divination_candidate_v1/delta/core/room_config.gd": {
+      "bytes": 37979,
+      "sha256": "5ad842f365651173c745f4210fb5c69e2f93b67893959c75f0931cacc0b1382d"
+    },
+    "wand_divination_candidate_v1/delta/data/patch_3702_wand_divination_overlay.json": {
+      "bytes": 18422,
+      "sha256": "e4555e0288926479f5af5d6c227eeb01deae3273e973cc3d0ea00a9b09e24bc7"
+    },
+    "wand_divination_candidate_v1/delta/research/patch_3702_wand_divination/BG36_MagicItem_307.native.xml": {
+      "bytes": 3302,
+      "sha256": "a1033f82dd7c690112e7ad2600ea6dd77cda867f3b032bdb04a34c357e7940b1"
+    },
+    "wand_divination_candidate_v1/delta/research/patch_3702_wand_divination/official_excerpt.html": {
+      "bytes": 270,
+      "sha256": "c75002842b5817ecc7bacc0a5a16acc478c7b740f198a09ed468216179b6d0b3"
+    },
+    "wand_divination_candidate_v1/delta/research/patch_3702_wand_divination/source_evidence.json": {
+      "bytes": 857,
+      "sha256": "5a3745e9bded25d62b8955a3c696174c1b1d6fa9d25764bac9b7d87dcd4d773d"
+    },
+    "wand_divination_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 483,
+      "sha256": "e21c0cb0ee9ed55e33221d32d71fe685e30876c12b2292aaf8918f5b45bebcc8"
+    },
+    "wand_divination_candidate_v1/gate.gd": {
+      "bytes": 18222,
+      "sha256": "a9eccc61398b7b4802b0ba14de70eba33274668fc9ac5bbb48d58d0cde65ae40"
+    },
+    "wand_divination_candidate_v1/refresh_bindings.py": {
+      "bytes": 1006,
+      "sha256": "457e362f32aa8f9e9d4b03543bd94a9f799b629f39e8e0b34ee93eaf0e1f72d2"
+    },
+    "wand_divination_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "wand_divination_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "wand_divination_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 481,
+      "sha256": "fdbe83543978a80bee0e57d15000757d5144e103d37a94073abaf8307a6d4671"
+    },
+    "wand_divination_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 796,
+      "sha256": "320353c28c6c2eeafaf77bc7964b64a4b69ea984fa2bc1590e75f624597de67e"
+    },
+    "wand_divination_candidate_v1/run_1/data/initial.native_save.json": {
+      "bytes": 21269,
+      "sha256": "56bfc50045d7ba746ac254a27751daa91504dc1ed32f1545e22754bb2d93f446"
+    },
+    "wand_divination_candidate_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 55974,
+      "sha256": "34b86aa3240b5c1680c4cbc97865168fe912518cc16c0db913d5636bee6e7dc0"
+    },
+    "wand_divination_candidate_v1/run_1/data/report.json": {
+      "bytes": 3292581,
+      "sha256": "278072dbc15ff0504b930af3f3e7182d255d2fdca2fdcd7735c87d960b0eed65"
+    },
+    "wand_divination_candidate_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 59742,
+      "sha256": "8b9ffa05a11501b6081ea1ac98a3ade6577b8c2637f46a80ad09137d942faaf4"
+    },
+    "wand_divination_candidate_v1/run_1/native.log": {
+      "bytes": 1111,
+      "sha256": "22e49591774fb798cabc33f5bc74d5a0b859e97621edb3b89e508b142c136ec1"
+    },
+    "wand_divination_candidate_v1/validate.py": {
+      "bytes": 3314,
+      "sha256": "23fa4049b6c2baa38dadb9b9b491b0e2b0ea091057e39ddcc3f27edd07362732"
+    }
+  }
+}
