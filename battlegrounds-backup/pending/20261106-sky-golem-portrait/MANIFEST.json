@@ -1,0 +1,235 @@
+{
+  "status": "Independent bounded candidate; original failures and limitations preserved; no promotion",
+  "archive": "partial3702_sky_golem_portrait_candidate_v1.tar.xz",
+  "sha256": "1712c4193666d793e98a5dbaf625336d587e3308483247329381d937e2d7f850",
+  "bytes": 1157676,
+  "parts": [
+    {
+      "name": "partial3702_sky_golem_portrait_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "151949bcddf1cfdc1675066fa5b3c3de1f8cbb4fab73a8c0a9d4471cf49832f2"
+    },
+    {
+      "name": "partial3702_sky_golem_portrait_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "768768fe1e5c0c2aa90a5b5d98b5d65dbe404a0e5ebe3d157b48fa3db2679722"
+    },
+    {
+      "name": "partial3702_sky_golem_portrait_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "04a77232eb7af6cb4e3d4ed219ec602cff0c2714b52fea21e910bc27fbf23bc8"
+    },
+    {
+      "name": "partial3702_sky_golem_portrait_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "cd36762e65959ebee907b2bb70a65ebdf56c3223a88df4582302973de640fb8b"
+    },
+    {
+      "name": "partial3702_sky_golem_portrait_candidate_v1.tar.xz.part004",
+      "bytes": 157676,
+      "sha256": "980e23edcfebefaee5859d81383708d3be5a932f050ee3b343da26ca8d7e4479"
+    }
+  ],
+  "files": {
+    "sky_golem_portrait_candidate_v1/BASE_MAP.json": {
+      "bytes": 4507942,
+      "sha256": "5b8e8311d39d69db8cb50f2a6c31e829db7b15fa4cf22d9de1648c36da31e372"
+    },
+    "sky_golem_portrait_candidate_v1/EXPECTED_ROW.json": {
+      "bytes": 9104,
+      "sha256": "f8a9ec3a1fcbbd0bf055518040b00bc1a0b7e8fa0ebe6d5f7ac6036080b48ac3"
+    },
+    "sky_golem_portrait_candidate_v1/PROGRESS.md": {
+      "bytes": 411,
+      "sha256": "5fb5adbce08b163f30907b2aad5658d601d2a1b0ae63aacb3ce3b43605b13bdb"
+    },
+    "sky_golem_portrait_candidate_v1/README.md": {
+      "bytes": 1992,
+      "sha256": "d94eefc44abb8c4c3245519c385b9440790ad397570b4772727db0bb8935e80e"
+    },
+    "sky_golem_portrait_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 7256,
+      "sha256": "a88a185415dcd9b9cfa799a0b577186ef2a54880599606319e58b8c1d800e373"
+    },
+    "sky_golem_portrait_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 2507,
+      "sha256": "084b1c174b9261a8830b05b5b3a23678317b4323f92730ea1c0c9b1ff9c010a9"
+    },
+    "sky_golem_portrait_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4508786,
+      "sha256": "5ea915292efa3f2be00829bd97422c6f11abea441c2f588dc103af2f4d0b94e1"
+    },
+    "sky_golem_portrait_candidate_v1/build.py": {
+      "bytes": 5863,
+      "sha256": "575ca896b79f129221e6897590d01c2e829aef10e110565a537b934a9e39072a"
+    },
+    "sky_golem_portrait_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1751642,
+      "sha256": "842e71e794f84636796afd4a4123ced70b35c210428ce88775da235ccfd2e123"
+    },
+    "sky_golem_portrait_candidate_v1/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "5f203a71b9f211d5ebdd99cc728ba815b940c45159d02a157a28362f2ee8c992"
+    },
+    "sky_golem_portrait_candidate_v1/delta/core/piggy_bank_host.gd": {
+      "bytes": 23972,
+      "sha256": "6c532ac0d8cf6a8dea1f2d1f26f930c216d3cf268aa1cb19d7de1e2a64744b2d"
+    },
+    "sky_golem_portrait_candidate_v1/delta/core/sky_golem_grant_payload.gd": {
+      "bytes": 4665,
+      "sha256": "6e208613066a8bc35a514b9e51ac0485bf56cfcffa9bbcec753148c8b682d1d7"
+    },
+    "sky_golem_portrait_candidate_v1/delta/core/sky_golem_portrait_sources.gd": {
+      "bytes": 24458,
+      "sha256": "8d641804d5abaa2bde62633e89918932f375ad7a936384e675878957c29efb7b"
+    },
+    "sky_golem_portrait_candidate_v1/delta/data/patch_3702_sky_golem_portrait_overlay.json": {
+      "bytes": 21794,
+      "sha256": "a7d4bd90f1dcb1aeca08844f85a57b3d894b938d158909119f474ddbf611b078"
+    },
+    "sky_golem_portrait_candidate_v1/delta/research/patch_3702_sky_golem_portrait/BG35_MagicItem_740.native.xml": {
+      "bytes": 5158,
+      "sha256": "e446100d6a7facf9cd14b386babeb0fa211ffda2917d44d0d3152580e73417c0"
+    },
+    "sky_golem_portrait_candidate_v1/delta/research/patch_3702_sky_golem_portrait/official_excerpt.html": {
+      "bytes": 296,
+      "sha256": "90c76c988a17b8eec290ad0ae90082f84c1237441aa8cc8ad425efa24ee78d93"
+    },
+    "sky_golem_portrait_candidate_v1/delta/research/patch_3702_sky_golem_portrait/source_evidence.json": {
+      "bytes": 435,
+      "sha256": "2dc5bf5f9caacc38a1523084d9bf843332009b316a4fc3efa25746213860ef5f"
+    },
+    "sky_golem_portrait_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 583,
+      "sha256": "adc45e7d3512c0eceb5154242f5b7887ff0fa6adcf2d8c5c655cef6b976d1e66"
+    },
+    "sky_golem_portrait_candidate_v1/gate.gd": {
+      "bytes": 18333,
+      "sha256": "b7c61023a929934ee3add3c8371586bea1240ce5c4f5495efd79ef55df3931eb"
+    },
+    "sky_golem_portrait_candidate_v1/map_sources.py": {
+      "bytes": 657,
+      "sha256": "64b81bc6a8738b9ecb3d8cf3feebc74c6db26132df9246283e511a5dccab514d"
+    },
+    "sky_golem_portrait_candidate_v1/prepare.py": {
+      "bytes": 326,
+      "sha256": "41db17e0d3a349d38b064bc13a778ef80809c7ae4eea29cb601d0ab0a9d92de3"
+    },
+    "sky_golem_portrait_candidate_v1/refresh_bindings.py": {
+      "bytes": 1006,
+      "sha256": "457e362f32aa8f9e9d4b03543bd94a9f799b629f39e8e0b34ee93eaf0e1f72d2"
+    },
+    "sky_golem_portrait_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "sky_golem_portrait_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 496,
+      "sha256": "ee6863ef17040c61b13c21059c513615b560f4f92756de8379c55f48cde5d455"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 172,
+      "sha256": "d3990b1de166cdff27ff74f8334124c357f5ed1224503237a4dbf74d9052b716"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/data/report.json": {
+      "bytes": 4137,
+      "sha256": "c3f276f148d28b3aee01eb24376cae8a19c98c72e8144eedc125f65fcde2f8ba"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/native.log": {
+      "bytes": 222,
+      "sha256": "105641dc998b8e27e6757b3858a562f47b531d26de1a1f4ce81b859215ff521d"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/SOURCE_DELTA.json": {
+      "bytes": 2507,
+      "sha256": "6973c5d6774c1e5ca11730191d3ec3c5453920002f0d8fc547720dc4c33f87f8"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/SOURCE_MAP.json": {
+      "bytes": 4508786,
+      "sha256": "6ad84f39035a9b77a138ec89d0a50f08073061008f1283ae9d7ae9df0d550eda"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/build.py": {
+      "bytes": 5527,
+      "sha256": "1069c4fda8b11e1039cc47770e8643b0e8389011241277c409c5d521473ecdcc"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/delta/core/catalog.gd": {
+      "bytes": 1751539,
+      "sha256": "3ef3c6501477498cfac5f78968a023a612b44192f2536bd7ff58b7606bed37ed"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "5f203a71b9f211d5ebdd99cc728ba815b940c45159d02a157a28362f2ee8c992"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/delta/core/piggy_bank_host.gd": {
+      "bytes": 23972,
+      "sha256": "6c532ac0d8cf6a8dea1f2d1f26f930c216d3cf268aa1cb19d7de1e2a64744b2d"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/delta/core/sky_golem_grant_payload.gd": {
+      "bytes": 4665,
+      "sha256": "6e208613066a8bc35a514b9e51ac0485bf56cfcffa9bbcec753148c8b682d1d7"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/delta/core/sky_golem_portrait_sources.gd": {
+      "bytes": 24458,
+      "sha256": "8d641804d5abaa2bde62633e89918932f375ad7a936384e675878957c29efb7b"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/delta/data/patch_3702_sky_golem_portrait_overlay.json": {
+      "bytes": 21794,
+      "sha256": "a7d4bd90f1dcb1aeca08844f85a57b3d894b938d158909119f474ddbf611b078"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/delta/research/patch_3702_sky_golem_portrait/BG35_MagicItem_740.native.xml": {
+      "bytes": 5158,
+      "sha256": "e446100d6a7facf9cd14b386babeb0fa211ffda2917d44d0d3152580e73417c0"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/delta/research/patch_3702_sky_golem_portrait/official_excerpt.html": {
+      "bytes": 296,
+      "sha256": "90c76c988a17b8eec290ad0ae90082f84c1237441aa8cc8ad425efa24ee78d93"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/delta/research/patch_3702_sky_golem_portrait/source_evidence.json": {
+      "bytes": 435,
+      "sha256": "2dc5bf5f9caacc38a1523084d9bf843332009b316a4fc3efa25746213860ef5f"
+    },
+    "sky_golem_portrait_candidate_v1/run_1/source_before_fix/gate.gd": {
+      "bytes": 18333,
+      "sha256": "b7c61023a929934ee3add3c8371586bea1240ce5c4f5495efd79ef55df3931eb"
+    },
+    "sky_golem_portrait_candidate_v1/run_2/PROCESS.json": {
+      "bytes": 497,
+      "sha256": "8905bfc41c43018903e340f2dffb2ca268a2c5a98bd3fe671baf187619b7d61d"
+    },
+    "sky_golem_portrait_candidate_v1/run_2/VALIDATION.json": {
+      "bytes": 1017,
+      "sha256": "8671cbb4193151c0574103ca229f52a8a7c90b315edb130623f367b854a7b6ae"
+    },
+    "sky_golem_portrait_candidate_v1/run_2/data/initial.native_save.json": {
+      "bytes": 22129,
+      "sha256": "f822e3ad670e5a91337d0f1c35eb0078402ceb9d3c667c38e1609738295f4ef8"
+    },
+    "sky_golem_portrait_candidate_v1/run_2/data/prefix.native_save.json": {
+      "bytes": 90059,
+      "sha256": "ff130afb42c84a4ec0abf767fd7dfb6462859599c726d08fe65c70a8ed97f120"
+    },
+    "sky_golem_portrait_candidate_v1/run_2/data/report.json": {
+      "bytes": 7961679,
+      "sha256": "bb73c3a761916742f4730046e77900f07ab0eb2b69367cd2f862fe42d0a2b833"
+    },
+    "sky_golem_portrait_candidate_v1/run_2/data/terminal.native_save.json": {
+      "bytes": 125332,
+      "sha256": "99ceb304934d60a61446806ada6f6f3b2663f33b87b401c36e209f478dd05fdb"
+    },
+    "sky_golem_portrait_candidate_v1/run_2/native.log": {
+      "bytes": 1882,
+      "sha256": "b310bc259f318a4647d7f725f521d5a48ac1c20972c56cca0ed1a9369fa01288"
+    },
+    "sky_golem_portrait_candidate_v1/run_v2.py": {
+      "bytes": 1150,
+      "sha256": "3bead5607d6e7b26a2c7256c2bcf961fcd62e7931b103ea0fea4d8b74d630305"
+    },
+    "sky_golem_portrait_candidate_v1/validate.py": {
+      "bytes": 4649,
+      "sha256": "cf2af7eb5881659cd7df718393d8e0c97ed1dc157efd6e089cade8102bfa6005"
+    }
+  }
+}
