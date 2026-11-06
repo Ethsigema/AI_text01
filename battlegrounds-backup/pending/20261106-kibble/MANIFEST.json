@@ -1,0 +1,620 @@
+{
+  "status": "Independently reviewed bounded ordinary Kibble candidate; custom two-card shop fixture; both-owner scaling not verified; +4 scaling supported by third-party source only; no full acceptance",
+  "archive": "partial3702_kibble_v1.tar.xz",
+  "sha256": "0aa7b0381519cd34cb09458be5778bbcc704bf45bf9293b8c0813975c849a5a2",
+  "bytes": 5770352,
+  "dependency": "Exact sushi_roll candidate 005b57bf0d668c3da6b870882f2b5a38a29cec572a1c9789e5623886b83568b2",
+  "transport_encoding": "Each part stored as name + .b64. Decode standard base64 then concatenate manifest order; verify SHA256 before extracting delta onto exact sushi roll baseline. Not standalone.",
+  "parts": [
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "16d581efc6aae7d259e5747acf5dda63994055ac8fe27995ae9e891aee87de18"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "0882b1104518a4e955c2a749e7d826a651dafe0d6a9e3bacfe6c4b4330a2ac44"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "41fc629785a072a6dc9b90a1bb056d299d403d53c201a3d947c5498541adff50"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "e716f8ce0e0dcc2c9059b0dcb4f81702afd0828d3e31501a31024d04c76fa72d"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "4361d05dad64a531a169174904c55128e4cda1998b9e9de10cb77b01c038e908"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "ddfd614bf2a8d9926339b6fd6572faa9ae545f7415b02bc5c8409fe8bfacaa50"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "ed602646564015e1fc08be85499ff1ae4c72c916dc4b2f80fc40a311839abb9b"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "03fea6b95214edc1e6036c39cbb31c737c9304b707271013c62c2fd777beb618"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "38d6f0fc654b993b9dc286ee47f087d384ea774c3b980e268a94a05da3813c8e"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "e38613fcab4d68c48b897087facbd5725c0d813daffc05033e7014f5ce3070bd"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "c7b94de1889fe7d854543d98edb37c47cc5c22bb4e2f30fe0538b16335a8bc05"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "0602a5ddef7ee865d0e9aed9e25e25eaff200adc7c296345f0a0495e5efd3f61"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part012",
+      "bytes": 250000,
+      "sha256": "ea7776359871d3937335dc2fbd04d9cb51afd3eab01712c121e303d0a4d111b8"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part013",
+      "bytes": 250000,
+      "sha256": "a4b71bb2cd8975852a70ea8a89b81cfc3f69cccff27d8c43f4ae80935c7924a5"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part014",
+      "bytes": 250000,
+      "sha256": "cd7f4259ec5af9ca4331afd81cda39c8687202b96962932fa013c3cb70a601a7"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part015",
+      "bytes": 250000,
+      "sha256": "436e5f2fced752ed00ff782c54508a808b99bdb0871cc0daab1c44a59447e63a"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part016",
+      "bytes": 250000,
+      "sha256": "1c0bd3cc9a4eba800a8b0c2b74a97b3e73626a2331387a4ac5e3e1ba8faebaa0"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part017",
+      "bytes": 250000,
+      "sha256": "80c33270bd5b3e15867be67df9c5f9a8351e407c0f63185c72ad0f47eac8bd22"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part018",
+      "bytes": 250000,
+      "sha256": "b926f1770bbfd5b6638cc3e268a1e34d2e3fed7d42d92d4cfd3ca7356b47f0e2"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part019",
+      "bytes": 250000,
+      "sha256": "5af04ecaa5c8354877e8d6f506bf2c85794ba243eaa2551932da2a9e75458e8a"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part020",
+      "bytes": 250000,
+      "sha256": "ed2544d18b84915315c5d2cd94818ed80f7f61d1aaa1014c98760f28c9b4be34"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part021",
+      "bytes": 250000,
+      "sha256": "5f02e6e251abbb7c88a4ad8d1dc68cfbbc0731b2ce162f31329c45ad4e5179c8"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part022",
+      "bytes": 250000,
+      "sha256": "30dcaecbb168bd6c735907bdbbbd59abe7e36acb0e56a51ed97507ac70358c7a"
+    },
+    {
+      "name": "partial3702_kibble_v1.tar.xz.part023",
+      "bytes": 20352,
+      "sha256": "103cafe9385d811eb1dcdf904f4fc10ea22752bb84cc740d2f7718f6a7f67f06"
+    }
+  ],
+  "files": {
+    "kibble_v1/ATTEMPTS.json": {
+      "bytes": 1866,
+      "sha256": "dd9d62d66d4b52fb6532b81e81efc32484211119789ceb2f0954049976e98bf8"
+    },
+    "kibble_v1/BASE_MAP.json": {
+      "bytes": 4530728,
+      "sha256": "0878729d0761d0dd97181ae008ff9a1fd402ce3345fd0707e967f148f0943b8d"
+    },
+    "kibble_v1/BINDINGS.log": {
+      "bytes": 3953,
+      "sha256": "4421cec3d19cceb6cf32271379397b3a28b05bc43ff6b6e6cc33dac568445072"
+    },
+    "kibble_v1/CHECK_PARSE_1.log": {
+      "bytes": 91,
+      "sha256": "bcdd5993dbff64586b0b37483b810e1e8081f9e5bfcf5c2ef90f739f7adb48ce"
+    },
+    "kibble_v1/DESIGN.md": {
+      "bytes": 4161,
+      "sha256": "536be9734b67ba5d2a21a2b85ac949fc63857b01e65f745f672154c763be8e71"
+    },
+    "kibble_v1/EXPECTED_ROWS.json": {
+      "bytes": 7967,
+      "sha256": "4bebbb8880e25487744c93f5a57bff6fe615ac965e21a581eb688af2b998df13"
+    },
+    "kibble_v1/NATIVE_FACTS.json": {
+      "bytes": 632,
+      "sha256": "ff44e59cb0e8c04b991a9dc0690c92aefeab20060e6c7319430b942adc38334e"
+    },
+    "kibble_v1/PIN_PREFLIGHT.json": {
+      "bytes": 224928,
+      "sha256": "08934c932fc03560e4c2c93ea3d9a55087cf7842950187355b65fe930b520ebb"
+    },
+    "kibble_v1/RESULT.md": {
+      "bytes": 4416,
+      "sha256": "2d215feec2ee3cd1bec7c8d48eaf1a23d3b23354cca68b983afecc34bebf4931"
+    },
+    "kibble_v1/SOURCE_DELTA.json": {
+      "bytes": 16878,
+      "sha256": "15f0e414166acc72a7febc1368d98700439f60c8d181c0aaa300ea14f93695f0"
+    },
+    "kibble_v1/SOURCE_MAP.json": {
+      "bytes": 4532084,
+      "sha256": "25d09e268051600e257facb6a67a744dbbfa20fb3c63d733811c91b2d9f11764"
+    },
+    "kibble_v1/VALIDATION.json": {
+      "bytes": 407,
+      "sha256": "725460694819f6e77578232f7505f1b26a569dfeaf32c95a7e25fa9afc9c5449"
+    },
+    "kibble_v1/adversarial_fragment.gd": {
+      "bytes": 7769,
+      "sha256": "707dfcf709afb3fc7fd1724e71ed12e7444660fc98256aa90a3236756637a4fa"
+    },
+    "kibble_v1/build.py": {
+      "bytes": 10142,
+      "sha256": "9d27400c43a60d601d80ab3042c50eec550ca05f25c8cbcd0536bfb5d091d576"
+    },
+    "kibble_v1/check_parse.gd": {
+      "bytes": 140,
+      "sha256": "52dd84cdaab1cb81c6a2d86a6b0f4f9bbfe25647ded51d53636978e39a67177b"
+    },
+    "kibble_v1/delta/core/catalog.gd": {
+      "bytes": 1789900,
+      "sha256": "1a585817aa9048aef734c6a6bcc28c103b0caeda89ea709bfbedc056a13334c7"
+    },
+    "kibble_v1/delta/core/combat.gd": {
+      "bytes": 573306,
+      "sha256": "9a639a63fd124f5aa1b1ae5a3cc74530b191ad8f3dd546e95303021ba300ac5b"
+    },
+    "kibble_v1/delta/core/game.gd": {
+      "bytes": 1321311,
+      "sha256": "5ca1b03442218a46eb8fe2f8753d8b6312baf0bcdabbb55f377c1fc88b85ed14"
+    },
+    "kibble_v1/delta/core/kibble_history.gd": {
+      "bytes": 12881,
+      "sha256": "17bc1113a3a82c368329874bf17de58c045c94d0032c90ba491f4c5f24a60aca"
+    },
+    "kibble_v1/delta/core/kibble_host.gd": {
+      "bytes": 13198,
+      "sha256": "bd65c50baaf64d910b7bc03d28c62dfe6977169ccd4d4376b8c41d0e9f044132"
+    },
+    "kibble_v1/delta/core/kibble_sources.gd": {
+      "bytes": 5393,
+      "sha256": "3417472c4c5b1c110f5c98d3dc63e912e766ca5879f4b3ee82e015fa1d2269b3"
+    },
+    "kibble_v1/delta/core/mechanism_effects.gd": {
+      "bytes": 208765,
+      "sha256": "b54037f79d96484541fd1abf5070d5dd0f731dbc6d1cdc5de8bf9c6ebc3bbd0d"
+    },
+    "kibble_v1/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "0d4822138aeac840c9bccbe09b729c8d55c28c2f5bdb13ed2f95330163569553"
+    },
+    "kibble_v1/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "b22b954c651bd0cd51cc8c3c324873f87fa5e543d53997aa7167354eaa714071"
+    },
+    "kibble_v1/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "ac400410d806a1ed91c4cb26e03edaa23f663bd515717d86214e0c4fb00edec8"
+    },
+    "kibble_v1/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "088a7cb3b34ef6e88c922c633de9c6c01679a99345c09d9f0d7de585b61534e9"
+    },
+    "kibble_v1/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "f43e051f2631482d8b74279de0b72ac8d81c230f6b8d6484db72d85b4a15e982"
+    },
+    "kibble_v1/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "b0962cc5a3add287fc1a39f73b5c9f08fc0280017f13de72150ad542e4732872"
+    },
+    "kibble_v1/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "e01865ebae0cee7512072056e8d1fa8c653a5a27a9d8fdfa799d530eaad414ba"
+    },
+    "kibble_v1/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "b313db0d964bdf500e8ef51248eb64818bbe5f0cb1829c6d19eed1fe352fd133"
+    },
+    "kibble_v1/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "5e383555016f02cf074670942de7618e4ed092548b6fbdc554039275117ef509"
+    },
+    "kibble_v1/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "b6d96a0abfc02242fff120f9b932eab0100da88e5ab5cdb42901d2c09a6f88a2"
+    },
+    "kibble_v1/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "bb7ab66999f7e65468c15c8d15002dfa70126a279b55983dac0e8f12ce515847"
+    },
+    "kibble_v1/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "15a698fa063611475e814d85d285b09bbb7d2ff794ee5c088db3e6d191049d4b"
+    },
+    "kibble_v1/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "9feb9d5f6839b351570ab6697ad6eabc388d353a910cc56e7348cb27e85f877c"
+    },
+    "kibble_v1/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "50214e7815b0561c68e2633aef3a1b3d2b01a36beaf274ab1d51f84427136a68"
+    },
+    "kibble_v1/delta/core/patch_3702_kibble_sources.gd": {
+      "bytes": 22734,
+      "sha256": "e920f7ab7f7b802efc69f9f9a2d22f50768c25ac00a4e32f01abf4cd6078b6c9"
+    },
+    "kibble_v1/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "e4a973e66bb470b007388c7400adbb616eccb1f4fb4e959ca3b290a8764b1ecd"
+    },
+    "kibble_v1/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "ffed7bea578de96b30548a1ac761bb2b219f3e9cfda6808fb200d8661e60336b"
+    },
+    "kibble_v1/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "710d03dff617bf786566776f4d8b57b3bb8628451ca5968e0f987eb5401b354f"
+    },
+    "kibble_v1/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "7ced3d832878d6c609ea023d7a08e6776bce89bd3ee336160b38995f1da8fbf2"
+    },
+    "kibble_v1/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "7070e71a3cb314d9be9c36db142ce644d796bd439210689703ab7416935c5efc"
+    },
+    "kibble_v1/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "0facc2f1426cb44b2b0d23ce6acdcf1b807e271e050c9db490bae466090adcd2"
+    },
+    "kibble_v1/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "a4ecf5505b0419d9b3a99996a416cbb58f5e714598415c886005dcbfa9f929cb"
+    },
+    "kibble_v1/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "fb7223b4fadee7b27882b375e85e88286d32d349551280078f4b28c39c4074de"
+    },
+    "kibble_v1/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "75434e1d0acdfb658321f0a8f8817959deccfde381ab39bcca5f26513bafea29"
+    },
+    "kibble_v1/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "5d2eeccacadfd763346c2779591ecf484c954f644a61aefa9604c4e58a7f4cef"
+    },
+    "kibble_v1/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "c1d41f7025f1c14122380420f12c86789f70dfa54a6f3a063750b6d4c3ebc4a1"
+    },
+    "kibble_v1/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "d4c5051fc91ebb8e5d89f333375a073a2dc1e7fe8acd860a56ab876ba99fa326"
+    },
+    "kibble_v1/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "3eacb828d7b42e8b2731006b71dbfa10121df9e585c48eb0114bd0195ebe497f"
+    },
+    "kibble_v1/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "b8c2d856f1cf46b58ff3da1ba7bb9724b70a0ea820ab0f0d2524d260b90ffa72"
+    },
+    "kibble_v1/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "4353acaadb4f14be788dfc6f980e211a008685a2f3d66dbe98d91ab3f0fdc1e8"
+    },
+    "kibble_v1/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "0956b31d0ddad825fd2304e01cb8440a1c7a3ef6d8172f575bed726b6e24ded8"
+    },
+    "kibble_v1/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "d36e407702c7c35af594b43672b8ab1431abb04c037aecbdf2a267385fa5b30f"
+    },
+    "kibble_v1/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "cacbd6bdba744b9be893756ae6e398e909cdcd96c1ab9ccb7fe5111e3834991b"
+    },
+    "kibble_v1/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "245fad1a487b435489c009161689be421a68527504774d74b24a8083dc47795f"
+    },
+    "kibble_v1/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "c7f4b7c4b41ee7934fd3ae76a3857a6b2338c37bd0ebcaee2f5748fa9cedda54"
+    },
+    "kibble_v1/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "53c5f5b9179a5afa277f1bbbd157b80e7fe935b6a4ec9abeb4afd62b6d709b99"
+    },
+    "kibble_v1/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "abf0b18f095b010e8e8d2184518f22fd67e3b7665125c72a3ad543776b553a45"
+    },
+    "kibble_v1/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "021ef3190fd5e46ceed7f2eb9620415ebd59e2dcea3b2dedbd997cd4200edb19"
+    },
+    "kibble_v1/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "c6d46e313378c5c661480c7d024a6674157b8bbb002caac7f34c8b43fd2a236e"
+    },
+    "kibble_v1/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "a2f864126864e004f675e9ee59963c675ee969700d7c5a22233833764fc28fe9"
+    },
+    "kibble_v1/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "4d14e86d001341e4fa1836d9d088a90b6df644e5e111d5c45f8ad0ef796f6c63"
+    },
+    "kibble_v1/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "e44ccc1638564f29b9adaf9012a181f974a5133230b38dc9428a6a625def12c0"
+    },
+    "kibble_v1/delta/data/patch_3702_kibble_overlay.json": {
+      "bytes": 16966,
+      "sha256": "9424bdfccd5f18fba96a7f016a76e9ff738e096e986639ac4c8049b2c6ad355e"
+    },
+    "kibble_v1/delta/research/patch_3702_kibble/BG32_MagicItem_200.native.xml": {
+      "bytes": 3178,
+      "sha256": "925661ae37e8d95fdc8fb4e73c34c2238d9d24124bd1e74d948b5d11fa9e97a9"
+    },
+    "kibble_v1/delta/research/patch_3702_kibble/evidence.json": {
+      "bytes": 654,
+      "sha256": "13cee91d9543527198874d07f9187607124d39f02bab20262752e2bc542d83c5"
+    },
+    "kibble_v1/delta/research/patch_3702_kibble/patch_37_0_2.html": {
+      "bytes": 61337,
+      "sha256": "6a40987138eb0f2bd6031fd1154f8ee28dc59b7dae79d8c410dab1c805543d9b"
+    },
+    "kibble_v1/delta/research/patch_3702_kibble/third_party/all-purpose-kibble.js.txt": {
+      "bytes": 1011,
+      "sha256": "e47c4456ce27144f9ea85b542ad97f084639b7068ee158b13aadaccaad0e1448"
+    },
+    "kibble_v1/gate.gd": {
+      "bytes": 39478,
+      "sha256": "84126423ef70f55069fbfe50370da1b9fed3f4399efd9c360be6b0cda2dd3ca9"
+    },
+    "kibble_v1/harden.py": {
+      "bytes": 1718,
+      "sha256": "a015918dd5a8b868793edb3733c69dc717893ef2801351665edb0191288f4f3c"
+    },
+    "kibble_v1/map_sources.py": {
+      "bytes": 811,
+      "sha256": "3ba64d28092076d410596d332a2fc387615a34beb4f3c848bc7ec818fb784908"
+    },
+    "kibble_v1/pin_preflight.py": {
+      "bytes": 854,
+      "sha256": "0cfbe068f228b90633ea6215fb0049cbd86255f029aa99bc121a23e3012204b8"
+    },
+    "kibble_v1/purchase_fragment.gd": {
+      "bytes": 3431,
+      "sha256": "50730702e54f2dfddbaf21de3b909ddbdab5da2120d6ef71f850d6aa6cbd2bee"
+    },
+    "kibble_v1/refresh_virtual_bindings.py": {
+      "bytes": 1154,
+      "sha256": "165a53eb03e4855089efc431eed5878b2357d7fa8d1fa52cdef7d718b51440de"
+    },
+    "kibble_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "kibble_v1/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "kibble_v1/run_1/LAUNCH.json": {
+      "bytes": 487,
+      "sha256": "fb0a761aca1a80f4e065762d7d805593123bcad7dee996bd31f5b2f540fb7d9a"
+    },
+    "kibble_v1/run_1/PROCESS.json": {
+      "bytes": 561,
+      "sha256": "0a58c50f1e9d7b4a1ec01cac80448564901a29a24831afc86156ad52db4a74d6"
+    },
+    "kibble_v1/run_1/SOURCE_DELTA_EXECUTED.json": {
+      "bytes": 16736,
+      "sha256": "44836ed3d748e9297c984f33f822145f6560466359e2b1321781b2a7975dfecc"
+    },
+    "kibble_v1/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 431232,
+      "sha256": "e012a3481e86ad8c0dbfb34f6a60372f322d3505ec6da8f50ccaa0f12da51b62"
+    },
+    "kibble_v1/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4532084,
+      "sha256": "d2e1c0f3476a943a135b00d4214674ea5fee3c498a9da6cfea08701f8de3f977"
+    },
+    "kibble_v1/run_1/data/before_battles.native_save.json": {
+      "bytes": 96901,
+      "sha256": "a6479637fdd542d62b5c8c6f1f975102ee641655c3a60a6a2f7b90459eebe5f9"
+    },
+    "kibble_v1/run_1/data/forged_before_battles_cost.json": {
+      "bytes": 72765,
+      "sha256": "adfa8bab75a0be947cb8b1ecb24e89a8c764d17531a3ffa7a54d9cd79280c68a"
+    },
+    "kibble_v1/run_1/data/forged_before_battles_multiple_owned.json": {
+      "bytes": 72788,
+      "sha256": "3f5cfdea66164b474a726e7d6515727c870f4d9dc0c37ea7e85fa25907dc9111"
+    },
+    "kibble_v1/run_1/data/forged_before_battles_owned.json": {
+      "bytes": 72747,
+      "sha256": "2da69bb8c01d25cd7927970418cb4043ab493325f35a8e1048391c87247550b1"
+    },
+    "kibble_v1/run_1/data/forged_before_battles_source.json": {
+      "bytes": 72762,
+      "sha256": "0b9e14b831bb89e4cea6c589b0a5d35d83c91caa80359eddb0067bec9312f0ec"
+    },
+    "kibble_v1/run_1/data/report.json": {
+      "bytes": 4311649,
+      "sha256": "9a07f5b3ae3b4652f01cded9ac771054ba18274beb4bf419c66df7a518740151"
+    },
+    "kibble_v1/run_1/gate_executed.gd": {
+      "bytes": 28139,
+      "sha256": "836df9b33745ccd1ec9b6be84260291066cc32c675a568d86c7917c6700736c5"
+    },
+    "kibble_v1/run_1/native.log": {
+      "bytes": 1289,
+      "sha256": "ffdf5888f4269bd39895bad8a65d13660bd7d0027e9f21cff23392475b84f7f8"
+    },
+    "kibble_v1/run_2/EXPECTED_ROWS.json": {
+      "bytes": 7967,
+      "sha256": "4bebbb8880e25487744c93f5a57bff6fe615ac965e21a581eb688af2b998df13"
+    },
+    "kibble_v1/run_2/LAUNCH.json": {
+      "bytes": 487,
+      "sha256": "a9bcdf3e13efc118b58be184389a954399961f0870b059cf5969c5ff114dfef3"
+    },
+    "kibble_v1/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 224928,
+      "sha256": "08934c932fc03560e4c2c93ea3d9a55087cf7842950187355b65fe930b520ebb"
+    },
+    "kibble_v1/run_2/PROCESS.json": {
+      "bytes": 559,
+      "sha256": "c919401cdf40973e210a1f06ee156ac7775a6596739599cbff46427c13228922"
+    },
+    "kibble_v1/run_2/SOURCE_DELTA.json": {
+      "bytes": 16736,
+      "sha256": "69b0388f5d7e703942bd0e1788018098faad3e7f16f6bc5ddf26677f7ec3d268"
+    },
+    "kibble_v1/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 428964,
+      "sha256": "f2e138adac564576e452d1e3900b06d36c47d6113e331863a3a93506775fc0bf"
+    },
+    "kibble_v1/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4532084,
+      "sha256": "25d09e268051600e257facb6a67a744dbbfa20fb3c63d733811c91b2d9f11764"
+    },
+    "kibble_v1/run_2/adversarial_fragment.gd": {
+      "bytes": 7769,
+      "sha256": "707dfcf709afb3fc7fd1724e71ed12e7444660fc98256aa90a3236756637a4fa"
+    },
+    "kibble_v1/run_2/data/after_battles.native_save.json": {
+      "bytes": 1430603,
+      "sha256": "9fdac96ce07f1dd4d4f3c68e21cd2d886367bbd4696f7f6d613f5182e229a6c8"
+    },
+    "kibble_v1/run_2/data/before_battles.native_save.json": {
+      "bytes": 117142,
+      "sha256": "b2d49d58a8d16107d33d27eee1acbd50fa00238873fb9181d3e7940330cb3d00"
+    },
+    "kibble_v1/run_2/data/between_battles.native_save.json": {
+      "bytes": 779224,
+      "sha256": "28fc0581504720c4d4a7f99f4267db10eb196f191c8f4702f079f4100e12bf8d"
+    },
+    "kibble_v1/run_2/data/forged_after_battles_count.json": {
+      "bytes": 1395554,
+      "sha256": "338a181ac6c01c66f344e4bf38de15cdc16c07a5bb0615df27b914f592641cba"
+    },
+    "kibble_v1/run_2/data/forged_after_battles_log.json": {
+      "bytes": 1395554,
+      "sha256": "bb55f6814cd7a9d519f75eb6ef7f485a515459dc9ad2c54229b916a82d85ffc7"
+    },
+    "kibble_v1/run_2/data/forged_before_battles_combat_program.json": {
+      "bytes": 87875,
+      "sha256": "2dbe2a184143c79dc5a8917d75ed182a02f6390d8bdd5d21ffa383ec749dfc4a"
+    },
+    "kibble_v1/run_2/data/forged_before_battles_cost.json": {
+      "bytes": 87832,
+      "sha256": "a6f5de63bf07331021da1ae07322fa0cac0dd7e5bbd74796b65d2ed5a19edb9c"
+    },
+    "kibble_v1/run_2/data/forged_before_battles_multiple_owned.json": {
+      "bytes": 87855,
+      "sha256": "08addef39a1abe32fc334ffcb6e911a0830c10e7db57c958b0fe29f4dd43e0f7"
+    },
+    "kibble_v1/run_2/data/forged_before_battles_owned.json": {
+      "bytes": 87814,
+      "sha256": "b44e93bfda1919b36d82836a47c540b707caf8a2f3731125d1db1a7450fb0421"
+    },
+    "kibble_v1/run_2/data/forged_before_battles_source.json": {
+      "bytes": 87829,
+      "sha256": "2b3bf9427415150bc9fdc2f18202dd6854c89c6e90068e9bb4742aa9ff5315b4"
+    },
+    "kibble_v1/run_2/data/forged_between_battles_count.json": {
+      "bytes": 745312,
+      "sha256": "888f81a86b699cbb98539972d7ed6534097aad86579159188b08fa9a000a185e"
+    },
+    "kibble_v1/run_2/data/forged_between_battles_count_type.json": {
+      "bytes": 745314,
+      "sha256": "a87a362e097ef0585c9abd59969347712409c82e28ec20c677199248c4514faa"
+    },
+    "kibble_v1/run_2/data/forged_between_battles_enemy_count.json": {
+      "bytes": 745312,
+      "sha256": "1a4efb2a28b1501a0fe61a37fb6e7b3ca650da498927628ba8ecc41d0e9882bb"
+    },
+    "kibble_v1/run_2/data/forged_between_battles_log.json": {
+      "bytes": 745312,
+      "sha256": "0f8334884a701e7a5a23105ddd32c4180f72db402b1bc3244511f55ce3baf86f"
+    },
+    "kibble_v1/run_2/data/report.json": {
+      "bytes": 28593755,
+      "sha256": "c4ac9202d067bb20d96706efe2881ac930304b00a52cad0d0937755aa7643a3c"
+    },
+    "kibble_v1/run_2/gate_executed.gd": {
+      "bytes": 39478,
+      "sha256": "84126423ef70f55069fbfe50370da1b9fed3f4399efd9c360be6b0cda2dd3ca9"
+    },
+    "kibble_v1/run_2/native.log": {
+      "bytes": 1772,
+      "sha256": "a84080721e8c3ba85fa3aab63d6b55290ba83c8582999768cfc3d625b81b94c3"
+    },
+    "kibble_v1/source_negative.gd": {
+      "bytes": 1790,
+      "sha256": "5c62f5cc988c48790f2fdff5c556a03df11f353762c4ff95a8e2f49bb0f464b9"
+    },
+    "kibble_v1/source_negative_run/EXECUTION.json": {
+      "bytes": 593,
+      "sha256": "120e1be14d4075bb816155eecfc364a01f49b9aa9effe95c1aef479e5a4d385d"
+    },
+    "kibble_v1/source_negative_run/executed.gd": {
+      "bytes": 1790,
+      "sha256": "5c62f5cc988c48790f2fdff5c556a03df11f353762c4ff95a8e2f49bb0f464b9"
+    },
+    "kibble_v1/source_negative_run/native.log": {
+      "bytes": 891,
+      "sha256": "1abf84ab06e7fe001d6895ee8b5d66e94edd7d0900dd8715c4bae6ec0253852a"
+    },
+    "kibble_v1/source_negative_run/report.json": {
+      "bytes": 817,
+      "sha256": "d3813297c2922a3836ee07887bbe34059fcf784f3fcfef05033898877862d55a"
+    },
+    "kibble_v1/verify_public_report.py": {
+      "bytes": 8029,
+      "sha256": "84abb7ae0e4a06bff43132d3b27475d92851282c64dd1297e6de05b821e01f0e"
+    },
+    "kibble_v1/PACKAGE_MANIFEST.json": {
+      "bytes": 18010,
+      "sha256": "a1edd16e869a42c1c6e182a7379f6e283821c85a546cfd78e3941ff0118c8d8e"
+    }
+  }
+}
