@@ -1,0 +1,1282 @@
+{
+  "status": "Independently reviewed bounded ordinary Vibrant Bubble candidate; no full acceptance",
+  "archive": "partial3702_vibrant_bubble_v1.tar.xz",
+  "sha256": "a231249f3f609733879cc2f83c9e69b312f67a67aae9f1e06ffb5099a3e6eb7f",
+  "bytes": 6349788,
+  "dependency": "Exact thaumaturgist_portrait candidate 558ca2aa60ad140fcf62a001e2e648a7b6965a2e9b01ffbb195ad65eb50d05ce",
+  "transport_encoding": "Each part stored as name + .b64. Decode standard base64 then concatenate manifest order; verify SHA256 before extracting delta onto exact portrait baseline. Not standalone.",
+  "parts": [
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "e3a18eae39fadfd9c8605664358faf83a0c21163caa140947ea707b92041b21e"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "6d5d79e76516c7120ffcc55e8ed4ef75be5bb705367fffe1b2735b531a810081"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "0397f33ababeb4d67d5a877b030a170711bf35a386925a363a8046a183a06bd9"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "569050db8952400707e19ff1019fd7995407a3434df012ff564875d9fa71313c"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "fa1c72e8a2ee5779377bf64c7ddcf028eb4c73bec9de2e055475845de3e634db"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "da8e517c345d34d5c352f74747a080c5c2f2bfe1b6820f0a8084555071879470"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "ed05da409e7918b9acfa9576f0c05536bde840addf081c18016e61fd8b35151d"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "84c014943036f6b5ac3222382c2844df6be30ffd8d96154545779a746b25063c"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "d7dda092449c7cbb71974e04244214608e26401eae5a8b0c988e74fa2565f9eb"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "c4c04532feaff1b22bac3bda4eb11a6775ace9f424faeaa6591fc9808c52a75c"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "0cab8ff78be04a9b293561b715bfe12f10febb19e7f04101ca9f345232745525"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "5b4a00d95a78617b3d2dda71d329f3891cc6261de8982366abe37a5a8fa004f0"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part012",
+      "bytes": 250000,
+      "sha256": "d233211b4ff28127a131e1d16080fcfbc714c644dfa039c383a1bea507926d47"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part013",
+      "bytes": 250000,
+      "sha256": "b45f1b566a0631d3704c81a009ea9d020bf4ea69e16d915e04f0aeb60c3b0d86"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part014",
+      "bytes": 250000,
+      "sha256": "63d96783e353eda4a9e47c2d6e7cce1a9742fae034e4d91511416863da16005a"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part015",
+      "bytes": 250000,
+      "sha256": "4ee3575df9dbadd5cb356cf3b3a208c9e1243186f675dfaa4323e14f3f7eb5ab"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part016",
+      "bytes": 250000,
+      "sha256": "27204cc825be96ec532921169dd32610fc0e345ab9c70626bb6abd2d5b1ec1f7"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part017",
+      "bytes": 250000,
+      "sha256": "ba9c0a9b7b4686aa8adcaef92112ab5587137831a4e3b581605e894e302c621c"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part018",
+      "bytes": 250000,
+      "sha256": "e5e330370c4c1ccd333f1b1cb9fbeb1d0b1613be86418f0134914119865f661c"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part019",
+      "bytes": 250000,
+      "sha256": "7ee6e4db4da2f213c10eb775394bacd116b3ba6eb34dc60015ee4b5dc63aef85"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part020",
+      "bytes": 250000,
+      "sha256": "3296dac9650873e04f73498ff45ac65b2548bd571081a63317f9cd2477c51627"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part021",
+      "bytes": 250000,
+      "sha256": "9267e1af257352acb1981fd8a37de0d5c133346cf5ac45738e63558bf5bb3a2a"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part022",
+      "bytes": 250000,
+      "sha256": "040120f568c48e9201463eb4277cffe7e3fe3155b6cdc344901eb375220938d8"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part023",
+      "bytes": 250000,
+      "sha256": "84ce305efdde1071ee91d59f5d539ffe1a3fab6563200232e25d488d36e5e7b0"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part024",
+      "bytes": 250000,
+      "sha256": "4796b4c81e0601922bef8ec541aaff61c6277a9b68f0a312879bba15919b3658"
+    },
+    {
+      "name": "partial3702_vibrant_bubble_v1.tar.xz.part025",
+      "bytes": 99788,
+      "sha256": "18104c503500d1873e6d6ff9f712cf63961ae4cddda53296b919132bbe43af23"
+    }
+  ],
+  "files": {
+    "vibrant_bubble_v1/ATTEMPTS.json": {
+      "bytes": 1369,
+      "sha256": "a79d87ffe7083c5bf72b70a0761728cff535f9f06efbc9fc159045fa09829a03"
+    },
+    "vibrant_bubble_v1/BASE_MAP.json": {
+      "bytes": 4526849,
+      "sha256": "39e82325ec45884eec6e74ee41efddd01908b4f876b320e9a2da7a1326e841d8"
+    },
+    "vibrant_bubble_v1/BINDINGS.log": {
+      "bytes": 1822,
+      "sha256": "fd54d9a8fa26d7eeba672fbfcdd4f5eb99034169d0dc9abcfb031aecfc9a858c"
+    },
+    "vibrant_bubble_v1/BINDINGS_2.log": {
+      "bytes": 59,
+      "sha256": "bdbf9a3d4073ab938cef4edf9af1b72615f323ab1b89856bc6ac7164bf3f7cfd"
+    },
+    "vibrant_bubble_v1/BINDINGS_3.log": {
+      "bytes": 59,
+      "sha256": "bdbf9a3d4073ab938cef4edf9af1b72615f323ab1b89856bc6ac7164bf3f7cfd"
+    },
+    "vibrant_bubble_v1/BINDINGS_4.log": {
+      "bytes": 5,
+      "sha256": "e628d1e0eca4d8c7f07c8f9e7c2ff22032d7b86798856591ac4cf1074b1a306f"
+    },
+    "vibrant_bubble_v1/EXPECTED_ROWS.json": {
+      "bytes": 10088,
+      "sha256": "70bc8fa05df371ec67d153b67a3bbe23736a1ffb426d3dfecf8db62af6319fb4"
+    },
+    "vibrant_bubble_v1/FAILED_RECONSTRUCTION.json": {
+      "bytes": 260,
+      "sha256": "7c3bedece0328e8414559ef4895830e46eb9489b29d173f95be77e61f3cddd24"
+    },
+    "vibrant_bubble_v1/RESULT.md": {
+      "bytes": 4752,
+      "sha256": "4f8a489b98b42418172c5cb7b75423965be0e3ec6b16870e1a1d1a237131897c"
+    },
+    "vibrant_bubble_v1/SOURCE_DELTA.json": {
+      "bytes": 17425,
+      "sha256": "0bc8bbb752c70e255ce3875de504f9e6f6c494e38fa8ed02340e9ca6834f7ff2"
+    },
+    "vibrant_bubble_v1/SOURCE_MAP.json": {
+      "bytes": 4529639,
+      "sha256": "2502b8b9a60d66c404f80aab91fc05536f74b7dd036a31a58087043b0dd2b895"
+    },
+    "vibrant_bubble_v1/STATIC_REVIEW.json": {
+      "bytes": 5182,
+      "sha256": "cbfb107ea8440720d2eea3e073af2f432eeefc2d36329a9101b6558fa84ed3a2"
+    },
+    "vibrant_bubble_v1/VALIDATION.json": {
+      "bytes": 6958,
+      "sha256": "00eae6fa2b8e9d4fc3a1f0282a7e8edae9c140368f540f5f1069682173f135f0"
+    },
+    "vibrant_bubble_v1/build.py": {
+      "bytes": 9241,
+      "sha256": "d6554837c716e822b7127e86c5a625ad20062f0e2198faba295b9977c105cf66"
+    },
+    "vibrant_bubble_v1/delta/core/catalog.gd": {
+      "bytes": 1786670,
+      "sha256": "d0c36400b5040b45d3e4768b052c015c653a695e81e3135b8b31ef29780999ac"
+    },
+    "vibrant_bubble_v1/delta/core/game.gd": {
+      "bytes": 1316876,
+      "sha256": "432d55d613398a37d2bb6bde0b6e5536d07fa43e01a0592818f59bebc81d85d6"
+    },
+    "vibrant_bubble_v1/delta/core/native_hand_spell_target.gd": {
+      "bytes": 3200,
+      "sha256": "edf6f9d931989a966975424f5a8a4ed5613dcb45203e9bed583e98430e0fb056"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "da79efe94aae422d40876f550aabd43767731d1f5d31c15f4496916046f01d4b"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "3c003bb98f9ca5f7ab965a053e9b50051b109e1363e74322d3d382d63baa699c"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "30e0daa1148893ab53effe8d82611850aedd471926fad96b75c57d497c328163"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "cfc7952f09ce02ba0e451f869f5f74ad5c0587c4278e9fbfc682667d9ab2f389"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "81bf5f63c684a75bed55ff8974741e19fbe58c3fb4808af74dac151e63d2ac4b"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "28d6a19a47378dbf35cb4536575366cfc8f16b3452ba39cb2bd051c24f34ac4f"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "6539a653fc24568aa8f52c3a4027ad78fbee0af962843d3e6ae0bcfe6e7d7834"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "d6e8265f7addb63ecab670f9c62b939a00b82813219a16852537608b281d953b"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "2f20c9ead737d482c0c7d28b5865a79cfb6df8f615289a4dcd3543ffb8b88476"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "7c182792a76fab7465ba547482262636b4189ca2de86c686e85d33447e5f4b25"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "26e5fda0562d6612e96cf6ca598dd22dfef4c6c8754c6fbbfea7d2ac0727ad3b"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "237416a49a06a9f7046b42784f81334054b25f43b6117e9635c10274e7fc7bc3"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "327006fd4573a8beeba03ee9c3ebe166db603f75a8a8933eb30e55e74cbfd329"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "0db1e11fd861cf6c301604f91d3471e09767b36b6abf405190badf4adab4c2d5"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "6a2c944f86f821c0ac097a531935ff7172f21b627254155d4c6ea1b8d3d80cb3"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "f502e21ed28cda92030cccf40208646ef115e0563b61fadbfbe8735ed6fb2de1"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "7553daac245b53073e8d28830e85a43859c3d587387047b798489cfcdfba6070"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "b78fe550b8dcfbc28980ddaf0d90c2a6334ee024efd4f29bc52a989ab88e335e"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "1fd8195b57ead079a417722a116659ab8ec7ec9299b654918e2fc13e975ce0bd"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "708b0d9524c6e333487cb60572c4ee484643b851d6b0692b6d85014121d9e850"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "734523343169b605062d222d4c0110a897b6111cb0b07e558b12417756930de7"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "a32cd97184504bb89b6e6b166dac8610a2516a96df058c888b1c33d6b3eaa31c"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "4098ab344c086aa3663c6c4b499d6991a9701a2962427e3d3c13bdccebdb5b90"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "40bfd64907271ad4bc3c9425aad69362ed30530ccb36558227dbca3c73bfaaf6"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "3c65ca1c9a34e5ccf0c309ec2ebbc627ff6db9850fb2127736e78d3d182e0d63"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "186159032882d5892f548ca45ddeb096da0798f7902fe0d40e94883863ce1860"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "f59bc05bf71c882c2e7b33b8568a34ed33325fde0d1eea354dbee4b7cfbf2076"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "1f6f17dd71c80625ff5a07be502ae26f74df758e354ae8548b9186e2e0b624da"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "4cd45acb6d709392a2d91e4d0679e239cb772c3eae85deaccdb733c8ddaae9e1"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "f0a6009b7d88c67f8accbe00c275aa46b4e7c56cca2525e0b6082c5396c1a59d"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "f20d9dac4ed5fb18ebbd737033d54309ee79c4d2dd13f185174ef861b5714649"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "b5d451790c029d30d92bcaf475d5245217e10aa11989c1ced3b134d0498284b3"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "cbb1515ca31f7b74c3e00d89e2dbae884ff3aba508271118cc5d30f000bc9932"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "a1e8b059cf53f0d79b47db2394eaca40ccd4eb930206c78acea109b1d9899bfc"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "e165094f62c4b68952772eb3ce8f2c8074983561a82b706ccce800948149dbf3"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "a23755f00679ecd7252a3979cba13367f8b384c92d791fafa223d4ffe15fb712"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "ae78795f5a457fa44902a99412bb06b45fa406b15b58f8a89f6604b64bdca8e7"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "9d2e27bf87b7a522e1ceb0cfcdcb47cf798d0b2ad0f89a05be4a2c43468ff6f2"
+    },
+    "vibrant_bubble_v1/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "3268c2aeeb06a6f21fc41cbab0e1eb677d7a0b64dff8c749e7c8c1e0901fd28d"
+    },
+    "vibrant_bubble_v1/delta/core/trinket_spellcraft.gd": {
+      "bytes": 17809,
+      "sha256": "0a358e56920c1947039e618a3a2478c276c60e1cd4e95f49a5a24821dfddcc82"
+    },
+    "vibrant_bubble_v1/delta/core/vibrant_bubble.gd": {
+      "bytes": 5310,
+      "sha256": "01b6452f4009142c2543b5f0407eba1d7c0e2a9122ed9e14556422f0da0f1505"
+    },
+    "vibrant_bubble_v1/delta/data/patch_3702_vibrant_bubble_overlay.json": {
+      "bytes": 16603,
+      "sha256": "88145c62ef31994e88af21c7b544224c0cde5d5345588758c3ba5b95ea477753"
+    },
+    "vibrant_bubble_v1/delta/data/patch_3702_vibrant_bubble_spell_overlay.json": {
+      "bytes": 2749,
+      "sha256": "9f17a256582d0239a14fbac2703bf61f3f9794660a372f276c89d304174ef01b"
+    },
+    "vibrant_bubble_v1/delta/research/patch_3702_vibrant_bubble/BG32_MagicItem_892.native.xml": {
+      "bytes": 3193,
+      "sha256": "dcf1027fd35dc0ecf9568228081ddc88a798da2e08ae2b02737f48c5c99d8545"
+    },
+    "vibrant_bubble_v1/delta/research/patch_3702_vibrant_bubble/BG32_MagicItem_892t.native.xml": {
+      "bytes": 2441,
+      "sha256": "f4c03332e3aa08b6d24d489bdf11bc213c4d48d6b8947373e2fcee3109a1824c"
+    },
+    "vibrant_bubble_v1/delta/research/patch_3702_vibrant_bubble/PREFLIGHT.json": {
+      "bytes": 1255,
+      "sha256": "3637b2e0a90d44ccfe92f92ca036d58c818397c8e94d44f8d546a604516ec763"
+    },
+    "vibrant_bubble_v1/delta/research/patch_3702_vibrant_bubble/RESULT.md": {
+      "bytes": 3368,
+      "sha256": "43c4d385df7db27612eed1865fd09c4e0c98a754be4498e46c9d42dd9632e79b"
+    },
+    "vibrant_bubble_v1/delta/research/patch_3702_vibrant_bubble/THIRD_PARTY_RECEIPT.json": {
+      "bytes": 646,
+      "sha256": "0b58974754a3ce72521d52b6e7973c348b420d10605818db7cd70bc5340c50ee"
+    },
+    "vibrant_bubble_v1/delta/research/patch_3702_vibrant_bubble/apprentice-of-sefin.js": {
+      "bytes": 3873,
+      "sha256": "1f5e6018a99c37505db8dad4c5793d1f6699f68c0a3374916e294cdd0dd644f4"
+    },
+    "vibrant_bubble_v1/delta/research/patch_3702_vibrant_bubble/bubble-gunner.js": {
+      "bytes": 553,
+      "sha256": "2a74201cce9add36773aa890f16beb85fdafdd1604f91a453b8a900d63cc5603"
+    },
+    "vibrant_bubble_v1/delta/research/patch_3702_vibrant_bubble/cards-data.js": {
+      "bytes": 18123,
+      "sha256": "3cef0706d1ff96f693dcad8c33999b67e95c06858881fbd0c8c399678b9ad24a"
+    },
+    "vibrant_bubble_v1/delta/research/patch_3702_vibrant_bubble/native_global_en.json": {
+      "bytes": 129945,
+      "sha256": "2b04ff66a51761f9bc13874a256a76feb90eb2a7cb429f6658fad32fa92d74af"
+    },
+    "vibrant_bubble_v1/delta/research/patch_3702_vibrant_bubble/native_global_receipt.json": {
+      "bytes": 631,
+      "sha256": "c913fc81b4124894cfa37e50bd2df4ba34162e34315550071154c862bb534db9"
+    },
+    "vibrant_bubble_v1/delta/research/patch_3702_vibrant_bubble/official_api_trinkets.json": {
+      "bytes": 217149,
+      "sha256": "4abef90cd72c7a3e7a6ca971cc4326fe8dece62da70799ac147449cd459acf16"
+    },
+    "vibrant_bubble_v1/delta/research/patch_3702_vibrant_bubble/package.json": {
+      "bytes": 2928,
+      "sha256": "3e19a83eba1cc5c1a1b68f8cc856749d61c7a5af45fb44a419f8297704c8f0ea"
+    },
+    "vibrant_bubble_v1/finalize.py": {
+      "bytes": 1400,
+      "sha256": "c5b8cbf6bba4770d5ad07881a7cb9aedeba1e66c7a3302a35e201c5176c85e6c"
+    },
+    "vibrant_bubble_v1/gate.gd": {
+      "bytes": 20407,
+      "sha256": "743cadf4f4883ba7e301ac0ccdf2ef96a688ffc132c39717245575fa46dc9f63"
+    },
+    "vibrant_bubble_v1/map_virtual_sources.py": {
+      "bytes": 823,
+      "sha256": "9a1ab6dee6ce20d0d50ef18a3c6bbc3d9554dec70ab8d7dbcbdd5f28a50062e4"
+    },
+    "vibrant_bubble_v1/refresh_virtual_bindings.py": {
+      "bytes": 1166,
+      "sha256": "fb38f95f9f3c8e51575f13a1dbf3a3bc014f117b85bc717593be08749c2f8db2"
+    },
+    "vibrant_bubble_v1/restore_attempt.py": {
+      "bytes": 1305,
+      "sha256": "eb8444655621d96651bab72f1d1593de53fcc02f07d5e2f8b8df6c683be6a6ed"
+    },
+    "vibrant_bubble_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "vibrant_bubble_v1/run.py": {
+      "bytes": 1753,
+      "sha256": "c08156a89739f13d9d5fdf11f1a291a9ee064d51ea663fe4cb66bf4189d75e49"
+    },
+    "vibrant_bubble_v1/run_1/LAUNCH.json": {
+      "bytes": 503,
+      "sha256": "1a0b6d66cd7e2b48e336a019035e32d41aaeb99ffd345a2a19c4ca15f6d91b4c"
+    },
+    "vibrant_bubble_v1/run_1/PROCESS.json": {
+      "bytes": 577,
+      "sha256": "6cf88ddac4ce5e0df66b1c7c40ba6e34db5ae437bd9d7c4b43f5b11991365b4e"
+    },
+    "vibrant_bubble_v1/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4529639,
+      "sha256": "26bd02ce464037662f3f587ebe8b9c3f9de7bf41fe152e653ab93ca1f1a7f0d3"
+    },
+    "vibrant_bubble_v1/run_1/data/report.json": {
+      "bytes": 33525,
+      "sha256": "885c9c7afb89e01cef864f8eac5f75a415a0e1c44b1c60f5974d9ac038638999"
+    },
+    "vibrant_bubble_v1/run_1/gate_executed.gd": {
+      "bytes": 20201,
+      "sha256": "c427cc33af4ac62cced0430f5d7229861e7c8fb3d959db15a914b252dd55fc3a"
+    },
+    "vibrant_bubble_v1/run_1/native.log": {
+      "bytes": 150,
+      "sha256": "05c049aa3b1c09e61f9a24fc4c71adf5a26367d46d0d37dfb66a831232547be2"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/catalog.gd": {
+      "bytes": 1786670,
+      "sha256": "d0c36400b5040b45d3e4768b052c015c653a695e81e3135b8b31ef29780999ac"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/game.gd": {
+      "bytes": 1316876,
+      "sha256": "432d55d613398a37d2bb6bde0b6e5536d07fa43e01a0592818f59bebc81d85d6"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "da79efe94aae422d40876f550aabd43767731d1f5d31c15f4496916046f01d4b"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "3c003bb98f9ca5f7ab965a053e9b50051b109e1363e74322d3d382d63baa699c"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "30e0daa1148893ab53effe8d82611850aedd471926fad96b75c57d497c328163"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "cfc7952f09ce02ba0e451f869f5f74ad5c0587c4278e9fbfc682667d9ab2f389"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "81bf5f63c684a75bed55ff8974741e19fbe58c3fb4808af74dac151e63d2ac4b"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "28d6a19a47378dbf35cb4536575366cfc8f16b3452ba39cb2bd051c24f34ac4f"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "6539a653fc24568aa8f52c3a4027ad78fbee0af962843d3e6ae0bcfe6e7d7834"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "d6e8265f7addb63ecab670f9c62b939a00b82813219a16852537608b281d953b"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "2f20c9ead737d482c0c7d28b5865a79cfb6df8f615289a4dcd3543ffb8b88476"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "7c182792a76fab7465ba547482262636b4189ca2de86c686e85d33447e5f4b25"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "26e5fda0562d6612e96cf6ca598dd22dfef4c6c8754c6fbbfea7d2ac0727ad3b"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "237416a49a06a9f7046b42784f81334054b25f43b6117e9635c10274e7fc7bc3"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "327006fd4573a8beeba03ee9c3ebe166db603f75a8a8933eb30e55e74cbfd329"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "0db1e11fd861cf6c301604f91d3471e09767b36b6abf405190badf4adab4c2d5"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "6a2c944f86f821c0ac097a531935ff7172f21b627254155d4c6ea1b8d3d80cb3"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "f502e21ed28cda92030cccf40208646ef115e0563b61fadbfbe8735ed6fb2de1"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "7553daac245b53073e8d28830e85a43859c3d587387047b798489cfcdfba6070"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "b78fe550b8dcfbc28980ddaf0d90c2a6334ee024efd4f29bc52a989ab88e335e"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "1fd8195b57ead079a417722a116659ab8ec7ec9299b654918e2fc13e975ce0bd"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "708b0d9524c6e333487cb60572c4ee484643b851d6b0692b6d85014121d9e850"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "734523343169b605062d222d4c0110a897b6111cb0b07e558b12417756930de7"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "a32cd97184504bb89b6e6b166dac8610a2516a96df058c888b1c33d6b3eaa31c"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "4098ab344c086aa3663c6c4b499d6991a9701a2962427e3d3c13bdccebdb5b90"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "40bfd64907271ad4bc3c9425aad69362ed30530ccb36558227dbca3c73bfaaf6"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "3c65ca1c9a34e5ccf0c309ec2ebbc627ff6db9850fb2127736e78d3d182e0d63"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "186159032882d5892f548ca45ddeb096da0798f7902fe0d40e94883863ce1860"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "f59bc05bf71c882c2e7b33b8568a34ed33325fde0d1eea354dbee4b7cfbf2076"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "1f6f17dd71c80625ff5a07be502ae26f74df758e354ae8548b9186e2e0b624da"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "4cd45acb6d709392a2d91e4d0679e239cb772c3eae85deaccdb733c8ddaae9e1"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "f0a6009b7d88c67f8accbe00c275aa46b4e7c56cca2525e0b6082c5396c1a59d"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "f20d9dac4ed5fb18ebbd737033d54309ee79c4d2dd13f185174ef861b5714649"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "b5d451790c029d30d92bcaf475d5245217e10aa11989c1ced3b134d0498284b3"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "cbb1515ca31f7b74c3e00d89e2dbae884ff3aba508271118cc5d30f000bc9932"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "a1e8b059cf53f0d79b47db2394eaca40ccd4eb930206c78acea109b1d9899bfc"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "e165094f62c4b68952772eb3ce8f2c8074983561a82b706ccce800948149dbf3"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24165,
+      "sha256": "8d7533e43d3e5ce47ad20f247985dc6914a9c29d85d12d768003e5611f5bb434"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10488,
+      "sha256": "3d029b659ba10dc7ac5da9ad9af8be9ad05e964ddf6f157feaedb8b1efc4d0b6"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "9d2e27bf87b7a522e1ceb0cfcdcb47cf798d0b2ad0f89a05be4a2c43468ff6f2"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "3268c2aeeb06a6f21fc41cbab0e1eb677d7a0b64dff8c749e7c8c1e0901fd28d"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/trinket_spellcraft.gd": {
+      "bytes": 17809,
+      "sha256": "0a358e56920c1947039e618a3a2478c276c60e1cd4e95f49a5a24821dfddcc82"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/core/vibrant_bubble.gd": {
+      "bytes": 5310,
+      "sha256": "01b6452f4009142c2543b5f0407eba1d7c0e2a9122ed9e14556422f0da0f1505"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/data/patch_3702_vibrant_bubble_overlay.json": {
+      "bytes": 16603,
+      "sha256": "88145c62ef31994e88af21c7b544224c0cde5d5345588758c3ba5b95ea477753"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/data/patch_3702_vibrant_bubble_spell_overlay.json": {
+      "bytes": 2556,
+      "sha256": "425c701827c3d38bcc8c5dab45d4f85034e7f3d78d787f52068183c705843335"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/research/patch_3702_vibrant_bubble/BG32_MagicItem_892.native.xml": {
+      "bytes": 3193,
+      "sha256": "dcf1027fd35dc0ecf9568228081ddc88a798da2e08ae2b02737f48c5c99d8545"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/research/patch_3702_vibrant_bubble/BG32_MagicItem_892t.native.xml": {
+      "bytes": 2441,
+      "sha256": "f4c03332e3aa08b6d24d489bdf11bc213c4d48d6b8947373e2fcee3109a1824c"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/research/patch_3702_vibrant_bubble/PREFLIGHT.json": {
+      "bytes": 1255,
+      "sha256": "3637b2e0a90d44ccfe92f92ca036d58c818397c8e94d44f8d546a604516ec763"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/research/patch_3702_vibrant_bubble/RESULT.md": {
+      "bytes": 3368,
+      "sha256": "43c4d385df7db27612eed1865fd09c4e0c98a754be4498e46c9d42dd9632e79b"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/research/patch_3702_vibrant_bubble/THIRD_PARTY_RECEIPT.json": {
+      "bytes": 646,
+      "sha256": "0b58974754a3ce72521d52b6e7973c348b420d10605818db7cd70bc5340c50ee"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/research/patch_3702_vibrant_bubble/apprentice-of-sefin.js": {
+      "bytes": 3873,
+      "sha256": "1f5e6018a99c37505db8dad4c5793d1f6699f68c0a3374916e294cdd0dd644f4"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/research/patch_3702_vibrant_bubble/bubble-gunner.js": {
+      "bytes": 553,
+      "sha256": "2a74201cce9add36773aa890f16beb85fdafdd1604f91a453b8a900d63cc5603"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/research/patch_3702_vibrant_bubble/cards-data.js": {
+      "bytes": 18123,
+      "sha256": "3cef0706d1ff96f693dcad8c33999b67e95c06858881fbd0c8c399678b9ad24a"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/research/patch_3702_vibrant_bubble/native_global_en.json": {
+      "bytes": 129945,
+      "sha256": "2b04ff66a51761f9bc13874a256a76feb90eb2a7cb429f6658fad32fa92d74af"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/research/patch_3702_vibrant_bubble/native_global_receipt.json": {
+      "bytes": 631,
+      "sha256": "c913fc81b4124894cfa37e50bd2df4ba34162e34315550071154c862bb534db9"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/research/patch_3702_vibrant_bubble/official_api_trinkets.json": {
+      "bytes": 217149,
+      "sha256": "4abef90cd72c7a3e7a6ca971cc4326fe8dece62da70799ac147449cd459acf16"
+    },
+    "vibrant_bubble_v1/run_1/source_delta/research/patch_3702_vibrant_bubble/package.json": {
+      "bytes": 2928,
+      "sha256": "3e19a83eba1cc5c1a1b68f8cc856749d61c7a5af45fb44a419f8297704c8f0ea"
+    },
+    "vibrant_bubble_v1/run_2/LAUNCH.json": {
+      "bytes": 503,
+      "sha256": "f95a75a3a65a60664d829edd4c1aa00d5959eeace478e2a6c98abadf83aba5c3"
+    },
+    "vibrant_bubble_v1/run_2/PROCESS.json": {
+      "bytes": 577,
+      "sha256": "a2c33e5456703a246a4a1abd1b315e26fd94a6604e65b8008d329c6d6cf94046"
+    },
+    "vibrant_bubble_v1/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4529639,
+      "sha256": "8f98c14f2d93fd8d5baf426f84fd7422c4e4700e51242aea23584344bc65889c"
+    },
+    "vibrant_bubble_v1/run_2/data/report.json": {
+      "bytes": 824955,
+      "sha256": "e3099d8218d39ba230f831541c4c103f39d4710af3d7db1e08085924eaa083f3"
+    },
+    "vibrant_bubble_v1/run_2/gate_executed.gd": {
+      "bytes": 20407,
+      "sha256": "743cadf4f4883ba7e301ac0ccdf2ef96a688ffc132c39717245575fa46dc9f63"
+    },
+    "vibrant_bubble_v1/run_2/native.log": {
+      "bytes": 675,
+      "sha256": "b9e34f844380c47b1ef0dd5330c466c50707ee5fe25c421b097d64300208a476"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/catalog.gd": {
+      "bytes": 1786670,
+      "sha256": "d0c36400b5040b45d3e4768b052c015c653a695e81e3135b8b31ef29780999ac"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/game.gd": {
+      "bytes": 1316876,
+      "sha256": "432d55d613398a37d2bb6bde0b6e5536d07fa43e01a0592818f59bebc81d85d6"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "da79efe94aae422d40876f550aabd43767731d1f5d31c15f4496916046f01d4b"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "3c003bb98f9ca5f7ab965a053e9b50051b109e1363e74322d3d382d63baa699c"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "30e0daa1148893ab53effe8d82611850aedd471926fad96b75c57d497c328163"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "cfc7952f09ce02ba0e451f869f5f74ad5c0587c4278e9fbfc682667d9ab2f389"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "81bf5f63c684a75bed55ff8974741e19fbe58c3fb4808af74dac151e63d2ac4b"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "28d6a19a47378dbf35cb4536575366cfc8f16b3452ba39cb2bd051c24f34ac4f"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "6539a653fc24568aa8f52c3a4027ad78fbee0af962843d3e6ae0bcfe6e7d7834"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "d6e8265f7addb63ecab670f9c62b939a00b82813219a16852537608b281d953b"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "2f20c9ead737d482c0c7d28b5865a79cfb6df8f615289a4dcd3543ffb8b88476"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "7c182792a76fab7465ba547482262636b4189ca2de86c686e85d33447e5f4b25"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "26e5fda0562d6612e96cf6ca598dd22dfef4c6c8754c6fbbfea7d2ac0727ad3b"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "237416a49a06a9f7046b42784f81334054b25f43b6117e9635c10274e7fc7bc3"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "327006fd4573a8beeba03ee9c3ebe166db603f75a8a8933eb30e55e74cbfd329"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "0db1e11fd861cf6c301604f91d3471e09767b36b6abf405190badf4adab4c2d5"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "6a2c944f86f821c0ac097a531935ff7172f21b627254155d4c6ea1b8d3d80cb3"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "f502e21ed28cda92030cccf40208646ef115e0563b61fadbfbe8735ed6fb2de1"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "7553daac245b53073e8d28830e85a43859c3d587387047b798489cfcdfba6070"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "b78fe550b8dcfbc28980ddaf0d90c2a6334ee024efd4f29bc52a989ab88e335e"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "1fd8195b57ead079a417722a116659ab8ec7ec9299b654918e2fc13e975ce0bd"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "708b0d9524c6e333487cb60572c4ee484643b851d6b0692b6d85014121d9e850"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "734523343169b605062d222d4c0110a897b6111cb0b07e558b12417756930de7"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "a32cd97184504bb89b6e6b166dac8610a2516a96df058c888b1c33d6b3eaa31c"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "4098ab344c086aa3663c6c4b499d6991a9701a2962427e3d3c13bdccebdb5b90"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "40bfd64907271ad4bc3c9425aad69362ed30530ccb36558227dbca3c73bfaaf6"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "3c65ca1c9a34e5ccf0c309ec2ebbc627ff6db9850fb2127736e78d3d182e0d63"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "186159032882d5892f548ca45ddeb096da0798f7902fe0d40e94883863ce1860"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "f59bc05bf71c882c2e7b33b8568a34ed33325fde0d1eea354dbee4b7cfbf2076"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "1f6f17dd71c80625ff5a07be502ae26f74df758e354ae8548b9186e2e0b624da"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "4cd45acb6d709392a2d91e4d0679e239cb772c3eae85deaccdb733c8ddaae9e1"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "f0a6009b7d88c67f8accbe00c275aa46b4e7c56cca2525e0b6082c5396c1a59d"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "f20d9dac4ed5fb18ebbd737033d54309ee79c4d2dd13f185174ef861b5714649"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "b5d451790c029d30d92bcaf475d5245217e10aa11989c1ced3b134d0498284b3"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "cbb1515ca31f7b74c3e00d89e2dbae884ff3aba508271118cc5d30f000bc9932"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "a1e8b059cf53f0d79b47db2394eaca40ccd4eb930206c78acea109b1d9899bfc"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "e165094f62c4b68952772eb3ce8f2c8074983561a82b706ccce800948149dbf3"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24165,
+      "sha256": "8d7533e43d3e5ce47ad20f247985dc6914a9c29d85d12d768003e5611f5bb434"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10800,
+      "sha256": "524a6f372b3927d711c366ec3118d9696a20ab5c83f4a0c7520abe74e7cc2344"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "9d2e27bf87b7a522e1ceb0cfcdcb47cf798d0b2ad0f89a05be4a2c43468ff6f2"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "3268c2aeeb06a6f21fc41cbab0e1eb677d7a0b64dff8c749e7c8c1e0901fd28d"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/trinket_spellcraft.gd": {
+      "bytes": 17809,
+      "sha256": "0a358e56920c1947039e618a3a2478c276c60e1cd4e95f49a5a24821dfddcc82"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/core/vibrant_bubble.gd": {
+      "bytes": 5310,
+      "sha256": "01b6452f4009142c2543b5f0407eba1d7c0e2a9122ed9e14556422f0da0f1505"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/data/patch_3702_vibrant_bubble_overlay.json": {
+      "bytes": 16603,
+      "sha256": "88145c62ef31994e88af21c7b544224c0cde5d5345588758c3ba5b95ea477753"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/data/patch_3702_vibrant_bubble_spell_overlay.json": {
+      "bytes": 2722,
+      "sha256": "5c6fdd2eec73c430c820db6e4b24c702a9f4d99e694ba183a4933990c0dea89b"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/research/patch_3702_vibrant_bubble/BG32_MagicItem_892.native.xml": {
+      "bytes": 3193,
+      "sha256": "dcf1027fd35dc0ecf9568228081ddc88a798da2e08ae2b02737f48c5c99d8545"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/research/patch_3702_vibrant_bubble/BG32_MagicItem_892t.native.xml": {
+      "bytes": 2441,
+      "sha256": "f4c03332e3aa08b6d24d489bdf11bc213c4d48d6b8947373e2fcee3109a1824c"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/research/patch_3702_vibrant_bubble/PREFLIGHT.json": {
+      "bytes": 1255,
+      "sha256": "3637b2e0a90d44ccfe92f92ca036d58c818397c8e94d44f8d546a604516ec763"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/research/patch_3702_vibrant_bubble/RESULT.md": {
+      "bytes": 3368,
+      "sha256": "43c4d385df7db27612eed1865fd09c4e0c98a754be4498e46c9d42dd9632e79b"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/research/patch_3702_vibrant_bubble/THIRD_PARTY_RECEIPT.json": {
+      "bytes": 646,
+      "sha256": "0b58974754a3ce72521d52b6e7973c348b420d10605818db7cd70bc5340c50ee"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/research/patch_3702_vibrant_bubble/apprentice-of-sefin.js": {
+      "bytes": 3873,
+      "sha256": "1f5e6018a99c37505db8dad4c5793d1f6699f68c0a3374916e294cdd0dd644f4"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/research/patch_3702_vibrant_bubble/bubble-gunner.js": {
+      "bytes": 553,
+      "sha256": "2a74201cce9add36773aa890f16beb85fdafdd1604f91a453b8a900d63cc5603"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/research/patch_3702_vibrant_bubble/cards-data.js": {
+      "bytes": 18123,
+      "sha256": "3cef0706d1ff96f693dcad8c33999b67e95c06858881fbd0c8c399678b9ad24a"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/research/patch_3702_vibrant_bubble/native_global_en.json": {
+      "bytes": 129945,
+      "sha256": "2b04ff66a51761f9bc13874a256a76feb90eb2a7cb429f6658fad32fa92d74af"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/research/patch_3702_vibrant_bubble/native_global_receipt.json": {
+      "bytes": 631,
+      "sha256": "c913fc81b4124894cfa37e50bd2df4ba34162e34315550071154c862bb534db9"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/research/patch_3702_vibrant_bubble/official_api_trinkets.json": {
+      "bytes": 217149,
+      "sha256": "4abef90cd72c7a3e7a6ca971cc4326fe8dece62da70799ac147449cd459acf16"
+    },
+    "vibrant_bubble_v1/run_2/source_delta/research/patch_3702_vibrant_bubble/package.json": {
+      "bytes": 2928,
+      "sha256": "3e19a83eba1cc5c1a1b68f8cc856749d61c7a5af45fb44a419f8297704c8f0ea"
+    },
+    "vibrant_bubble_v1/run_3/LAUNCH.json": {
+      "bytes": 503,
+      "sha256": "8ca02907102cb17fc40b63c285a2ec97af4d3dc70fbbaef6dce370189afbf58d"
+    },
+    "vibrant_bubble_v1/run_3/PROCESS.json": {
+      "bytes": 577,
+      "sha256": "f70ae32d08fda02ebc201da18fea98ce60d4f8ddcd9477a16768eee5e3cb4096"
+    },
+    "vibrant_bubble_v1/run_3/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4529639,
+      "sha256": "29d3eac187cb11d6ff330901f25e9000b991efa2cb9b55bf3ac4517706a46c67"
+    },
+    "vibrant_bubble_v1/run_3/data/before_casts.native_save.json": {
+      "bytes": 72668,
+      "sha256": "107185e5302e03126660d5b7e72b9ca53348820a25b2943ce4155a266bd6ad41"
+    },
+    "vibrant_bubble_v1/run_3/data/forged_identity.native_save.json": {
+      "bytes": 53662,
+      "sha256": "fbebc4f6ac0fa3ceb64dd00d2c29829e27cb27fcd1b2ab1f2f7b48d9ac8d7723"
+    },
+    "vibrant_bubble_v1/run_3/data/forged_program.native_save.json": {
+      "bytes": 53660,
+      "sha256": "29580616eba2e459ec6703bd53ff2e45ec254ac2665499d474f8e9f39f1f9143"
+    },
+    "vibrant_bubble_v1/run_3/data/report.json": {
+      "bytes": 1562940,
+      "sha256": "7f6388f9d9b3d18e195684257c11fc3dae1a2d571ff0957a5ece2ca236cbcb4f"
+    },
+    "vibrant_bubble_v1/run_3/gate_executed.gd": {
+      "bytes": 20407,
+      "sha256": "743cadf4f4883ba7e301ac0ccdf2ef96a688ffc132c39717245575fa46dc9f63"
+    },
+    "vibrant_bubble_v1/run_3/native.log": {
+      "bytes": 831,
+      "sha256": "d0d66f5b6e926d16a65fbe4507d4dc443ccb9ce4a9b9bdcde9afc7612a3b6d51"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/catalog.gd": {
+      "bytes": 1786670,
+      "sha256": "d0c36400b5040b45d3e4768b052c015c653a695e81e3135b8b31ef29780999ac"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/game.gd": {
+      "bytes": 1316876,
+      "sha256": "432d55d613398a37d2bb6bde0b6e5536d07fa43e01a0592818f59bebc81d85d6"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "da79efe94aae422d40876f550aabd43767731d1f5d31c15f4496916046f01d4b"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "3c003bb98f9ca5f7ab965a053e9b50051b109e1363e74322d3d382d63baa699c"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "30e0daa1148893ab53effe8d82611850aedd471926fad96b75c57d497c328163"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "cfc7952f09ce02ba0e451f869f5f74ad5c0587c4278e9fbfc682667d9ab2f389"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "81bf5f63c684a75bed55ff8974741e19fbe58c3fb4808af74dac151e63d2ac4b"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "28d6a19a47378dbf35cb4536575366cfc8f16b3452ba39cb2bd051c24f34ac4f"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "6539a653fc24568aa8f52c3a4027ad78fbee0af962843d3e6ae0bcfe6e7d7834"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "d6e8265f7addb63ecab670f9c62b939a00b82813219a16852537608b281d953b"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "2f20c9ead737d482c0c7d28b5865a79cfb6df8f615289a4dcd3543ffb8b88476"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "7c182792a76fab7465ba547482262636b4189ca2de86c686e85d33447e5f4b25"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "26e5fda0562d6612e96cf6ca598dd22dfef4c6c8754c6fbbfea7d2ac0727ad3b"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "237416a49a06a9f7046b42784f81334054b25f43b6117e9635c10274e7fc7bc3"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "327006fd4573a8beeba03ee9c3ebe166db603f75a8a8933eb30e55e74cbfd329"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "0db1e11fd861cf6c301604f91d3471e09767b36b6abf405190badf4adab4c2d5"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "6a2c944f86f821c0ac097a531935ff7172f21b627254155d4c6ea1b8d3d80cb3"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "f502e21ed28cda92030cccf40208646ef115e0563b61fadbfbe8735ed6fb2de1"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "7553daac245b53073e8d28830e85a43859c3d587387047b798489cfcdfba6070"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "b78fe550b8dcfbc28980ddaf0d90c2a6334ee024efd4f29bc52a989ab88e335e"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "1fd8195b57ead079a417722a116659ab8ec7ec9299b654918e2fc13e975ce0bd"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "708b0d9524c6e333487cb60572c4ee484643b851d6b0692b6d85014121d9e850"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "734523343169b605062d222d4c0110a897b6111cb0b07e558b12417756930de7"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "a32cd97184504bb89b6e6b166dac8610a2516a96df058c888b1c33d6b3eaa31c"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "4098ab344c086aa3663c6c4b499d6991a9701a2962427e3d3c13bdccebdb5b90"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "40bfd64907271ad4bc3c9425aad69362ed30530ccb36558227dbca3c73bfaaf6"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "3c65ca1c9a34e5ccf0c309ec2ebbc627ff6db9850fb2127736e78d3d182e0d63"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "186159032882d5892f548ca45ddeb096da0798f7902fe0d40e94883863ce1860"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "f59bc05bf71c882c2e7b33b8568a34ed33325fde0d1eea354dbee4b7cfbf2076"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "1f6f17dd71c80625ff5a07be502ae26f74df758e354ae8548b9186e2e0b624da"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "4cd45acb6d709392a2d91e4d0679e239cb772c3eae85deaccdb733c8ddaae9e1"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "f0a6009b7d88c67f8accbe00c275aa46b4e7c56cca2525e0b6082c5396c1a59d"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "f20d9dac4ed5fb18ebbd737033d54309ee79c4d2dd13f185174ef861b5714649"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "b5d451790c029d30d92bcaf475d5245217e10aa11989c1ced3b134d0498284b3"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "cbb1515ca31f7b74c3e00d89e2dbae884ff3aba508271118cc5d30f000bc9932"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "a1e8b059cf53f0d79b47db2394eaca40ccd4eb930206c78acea109b1d9899bfc"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "e165094f62c4b68952772eb3ce8f2c8074983561a82b706ccce800948149dbf3"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24165,
+      "sha256": "8d7533e43d3e5ce47ad20f247985dc6914a9c29d85d12d768003e5611f5bb434"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10834,
+      "sha256": "ea2d3bd020807ade0eac36bc68427d238b265e34209d09045ceafefcfaf55403"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "9d2e27bf87b7a522e1ceb0cfcdcb47cf798d0b2ad0f89a05be4a2c43468ff6f2"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "3268c2aeeb06a6f21fc41cbab0e1eb677d7a0b64dff8c749e7c8c1e0901fd28d"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/trinket_spellcraft.gd": {
+      "bytes": 17809,
+      "sha256": "0a358e56920c1947039e618a3a2478c276c60e1cd4e95f49a5a24821dfddcc82"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/core/vibrant_bubble.gd": {
+      "bytes": 5310,
+      "sha256": "01b6452f4009142c2543b5f0407eba1d7c0e2a9122ed9e14556422f0da0f1505"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/data/patch_3702_vibrant_bubble_overlay.json": {
+      "bytes": 16603,
+      "sha256": "88145c62ef31994e88af21c7b544224c0cde5d5345588758c3ba5b95ea477753"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/data/patch_3702_vibrant_bubble_spell_overlay.json": {
+      "bytes": 2749,
+      "sha256": "9f17a256582d0239a14fbac2703bf61f3f9794660a372f276c89d304174ef01b"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/research/patch_3702_vibrant_bubble/BG32_MagicItem_892.native.xml": {
+      "bytes": 3193,
+      "sha256": "dcf1027fd35dc0ecf9568228081ddc88a798da2e08ae2b02737f48c5c99d8545"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/research/patch_3702_vibrant_bubble/BG32_MagicItem_892t.native.xml": {
+      "bytes": 2441,
+      "sha256": "f4c03332e3aa08b6d24d489bdf11bc213c4d48d6b8947373e2fcee3109a1824c"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/research/patch_3702_vibrant_bubble/PREFLIGHT.json": {
+      "bytes": 1255,
+      "sha256": "3637b2e0a90d44ccfe92f92ca036d58c818397c8e94d44f8d546a604516ec763"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/research/patch_3702_vibrant_bubble/RESULT.md": {
+      "bytes": 3368,
+      "sha256": "43c4d385df7db27612eed1865fd09c4e0c98a754be4498e46c9d42dd9632e79b"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/research/patch_3702_vibrant_bubble/THIRD_PARTY_RECEIPT.json": {
+      "bytes": 646,
+      "sha256": "0b58974754a3ce72521d52b6e7973c348b420d10605818db7cd70bc5340c50ee"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/research/patch_3702_vibrant_bubble/apprentice-of-sefin.js": {
+      "bytes": 3873,
+      "sha256": "1f5e6018a99c37505db8dad4c5793d1f6699f68c0a3374916e294cdd0dd644f4"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/research/patch_3702_vibrant_bubble/bubble-gunner.js": {
+      "bytes": 553,
+      "sha256": "2a74201cce9add36773aa890f16beb85fdafdd1604f91a453b8a900d63cc5603"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/research/patch_3702_vibrant_bubble/cards-data.js": {
+      "bytes": 18123,
+      "sha256": "3cef0706d1ff96f693dcad8c33999b67e95c06858881fbd0c8c399678b9ad24a"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/research/patch_3702_vibrant_bubble/native_global_en.json": {
+      "bytes": 129945,
+      "sha256": "2b04ff66a51761f9bc13874a256a76feb90eb2a7cb429f6658fad32fa92d74af"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/research/patch_3702_vibrant_bubble/native_global_receipt.json": {
+      "bytes": 631,
+      "sha256": "c913fc81b4124894cfa37e50bd2df4ba34162e34315550071154c862bb534db9"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/research/patch_3702_vibrant_bubble/official_api_trinkets.json": {
+      "bytes": 217149,
+      "sha256": "4abef90cd72c7a3e7a6ca971cc4326fe8dece62da70799ac147449cd459acf16"
+    },
+    "vibrant_bubble_v1/run_3/source_delta/research/patch_3702_vibrant_bubble/package.json": {
+      "bytes": 2928,
+      "sha256": "3e19a83eba1cc5c1a1b68f8cc856749d61c7a5af45fb44a419f8297704c8f0ea"
+    },
+    "vibrant_bubble_v1/run_4/LAUNCH.json": {
+      "bytes": 503,
+      "sha256": "9d31d11243caa4d5a5e0235a8223d2cd486da4cb66ac05158ebe49f6761fab57"
+    },
+    "vibrant_bubble_v1/run_4/PROCESS.json": {
+      "bytes": 577,
+      "sha256": "83c16c7001b47fc74546d1754ae7ce87fa52e03dcef3cfbdfedca0db63605840"
+    },
+    "vibrant_bubble_v1/run_4/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4529639,
+      "sha256": "2502b8b9a60d66c404f80aab91fc05536f74b7dd036a31a58087043b0dd2b895"
+    },
+    "vibrant_bubble_v1/run_4/data/after_casts.native_save.json": {
+      "bytes": 71863,
+      "sha256": "07790609c7e7723db4efb27aa960d594ad013ab8ea832668057302b2d8ce277a"
+    },
+    "vibrant_bubble_v1/run_4/data/after_round.native_save.json": {
+      "bytes": 83475,
+      "sha256": "1e1d051e6d0f3acdd669df7ea649824055e24dc8495fa07e437f637800ca8ba9"
+    },
+    "vibrant_bubble_v1/run_4/data/before_casts.native_save.json": {
+      "bytes": 72668,
+      "sha256": "b822f2be8dd180a99a66bbc5ea964c13d25b3678f73b105e110570a1e44a0bc9"
+    },
+    "vibrant_bubble_v1/run_4/data/forged_identity.native_save.json": {
+      "bytes": 53662,
+      "sha256": "eb7460ba1e2f8d220e8da62c1ad0794c96867397c41cb27ef11d543d6b6d910e"
+    },
+    "vibrant_bubble_v1/run_4/data/forged_program.native_save.json": {
+      "bytes": 53660,
+      "sha256": "ff92936ff74f7b952bd7d5870b2dfaa02d8898d71e7c5173b565a434f19346b7"
+    },
+    "vibrant_bubble_v1/run_4/data/report.json": {
+      "bytes": 2759042,
+      "sha256": "bcd1c4b96fbacd1b74a1708bd4115aece5324bbcd68555a57b432d9d358c7530"
+    },
+    "vibrant_bubble_v1/run_4/gate_executed.gd": {
+      "bytes": 20407,
+      "sha256": "743cadf4f4883ba7e301ac0ccdf2ef96a688ffc132c39717245575fa46dc9f63"
+    },
+    "vibrant_bubble_v1/run_4/native.log": {
+      "bytes": 990,
+      "sha256": "87eb6316efc95e608e6c449c674056ded990e425246a5ab5ea965caaf9e2d333"
+    },
+    "vibrant_bubble_v1/static_review.py": {
+      "bytes": 1200,
+      "sha256": "5857d8254af49c91987231c2a73c8630d0355270b209b5024cd7a67c09392ae6"
+    },
+    "vibrant_bubble_v1/validate.py": {
+      "bytes": 3914,
+      "sha256": "c7dc17d732b472a58061d9ccae47d40bcb7579cd8d4e0ce7f5c413cd41d009cf"
+    },
+    "vibrant_bubble_v1/PACKAGE_MANIFEST.json": {
+      "bytes": 46848,
+      "sha256": "99f9470a67b8db7b9cd4e25d898ee7ade37d78805a6a6f18ea8384e1f6ec0726"
+    }
+  }
+}
