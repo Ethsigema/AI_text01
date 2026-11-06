@@ -1,0 +1,331 @@
+{
+  "status": "Independent bounded candidate; discover-source rejection retained; no promotion",
+  "archive": "partial3702_portable_factory_candidate_v1.tar.xz",
+  "sha256": "41666399f88a62f491e463c313fafacea26c3599490dc944b94a44cd49ea05d3",
+  "bytes": 2210804,
+  "parts": [
+    {
+      "name": "partial3702_portable_factory_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "ec1738b82dfb2e43aa82fd9a7f2599191c7b679e2fcd0462c52e39235d5a1639"
+    },
+    {
+      "name": "partial3702_portable_factory_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "4baf8385aaac96657c25803f116e335b655a4c3053bc8641eb0f704de3413d45"
+    },
+    {
+      "name": "partial3702_portable_factory_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "010dda315342cc46410a0684ed684d9804b77737fe112f1d7a4a17eadf316f26"
+    },
+    {
+      "name": "partial3702_portable_factory_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "9155ccf939ee01dba8ca8ac2da021eefcea47ee11c939f569638901c6d70a415"
+    },
+    {
+      "name": "partial3702_portable_factory_candidate_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "fa94ee2b787429f9ecf4e154a20002629832b3e417c654ab9b8090a5864d16a1"
+    },
+    {
+      "name": "partial3702_portable_factory_candidate_v1.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "6efb6164dc015daaac1640e4cf6551aad4c6b1ad30f0d231db3409a8de930a57"
+    },
+    {
+      "name": "partial3702_portable_factory_candidate_v1.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "413392bcb1d4e7c9c147ec0beecf5f74e875cb9b8e102a782d3a73fd80a11f6d"
+    },
+    {
+      "name": "partial3702_portable_factory_candidate_v1.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "47f57bf6071379022ac8eb3dd6ca6345a1913c368941be8c704d3cd119c0eb5b"
+    },
+    {
+      "name": "partial3702_portable_factory_candidate_v1.tar.xz.part008",
+      "bytes": 210804,
+      "sha256": "6296a9f5c582652a61ec00d70f3fa5390883d0c07e5c2e5ed5f80efcc423ccba"
+    }
+  ],
+  "files": {
+    "portable_factory_candidate_v1/BASE_MAP.json": {
+      "bytes": 4507107,
+      "sha256": "1384d8577d66452eb89f1b40da64c472fe0ff2adeb6f2fc59469f73a0f4c9af0"
+    },
+    "portable_factory_candidate_v1/EXPECTED_ROW.json": {
+      "bytes": 8286,
+      "sha256": "ebc4914c33c647130ed24281a07214e41df4c831cc2d6a29fbeeb345ded7bec6"
+    },
+    "portable_factory_candidate_v1/PROGRESS.md": {
+      "bytes": 807,
+      "sha256": "a2ba81a8b4d6040313e980b0230ed9f366100efd6e80a4f2449f1830b744f6be"
+    },
+    "portable_factory_candidate_v1/README.md": {
+      "bytes": 2331,
+      "sha256": "efe23e8503560325ccac447c17ca26c850e1a5c78d835d35decfe65d6b7099be"
+    },
+    "portable_factory_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 10148,
+      "sha256": "fb949f77564803602076de84ab127c31335521c3ad3efb6dc5b4986a28cfcf93"
+    },
+    "portable_factory_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 2187,
+      "sha256": "425f7b101ea2a76b5f0eae360df3322149d711d8137ac2438e44647710173eb2"
+    },
+    "portable_factory_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4507942,
+      "sha256": "5b8e8311d39d69db8cb50f2a6c31e829db7b15fa4cf22d9de1648c36da31e372"
+    },
+    "portable_factory_candidate_v1/build.py": {
+      "bytes": 5032,
+      "sha256": "84f3bcae9cf4e47d3eeed308523c1b2334a3462fef0b2a2976c27f3fbb4c342d"
+    },
+    "portable_factory_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1749912,
+      "sha256": "ed3a88b0e276cb3aa104b4eebc6566d93bf7cc4755a846da04cacf5b75910f73"
+    },
+    "portable_factory_candidate_v1/delta/core/owned_minion_discover.gd": {
+      "bytes": 29160,
+      "sha256": "61669a5c7bf3dbe60947b62ede62a8b2e626e61ea50369a8d4a8dd3089c743d5"
+    },
+    "portable_factory_candidate_v1/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "7cc24ad69624f6ca9f1e90fe6c8005de9df2f43354a5ed95970c4387545b6593"
+    },
+    "portable_factory_candidate_v1/delta/core/recurring_discover_trinkets.gd": {
+      "bytes": 7823,
+      "sha256": "7c7af84a14e9fe79e4d70093dc1fb2fbe64a3115243264094e73484c26fb2372"
+    },
+    "portable_factory_candidate_v1/delta/data/patch_3702_portable_factory_overlay.json": {
+      "bytes": 20269,
+      "sha256": "64c9a52b22b380df584423fb536bfa383bf19ddd019611c242bdc28c2f884cbc"
+    },
+    "portable_factory_candidate_v1/delta/research/patch_3702_portable_factory/BG32_MagicItem_361t.native.xml": {
+      "bytes": 3540,
+      "sha256": "9f5b8334de05d09770c31854c0088cd93e601d89a4d66c6b4614f4dbce12f308"
+    },
+    "portable_factory_candidate_v1/delta/research/patch_3702_portable_factory/official_excerpt.html": {
+      "bytes": 266,
+      "sha256": "4767fe2ea4f865069a381b2d2df3eb08bc324d4a27c382db3e9f62b3bd7ed174"
+    },
+    "portable_factory_candidate_v1/delta/research/patch_3702_portable_factory/source_evidence.json": {
+      "bytes": 440,
+      "sha256": "ca2df9a095f5da48080392de9c164126c001fb6bfac3b5de6a47165a06283c80"
+    },
+    "portable_factory_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 803,
+      "sha256": "748fea0b433dd7abdd11e5a4c60099ca30ef3d253881d48ba32f05c749980254"
+    },
+    "portable_factory_candidate_v1/gate.gd": {
+      "bytes": 17616,
+      "sha256": "bd8297b4a294633b5d53d9a752d46a9fe22082edae9fb0934a5b0fd0f8c32c30"
+    },
+    "portable_factory_candidate_v1/map_sources.py": {
+      "bytes": 652,
+      "sha256": "d80e23a9e443bd24d6e659f36dde40c11ea709f4399711eb31c4140405027f77"
+    },
+    "portable_factory_candidate_v1/prepare.py": {
+      "bytes": 321,
+      "sha256": "651fa1d48a69cf749e394d6082fb2c884f1cd9002dd54b2ba7ab4be4cf40869e"
+    },
+    "portable_factory_candidate_v1/refresh_bindings.py": {
+      "bytes": 1006,
+      "sha256": "457e362f32aa8f9e9d4b03543bd94a9f799b629f39e8e0b34ee93eaf0e1f72d2"
+    },
+    "portable_factory_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "portable_factory_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "portable_factory_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 299,
+      "sha256": "83f0923075cc0e7697ad083a633c0da471de5971f3fa1e751ee90c56c1b7eb05"
+    },
+    "portable_factory_candidate_v1/run_1/native.log": {
+      "bytes": 702,
+      "sha256": "5eb44cfff4b968b56d97f9950348555d0ef191aa8a8d056352eafbc9e0298158"
+    },
+    "portable_factory_candidate_v1/run_1/source_before_fix/EXPECTED_ROW.json": {
+      "bytes": 8286,
+      "sha256": "ebc4914c33c647130ed24281a07214e41df4c831cc2d6a29fbeeb345ded7bec6"
+    },
+    "portable_factory_candidate_v1/run_1/source_before_fix/SOURCE_DELTA.json": {
+      "bytes": 1871,
+      "sha256": "c716eb221d407ed12bf758955a5b36764f56f1a9294be028b8279a3bc50bb85e"
+    },
+    "portable_factory_candidate_v1/run_1/source_before_fix/SOURCE_MAP.json": {
+      "bytes": 4507942,
+      "sha256": "4c2349a17287ab7f052cf2c6a517f14dca2b9b305883e13bffb73b1193492109"
+    },
+    "portable_factory_candidate_v1/run_1/source_before_fix/build.py": {
+      "bytes": 5017,
+      "sha256": "6864efb30dd8cf38a3c00957068b0000045d283f2544744d31f649476313aa83"
+    },
+    "portable_factory_candidate_v1/run_1/source_before_fix/delta/core/catalog.gd": {
+      "bytes": 1749817,
+      "sha256": "049a1a82e86b485ca343ad9f5a5c46dcb7cfa961638c5567ece29d79bfb8dbb3"
+    },
+    "portable_factory_candidate_v1/run_1/source_before_fix/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26751,
+      "sha256": "a4a9de951f3464880f7c09035eba3773b28be6c917ae01aab1af3cfa44423f69"
+    },
+    "portable_factory_candidate_v1/run_1/source_before_fix/delta/core/recurring_discover_trinkets.gd": {
+      "bytes": 7823,
+      "sha256": "7c7af84a14e9fe79e4d70093dc1fb2fbe64a3115243264094e73484c26fb2372"
+    },
+    "portable_factory_candidate_v1/run_1/source_before_fix/delta/data/patch_3702_portable_factory_overlay.json": {
+      "bytes": 20269,
+      "sha256": "64c9a52b22b380df584423fb536bfa383bf19ddd019611c242bdc28c2f884cbc"
+    },
+    "portable_factory_candidate_v1/run_1/source_before_fix/delta/research/patch_3702_portable_factory/BG32_MagicItem_361t.native.xml": {
+      "bytes": 3540,
+      "sha256": "9f5b8334de05d09770c31854c0088cd93e601d89a4d66c6b4614f4dbce12f308"
+    },
+    "portable_factory_candidate_v1/run_1/source_before_fix/delta/research/patch_3702_portable_factory/official_excerpt.html": {
+      "bytes": 266,
+      "sha256": "4767fe2ea4f865069a381b2d2df3eb08bc324d4a27c382db3e9f62b3bd7ed174"
+    },
+    "portable_factory_candidate_v1/run_1/source_before_fix/delta/research/patch_3702_portable_factory/source_evidence.json": {
+      "bytes": 440,
+      "sha256": "ca2df9a095f5da48080392de9c164126c001fb6bfac3b5de6a47165a06283c80"
+    },
+    "portable_factory_candidate_v1/run_1/source_before_fix/gate.gd": {
+      "bytes": 17629,
+      "sha256": "3e39c44a2b09505ed0b640feec9fc5c1886fe2353119116391a945932fd8452b"
+    },
+    "portable_factory_candidate_v1/run_2/PROCESS.json": {
+      "bytes": 483,
+      "sha256": "963509448b6909a2f13e1ba500b242dab76374658aebb389bb985e145ed799ed"
+    },
+    "portable_factory_candidate_v1/run_2/VALIDATION.json": {
+      "bytes": 174,
+      "sha256": "d565eebcfdf791285fa1b6e485574aa2b3af1d190c5f6134288c86a2df2599e0"
+    },
+    "portable_factory_candidate_v1/run_2/data/initial.native_save.json": {
+      "bytes": 18640,
+      "sha256": "9ef424eef49d25f39bc086acca836d181a2fe866afd41f416e483903c0f1dcc2"
+    },
+    "portable_factory_candidate_v1/run_2/data/report.json": {
+      "bytes": 2316137,
+      "sha256": "8a40e791781b379bc8963fd877c80b9bc447c428a4b64d58f48cef623b26d355"
+    },
+    "portable_factory_candidate_v1/run_2/native.log": {
+      "bytes": 3609,
+      "sha256": "d78731864453473f1578a7bebfd6dccbb2d561b6e63412e51ec3d615b8224edf"
+    },
+    "portable_factory_candidate_v1/run_2/source_before_fix/SOURCE_DELTA.json": {
+      "bytes": 1871,
+      "sha256": "9b1372d44847cc566ccfda8ef0f3e0b3fb04eed5dda725ef4aaddc2e0f19cee5"
+    },
+    "portable_factory_candidate_v1/run_2/source_before_fix/SOURCE_MAP.json": {
+      "bytes": 4507942,
+      "sha256": "e2562613503e28e7e4d9facb4ca25b3a76e9ac0c91d6ed2c1a52b20ad293ef8f"
+    },
+    "portable_factory_candidate_v1/run_2/source_before_fix/delta/core/catalog.gd": {
+      "bytes": 1749912,
+      "sha256": "ed3a88b0e276cb3aa104b4eebc6566d93bf7cc4755a846da04cacf5b75910f73"
+    },
+    "portable_factory_candidate_v1/run_2/source_before_fix/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "e545acb5ba476984e826f3413d63316f436a9b05e50ec4ba0476b2931f34d32d"
+    },
+    "portable_factory_candidate_v1/run_2/source_before_fix/delta/core/recurring_discover_trinkets.gd": {
+      "bytes": 7823,
+      "sha256": "7c7af84a14e9fe79e4d70093dc1fb2fbe64a3115243264094e73484c26fb2372"
+    },
+    "portable_factory_candidate_v1/run_2/source_before_fix/delta/data/patch_3702_portable_factory_overlay.json": {
+      "bytes": 20269,
+      "sha256": "64c9a52b22b380df584423fb536bfa383bf19ddd019611c242bdc28c2f884cbc"
+    },
+    "portable_factory_candidate_v1/run_2/source_before_fix/delta/research/patch_3702_portable_factory/BG32_MagicItem_361t.native.xml": {
+      "bytes": 3540,
+      "sha256": "9f5b8334de05d09770c31854c0088cd93e601d89a4d66c6b4614f4dbce12f308"
+    },
+    "portable_factory_candidate_v1/run_2/source_before_fix/delta/research/patch_3702_portable_factory/official_excerpt.html": {
+      "bytes": 266,
+      "sha256": "4767fe2ea4f865069a381b2d2df3eb08bc324d4a27c382db3e9f62b3bd7ed174"
+    },
+    "portable_factory_candidate_v1/run_2/source_before_fix/delta/research/patch_3702_portable_factory/source_evidence.json": {
+      "bytes": 440,
+      "sha256": "ca2df9a095f5da48080392de9c164126c001fb6bfac3b5de6a47165a06283c80"
+    },
+    "portable_factory_candidate_v1/run_2/source_before_fix/gate.gd": {
+      "bytes": 17616,
+      "sha256": "37d88ccb8846f0cff0527090337d7f6a6d346a4e5f371bec3ead8b055db615ff"
+    },
+    "portable_factory_candidate_v1/run_3/PROCESS.json": {
+      "bytes": 482,
+      "sha256": "0310f069f3cddccdce1f2f54751591f2cb968039790d1f0b161ef710b3ee2f0b"
+    },
+    "portable_factory_candidate_v1/run_3/VALIDATION.json": {
+      "bytes": 263,
+      "sha256": "41e1014ece086cdc5510e145d1f862dfcd18fe344f2e2a74b323aeff659f19e6"
+    },
+    "portable_factory_candidate_v1/run_3/data/initial.native_save.json": {
+      "bytes": 18640,
+      "sha256": "e6ca045cf828c14f6a830ecfea70ca9cf2dbb423e41a264a63b74c07cd2a8fcf"
+    },
+    "portable_factory_candidate_v1/run_3/data/report.json": {
+      "bytes": 2369863,
+      "sha256": "0b2777f7cdad58c49a979ade77ca550cac2b975fa08c12ff08b6ca04c52f56cd"
+    },
+    "portable_factory_candidate_v1/run_3/native.log": {
+      "bytes": 1123,
+      "sha256": "a9e52d3eefb7f1ea51641e177c8e8d6e0e6f3b88907c87f7f14d75e4ea80d312"
+    },
+    "portable_factory_candidate_v1/run_3/producer.gd": {
+      "bytes": 17616,
+      "sha256": "37d88ccb8846f0cff0527090337d7f6a6d346a4e5f371bec3ead8b055db615ff"
+    },
+    "portable_factory_candidate_v1/run_4/PROCESS.json": {
+      "bytes": 483,
+      "sha256": "00634e9bba842730bc95d7c3c15c434c6d89e13e75fa6f1973931f968ca38a81"
+    },
+    "portable_factory_candidate_v1/run_4/VALIDATION.json": {
+      "bytes": 913,
+      "sha256": "5fdfcfc2baa08531084bdd76eed647a3efc2eed10758f08b900318049ccb28a7"
+    },
+    "portable_factory_candidate_v1/run_4/data/initial.native_save.json": {
+      "bytes": 18640,
+      "sha256": "4ed34329f7939ab86a9b34656e1b5b63cd5600e686d2cf50509ea28332f6ada4"
+    },
+    "portable_factory_candidate_v1/run_4/data/prefix.native_save.json": {
+      "bytes": 61503,
+      "sha256": "d4c3b3c1cd77c1b5890f9bae309f7a15b59767cf805a51b323dcc2f7d6a86098"
+    },
+    "portable_factory_candidate_v1/run_4/data/report.json": {
+      "bytes": 4492177,
+      "sha256": "0903cb10f1fc81f45947d88a35bd605b6bd3eb59d27ad1e840757c4e30ab2fd0"
+    },
+    "portable_factory_candidate_v1/run_4/data/terminal.native_save.json": {
+      "bytes": 71110,
+      "sha256": "3010003cfa4e078dd05e93e9008eea988707a3a081f0829cb1fc88f96d6ce050"
+    },
+    "portable_factory_candidate_v1/run_4/native.log": {
+      "bytes": 1411,
+      "sha256": "3f09d57908eba57760b9bb2f5ab4e1e3316e799d61781a31561b858eb4836a4f"
+    },
+    "portable_factory_candidate_v1/run_v2.py": {
+      "bytes": 1150,
+      "sha256": "3bead5607d6e7b26a2c7256c2bcf961fcd62e7931b103ea0fea4d8b74d630305"
+    },
+    "portable_factory_candidate_v1/run_v3.py": {
+      "bytes": 1150,
+      "sha256": "200fb92f97d783a2ab823ad021100d53f8cfb42980f66dd1f1b4fbe721324c1a"
+    },
+    "portable_factory_candidate_v1/run_v4.py": {
+      "bytes": 1150,
+      "sha256": "8fed7b25c7ae9d7d65ebcb9e082880feeb2624cad85975edc0ba0fa335634473"
+    },
+    "portable_factory_candidate_v1/validate.py": {
+      "bytes": 3763,
+      "sha256": "6c534d97bb608c51c9f5713c2116febafe7755b2624d8a76933d3332fc2f054d"
+    }
+  }
+}
