@@ -1,0 +1,258 @@
+{
+  "status": "Bounded Bloodbound Earrings acquisition revision; no full acceptance",
+  "archive": "partial3702_bloodbound_earrings_v1.tar.xz",
+  "sha256": "79e518052ef139e2e3f29b9f5c7af20a038a17d41240391aac3852de11c667cb",
+  "bytes": 1343972,
+  "parts": [
+    {
+      "name": "partial3702_bloodbound_earrings_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "014f298b76d741bde51b5d213ab49557b4f7644838f8504604551f839b32bfd9"
+    },
+    {
+      "name": "partial3702_bloodbound_earrings_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "8f402cb23146c83a52f397778cf3ccbb46a60877bf7b3acee21662a5b198c181"
+    },
+    {
+      "name": "partial3702_bloodbound_earrings_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "a76f0336d7ada3bf856563bbca7ea4696e375b515bdf707b1ebc03abaa028b8f"
+    },
+    {
+      "name": "partial3702_bloodbound_earrings_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "599dbb476b7295ca2a3008b2f2acac1f90200a74639abb8b386b956520f319ab"
+    },
+    {
+      "name": "partial3702_bloodbound_earrings_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "d04bbdf6a080e605ddcf707b91c395a5e08a0aa561b2c9b8e4d20b47c03ff6dc"
+    },
+    {
+      "name": "partial3702_bloodbound_earrings_v1.tar.xz.part005",
+      "bytes": 93972,
+      "sha256": "474d6d5d565f5a417f3f15304bd4014db9a02d46717b78a9328f99fe25657a6d"
+    }
+  ],
+  "files": {
+    "bloodbound_earrings_v1/BASE_MAP.json": {
+      "bytes": 4532899,
+      "sha256": "7929ee96c1ec7ae7a28a41c9b9127bd597bf26edf3108703e6b75e7cd9f924c8"
+    },
+    "bloodbound_earrings_v1/BINDINGS.log": {
+      "bytes": 100,
+      "sha256": "51a72d1d75f460e41a0b7311873dec7a637efe4324c3a5df530b5f84902b9fd4"
+    },
+    "bloodbound_earrings_v1/EXPECTED_ROWS.json": {
+      "bytes": 13386,
+      "sha256": "37479b3e22e3198566defe6ff5012864e0cd65423557e6b70f11e372e59a1ff8"
+    },
+    "bloodbound_earrings_v1/GATE_PARSE.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "bloodbound_earrings_v1/JSON_AUDIT.json": {
+      "bytes": 1084,
+      "sha256": "0c45d7d96c44eed6f7cdc9f1d4d7b6915959ee0f080c5aaddfb36d30e7f7436f"
+    },
+    "bloodbound_earrings_v1/PACKAGE_MANIFEST.json": {
+      "bytes": 7371,
+      "sha256": "0f7f4f5fc8b7af2773cba9637edf50211f85be145cbaff28367a1772f24a66b6"
+    },
+    "bloodbound_earrings_v1/PIN_PREFLIGHT.json": {
+      "bytes": 226022,
+      "sha256": "156e3a85c79d623c95f6a81934c683343125ca91b57501ec7a598f01282c2ce8"
+    },
+    "bloodbound_earrings_v1/PREFLIGHT.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "bloodbound_earrings_v1/PREFLIGHT_INITIAL.log": {
+      "bytes": 110,
+      "sha256": "a093805592a91096995543faad149d69e6cff47c8d75b84e97dda6e359377e00"
+    },
+    "bloodbound_earrings_v1/PREFLIGHT_INITIAL_PROCESS.json": {
+      "bytes": 85,
+      "sha256": "78b1a8598f23c21de2787a58997c7bbd8527574bfc029f4e756086eabdd73d95"
+    },
+    "bloodbound_earrings_v1/PREFLIGHT_PROCESS.json": {
+      "bytes": 85,
+      "sha256": "78b1a8598f23c21de2787a58997c7bbd8527574bfc029f4e756086eabdd73d95"
+    },
+    "bloodbound_earrings_v1/RESULT.md": {
+      "bytes": 1640,
+      "sha256": "2d5803f290d0a4fd8a6d3feeb1da3a1eb9a2b979a492b6741e00f4a53121fada"
+    },
+    "bloodbound_earrings_v1/SOURCE_DELTA.json": {
+      "bytes": 2879,
+      "sha256": "47b3d65495545253809a3c53b5851cb12b283dc678fa3e3ebf5c46486920933d"
+    },
+    "bloodbound_earrings_v1/SOURCE_MAP.json": {
+      "bytes": 4533739,
+      "sha256": "9a517b7c2e0ba0c14308248884696b008e5a6f0b500a1d1d97bcd53c4b7a9c71"
+    },
+    "bloodbound_earrings_v1/VALIDATION.json": {
+      "bytes": 1015,
+      "sha256": "7d34cfd800f367395e09e4da188175ed3237e90ef3c4392a2620c00adf214038"
+    },
+    "bloodbound_earrings_v1/build.py": {
+      "bytes": 6113,
+      "sha256": "8b141a37a9bcb13fb58c72d86631782b367331764d78127ffe460a73c143fd9a"
+    },
+    "bloodbound_earrings_v1/delta/core/catalog.gd": {
+      "bytes": 1792325,
+      "sha256": "2a26bc921988589a3ed46a40083ac72db038fd5ae87e56377d25733ad39c8d52"
+    },
+    "bloodbound_earrings_v1/delta/core/owned_cast_gem_host.gd": {
+      "bytes": 15146,
+      "sha256": "8037f45fa6ad8262f4e87c67fefbea35aa0a916158eafea67285cacaa9a0e352"
+    },
+    "bloodbound_earrings_v1/delta/core/owned_cast_gem_sources.gd": {
+      "bytes": 75518,
+      "sha256": "5c24bbd360aa58796d8d00d417f64da60eb143bfbcb9a96978ae743c5a92b01f"
+    },
+    "bloodbound_earrings_v1/delta/core/patch_3702_bloodbound_earrings_sources.gd": {
+      "bytes": 44769,
+      "sha256": "9b0c5addc006180a0c0182dac621f163bf471307690085b96b0c12830a3b703a"
+    },
+    "bloodbound_earrings_v1/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "1e583f54292e86a04c46cb2a3d6cb9671b63403490855fb64228e275e937ae5d"
+    },
+    "bloodbound_earrings_v1/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "87f8c8eb5511c6683559368dd2058857ee0f1e8160ab8a8362e51b1c9a20a6f0"
+    },
+    "bloodbound_earrings_v1/delta/data/patch_3702_bloodbound_earrings_overlay.json": {
+      "bytes": 33840,
+      "sha256": "93a4b0ea8c1e89e25e5a2d46d6e0647aeefedbd5caff48c724c75d66cb774f20"
+    },
+    "bloodbound_earrings_v1/delta/research/patch_3702_bloodbound_earrings/BG32_MagicItem_808.native.xml": {
+      "bytes": 4248,
+      "sha256": "6310d0b7be6c3e2918e9181cfd6e5fc257b0e9926db1d55d7431d0c453298c26"
+    },
+    "bloodbound_earrings_v1/delta/research/patch_3702_bloodbound_earrings/evidence.json": {
+      "bytes": 589,
+      "sha256": "3e2f9e318ee2cbc1f827b573566de0a8e20bd635cd7e9557cd7b22c13e5e4306"
+    },
+    "bloodbound_earrings_v1/delta/research/patch_3702_bloodbound_earrings/patch_37_0_2.html": {
+      "bytes": 61337,
+      "sha256": "d96afcd61ca270f5d97e763a8414e2fe9c95644f2722505d8e295303d7e9da6c"
+    },
+    "bloodbound_earrings_v1/gate.gd": {
+      "bytes": 21391,
+      "sha256": "1fb8381eeca06c83d17441c11c53d1e6d71882b871e270dbedf4e92ee1dada3c"
+    },
+    "bloodbound_earrings_v1/make_gate.py": {
+      "bytes": 7107,
+      "sha256": "27d9fe530bddaf9515f75f70359ed2afa8217b52c5f5af44753be76abd33ab40"
+    },
+    "bloodbound_earrings_v1/map_sources.py": {
+      "bytes": 815,
+      "sha256": "537551367490c9a4c4c22c7111a1e8b92c0aae984122b56863a2472c93a2f5d0"
+    },
+    "bloodbound_earrings_v1/pin_preflight.py": {
+      "bytes": 858,
+      "sha256": "78271136d3325e7c1b6d56562e0bdb09165626c98bc78be67cf1adbc6a2875a1"
+    },
+    "bloodbound_earrings_v1/preflight.gd": {
+      "bytes": 383,
+      "sha256": "bfa185a8186d741403e75decd3cc830ca5301585a2210e46f6ccc3fe55052aaf"
+    },
+    "bloodbound_earrings_v1/preflight.py": {
+      "bytes": 785,
+      "sha256": "9bfbd04f5828d0ed670aea94f4e32c15e1214c203e4538077290aed8a6a5bb03"
+    },
+    "bloodbound_earrings_v1/refresh_virtual_bindings.py": {
+      "bytes": 1158,
+      "sha256": "9186e5aec58f8e3adcb5a430f9d663b7cc1fe9e74f8e506578290614e391f0ed"
+    },
+    "bloodbound_earrings_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "bloodbound_earrings_v1/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "bloodbound_earrings_v1/run_1/EXPECTED_ROWS.json": {
+      "bytes": 13386,
+      "sha256": "37479b3e22e3198566defe6ff5012864e0cd65423557e6b70f11e372e59a1ff8"
+    },
+    "bloodbound_earrings_v1/run_1/LAUNCH.json": {
+      "bytes": 513,
+      "sha256": "19abc8418297edfc9d0ef88899ae6d480d540bea732d913fecda9b1d69c47999"
+    },
+    "bloodbound_earrings_v1/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 226022,
+      "sha256": "156e3a85c79d623c95f6a81934c683343125ca91b57501ec7a598f01282c2ce8"
+    },
+    "bloodbound_earrings_v1/run_1/PROCESS.json": {
+      "bytes": 587,
+      "sha256": "4742a8b086c8120df2922359709e7826db2d16f71f742a71e3ee304171b11f52"
+    },
+    "bloodbound_earrings_v1/run_1/SOURCE_DELTA.json": {
+      "bytes": 2879,
+      "sha256": "47b3d65495545253809a3c53b5851cb12b283dc678fa3e3ebf5c46486920933d"
+    },
+    "bloodbound_earrings_v1/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 147028,
+      "sha256": "f49d8b5527d9017a1d201d1a7d29ddff1a6263b7e8344628d5bffd114e48356c"
+    },
+    "bloodbound_earrings_v1/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4533739,
+      "sha256": "9a517b7c2e0ba0c14308248884696b008e5a6f0b500a1d1d97bcd53c4b7a9c71"
+    },
+    "bloodbound_earrings_v1/run_1/data/cast_1.native_save.json": {
+      "bytes": 76340,
+      "sha256": "0bf13fb661bc99070ec0630f8b60bc8956d79ea04ccfb4deed86ecb8b6be25a8"
+    },
+    "bloodbound_earrings_v1/run_1/data/cast_2.native_save.json": {
+      "bytes": 78674,
+      "sha256": "0024f3a218d52244a28cc83d60f2a933b0ca44d0ba5b9ed7d7a9256012a2b986"
+    },
+    "bloodbound_earrings_v1/run_1/data/cast_3.native_save.json": {
+      "bytes": 81008,
+      "sha256": "3109c4b50c5ecd647311856189d2498687cba66b86cc39c086cba623a4d84119"
+    },
+    "bloodbound_earrings_v1/run_1/data/cast_4.native_save.json": {
+      "bytes": 85392,
+      "sha256": "358195f7c060d60dabfd05511f718ba275a3e7443ce5f0609d7be48040326bc1"
+    },
+    "bloodbound_earrings_v1/run_1/data/pending_offer.native_save.json": {
+      "bytes": 84534,
+      "sha256": "99a3e00bc0f3a1f1738900a055c1030759fb55077be8369f5fe5603af1203f98"
+    },
+    "bloodbound_earrings_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 60968,
+      "sha256": "0c0eb8724c4ab336d30c75849b6cd245e795349e1a93ff06200ab0bea5c99b2e"
+    },
+    "bloodbound_earrings_v1/run_1/data/report.json": {
+      "bytes": 6697963,
+      "sha256": "4b38de9882706019595b951f01024e438ff24ba78b410ac8fbd5078611c9285c"
+    },
+    "bloodbound_earrings_v1/run_1/data/two_friends.native_save.json": {
+      "bytes": 73649,
+      "sha256": "1c36f847bf1068575e38d57e41362c1072332a974420d10516b2980763409f07"
+    },
+    "bloodbound_earrings_v1/run_1/gate_executed.gd": {
+      "bytes": 21391,
+      "sha256": "1fb8381eeca06c83d17441c11c53d1e6d71882b871e270dbedf4e92ee1dada3c"
+    },
+    "bloodbound_earrings_v1/run_1/native.log": {
+      "bytes": 1581,
+      "sha256": "a12b7e8d98d6dd54b98f1f28ff20a0f65993447ce5dcbc90fd61703f2708c098"
+    },
+    "bloodbound_earrings_v1/seal.py": {
+      "bytes": 2746,
+      "sha256": "0b31a3b73cf186f11d0c26d091a8e86dfa574a287870347b34e64dfcf9a4bf62"
+    },
+    "bloodbound_earrings_v1/verify_public_report.py": {
+      "bytes": 3937,
+      "sha256": "8f15e5c318854d3ad64bf5cc57a76d53d03a5e81ea844c12b997b21fea45a95d"
+    }
+  },
+  "transport": "base64 part files; decode in order and concatenate",
+  "result": "# Bloodbound Earrings 37.0.2 acquisition revision\n\nBG32_MagicItem_808 acquisition cost changes from 1 to 2. Historical RAW/compiled rows and the existing four-spell Blood Gem effect are preserved. Exact current-row validation is required on the actual discover offer before payment, rejecting copied-field corruption without changing the live game.\n\nFormal headless run_1 exited 0 in 209.08 seconds under 4 GiB/600-second limits. Independent JSON evidence audit passed: 32 legal commands including eight replay commands, seven exact native save/load checkpoints, seven corrupt-offer rejections, and eight source-negative checks. Both owners paid exactly 2 gold; four native Banana casts advanced progress 1/2/3/0 and the fourth applied one Gem to each of two friendly minions. Runtime fingerprint: eb343276b0541964fcf482d244113e6af104730a789c7e2777e53129f5cc7128. Report SHA256: 4b38de9882706019595b951f01024e438ff24ba78b410ac8fbd5078611c9285c. No broad completion, default-pool availability, new effect, or exhaustive regression claim is made.\n\nScenario: public CustomShop with two existing minions overridden to tier1/cost0/copies12, native Bananas, real round-six offers for two owners, four casts and per-friendly Gem checks. Save/load and exact replay are checked over all thirteen snapshot fields. Seven corrupt offers and eight copied invalid source rows are negative-only probes.\n\nLimits: not the natural full pool; no one-gold insufficient-funds branch, automatic cast compositions, multiple slots, second cycle, combat compositions, or full regression suite. Previous partial/hold boundaries remain in place. No upload performed.\n"
+}
