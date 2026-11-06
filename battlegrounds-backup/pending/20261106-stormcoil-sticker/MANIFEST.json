@@ -1,0 +1,260 @@
+{
+  "status": "Independent bounded candidate; original failures preserved; no promotion",
+  "archive": "partial3702_stormcoil_sticker_candidate_v1.tar.xz",
+  "sha256": "179f2677f83cc43d595c07ed6626580c7233d3cfc0d2ba64c0792a1d9d0d06af",
+  "bytes": 2272820,
+  "parts": [
+    {
+      "name": "partial3702_stormcoil_sticker_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "5af60b822b808099958716ab34e5ed7e4c2c6f8e9b43e382deaadcf85bbcaff2"
+    },
+    {
+      "name": "partial3702_stormcoil_sticker_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "5ef6ef34df055678cd400f3185382df44ca51c667fc6d4c5736a9fa4ae56b884"
+    },
+    {
+      "name": "partial3702_stormcoil_sticker_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "e91f9a7c04adc545e192e0cb62291507f6be4d77b22a5eba3b8f7ad68bbb14c6"
+    },
+    {
+      "name": "partial3702_stormcoil_sticker_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "6ebfbb6abf5b5d8d05fa18dc0cfef93fa7ef7d995df07fb2b13c01223c611f8e"
+    },
+    {
+      "name": "partial3702_stormcoil_sticker_candidate_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "48de1def956eebdec1c9af6ff3d9a29fbd3da88e1c832acce814d4228aca963a"
+    },
+    {
+      "name": "partial3702_stormcoil_sticker_candidate_v1.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "d4c4d42c5e1585f027b0dac8ac2f550e3a1e3854e2d2eba08109e38ec5416129"
+    },
+    {
+      "name": "partial3702_stormcoil_sticker_candidate_v1.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "82aac5c4cd3ea26518c1b1dfe378d470a22c4c66d9ec57c8cfd933d34a10668f"
+    },
+    {
+      "name": "partial3702_stormcoil_sticker_candidate_v1.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "4e088feaaf662183213c4ec92b0653b6b55613e2e89f67478722fb42bab254d2"
+    },
+    {
+      "name": "partial3702_stormcoil_sticker_candidate_v1.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "b525b2eee4cea40a25b71ef40e941a92262d1fde5f4f570eadafb39f2525ce84"
+    },
+    {
+      "name": "partial3702_stormcoil_sticker_candidate_v1.tar.xz.part009",
+      "bytes": 22820,
+      "sha256": "e39ea23c70ad713043e87232996341704354f4c376bfc58a1887e07585cf887a"
+    }
+  ],
+  "files": {
+    "stormcoil_sticker_candidate_v1/BASE_MAP.json": {
+      "bytes": 4505459,
+      "sha256": "9723aaf7748349fe57618f2995d7668676b4e90a985425c3211c5a8eeefbe0ff"
+    },
+    "stormcoil_sticker_candidate_v1/EXPECTED_ROW.json": {
+      "bytes": 8768,
+      "sha256": "8de7e08b35fe71889bd8446db244ea0f71754a6d8c118402b817dc28ed5c287e"
+    },
+    "stormcoil_sticker_candidate_v1/PROGRESS.md": {
+      "bytes": 683,
+      "sha256": "321058dda0dae461cfe1e295b1be408d86c1b1f993890274b39ecb4459368690"
+    },
+    "stormcoil_sticker_candidate_v1/README.md": {
+      "bytes": 1670,
+      "sha256": "1dfa1cf454e6f84f55e9d673bda9ad168b717692a8bbb771863576b100dcf643"
+    },
+    "stormcoil_sticker_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 7282,
+      "sha256": "a4bbd82e0425c6984c29b8909e482bc7a97dabe98d923a79720001363c772749"
+    },
+    "stormcoil_sticker_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 2524,
+      "sha256": "5e48a22b7fe3cacd45accf907514cc1ce07d01401c30846b0b8189d561c0800b"
+    },
+    "stormcoil_sticker_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4506298,
+      "sha256": "323aa6db4a2d47a1b811ce54773ff651129e13159f33eeef5b8b822f7e4fc4bf"
+    },
+    "stormcoil_sticker_candidate_v1/build.py": {
+      "bytes": 5146,
+      "sha256": "837929e80ca4a0458b4e39ec2a8e9dce65d1bfef169b5c3dd7637a56d749a8e0"
+    },
+    "stormcoil_sticker_candidate_v1/delta/core/bulk_random_resource_host.gd": {
+      "bytes": 70311,
+      "sha256": "414b1c2094faab6a9b3d82e1173a4b86f28bbb40364f95c813537dfa6c354404"
+    },
+    "stormcoil_sticker_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1746899,
+      "sha256": "54cda2452b4b8d01b2816c33d27d543f0a6f223f435a136290b4155a01c54435"
+    },
+    "stormcoil_sticker_candidate_v1/delta/core/cyclic_resource_trinkets.gd": {
+      "bytes": 55615,
+      "sha256": "df3b513f145608dd2e03e3090e1b523f54e696cb266d661c3f5afcddc8e92e7c"
+    },
+    "stormcoil_sticker_candidate_v1/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "197c049a6fd416b67b7a4dd44dbe23b021dc3dec8dda369577f67f35491e4adc"
+    },
+    "stormcoil_sticker_candidate_v1/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "d606f45859bacf6ca9a52b260ae17801ae8215e1e6f23627f7328069a44093b2"
+    },
+    "stormcoil_sticker_candidate_v1/delta/data/patch_3702_stormcoil_sticker_overlay.json": {
+      "bytes": 20777,
+      "sha256": "c3d06c81ba2da5fc871ba4ed77284c6677887af2cf15ab1aabbe125dffe7fb62"
+    },
+    "stormcoil_sticker_candidate_v1/delta/research/patch_3702_stormcoil_sticker/BG35_MagicItem_302.native.xml": {
+      "bytes": 3527,
+      "sha256": "299d7bdf20906caf5b596442233d299564bd531b81b52e3dd8379b7f6b8db894"
+    },
+    "stormcoil_sticker_candidate_v1/delta/research/patch_3702_stormcoil_sticker/official_excerpt.html": {
+      "bytes": 189,
+      "sha256": "f8d8c8a272074af975a0d7dc668ff6c5305d81589998a6447cef9d72b98cf3fd"
+    },
+    "stormcoil_sticker_candidate_v1/delta/research/patch_3702_stormcoil_sticker/source_evidence.json": {
+      "bytes": 442,
+      "sha256": "91eab50526ac521c453a476459b66868ac71215e11fbab3f37752a4eaa8b354c"
+    },
+    "stormcoil_sticker_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 559,
+      "sha256": "31afe4344e87e9fc32dee3c3952696fc56106067810e4a0d1a257e910f03168e"
+    },
+    "stormcoil_sticker_candidate_v1/gate.gd": {
+      "bytes": 18064,
+      "sha256": "64e169b448a1e977cdefbcb49ae45237d1a15f7618d74c2d55f38f72906e93f9"
+    },
+    "stormcoil_sticker_candidate_v1/refresh_bindings.py": {
+      "bytes": 1006,
+      "sha256": "457e362f32aa8f9e9d4b03543bd94a9f799b629f39e8e0b34ee93eaf0e1f72d2"
+    },
+    "stormcoil_sticker_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "stormcoil_sticker_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 485,
+      "sha256": "d3976c0440a68a1d0e5922c1bdcd52ba57b2aa257ce0f66acfe9ed4643a87ce8"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 1316,
+      "sha256": "fc0d4359e5348920c76755a0d31f8c48b71280d1bedc5cd4a6ed9754e5d978ac"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/data/initial.native_save.json": {
+      "bytes": 22104,
+      "sha256": "ddadfba29dbeb1a732e5206714ed905c7ac9a4bf65e4f823c1db83ee283ab20e"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 82086,
+      "sha256": "3bc6ff8825941ba01e6ce62349dd95a908504a964bd956dddcbbc06d37b4f25b"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/data/report.json": {
+      "bytes": 5863535,
+      "sha256": "025715b632c5800573b1dc6f248cba70dd25aa5734f266da70e0ab2310d7b4e3"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 85770,
+      "sha256": "6992f638eacbe19722aa77368ff9eee0e243d7e67e9b793abfdaaf23da99cb5f"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/native.log": {
+      "bytes": 6618,
+      "sha256": "34ee062fe61c56c73404400bc9df984a25ac989d1156925af4b26440e9b1bc6b"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/producer.gd": {
+      "bytes": 18064,
+      "sha256": "64e169b448a1e977cdefbcb49ae45237d1a15f7618d74c2d55f38f72906e93f9"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/source_before_fix/SOURCE_DELTA.json": {
+      "bytes": 2204,
+      "sha256": "f04f96c1110c75b910ed5b46d6a5f4d5e49d825fc3025af686fbabb28aaf421d"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/source_before_fix/SOURCE_MAP.json": {
+      "bytes": 4506298,
+      "sha256": "0e29e49c796c921449bc7c8475ef6b96308ef0182a88405db700ba32bb9b1c8f"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/source_before_fix/delta/core/catalog.gd": {
+      "bytes": 1746899,
+      "sha256": "54cda2452b4b8d01b2816c33d27d543f0a6f223f435a136290b4155a01c54435"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/source_before_fix/delta/core/cyclic_resource_trinkets.gd": {
+      "bytes": 55615,
+      "sha256": "df3b513f145608dd2e03e3090e1b523f54e696cb266d661c3f5afcddc8e92e7c"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/source_before_fix/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "197c049a6fd416b67b7a4dd44dbe23b021dc3dec8dda369577f67f35491e4adc"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/source_before_fix/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "d606f45859bacf6ca9a52b260ae17801ae8215e1e6f23627f7328069a44093b2"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/source_before_fix/delta/data/patch_3702_stormcoil_sticker_overlay.json": {
+      "bytes": 20777,
+      "sha256": "c3d06c81ba2da5fc871ba4ed77284c6677887af2cf15ab1aabbe125dffe7fb62"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/source_before_fix/delta/research/patch_3702_stormcoil_sticker/BG35_MagicItem_302.native.xml": {
+      "bytes": 3527,
+      "sha256": "299d7bdf20906caf5b596442233d299564bd531b81b52e3dd8379b7f6b8db894"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/source_before_fix/delta/research/patch_3702_stormcoil_sticker/official_excerpt.html": {
+      "bytes": 189,
+      "sha256": "f8d8c8a272074af975a0d7dc668ff6c5305d81589998a6447cef9d72b98cf3fd"
+    },
+    "stormcoil_sticker_candidate_v1/run_1/source_before_fix/delta/research/patch_3702_stormcoil_sticker/source_evidence.json": {
+      "bytes": 442,
+      "sha256": "91eab50526ac521c453a476459b66868ac71215e11fbab3f37752a4eaa8b354c"
+    },
+    "stormcoil_sticker_candidate_v1/run_2/PROCESS.json": {
+      "bytes": 485,
+      "sha256": "520dd66fb75911fc1718e23313bd5c190107251222397c5aef113b2611017597"
+    },
+    "stormcoil_sticker_candidate_v1/run_2/VALIDATION.json": {
+      "bytes": 1363,
+      "sha256": "4e2399c72e88f10d157b918c0b88ae53aed5422a8061bc69ce178e6a030852aa"
+    },
+    "stormcoil_sticker_candidate_v1/run_2/data/initial.native_save.json": {
+      "bytes": 22104,
+      "sha256": "6c172eee63a116e1003a79a8799c8071a78d083859558fad8b6665c05141c06f"
+    },
+    "stormcoil_sticker_candidate_v1/run_2/data/prefix.native_save.json": {
+      "bytes": 82086,
+      "sha256": "dd34d2f8191c885d3dfd8cbf3dd00fd6886180e6a5aeebf0f8bb2ece98fe5487"
+    },
+    "stormcoil_sticker_candidate_v1/run_2/data/report.json": {
+      "bytes": 5888928,
+      "sha256": "05c03b70d83892403a7879264d5f4c494820fa845798169c33ea12e7c5b1c9a3"
+    },
+    "stormcoil_sticker_candidate_v1/run_2/data/terminal.native_save.json": {
+      "bytes": 88694,
+      "sha256": "b6aa4fd95a0d578aedd1950b9866857d94180e742fe5d3a5fe72c21429972f59"
+    },
+    "stormcoil_sticker_candidate_v1/run_2/native.log": {
+      "bytes": 1542,
+      "sha256": "71a40a49a054f4f7936362a9b109f7e8b592371fff4a6d3b6e9b7ec0faa7fe7d"
+    },
+    "stormcoil_sticker_candidate_v1/run_v2.py": {
+      "bytes": 1150,
+      "sha256": "3bead5607d6e7b26a2c7256c2bcf961fcd62e7931b103ea0fea4d8b74d630305"
+    },
+    "stormcoil_sticker_candidate_v1/validate.py": {
+      "bytes": 3618,
+      "sha256": "a05f1517f42176cdf5253f93784e46d399697b409b92c39568c173c47b38ec9d"
+    },
+    "stormcoil_sticker_candidate_v1/validate_v2.py": {
+      "bytes": 3618,
+      "sha256": "0c96166dc2b6320573c85a4d895ffe28b9c211e35b92909aaf722fc6edc2e8c6"
+    }
+  }
+}
