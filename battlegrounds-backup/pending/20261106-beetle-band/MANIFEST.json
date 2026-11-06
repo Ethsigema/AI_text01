@@ -1,0 +1,286 @@
+{
+  "status": "Independently reviewed bounded ordinary Beetle Band candidate; no full acceptance",
+  "archive": "partial3702_beetle_band_v1.tar.xz",
+  "sha256": "f874fb3488756d24050edeb9fbd2c6cb990820fe49a4baaa94793bb59e11f53c",
+  "bytes": 1255476,
+  "dependency": "Exact executed thaumaturgist candidate 3b0bf9c4e03f9d4163035800777f2997aedca3c83612386363694c2e78baf46d",
+  "parts": [
+    {
+      "name": "partial3702_beetle_band_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "131fdfb3d161ff829f4fb3e4fcacc8a7c24003993d76e7dea73cf226badcbc6f"
+    },
+    {
+      "name": "partial3702_beetle_band_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "54d46c1815f4e7bcf5f935946e502dfaea30eb3d606e09a6679794aaec994823"
+    },
+    {
+      "name": "partial3702_beetle_band_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "0b422438e089c3c332b266a823f287dd953d3904ffe0d213b5d51dd0f28f1b69"
+    },
+    {
+      "name": "partial3702_beetle_band_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "8f5342eb33018a40ac2caf19dfa736a9f207598177bdec8170766bcaff3079ca"
+    },
+    {
+      "name": "partial3702_beetle_band_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "a4b1c08a3d7396e6efed770a46cdd6266c08bcd7827a9e731670963fc368ec49"
+    },
+    {
+      "name": "partial3702_beetle_band_v1.tar.xz.part005",
+      "bytes": 5476,
+      "sha256": "b405a72261c0b6d11df25e404852369cd90cf9d840f4d6b9bc843e4b5db829b6"
+    }
+  ],
+  "files": {
+    "beetle_band_v1/ATTEMPTS.json": {
+      "bytes": 1007,
+      "sha256": "c7ce14a05b71f9715f7da485075f16b090d2ad92bb56c6d86f6e37443291e6be"
+    },
+    "beetle_band_v1/BASE_MAP.json": {
+      "bytes": 4524839,
+      "sha256": "6546595d2219832cd98711ff0185925df8a07a3bd54be7e259a1ccbc72bb2cfd"
+    },
+    "beetle_band_v1/BINDINGS.log": {
+      "bytes": 5,
+      "sha256": "e628d1e0eca4d8c7f07c8f9e7c2ff22032d7b86798856591ac4cf1074b1a306f"
+    },
+    "beetle_band_v1/EXPECTED_ROWS.json": {
+      "bytes": 8700,
+      "sha256": "5c4c1527a0d1101118ca942af6d5228713022722432c4c14270281e1a4b5e037"
+    },
+    "beetle_band_v1/RECONSTRUCT_LOG.txt": {
+      "bytes": 76,
+      "sha256": "453d9d1ad9a90268d529eab39faaa911f49e5c5f6b425e9ac66869140eacc9a2"
+    },
+    "beetle_band_v1/RESULT.md": {
+      "bytes": 3714,
+      "sha256": "c20e75e8b8d106f7246431916d5a0c87823d656ea6ff7d15aeb793e0ae426639"
+    },
+    "beetle_band_v1/RUN_1_VALIDATION.json": {
+      "bytes": 22633,
+      "sha256": "2585fa2fe772f7c73b9673506e00f99023e9ac613c548e9d2b2706ec0f3bd641"
+    },
+    "beetle_band_v1/SOURCE_AUDIT.json": {
+      "bytes": 515,
+      "sha256": "ea4085e5218d4f85af04dbb0ccfbb2f3dba1ef2b1aefb7f55e08e2b8546f1271"
+    },
+    "beetle_band_v1/SOURCE_DELTA.json": {
+      "bytes": 2187,
+      "sha256": "325b82c74afad81d199ed699ba0825c34a40ce298564d0b31553616396c7acad"
+    },
+    "beetle_band_v1/SOURCE_MAP.json": {
+      "bytes": 4525649,
+      "sha256": "150c13f8fe03b11157fca61066fcf38d5488a00ece6544ed23ec98e86a0e4ae5"
+    },
+    "beetle_band_v1/STATIC_VALIDATION.json": {
+      "bytes": 260001,
+      "sha256": "aac576be2ecb003ed6332cee1e343947495f0b2d60e2d817fb812aeb8b4bcaad"
+    },
+    "beetle_band_v1/VALIDATION.json": {
+      "bytes": 24710,
+      "sha256": "79356f4b11008ab7f19afb1be60bcd082cc35b6238f594f9b3d70a13046f4438"
+    },
+    "beetle_band_v1/build.py": {
+      "bytes": 5488,
+      "sha256": "732cf8cabede10950f5fe418c24e1253a49370649db53dc72a248f120ea9c155"
+    },
+    "beetle_band_v1/delta/core/catalog.gd": {
+      "bytes": 1781675,
+      "sha256": "1389a63cc51f1b61dfbeab13c5e0f89f4d3a3f8721d8580d05673899e0fecafc"
+    },
+    "beetle_band_v1/delta/core/owned_avenge_board_sources.gd": {
+      "bytes": 30856,
+      "sha256": "2dbad5313b3a46c34d4b2c51dd4494485756a4ed8c5c0b7d46d9a7242b42ca46"
+    },
+    "beetle_band_v1/delta/core/patch_3702_beetle_band_sources.gd": {
+      "bytes": 25957,
+      "sha256": "cdcad2c5c749bf24dd0ba3f0cdb0b03fd5cd5f1b3973d0e0dc946b8168a328c9"
+    },
+    "beetle_band_v1/delta/data/patch_3702_beetle_band_overlay.json": {
+      "bytes": 19829,
+      "sha256": "9fe71d6ab5a15bc98daea127c14b3cf9ed0a5f3b95a21e096559b1d19466a5fa"
+    },
+    "beetle_band_v1/delta/research/patch_3702_beetle_band/BG32_MagicItem_860t.native.xml": {
+      "bytes": 3333,
+      "sha256": "c81182de60751f94dcf1dbba4da26618fe759bc8b549de138eda3dfb4dfb77ab"
+    },
+    "beetle_band_v1/delta/research/patch_3702_beetle_band/official_excerpt.html": {
+      "bytes": 178,
+      "sha256": "7fb690702b8055956c778f4e6de3581310c02377bf7a3516907608cabf66077c"
+    },
+    "beetle_band_v1/delta/research/patch_3702_beetle_band/source_evidence.json": {
+      "bytes": 619,
+      "sha256": "6e2ccf1bf4fcc4a459d053858f14f935a9d17645dcb36e62f241f9aa1dadaeb6"
+    },
+    "beetle_band_v1/gate.gd": {
+      "bytes": 24465,
+      "sha256": "e272d826b5e671caa109129830c3b0022c5bf0da58c5330d14e894ec2aaa4a14"
+    },
+    "beetle_band_v1/historical_checks.snippet.gd": {
+      "bytes": 3102,
+      "sha256": "bfa290025c0606307a9a91ba7ad012607c026e9325acb2a086839554439c89f3"
+    },
+    "beetle_band_v1/map_virtual_sources.py": {
+      "bytes": 814,
+      "sha256": "b44edce7e8c7d2004b5fec77dc663b6c8c37b9df7fa4b8ce481c6e3a1bcd1fb0"
+    },
+    "beetle_band_v1/package.py": {
+      "bytes": 1338,
+      "sha256": "29b2dd655078839612fbc24245ddfa64c51b55aeac769afa41e425305aed62c7"
+    },
+    "beetle_band_v1/probe.gd": {
+      "bytes": 239,
+      "sha256": "d5e52a6bc9737ba698c6821e6d1ceb1ac31917e11406b56fc0fb11f5999b30ac"
+    },
+    "beetle_band_v1/probe.py": {
+      "bytes": 1263,
+      "sha256": "b1ff0c8230de1cea5076acb210776b7558c7650a990549fa6c705f3c51f04992"
+    },
+    "beetle_band_v1/probe_1/PROCESS.json": {
+      "bytes": 474,
+      "sha256": "963688433bf82b9785970577d0b439154f931cdc2cee45993f2a41707b143e72"
+    },
+    "beetle_band_v1/probe_1/native.log": {
+      "bytes": 99,
+      "sha256": "8d7c47c6cc344c71a0abaa76e2042763b2964c007efdebcfcfcdd05f6d52e87c"
+    },
+    "beetle_band_v1/probe_1/probe_executed.gd": {
+      "bytes": 221,
+      "sha256": "be3cc43400ba457c84b63727e3549b071beea7251eb8574fedbc75771f8f087c"
+    },
+    "beetle_band_v1/probe_2/PROCESS.json": {
+      "bytes": 474,
+      "sha256": "c625ab3b872f2e3e13f631834f2be8974546be9a99b3916ef6833fe9cacbf12e"
+    },
+    "beetle_band_v1/probe_2/native.log": {
+      "bytes": 7432,
+      "sha256": "82e6f716d11f0edeb2c88d7d70e565c72f743ae719e1a7f9f6687b8ff9132126"
+    },
+    "beetle_band_v1/probe_2/probe_executed.gd": {
+      "bytes": 239,
+      "sha256": "d5e52a6bc9737ba698c6821e6d1ceb1ac31917e11406b56fc0fb11f5999b30ac"
+    },
+    "beetle_band_v1/refresh_virtual_bindings.py": {
+      "bytes": 1157,
+      "sha256": "49959880314f73bf3f3b29c072ed39ac3ebd90f010c005733faed912104e3def"
+    },
+    "beetle_band_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "beetle_band_v1/run.py": {
+      "bytes": 1257,
+      "sha256": "3162652b4cb37587b364f8447bd635dbe507c2fe79b580ac87172b4e15f3bb80"
+    },
+    "beetle_band_v1/run_1/PROCESS.json": {
+      "bytes": 472,
+      "sha256": "a0491554d65aff9eb8a0b952688e40085b9302895fc24fb4029951bbd32c3335"
+    },
+    "beetle_band_v1/run_1/data/between.native_save.json": {
+      "bytes": 250350,
+      "sha256": "8915aa6a6d2b8fd8e9d7f6ad4985aa51c07ca23e6cbdd3f2d2e635239f713c32"
+    },
+    "beetle_band_v1/run_1/data/forged_cost.json": {
+      "bytes": 75431,
+      "sha256": "ff79f1a7a55fc9d2102cd661f4a9f10265c74baa24d2d1f46c78f662c380cf58"
+    },
+    "beetle_band_v1/run_1/data/forged_count.json": {
+      "bytes": 75431,
+      "sha256": "215782453bbe7dd63943e8a05b68af3c0f0c2d13e1941a17b04d0c335b0bad75"
+    },
+    "beetle_band_v1/run_1/data/initial.native_save.json": {
+      "bytes": 21366,
+      "sha256": "cd0653005250fa2053ba9ae0ae5eddaceaf6b9317263d330da388befcba209b7"
+    },
+    "beetle_band_v1/run_1/data/pending_offer.native_save.json": {
+      "bytes": 103687,
+      "sha256": "155c4f9d23801cd4821e50ceba8578afa7e722cec1c77abef8dfaafd2be16779"
+    },
+    "beetle_band_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 162864,
+      "sha256": "e9f803102d3e4d355a4e39afeb3268de16679b8202753d2cb20925a210185605"
+    },
+    "beetle_band_v1/run_1/data/report.json": {
+      "bytes": 12706831,
+      "sha256": "6c2f80057a16cf7dac81f1e60fa8d1c91c01441a74e350c755f3f80bb8ad5cbb"
+    },
+    "beetle_band_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 270324,
+      "sha256": "8cc39303aee0d3ab469140430b00d75ae1e767dd86de2e8326b7666489943490"
+    },
+    "beetle_band_v1/run_1/gate_executed.gd": {
+      "bytes": 21407,
+      "sha256": "f38163b48b2d9793d8dfbe54b58de496140c2f920ced69b5c52d9e063772cc00"
+    },
+    "beetle_band_v1/run_1/native.log": {
+      "bytes": 2847,
+      "sha256": "f1ffcd323a1c3ea0a7f7609e2133180b29714a0bcbd2b06ddf7ce49f74b000f9"
+    },
+    "beetle_band_v1/run_2/PROCESS.json": {
+      "bytes": 473,
+      "sha256": "a4034767bda0d34815949130200007670454fb7ad79965705c881e35067fa133"
+    },
+    "beetle_band_v1/run_2/data/between.native_save.json": {
+      "bytes": 250350,
+      "sha256": "8915aa6a6d2b8fd8e9d7f6ad4985aa51c07ca23e6cbdd3f2d2e635239f713c32"
+    },
+    "beetle_band_v1/run_2/data/forged_cost.json": {
+      "bytes": 75431,
+      "sha256": "ff79f1a7a55fc9d2102cd661f4a9f10265c74baa24d2d1f46c78f662c380cf58"
+    },
+    "beetle_band_v1/run_2/data/forged_count.json": {
+      "bytes": 75431,
+      "sha256": "215782453bbe7dd63943e8a05b68af3c0f0c2d13e1941a17b04d0c335b0bad75"
+    },
+    "beetle_band_v1/run_2/data/initial.native_save.json": {
+      "bytes": 21366,
+      "sha256": "cd0653005250fa2053ba9ae0ae5eddaceaf6b9317263d330da388befcba209b7"
+    },
+    "beetle_band_v1/run_2/data/pending_offer.native_save.json": {
+      "bytes": 103687,
+      "sha256": "155c4f9d23801cd4821e50ceba8578afa7e722cec1c77abef8dfaafd2be16779"
+    },
+    "beetle_band_v1/run_2/data/prefix.native_save.json": {
+      "bytes": 162864,
+      "sha256": "e9f803102d3e4d355a4e39afeb3268de16679b8202753d2cb20925a210185605"
+    },
+    "beetle_band_v1/run_2/data/report.json": {
+      "bytes": 12709666,
+      "sha256": "fc4b88c5448f2d9c095eb5471ef5d82609c8867f5cba33cc0a6fd6ecd8b7aecf"
+    },
+    "beetle_band_v1/run_2/data/terminal.native_save.json": {
+      "bytes": 270324,
+      "sha256": "8cc39303aee0d3ab469140430b00d75ae1e767dd86de2e8326b7666489943490"
+    },
+    "beetle_band_v1/run_2/gate_executed.gd": {
+      "bytes": 24465,
+      "sha256": "e272d826b5e671caa109129830c3b0022c5bf0da58c5330d14e894ec2aaa4a14"
+    },
+    "beetle_band_v1/run_2/native.log": {
+      "bytes": 2847,
+      "sha256": "0d3ada70631f0e5c27e3a78d5dd3d2261934762f55f80c5edcf3df4b97bfc5ba"
+    },
+    "beetle_band_v1/static_validate.py": {
+      "bytes": 2306,
+      "sha256": "acc6a0f1584eae4bf7a50ddeadb2cf598fdc7bc483a036c2d600deb7ea2afb69"
+    },
+    "beetle_band_v1/validate.py": {
+      "bytes": 4733,
+      "sha256": "f78ee2ad146148e9a5eb0e38b53b4f38f4715fd422bf2e28e6df046a08ebf829"
+    },
+    "beetle_band_v1/validate_run1.py": {
+      "bytes": 4354,
+      "sha256": "f25ca7b5ec22f4a894c0e1a096e46f37cbc7b222c0ea50109f59de226f70abdf"
+    },
+    "beetle_band_v1/PACKAGE_MANIFEST.json": {
+      "bytes": 8279,
+      "sha256": "0c8d5972061955164e47c6d81abbabc3bb156215c17b7fb485b9845d39d4fdcc"
+    }
+  },
+  "transport_encoding": "Each part is stored as part.name + .b64, standard base64 text; decode then concatenate parts in manifest order and verify SHA256 before extracting. Exact executed Thaumaturgist baseline is required; this is a delta archive, not standalone."
+}
