@@ -1,0 +1,244 @@
+{
+  "status": "Independent bounded candidate; dependency remote-download verification pending cancelled approval; full chain recoverability unconfirmed; no promotion",
+  "archive": "partial3702_jailbird_juggernaut_candidate_v1.tar.xz",
+  "sha256": "35965f1d3408565714d4e52d9868a0cc7b6bb94e29c50e8c2067d2a0b7edb744",
+  "bytes": 1250448,
+  "parts": [
+    {
+      "name": "partial3702_jailbird_juggernaut_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "a7ff927b5550d0d277239aa339ba5883ef7f23e8473ee81c1e5c0bc486654ea5"
+    },
+    {
+      "name": "partial3702_jailbird_juggernaut_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "253a0a4cb618f42ba6b8a75d1a308a36eacb83ebe1a805529d7576dbb1ce6bed"
+    },
+    {
+      "name": "partial3702_jailbird_juggernaut_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "87b89203eed7d9d98edd6f6e17605c5024db1a8213b87fc75ea6bc1de68e8ed5"
+    },
+    {
+      "name": "partial3702_jailbird_juggernaut_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "2f39dd36c38fa6dda5e019883f9e07ba446b7f9683cff231843950a895a3559c"
+    },
+    {
+      "name": "partial3702_jailbird_juggernaut_candidate_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "4a98a82c0a58aa26119f5dc19d0a21b8ad9c8ca8ac6fb75f3804e0f86be6c19e"
+    },
+    {
+      "name": "partial3702_jailbird_juggernaut_candidate_v1.tar.xz.part005",
+      "bytes": 448,
+      "sha256": "28f04b8fb665474cbd80757e93c491bb09b92c905ea7988f59e77e9ba9297d36"
+    }
+  ],
+  "files": {
+    "jailbird_juggernaut_candidate_v1/BASE_MAP.json": {
+      "bytes": 4512161,
+      "sha256": "5294b92bad3877aec191752683abf3a3e7247823c17c5b4b3a1ad32b357826ff"
+    },
+    "jailbird_juggernaut_candidate_v1/CHECK_CORE.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "jailbird_juggernaut_candidate_v1/CHECK_ONLY.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "jailbird_juggernaut_candidate_v1/EXPECTED_ROWS.json": {
+      "bytes": 15550,
+      "sha256": "92df3a1b6bf4c54daa68f9eaab634b7b19479a07ca54adf75de6a2f806dcbd1a"
+    },
+    "jailbird_juggernaut_candidate_v1/GATE_NOTES.md": {
+      "bytes": 5538,
+      "sha256": "3d9c151e25924fe14b590a608126ee260fc5f80e13403d4ff18959c42f3df98d"
+    },
+    "jailbird_juggernaut_candidate_v1/OFFLINE_PREFLIGHT.json": {
+      "bytes": 668,
+      "sha256": "a96f63b8666d76f1edbdd1e18da0fce3142fd1e50ed38e2ed7ab835dbfa2fd24"
+    },
+    "jailbird_juggernaut_candidate_v1/PROGRESS.md": {
+      "bytes": 1653,
+      "sha256": "a39cac2c89ee9b1470c2c7a1a97c726c6a664ef5a21965d4c3bf08d9aa58dd0b"
+    },
+    "jailbird_juggernaut_candidate_v1/README.md": {
+      "bytes": 1653,
+      "sha256": "a39cac2c89ee9b1470c2c7a1a97c726c6a664ef5a21965d4c3bf08d9aa58dd0b"
+    },
+    "jailbird_juggernaut_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 7201,
+      "sha256": "2d04bddaed4a67e4a09960e72a8503adc826c2157daecafe3e92ce2ba0c18c0f"
+    },
+    "jailbird_juggernaut_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 5049,
+      "sha256": "4c943cb3c48fb284ddcffa1e1a8d3abd395dd9fb404af03fdc7be976a88d7de7"
+    },
+    "jailbird_juggernaut_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4514153,
+      "sha256": "158a2fa85c9311c2ce4f2a92411463745d6ce7f61724defaa70992804a4b0c52"
+    },
+    "jailbird_juggernaut_candidate_v1/STATIC_DOMAIN_CHECK.json": {
+      "bytes": 488,
+      "sha256": "ef52af0fa2b7dbf79fe473039b1a00df4529ff123f51935d3c33c22b8bd15b48"
+    },
+    "jailbird_juggernaut_candidate_v1/build.py": {
+      "bytes": 5839,
+      "sha256": "a7eddd6269a2e9438fdf4bc5c9bb966809fc7415b87757b1d62d366373388648"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1761707,
+      "sha256": "6f8357ac50feb4fb6d466b2eca59bba80567a8604f92d015d0df35b8c8038a8f"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/core/combat.gd": {
+      "bytes": 564560,
+      "sha256": "0e0fd2ab1314ad08041f87bb94827b62ad72484b2d1d1a07fff43b7bc01503c5"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/core/current_tier7_domain.gd": {
+      "bytes": 9685,
+      "sha256": "3d84ecd2b5c75f5e57fd6a689130160ab09b56c2566c4491c8880f2aa126649c"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/core/jailbird_juggernaut_host.gd": {
+      "bytes": 5307,
+      "sha256": "851d83fa1cd38771d88e511633cca858aeec73c3873c9e9cc95cc46c845e9110"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/core/jailbird_juggernaut_sources.gd": {
+      "bytes": 5553,
+      "sha256": "acc73d17186ae2b0922857a6030cad5dd4302b06e329fbacd74c6fe63c1c8c5f"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "7398931b53fef4182f50ad8f9e882205cc035b7a785f6378939ce7351d8504c5"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "398de25d55798b3b25c9865d2d1cde7122dd5347e7aa68df7266d50f1a841b94"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "20576e665169bb1ebc893b478fd87446994a4a314588c29e785d5c39af49bc51"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "25ea2fe99f1afd213c5c1c99db335485d6773f7c6f0a1be110aa1bcc2642bec8"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "b69571787bca0405d5bbe4b5333af990e205c15d81b12867d0812bf34de92e09"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/data/patch_3702_jailbird_juggernaut_golden_overlay.json": {
+      "bytes": 17059,
+      "sha256": "12d5f05fe0ded6d5ffee22329ea8c370f78bebcedec9603a5c95181996c2aff4"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/data/patch_3702_jailbird_juggernaut_overlay.json": {
+      "bytes": 16940,
+      "sha256": "a3b44c3e97d86f7f5b89dc0a43a05befbb39226feefb91ebbaa5be551ed6838a"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/research/current_tier7_domain/source_contract.json": {
+      "bytes": 249696,
+      "sha256": "4a739e3576d59fb7531e5f7cb1a58d99901c5f3d328176539a4a0283373eef1b"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/research/patch_3702_jailbird_juggernaut/BG36_333.native.xml": {
+      "bytes": 3673,
+      "sha256": "b454c7ba5882e203a395999503fa5ae690408b2fa12f9bb2b9131d1404dfa7d1"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/research/patch_3702_jailbird_juggernaut/manifest.json": {
+      "bytes": 828,
+      "sha256": "3e588adce1c85ccb97f38512ee60a20796175916bd789bfa316f9c40ad21af21"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/research/patch_3702_jailbird_juggernaut/source_evidence.json": {
+      "bytes": 437,
+      "sha256": "d0da5b8416a32db54d190f9c8c6156902c0d7c1aebb652329bb2e29b40fd6dde"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/research/patch_3702_jailbird_juggernaut_golden/BG36_333_G.native.xml": {
+      "bytes": 3660,
+      "sha256": "95b8ac4e0dc59384bb5f8f71250506a3e0882c7de90d0a504f30974d05755f8e"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/research/patch_3702_jailbird_juggernaut_golden/manifest.json": {
+      "bytes": 828,
+      "sha256": "3e588adce1c85ccb97f38512ee60a20796175916bd789bfa316f9c40ad21af21"
+    },
+    "jailbird_juggernaut_candidate_v1/delta/research/patch_3702_jailbird_juggernaut_golden/source_evidence.json": {
+      "bytes": 437,
+      "sha256": "20cdf7f063332424f31c81c531b9099ae7fe2ab07a178e772babde60d3e15a76"
+    },
+    "jailbird_juggernaut_candidate_v1/docs/INDEPENDENT_REVIEW.json": {
+      "bytes": 1048,
+      "sha256": "afef879ae5dcd38cde0d31951cd500e0a510fd1ba680543c76a5f3969c1c0393"
+    },
+    "jailbird_juggernaut_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 1500,
+      "sha256": "38c4daa66781503717d5ef396b5ba92ceeef6df5e1933c83bc74e6f8a9f926b7"
+    },
+    "jailbird_juggernaut_candidate_v1/gate.gd": {
+      "bytes": 26589,
+      "sha256": "9ecaa41fff21097e303480b79e3b1eacb3dbf79531bcad2932a6d04253bb5838"
+    },
+    "jailbird_juggernaut_candidate_v1/map_sources.py": {
+      "bytes": 656,
+      "sha256": "aa338190151e70bdf40cd2c7f7a56c537bac9da5c3b3474b258f154e4fb6330b"
+    },
+    "jailbird_juggernaut_candidate_v1/package.py": {
+      "bytes": 1642,
+      "sha256": "cd27366957bc5a2675203176d93944460f120957adeed5354a98d6365279ffc6"
+    },
+    "jailbird_juggernaut_candidate_v1/preflight.py": {
+      "bytes": 1133,
+      "sha256": "7e9e1fa32f3878209bb28dd7b8c50f260de5ca4951d1df8b5265c3bb6d647597"
+    },
+    "jailbird_juggernaut_candidate_v1/prepare.py": {
+      "bytes": 325,
+      "sha256": "e4b49234475f18c3545ca745307bd2f4d28f761c5c3b33883cb5830b98e8a4ee"
+    },
+    "jailbird_juggernaut_candidate_v1/refresh_bindings.py": {
+      "bytes": 1006,
+      "sha256": "457e362f32aa8f9e9d4b03543bd94a9f799b629f39e8e0b34ee93eaf0e1f72d2"
+    },
+    "jailbird_juggernaut_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "jailbird_juggernaut_candidate_v1/run.py": {
+      "bytes": 1127,
+      "sha256": "870bf214e24b2485aac6fa4b83e8ebcf8112f2f3ec5715740482a5a82fb08b81"
+    },
+    "jailbird_juggernaut_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 488,
+      "sha256": "0d1100c7f1b9c7358485f09a7a24b52edf31a3f23c12c547f947cf9f24d28f11"
+    },
+    "jailbird_juggernaut_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 652,
+      "sha256": "b298d5fd5e2ca73f54b3ed7d8eca75450e723ff9409a1c21d051c9856d30b166"
+    },
+    "jailbird_juggernaut_candidate_v1/run_1/data/golden_before_sale.native_save.json": {
+      "bytes": 73319,
+      "sha256": "707eb52b330507e4ff2b760cb5d918dbd5e226820f131732ca6889f0a35de063"
+    },
+    "jailbird_juggernaut_candidate_v1/run_1/data/initial.native_save.json": {
+      "bytes": 18008,
+      "sha256": "464bf3fcc43562b183ab06a094946e8c045e350f4459837c02cb0c999dcbf100"
+    },
+    "jailbird_juggernaut_candidate_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 98968,
+      "sha256": "994d467f50f971b70f48a670105aff9f5770f460fe6362b3625c7aff39102403"
+    },
+    "jailbird_juggernaut_candidate_v1/run_1/data/report.json": {
+      "bytes": 5629480,
+      "sha256": "eebd1ddd798ee03f27eb7c49f0c8e361c914107f4a5513bedde9bab771183086"
+    },
+    "jailbird_juggernaut_candidate_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 108599,
+      "sha256": "5504dd205da49d9792b9baf5038fdab30d30bcf721347cd976349c762890a791"
+    },
+    "jailbird_juggernaut_candidate_v1/run_1/native.log": {
+      "bytes": 1791,
+      "sha256": "2aaa2fd65fb3f57aeb313fa7abe5c1e6a03cab5aaa7065bc057ca4b101cda1e7"
+    },
+    "jailbird_juggernaut_candidate_v1/validate.py": {
+      "bytes": 3007,
+      "sha256": "f1cf8754507df10edc5a83b00e61fd685f02d88c24bfbaa64c0d67a17d974490"
+    }
+  }
+}
