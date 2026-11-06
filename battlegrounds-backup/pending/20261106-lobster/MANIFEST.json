@@ -1,0 +1,629 @@
+{
+  "status": "Independent bounded candidate; remote-download verification paused after cancelled approval; full chain recoverability unconfirmed; no promotion",
+  "archive": "partial3702_lobster_candidate_v1.tar.xz",
+  "sha256": "f5400c097df9a466791a4bf7139675603ce9ef9d82ee951e4bdd6d6985adc847",
+  "bytes": 3632856,
+  "parts": [
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "47b4fcaf2a024f2d6597e868078c95adbde60993dafe8ee95484f5e511f31c70"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "a2a8e281163c9766d132c9315fac9e2da9552a7d3d99c6e8f27880bcd09fb5aa"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "4581da004db5aab0984e54099a770b12201548ff93689ba6c5ffa09ee8685a2d"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "c7876015073a2a8f82f787258980cba4e34ff2d2d62f05d060195366288af0b6"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "dd3cff7c3368247f64c97938be0775f22f91074159338fd454f61ba94410d5ea"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "de448286cf19b49b5e476ed46ca6b1eac02848b651b4f2b338a4b697a334f56b"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "201c5147497f412f664a7627b3502914fe447286eaa727ecdc4b9eaae5cebd92"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "6ef62b171e044031cc0a35d22c99573841318acabf0d71c5eeaf7566a82b7603"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "1059cad8d0b6e2e8880ad7bf52a34ef3af6669ff7e622163733e35f3ea28c5fd"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "e8e2f5bc1c19a7c026d262dcb969fbd12f0eeb457d19ce7f335b2505ac8bfb89"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "33aace8f720fc4cd81453a1a112f1ce9b89e81adfd830f111b4b7d48f9936afb"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "ce88f1a5d8ddd9101e0639e9cea68994e99eeb49f68058e3178f83e5f1fbd479"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part012",
+      "bytes": 250000,
+      "sha256": "98d05da2ea5e788074cbbbff38610dfc88b3d17ff7d964286f34b87cbece9a55"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part013",
+      "bytes": 250000,
+      "sha256": "b158865256f9dded8921895a3d03337d3fac8663ab8f5646a65518da3cfd31bc"
+    },
+    {
+      "name": "partial3702_lobster_candidate_v1.tar.xz.part014",
+      "bytes": 132856,
+      "sha256": "2bfc9d4d388e635d5fb00aa0d0547158d77fddcf83a1175abd057e4e7b60458f"
+    }
+  ],
+  "files": {
+    "lobster_candidate_v1/BASE_MAP.json": {
+      "bytes": 4518243,
+      "sha256": "e0a377c32ddf657a62f711cc993a5d4b93fe0c319196d1417fe55b28319b9fd3"
+    },
+    "lobster_candidate_v1/CHECK_CORE_initial.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "lobster_candidate_v1/CHECK_GATE.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "lobster_candidate_v1/CHECK_GATE_run2.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "lobster_candidate_v1/EXPECTED_ROWS.json": {
+      "bytes": 15899,
+      "sha256": "8530d4321afde6f66db0b1bfa7c4c8986fef461e4cdc4d529b0db5447478eca6"
+    },
+    "lobster_candidate_v1/GATE_NOTES.md": {
+      "bytes": 10515,
+      "sha256": "cf70854876a954949f82da56fec9fc72abb51c0f336b38ec2a8f6a473daacffe"
+    },
+    "lobster_candidate_v1/NATIVE_FACTS.json": {
+      "bytes": 1720,
+      "sha256": "acd8949097d93f2cb97a75100775c9c324806394da7b33130e581ff343e8eba8"
+    },
+    "lobster_candidate_v1/OFFLINE_PREFLIGHT.json": {
+      "bytes": 2160,
+      "sha256": "3cffce7e35f603df0a583c023b1eb6cbd2fe8222218db7e10ed8790993ed1caa"
+    },
+    "lobster_candidate_v1/PROGRESS.md": {
+      "bytes": 1441,
+      "sha256": "57430db080a4f5ea02ed49199b61f11600a12881f4613b82d0e44f7fafb402db"
+    },
+    "lobster_candidate_v1/README.md": {
+      "bytes": 995,
+      "sha256": "fde5952c2342104ce5a925acf4bbe69ed976d6d8d12518a10a25eae0f29aa614"
+    },
+    "lobster_candidate_v1/REFRESH_run2.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "lobster_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 20981,
+      "sha256": "a10af5c1ccaaa453848606349c00d286ac238f4d676c5b9f6a12885c15abb3a2"
+    },
+    "lobster_candidate_v1/SIMULATOR_MANIFEST.json": {
+      "bytes": 620,
+      "sha256": "20cdbb7d4aa53b3762f1343232c05f5c222d86c0abdfb7e9917f027fb18371e2"
+    },
+    "lobster_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 13661,
+      "sha256": "5279527132a2c8bfe5642ef3adee27e42320c3fcfc2a4dc932868643d21b0303"
+    },
+    "lobster_candidate_v1/SOURCE_EVIDENCE.md": {
+      "bytes": 1790,
+      "sha256": "9f1c5fdb7e754e10ebff28ebed20cb62ba106e039ab48f64e2270d64d0bea42d"
+    },
+    "lobster_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4520249,
+      "sha256": "eb775845d65057e3cf7aaaed5ff7d03c8b54675ae9e7bc80eea1276b12338ca5"
+    },
+    "lobster_candidate_v1/build.py": {
+      "bytes": 5320,
+      "sha256": "731cbf3093e4cfce0c07e4807bc12cc907a307a10424db557a9433dccd2857bf"
+    },
+    "lobster_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1771013,
+      "sha256": "0e38b6735dcaa2b2184c0a343cb0dedb3dfe3c17335cb1318e34b151e59a6608"
+    },
+    "lobster_candidate_v1/delta/core/combat.gd": {
+      "bytes": 571064,
+      "sha256": "edbb7cb46b799df5667c9b1ea6c09cfdeb9299888cc09f07d9e9d5f645301252"
+    },
+    "lobster_candidate_v1/delta/core/game.gd": {
+      "bytes": 1314394,
+      "sha256": "25b4025b501ff328b61303a930a648f69d85a48ae5db0cb02c0f1f1181097375"
+    },
+    "lobster_candidate_v1/delta/core/lobster_history.gd": {
+      "bytes": 14386,
+      "sha256": "71fe7cbbcc661f7bd3a1ed8858abf4014247dbecfab5759f7ee532a7e4bfb859"
+    },
+    "lobster_candidate_v1/delta/core/lobster_host.gd": {
+      "bytes": 15868,
+      "sha256": "3f828a36f4adae9a2fe84a9a8cce52fda8a7597263453ca4523a0e0d82b89d11"
+    },
+    "lobster_candidate_v1/delta/core/lobster_sources.gd": {
+      "bytes": 8758,
+      "sha256": "145c02fcf0b2a42ed2d805c272c315b4924e4ddfc0c6dacb984709da8c8e957b"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "8b119dcc568f4250c18682136f74b27f1a7f1141136b76493eec4e87b99a9848"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "e76bf4693d89d96543bee5dd62dc91283aad9c3d55b0556f84aafd9b23126504"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "3258ed808b46b0f0bb20c72367d419e6179e3644b24d3ccdee94f38ce29976be"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "d5916f944974e0f2c5728a1f61248ce31d39aec3931f378a2da1f26e771ffe8c"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "4e73fa5ff5a3c965fb4ca935e54fe87f37ce10fef78b74d5f3cbfe06ad9a5ed5"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "e21d0abc01379eee1527c66731711da81723b76ce76f1aa41bc3716989e3379a"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "defbf87e12ee188c4fc2fec4c745e5bb7c80455dc458c3849f414ebab353a9f3"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "4575541ba8caa586a4a5611142a8cff09ba1ded84b9c94f4c7db55ea2e9bf359"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "a197978d97ff50818583e1a4a2d842f4bb9b95ffe623213cb6bb3b115c1f336b"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "cd00f8376e79b27a8e472e489fa9f52a98e40582799731144f1b3adf340f3434"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "f2dcfe42204ea9018fe7978bf4c8a9a7a9ae32ece419fe54ba1abbfc5a997796"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "2f7c9964ef5207dfea2736c1d89da6ad47eeddb79886ac2ea52b250d6a6bcae5"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "40e3d1052ec93df1a91abca1730fc56c7f26a086615d712dbec0d378e69d9b37"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "69f15908714190cd7d31a9ac116e481dd4598fd73606028fc257cea23016a82c"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "2ead70cdffaaea79d8bc0eeef18ff90dd3ac7e024ca84c24b85286de9f08d0ac"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "6c5652543714620d18450107fa482052a6cf8d340e5ad8cb72fee1a58e4bb45f"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "8177a6fc783ceda79251f6cd7fb8a8bbd3f5c92709afb11afa11ba9bfbff4b34"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "96c9c1885df99aa3beb8e11e0c2d582d71ad7f44d4a2f9eb29f4493b4fd6ecb3"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "2e8438be00644b99e8c8a845e1d47ac2eca75f91d3840cd16ca7bddc862e7251"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "6db76b39b223ab37697aed66c9a9bca155b18c0b6d168271aa078b3db728b2e4"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "dfd5622b1758da7a9c035ab47e273299a5363fe3e7a292581329d0a341d2810c"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "f63ae638f9842cd7b3c824293724ef0e1f87cec1b08afadd42066c099c162932"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "e4d4b39172261b859c98b922af778d9bddb38dca2ad3be3183ba19418e4ec2ca"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "9369e2310190ea5cbfc2c55bf22e5a83bbf6607644409f7754737de417829352"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "58328e78cfa0edb118c2ecdba8536dce75bca5deecaad988fe5693a322a6c83a"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "315e97be8c24259d725fe7eae3c6fe16e575f36c97b4122b36e1d795975842fd"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "d4207ccfcdcda5d8f50d8ee6d370ecb16fd521a012d5eb6661ad25314f35fe5b"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "2c200c3067df8dfff21b620493d2e6b65a5594cb26ecb48cbee81cc5a22ced62"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "76832dc062d949ccc52da105d01975faa009efba39fd12941042c69c08f130a3"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "df8093946173f7feb0bbf38a140dea2586089a45e5553edc5750dcdc7e8aaf59"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "dcfe9e0b7056af1bd01d72049496d765361301a6dbb56fd56f6dfd5531dfc485"
+    },
+    "lobster_candidate_v1/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "07022cb8a01d5caa5eaad1fdbb640518104a2e02946653ff934e42830591d3c6"
+    },
+    "lobster_candidate_v1/delta/data/patch_3702_lobster_golden_overlay.json": {
+      "bytes": 17140,
+      "sha256": "7202820b6ce48d86b94347d1ed235e88a8c9a23434c6e5885b2521da575166e5"
+    },
+    "lobster_candidate_v1/delta/data/patch_3702_lobster_overlay.json": {
+      "bytes": 16907,
+      "sha256": "cdab76cdf3a1b221832f33e56c0ab0dc2ce93c8a709cf1c94a032dea7be47507"
+    },
+    "lobster_candidate_v1/delta/research/patch_3702_lobster/BG36_202.native.xml": {
+      "bytes": 3805,
+      "sha256": "a15c3486eb115bfd26f35f32ab3c9e60be9261694e46c7b30b1688e331e0bded"
+    },
+    "lobster_candidate_v1/delta/research/patch_3702_lobster/simulator_manifest.json": {
+      "bytes": 620,
+      "sha256": "20cdbb7d4aa53b3762f1343232c05f5c222d86c0abdfb7e9917f027fb18371e2"
+    },
+    "lobster_candidate_v1/delta/research/patch_3702_lobster/source_evidence.json": {
+      "bytes": 549,
+      "sha256": "c72ee02364af5d645f8452b06f904548e954cef607fad60f2b9e855f8facc2ee"
+    },
+    "lobster_candidate_v1/delta/research/patch_3702_lobster_golden/BG36_202_G.native.xml": {
+      "bytes": 3827,
+      "sha256": "dc402b877238988a639929eb58492dbf5805cbf2dd345648ce0fd8c190d4f601"
+    },
+    "lobster_candidate_v1/delta/research/patch_3702_lobster_golden/simulator_manifest.json": {
+      "bytes": 620,
+      "sha256": "20cdbb7d4aa53b3762f1343232c05f5c222d86c0abdfb7e9917f027fb18371e2"
+    },
+    "lobster_candidate_v1/delta/research/patch_3702_lobster_golden/source_evidence.json": {
+      "bytes": 549,
+      "sha256": "5ccb8e5724ab0b89774def57e3cdf455ac04b8a1e648c04da0adbf92826c57ca"
+    },
+    "lobster_candidate_v1/docs/INDEPENDENT_REVIEW.json": {
+      "bytes": 3425,
+      "sha256": "068524602f8ac2846fe7e6e37707c00ef482aa326e4fa81e576187d48f7520fb"
+    },
+    "lobster_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 1965,
+      "sha256": "aa39e524f0a3e64d2cbad2dc8d2e3e954fbcb0c3048e13a3199fbe4746153c2a"
+    },
+    "lobster_candidate_v1/gate.gd": {
+      "bytes": 36360,
+      "sha256": "bc2b371ecb3b1dd18eafdceb243a2a7eb30c799020039c365eb051d26ade147c"
+    },
+    "lobster_candidate_v1/map_sources.py": {
+      "bytes": 650,
+      "sha256": "dea1851dde2289610ede4158de0f62ece60e81e22a6fb40a4f708f1c4a9314d9"
+    },
+    "lobster_candidate_v1/package.py": {
+      "bytes": 1606,
+      "sha256": "7c9a72c9f7691aabd68319b0a62e888635f70bbd5ee0505d842f067900dc77dc"
+    },
+    "lobster_candidate_v1/preflight.py": {
+      "bytes": 1127,
+      "sha256": "782987d6b51fb09c0c9e1c3657a87b31bd9b9b2cbcdc2934ed33d0b7170d250e"
+    },
+    "lobster_candidate_v1/prepare.py": {
+      "bytes": 319,
+      "sha256": "a3e789f3dab7164a35917c827781a9776475faf23ae2f84ab8189d5c12671c4c"
+    },
+    "lobster_candidate_v1/refresh_bindings.py": {
+      "bytes": 1006,
+      "sha256": "457e362f32aa8f9e9d4b03543bd94a9f799b629f39e8e0b34ee93eaf0e1f72d2"
+    },
+    "lobster_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "lobster_candidate_v1/run.py": {
+      "bytes": 1127,
+      "sha256": "eeb9850b09b64989d1737136b3bfb7ffa78bea1b9f11bd6d53a2928a0b9bc092"
+    },
+    "lobster_candidate_v1/run_1/FAILURE_EXPLANATION.json": {
+      "bytes": 420,
+      "sha256": "b38a631f133090d4064b835aa03ffffb484df60994f6d58442705cc266ff5bb0"
+    },
+    "lobster_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 465,
+      "sha256": "9369322cca0826908f58fc6d812875c199153a3e6ef71d024606782ee43de9ec"
+    },
+    "lobster_candidate_v1/run_1/SOURCE_DELTA.json": {
+      "bytes": 13661,
+      "sha256": "b415f86e12fac09547b9e400fc4c98e89fef8d131e2267f9884ebba487b766b3"
+    },
+    "lobster_candidate_v1/run_1/SOURCE_MAP.json": {
+      "bytes": 4520249,
+      "sha256": "50d4ab802451df1ef49f28824cadf8b407df32ce09c39961ec7117a493397c03"
+    },
+    "lobster_candidate_v1/run_1/data/report.json": {
+      "bytes": 27132,
+      "sha256": "aa9233e04d23d4e2fa0dd6d0a52bac91f8fdfc19e4ffd75ae816af72e25450eb"
+    },
+    "lobster_candidate_v1/run_1/executed_gate.gd": {
+      "bytes": 34479,
+      "sha256": "d55fb1977bad22d1b763c1f1e7e29a05ac82b9f760ba99ba687015b8d0c874c8"
+    },
+    "lobster_candidate_v1/run_1/native.log": {
+      "bytes": 186,
+      "sha256": "b99fd817a3601569c36da64fb19e5b491ca21c0b804f8bfc8bdf99e62c7eca0c"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/catalog.gd": {
+      "bytes": 1771013,
+      "sha256": "0e38b6735dcaa2b2184c0a343cb0dedb3dfe3c17335cb1318e34b151e59a6608"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/combat.gd": {
+      "bytes": 571064,
+      "sha256": "edbb7cb46b799df5667c9b1ea6c09cfdeb9299888cc09f07d9e9d5f645301252"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/game.gd": {
+      "bytes": 1314394,
+      "sha256": "25b4025b501ff328b61303a930a648f69d85a48ae5db0cb02c0f1f1181097375"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/lobster_history.gd": {
+      "bytes": 14386,
+      "sha256": "71fe7cbbcc661f7bd3a1ed8858abf4014247dbecfab5759f7ee532a7e4bfb859"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/lobster_host.gd": {
+      "bytes": 15868,
+      "sha256": "3f828a36f4adae9a2fe84a9a8cce52fda8a7597263453ca4523a0e0d82b89d11"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/lobster_sources.gd": {
+      "bytes": 7531,
+      "sha256": "874bf2c359c0fb94a0e73302632b212947053463d7629fb1ed8c0832c9da8311"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "8b119dcc568f4250c18682136f74b27f1a7f1141136b76493eec4e87b99a9848"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "e76bf4693d89d96543bee5dd62dc91283aad9c3d55b0556f84aafd9b23126504"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "3258ed808b46b0f0bb20c72367d419e6179e3644b24d3ccdee94f38ce29976be"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "d5916f944974e0f2c5728a1f61248ce31d39aec3931f378a2da1f26e771ffe8c"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "4e73fa5ff5a3c965fb4ca935e54fe87f37ce10fef78b74d5f3cbfe06ad9a5ed5"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "e21d0abc01379eee1527c66731711da81723b76ce76f1aa41bc3716989e3379a"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "defbf87e12ee188c4fc2fec4c745e5bb7c80455dc458c3849f414ebab353a9f3"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "4575541ba8caa586a4a5611142a8cff09ba1ded84b9c94f4c7db55ea2e9bf359"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "a197978d97ff50818583e1a4a2d842f4bb9b95ffe623213cb6bb3b115c1f336b"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "cd00f8376e79b27a8e472e489fa9f52a98e40582799731144f1b3adf340f3434"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "f2dcfe42204ea9018fe7978bf4c8a9a7a9ae32ece419fe54ba1abbfc5a997796"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "2f7c9964ef5207dfea2736c1d89da6ad47eeddb79886ac2ea52b250d6a6bcae5"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "40e3d1052ec93df1a91abca1730fc56c7f26a086615d712dbec0d378e69d9b37"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "69f15908714190cd7d31a9ac116e481dd4598fd73606028fc257cea23016a82c"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "2ead70cdffaaea79d8bc0eeef18ff90dd3ac7e024ca84c24b85286de9f08d0ac"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23382,
+      "sha256": "d810467e75ee41bd7a218faa5fa5aedd4a56f77d276da0fad59d91ce3e8438a3"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22808,
+      "sha256": "13639d636f92f5ab9a5a88653147bcebe84070faa0ffa76af89b21fc30c54ea0"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "96c9c1885df99aa3beb8e11e0c2d582d71ad7f44d4a2f9eb29f4493b4fd6ecb3"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "2e8438be00644b99e8c8a845e1d47ac2eca75f91d3840cd16ca7bddc862e7251"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "6db76b39b223ab37697aed66c9a9bca155b18c0b6d168271aa078b3db728b2e4"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "dfd5622b1758da7a9c035ab47e273299a5363fe3e7a292581329d0a341d2810c"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "f63ae638f9842cd7b3c824293724ef0e1f87cec1b08afadd42066c099c162932"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "e4d4b39172261b859c98b922af778d9bddb38dca2ad3be3183ba19418e4ec2ca"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "9369e2310190ea5cbfc2c55bf22e5a83bbf6607644409f7754737de417829352"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "58328e78cfa0edb118c2ecdba8536dce75bca5deecaad988fe5693a322a6c83a"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "315e97be8c24259d725fe7eae3c6fe16e575f36c97b4122b36e1d795975842fd"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "d4207ccfcdcda5d8f50d8ee6d370ecb16fd521a012d5eb6661ad25314f35fe5b"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "2c200c3067df8dfff21b620493d2e6b65a5594cb26ecb48cbee81cc5a22ced62"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "76832dc062d949ccc52da105d01975faa009efba39fd12941042c69c08f130a3"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "df8093946173f7feb0bbf38a140dea2586089a45e5553edc5750dcdc7e8aaf59"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "dcfe9e0b7056af1bd01d72049496d765361301a6dbb56fd56f6dfd5531dfc485"
+    },
+    "lobster_candidate_v1/run_1/source_delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "07022cb8a01d5caa5eaad1fdbb640518104a2e02946653ff934e42830591d3c6"
+    },
+    "lobster_candidate_v1/run_1/source_delta/data/patch_3702_lobster_golden_overlay.json": {
+      "bytes": 17113,
+      "sha256": "a40b5d61f6145f38da3932ad3c8c58c403f986dde8098a45bd1c2034c176118c"
+    },
+    "lobster_candidate_v1/run_1/source_delta/data/patch_3702_lobster_overlay.json": {
+      "bytes": 16880,
+      "sha256": "c445afe331251594d7200d12272fe92f32b4c4fc9e289c8cb0530e22f2d5447f"
+    },
+    "lobster_candidate_v1/run_1/source_delta/research/patch_3702_lobster/BG36_202.native.xml": {
+      "bytes": 3805,
+      "sha256": "a15c3486eb115bfd26f35f32ab3c9e60be9261694e46c7b30b1688e331e0bded"
+    },
+    "lobster_candidate_v1/run_1/source_delta/research/patch_3702_lobster/simulator_manifest.json": {
+      "bytes": 620,
+      "sha256": "20cdbb7d4aa53b3762f1343232c05f5c222d86c0abdfb7e9917f027fb18371e2"
+    },
+    "lobster_candidate_v1/run_1/source_delta/research/patch_3702_lobster/source_evidence.json": {
+      "bytes": 549,
+      "sha256": "c72ee02364af5d645f8452b06f904548e954cef607fad60f2b9e855f8facc2ee"
+    },
+    "lobster_candidate_v1/run_1/source_delta/research/patch_3702_lobster_golden/BG36_202_G.native.xml": {
+      "bytes": 3827,
+      "sha256": "dc402b877238988a639929eb58492dbf5805cbf2dd345648ce0fd8c190d4f601"
+    },
+    "lobster_candidate_v1/run_1/source_delta/research/patch_3702_lobster_golden/simulator_manifest.json": {
+      "bytes": 620,
+      "sha256": "20cdbb7d4aa53b3762f1343232c05f5c222d86c0abdfb7e9917f027fb18371e2"
+    },
+    "lobster_candidate_v1/run_1/source_delta/research/patch_3702_lobster_golden/source_evidence.json": {
+      "bytes": 549,
+      "sha256": "5ccb8e5724ab0b89774def57e3cdf455ac04b8a1e648c04da0adbf92826c57ca"
+    },
+    "lobster_candidate_v1/run_2/PROCESS.json": {
+      "bytes": 464,
+      "sha256": "fdc7bd26ecd9a550d3dc16c7bf1c294c9d1b62b692a741910bf5b63592ed5868"
+    },
+    "lobster_candidate_v1/run_2/VALIDATION.json": {
+      "bytes": 908,
+      "sha256": "c17a0ea9b8f337ee6595e61679e23917a1492d58520cf63ca8fd9d843e676627"
+    },
+    "lobster_candidate_v1/run_2/data/between_battles.native_save.json": {
+      "bytes": 718496,
+      "sha256": "1f052a39b12fd7bea4734ebe0f7d6254a8540550f28dc4085a579ef81fdcb07e"
+    },
+    "lobster_candidate_v1/run_2/data/initial.native_save.json": {
+      "bytes": 19551,
+      "sha256": "4621d5d45b65364ece2c8fc70a656bada2ea58a9903c8046c496c51327202170"
+    },
+    "lobster_candidate_v1/run_2/data/prefix.native_save.json": {
+      "bytes": 84659,
+      "sha256": "e5892480d72ec8f4de49157b8d74a64e0a2af5038b4c46028f2efda1b2af42fc"
+    },
+    "lobster_candidate_v1/run_2/data/report.json": {
+      "bytes": 28579038,
+      "sha256": "b2bb7146de89d187ff73b9adb3cc582e652a6093d15a89fdace7ddb6b4bf1d4d"
+    },
+    "lobster_candidate_v1/run_2/data/tampered_first_battle.json": {
+      "bytes": 690047,
+      "sha256": "377091a4534163908e6efe6098766ed8a33e13fa0f5b2e7920851ef1d120587d"
+    },
+    "lobster_candidate_v1/run_2/data/terminal.native_save.json": {
+      "bytes": 1331102,
+      "sha256": "24de4667a25b871a4a510fa531d96de9b6adf00e2f34d3fcd5d984f76ac741e0"
+    },
+    "lobster_candidate_v1/run_2/native.log": {
+      "bytes": 1401,
+      "sha256": "acf927c4b886641317bdb351b802858c71acf9e2257d998fa8837bec78b25eaf"
+    },
+    "lobster_candidate_v1/validate.py": {
+      "bytes": 2619,
+      "sha256": "006493804e303f8b1c8049e7d981bc9200e93e4dda27f33f706c11c9dd8214f5"
+    }
+  }
+}
