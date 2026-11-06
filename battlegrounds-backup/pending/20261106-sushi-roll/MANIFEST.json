@@ -1,0 +1,1536 @@
+{
+  "status": "Independently reviewed bounded ordinary Sushi Roll candidate; limited 20-card subpool; complex combinations not verified; no full acceptance",
+  "archive": "partial3702_sushi_roll_v1.tar.xz",
+  "sha256": "005b57bf0d668c3da6b870882f2b5a38a29cec572a1c9789e5623886b83568b2",
+  "bytes": 7800328,
+  "dependency": "Exact vibrant_bubble candidate a231249f3f609733879cc2f83c9e69b312f67a67aae9f1e06ffb5099a3e6eb7f",
+  "transport_encoding": "Each part stored as name + .b64. Decode standard base64 then concatenate manifest order; verify SHA256 before extracting delta onto exact vibrant bubble baseline. Not standalone.",
+  "parts": [
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "e989d9da61c8113fc85089304932429f2c845f4ef0ef886b0f6161ad6343c5e1"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "c009412faf7dbe119f42b479761b2c442cd5025658e116e41975617933b97012"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "51f5623969c5aa048c4029c3b9a9e43a8726a132c925a327ead73647418b2d00"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "ae5959c44ca842471f08ca620ffca4f69f4fc16f4d985f05d39c9af9b65e0a69"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "ff16418b0e729ab75a0e01634a0b7cff8ef07e3352b1bb31b236f74254016270"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "c7c5587a3b76951eaba4030ff385d1089425d146f4a014aa5cf9bfe3145e942d"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "aba09004702a21f23fa6abc6ba8efc08fda8e86be3b4ad0b795e78640956ed3e"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "b7949a39166cc2e3d636d9845962a36e72d254d9ec4af31548606097beefc55b"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "72757c751c3bc20bc4ee7d509791e403377636842381775b6d9bb208397b9c1f"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "8ac4ba876a8578aeed755308b8cff1cd81539302d4420a33f29bf2fa0ed64365"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "58612e3be6fbfeb38ecba70b93ac24a2286f73ee097c01a72accaf996f0d0155"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "90deab124499aac46a8487ea0d98b9d9e94456a867461c5cb93046347b1ede96"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part012",
+      "bytes": 250000,
+      "sha256": "3dca0382edbff592443ea495885f8f59e036da4c03bdb14c2922a1bda6f969d1"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part013",
+      "bytes": 250000,
+      "sha256": "7cbfa3fa4d2d3281a1b8f6c96aab2b8dc00bb7d34cb4e61599d803bd6961d92c"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part014",
+      "bytes": 250000,
+      "sha256": "6c40d26eb7761974316f0c981c02f09c38e85b9fb35ddfcf52b254d99e2ae312"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part015",
+      "bytes": 250000,
+      "sha256": "3d823ecfd265c0483704ecec941090d48cf5197a6737a470f3fac755f9934911"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part016",
+      "bytes": 250000,
+      "sha256": "6caaec552c3364ccd315d5c7dc1f1ae2856b9b78ef6d53355b72c5d6f4ca52e9"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part017",
+      "bytes": 250000,
+      "sha256": "f73a72ea5a9bb80fa17919fd89e90b31e6dba42d3e9cfe6b5b54882c01412bbf"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part018",
+      "bytes": 250000,
+      "sha256": "1ba55b7ade21dd3eeb051e1c8bac6887633761ffc866c07cf108237c80de902a"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part019",
+      "bytes": 250000,
+      "sha256": "4c113c43ff1fb09e4d2a434c63070585833f1192a4c4ab9fe5a7027f5dbf817d"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part020",
+      "bytes": 250000,
+      "sha256": "5c031ac7bc1987adc741f1ca281928db6a33081477b31ef2562bea3045e62a94"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part021",
+      "bytes": 250000,
+      "sha256": "2fc27c6f12f5bddc664263dda902dbff2712331397bb403ac9dc7f83a1759f6e"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part022",
+      "bytes": 250000,
+      "sha256": "27045972dc6fd0d46acc72ba5054a400085a4d1d7aae6be9df87a36e9eea1395"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part023",
+      "bytes": 250000,
+      "sha256": "38ca6026aea2f2926697c1368ad99b86c8a4cf07f6af960965f9fba01b046149"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part024",
+      "bytes": 250000,
+      "sha256": "b83fafad86babba8cf96bae45987333c665c271c47de9b7fb4ccde0e24f0ac54"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part025",
+      "bytes": 250000,
+      "sha256": "bc57f98e5a44e93e4b45482a637335f9dc2f2cddda94288374db829eeff0116c"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part026",
+      "bytes": 250000,
+      "sha256": "d8dc7861bcadc325fbc56255f30081f53e892af71b380134d3a3bc9bcb931561"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part027",
+      "bytes": 250000,
+      "sha256": "e4f69b4e585a220f297bf7479dc717a69230fd607fea365f56b89509838996e2"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part028",
+      "bytes": 250000,
+      "sha256": "b4d93462d456e644b4cfc91191634d9c05143ab7cca3d0ef09c02b6baf52a551"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part029",
+      "bytes": 250000,
+      "sha256": "1289a1719b18d849fe712b9ec9efe5f1d1f79dd0ad95f4da36b0e8b74b9c77e4"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part030",
+      "bytes": 250000,
+      "sha256": "78ee3235f7f4e6d76117f024f5e6df455b698ef2e1ff33194af0aa03a2133ede"
+    },
+    {
+      "name": "partial3702_sushi_roll_v1.tar.xz.part031",
+      "bytes": 50328,
+      "sha256": "85df531356b3491686c77f282afb3ed8f4a87e89b44e184a0fceceb5a2a5e583"
+    }
+  ],
+  "files": {
+    "sushi_roll_v1/ATTEMPTS.json": {
+      "bytes": 2631,
+      "sha256": "9a1ad000793ab1084f9c88a5a7f212f88b0bd20f4c36536d7f9c9e5009033938"
+    },
+    "sushi_roll_v1/BASE_MAP.json": {
+      "bytes": 4529639,
+      "sha256": "2502b8b9a60d66c404f80aab91fc05536f74b7dd036a31a58087043b0dd2b895"
+    },
+    "sushi_roll_v1/BINDINGS.log": {
+      "bytes": 1918,
+      "sha256": "e37e3e9eda3bfc88d5164949385a5d20ec6d7df442f92328c1320d8b10d10f7a"
+    },
+    "sushi_roll_v1/BINDINGS_2.log": {
+      "bytes": 5,
+      "sha256": "e628d1e0eca4d8c7f07c8f9e7c2ff22032d7b86798856591ac4cf1074b1a306f"
+    },
+    "sushi_roll_v1/BINDINGS_3.log": {
+      "bytes": 5,
+      "sha256": "e628d1e0eca4d8c7f07c8f9e7c2ff22032d7b86798856591ac4cf1074b1a306f"
+    },
+    "sushi_roll_v1/BINDINGS_4.log": {
+      "bytes": 5,
+      "sha256": "e628d1e0eca4d8c7f07c8f9e7c2ff22032d7b86798856591ac4cf1074b1a306f"
+    },
+    "sushi_roll_v1/BINDINGS_5.log": {
+      "bytes": 79,
+      "sha256": "0f0c8b6d2b3af7e39c30383f803f3f6e0872dfbd8becd2c2336a4baec67936af"
+    },
+    "sushi_roll_v1/BINDINGS_6.log": {
+      "bytes": 79,
+      "sha256": "0f0c8b6d2b3af7e39c30383f803f3f6e0872dfbd8becd2c2336a4baec67936af"
+    },
+    "sushi_roll_v1/BINDINGS_7.log": {
+      "bytes": 5,
+      "sha256": "e628d1e0eca4d8c7f07c8f9e7c2ff22032d7b86798856591ac4cf1074b1a306f"
+    },
+    "sushi_roll_v1/DESIGN.md": {
+      "bytes": 4665,
+      "sha256": "a8fb966287604570d72994be4c8f0d2d4a32c9597200a182ebad18bd3188749b"
+    },
+    "sushi_roll_v1/EXPECTED_ROWS.json": {
+      "bytes": 9012,
+      "sha256": "2b4800059ffd1f82430843a27e3d615d865fd8fc986e1867a6ee7346b2a438b7"
+    },
+    "sushi_roll_v1/RESULT.md": {
+      "bytes": 3240,
+      "sha256": "2a2ac8aeae2a3f7e6ec645d4cf635eb928bfa5aa838dd8b81908ec735a8c6b4c"
+    },
+    "sushi_roll_v1/SOURCE_DELTA.json": {
+      "bytes": 16457,
+      "sha256": "09e58b725d0d741a621bdf1fe6515388c705ec6d1a733860baf012c9811f6233"
+    },
+    "sushi_roll_v1/SOURCE_MAP.json": {
+      "bytes": 4530728,
+      "sha256": "0878729d0761d0dd97181ae008ff9a1fd402ce3345fd0707e967f148f0943b8d"
+    },
+    "sushi_roll_v1/STATIC_REVIEW.json": {
+      "bytes": 1739,
+      "sha256": "2c683de220299482f71143046694e0ed77122e10fe698088bbc5f80ffbc5a762"
+    },
+    "sushi_roll_v1/VALIDATION.json": {
+      "bytes": 15595,
+      "sha256": "6593b7747e9cc03108b738a77d625fc4c8cc2d363ebe8c4cc56f8924a9ae89f4"
+    },
+    "sushi_roll_v1/align_special_candidate_text.py": {
+      "bytes": 829,
+      "sha256": "32ecfc897727d84e1b813169cc8f0908b2e890b5e6ce6ef26643ca97de727843"
+    },
+    "sushi_roll_v1/bind_native_listener_stock.py": {
+      "bytes": 1714,
+      "sha256": "e2fb4071d8e54f8e461fb91b30003712d4c28d4ba90c76418428a9ff7148ce22"
+    },
+    "sushi_roll_v1/build.py": {
+      "bytes": 12765,
+      "sha256": "785c668ff44985902965a65b33b8bd061059c523e0953acc409f18f1777033ed"
+    },
+    "sushi_roll_v1/delta/core/catalog.gd": {
+      "bytes": 1788466,
+      "sha256": "48bab2b38f57683b5b8311a9a69a81f9d0c186012575f90d64c3b49bc45f72a0"
+    },
+    "sushi_roll_v1/delta/core/game.gd": {
+      "bytes": 1319317,
+      "sha256": "836b1a5674bea32fd8ab49e266efd8f976e9f5cf84f2e621adeb90d15988f1c0"
+    },
+    "sushi_roll_v1/delta/core/mechanism_effects.gd": {
+      "bytes": 208321,
+      "sha256": "be70fdaa4cc91099c320c15d10b2171d7ade7c60a0293a372fc498b366a361d9"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "c4ec6a9dd17ffaeff04a5540df2ba3bfa4323e549c808b7d331e5db0e96be7df"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "b65325cceb0d6e2065f66ef0f20643a39ddb6f0c9be5b62b7a825c58abb352f5"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "e04886ce28d2dcfbefeb13dca9a38306141b329cafd237d3131d702a8e08976c"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "c252e95acb0f75b7729d673e85b54f66fc80977f97dd47271b0fff5c93df57ca"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "b8a6484626640bb9c3346f207d6200f226c8e9f1223c4293dc26baaafbfec9dc"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "2b5282b12dfe04c8956dc9a3337111bf80cad973c8d5f7bb05140fec39e9ef83"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "3bfb2baa3005c1bc5bfd4d7700bf44c76e16365f025eff896213a7c5ce348383"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "b143fa81988e421d15ff01379be1bbe89d377cdf963f43694aab4f6b40a69742"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "4406afb66d3b193054bc7686962f3f068e2654372a4be54f11ff13054820cc78"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "1d2de187c6dce5a416c48450e88f3a92c653eb52b44fa252f372e03dae72e386"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "c69ba5e8e0d7335aba0d78956991f98a51347bfbbfbc030e3c7518ae9ea7ea56"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "ab2f43bc1c924290983832c413d9e1197af0b621a0ae69527eae46fb75d3e6d5"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "881f8818f73cbf0a693be38df76676c32a3bd37dc93d40f86af9a8b1d06030ca"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "02f73001301bce043ba51b055ccc0ffcb94b0453882142a53c279dc414151511"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "2cf4f463b32082db4de46b236ae1e04f3733036811aaf946312b237555a19b80"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "1ca03dcf4c92948c1d4ceebe306eebd4f9b1ca47171db8b4468204c7859fbfbf"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "9fa0ecceb072066969adc1821a2793aa07d5ec774fcaed049c2cc8deff40a951"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "e15aff97eb019f5e29796ea49b68b512dc6585134e3c8bbff39c8503b3f86557"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "8e107b841e2fd733212db1627aaa53ce009a99e0c69b9f81d982bbaf186aed38"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "99e43347e16b9633cc94c37383dff38e4d4c50798a2b0fb55184938bfd89142e"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "6c1d941ca6b41311f45411eb041f3ff945a33522e9719849247533c06b6d29d1"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "32c716740be625a15c1be717e337090ab9eb41e1f6106447d6bb3598d9725c9d"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "e63d0195ebfb20cd859f790535b51c2562ed935b1e428270390198b2f79379c1"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "220f7db0fb118a3347c4fa092927e316ebc182d4edb7a5d4b7fb8546d01047ff"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "fe3f61cad670143799e9aec87e8ad00381e7869df968e15d4835a2f33a46df24"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "3af5fba8f1c2c33a1e351809663cad14e09423e08dc0a2e6a70c1c37254f1e69"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "5f70cbcdc95797dc20d6ddcb2bb3b1bc38257e6cf82938ca96a5bab2be595b97"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "95b849ce2eb800a6b2710faec6bcb22eb7cc80f51b076acbab17cd8c9b518d50"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "82afcc4cb69b4b2efac705ef749b0d65383a2d7cc269a34de6823a9889057955"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "60635ac4c10f80e6ab6abc3fd755d2d9b8e2af5afd8e61eb2569ec9f4ba0f144"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_sushi_roll_sources.gd": {
+      "bytes": 25200,
+      "sha256": "e90e09b1846e736fb7a9ae61e0714f28c514aa235a041bfdba83a9fc0c1257d4"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "4d5c5f5da758aba09e8f74dd486b1b6069df52f9fd2f29b82cdf15b30e4b0629"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "66ca12e1472005fc1fdcb3ad0cbc3538f389585a7571f5b8580ce561d9582795"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "163b51f890bd146c7992efc3e7c7c7273c44f2c31a1d9f89ff2e2969254893f2"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "99079f1ae62ee25d1670f0a98d2bf811a883d782143387de1513694fee7b0063"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "cda70424e7653dca040716dd1bed557808b05ad608c3498b5f825c90e53a0542"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "b0073ddc3ee781682088a5a0290c6cc8f2eb00cc713ff9d09c9531e77a9a2d26"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "f7419d0a8978f3a4dbe4e9665a3c9bb785bef184a37176b91b8a0b9026417373"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "0c900ffc4314871b70a60a0a6a63a8c270385470e8a65ea0a1342c36fad391ab"
+    },
+    "sushi_roll_v1/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "def4830bebd3c53e921a2754d3b1ad1509c7dd360a42cf14c03b25cb729e2b5f"
+    },
+    "sushi_roll_v1/delta/core/random_spellcraft_sources.gd": {
+      "bytes": 22362,
+      "sha256": "2cb12f6e886bc5495966ba491ad0b651a7b8c4ae64ca8b901902c8bca130b290"
+    },
+    "sushi_roll_v1/delta/core/recruit_hand_effects.gd": {
+      "bytes": 14352,
+      "sha256": "67023dac905cc5f984364a644e66a68b4644e26a54f0cdfb0c0fecd7205d02b5"
+    },
+    "sushi_roll_v1/delta/core/spell_cast_listeners.gd": {
+      "bytes": 37341,
+      "sha256": "b6898ed3abf1f3975c969eb513ad4dede9782c6028e982f9791f389bc83a685e"
+    },
+    "sushi_roll_v1/delta/core/sushi_roll_host.gd": {
+      "bytes": 33368,
+      "sha256": "c993f1cbfa53d0c72129130f8178e6c9dde1197646f93ddd2150bf78fd320006"
+    },
+    "sushi_roll_v1/delta/core/sushi_roll_sources.gd": {
+      "bytes": 66993,
+      "sha256": "d2ea3d74eab234aebcd8c00c2ff635bf7b559a3ad011c4a5eb6daba26e21f69d"
+    },
+    "sushi_roll_v1/delta/data/patch_3702_sushi_roll_overlay.json": {
+      "bytes": 18577,
+      "sha256": "5e273af8aa8b87d7a36ec17d538bde20e4159731dd00dddbb2e7b6c69100ed61"
+    },
+    "sushi_roll_v1/delta/research/patch_3702_sushi_roll/BG28_606.native.xml": {
+      "bytes": 2646,
+      "sha256": "7dc739b50e490cf758beb07fc098d77fdd76a26912c6533f39b7ecbcfb2eaf75"
+    },
+    "sushi_roll_v1/delta/research/patch_3702_sushi_roll/BG30_MagicItem_920.native.xml": {
+      "bytes": 4636,
+      "sha256": "c59ed05c168597d1a9165ca1e98b7f4f91e2bb5ec24e0668d244b13478a96396"
+    },
+    "sushi_roll_v1/delta/research/patch_3702_sushi_roll/official_api_trinkets.json": {
+      "bytes": 217149,
+      "sha256": "4abef90cd72c7a3e7a6ca971cc4326fe8dece62da70799ac147449cd459acf16"
+    },
+    "sushi_roll_v1/finalize.py": {
+      "bytes": 1567,
+      "sha256": "5976b80f09010594e6701d49cea8703382a29edb9077413c17119dbcf6a4200e"
+    },
+    "sushi_roll_v1/gate.gd": {
+      "bytes": 21846,
+      "sha256": "8c135ac5382b98e7924a434ffd9d3b56f67fb4410c24d37e1fabe479c111d455"
+    },
+    "sushi_roll_v1/harden_history.py": {
+      "bytes": 2323,
+      "sha256": "5c2b93026691a1d1b6dcfe6b329dfb381f40667ae1772ae48f9777ed1e8fcd61"
+    },
+    "sushi_roll_v1/map_virtual_sources.py": {
+      "bytes": 815,
+      "sha256": "74751f0f917bbec19080214bb5f46a6cbf4b121798a8002316f6379213a3be16"
+    },
+    "sushi_roll_v1/rebuild_delta.sh": {
+      "bytes": 335,
+      "sha256": "1256dc9b2dc00c645006f1cb2d9d9383ddb9d33ec1adf17269bafc7cffaac3b6"
+    },
+    "sushi_roll_v1/refine.py": {
+      "bytes": 2850,
+      "sha256": "69e4f80528ac1fa8fa4c779864378ae3739ee2952a18951b04e9c30d37b6ccda"
+    },
+    "sushi_roll_v1/refresh_virtual_bindings.py": {
+      "bytes": 1158,
+      "sha256": "58cd5fdf9773a284451820dce544e2b0a65c771563f3568bef2e93c4f1369897"
+    },
+    "sushi_roll_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "sushi_roll_v1/run.py": {
+      "bytes": 1753,
+      "sha256": "c08156a89739f13d9d5fdf11f1a291a9ee064d51ea663fe4cb66bf4189d75e49"
+    },
+    "sushi_roll_v1/run_1/EXPECTED_ROWS_EXECUTED.json": {
+      "bytes": 8814,
+      "sha256": "755b0d2f067cd2a4ef93e77bc1313f8571e84408c9bb81c5f803dbb6c95e8c1d"
+    },
+    "sushi_roll_v1/run_1/LAUNCH.json": {
+      "bytes": 495,
+      "sha256": "733be76c03e313ade425ad1690df2dfef36d9f959e46cf4f5f669b1a025b7928"
+    },
+    "sushi_roll_v1/run_1/PROCESS.json": {
+      "bytes": 569,
+      "sha256": "38bc5dad6180447a7988f7f3afd0a83dfe4187ad2cc0b8de25a3394f586b5fe7"
+    },
+    "sushi_roll_v1/run_1/SOURCE_DELTA_EXECUTED.json": {
+      "bytes": 16005,
+      "sha256": "d78b45997df2ad9849cae996c2266dc790fb9c525ba06eaab9101a0823916780"
+    },
+    "sushi_roll_v1/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4530728,
+      "sha256": "4f03730b02c2f912d6843111a03572b5d50db08318a3948d3af7e81d96a6976b"
+    },
+    "sushi_roll_v1/run_1/data/report.json": {
+      "bytes": 47444,
+      "sha256": "00abef5827fef33aa1c24b16ac2d6d91388f6b908d6ab5e05094d36299e837e7"
+    },
+    "sushi_roll_v1/run_1/gate_executed.gd": {
+      "bytes": 21824,
+      "sha256": "8799ad37758e722272822c1a90bd0f94208fa31f482f1657cca239d36e55a3ce"
+    },
+    "sushi_roll_v1/run_1/native.log": {
+      "bytes": 148,
+      "sha256": "37c4f4d0e47a0add9db97b6963262f0e1f8f7faf07623e0112d98bb5f96198ce"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/catalog.gd": {
+      "bytes": 1788466,
+      "sha256": "48bab2b38f57683b5b8311a9a69a81f9d0c186012575f90d64c3b49bc45f72a0"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/game.gd": {
+      "bytes": 1319317,
+      "sha256": "836b1a5674bea32fd8ab49e266efd8f976e9f5cf84f2e621adeb90d15988f1c0"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/mechanism_effects.gd": {
+      "bytes": 208321,
+      "sha256": "be70fdaa4cc91099c320c15d10b2171d7ade7c60a0293a372fc498b366a361d9"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "c4ec6a9dd17ffaeff04a5540df2ba3bfa4323e549c808b7d331e5db0e96be7df"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "b65325cceb0d6e2065f66ef0f20643a39ddb6f0c9be5b62b7a825c58abb352f5"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "e04886ce28d2dcfbefeb13dca9a38306141b329cafd237d3131d702a8e08976c"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "c252e95acb0f75b7729d673e85b54f66fc80977f97dd47271b0fff5c93df57ca"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "b8a6484626640bb9c3346f207d6200f226c8e9f1223c4293dc26baaafbfec9dc"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "2b5282b12dfe04c8956dc9a3337111bf80cad973c8d5f7bb05140fec39e9ef83"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "3bfb2baa3005c1bc5bfd4d7700bf44c76e16365f025eff896213a7c5ce348383"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "b143fa81988e421d15ff01379be1bbe89d377cdf963f43694aab4f6b40a69742"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "4406afb66d3b193054bc7686962f3f068e2654372a4be54f11ff13054820cc78"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "1d2de187c6dce5a416c48450e88f3a92c653eb52b44fa252f372e03dae72e386"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "c69ba5e8e0d7335aba0d78956991f98a51347bfbbfbc030e3c7518ae9ea7ea56"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "ab2f43bc1c924290983832c413d9e1197af0b621a0ae69527eae46fb75d3e6d5"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "881f8818f73cbf0a693be38df76676c32a3bd37dc93d40f86af9a8b1d06030ca"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "02f73001301bce043ba51b055ccc0ffcb94b0453882142a53c279dc414151511"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "2cf4f463b32082db4de46b236ae1e04f3733036811aaf946312b237555a19b80"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "1ca03dcf4c92948c1d4ceebe306eebd4f9b1ca47171db8b4468204c7859fbfbf"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "9fa0ecceb072066969adc1821a2793aa07d5ec774fcaed049c2cc8deff40a951"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "e15aff97eb019f5e29796ea49b68b512dc6585134e3c8bbff39c8503b3f86557"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "8e107b841e2fd733212db1627aaa53ce009a99e0c69b9f81d982bbaf186aed38"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "99e43347e16b9633cc94c37383dff38e4d4c50798a2b0fb55184938bfd89142e"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "6c1d941ca6b41311f45411eb041f3ff945a33522e9719849247533c06b6d29d1"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "32c716740be625a15c1be717e337090ab9eb41e1f6106447d6bb3598d9725c9d"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "e63d0195ebfb20cd859f790535b51c2562ed935b1e428270390198b2f79379c1"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "220f7db0fb118a3347c4fa092927e316ebc182d4edb7a5d4b7fb8546d01047ff"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "fe3f61cad670143799e9aec87e8ad00381e7869df968e15d4835a2f33a46df24"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "3af5fba8f1c2c33a1e351809663cad14e09423e08dc0a2e6a70c1c37254f1e69"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "5f70cbcdc95797dc20d6ddcb2bb3b1bc38257e6cf82938ca96a5bab2be595b97"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "95b849ce2eb800a6b2710faec6bcb22eb7cc80f51b076acbab17cd8c9b518d50"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "82afcc4cb69b4b2efac705ef749b0d65383a2d7cc269a34de6823a9889057955"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "60635ac4c10f80e6ab6abc3fd755d2d9b8e2af5afd8e61eb2569ec9f4ba0f144"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_sushi_roll_sources.gd": {
+      "bytes": 24804,
+      "sha256": "1a2cfc4b7a276fd262c18865e2d75ea5e1cd3a7b79666e8fe5f2dc1065c865da"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "4d5c5f5da758aba09e8f74dd486b1b6069df52f9fd2f29b82cdf15b30e4b0629"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "66ca12e1472005fc1fdcb3ad0cbc3538f389585a7571f5b8580ce561d9582795"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "163b51f890bd146c7992efc3e7c7c7273c44f2c31a1d9f89ff2e2969254893f2"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "99079f1ae62ee25d1670f0a98d2bf811a883d782143387de1513694fee7b0063"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "cda70424e7653dca040716dd1bed557808b05ad608c3498b5f825c90e53a0542"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "b0073ddc3ee781682088a5a0290c6cc8f2eb00cc713ff9d09c9531e77a9a2d26"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "f7419d0a8978f3a4dbe4e9665a3c9bb785bef184a37176b91b8a0b9026417373"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "0c900ffc4314871b70a60a0a6a63a8c270385470e8a65ea0a1342c36fad391ab"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "def4830bebd3c53e921a2754d3b1ad1509c7dd360a42cf14c03b25cb729e2b5f"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/recruit_hand_effects.gd": {
+      "bytes": 14352,
+      "sha256": "67023dac905cc5f984364a644e66a68b4644e26a54f0cdfb0c0fecd7205d02b5"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/spell_cast_listeners.gd": {
+      "bytes": 37341,
+      "sha256": "b6898ed3abf1f3975c969eb513ad4dede9782c6028e982f9791f389bc83a685e"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/sushi_roll_host.gd": {
+      "bytes": 32941,
+      "sha256": "ba070f020ad9dcc8a3a05f8a2724314d86cae90d21da67e36a198dd28a11e830"
+    },
+    "sushi_roll_v1/run_1/source_delta/core/sushi_roll_sources.gd": {
+      "bytes": 60602,
+      "sha256": "27fcdf1a339a75f069d1bafb7aeef8cc85ef9dd4799e458b01085cd266fcc12c"
+    },
+    "sushi_roll_v1/run_1/source_delta/data/patch_3702_sushi_roll_overlay.json": {
+      "bytes": 18379,
+      "sha256": "9dfad8ac9d4f88fbfee3f86e11d6eb9638c65f4b268567fd4c31483869d5abd5"
+    },
+    "sushi_roll_v1/run_1/source_delta/research/patch_3702_sushi_roll/BG28_606.native.xml": {
+      "bytes": 2646,
+      "sha256": "7dc739b50e490cf758beb07fc098d77fdd76a26912c6533f39b7ecbcfb2eaf75"
+    },
+    "sushi_roll_v1/run_1/source_delta/research/patch_3702_sushi_roll/BG30_MagicItem_920.native.xml": {
+      "bytes": 4636,
+      "sha256": "c59ed05c168597d1a9165ca1e98b7f4f91e2bb5ec24e0668d244b13478a96396"
+    },
+    "sushi_roll_v1/run_1/source_delta/research/patch_3702_sushi_roll/official_api_trinkets.json": {
+      "bytes": 217149,
+      "sha256": "4abef90cd72c7a3e7a6ca971cc4326fe8dece62da70799ac147449cd459acf16"
+    },
+    "sushi_roll_v1/run_2/EXPECTED_ROWS_EXECUTED.json": {
+      "bytes": 8940,
+      "sha256": "e6676843b958fd6f31ffa8311dfe8b3b86a6a53c798efae6a21a548403094a32"
+    },
+    "sushi_roll_v1/run_2/LAUNCH.json": {
+      "bytes": 495,
+      "sha256": "5026a9381baeb97c2745b832e8b0a62e3717c11acc7fc5dc2930086e25014618"
+    },
+    "sushi_roll_v1/run_2/PROCESS.json": {
+      "bytes": 568,
+      "sha256": "f4e18ff028c40b49f1b8d8756bb2fcdd7505cb2e648a2df1ce063a9b997cd3d5"
+    },
+    "sushi_roll_v1/run_2/SOURCE_DELTA_EXECUTED.json": {
+      "bytes": 16005,
+      "sha256": "91e0b37ff18ef20606e5c0244797d0d0f82aad4dd1019db48fe0ac75b151e935"
+    },
+    "sushi_roll_v1/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4530728,
+      "sha256": "ee867e16a1277ffd3ae2b457d5ae9935bb2ab5ba6670b803bbd743a88bdbe5be"
+    },
+    "sushi_roll_v1/run_2/data/report.json": {
+      "bytes": 1561852,
+      "sha256": "8a4bbc95bc3dfbcc18e10a08a8ef8cb846f83621dd428616d459ab9f35bdf699"
+    },
+    "sushi_roll_v1/run_2/gate_executed.gd": {
+      "bytes": 21976,
+      "sha256": "a67c2056a37f2c853babece2e7620f45821821780c417fc4b35dc910a8c588d3"
+    },
+    "sushi_roll_v1/run_2/native.log": {
+      "bytes": 852,
+      "sha256": "bd1a8046c5f242a23fd2c6e7498ff9d6fe52ba7e37f25b63dbfa1f7f8e4df89d"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/catalog.gd": {
+      "bytes": 1788466,
+      "sha256": "48bab2b38f57683b5b8311a9a69a81f9d0c186012575f90d64c3b49bc45f72a0"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/game.gd": {
+      "bytes": 1319317,
+      "sha256": "836b1a5674bea32fd8ab49e266efd8f976e9f5cf84f2e621adeb90d15988f1c0"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/mechanism_effects.gd": {
+      "bytes": 208321,
+      "sha256": "be70fdaa4cc91099c320c15d10b2171d7ade7c60a0293a372fc498b366a361d9"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "c4ec6a9dd17ffaeff04a5540df2ba3bfa4323e549c808b7d331e5db0e96be7df"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "b65325cceb0d6e2065f66ef0f20643a39ddb6f0c9be5b62b7a825c58abb352f5"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "e04886ce28d2dcfbefeb13dca9a38306141b329cafd237d3131d702a8e08976c"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "c252e95acb0f75b7729d673e85b54f66fc80977f97dd47271b0fff5c93df57ca"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "b8a6484626640bb9c3346f207d6200f226c8e9f1223c4293dc26baaafbfec9dc"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "2b5282b12dfe04c8956dc9a3337111bf80cad973c8d5f7bb05140fec39e9ef83"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "3bfb2baa3005c1bc5bfd4d7700bf44c76e16365f025eff896213a7c5ce348383"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "b143fa81988e421d15ff01379be1bbe89d377cdf963f43694aab4f6b40a69742"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "4406afb66d3b193054bc7686962f3f068e2654372a4be54f11ff13054820cc78"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "1d2de187c6dce5a416c48450e88f3a92c653eb52b44fa252f372e03dae72e386"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "c69ba5e8e0d7335aba0d78956991f98a51347bfbbfbc030e3c7518ae9ea7ea56"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "ab2f43bc1c924290983832c413d9e1197af0b621a0ae69527eae46fb75d3e6d5"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "881f8818f73cbf0a693be38df76676c32a3bd37dc93d40f86af9a8b1d06030ca"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "02f73001301bce043ba51b055ccc0ffcb94b0453882142a53c279dc414151511"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "2cf4f463b32082db4de46b236ae1e04f3733036811aaf946312b237555a19b80"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "1ca03dcf4c92948c1d4ceebe306eebd4f9b1ca47171db8b4468204c7859fbfbf"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "9fa0ecceb072066969adc1821a2793aa07d5ec774fcaed049c2cc8deff40a951"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "e15aff97eb019f5e29796ea49b68b512dc6585134e3c8bbff39c8503b3f86557"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "8e107b841e2fd733212db1627aaa53ce009a99e0c69b9f81d982bbaf186aed38"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "99e43347e16b9633cc94c37383dff38e4d4c50798a2b0fb55184938bfd89142e"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "6c1d941ca6b41311f45411eb041f3ff945a33522e9719849247533c06b6d29d1"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "32c716740be625a15c1be717e337090ab9eb41e1f6106447d6bb3598d9725c9d"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "e63d0195ebfb20cd859f790535b51c2562ed935b1e428270390198b2f79379c1"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "220f7db0fb118a3347c4fa092927e316ebc182d4edb7a5d4b7fb8546d01047ff"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "fe3f61cad670143799e9aec87e8ad00381e7869df968e15d4835a2f33a46df24"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "3af5fba8f1c2c33a1e351809663cad14e09423e08dc0a2e6a70c1c37254f1e69"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "5f70cbcdc95797dc20d6ddcb2bb3b1bc38257e6cf82938ca96a5bab2be595b97"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "95b849ce2eb800a6b2710faec6bcb22eb7cc80f51b076acbab17cd8c9b518d50"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "82afcc4cb69b4b2efac705ef749b0d65383a2d7cc269a34de6823a9889057955"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "60635ac4c10f80e6ab6abc3fd755d2d9b8e2af5afd8e61eb2569ec9f4ba0f144"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_sushi_roll_sources.gd": {
+      "bytes": 25056,
+      "sha256": "f2055d99d8ed2af0013fd395fe635672c48a5e02a4d1c9352bad98d51c617ef3"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "4d5c5f5da758aba09e8f74dd486b1b6069df52f9fd2f29b82cdf15b30e4b0629"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "66ca12e1472005fc1fdcb3ad0cbc3538f389585a7571f5b8580ce561d9582795"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "163b51f890bd146c7992efc3e7c7c7273c44f2c31a1d9f89ff2e2969254893f2"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "99079f1ae62ee25d1670f0a98d2bf811a883d782143387de1513694fee7b0063"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "cda70424e7653dca040716dd1bed557808b05ad608c3498b5f825c90e53a0542"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "b0073ddc3ee781682088a5a0290c6cc8f2eb00cc713ff9d09c9531e77a9a2d26"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "f7419d0a8978f3a4dbe4e9665a3c9bb785bef184a37176b91b8a0b9026417373"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "0c900ffc4314871b70a60a0a6a63a8c270385470e8a65ea0a1342c36fad391ab"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "def4830bebd3c53e921a2754d3b1ad1509c7dd360a42cf14c03b25cb729e2b5f"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/recruit_hand_effects.gd": {
+      "bytes": 14352,
+      "sha256": "67023dac905cc5f984364a644e66a68b4644e26a54f0cdfb0c0fecd7205d02b5"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/spell_cast_listeners.gd": {
+      "bytes": 37341,
+      "sha256": "b6898ed3abf1f3975c969eb513ad4dede9782c6028e982f9791f389bc83a685e"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/sushi_roll_host.gd": {
+      "bytes": 33187,
+      "sha256": "e6d2c80950bc24b5643fbed05ca110c1f11746b10da4eff2c7fcd756d2fd7512"
+    },
+    "sushi_roll_v1/run_2/source_delta/core/sushi_roll_sources.gd": {
+      "bytes": 66737,
+      "sha256": "fac1192f9e37e896b2bbd51a4c35b16c000ac8c12bb11eb2d5f5c0e591993dc7"
+    },
+    "sushi_roll_v1/run_2/source_delta/data/patch_3702_sushi_roll_overlay.json": {
+      "bytes": 18505,
+      "sha256": "4528543d98e81189f4f916339d1274c8ebae8fb606411d41b0f0502a43352454"
+    },
+    "sushi_roll_v1/run_2/source_delta/research/patch_3702_sushi_roll/BG28_606.native.xml": {
+      "bytes": 2646,
+      "sha256": "7dc739b50e490cf758beb07fc098d77fdd76a26912c6533f39b7ecbcfb2eaf75"
+    },
+    "sushi_roll_v1/run_2/source_delta/research/patch_3702_sushi_roll/BG30_MagicItem_920.native.xml": {
+      "bytes": 4636,
+      "sha256": "c59ed05c168597d1a9165ca1e98b7f4f91e2bb5ec24e0668d244b13478a96396"
+    },
+    "sushi_roll_v1/run_2/source_delta/research/patch_3702_sushi_roll/official_api_trinkets.json": {
+      "bytes": 217149,
+      "sha256": "4abef90cd72c7a3e7a6ca971cc4326fe8dece62da70799ac147449cd459acf16"
+    },
+    "sushi_roll_v1/run_3/EXPECTED_ROWS_EXECUTED.json": {
+      "bytes": 9012,
+      "sha256": "2b4800059ffd1f82430843a27e3d615d865fd8fc986e1867a6ee7346b2a438b7"
+    },
+    "sushi_roll_v1/run_3/LAUNCH.json": {
+      "bytes": 495,
+      "sha256": "2e83b7116ce0ce792a1b1acd7ead0516e38a9efc64ba5d7e0e7d8c2e22743a35"
+    },
+    "sushi_roll_v1/run_3/PROCESS.json": {
+      "bytes": 569,
+      "sha256": "27096192ffc3d469e55219fee917f33ec4c904bcb1138c0e00cb6b5b568050f3"
+    },
+    "sushi_roll_v1/run_3/SOURCE_DELTA_EXECUTED.json": {
+      "bytes": 16005,
+      "sha256": "3600081254e874e541326c1ed26e42733cfb707682548e98a10e6ec328e092be"
+    },
+    "sushi_roll_v1/run_3/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4530728,
+      "sha256": "302bd90707bbc0936f478f318c45ef17a452ecf9d4907e0455b1c132e55c528e"
+    },
+    "sushi_roll_v1/run_3/SYNC_ORDER.json": {
+      "bytes": 139,
+      "sha256": "e034268e6be4bbf7cb0ea698ec13d9c533ad308c9f62747461b58cf87bf1e2d3"
+    },
+    "sushi_roll_v1/run_3/data/report.json": {
+      "bytes": 1559770,
+      "sha256": "40173c622c4ac009fc6eb6fd014847a269ee7cd3159b0ddcb66ec11b194798e3"
+    },
+    "sushi_roll_v1/run_3/gate_executed.gd": {
+      "bytes": 21868,
+      "sha256": "54f23208bbf4f0a3a30f7a0c5353decdfb0a3a84aabb0506899b0e4c0812584a"
+    },
+    "sushi_roll_v1/run_3/native.log": {
+      "bytes": 852,
+      "sha256": "c712d8389cd83c9247897acfd7173555ccddce1bad2632247a1751e9b7f6c7a3"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/catalog.gd": {
+      "bytes": 1788466,
+      "sha256": "48bab2b38f57683b5b8311a9a69a81f9d0c186012575f90d64c3b49bc45f72a0"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/game.gd": {
+      "bytes": 1319317,
+      "sha256": "836b1a5674bea32fd8ab49e266efd8f976e9f5cf84f2e621adeb90d15988f1c0"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/mechanism_effects.gd": {
+      "bytes": 208321,
+      "sha256": "be70fdaa4cc91099c320c15d10b2171d7ade7c60a0293a372fc498b366a361d9"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "c4ec6a9dd17ffaeff04a5540df2ba3bfa4323e549c808b7d331e5db0e96be7df"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "b65325cceb0d6e2065f66ef0f20643a39ddb6f0c9be5b62b7a825c58abb352f5"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "e04886ce28d2dcfbefeb13dca9a38306141b329cafd237d3131d702a8e08976c"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "c252e95acb0f75b7729d673e85b54f66fc80977f97dd47271b0fff5c93df57ca"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "b8a6484626640bb9c3346f207d6200f226c8e9f1223c4293dc26baaafbfec9dc"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "2b5282b12dfe04c8956dc9a3337111bf80cad973c8d5f7bb05140fec39e9ef83"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "3bfb2baa3005c1bc5bfd4d7700bf44c76e16365f025eff896213a7c5ce348383"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "b143fa81988e421d15ff01379be1bbe89d377cdf963f43694aab4f6b40a69742"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "4406afb66d3b193054bc7686962f3f068e2654372a4be54f11ff13054820cc78"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "1d2de187c6dce5a416c48450e88f3a92c653eb52b44fa252f372e03dae72e386"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "c69ba5e8e0d7335aba0d78956991f98a51347bfbbfbc030e3c7518ae9ea7ea56"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "ab2f43bc1c924290983832c413d9e1197af0b621a0ae69527eae46fb75d3e6d5"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "881f8818f73cbf0a693be38df76676c32a3bd37dc93d40f86af9a8b1d06030ca"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "02f73001301bce043ba51b055ccc0ffcb94b0453882142a53c279dc414151511"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "2cf4f463b32082db4de46b236ae1e04f3733036811aaf946312b237555a19b80"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "1ca03dcf4c92948c1d4ceebe306eebd4f9b1ca47171db8b4468204c7859fbfbf"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "9fa0ecceb072066969adc1821a2793aa07d5ec774fcaed049c2cc8deff40a951"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "e15aff97eb019f5e29796ea49b68b512dc6585134e3c8bbff39c8503b3f86557"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "8e107b841e2fd733212db1627aaa53ce009a99e0c69b9f81d982bbaf186aed38"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "99e43347e16b9633cc94c37383dff38e4d4c50798a2b0fb55184938bfd89142e"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "6c1d941ca6b41311f45411eb041f3ff945a33522e9719849247533c06b6d29d1"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "32c716740be625a15c1be717e337090ab9eb41e1f6106447d6bb3598d9725c9d"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "e63d0195ebfb20cd859f790535b51c2562ed935b1e428270390198b2f79379c1"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "220f7db0fb118a3347c4fa092927e316ebc182d4edb7a5d4b7fb8546d01047ff"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "fe3f61cad670143799e9aec87e8ad00381e7869df968e15d4835a2f33a46df24"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "3af5fba8f1c2c33a1e351809663cad14e09423e08dc0a2e6a70c1c37254f1e69"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "5f70cbcdc95797dc20d6ddcb2bb3b1bc38257e6cf82938ca96a5bab2be595b97"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "95b849ce2eb800a6b2710faec6bcb22eb7cc80f51b076acbab17cd8c9b518d50"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "82afcc4cb69b4b2efac705ef749b0d65383a2d7cc269a34de6823a9889057955"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "60635ac4c10f80e6ab6abc3fd755d2d9b8e2af5afd8e61eb2569ec9f4ba0f144"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_sushi_roll_sources.gd": {
+      "bytes": 25200,
+      "sha256": "e90e09b1846e736fb7a9ae61e0714f28c514aa235a041bfdba83a9fc0c1257d4"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "4d5c5f5da758aba09e8f74dd486b1b6069df52f9fd2f29b82cdf15b30e4b0629"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "66ca12e1472005fc1fdcb3ad0cbc3538f389585a7571f5b8580ce561d9582795"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "163b51f890bd146c7992efc3e7c7c7273c44f2c31a1d9f89ff2e2969254893f2"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "99079f1ae62ee25d1670f0a98d2bf811a883d782143387de1513694fee7b0063"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "cda70424e7653dca040716dd1bed557808b05ad608c3498b5f825c90e53a0542"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "b0073ddc3ee781682088a5a0290c6cc8f2eb00cc713ff9d09c9531e77a9a2d26"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "f7419d0a8978f3a4dbe4e9665a3c9bb785bef184a37176b91b8a0b9026417373"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "0c900ffc4314871b70a60a0a6a63a8c270385470e8a65ea0a1342c36fad391ab"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "def4830bebd3c53e921a2754d3b1ad1509c7dd360a42cf14c03b25cb729e2b5f"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/recruit_hand_effects.gd": {
+      "bytes": 14352,
+      "sha256": "67023dac905cc5f984364a644e66a68b4644e26a54f0cdfb0c0fecd7205d02b5"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/spell_cast_listeners.gd": {
+      "bytes": 37341,
+      "sha256": "b6898ed3abf1f3975c969eb513ad4dede9782c6028e982f9791f389bc83a685e"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/sushi_roll_host.gd": {
+      "bytes": 33368,
+      "sha256": "c993f1cbfa53d0c72129130f8178e6c9dde1197646f93ddd2150bf78fd320006"
+    },
+    "sushi_roll_v1/run_3/source_delta/core/sushi_roll_sources.gd": {
+      "bytes": 66993,
+      "sha256": "d2ea3d74eab234aebcd8c00c2ff635bf7b559a3ad011c4a5eb6daba26e21f69d"
+    },
+    "sushi_roll_v1/run_3/source_delta/data/patch_3702_sushi_roll_overlay.json": {
+      "bytes": 18577,
+      "sha256": "5e273af8aa8b87d7a36ec17d538bde20e4159731dd00dddbb2e7b6c69100ed61"
+    },
+    "sushi_roll_v1/run_3/source_delta/research/patch_3702_sushi_roll/BG28_606.native.xml": {
+      "bytes": 2646,
+      "sha256": "7dc739b50e490cf758beb07fc098d77fdd76a26912c6533f39b7ecbcfb2eaf75"
+    },
+    "sushi_roll_v1/run_3/source_delta/research/patch_3702_sushi_roll/BG30_MagicItem_920.native.xml": {
+      "bytes": 4636,
+      "sha256": "c59ed05c168597d1a9165ca1e98b7f4f91e2bb5ec24e0668d244b13478a96396"
+    },
+    "sushi_roll_v1/run_3/source_delta/research/patch_3702_sushi_roll/official_api_trinkets.json": {
+      "bytes": 217149,
+      "sha256": "4abef90cd72c7a3e7a6ca971cc4326fe8dece62da70799ac147449cd459acf16"
+    },
+    "sushi_roll_v1/run_4/EXPECTED_ROWS_EXECUTED.json": {
+      "bytes": 9012,
+      "sha256": "2b4800059ffd1f82430843a27e3d615d865fd8fc986e1867a6ee7346b2a438b7"
+    },
+    "sushi_roll_v1/run_4/LAUNCH.json": {
+      "bytes": 495,
+      "sha256": "8a89913caaaf079526d2447e6ae26bd5cf3ec4d61bd7e24ef9bf6d17cce53bed"
+    },
+    "sushi_roll_v1/run_4/PROCESS.json": {
+      "bytes": 569,
+      "sha256": "39f1aeddc1a3c02b60ca1141d6cd60f142098ee9bf75888569901bd09179f5e5"
+    },
+    "sushi_roll_v1/run_4/SOURCE_DELTA_EXECUTED.json": {
+      "bytes": 16325,
+      "sha256": "e2cc300b2c20aae35aaebb2c417f2067c0ed165df23ad1d01259cd9e76f55cc1"
+    },
+    "sushi_roll_v1/run_4/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4530728,
+      "sha256": "0878729d0761d0dd97181ae008ff9a1fd402ce3345fd0707e967f148f0943b8d"
+    },
+    "sushi_roll_v1/run_4/data/before_casts.native_save.json": {
+      "bytes": 90475,
+      "sha256": "4b5f92c3835bfe8ca8ba4ce28d92b2d3fa3e2b5220ab04587a8edc7eddf289a4"
+    },
+    "sushi_roll_v1/run_4/data/forged_program.json": {
+      "bytes": 66635,
+      "sha256": "9fae76f9d8c621dd3f92d3674f52a2a01c371e40de8c6d2dbf4f28a1bf2bfba7"
+    },
+    "sushi_roll_v1/run_4/data/forged_source.json": {
+      "bytes": 66630,
+      "sha256": "e141e0e70e7e71982435160eaf175ee733f0339bbafffaefd193f3c129a26fe3"
+    },
+    "sushi_roll_v1/run_4/data/report.json": {
+      "bytes": 2526913,
+      "sha256": "4c054ccfb89ff98873de6a454056854d60febc7ce1e2d656499c30adfb132d26"
+    },
+    "sushi_roll_v1/run_4/gate_executed.gd": {
+      "bytes": 21868,
+      "sha256": "54f23208bbf4f0a3a30f7a0c5353decdfb0a3a84aabb0506899b0e4c0812584a"
+    },
+    "sushi_roll_v1/run_4/native.log": {
+      "bytes": 998,
+      "sha256": "6469273088512cabbd89c43908b1f54dba60b2f2d81a27d66aac5b4ae90535d2"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/catalog.gd": {
+      "bytes": 1788466,
+      "sha256": "48bab2b38f57683b5b8311a9a69a81f9d0c186012575f90d64c3b49bc45f72a0"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/game.gd": {
+      "bytes": 1319317,
+      "sha256": "836b1a5674bea32fd8ab49e266efd8f976e9f5cf84f2e621adeb90d15988f1c0"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/mechanism_effects.gd": {
+      "bytes": 208321,
+      "sha256": "be70fdaa4cc91099c320c15d10b2171d7ade7c60a0293a372fc498b366a361d9"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "c4ec6a9dd17ffaeff04a5540df2ba3bfa4323e549c808b7d331e5db0e96be7df"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "b65325cceb0d6e2065f66ef0f20643a39ddb6f0c9be5b62b7a825c58abb352f5"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "e04886ce28d2dcfbefeb13dca9a38306141b329cafd237d3131d702a8e08976c"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "c252e95acb0f75b7729d673e85b54f66fc80977f97dd47271b0fff5c93df57ca"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "b8a6484626640bb9c3346f207d6200f226c8e9f1223c4293dc26baaafbfec9dc"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "2b5282b12dfe04c8956dc9a3337111bf80cad973c8d5f7bb05140fec39e9ef83"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "3bfb2baa3005c1bc5bfd4d7700bf44c76e16365f025eff896213a7c5ce348383"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "b143fa81988e421d15ff01379be1bbe89d377cdf963f43694aab4f6b40a69742"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "4406afb66d3b193054bc7686962f3f068e2654372a4be54f11ff13054820cc78"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "1d2de187c6dce5a416c48450e88f3a92c653eb52b44fa252f372e03dae72e386"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "c69ba5e8e0d7335aba0d78956991f98a51347bfbbfbc030e3c7518ae9ea7ea56"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "ab2f43bc1c924290983832c413d9e1197af0b621a0ae69527eae46fb75d3e6d5"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "881f8818f73cbf0a693be38df76676c32a3bd37dc93d40f86af9a8b1d06030ca"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "02f73001301bce043ba51b055ccc0ffcb94b0453882142a53c279dc414151511"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "2cf4f463b32082db4de46b236ae1e04f3733036811aaf946312b237555a19b80"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "1ca03dcf4c92948c1d4ceebe306eebd4f9b1ca47171db8b4468204c7859fbfbf"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "9fa0ecceb072066969adc1821a2793aa07d5ec774fcaed049c2cc8deff40a951"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "e15aff97eb019f5e29796ea49b68b512dc6585134e3c8bbff39c8503b3f86557"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "8e107b841e2fd733212db1627aaa53ce009a99e0c69b9f81d982bbaf186aed38"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "99e43347e16b9633cc94c37383dff38e4d4c50798a2b0fb55184938bfd89142e"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "6c1d941ca6b41311f45411eb041f3ff945a33522e9719849247533c06b6d29d1"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "32c716740be625a15c1be717e337090ab9eb41e1f6106447d6bb3598d9725c9d"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "e63d0195ebfb20cd859f790535b51c2562ed935b1e428270390198b2f79379c1"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "220f7db0fb118a3347c4fa092927e316ebc182d4edb7a5d4b7fb8546d01047ff"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "fe3f61cad670143799e9aec87e8ad00381e7869df968e15d4835a2f33a46df24"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "3af5fba8f1c2c33a1e351809663cad14e09423e08dc0a2e6a70c1c37254f1e69"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "5f70cbcdc95797dc20d6ddcb2bb3b1bc38257e6cf82938ca96a5bab2be595b97"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "95b849ce2eb800a6b2710faec6bcb22eb7cc80f51b076acbab17cd8c9b518d50"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "82afcc4cb69b4b2efac705ef749b0d65383a2d7cc269a34de6823a9889057955"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "60635ac4c10f80e6ab6abc3fd755d2d9b8e2af5afd8e61eb2569ec9f4ba0f144"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_sushi_roll_sources.gd": {
+      "bytes": 25200,
+      "sha256": "e90e09b1846e736fb7a9ae61e0714f28c514aa235a041bfdba83a9fc0c1257d4"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "4d5c5f5da758aba09e8f74dd486b1b6069df52f9fd2f29b82cdf15b30e4b0629"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "66ca12e1472005fc1fdcb3ad0cbc3538f389585a7571f5b8580ce561d9582795"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "163b51f890bd146c7992efc3e7c7c7273c44f2c31a1d9f89ff2e2969254893f2"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "99079f1ae62ee25d1670f0a98d2bf811a883d782143387de1513694fee7b0063"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "cda70424e7653dca040716dd1bed557808b05ad608c3498b5f825c90e53a0542"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "b0073ddc3ee781682088a5a0290c6cc8f2eb00cc713ff9d09c9531e77a9a2d26"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "f7419d0a8978f3a4dbe4e9665a3c9bb785bef184a37176b91b8a0b9026417373"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "0c900ffc4314871b70a60a0a6a63a8c270385470e8a65ea0a1342c36fad391ab"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "def4830bebd3c53e921a2754d3b1ad1509c7dd360a42cf14c03b25cb729e2b5f"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/random_spellcraft_sources.gd": {
+      "bytes": 22362,
+      "sha256": "2cb12f6e886bc5495966ba491ad0b651a7b8c4ae64ca8b901902c8bca130b290"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/recruit_hand_effects.gd": {
+      "bytes": 14352,
+      "sha256": "67023dac905cc5f984364a644e66a68b4644e26a54f0cdfb0c0fecd7205d02b5"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/spell_cast_listeners.gd": {
+      "bytes": 37341,
+      "sha256": "b6898ed3abf1f3975c969eb513ad4dede9782c6028e982f9791f389bc83a685e"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/sushi_roll_host.gd": {
+      "bytes": 33368,
+      "sha256": "c993f1cbfa53d0c72129130f8178e6c9dde1197646f93ddd2150bf78fd320006"
+    },
+    "sushi_roll_v1/run_4/source_delta/core/sushi_roll_sources.gd": {
+      "bytes": 66993,
+      "sha256": "d2ea3d74eab234aebcd8c00c2ff635bf7b559a3ad011c4a5eb6daba26e21f69d"
+    },
+    "sushi_roll_v1/run_4/source_delta/data/patch_3702_sushi_roll_overlay.json": {
+      "bytes": 18577,
+      "sha256": "5e273af8aa8b87d7a36ec17d538bde20e4159731dd00dddbb2e7b6c69100ed61"
+    },
+    "sushi_roll_v1/run_4/source_delta/research/patch_3702_sushi_roll/BG28_606.native.xml": {
+      "bytes": 2646,
+      "sha256": "7dc739b50e490cf758beb07fc098d77fdd76a26912c6533f39b7ecbcfb2eaf75"
+    },
+    "sushi_roll_v1/run_4/source_delta/research/patch_3702_sushi_roll/BG30_MagicItem_920.native.xml": {
+      "bytes": 4636,
+      "sha256": "c59ed05c168597d1a9165ca1e98b7f4f91e2bb5ec24e0668d244b13478a96396"
+    },
+    "sushi_roll_v1/run_4/source_delta/research/patch_3702_sushi_roll/official_api_trinkets.json": {
+      "bytes": 217149,
+      "sha256": "4abef90cd72c7a3e7a6ca971cc4326fe8dece62da70799ac147449cd459acf16"
+    },
+    "sushi_roll_v1/run_5/LAUNCH.json": {
+      "bytes": 495,
+      "sha256": "76f7b151e9eb3e0387c3f026d3ef40e33e4daca767cb16d0d66441a5b65f88f9"
+    },
+    "sushi_roll_v1/run_5/PROCESS.json": {
+      "bytes": 569,
+      "sha256": "2aababdb30304c6b33e0b1cf68c97414345aaccfe491f3eb838cf87983b22e90"
+    },
+    "sushi_roll_v1/run_5/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4530728,
+      "sha256": "0878729d0761d0dd97181ae008ff9a1fd402ce3345fd0707e967f148f0943b8d"
+    },
+    "sushi_roll_v1/run_5/data/after_quota.native_save.json": {
+      "bytes": 114256,
+      "sha256": "8d22bbfbdc5305878439e4855791c0a460c83d787f39b3193904f41005e6805f"
+    },
+    "sushi_roll_v1/run_5/data/after_round.native_save.json": {
+      "bytes": 125206,
+      "sha256": "bc380e41ee2e4f94bbd15d476ff344c3b3f4c286f4f1fa94f33c56ef6b03876c"
+    },
+    "sushi_roll_v1/run_5/data/before_casts.native_save.json": {
+      "bytes": 90475,
+      "sha256": "4b5f92c3835bfe8ca8ba4ce28d92b2d3fa3e2b5220ab04587a8edc7eddf289a4"
+    },
+    "sushi_roll_v1/run_5/data/forged_duplicate_history_cast.json": {
+      "bytes": 93944,
+      "sha256": "98f73bc0d3c96308fe861fd19cb6ab174f3037680b1da654f5d2c9a1a9f5c916"
+    },
+    "sushi_roll_v1/run_5/data/forged_future_history_round.json": {
+      "bytes": 93687,
+      "sha256": "fc36773a23b14f5c261eadeb16d707a7d0613a82aedec611486bb6d88955b5e7"
+    },
+    "sushi_roll_v1/run_5/data/forged_orphan_cast.json": {
+      "bytes": 92946,
+      "sha256": "83a545bffa712f1d57f9645be24f00bb89b59f9d06cec58a6dec4d18371ff6ff"
+    },
+    "sushi_roll_v1/run_5/data/forged_program.json": {
+      "bytes": 66635,
+      "sha256": "9fae76f9d8c621dd3f92d3674f52a2a01c371e40de8c6d2dbf4f28a1bf2bfba7"
+    },
+    "sushi_roll_v1/run_5/data/forged_quota.json": {
+      "bytes": 85625,
+      "sha256": "452c6699761abbb4d5a979d4bf71cf5ebcc771b6609cfccb2fe364177d043227"
+    },
+    "sushi_roll_v1/run_5/data/forged_source.json": {
+      "bytes": 66630,
+      "sha256": "e141e0e70e7e71982435160eaf175ee733f0339bbafffaefd193f3c129a26fe3"
+    },
+    "sushi_roll_v1/run_5/data/report.json": {
+      "bytes": 7179342,
+      "sha256": "ffce80c70fdab71e5546795748e84973a6a2ba1cf5bb14e1e1e43e88a17bc345"
+    },
+    "sushi_roll_v1/run_5/gate_executed.gd": {
+      "bytes": 21846,
+      "sha256": "8c135ac5382b98e7924a434ffd9d3b56f67fb4410c24d37e1fabe479c111d455"
+    },
+    "sushi_roll_v1/run_5/native.log": {
+      "bytes": 1804,
+      "sha256": "47cadb8fa1528aa35280ce72b9a99601f86c161e9dc8f7001d9df5e7bdb0c309"
+    },
+    "sushi_roll_v1/static_review.py": {
+      "bytes": 2237,
+      "sha256": "ed465ca864ae5c065c8b61fcd9fe2c5c7ba5eb625463833c5c72ebceb0fcf57d"
+    },
+    "sushi_roll_v1/sync_runtime.py": {
+      "bytes": 646,
+      "sha256": "a23a0113075bd3059d0226b6d6b3ecc52ba4027b24c9cc729bef3cadda75b35c"
+    },
+    "sushi_roll_v1/use_current_listener.py": {
+      "bytes": 2118,
+      "sha256": "0154ef0876e577ae3193d2c58c1ea85043ec84abf5e1d8419261a317fc5e2823"
+    },
+    "sushi_roll_v1/validate.py": {
+      "bytes": 5963,
+      "sha256": "91e51c31c0639ca2657c4c4f280c7aea2a8bad858220ab1db8258c7e3cd07dd8"
+    },
+    "sushi_roll_v1/PACKAGE_MANIFEST.json": {
+      "bytes": 54847,
+      "sha256": "031b02f62e7a93d1893b5745144cae6e989ae8e23e3c410243440c64f0d423d4"
+    }
+  }
+}
