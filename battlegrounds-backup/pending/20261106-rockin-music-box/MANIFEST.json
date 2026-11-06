@@ -1,0 +1,239 @@
+{
+  "status": "Independent bounded price-update candidate; no promotion",
+  "archive": "partial3702_rockin_music_box_candidate_v1.tar.xz",
+  "sha256": "78ee01562ba911406b8fd2720db22192620478f7367505d9a17efbef451a6c3f",
+  "bytes": 1141968,
+  "parts": [
+    {
+      "name": "partial3702_rockin_music_box_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "d54490b53059a4abf8652cd4104185b981d4522e9d1151cf5b97c57a0d1f1bd6"
+    },
+    {
+      "name": "partial3702_rockin_music_box_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "0a184aabffe798f30a7575ce055b30fd259f91f53a2a7c05ab28a6dcbd49affd"
+    },
+    {
+      "name": "partial3702_rockin_music_box_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "e122a0ec2f22478f571bfeaca4e0f77ca7b980b9ae6c4f0dcd3edb3c9ba6510a"
+    },
+    {
+      "name": "partial3702_rockin_music_box_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "db1c9409941c09661bc57d57a7900421ce1ac0bad89cbf073e7742452f5ea758"
+    },
+    {
+      "name": "partial3702_rockin_music_box_candidate_v1.tar.xz.part004",
+      "bytes": 141968,
+      "sha256": "14da6b7c294c60f367136e9d0dcfe2d74dfbb47a8e9ab4d04b7249dc2795d634"
+    }
+  ],
+  "files": {
+    "rockin_music_box_candidate_v1/BASE_MAP.json": {
+      "bytes": 4508786,
+      "sha256": "5ea915292efa3f2be00829bd97422c6f11abea441c2f588dc103af2f4d0b94e1"
+    },
+    "rockin_music_box_candidate_v1/EXPECTED_ROW.json": {
+      "bytes": 8421,
+      "sha256": "b6580456a82d32ea6926cf37c0711445d413227c3d2fc697b69c2cf5aea98e22"
+    },
+    "rockin_music_box_candidate_v1/PROGRESS.md": {
+      "bytes": 559,
+      "sha256": "11765cab77824761ad842e6439d4c6a8fd7065a727bc79f603446720c319d620"
+    },
+    "rockin_music_box_candidate_v1/README.md": {
+      "bytes": 1521,
+      "sha256": "2b87f3f8d2d38493edcfad7ac04c0af7465dd907e52d2368116ddb022b234bcf"
+    },
+    "rockin_music_box_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 7501,
+      "sha256": "8c6af947a5c13ffc9f02df0df98e4d75e95bfbbcf91a4e59b5922ffd5756f750"
+    },
+    "rockin_music_box_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 2854,
+      "sha256": "2b82bde83529ea7843f6f582ea651c8d0fe1550d3687dba478cdc090853a7140"
+    },
+    "rockin_music_box_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4509619,
+      "sha256": "82cf91d9dc2e3222bd2a24e2daa4a840e28b40924a2c87c39f9a952697f5b75a"
+    },
+    "rockin_music_box_candidate_v1/build.py": {
+      "bytes": 5029,
+      "sha256": "16d422c153ae734cee0d6a52cee5fff8c738be086f768f6b08f1f6730e0fd183"
+    },
+    "rockin_music_box_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1753211,
+      "sha256": "5379164e76b758e04233bfde460eea8d85b09377e0c6222cce6d470edccf8229"
+    },
+    "rockin_music_box_candidate_v1/delta/core/cyclic_resource_trinkets.gd": {
+      "bytes": 55956,
+      "sha256": "44eedbb567d96b6981eceb9fcdc23a3a045127b85f08997d1e35ba2576bdce3e"
+    },
+    "rockin_music_box_candidate_v1/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "1590ed42b0b9929c253d8db813a0e7199b3bcc9f5df429877b56f31a36becb03"
+    },
+    "rockin_music_box_candidate_v1/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "8d5e557de64c0faa2024cf18ae0249707e8295eb4b38ce455f380cdf48371487"
+    },
+    "rockin_music_box_candidate_v1/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "e9ddf1b85abc883f6a6975836695d42f5785d6744e46f1b758bf53aff30d6f29"
+    },
+    "rockin_music_box_candidate_v1/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "0f97782f64c9ddcb544fc6f4076c74708e2fdc36ac8b687783108163ddbd93b2"
+    },
+    "rockin_music_box_candidate_v1/delta/data/patch_3702_rockin_music_box_overlay.json": {
+      "bytes": 20311,
+      "sha256": "c5d1e70d6c689a84568e665d875f1df2fd016f73edaa3f6023c95aef777c7a3c"
+    },
+    "rockin_music_box_candidate_v1/delta/research/patch_3702_rockin_music_box/BG30_MagicItem_430.native.xml": {
+      "bytes": 3444,
+      "sha256": "b55c2a3da3ea0748a21735c92ffca08380eebe38d93636f5d3de5d19507f7a8b"
+    },
+    "rockin_music_box_candidate_v1/delta/research/patch_3702_rockin_music_box/official_excerpt.html": {
+      "bytes": 35,
+      "sha256": "8483c657d5f95c929a7e36f2a8f3259125fbe9f66555f6b7d9c48c730a6e8c43"
+    },
+    "rockin_music_box_candidate_v1/delta/research/patch_3702_rockin_music_box/source_evidence.json": {
+      "bytes": 446,
+      "sha256": "0f4a745bd5c24e6e780dbbae3cdeb92763c83f43cee418139962064964f91a21"
+    },
+    "rockin_music_box_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 664,
+      "sha256": "346b06e35ee76350cfd0ea719d52106ae703fa396005fd99ead7cd14ab38d2ee"
+    },
+    "rockin_music_box_candidate_v1/gate.gd": {
+      "bytes": 17299,
+      "sha256": "522fce6e2a1ad63f74debbabd44b772ac5e47c20b262dca864752603aee52eb8"
+    },
+    "rockin_music_box_candidate_v1/map_sources.py": {
+      "bytes": 664,
+      "sha256": "fd9b3dac05fdc9cd32a928bb65cc59f66b2d9d9bb356740b6c0729c60b5b1f51"
+    },
+    "rockin_music_box_candidate_v1/prepare.py": {
+      "bytes": 333,
+      "sha256": "b90a87cabd22c54d28d6399901aeb3293338043b43ccdd210dacb8c58006e8ab"
+    },
+    "rockin_music_box_candidate_v1/refresh_bindings.py": {
+      "bytes": 1006,
+      "sha256": "457e362f32aa8f9e9d4b03543bd94a9f799b629f39e8e0b34ee93eaf0e1f72d2"
+    },
+    "rockin_music_box_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "rockin_music_box_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "rockin_music_box_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 286,
+      "sha256": "67678e870dd0615b457c4026a92446a0c335daac219518d548c1d28455e7c866"
+    },
+    "rockin_music_box_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 91,
+      "sha256": "4c0363da8b38e217680cb5f0aa91f52c28c74251a5f7c01aeaf8a07ff004c980"
+    },
+    "rockin_music_box_candidate_v1/run_1/native.log": {
+      "bytes": 15014,
+      "sha256": "23f5b894523f65a79fea2f10d8cb7ec0e5ccf1ad06b47911abcaf0401ced2f7d"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/SOURCE_DELTA.json": {
+      "bytes": 2854,
+      "sha256": "1c583f4920bd70a02b9b0f1d24c80cbf3687175616feeb780b599a670e58a26d"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/SOURCE_MAP.json": {
+      "bytes": 4509619,
+      "sha256": "12349be3a7c09d8285131a3cbd47dcd8fa6e847adcde8e8aa78fab77d95dae1c"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/build.py": {
+      "bytes": 5029,
+      "sha256": "359dbf80dfdc547c7607db06f111caa5a49405e84397b38ca49ce16cb46eb07d"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/delta/core/catalog.gd": {
+      "bytes": 1753211,
+      "sha256": "5379164e76b758e04233bfde460eea8d85b09377e0c6222cce6d470edccf8229"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/delta/core/cyclic_resource_trinkets.gd": {
+      "bytes": 55956,
+      "sha256": "9f914c23d2086fc8fb53b969d01fdfb3f8775ffb01718a9f9bc1ed489ba3bac6"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "8c94f998cb563c96a6745cdd0b146f669af84ea3a31f120fefd4a81ca668f7cd"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "20dc3555e45ea47bc6d692ac66c4913dde894c5bd39569dac8c289acf59d4bf7"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "26274d1b0db1aa5239fe57339800b4f29dbcc095b5f87bb8ccab94a84472986b"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "1ebead1a209a13f3a7d48224ab7effb1869f4876c96c71804a05d90962bbb8db"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/delta/data/patch_3702_rockin_music_box_overlay.json": {
+      "bytes": 20311,
+      "sha256": "c5d1e70d6c689a84568e665d875f1df2fd016f73edaa3f6023c95aef777c7a3c"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/delta/research/patch_3702_rockin_music_box/BG30_MagicItem_430.native.xml": {
+      "bytes": 3444,
+      "sha256": "b55c2a3da3ea0748a21735c92ffca08380eebe38d93636f5d3de5d19507f7a8b"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/delta/research/patch_3702_rockin_music_box/official_excerpt.html": {
+      "bytes": 35,
+      "sha256": "8483c657d5f95c929a7e36f2a8f3259125fbe9f66555f6b7d9c48c730a6e8c43"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/delta/research/patch_3702_rockin_music_box/source_evidence.json": {
+      "bytes": 446,
+      "sha256": "0f4a745bd5c24e6e780dbbae3cdeb92763c83f43cee418139962064964f91a21"
+    },
+    "rockin_music_box_candidate_v1/run_1/source_before_fix/gate.gd": {
+      "bytes": 17299,
+      "sha256": "522fce6e2a1ad63f74debbabd44b772ac5e47c20b262dca864752603aee52eb8"
+    },
+    "rockin_music_box_candidate_v1/run_2/PROCESS.json": {
+      "bytes": 493,
+      "sha256": "971cff394a10da03c1201e7c252e62ed47ad4cc3e356d6677fd6188a5e9940b7"
+    },
+    "rockin_music_box_candidate_v1/run_2/VALIDATION.json": {
+      "bytes": 888,
+      "sha256": "cd3bb9db1b68955da2123946f145fae1bdf74d9130b26269049d8f00c356c7b8"
+    },
+    "rockin_music_box_candidate_v1/run_2/data/initial.native_save.json": {
+      "bytes": 21732,
+      "sha256": "936ab4415610520a1c7cdb82437beb1653fe03d196b14f1a3cc5f38f4dd2826d"
+    },
+    "rockin_music_box_candidate_v1/run_2/data/prefix.native_save.json": {
+      "bytes": 45946,
+      "sha256": "68224dadae84778ce6daa1227fc69ccbc1e907d5cb89a4430ae4cf4bf79a2c15"
+    },
+    "rockin_music_box_candidate_v1/run_2/data/report.json": {
+      "bytes": 2616519,
+      "sha256": "54502c7cc178d10e276f79b0932368bad452b452fe22943e8e4e9db788b1f865"
+    },
+    "rockin_music_box_candidate_v1/run_2/data/terminal.native_save.json": {
+      "bytes": 56685,
+      "sha256": "01255f9777fac99b9b97ea8051aa1ca146c94451e0fa124ca8384d03a58d86f9"
+    },
+    "rockin_music_box_candidate_v1/run_2/native.log": {
+      "bytes": 966,
+      "sha256": "4356db05facb6528f85166de608a9d2c435d2d469b2eb4cd769e866cd87f694e"
+    },
+    "rockin_music_box_candidate_v1/run_v2.py": {
+      "bytes": 1150,
+      "sha256": "3bead5607d6e7b26a2c7256c2bcf961fcd62e7931b103ea0fea4d8b74d630305"
+    },
+    "rockin_music_box_candidate_v1/validate.py": {
+      "bytes": 3794,
+      "sha256": "15395746ae91533452ded82096ad6b6ba0ce16278015b503cbd04746591b7579"
+    }
+  }
+}
