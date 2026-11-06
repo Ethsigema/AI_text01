@@ -1,0 +1,290 @@
+{
+  "status": "Independently reviewed bounded Bazaar Sticker 37.0.2 cost correction; not a newly implemented effect; insufficient-gold purchase and complex health cases unverified; no full acceptance",
+  "archive": "partial3702_bazaar_sticker_v1.tar.xz",
+  "sha256": "fa75e15179cc70aea99d6c313668a939dc6800e58931c81e2ac9513f2900971a",
+  "bytes": 1328840,
+  "dependency": "Exact kibble candidate 0aa7b0381519cd34cb09458be5778bbcc704bf45bf9293b8c0813975c849a5a2",
+  "transport_encoding": "Each part stored as name + .b64. Decode standard base64 then concatenate manifest order; verify SHA256 before extracting delta onto exact kibble baseline. Not standalone.",
+  "parts": [
+    {
+      "name": "partial3702_bazaar_sticker_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "e6cb670de0ee56c28ead070bf8244427844bf77fd8a0f3dc5963ccddbc07da4d"
+    },
+    {
+      "name": "partial3702_bazaar_sticker_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "4145e943f5a76fb296e9e048f3f74f4a6a29af4a194184e67c1955a60cf6b548"
+    },
+    {
+      "name": "partial3702_bazaar_sticker_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "f3fb0d09b34ba3af5bfc942133fc241b1ad88d04bc5a123a5fda38f51b82720e"
+    },
+    {
+      "name": "partial3702_bazaar_sticker_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "a34f8347946a33d40fb00267e826cae0d9fa302458070f31e9e79a4abcccf27f"
+    },
+    {
+      "name": "partial3702_bazaar_sticker_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "63a9f56dc3a09853f880cbb41c79c13bf1fbd82bf112741ac629f7edd6460498"
+    },
+    {
+      "name": "partial3702_bazaar_sticker_v1.tar.xz.part005",
+      "bytes": 78840,
+      "sha256": "a35f62f42861628d474f5116bd72cffc42960e82f4f1a6006c7f9740929c1654"
+    }
+  ],
+  "files": {
+    "bazaar_sticker_v1/ATTEMPTS.json": {
+      "bytes": 1439,
+      "sha256": "fb3f54adf2e0e7bb08f7c092e0c1e10e760f5ecff5490e95525f701dc84814c7"
+    },
+    "bazaar_sticker_v1/BASE_MAP.json": {
+      "bytes": 4532084,
+      "sha256": "25d09e268051600e257facb6a67a744dbbfa20fb3c63d733811c91b2d9f11764"
+    },
+    "bazaar_sticker_v1/BINDINGS.log": {
+      "bytes": 5,
+      "sha256": "e628d1e0eca4d8c7f07c8f9e7c2ff22032d7b86798856591ac4cf1074b1a306f"
+    },
+    "bazaar_sticker_v1/EXPECTED_ROWS.json": {
+      "bytes": 10519,
+      "sha256": "026608774c210bf1b2b644761447d62836f4311ce1b47fd6bd232244a86a0f18"
+    },
+    "bazaar_sticker_v1/GATE_PARSE.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "bazaar_sticker_v1/PACKAGE_MANIFEST.json": {
+      "bytes": 8586,
+      "sha256": "501f0cda42fe5bce099f389249959f05c3c8d75e323814f77f2542864417b5fb"
+    },
+    "bazaar_sticker_v1/PIN_PREFLIGHT.json": {
+      "bytes": 225455,
+      "sha256": "32232e3c35179a809921f1d75d89606cb9b898ebdd1077281225017dc851284a"
+    },
+    "bazaar_sticker_v1/PREFLIGHT.log": {
+      "bytes": 110,
+      "sha256": "a093805592a91096995543faad149d69e6cff47c8d75b84e97dda6e359377e00"
+    },
+    "bazaar_sticker_v1/PREFLIGHT_INITIAL.log": {
+      "bytes": 110,
+      "sha256": "a093805592a91096995543faad149d69e6cff47c8d75b84e97dda6e359377e00"
+    },
+    "bazaar_sticker_v1/PREFLIGHT_INITIAL_PROCESS.json": {
+      "bytes": 85,
+      "sha256": "afab00f6c94c44db315298ebfb2f732cef701854fd25037b75ff314a67739701"
+    },
+    "bazaar_sticker_v1/PREFLIGHT_PROCESS.json": {
+      "bytes": 84,
+      "sha256": "fa41e4ff967d7a4349e476e6c9ae21ada9bc9bff3c09e88c4dfc63ec227b4486"
+    },
+    "bazaar_sticker_v1/PUBLIC_AUDIT.json": {
+      "bytes": 1160,
+      "sha256": "e6a2588a49450261e74faa475edbea1e34351ca2654e159e5412587de839209c"
+    },
+    "bazaar_sticker_v1/README.md": {
+      "bytes": 2241,
+      "sha256": "55d51b0bfe75068473f3dd702866eda3da230727d9e46035a082e11e5e7975bb"
+    },
+    "bazaar_sticker_v1/RESULT.md": {
+      "bytes": 2935,
+      "sha256": "9816505dfaf4c161cdb25c873633e54ce25cbebe987106e574480ebc0b1b0090"
+    },
+    "bazaar_sticker_v1/SOURCE_DELTA.json": {
+      "bytes": 2213,
+      "sha256": "fe8d9429988f977809cb088709a3eca651b4bce96c307f1f996cc43d688db150"
+    },
+    "bazaar_sticker_v1/SOURCE_MAP.json": {
+      "bytes": 4532899,
+      "sha256": "7929ee96c1ec7ae7a28a41c9b9127bd597bf26edf3108703e6b75e7cd9f924c8"
+    },
+    "bazaar_sticker_v1/VALIDATION.json": {
+      "bytes": 1007,
+      "sha256": "6c48f6d2eadb97bb05e4eb473de98a07a1b27e0ba4254feeb72c4a856f5b2bd2"
+    },
+    "bazaar_sticker_v1/build.py": {
+      "bytes": 6033,
+      "sha256": "85eebdddf072736f8dcaafa4c55fcc5579ee4a92613c9cec8cba3926236963c5"
+    },
+    "bazaar_sticker_v1/delta/core/catalog.gd": {
+      "bytes": 1791062,
+      "sha256": "c6025ae6b7ccfa0d7c0f87ed18027d8cddf80ec9f4597dc1be2eebea85b18350"
+    },
+    "bazaar_sticker_v1/delta/core/owned_health_purchase_host.gd": {
+      "bytes": 16868,
+      "sha256": "2a31893a20095b861e729ada51e138aa1a2b9037f8ec3b7d9b9a60fe2105fe4f"
+    },
+    "bazaar_sticker_v1/delta/core/owned_health_purchase_sources.gd": {
+      "bytes": 25934,
+      "sha256": "65459df4239d810798cf2866e18e68f8bc09c453e4f85b5dd1d4e6c149ce01b5"
+    },
+    "bazaar_sticker_v1/delta/core/patch_3702_bazaar_sticker_sources.gd": {
+      "bytes": 33359,
+      "sha256": "cf2ed2dc6de20402f66473ab199646a92223dd9b1f02ab081c65818bd0991038"
+    },
+    "bazaar_sticker_v1/delta/data/patch_3702_bazaar_sticker_overlay.json": {
+      "bytes": 25391,
+      "sha256": "29cb68b7f839ca4aa91841f0d811e832ac85db6165be84ec01a4cea96bfb16b3"
+    },
+    "bazaar_sticker_v1/delta/research/patch_3702_bazaar_sticker/BG32_MagicItem_822.native.xml": {
+      "bytes": 3301,
+      "sha256": "2b88a1b313666aae50dbd3462e0deb2ee52b28fa459fdee3914a6dd08a30a45b"
+    },
+    "bazaar_sticker_v1/delta/research/patch_3702_bazaar_sticker/evidence.json": {
+      "bytes": 573,
+      "sha256": "850f9293dc076495fcd37a28a5f5ed01dca646ae7bca7fe3b9a5746e87238ce0"
+    },
+    "bazaar_sticker_v1/delta/research/patch_3702_bazaar_sticker/patch_37_0_2.html": {
+      "bytes": 61337,
+      "sha256": "6a40987138eb0f2bd6031fd1154f8ee28dc59b7dae79d8c410dab1c805543d9b"
+    },
+    "bazaar_sticker_v1/gate.gd": {
+      "bytes": 22956,
+      "sha256": "2c87bd4d9757bfa8d12bf7a08682f0880c6fdf0a5b94fba865b5850d18dfb0eb"
+    },
+    "bazaar_sticker_v1/map_sources.py": {
+      "bytes": 807,
+      "sha256": "59003b2aea4b2764e768c28d6cb4051540da66e2bc0c529af955a6fa5007a83f"
+    },
+    "bazaar_sticker_v1/pin_preflight.py": {
+      "bytes": 850,
+      "sha256": "8dcee88eb35599b439b0057dbc9ab78dc40086d6c6ca089e815319f6ffb96697"
+    },
+    "bazaar_sticker_v1/preflight.gd": {
+      "bytes": 383,
+      "sha256": "f543fa6c992e1fc0d9e8ca2e828cf8d3731c9b4dc025c2d065b890b5ae186f87"
+    },
+    "bazaar_sticker_v1/preflight.py": {
+      "bytes": 785,
+      "sha256": "9bfbd04f5828d0ed670aea94f4e32c15e1214c203e4538077290aed8a6a5bb03"
+    },
+    "bazaar_sticker_v1/refresh_virtual_bindings.py": {
+      "bytes": 1150,
+      "sha256": "d407fd150422eb3c9ed942eb0577b477abe79609b00dcc9d469e5594a125c397"
+    },
+    "bazaar_sticker_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "bazaar_sticker_v1/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "bazaar_sticker_v1/run_1/EXPECTED_ROWS.json": {
+      "bytes": 10519,
+      "sha256": "026608774c210bf1b2b644761447d62836f4311ce1b47fd6bd232244a86a0f18"
+    },
+    "bazaar_sticker_v1/run_1/LAUNCH.json": {
+      "bytes": 503,
+      "sha256": "2d373435797ae50ae9bda1baf18746a551dc135e69d145f629780b6c4433b88c"
+    },
+    "bazaar_sticker_v1/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 225455,
+      "sha256": "32232e3c35179a809921f1d75d89606cb9b898ebdd1077281225017dc851284a"
+    },
+    "bazaar_sticker_v1/run_1/PROCESS.json": {
+      "bytes": 577,
+      "sha256": "d6da0646938e328c646f10c69a39ec8686bd82872851de69f7e5d2dd59cd1a57"
+    },
+    "bazaar_sticker_v1/run_1/SOURCE_DELTA.json": {
+      "bytes": 2213,
+      "sha256": "fe8d9429988f977809cb088709a3eca651b4bce96c307f1f996cc43d688db150"
+    },
+    "bazaar_sticker_v1/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 139052,
+      "sha256": "d2256e4d27748bfd651af84614c8514280526bd89ba4fb0e36dc23c2b5a97ac5"
+    },
+    "bazaar_sticker_v1/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4532899,
+      "sha256": "7929ee96c1ec7ae7a28a41c9b9127bd597bf26edf3108703e6b75e7cd9f924c8"
+    },
+    "bazaar_sticker_v1/run_1/data/forged_prefix_missing_source_proof.json": {
+      "bytes": 35268,
+      "sha256": "0def7b6469d1a44b40856865162d55a075d1bf438b9ef5ef1b31fda398d99dea"
+    },
+    "bazaar_sticker_v1/run_1/data/forged_prefix_old_cost.json": {
+      "bytes": 35413,
+      "sha256": "6eede8ae131de6e705351f2ffad10c622855e3296e1318cd96d072ac97c4b91e"
+    },
+    "bazaar_sticker_v1/run_1/data/forged_prefix_proof_hash.json": {
+      "bytes": 35362,
+      "sha256": "05142d979d30d4d943c9131ce41f5b6d3f0a31539429c0696c2dec9ccb4ac730"
+    },
+    "bazaar_sticker_v1/run_1/data/forged_prefix_quota.json": {
+      "bytes": 35413,
+      "sha256": "4b9f494b469bc2f3b5a1616615de0535811d94bfde192131e845de4b478739ed"
+    },
+    "bazaar_sticker_v1/run_1/data/forged_prefix_source_id.json": {
+      "bytes": 35410,
+      "sha256": "7fe6841e0ec4a6038e22a6d44c549e36d9b2e4a7b342aa90cb47459dc9ed5aea"
+    },
+    "bazaar_sticker_v1/run_1/data/forged_prefix_source_proof.json": {
+      "bytes": 35402,
+      "sha256": "fa30f210158ceab66e81ba75cb70ec4ef0d12f731b9feb83f7950fed0de335da"
+    },
+    "bazaar_sticker_v1/run_1/data/forged_terminal_missing_source_proof.json": {
+      "bytes": 49383,
+      "sha256": "1606820994a812962f359d0007321141441b123418309517abe66b703a20962b"
+    },
+    "bazaar_sticker_v1/run_1/data/forged_terminal_old_cost.json": {
+      "bytes": 49528,
+      "sha256": "93dbb9ecbf07b41f7291c39049d9f75049cf1e43c95c13a6e4149e11989d8f4d"
+    },
+    "bazaar_sticker_v1/run_1/data/forged_terminal_proof_hash.json": {
+      "bytes": 49477,
+      "sha256": "a971fd8fad3dde4d32bb2ac9a810bfceb9c04fbc79bf6807c3f8fffc52d5be97"
+    },
+    "bazaar_sticker_v1/run_1/data/forged_terminal_quota.json": {
+      "bytes": 49528,
+      "sha256": "1efebdfb82a3c01101ee9db3bff4bc6ab1af35e97662adea5cc50e68bd19b99e"
+    },
+    "bazaar_sticker_v1/run_1/data/forged_terminal_source_id.json": {
+      "bytes": 49525,
+      "sha256": "3acad8db9a829da75c07c223e2d08abd7519d2ae8d0148c29324d31355c51ba0"
+    },
+    "bazaar_sticker_v1/run_1/data/forged_terminal_source_proof.json": {
+      "bytes": 49517,
+      "sha256": "c5910ab6e5f6bf235ccf67bb8685c6e8b3fa58943a6637ea83f971a134daa6a4"
+    },
+    "bazaar_sticker_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 47019,
+      "sha256": "6c74e0938e5dd13fbc1a53e53a55fd2e752032cc11f171563a4980c5b978c607"
+    },
+    "bazaar_sticker_v1/run_1/data/quota_used.native_save.json": {
+      "bytes": 49928,
+      "sha256": "851d1d40e1d13e6e38d501e0f8f84d33536c1502f33468391c53f06c8de1ca3d"
+    },
+    "bazaar_sticker_v1/run_1/data/report.json": {
+      "bytes": 3233565,
+      "sha256": "84d325293cb401a363e07185297586c0931b507fb776a489dc43332822a76973"
+    },
+    "bazaar_sticker_v1/run_1/data/round_reset.native_save.json": {
+      "bytes": 62941,
+      "sha256": "243f80d6867455c50b4712416538fb170ec865f2ee73f20ea11888afe1261954"
+    },
+    "bazaar_sticker_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 65846,
+      "sha256": "86d13538eeeb2fffb2e0b57bff80a6e23eb9ec34c1a1caeda11388d10fc5b879"
+    },
+    "bazaar_sticker_v1/run_1/gate_executed.gd": {
+      "bytes": 22956,
+      "sha256": "2c87bd4d9757bfa8d12bf7a08682f0880c6fdf0a5b94fba865b5850d18dfb0eb"
+    },
+    "bazaar_sticker_v1/run_1/native.log": {
+      "bytes": 1117,
+      "sha256": "a032705b45c28fa25d8a25ea16cc585a4908914c32403e9b12c09a17d51fa7b0"
+    },
+    "bazaar_sticker_v1/seal.py": {
+      "bytes": 2584,
+      "sha256": "f935a9f9182f81210e6de83e58cbdc40a3b3212729f6ef7a4c7d4b3e40a32908"
+    },
+    "bazaar_sticker_v1/verify_public_report.py": {
+      "bytes": 8761,
+      "sha256": "60b3b448147171317fde8be35ec75f45c652019b6ce7aacdae268ed138653c18"
+    }
+  }
+}
