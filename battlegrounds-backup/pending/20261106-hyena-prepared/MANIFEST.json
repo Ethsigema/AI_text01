@@ -1,0 +1,340 @@
+{
+  "status": "PREPARED_NOT_EXECUTED; remote-download verification paused after cancelled approval; full dependency chain recoverability unconfirmed; no promotion",
+  "archive": "partial3702_hyena_prepared_v1.tar.xz",
+  "sha256": "fa93d079622ea4ab1fce400d68c84c636e822e202abd97304b07244dda20c9fe",
+  "bytes": 1392332,
+  "parts": [
+    {
+      "name": "partial3702_hyena_prepared_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "6ee6b3743d0912540c53e636b292b28f0e3a7254b8741deae539cbb199d8c7e2"
+    },
+    {
+      "name": "partial3702_hyena_prepared_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "074d8fdfee38c5a4fb205877261a88ca73a9ed6e40c740a9f82a287c6dd8d024"
+    },
+    {
+      "name": "partial3702_hyena_prepared_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "b832bab557a8a08c5624ad5cf6cc7ef3973cd022d6ba3f935bd4c8ffa8947d94"
+    },
+    {
+      "name": "partial3702_hyena_prepared_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "a912b3e3e7c7046c8ece3bb1f9d39fd5b7fa04b272e1a2c71b794875aec00ef8"
+    },
+    {
+      "name": "partial3702_hyena_prepared_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "f0377be75c30cfe4218ac4f3bfc39cd6a8f844a8387ff792e1b03d36680a9fcb"
+    },
+    {
+      "name": "partial3702_hyena_prepared_v1.tar.xz.part005",
+      "bytes": 142332,
+      "sha256": "7ab159d6293912bc7f9c87bd3f7dcc9383154100612edeb5580f1fe1be00bcc8"
+    }
+  ],
+  "files": {
+    "hyena_prepared_v1/BASE_MAP.json": {
+      "bytes": 4520249,
+      "sha256": "eb775845d65057e3cf7aaaed5ff7d03c8b54675ae9e7bc80eea1276b12338ca5"
+    },
+    "hyena_prepared_v1/CORE_STATIC_CHECK.json": {
+      "bytes": 2405,
+      "sha256": "3552d55764c2877dba95f456b4fe475758c9960213cee6f73d76d0cf84ec1b2c"
+    },
+    "hyena_prepared_v1/EXPECTED_ROWS.json": {
+      "bytes": 15395,
+      "sha256": "99d6e324c86d76715ebced24854694d8e0a30c248342482e37e06826b955ca1e"
+    },
+    "hyena_prepared_v1/GATE_NOTES.md": {
+      "bytes": 7395,
+      "sha256": "c1ba37b71ca646e525d525d63c848d15cd1e0d84ccbf9dc906d80149446d79b2"
+    },
+    "hyena_prepared_v1/NATIVE_FACTS.json": {
+      "bytes": 910,
+      "sha256": "c2ea2bdb889dee07a344facd598ce09ad98f6a016ad2fee5ed72d89665dd44c8"
+    },
+    "hyena_prepared_v1/OFFLINE_PREFLIGHT.json": {
+      "bytes": 2326,
+      "sha256": "d8ceb0a64905e5d6611b0af74e00db1bf67c8d44f9cd997b72f9367232b18ff9"
+    },
+    "hyena_prepared_v1/PLAN.md": {
+      "bytes": 1290,
+      "sha256": "11dae966c3d1168dbfe06dbb6be430690c2a48601eaf1eca77dd51bf973b6e40"
+    },
+    "hyena_prepared_v1/PROGRESS.md": {
+      "bytes": 1098,
+      "sha256": "19077c813c7f5bf58480f459437744e4e8ce17a6023773e8ade0d4d9ce35bdb1"
+    },
+    "hyena_prepared_v1/README.md": {
+      "bytes": 1373,
+      "sha256": "8269bb602420fb25ff734d7a1bba8bb674955341d6cde558ca332bf2e6b225aa"
+    },
+    "hyena_prepared_v1/REFRESH_VIRTUAL.log": {
+      "bytes": 1611,
+      "sha256": "f0a9148fd7d134fae9cfd86167a4be8e9da3cdaa8a01a99221441f4e02e36ed5"
+    },
+    "hyena_prepared_v1/SHA256_MANIFEST.json": {
+      "bytes": 11044,
+      "sha256": "556532854ce32b39078a5b6d63c4f399b01a64b9e4d92a94d08833ef41f898cf"
+    },
+    "hyena_prepared_v1/SIMULATOR_MANIFEST.json": {
+      "bytes": 568,
+      "sha256": "ca86bdd45bbdef140f316ce73acd681e02d22470387626878a7de1c40928499b"
+    },
+    "hyena_prepared_v1/SOURCE_DELTA.json": {
+      "bytes": 15051,
+      "sha256": "f2296f19f4af3b6f024e64cb4d73994e6f36ce766de3033de51ef19ce63edbaa"
+    },
+    "hyena_prepared_v1/SOURCE_MAP.json": {
+      "bytes": 4522093,
+      "sha256": "c5ad7eec92426faf3c9054bacbaeb7bc937599b792a8556d440b8803bc710ea3"
+    },
+    "hyena_prepared_v1/STATIC_CORE_OUTPUT.log": {
+      "bytes": 2405,
+      "sha256": "3552d55764c2877dba95f456b4fe475758c9960213cee6f73d76d0cf84ec1b2c"
+    },
+    "hyena_prepared_v1/build.py": {
+      "bytes": 5225,
+      "sha256": "e15ad078289dc4140a046e3cc9f07ce2ddfa685a92cc7654c3850ae7e9870f95"
+    },
+    "hyena_prepared_v1/delta/core/catalog.gd": {
+      "bytes": 1773867,
+      "sha256": "5b65eaa9a4ce69aad365e1a10d4474f477fd66b4b4e7c34113a9d19d03401e0e"
+    },
+    "hyena_prepared_v1/delta/core/combat.gd": {
+      "bytes": 572535,
+      "sha256": "d4d401faf1a5cc868c54a110b7adaf0bd2739e8e3883f14867f6dc98b431aa3c"
+    },
+    "hyena_prepared_v1/delta/core/game.gd": {
+      "bytes": 1314985,
+      "sha256": "01d57470fcb42e0366ed66661f4129131bb756a665de52f8d873252bc46bf92e"
+    },
+    "hyena_prepared_v1/delta/core/hyena_host.gd": {
+      "bytes": 9140,
+      "sha256": "8d44757ea3c310d01a6d08ac5a1d43fc6e5b3c571f5eec44bcbf3ae856a4306f"
+    },
+    "hyena_prepared_v1/delta/core/hyena_sources.gd": {
+      "bytes": 5499,
+      "sha256": "ef9f3e87a751dbbb067223b0bc2803251e203573db25439b4520bf93b46a33e4"
+    },
+    "hyena_prepared_v1/delta/core/lobster_history.gd": {
+      "bytes": 14673,
+      "sha256": "949979709909f605c496d9429c35a5c23ac2a969e854b3e55328fdeba4420b1e"
+    },
+    "hyena_prepared_v1/delta/core/lobster_host.gd": {
+      "bytes": 18651,
+      "sha256": "249e94b3fa9f7af12464ea4f114ff7c7e48ad02dc0176bfa8712c8dfe70e51a6"
+    },
+    "hyena_prepared_v1/delta/core/lobster_sources.gd": {
+      "bytes": 9063,
+      "sha256": "a601bea3b9767c5d60d6560052383ed744416e15a52f7232bee4128d331fe3cd"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "a137c6ea653bd66ac96c781ee31813679fc4bc076a538950990ce0584f899e8e"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "82e82d003d5f4a21293d9537e4591c6c196f70a6aa0c1b534f73ac781fb8410d"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "6cdcb12affcc312d650df44ecda992beee2ad8b0713da73853bcb14897e72f63"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "120dd8353b47b4976ffdfa94bccc197eea2ab0e539eca93c4d31d1fe4487c7cd"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "86901925118a703108336c3b88ddb74527ea1416c04c6dcb720b6d1987e42d9a"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "15f6941d19e6af9e7dbba30f0997965e0524d9c004928915aebbc5a3fca16e3f"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "2fe9dd045fb46fcdbb2fce7e026537cd8fa0a991699365cbd85ef3c5737aaaf5"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "69ec6c22849dc40261c4f554d9c29be972df0895769da2b6601f333187aac5e0"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "4a04785557735982e45dd57465c1c953fd885eca3ab63ec542702810c1d183b6"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "e788d080645f2121ba0a10fb58bbe8eb57d0972543306438e63fc598238871fe"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "3d5cae97161ad0eb885d8741da274ed6cc6bed3f7ff9607dfe86e1a78ec4cb3b"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "c34d2195a4dd25e1b30b93f8ef7a204071dce014a4d93431727828d607ecb8fe"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "114095eab7786dce257e9523d72f7cdd809f4757749af000ed7d95bf0569baf6"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "af11dcde6066d881171649aac3c27a3b8c2478215dacaef943e1846286837b4c"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "271b3b42fd262fc5bf7fd7f8f990231de6483046c6a9c8d53d2e1ae0fb226840"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "ffa747fc4e4eb3a125c3dadecec29019d6c8fd06bfd6a280aa7cd7f7fa45b5d8"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "d88845ccd5b516b7b40e3fd7d545cca70c36bcee7cf8c7c170c3620504048e81"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "b6d4fb8ebf2a5443be0cbd1eed673efdb5066b2fb07f30a242530eaa4bc039c4"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "1cf42bec3b7eb3652a3d7056dd4eb10f67c4f3fa8fa430b0eea020bff3002cc6"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "63126ce24b6a000dd8c316d4aaa70b6244534b7815a3384c63732a6977d0c2ce"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "19e8c18bf9df16139e0f8cf57ffa801d7729dafb025386148f7a6393b3366713"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "362c35cd4c6b621f73d19d5751cdc0f0757403a1d49f71dc161d3b35158b885c"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "12013f5a79344b4e2b2e2884bf52fa63bc730f0c5da9238c180b744fc5e2328e"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "b7e1c749db0d62cd7f429a895ee0047ef91d6f574dae1e4e76a3ffd61572d733"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "616022ffcd61bed149b9fee80f858cce1b35866ccac2e71f0693636963d82f90"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "476319901a1c8dfb7ada29e6ab9ee9daf2c00dfc93a256c96c0c15bd49954dee"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "8a1e22b5438b4b50cc372657eaf25fa7abb5d954aef6da475c6ea1080249f011"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "a4899778002b77916f3681ec90d766e53939f055ecdbad09db691d6062d92d09"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "367a5416122214a858ba542ab8bbff85aa1c268d695fc3782cbcf2114ac2ba42"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "96045d5feeae780eb9360d05c01cf837246e77a6ff6bd97ff568cc6c3085acaa"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "f5debe838e95667bd6dd9658498ed11719bc7b239dfda6d3fb986d6b6488487d"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "8c9356f69909f3930d49e98f54d64e32521fabd202476f0ebf41834c40ad8a37"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "b8e0f5e9911aad678b7cc02fc56c1253e8ac9b4c7d283a37eb8d317bc9864ee4"
+    },
+    "hyena_prepared_v1/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "e8248aab38eeb515ce3f5b9147b6d5347902dc5a65f4b714faa43ce2e406d4b6"
+    },
+    "hyena_prepared_v1/delta/data/patch_3702_hyena_golden_overlay.json": {
+      "bytes": 16645,
+      "sha256": "b05aa5fc0b2cc6f2d82135174f4345d5c4c6711e4a6b3c579ac9ca48ff8d5376"
+    },
+    "hyena_prepared_v1/delta/data/patch_3702_hyena_overlay.json": {
+      "bytes": 16344,
+      "sha256": "d6ee8b4246911de28c84ac4cdc0e623310cf3af70dc75f94e11a7a8308078436"
+    },
+    "hyena_prepared_v1/delta/research/patch_3702_hyena/BG36_210.native.xml": {
+      "bytes": 2603,
+      "sha256": "2fb2a143656f213e58e764c4796a4f75e626639b87cd7c4e92a6159d2b1f2df4"
+    },
+    "hyena_prepared_v1/delta/research/patch_3702_hyena/simulator_manifest.json": {
+      "bytes": 568,
+      "sha256": "ca86bdd45bbdef140f316ce73acd681e02d22470387626878a7de1c40928499b"
+    },
+    "hyena_prepared_v1/delta/research/patch_3702_hyena/source_evidence.json": {
+      "bytes": 440,
+      "sha256": "d0e91f640d0a55cf74cad9dfa377bf7d0026e30827c9b1cb040d3ad75132e3e2"
+    },
+    "hyena_prepared_v1/delta/research/patch_3702_hyena_golden/BG36_210_G.native.xml": {
+      "bytes": 2650,
+      "sha256": "b385a1f6f05a9eb55135894ee3732f89cd44786b62bf68ec21d1faa6486c5299"
+    },
+    "hyena_prepared_v1/delta/research/patch_3702_hyena_golden/simulator_manifest.json": {
+      "bytes": 568,
+      "sha256": "ca86bdd45bbdef140f316ce73acd681e02d22470387626878a7de1c40928499b"
+    },
+    "hyena_prepared_v1/delta/research/patch_3702_hyena_golden/source_evidence.json": {
+      "bytes": 442,
+      "sha256": "db70701c4c19b5f43fb3102e4e1b9aaaac5861d3279221ab0d5849f3b579a737"
+    },
+    "hyena_prepared_v1/docs/INDEPENDENT_STATIC_REVIEW.json": {
+      "bytes": 3095,
+      "sha256": "482ceb6d29d5795971f94b1b1b6d03949c66367c5946381b01a529bdefd65576"
+    },
+    "hyena_prepared_v1/docs/progress_ledger.json": {
+      "bytes": 1406,
+      "sha256": "eb895b2e73fa3110fd5fc68135bf0690e91b42235e5f899d44a809d79fa1e0aa"
+    },
+    "hyena_prepared_v1/gate.gd": {
+      "bytes": 47211,
+      "sha256": "0aeae88425804d12b1f27ba0129a5d5dd8be73fd76f39fab861778be09af79b7"
+    },
+    "hyena_prepared_v1/map_virtual_sources.py": {
+      "bytes": 808,
+      "sha256": "d30307625f6b129af87929b49812adac187038f76e3df99042e43e86ec4bb112"
+    },
+    "hyena_prepared_v1/package.py": {
+      "bytes": 1446,
+      "sha256": "d0add5539b53c8b88e1eadc26fe5021d53c777b63110706a1f3ec8c9ccc846a4"
+    },
+    "hyena_prepared_v1/preflight.py": {
+      "bytes": 1125,
+      "sha256": "c4242760c1573c1e166fa3fc83cd3724c30418653f127fd4ac5ae63cbf28a5ad"
+    },
+    "hyena_prepared_v1/refresh_virtual_bindings.py": {
+      "bytes": 1151,
+      "sha256": "1989c62b0ef44c11f83c332d0836c505dd02ac9392cb83e889f0c6eb273ad51e"
+    },
+    "hyena_prepared_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "hyena_prepared_v1/static_core_check.py": {
+      "bytes": 6079,
+      "sha256": "28769572865c8258f75c18ed0afefe2ebb5aa1c5da4f7ddc45cb53e2ab5038a0"
+    }
+  }
+}
