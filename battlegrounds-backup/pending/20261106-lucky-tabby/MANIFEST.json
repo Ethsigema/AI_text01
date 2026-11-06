@@ -1,0 +1,280 @@
+{
+  "status": "Independent bounded candidate; no promotion or full trinket acceptance",
+  "archive": "partial3702_lucky_tabby_candidate_v1.tar.xz",
+  "sha256": "887f5136957411919d289343445cc52c47c640c3e70c0618854a92a0d8d0d61d",
+  "bytes": 2267912,
+  "parts": [
+    {
+      "name": "partial3702_lucky_tabby_candidate_v1.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "c379c7660e4efb0e04a2ec95299596976cf3f21f2d408a5e00fba52681f7b516"
+    },
+    {
+      "name": "partial3702_lucky_tabby_candidate_v1.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "b51852d4c398280d24f435c9a0da32e8914a41e775b8baaec2b961bf037f9a70"
+    },
+    {
+      "name": "partial3702_lucky_tabby_candidate_v1.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "7fdb15126cccd54fe863205b147c4e965bd758f602db0b2634e882172bd5e746"
+    },
+    {
+      "name": "partial3702_lucky_tabby_candidate_v1.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "23eaa2c57ccd365f75007ee8f183e35fd2c544e425b490484d947b26f02f96ca"
+    },
+    {
+      "name": "partial3702_lucky_tabby_candidate_v1.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "2edb83e303c210d77fc8cd3cc7d794c837bc8b1f219d71181f8d76c1e7e1a40b"
+    },
+    {
+      "name": "partial3702_lucky_tabby_candidate_v1.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "49ea0672196b32353985e4450f88116b4247b559d2dce14b8894aebdeb1de50a"
+    },
+    {
+      "name": "partial3702_lucky_tabby_candidate_v1.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "87a119eddfff9ba01fd1914e926564daa4836fd48106370fece1579f4a28b0c4"
+    },
+    {
+      "name": "partial3702_lucky_tabby_candidate_v1.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "2174a0f642f86a54d6ca523a8f32cfd3a056d84b721891ee619463d31f4ed1e5"
+    },
+    {
+      "name": "partial3702_lucky_tabby_candidate_v1.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "8385e8da6551b43ea5e746e817c94dc845feb625b5e60b25d63704fc55cb3a22"
+    },
+    {
+      "name": "partial3702_lucky_tabby_candidate_v1.tar.xz.part009",
+      "bytes": 17912,
+      "sha256": "90eb5f4b7632a37bc685671bfe443c28ea2338baebad5820f4d387cf173fa41b"
+    }
+  ],
+  "files": {
+    "lucky_tabby_candidate_v1/BASE_MAP.json": {
+      "bytes": 4506298,
+      "sha256": "323aa6db4a2d47a1b811ce54773ff651129e13159f33eeef5b8b822f7e4fc4bf"
+    },
+    "lucky_tabby_candidate_v1/EXPECTED_ROW.json": {
+      "bytes": 8748,
+      "sha256": "592ae719559c15a94fb7d3535e89bce7254a25418c7364a2782a909b243e0dd6"
+    },
+    "lucky_tabby_candidate_v1/PROGRESS.md": {
+      "bytes": 536,
+      "sha256": "73dd9f56d1214852a7d7f1963e09652a214df7a817c6294dd751ebe1a727d959"
+    },
+    "lucky_tabby_candidate_v1/README.md": {
+      "bytes": 1685,
+      "sha256": "f62b18929c5bddbb7cfbf6d6696ba65f0733cad8c688b9d5a0692d8ab1174fb9"
+    },
+    "lucky_tabby_candidate_v1/SHA256_MANIFEST.json": {
+      "bytes": 8111,
+      "sha256": "63389bb1f085d6e4089c8f00571666310b9f3a607c25570f562efaea2d403f01"
+    },
+    "lucky_tabby_candidate_v1/SOURCE_DELTA.json": {
+      "bytes": 2505,
+      "sha256": "3a7704e8d05b3c353617d7e7bb5d56e71d3f423d506fd3191f2e018d1a867327"
+    },
+    "lucky_tabby_candidate_v1/SOURCE_MAP.json": {
+      "bytes": 4507107,
+      "sha256": "1384d8577d66452eb89f1b40da64c472fe0ff2adeb6f2fc59469f73a0f4c9af0"
+    },
+    "lucky_tabby_candidate_v1/build.py": {
+      "bytes": 4890,
+      "sha256": "2ff27290ff61961d7da0637e5f77054b98db682165eb0d4e03844cf79a815aaa"
+    },
+    "lucky_tabby_candidate_v1/delta/core/catalog.gd": {
+      "bytes": 1748333,
+      "sha256": "d01f6aa7ef772e5478a7ff774aefa4acefd4b57fd3398d99b13afb03886d1a1c"
+    },
+    "lucky_tabby_candidate_v1/delta/core/cyclic_resource_trinkets.gd": {
+      "bytes": 55783,
+      "sha256": "ae107e287cf68be9074b5d96a9af4981a4b65b3d4fc9eccdda015bf6c8c38c2b"
+    },
+    "lucky_tabby_candidate_v1/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "b8eea17552d3e4808b8effa57ae647727dbe1b0d0bf5ce73f25c5768b242c9b0"
+    },
+    "lucky_tabby_candidate_v1/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "93492345c44b20734b3f7a4577e3971feada3ae7c7378e9ef4f23e37a7d3b764"
+    },
+    "lucky_tabby_candidate_v1/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "7444c0daea3f081e769312a46c78d16c17e12072421a3d89fede7c8010f1349d"
+    },
+    "lucky_tabby_candidate_v1/delta/data/patch_3702_lucky_tabby_overlay.json": {
+      "bytes": 20755,
+      "sha256": "4d50310d273636b6eb8994e85abea95a601e71f15400632d8fa373d76c8fc718"
+    },
+    "lucky_tabby_candidate_v1/delta/research/patch_3702_lucky_tabby/BG30_MagicItem_931.native.xml": {
+      "bytes": 3448,
+      "sha256": "eed902c87da87c216745d17c88be2d1804fd3f5576f080a2e9929ef2f73e538c"
+    },
+    "lucky_tabby_candidate_v1/delta/research/patch_3702_lucky_tabby/official_excerpt.html": {
+      "bytes": 180,
+      "sha256": "af02b4338e6a0c285c5f8f7b349723afaa3a83d33a6f86cce8ae6424243b172f"
+    },
+    "lucky_tabby_candidate_v1/delta/research/patch_3702_lucky_tabby/source_evidence.json": {
+      "bytes": 436,
+      "sha256": "001a50f765ca568d61300334ba9972c609236eb9b802fe05c9568cee36aaf2f3"
+    },
+    "lucky_tabby_candidate_v1/docs/progress_ledger.json": {
+      "bytes": 585,
+      "sha256": "c4041c61b16ebeb3db3a8a0d97c36886e3c41601b8042bb95d4be144210749f9"
+    },
+    "lucky_tabby_candidate_v1/gate.gd": {
+      "bytes": 18080,
+      "sha256": "06dc81ffb7d1882eed5e907c4dcc591ca8b233370e5b9027dc7cd53ec2ad7942"
+    },
+    "lucky_tabby_candidate_v1/map_sources.py": {
+      "bytes": 658,
+      "sha256": "700702c51cbbab2a6a371b29875d34044fc280d492a5b4c03ebc007a7a1b2220"
+    },
+    "lucky_tabby_candidate_v1/prepare.py": {
+      "bytes": 327,
+      "sha256": "ed9db6c6f06c0e1d74e45eb145a4c9fc86eae3ab3cf73bf5bfa0a5d1918bcf2f"
+    },
+    "lucky_tabby_candidate_v1/refresh_bindings.py": {
+      "bytes": 1006,
+      "sha256": "457e362f32aa8f9e9d4b03543bd94a9f799b629f39e8e0b34ee93eaf0e1f72d2"
+    },
+    "lucky_tabby_candidate_v1/restore_delta.py": {
+      "bytes": 1203,
+      "sha256": "ee24f5ff95ca72484c337f85b85324ec002addce195f304046c29e019137c23b"
+    },
+    "lucky_tabby_candidate_v1/run.py": {
+      "bytes": 1150,
+      "sha256": "ba4617ca56d51225eacf54618ae5042285708044006ee5de2346142d1c2582ad"
+    },
+    "lucky_tabby_candidate_v1/run_1/PROCESS.json": {
+      "bytes": 473,
+      "sha256": "bae5047a9b033d38ebad06c7672bfa1891de4b1ca80e625f0f750f1e06a50f93"
+    },
+    "lucky_tabby_candidate_v1/run_1/VALIDATION.json": {
+      "bytes": 1358,
+      "sha256": "adaf4676d84b6eedf91b00d567cc7d603cba9ad10823119ff708a0aac9639b8b"
+    },
+    "lucky_tabby_candidate_v1/run_1/data/initial.native_save.json": {
+      "bytes": 23726,
+      "sha256": "9c684740c368ab809c4d5540e615800d7838633b5c52f4d4949edb886fcab402"
+    },
+    "lucky_tabby_candidate_v1/run_1/data/prefix.native_save.json": {
+      "bytes": 82273,
+      "sha256": "0378e6fcc181acebb62821dc9933923ddefb295ad81d8a399bf9bc8d955ad830"
+    },
+    "lucky_tabby_candidate_v1/run_1/data/report.json": {
+      "bytes": 5977355,
+      "sha256": "8093d628b3d6fc4a33ba4b5568a1f4f5ce8eb73ba85501623e7f4134f5712a54"
+    },
+    "lucky_tabby_candidate_v1/run_1/data/terminal.native_save.json": {
+      "bytes": 92616,
+      "sha256": "178c59983feb7624c12a38245486ea634eba5097981768d3a9d98a9bae823c25"
+    },
+    "lucky_tabby_candidate_v1/run_1/native.log": {
+      "bytes": 1542,
+      "sha256": "127aacef61704a7e21998c5218c5d8d91149d4915521ec7c9aef249eaa51a11b"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/EXPECTED_ROW.json": {
+      "bytes": 8754,
+      "sha256": "df5a4d21c932b3d07ec531674bc25a6524ef70e7731949b889f3ed49a71ee7be"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/SOURCE_DELTA.json": {
+      "bytes": 2505,
+      "sha256": "9cb7bc683c24a7645a7a012c0da0c8181bc5b1cffc3c825505654a2a081a60a3"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/SOURCE_MAP.json": {
+      "bytes": 4507107,
+      "sha256": "7f558b814a5eece49ca09493585c5eab435f368868a2f94e81d2509dc302e93e"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/build.py": {
+      "bytes": 4896,
+      "sha256": "eccb6c3ee5f9af2766d428efd351c3369bdcdbc80ee8e9998fb7df41f7e299c0"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/delta/core/catalog.gd": {
+      "bytes": 1748333,
+      "sha256": "d01f6aa7ef772e5478a7ff774aefa4acefd4b57fd3398d99b13afb03886d1a1c"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/delta/core/cyclic_resource_trinkets.gd": {
+      "bytes": 55783,
+      "sha256": "ae107e287cf68be9074b5d96a9af4981a4b65b3d4fc9eccdda015bf6c8c38c2b"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27805,
+      "sha256": "3e167eb203a240f57cd255217fab1cfce1c27a02d6d2ae8d8d03fbd3352d678b"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "93492345c44b20734b3f7a4577e3971feada3ae7c7378e9ef4f23e37a7d3b764"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "7444c0daea3f081e769312a46c78d16c17e12072421a3d89fede7c8010f1349d"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/delta/data/patch_3702_lucky_tabby_overlay.json": {
+      "bytes": 20767,
+      "sha256": "0322c4aa954b89d7aa0a8c72d061184e7da662473e5b7974b7dbbb38e014b26c"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/delta/research/patch_3702_lucky_tabby/BG30_MagicItem_931.native.xml": {
+      "bytes": 3448,
+      "sha256": "eed902c87da87c216745d17c88be2d1804fd3f5576f080a2e9929ef2f73e538c"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/delta/research/patch_3702_lucky_tabby/official_excerpt.html": {
+      "bytes": 185,
+      "sha256": "21e17747859a122c9b4751f6636a223159faa15f06fc1348f80095d5ad95dc5a"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/delta/research/patch_3702_lucky_tabby/source_evidence.json": {
+      "bytes": 442,
+      "sha256": "86867fa9ae604f5f4b04e628646bd35b5f14f43cbfbb7f32b74ab1d5a2708a1a"
+    },
+    "lucky_tabby_candidate_v1/run_1/source_before_revision_fix/validate.py": {
+      "bytes": 3614,
+      "sha256": "5c87adeeb14582d635ba9f5bbe206674d15393cd39032a770281459aeb003f62"
+    },
+    "lucky_tabby_candidate_v1/run_2/PROCESS.json": {
+      "bytes": 473,
+      "sha256": "3fdaf0cb7bd53329054205b2cff1dd74440b77fb189289d2ff24dab218171289"
+    },
+    "lucky_tabby_candidate_v1/run_2/VALIDATION.json": {
+      "bytes": 1358,
+      "sha256": "b60dffe99a64bd37717c8d97469d4404e911a2a874e00e9112969c399d629984"
+    },
+    "lucky_tabby_candidate_v1/run_2/data/initial.native_save.json": {
+      "bytes": 23726,
+      "sha256": "17b88e1abbe2e7a2c5af1a4351ee7e8fb4bd0474f6412c1eabb13365d12f8667"
+    },
+    "lucky_tabby_candidate_v1/run_2/data/prefix.native_save.json": {
+      "bytes": 82273,
+      "sha256": "4e9869a72bd4ba67fc11627018e30206c03d6c3235fb693ee49e610b739aa746"
+    },
+    "lucky_tabby_candidate_v1/run_2/data/report.json": {
+      "bytes": 5977277,
+      "sha256": "738da493cf56b3b22efc3fc2476f753f6d8eda84cf1e231c5e30d6e297fbd9f0"
+    },
+    "lucky_tabby_candidate_v1/run_2/data/terminal.native_save.json": {
+      "bytes": 92616,
+      "sha256": "e7dca7eb6da60d6cc51a501577796a7e921997a34b1313990894ba19992c6bfd"
+    },
+    "lucky_tabby_candidate_v1/run_2/native.log": {
+      "bytes": 1542,
+      "sha256": "8034dde8db776b73d9e1e2685adaa073847e28dd625995fe8f129c39fc3a241a"
+    },
+    "lucky_tabby_candidate_v1/run_v2.py": {
+      "bytes": 1150,
+      "sha256": "3bead5607d6e7b26a2c7256c2bcf961fcd62e7931b103ea0fea4d8b74d630305"
+    },
+    "lucky_tabby_candidate_v1/validate.py": {
+      "bytes": 3614,
+      "sha256": "5c87adeeb14582d635ba9f5bbe206674d15393cd39032a770281459aeb003f62"
+    },
+    "lucky_tabby_candidate_v1/validate_v2.py": {
+      "bytes": 3614,
+      "sha256": "a7154faa49def145ee8dbbd2fcc98046aa9d8d5547289688efae0eaef6a99e1a"
+    }
+  }
+}
