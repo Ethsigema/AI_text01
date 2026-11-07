@@ -1,0 +1,271 @@
+{
+  "archive": "electron_robust_evolution_20261107.tar.xz",
+  "bytes": 1100380,
+  "sha256": "cd625a1d580c75942e3b7a8f8fb39c773dad64fb1c85efdab1099dd1c8c5bc22",
+  "files": {
+    "electron_robust_evolution_20261107/BASE_MAP.json": {
+      "bytes": 4571256,
+      "sha256": "6f3b6db8269a0e7522b395b534b7ff0fc4bee76533c90e3a24856064737e6f1a"
+    },
+    "electron_robust_evolution_20261107/EXPECTED_ROWS.json": {
+      "bytes": 25905,
+      "sha256": "73d7f98b88aa6ca6205d2c8eab736b3df3e6ef9e328eb700c67d4c75dc1d4d69"
+    },
+    "electron_robust_evolution_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_robust_evolution_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 7492,
+      "sha256": "6d7130ceedf3fff177982489e80be282df59ae505fc9397bf83ab6c477867f69"
+    },
+    "electron_robust_evolution_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 275010,
+      "sha256": "76366dba7010550c3c498cb63a027c393b0ff240d9db78ef20d56bdcdc9fcf24"
+    },
+    "electron_robust_evolution_20261107/README.md": {
+      "bytes": 2994,
+      "sha256": "fc72bf15287e80df3ab458d124b6829a26ef503348dcb256cbf4303618736a8a"
+    },
+    "electron_robust_evolution_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "b731999385142be5ee5a4bd10764c04e7d7bda19f6eada29aa40bbb7ef822343"
+    },
+    "electron_robust_evolution_20261107/SOURCE_DELTA.json": {
+      "bytes": 1827,
+      "sha256": "bce2ad94520dab3b1428ed77ce39ef66335f39e6a29b4fe7d215404334e8baf4"
+    },
+    "electron_robust_evolution_20261107/SOURCE_MAP.json": {
+      "bytes": 4571583,
+      "sha256": "7c6e3c37c5e2efe75c210b667a9e197f97bb8ae6cff6a9d17b5c9e7d66231297"
+    },
+    "electron_robust_evolution_20261107/VALIDATION.json": {
+      "bytes": 851,
+      "sha256": "a350076deea258c15b0f91e98a36371f5ef3f0049447ac8917c72dc10069a095"
+    },
+    "electron_robust_evolution_20261107/build.py": {
+      "bytes": 3587,
+      "sha256": "0c0b231945e210bef403404f2b7dd2ac4389c507a49bf26bc4af800395e4aa17"
+    },
+    "electron_robust_evolution_20261107/delta/core/native_hand_spell_target.gd": {
+      "bytes": 3236,
+      "sha256": "a2cde01e638861b3212673dc84f58f29e14b42722cc4e3c5f21453cee6675a9c"
+    },
+    "electron_robust_evolution_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 46315,
+      "sha256": "48a8b7ffe2d2d4c6928782eacbf7dc6b00e51973a29828394e5f63a9e85af2d3"
+    },
+    "electron_robust_evolution_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 44368,
+      "sha256": "75d29e160f487bbfd39a66b4a9c419d4ee8b6f1436d30674e03bb8f2bc8c2f1a"
+    },
+    "electron_robust_evolution_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "2ceed94d9af3419f46b24407dd9c72f59b29ead2a13f320ed9a2771e51c513e7"
+    },
+    "electron_robust_evolution_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "275ffadd2a82fc3bc989e70869a764a3a697b5a08f5f8b6c1e184a19224be68e"
+    },
+    "electron_robust_evolution_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 15945,
+      "sha256": "2b00a68a78dad57ca57968b20d81fb9b8477b5409eafd9de789fe2ff56fd92bc"
+    },
+    "electron_robust_evolution_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 25995,
+      "sha256": "f93ea4985145837705a8a3578732593119fcf8afeb6857e4b8d697b95c42717f"
+    },
+    "electron_robust_evolution_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 24785,
+      "sha256": "52b9220aa739e4611207408705fba4ac842b7411926bd464258d3ff9805371f6"
+    },
+    "electron_robust_evolution_20261107/delta/research/electron_robust_evolution/BG30_804.native.xml": {
+      "bytes": 3231,
+      "sha256": "931d716593dfc9b1d258d704e6c8a5f5f536fc9db9c58c5970e1f08f4a00f32d"
+    },
+    "electron_robust_evolution_20261107/delta/research/electron_robust_evolution/evidence.json": {
+      "bytes": 618,
+      "sha256": "515695f25556da0855c686f9addf2c940b6e93d74a27153661394c9b62fdc056"
+    },
+    "electron_robust_evolution_20261107/fix_target_dispatch.py": {
+      "bytes": 484,
+      "sha256": "65a5448b8a9cf7f59739359c2acb9f00c3291c4f6371fec9b2bb639383969a95"
+    },
+    "electron_robust_evolution_20261107/gate.gd": {
+      "bytes": 20542,
+      "sha256": "985b8d102f31d2650cf3c75d90fd2a76bd3922fd3ad382d835dc4ec72b8e8617"
+    },
+    "electron_robust_evolution_20261107/materialize.py": {
+      "bytes": 1668,
+      "sha256": "d816bab171e01af48552bab1657759abc41797aab9717b563e9dcd003c667d35"
+    },
+    "electron_robust_evolution_20261107/prepare_gate.py": {
+      "bytes": 6947,
+      "sha256": "cafe43bd9f7447df3e528e5e358c636a8447b54346d93f39587ddb654e59e3de"
+    },
+    "electron_robust_evolution_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1172,
+      "sha256": "bde55b04fdae5dbd9dc3fd39c69d8b1ac3e2a6d86246a19ea8fa116f90748652"
+    },
+    "electron_robust_evolution_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_robust_evolution_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 25905,
+      "sha256": "73d7f98b88aa6ca6205d2c8eab736b3df3e6ef9e328eb700c67d4c75dc1d4d69"
+    },
+    "electron_robust_evolution_20261107/run_1/LAUNCH.json": {
+      "bytes": 537,
+      "sha256": "5a42a7b1c3499a5066077777f5bc721d8648d39bbe4f870b88dc9046b7cff29f"
+    },
+    "electron_robust_evolution_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 275010,
+      "sha256": "76366dba7010550c3c498cb63a027c393b0ff240d9db78ef20d56bdcdc9fcf24"
+    },
+    "electron_robust_evolution_20261107/run_1/PROCESS.json": {
+      "bytes": 611,
+      "sha256": "fa12e4e341f1d27a8ae423368e009e13fe12b118356ece13b0a85bac7d55a7b8"
+    },
+    "electron_robust_evolution_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1320,
+      "sha256": "4a22bab4875e2cd9b4807229238ea87bd38c771ab7022229a859134b617bdfb5"
+    },
+    "electron_robust_evolution_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 15456,
+      "sha256": "dc10377b8cd9ba80421276d21df6b206af8b27a4b9401d56b79d9b06e308a0aa"
+    },
+    "electron_robust_evolution_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4571583,
+      "sha256": "d4fba132f97984231522645200601e6f688f65fe58d7388cda1675f980e4852d"
+    },
+    "electron_robust_evolution_20261107/run_1/data/buffed_evolution_target.native_save.json": {
+      "bytes": 56018,
+      "sha256": "7f8f70253f857b9af4c5203d29513afdd0b1e1f2e402f4561d00780f587bc131"
+    },
+    "electron_robust_evolution_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 34516,
+      "sha256": "752c2e1aa9d12584192763271f13607a22db6ab92080fe74386efbac2a2dc298"
+    },
+    "electron_robust_evolution_20261107/run_1/data/report.json": {
+      "bytes": 1002459,
+      "sha256": "e87268be777decbe8d02cf85a3c7fc7d30689fe85419078200d4ea28501c4746"
+    },
+    "electron_robust_evolution_20261107/run_1/gate_executed.gd": {
+      "bytes": 20542,
+      "sha256": "985b8d102f31d2650cf3c75d90fd2a76bd3922fd3ad382d835dc4ec72b8e8617"
+    },
+    "electron_robust_evolution_20261107/run_1/native.log": {
+      "bytes": 321,
+      "sha256": "d639d24a0c3adb656b0841dcd6c83e69f7e13daa025088c3163e66fdd01ab41c"
+    },
+    "electron_robust_evolution_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 25905,
+      "sha256": "73d7f98b88aa6ca6205d2c8eab736b3df3e6ef9e328eb700c67d4c75dc1d4d69"
+    },
+    "electron_robust_evolution_20261107/run_2/LAUNCH.json": {
+      "bytes": 537,
+      "sha256": "c7aa95f49f2a8e5b73f87a9f0ccbea0379084595fcf537c702641b3465d2e0a9"
+    },
+    "electron_robust_evolution_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 275010,
+      "sha256": "76366dba7010550c3c498cb63a027c393b0ff240d9db78ef20d56bdcdc9fcf24"
+    },
+    "electron_robust_evolution_20261107/run_2/PROCESS.json": {
+      "bytes": 611,
+      "sha256": "384682c4f3b319aaa6b0da5879c3af6a64c55c70cb5e0411bb6003247d102f5a"
+    },
+    "electron_robust_evolution_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 1827,
+      "sha256": "bce2ad94520dab3b1428ed77ce39ef66335f39e6a29b4fe7d215404334e8baf4"
+    },
+    "electron_robust_evolution_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 18848,
+      "sha256": "cdb2985153a95b7401e9276c9bd2ab57258ec2b1b4100db5b65b3c88aa0c026c"
+    },
+    "electron_robust_evolution_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4571583,
+      "sha256": "7c6e3c37c5e2efe75c210b667a9e197f97bb8ae6cff6a9d17b5c9e7d66231297"
+    },
+    "electron_robust_evolution_20261107/run_2/data/buffed_evolution_target.native_save.json": {
+      "bytes": 56018,
+      "sha256": "71947dc6be3b5c529ddaff0aee06d57f76815b1d3340d944409501aca6cc77be"
+    },
+    "electron_robust_evolution_20261107/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 34516,
+      "sha256": "76b3a973af0f24231020386fe85eaac6012a28e77deb1e835fabf233e7f4aa8b"
+    },
+    "electron_robust_evolution_20261107/run_2/data/report.json": {
+      "bytes": 1417334,
+      "sha256": "112053b690a95218452622737daa54142a2084f34f2d95c2852ed04126c86277"
+    },
+    "electron_robust_evolution_20261107/run_2/data/terminal.native_save.json": {
+      "bytes": 69911,
+      "sha256": "f0d51faeb2dc70abd95caf0b746f09dbb8e27bd178252dd119a66e5a3402bbb4"
+    },
+    "electron_robust_evolution_20261107/run_2/gate_executed.gd": {
+      "bytes": 20542,
+      "sha256": "985b8d102f31d2650cf3c75d90fd2a76bd3922fd3ad382d835dc4ec72b8e8617"
+    },
+    "electron_robust_evolution_20261107/run_2/native.log": {
+      "bytes": 321,
+      "sha256": "e1e90af7fce8e07b49f60e42334093d535c8af6861a1fe507c78671cf6b6054c"
+    },
+    "electron_robust_evolution_20261107/seal.py": {
+      "bytes": 4701,
+      "sha256": "5a963e4a9f09a9d015e364d72f8e737fe98e4f509b53df8e5bf5006574df1619"
+    },
+    "electron_robust_evolution_20261107/update_runtime.py": {
+      "bytes": 751,
+      "sha256": "df60d2c937d4676775c9ba01fe6886886d09158bc3fc219e233775c6b9454a26"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_robust_evolution_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "8106018a5c6760edf57e3f644d24beb3c07af60532524ed15fa2ac4e4349f156"
+    },
+    {
+      "name": "electron_robust_evolution_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "4209929de457af1fe9ffb2d64d1a85a12b21632b453ff658b4adeec30a1b8624"
+    },
+    {
+      "name": "electron_robust_evolution_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "4666ca7f9a5a83ded71666e7dda7ce4c6dc57bc0a1fe97be88e19f4de1b0bfd8"
+    },
+    {
+      "name": "electron_robust_evolution_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "bb30592fbb318bea640a5197cfde2e4d2f92421691ed9655ff75abedb5689ed3"
+    },
+    {
+      "name": "electron_robust_evolution_20261107.tar.xz.part004",
+      "bytes": 100380,
+      "sha256": "334ea5ea9aad92e7f8de06a5a41c5c857f15704e88506032c32d30e51074d0b4"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_robust_evolution_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 583,
+      "sha256": "69c60260662a0e1974439494317958e3e2b316c487526a316d197543b17c34cb"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "sale_transfer_commit": "d2997511f4e63d56ced5f8d97bbe80c9ba034793",
+    "sale_transfer_source_map_sha256": "6f3b6db8269a0e7522b395b534b7ff0fc4bee76533c90e3a24856064737e6f1a"
+  },
+  "status": "Electron retained-stat evolution dispatch fix; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 54,
+    "credential_pattern_flags": []
+  }
+}
