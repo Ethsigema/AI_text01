@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "temperature",
+      "commit": "ae498568fea3bee7ea7b703b6d2059ba7db3170a",
+      "repository_path": "battlegrounds-backup/pending/20261107-temperature-shift",
+      "manifest_sha256": "02b5f5e91948d637b88a5ed5676f9dca8b708ba925465d0425f77971ba2ebbb9",
+      "archive": "temperature_shift_20261107.tar.xz",
+      "archive_sha256": "51bd998e9340ae45dce247f70b968fa8fe8238c021bb019475edb9dae097e2f9",
+      "archive_bytes": 1280680,
+      "parts_verified": 6,
+      "members_verified": 41,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "snow": "d3fcbaad4f03524277aaae06d0c53339cff8e4ec1552646bb64eca1dc153a48e",
+    "temperature": "c7e94e89019ab848f268c4b9cfa2bedebb747d50342b542b0cf8d0a3546b9215"
+  },
+  "snow_source_byte_equals_temperature_base": true,
+  "baseline_files_rehashed": 27582,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "3011ff311243ee5d85c9c0339cc5eb49dfb5628e2225d01dc323e829f2245188",
+  "change_lists": {
+    "added": [
+      "core/patch_3702_temperature_shift_sources.gd",
+      "data/patch_3702_temperature_shift_overlay.json",
+      "research/patch_3702_temperature_shift/BG31_819.native.xml",
+      "research/patch_3702_temperature_shift/evidence.json"
+    ],
+    "modified": [
+      "core/catalog.gd",
+      "core/fire_baller_host.gd",
+      "core/patch_3702_fire_baller_golden_sources.gd",
+      "core/patch_3702_fire_baller_sources.gd",
+      "core/patch_3702_snow_baller_golden_sources.gd",
+      "core/patch_3702_snow_baller_sources.gd",
+      "core/snow_baller_host.gd"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 11,
+  "new_files": 4,
+  "modified_files": 7,
+  "removed_files": 0,
+  "restored_files": 27586,
+  "restored_bytes": 1547065227,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_snow_chain_receipt_sha256": "3a2894be816f0e1479ed6c9793d3977e1b59577fae42788afceb6a006cc6faa2",
+  "historical_baseline_provenance": "The baseline is the verified Snow Baller partial base baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Temperature Shift increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T14:18:39.511127+00:00"
+}
