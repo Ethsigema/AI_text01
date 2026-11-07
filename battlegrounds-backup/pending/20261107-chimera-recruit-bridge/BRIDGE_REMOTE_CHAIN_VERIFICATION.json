@@ -1,0 +1,45 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "bridge",
+      "commit": "f713aab526335bc98c039f8a92896d3ae00c402d",
+      "repository_path": "battlegrounds-backup/pending/20261107-chimera-recruit-bridge",
+      "manifest_sha256": "3523dc74e05d6c7b00ba8078f5d2bb3c93c7710d40b822b465be964dafaec237",
+      "archive": "chimera_recruit_bridge_20261107.tar.xz",
+      "archive_sha256": "5f49742aa35e2c8badfd491bc0e5af22b55c869d6851f31637aaf1e87f93bfb6",
+      "archive_bytes": 1076072,
+      "parts_verified": 5,
+      "members_verified": 60,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "rodeo": "f1167a1cfc675e58bc6babec70b2af586d2f9a171283ef32360e733a8782be39",
+    "bridge": "ba5f61b6263fba3ab6303bedbf83640f7b2e33ca4e6b0e21383c13a2f975ef69"
+  },
+  "rodeo_source_byte_equals_bridge_base": true,
+  "baseline_files_rehashed": 27525,
+  "baseline_unchanged_after_restore": true,
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 6,
+  "new_files": 1,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27526,
+  "restored_bytes": 1546521203,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_rodeo_chain_receipt_sha256": "84dba05b6b81f99caf4afad6004a077e839a334a9e70b039525d36ed5e11022d",
+  "historical_baseline_provenance": "Run the pinned Rodeo full recovery recipe referenced in RECOVERY.md. This helper freshly downloads Bridge only and rehashes every supplied baseline file.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T10:06:49.222120+00:00"
+}
