@@ -1,0 +1,207 @@
+{
+  "archive": "electron_tableware_bridge_20261107.tar.xz",
+  "bytes": 1064236,
+  "sha256": "5d3df83de68cfd5c93611e91101a97eb19f4db6de00164c8adfb36102e3ed548",
+  "files": {
+    "electron_tableware_bridge_20261107/BASE_MAP.json": {
+      "bytes": 4563927,
+      "sha256": "e1f5d4fa719ca683553c6f641205fd33ea38382693ca8fa60b8cf95e070ce958"
+    },
+    "electron_tableware_bridge_20261107/EXPECTED_ROWS.json": {
+      "bytes": 22031,
+      "sha256": "ad4e79ceb890e370f717a997c7a290d6a8ecd35de0de67edcb34f7d15a3cd8bd"
+    },
+    "electron_tableware_bridge_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_tableware_bridge_20261107/NATIVE_QUANTITIES.json": {
+      "bytes": 128,
+      "sha256": "01044558f7b16d72bcb254556d918a233f46902f99476baf70108c9acbd601da"
+    },
+    "electron_tableware_bridge_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5182,
+      "sha256": "ab3b4033d6ff9850e1133b20f6e43138c26f1350d2706b7dcdd616aed02d8c82"
+    },
+    "electron_tableware_bridge_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 262981,
+      "sha256": "93532ad894b3e9bd0353c88e0f01a2facd02faf7c0c82a1d785587b14d5b95c3"
+    },
+    "electron_tableware_bridge_20261107/README.md": {
+      "bytes": 1867,
+      "sha256": "3c0e0c081276609f2ca41034916ab33be52b5c1300d74534ae57c02e1de96c05"
+    },
+    "electron_tableware_bridge_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "1273b28e774d0a0e816eecee4f77eef47b4eb5fd94d6b4e401406ab217efc072"
+    },
+    "electron_tableware_bridge_20261107/SOURCE_DELTA.json": {
+      "bytes": 1333,
+      "sha256": "3ccaa281a3c18968ce72a3536b05323745544ebf849ad1eeb0eb32d8f59ddaed"
+    },
+    "electron_tableware_bridge_20261107/SOURCE_MAP.json": {
+      "bytes": 4564254,
+      "sha256": "1f165e821a4251c5e2770fe99c7268f55b757f397ac2134a8a6e3b97e1a4148b"
+    },
+    "electron_tableware_bridge_20261107/VALIDATION.json": {
+      "bytes": 761,
+      "sha256": "81f6493f54935b2254a82b3eb298188f7feb275e939601fad3f0fb8c8d2764f3"
+    },
+    "electron_tableware_bridge_20261107/bindings.log": {
+      "bytes": 111,
+      "sha256": "992f678a1a86ca392cfb75275bc3a357171de38f53e42cce0a83c156dd783c7a"
+    },
+    "electron_tableware_bridge_20261107/build.py": {
+      "bytes": 3846,
+      "sha256": "be1945839f68687601c0a86d6bb9fc34224091506b6361bfa18dab3085e3e36a"
+    },
+    "electron_tableware_bridge_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 35398,
+      "sha256": "cf19cd78baaa9ff78a55e4f1edfaed86a374c4203a52ff50b15c9601c4bc578f"
+    },
+    "electron_tableware_bridge_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 33451,
+      "sha256": "f8c943cc4f3d4348389824a7ebe0da8fac4fbf7588fd32e97f50444390415648"
+    },
+    "electron_tableware_bridge_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 8539,
+      "sha256": "9312815fc6c1f6c25c1d22fb2a97d8c3f16d66f537463d93404aed4faf8ef6e5"
+    },
+    "electron_tableware_bridge_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 24058,
+      "sha256": "762433354a51d99dc3936b9142e0ec1ad1c70f5aa76a01310847240bfeb483ba"
+    },
+    "electron_tableware_bridge_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 22848,
+      "sha256": "1e314a30ab2482b78a0c8aa1466a44f0530b933e24beb061e2f2690614973a71"
+    },
+    "electron_tableware_bridge_20261107/delta/research/electron_tableware_bridge/BG34_272.native.xml": {
+      "bytes": 3186,
+      "sha256": "2e1aab15ef83d7542b40c4684b12e920d47a4131a0adeb811bb6e200a4892815"
+    },
+    "electron_tableware_bridge_20261107/delta/research/electron_tableware_bridge/evidence.json": {
+      "bytes": 598,
+      "sha256": "d28f17ea3248b1db444080c4c35778a7df43d4ba68620c2dfbfe00bf1b130b67"
+    },
+    "electron_tableware_bridge_20261107/gate.gd": {
+      "bytes": 18162,
+      "sha256": "81f9c84daf8e57dd09bd8230304957b44acf2f811c5a6abb5a9ea3f0b2cd9889"
+    },
+    "electron_tableware_bridge_20261107/materialize.py": {
+      "bytes": 1682,
+      "sha256": "6b13b402f4253d05648dc19245c9c92cd4f4db8dd220bd13c13561afe836eb23"
+    },
+    "electron_tableware_bridge_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1177,
+      "sha256": "25a3eb5da86d757cea5fbc07b47c11076f43933186986eda85862b756e0b8f6b"
+    },
+    "electron_tableware_bridge_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_tableware_bridge_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 22031,
+      "sha256": "ad4e79ceb890e370f717a997c7a290d6a8ecd35de0de67edcb34f7d15a3cd8bd"
+    },
+    "electron_tableware_bridge_20261107/run_1/LAUNCH.json": {
+      "bytes": 537,
+      "sha256": "c7f3bdcdd711b66bff0071d2fa06a92c4f632a169e3d154abb1c4486e8230eef"
+    },
+    "electron_tableware_bridge_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 262981,
+      "sha256": "93532ad894b3e9bd0353c88e0f01a2facd02faf7c0c82a1d785587b14d5b95c3"
+    },
+    "electron_tableware_bridge_20261107/run_1/PROCESS.json": {
+      "bytes": 611,
+      "sha256": "d7aaa4226469f104aba0e2f67a21bf1d2065b3044eb026247c264c0392c7aab7"
+    },
+    "electron_tableware_bridge_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1317,
+      "sha256": "caca5ddd7dbc510cdc9fb28397e11a04b1db12133f30448171c6df0189e98048"
+    },
+    "electron_tableware_bridge_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 11788,
+      "sha256": "a1953109a4b9fb0647806e84f0da2ff8cd0d933ca505a367ca4fb3e63ac12b72"
+    },
+    "electron_tableware_bridge_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4564254,
+      "sha256": "1f165e821a4251c5e2770fe99c7268f55b757f397ac2134a8a6e3b97e1a4148b"
+    },
+    "electron_tableware_bridge_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 34540,
+      "sha256": "9eeb9832506a1e40d3648417dbd93439aeacb0af2551c6b9d21597b48f07cb8d"
+    },
+    "electron_tableware_bridge_20261107/run_1/data/prefix_progress1.native_save.json": {
+      "bytes": 60217,
+      "sha256": "52198748e1fbdd0706e79ba5678babb84d828c0c4ee78b9614364c17b85df708"
+    },
+    "electron_tableware_bridge_20261107/run_1/data/report.json": {
+      "bytes": 1486156,
+      "sha256": "26cdbbbceef975449eb0c2811283b7083293969ed491e252e6f7fdee58dfdbb0"
+    },
+    "electron_tableware_bridge_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 77904,
+      "sha256": "05fe1447d3198baab3e0f38d280d154a00a9c5b92b6cb6ccf162a1798374d5aa"
+    },
+    "electron_tableware_bridge_20261107/run_1/gate_executed.gd": {
+      "bytes": 18162,
+      "sha256": "81f9c84daf8e57dd09bd8230304957b44acf2f811c5a6abb5a9ea3f0b2cd9889"
+    },
+    "electron_tableware_bridge_20261107/run_1/native.log": {
+      "bytes": 321,
+      "sha256": "d00638b588c35b643d430fcd6acee18b73de887286697fbf29f0fe0335a8fe24"
+    },
+    "electron_tableware_bridge_20261107/seal.py": {
+      "bytes": 4557,
+      "sha256": "cc54e7bbb29c426ef6f11de8bb8e64c34ae7e6cb78c142402b6e4dc8a3fb8acd"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_tableware_bridge_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "02498cee2d888ad56c97238f646fbbc2982ba7b0d02f65a469127255f09e8dd5"
+    },
+    {
+      "name": "electron_tableware_bridge_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "7a55e12dc8e103190da2a68b673123a7d2fbabaa5ec17af386cf1291bd0e9387"
+    },
+    {
+      "name": "electron_tableware_bridge_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "b32ed6793d47785f85e309ede9a249482fa32ce56ffe461804d54ad81ef34265"
+    },
+    {
+      "name": "electron_tableware_bridge_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "17f20e0930459d7b071427404afa17fa3de881b9149bec47e67a33ff87b7088e"
+    },
+    {
+      "name": "electron_tableware_bridge_20261107.tar.xz.part004",
+      "bytes": 64236,
+      "sha256": "32918526e3ab8d8aa90be1cd073f1f2d79439c01d1f4505a3bfdf646adab793c"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_tableware_bridge_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 439,
+      "sha256": "21ebb2e422c6029904c0eb5162293fa838eb575e177be7b0afa7f182e1f1ba66"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "golden_air_commit": "5e29774a141b4817c6dec018f0cfe11143089ab3",
+    "golden_air_source_map_sha256": "e1f5d4fa719ca683553c6f641205fd33ea38382693ca8fa60b8cf95e070ce958"
+  },
+  "status": "Electron Tableware interaction increment; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 38,
+    "credential_pattern_flags": []
+  }
+}
