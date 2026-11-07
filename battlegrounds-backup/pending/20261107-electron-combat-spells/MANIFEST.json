@@ -1,0 +1,211 @@
+{
+  "archive": "electron_combat_spells_20261107.tar.xz",
+  "bytes": 1075956,
+  "sha256": "5878d10a22d4c6ee9833e15aa4e3e2e64cdbf3ad855fea7349b624839921c291",
+  "files": {
+    "electron_combat_spells_20261107/BASE_MAP.json": {
+      "bytes": 4566564,
+      "sha256": "7a139b4f1834493fa7fb32ad3ffdeda86e6a6660ece3fa5cc2399146e3e6960c"
+    },
+    "electron_combat_spells_20261107/EXPECTED_ROWS.json": {
+      "bytes": 22501,
+      "sha256": "7797b14b0ad54d7020bbe797d720a57b5fb7cd8260c9a07c68d9502febc7d979"
+    },
+    "electron_combat_spells_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_combat_spells_20261107/NATIVE_QUANTITIES.json": {
+      "bytes": 209,
+      "sha256": "30cc35acabf1e483ac1a94b51a86101fa45eda0d3b387f4a8589989f3cf60040"
+    },
+    "electron_combat_spells_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5347,
+      "sha256": "5d42265df8bc9d753084841728d97c00fcfc5d14ba9934bf0b8923a1bd19effe"
+    },
+    "electron_combat_spells_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 267402,
+      "sha256": "5bb1e58ebe43a07449d774135619ac32d047e67cbc0fe57e2dc8c64ef3e6b5bf"
+    },
+    "electron_combat_spells_20261107/README.md": {
+      "bytes": 2228,
+      "sha256": "8808dc17510de451e4b1ba7b725f915e9f5ea1b6fa68c0c0cd5da62e7fb7b78c"
+    },
+    "electron_combat_spells_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "887d80a8569b928f50c76ce448bf50c83736da0e9b65801edc5036507481aaf9"
+    },
+    "electron_combat_spells_20261107/SOURCE_DELTA.json": {
+      "bytes": 1494,
+      "sha256": "fbc6ad8f09a8b93c97867bbac7dcb2536ab4e80efea2beae3b681f18d957ea30"
+    },
+    "electron_combat_spells_20261107/SOURCE_MAP.json": {
+      "bytes": 4567049,
+      "sha256": "5c30800c28a7f49dab7a5d2a48e2836451db05827ddde077a9b206654f8852ee"
+    },
+    "electron_combat_spells_20261107/VALIDATION.json": {
+      "bytes": 797,
+      "sha256": "5306d139599c0eac42dc2e95a3f05dcacce666a8319f09b1f09c434951e9e2be"
+    },
+    "electron_combat_spells_20261107/bindings.log": {
+      "bytes": 111,
+      "sha256": "992f678a1a86ca392cfb75275bc3a357171de38f53e42cce0a83c156dd783c7a"
+    },
+    "electron_combat_spells_20261107/build.py": {
+      "bytes": 3528,
+      "sha256": "c606c58da91bbde73a3ce1d825d3722aee0554a88f7fa78a12730933778982f9"
+    },
+    "electron_combat_spells_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 38103,
+      "sha256": "6a3d8c6259fcde9e3969e20270bd3d801b8e1f7ddbf6c0144e263472f715de25"
+    },
+    "electron_combat_spells_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 36156,
+      "sha256": "58fa517011d92133fb32bf88effca78b7ab8a96ce80a0580c0abed2354c8cff3"
+    },
+    "electron_combat_spells_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 10667,
+      "sha256": "3d3ca68aa3535dc48734c170f8d064a40e2b18d5e35a93b619005fbbdaaf7c3b"
+    },
+    "electron_combat_spells_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 24293,
+      "sha256": "e7c067d49e2248be31c7633e111ccbce6f9151e347209b78f4bf0c8bb06857f5"
+    },
+    "electron_combat_spells_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 23083,
+      "sha256": "de1e1d97e675b111882076b737eb62b346172ed54eed8854b9589d65a8be1d65"
+    },
+    "electron_combat_spells_20261107/delta/research/electron_combat_spells/BG28_573.native.xml": {
+      "bytes": 3167,
+      "sha256": "3eca387e80796e651d36e10e1532cf662a641b68ca08f383f2b4c8cddddc3a7f"
+    },
+    "electron_combat_spells_20261107/delta/research/electron_combat_spells/BG34_889.native.xml": {
+      "bytes": 3304,
+      "sha256": "aeadc27c7ca70ba2ec499b891c9d90abd2e2176ac04bc96697e7a7752874f132"
+    },
+    "electron_combat_spells_20261107/delta/research/electron_combat_spells/evidence.json": {
+      "bytes": 919,
+      "sha256": "deac5165a31e775bee86425e24975aec21ea05a35e632546f4c4099c31a8cc25"
+    },
+    "electron_combat_spells_20261107/gate.gd": {
+      "bytes": 20917,
+      "sha256": "ebb1fbccafd023c49af5e6f6759d0cdf3d924ed048196dd407fc0aaa4b399f47"
+    },
+    "electron_combat_spells_20261107/materialize.py": {
+      "bytes": 1678,
+      "sha256": "7ed60c8f2cf47b58e777317f04d9917a04c1a978314b5c582d3dabb2b0ae770d"
+    },
+    "electron_combat_spells_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1173,
+      "sha256": "56758cd4378cb518c4d79b96215559f3973370be994415043bdc78a0d3f26430"
+    },
+    "electron_combat_spells_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_combat_spells_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 22501,
+      "sha256": "7797b14b0ad54d7020bbe797d720a57b5fb7cd8260c9a07c68d9502febc7d979"
+    },
+    "electron_combat_spells_20261107/run_1/LAUNCH.json": {
+      "bytes": 531,
+      "sha256": "baa3450080e53cfb87142e2ceb83641167e592de835b2d1a77f10d0f7ef28c0e"
+    },
+    "electron_combat_spells_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 267402,
+      "sha256": "5bb1e58ebe43a07449d774135619ac32d047e67cbc0fe57e2dc8c64ef3e6b5bf"
+    },
+    "electron_combat_spells_20261107/run_1/PROCESS.json": {
+      "bytes": 604,
+      "sha256": "cad8504a5a7999529e8cf8c694de0822145d096bb9b08d26d1fa27b57bb76281"
+    },
+    "electron_combat_spells_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1484,
+      "sha256": "98c58d325dd214fe7b4bdb9ba671ddc40c4a0431b1ec4f9a913fda3b95e3b647"
+    },
+    "electron_combat_spells_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 13552,
+      "sha256": "14588a630e8849fc65a13dac7730e334678955639323c2ebe653bfc1a05285d9"
+    },
+    "electron_combat_spells_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4567049,
+      "sha256": "5c30800c28a7f49dab7a5d2a48e2836451db05827ddde077a9b206654f8852ee"
+    },
+    "electron_combat_spells_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 31545,
+      "sha256": "11895e419364db8a8287f9a55cf4352fc5a5c552697ad3043e6d7620095dfb54"
+    },
+    "electron_combat_spells_20261107/run_1/data/pending_outcomes.native_save.json": {
+      "bytes": 72186,
+      "sha256": "e233dcb488f7911f02334f1b04dc87dcadc2d670a32dfd02784bad5e0ec3c7b3"
+    },
+    "electron_combat_spells_20261107/run_1/data/report.json": {
+      "bytes": 1939544,
+      "sha256": "2f3b25f4d94e5b20d2a257f24c8d8c11d034c6b41cf414d2d350442c74231624"
+    },
+    "electron_combat_spells_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 96814,
+      "sha256": "a9d4a5564862f79b0db6ba2ebc6f09d1e1116023109e7825869378721c03ae3d"
+    },
+    "electron_combat_spells_20261107/run_1/gate_executed.gd": {
+      "bytes": 20917,
+      "sha256": "ebb1fbccafd023c49af5e6f6759d0cdf3d924ed048196dd407fc0aaa4b399f47"
+    },
+    "electron_combat_spells_20261107/run_1/native.log": {
+      "bytes": 455,
+      "sha256": "a7cd40af46abf283ea4b572bf2f5c1c32cc0b2bf5db15afbb83a77e17735144d"
+    },
+    "electron_combat_spells_20261107/seal.py": {
+      "bytes": 4745,
+      "sha256": "c0da6303b1b009eff89e9deb10a2c1ffdcd710f88ea36ca79834a5245d9c578a"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_combat_spells_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "84c40fa1958aa4c82ce0d34e8296f34c3e39233d49a1d796b45a830af765942e"
+    },
+    {
+      "name": "electron_combat_spells_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "38d3f43a8d1d7e4a4b956344b8cd3de7c1f83a187eb7ef4f49608541e327a836"
+    },
+    {
+      "name": "electron_combat_spells_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "f82e112ff773dda3b7181e88ef91da7a01423dd9532b296349e2113a43d46c4d"
+    },
+    {
+      "name": "electron_combat_spells_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "f044668e3c031d4cfa9e9862a284e334c69a913592c7d14d279f297534d081ee"
+    },
+    {
+      "name": "electron_combat_spells_20261107.tar.xz.part004",
+      "bytes": 75956,
+      "sha256": "1b12f2f7e5ad1127650ec1f53855aee5a632e8a0d84e8250e99bf3b873ba4928"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_combat_spells_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 492,
+      "sha256": "5fcfa491fce0acdda35ddb4c38da241f16aa0b85f8b3fa5b2bc752d35add6b1e"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "overconfidence_commit": "d0d56f6ffa294aaf84b9785fefe834993df7009b",
+    "overconfidence_source_map_sha256": "7a139b4f1834493fa7fb32ad3ffdeda86e6a6660ece3fa5cc2399146e3e6960c"
+  },
+  "status": "Electron queued combat spells bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 39,
+    "credential_pattern_flags": []
+  }
+}
