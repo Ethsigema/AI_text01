@@ -1,0 +1,392 @@
+{
+  "archive": "timewarp_swirler_ultraviolet_20261107.tar.xz",
+  "bytes": 1295432,
+  "sha256": "d9fe87719cb9fb7fa482a8f4a49c91513f22aa99f73ecddad4ae4e0f28f4d74f",
+  "files": {
+    "timewarp_swirler_ultraviolet_20261107/BASE_MAP.json": {
+      "bytes": 4563927,
+      "sha256": "62e6602590ccb3b1793e5bc91b7e72080ff9c69d4558cd17bae36621fab6a8b0"
+    },
+    "timewarp_swirler_ultraviolet_20261107/EXPECTED_ROWS.json": {
+      "bytes": 79,
+      "sha256": "564fddfe4b6e6da2ee2113a3f6fe450f44092f5f82833552f1af6268b990484c"
+    },
+    "timewarp_swirler_ultraviolet_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_swirler_ultraviolet_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 12396,
+      "sha256": "b2a7603c9eee52cca1225b35289ca548dfdbd2cea624be2643d73d62acb5d06c"
+    },
+    "timewarp_swirler_ultraviolet_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 262431,
+      "sha256": "dada3afb711c5829e765040ecb2f06026d81253ecdcadcfb13e2bf768aa0406c"
+    },
+    "timewarp_swirler_ultraviolet_20261107/README.md": {
+      "bytes": 2088,
+      "sha256": "a3d1505b8077064da8411c8d4ff33a4669078311b601f95a5e8bcf8a74cca111"
+    },
+    "timewarp_swirler_ultraviolet_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "7802e223d18f863c5513c92313698a0bdb5292c0df7306b700104d2fcd5453ec"
+    },
+    "timewarp_swirler_ultraviolet_20261107/SOURCE_DELTA.json": {
+      "bytes": 8504,
+      "sha256": "8205bf15534c4aa0ea6a7c0f6d481eb5e17873c16cf88ede1144254e801b0f8a"
+    },
+    "timewarp_swirler_ultraviolet_20261107/SOURCE_MAP.json": {
+      "bytes": 4563927,
+      "sha256": "b7832ebe2a8d4ef16b98eb3730eb46be615a12c01cc74e484055b01fafba9249"
+    },
+    "timewarp_swirler_ultraviolet_20261107/VALIDATION.json": {
+      "bytes": 1238,
+      "sha256": "41c8009b78d8994d085b3ae7c4e56a3a4cdde90d9d547b840b31aeb8597df60a"
+    },
+    "timewarp_swirler_ultraviolet_20261107/bindings.log": {
+      "bytes": 2312,
+      "sha256": "ef57e9e6dc048b10ee77798ae5113ff933b27908e9784609ce5cf8339158edde"
+    },
+    "timewarp_swirler_ultraviolet_20261107/build.py": {
+      "bytes": 7163,
+      "sha256": "6de6396ff0f26547ffdd1ceaf6e9cfd8d50627283fa000648f9dad66edee0b3a"
+    },
+    "timewarp_swirler_ultraviolet_20261107/build_gate.py": {
+      "bytes": 3504,
+      "sha256": "3386b31a68d2e334e93ff33045eb68700a89a7135a0d2a1f9bf654c5a5d1b983"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/combat.gd": {
+      "bytes": 577754,
+      "sha256": "960acf18f641132b182ba8a684190cbb71276ad76ab6f6562053be65caf0d76b"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_air_baller_golden_sources.gd": {
+      "bytes": 23207,
+      "sha256": "5f1e6a7deb4612a85166e36ddfd4dab926727af3b794a847dad43fc42add5a57"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_air_baller_sources.gd": {
+      "bytes": 22610,
+      "sha256": "eed5984c9446ad40f8794397cffcad78af7e68efa519c673fe5df1056983e788"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "3f4201283a95b8881a317c4fa176dea38b4c0c029a3f460916c12a229f400eae"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_fire_baller_golden_sources.gd": {
+      "bytes": 26786,
+      "sha256": "afc91888aad5ea8d1cfa1aee7b52b12543ae521f60a190c2590ff8a423204275"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_fire_baller_sources.gd": {
+      "bytes": 26227,
+      "sha256": "96f80161b87718ff06eb1d23c3489f5387bd0da7acd59e322e7346084879a0ff"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "fd2db7aca918ba890aecafd99b25968effa1464fd6ed5f240373aa007830a176"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 24230,
+      "sha256": "160369fcf4af353af3426e5acb1d29f83ddf1dcf96670a0e92a6935ff611f9fc"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23667,
+      "sha256": "64009c2dda5325a548bc1962ac876ace358c08f5b3c9b93d72e3e317129156d0"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "6a97eceb15398c555647f6ac21379dca7b502182068ffe19f3d93ffe772666cc"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "76abbc522d2de3f10a31c8e2d9e8fd72bcfc041578c204cc94a053c2f2c70289"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "4cc797508da69be86e6d9afd3c30735b135bb6ae1af6ba8b336b39def3bcde11"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "fc32ec21413ffc0e2689f82b15a19390e2b75268f273f69f4098914c579286ea"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "54dcc2cdcde4cddd10b63c49826f8a3aaecc24b99319c07b8dc36cad1cbd6971"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "786c2300ec5b345e61839ccf0f364c0c1dc90465d567b29cb3d2b1ee5bbeeeab"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "4346a85ce34360f36c20b8e565a674f060bafebe8c1b5d9c2b2e6e8c1f2b03f7"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "9b426773cbdc1e7a9cfaf8b99b89e72872cb130efcf997cf2792feeb6d1cd842"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "299c27aadc9b72e5f944fd0ba56fc0e3514e097330c18209b90f6af021b8347d"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "3bf0d86713c5add8613eb20dd7c4af57e83122a60c4344ec4e21c7e7d41ba68a"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "c76d01191d0e5acc276ecdf782701301306c57d4f7739285d59a50a8573908f1"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_snow_baller_golden_sources.gd": {
+      "bytes": 26678,
+      "sha256": "613deab49037eb194fd35a6e43f3067ef5690aa3adc58b1ae0ccfd7302000457"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_snow_baller_sources.gd": {
+      "bytes": 26119,
+      "sha256": "c991f24b3bca6dab79f11849d134fff450ce8813fcf03909b112e66ed8485eab"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_spark_snapper_golden_sources.gd": {
+      "bytes": 23215,
+      "sha256": "c370d8facce27a6a4d5c5ade45a469802fdb3450e52f1c40177819d146277732"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_spark_snapper_sources.gd": {
+      "bytes": 22618,
+      "sha256": "5dd0b83fdb06ffde8f1a0c59744272701b093bf00cafeaf39e52cd10bb6dc646"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_temperature_shift_sources.gd": {
+      "bytes": 24051,
+      "sha256": "ebb5fe05338b3244e858314cdd23510a0d538ff23a68bc81f17794379b24d660"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "006b4ee140ac03dc07bf78d929221619bd9b051f983547227750b94bc78b689f"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "e5858e6094af3774d3accc2f9e81c5facc6a878d676bd6160225f31fb0d7f3bd"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "c61d857de65931f580ab9fdd8092017657c5f01203950195ff421b7a2e794906"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "6274a2543bb1cebcf3ebf36cebbdc0d532553f52bd68a6e21019ee9ca0073e59"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 34980,
+      "sha256": "988e1d8733ef850cb49cab399afdfb7a52b473938a48b65ee0c01be4119847e8"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 33033,
+      "sha256": "264f990c7e9f95ab5ae1ab6d1c12a9ed6b8ab4b99264783b8b52b6b5fa090698"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_molten_golden_sources.gd": {
+      "bytes": 27927,
+      "sha256": "7c4ef7cd554a82bf7c4d9c4e9c77df82bfbb501d07066181d62341cd42fdda92"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_molten_sources.gd": {
+      "bytes": 27646,
+      "sha256": "9a91545b6be55af3acaf539a97dc75e4877c9b6288af31b85e5a3d7a2e99bd22"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_murky_golden_sources.gd": {
+      "bytes": 28518,
+      "sha256": "c124314239668aa94a81177fd48a77ebcdad166e2e42c24fb6b589e1dd6dcca0"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_murky_sources.gd": {
+      "bytes": 28241,
+      "sha256": "9674099e6f6a305c724fa720c33ac4712060c8a04b9ca698ab622fe6897e9aa8"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "2c23004014492a72dac54e9bdd26dd982c1f2b209b7881d4c1abe700889ea89e"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "7ae855289d67f4a61704a37334b630d6f3850e3af2b712c4de57d413c4d2538b"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_painter_golden_sources.gd": {
+      "bytes": 28712,
+      "sha256": "b9abf785d3dd476493c46247f3e9a06e97f1f2bc0e020ba80c28083b8b70924e"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_painter_sources.gd": {
+      "bytes": 28457,
+      "sha256": "60e1c7f8e03a65757e731cf9f6a471caf1d3308cc37b45a45cd19131bd4ca882"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_red_whelp_sources.gd": {
+      "bytes": 28213,
+      "sha256": "0545f49bf6ed1d16e1506bd95f4afd56b2ba695c32e3eaa40d90750db3597918"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "270a90ad75efda91797bb015a2d7f5c95e3f4ecb3301807a4994d7f2495883af"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "1c8518f4dff4ed14ea1dbe5ddd90095f7835476d6e8f0b5d4b032c378e6d1cb6"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_scout_golden_sources.gd": {
+      "bytes": 28135,
+      "sha256": "3dd00f69180232cac349de5a9a23c78d812b494b40002e1a022afbeb7108a781"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_scout_sources.gd": {
+      "bytes": 27868,
+      "sha256": "e6d7beacdee9c21e54badbd4138302bb04ffebe36d21ebeda400819da176c142"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_swirler_sources.gd": {
+      "bytes": 27441,
+      "sha256": "9235c428dd1331509dde8804152c18e3e60b0ea2ea48cc93dbde7b9b4b65cedb"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "456567c0f4294748eb87bf754b2de54be72ba8f255e51a1788b9ec7f1698ba7a"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "d00a0dcfce96f31c2f61cefdc11d90b9263c1a0acf735486d3731d5ac70ee863"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "2d6d5ecedce96512af215fe5892fdc856276f43fcbf8a9cec43bfdcbe6f4cf7f"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "2731c706b44eb30c7f821df6ea920d7ea805fa4e05f1b6c30e8620c3cb8f8210"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/core/timewarp_swirler_host.gd": {
+      "bytes": 9308,
+      "sha256": "a0a957e89d726b431108684b39fa6413e9dad1fff8154eab005c4d394c5cd1c8"
+    },
+    "timewarp_swirler_ultraviolet_20261107/delta/data/patch_3702_timewarp_swirler_overlay.json": {
+      "bytes": 21771,
+      "sha256": "cb60bc7ed135de9f652f2ad6cf33b420aebc97e8585c66905140fe730f5675e0"
+    },
+    "timewarp_swirler_ultraviolet_20261107/gate.gd": {
+      "bytes": 17296,
+      "sha256": "cd93d45e3c2771c8d40221146b371b06f9b9b07d9aa8a1db8791a5b0960f3e0a"
+    },
+    "timewarp_swirler_ultraviolet_20261107/materialize.py": {
+      "bytes": 1675,
+      "sha256": "0caf41c3aecd09cbfa78e04fa401a9a9324a31f087d2d50a106f19c0363303d6"
+    },
+    "timewarp_swirler_ultraviolet_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "c02d000ac5b3029da33ef9fcd7bd857d82543b72921af73433e3e11bc15001aa"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 79,
+      "sha256": "564fddfe4b6e6da2ee2113a3f6fe450f44092f5f82833552f1af6268b990484c"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/LAUNCH.json": {
+      "bytes": 543,
+      "sha256": "f7cb4a5c895ca4e543867fafebb488311a326be88e1bf16f647675334b76d4ab"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 262431,
+      "sha256": "dada3afb711c5829e765040ecb2f06026d81253ecdcadcfb13e2bf768aa0406c"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/PROCESS.json": {
+      "bytes": 617,
+      "sha256": "7eeb2d57553ea52c3dc290429a30d1a2ffd4ea2b52803caeaaeb45a0a037da91"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 8504,
+      "sha256": "8205bf15534c4aa0ea6a7c0f6d481eb5e17873c16cf88ede1144254e801b0f8a"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 129616,
+      "sha256": "ca0ce4697a32668b84910135662f47a02117cd3f594a76ba4bcf0e903285c1bc"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4563927,
+      "sha256": "b7832ebe2a8d4ef16b98eb3730eb46be615a12c01cc74e484055b01fafba9249"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/data/before_combat.native_save.json": {
+      "bytes": 56279,
+      "sha256": "dadcf907346ed81bd1cdc0fb319688201a179528736cbc77cd08c0f0a04fac9e"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 26780,
+      "sha256": "f39173cdae4ceacaa18c2d37758dfd9b7e1447874d919318b788e97b7214708f"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/data/report.json": {
+      "bytes": 1388444,
+      "sha256": "8d9dda1045014edf97e599d194f2e2b0baf1931fa05baa19741cb3120dd12c17"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 80685,
+      "sha256": "298caf34c2dbde962b2fddead9b5e1f44ed9a2fac8879b63cd71a0afb30c43f9"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/gate_executed.gd": {
+      "bytes": 17296,
+      "sha256": "cd93d45e3c2771c8d40221146b371b06f9b9b07d9aa8a1db8791a5b0960f3e0a"
+    },
+    "timewarp_swirler_ultraviolet_20261107/run_1/native.log": {
+      "bytes": 413,
+      "sha256": "0f3357334d1f2e63f3e7dd654075a26a9cc3f9eb4f6d3a79d29cd5913af20712"
+    },
+    "timewarp_swirler_ultraviolet_20261107/seal.py": {
+      "bytes": 4244,
+      "sha256": "ffc9f885b8b73f8be2fd8f521dc8f507fad600af8c7e8a9070a72ed9cd41ccd1"
+    },
+    "timewarp_swirler_ultraviolet_20261107/update_runtime.py": {
+      "bytes": 751,
+      "sha256": "df60d2c937d4676775c9ba01fe6886886d09158bc3fc219e233775c6b9454a26"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_swirler_ultraviolet_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "f39a899200e2970840cc6caa481376acf852658147958be452162cca116d053c"
+    },
+    {
+      "name": "timewarp_swirler_ultraviolet_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "8abf040869e631ee34d7d92a21a0d8ac6aae879788754a94f9a3d42c95e7ca90"
+    },
+    {
+      "name": "timewarp_swirler_ultraviolet_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "4e2949ad29c5163f9e69be1a67ce1c5562564f0a6c54d325fce3ac49598d27e0"
+    },
+    {
+      "name": "timewarp_swirler_ultraviolet_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "38b1e6a2adb795c23f1f0327c6e2a6c8f5b9af6e725bef49daa76286645e325b"
+    },
+    {
+      "name": "timewarp_swirler_ultraviolet_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "e5fdc55f4cee1553da557521dc852cfe446a715f13165e0e85bc4dc7b1afc574"
+    },
+    {
+      "name": "timewarp_swirler_ultraviolet_20261107.tar.xz.part005",
+      "bytes": 45432,
+      "sha256": "0ebe050dd9d3535c5b4c6e0a67b73453304260d1f0337e401df1401d7739bff8"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "timewarp_swirler_ultraviolet_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 2614,
+      "sha256": "32e6a3ad545728d577d9c4e95f0acf57204954e277b1fe4ed9d6f78757de6c50"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "swirler_air_commit": "f128be1abe471dcc2374b47614c6a53c6a72ea49",
+    "swirler_air_source_map_sha256": "62e6602590ccb3b1793e5bc91b7e72080ff9c69d4558cd17bae36621fab6a8b0"
+  },
+  "status": "Partial Swirler Ultraviolet combat bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 83,
+    "credential_pattern_flags": []
+  }
+}
