@@ -1,0 +1,59 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "golden_molten",
+      "commit": "499adb9ff6fec1c8fd7c4303a83912b3b73b8417",
+      "repository_path": "battlegrounds-backup/pending/20261107-timewarp-golden-molten-swirler",
+      "manifest_sha256": "dc57409ebdbde650cd009469a83659cf637a1e06a391d71f4ea6fd0a23b35a24",
+      "archive": "timewarp_golden_molten_swirler_20261107.tar.xz",
+      "archive_sha256": "ab111ac9fb74c547479b632742778e828acc7a9a3a0fd71475bc3eb045c442d0",
+      "archive_bytes": 1052636,
+      "parts_verified": 5,
+      "members_verified": 34,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "golden_swirler_combat": "ebcdd31ae1a2d4b22fa9788fb904ada65e47ab8e05a68a591c4e4d8a6f6eeff4",
+    "golden_molten": "3d562a0ccde4e3d74ec9794139497ac99378b5550971c73fac996cc7d2cfafd3"
+  },
+  "golden_swirler_combat_source_byte_equals_golden_molten_base": true,
+  "baseline_files_rehashed": 27656,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "7deedfdbe82aabed82d637f10d736d3511f6b11b601c650a28ebb7edfc6e369f",
+  "change_lists": {
+    "added": [],
+    "modified": [
+      "core/patch_3702_timewarp_swirler_golden_sources.gd",
+      "core/patch_3702_timewarp_swirler_sources.gd",
+      "core/timewarp_swirler_host.gd"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 3,
+  "new_files": 0,
+  "modified_files": 3,
+  "removed_files": 0,
+  "restored_files": 27656,
+  "restored_bytes": 1547918193,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_golden_swirler_combat_to_golden_molten_map_continuity": true,
+  "supporting_golden_swirler_combat_chain_receipt_sha256": "83734a9be2ed6406763cde25fceaa790b9b0f16d28b00381989292cfd551b23a",
+  "historical_baseline_provenance": "The baseline is the verified Timewarp Golden Swirler Combat baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Timewarp Golden Molten Swirler increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T19:19:52.862366+00:00"
+}

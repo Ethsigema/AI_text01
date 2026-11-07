@@ -1,0 +1,59 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "golden_swirler_combat",
+      "commit": "d3626bf309247f397a071ffeee2ab3cc8a3292a6",
+      "repository_path": "battlegrounds-backup/pending/20261107-timewarp-golden-swirler-combat",
+      "manifest_sha256": "c95d773f03e26e374a41b6ed3b35653b9f88a7b39f42e242a85cf0465e2252cb",
+      "archive": "timewarp_golden_swirler_combat_20261107.tar.xz",
+      "archive_sha256": "590438da2de0abbe26040649ea39eb6bb470b4fbb4202d8e0de452f59f6950a6",
+      "archive_bytes": 1058516,
+      "parts_verified": 5,
+      "members_verified": 34,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "golden_swirler_air": "045c431ca600e3f0cce20c766d498bdec6ae88f372ea0e23e0a9af8288cd6384",
+    "golden_swirler_combat": "ebcdd31ae1a2d4b22fa9788fb904ada65e47ab8e05a68a591c4e4d8a6f6eeff4"
+  },
+  "golden_swirler_air_source_byte_equals_golden_swirler_combat_base": true,
+  "baseline_files_rehashed": 27656,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "7deedfdbe82aabed82d637f10d736d3511f6b11b601c650a28ebb7edfc6e369f",
+  "change_lists": {
+    "added": [],
+    "modified": [
+      "core/patch_3702_timewarp_swirler_golden_sources.gd",
+      "core/patch_3702_timewarp_swirler_sources.gd",
+      "core/timewarp_swirler_host.gd"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 3,
+  "new_files": 0,
+  "modified_files": 3,
+  "removed_files": 0,
+  "restored_files": 27656,
+  "restored_bytes": 1547917905,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_golden_swirler_air_to_golden_swirler_combat_map_continuity": true,
+  "supporting_golden_swirler_air_chain_receipt_sha256": "4f6ec71414b9e39e072c658b4a0da8c2610cdca18ad193318da97f535a53c7f2",
+  "historical_baseline_provenance": "The baseline is the verified Timewarp Golden Swirler Air baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Timewarp Golden Swirler Combat increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T19:08:28.277549+00:00"
+}
