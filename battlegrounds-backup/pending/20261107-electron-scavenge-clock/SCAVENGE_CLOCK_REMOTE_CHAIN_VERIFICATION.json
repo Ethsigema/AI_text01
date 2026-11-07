@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "scavenge_clock",
+      "commit": "392973e9e7c4c37ecf3dc6d5a6ad297732e26ba4",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-scavenge-clock",
+      "manifest_sha256": "6db7b8f1d4244be8f615a2a07d956417785c81eae4ab8c2d4234027f933cf7fc",
+      "archive": "electron_scavenge_clock_20261107.tar.xz",
+      "archive_sha256": "30fc4afb1c1c69829f739cee96cbea942f7f734dcec4275307568b102de52bf8",
+      "archive_bytes": 1074648,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "alliance_choice": "07dd29436f95d0fba4d71cd33c71ae8cba079be3017cb5152ca34468e09a39c7",
+    "scavenge_clock": "6f163c0fc8a881d3c666b68599a5ce089e388f8168765aa07369a559e78a2520"
+  },
+  "alliance_choice_source_byte_equals_scavenge_clock_base": true,
+  "baseline_files_rehashed": 27673,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "ac691b5f89a610d5e07feed4a6e48ce748f6774964a48ecf497f0963726c8dce",
+  "change_lists": {
+    "added": [
+      "research/electron_scavenge_clock/BG28_600.native.xml",
+      "research/electron_scavenge_clock/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27675,
+  "restored_bytes": 1547979952,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_alliance_choice_to_scavenge_clock_map_continuity": true,
+  "supporting_alliance_choice_chain_receipt_sha256": "9ba814811d4098f70617a932232283a98f2dc20c6c163aec43973c0fd55aaebe",
+  "historical_baseline_provenance": "The baseline is the verified Electron Alliance Choice baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Scavenge Clock increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T21:04:22.769410+00:00"
+}
