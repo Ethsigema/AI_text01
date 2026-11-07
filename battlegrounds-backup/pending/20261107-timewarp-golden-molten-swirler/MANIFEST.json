@@ -1,0 +1,191 @@
+{
+  "archive": "timewarp_golden_molten_swirler_20261107.tar.xz",
+  "bytes": 1052636,
+  "sha256": "ab111ac9fb74c547479b632742778e828acc7a9a3a0fd71475bc3eb045c442d0",
+  "files": {
+    "timewarp_golden_molten_swirler_20261107/BASE_MAP.json": {
+      "bytes": 4564938,
+      "sha256": "ebcdd31ae1a2d4b22fa9788fb904ada65e47ab8e05a68a591c4e4d8a6f6eeff4"
+    },
+    "timewarp_golden_molten_swirler_20261107/EXPECTED_ROWS.json": {
+      "bytes": 111,
+      "sha256": "1c34c1542e3b47d1ddff07482268b4a7f159625a1cae43fbc2043081a0c80e78"
+    },
+    "timewarp_golden_molten_swirler_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_golden_molten_swirler_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 4485,
+      "sha256": "44dad9a96a4893487b8985d9583fec8d80e21bf7577fc61b5df8822be74fcded"
+    },
+    "timewarp_golden_molten_swirler_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 263867,
+      "sha256": "2b6bbd067484505e748d95f68cad815d248b0ebde13ee76efe4c2bd7990c19c5"
+    },
+    "timewarp_golden_molten_swirler_20261107/README.md": {
+      "bytes": 2014,
+      "sha256": "9eb776efdc4b0976a6470b8904f889b4f25f53f5110de5a105c993c2e284cfda"
+    },
+    "timewarp_golden_molten_swirler_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "328ac76d18a1f13668040f6555bba549493a5a3dc87727b1f2426d18f8b297fa"
+    },
+    "timewarp_golden_molten_swirler_20261107/SOURCE_DELTA.json": {
+      "bytes": 635,
+      "sha256": "c8d7743c0df8a4850704133bcaa96ff54ebf23265e2ffbb0de483bca37420b2f"
+    },
+    "timewarp_golden_molten_swirler_20261107/SOURCE_MAP.json": {
+      "bytes": 4564938,
+      "sha256": "3d562a0ccde4e3d74ec9794139497ac99378b5550971c73fac996cc7d2cfafd3"
+    },
+    "timewarp_golden_molten_swirler_20261107/VALIDATION.json": {
+      "bytes": 1059,
+      "sha256": "801e2d5ad02c5dd0fea15faf15884f64599922ef7e3c35c2bb6a5a177e15de96"
+    },
+    "timewarp_golden_molten_swirler_20261107/bindings.log": {
+      "bytes": 109,
+      "sha256": "13a311eb8187f020a130cfa81833bd0cbee8c640b20432aee435775ef9d84db6"
+    },
+    "timewarp_golden_molten_swirler_20261107/build.py": {
+      "bytes": 4894,
+      "sha256": "0eb6438a5ec40532e5717b42e2bc31156a9721ae8a8afaa4175da881e30a1612"
+    },
+    "timewarp_golden_molten_swirler_20261107/delta/core/patch_3702_timewarp_swirler_golden_sources.gd": {
+      "bytes": 27292,
+      "sha256": "591570258196c8202a4e6d018859dc321c056a9b89d58544f155ad63f05de9ed"
+    },
+    "timewarp_golden_molten_swirler_20261107/delta/core/patch_3702_timewarp_swirler_sources.gd": {
+      "bytes": 27441,
+      "sha256": "63b16c61d085cf89d6c0f652a03db69e98b44ab29fd8d2ffa930e710a7e8ca3d"
+    },
+    "timewarp_golden_molten_swirler_20261107/delta/core/timewarp_swirler_host.gd": {
+      "bytes": 10583,
+      "sha256": "2aaa9e91fbc7f2e69706fc5ca930d84c68552d5e0cd8ace1eba99d01577e80bc"
+    },
+    "timewarp_golden_molten_swirler_20261107/gate.gd": {
+      "bytes": 17132,
+      "sha256": "65ab71df269772b0a669dac399d26721712940f18a91968ca962274c1a051bef"
+    },
+    "timewarp_golden_molten_swirler_20261107/materialize.py": {
+      "bytes": 1685,
+      "sha256": "be9b8e907ad221680e86846c415af65086d826a7bdbba9490eb57c61072658a5"
+    },
+    "timewarp_golden_molten_swirler_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1180,
+      "sha256": "fd448dbf329927713dfb52cdc2bb0358f5cee542ed1c72f1a2b2f3cabe9c096a"
+    },
+    "timewarp_golden_molten_swirler_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 111,
+      "sha256": "1c34c1542e3b47d1ddff07482268b4a7f159625a1cae43fbc2043081a0c80e78"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/LAUNCH.json": {
+      "bytes": 547,
+      "sha256": "d3df7a23f995acd1019aecd1fb40a90b0ae599af3f3533ed9a79d94afd50ca4a"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 263867,
+      "sha256": "2b6bbd067484505e748d95f68cad815d248b0ebde13ee76efe4c2bd7990c19c5"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/PROCESS.json": {
+      "bytes": 621,
+      "sha256": "bd4ac112b7135d86830772f4b69f16a38994a6a31cab561f84ed58a97416b355"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 629,
+      "sha256": "095f133e7ef2776751b93d16090600d7bd2436b918b31f0bcfe60e78a14af6a0"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 7596,
+      "sha256": "a936bf81c0c339e5837ac9f8735a38db6d525af1670b6e7ffefa56bc25afed42"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4564938,
+      "sha256": "3d562a0ccde4e3d74ec9794139497ac99378b5550971c73fac996cc7d2cfafd3"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/data/before_gift.native_save.json": {
+      "bytes": 41746,
+      "sha256": "0081c0edc25ef6bfbdfe165f012c1fa4cde334cf878b07800677c01329071dbb"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 26736,
+      "sha256": "604e279817545cd52670fa2ecfd630db01299e0b69fc8e81a53b88226a37ed2a"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/data/report.json": {
+      "bytes": 813158,
+      "sha256": "950b7d1dc13727d062ac176f23fb1ac9e63e4d6d379cb4998920c791fab53b81"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 49516,
+      "sha256": "5c4ee6ede6000100b122d56e45f2b1a1d3c0345955813443e77e4e78df2d5e65"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/gate_executed.gd": {
+      "bytes": 17132,
+      "sha256": "65ab71df269772b0a669dac399d26721712940f18a91968ca962274c1a051bef"
+    },
+    "timewarp_golden_molten_swirler_20261107/run_1/native.log": {
+      "bytes": 259,
+      "sha256": "c157e5deef6338c4b49ac4671b912077bf1873ec20243e3e4a2faac3152aa4c0"
+    },
+    "timewarp_golden_molten_swirler_20261107/seal.py": {
+      "bytes": 4478,
+      "sha256": "7c3eb7c9c07fb84629de36dd1925723b3f864e8fd390bf17c870cb5ec77fd0a4"
+    },
+    "timewarp_golden_molten_swirler_20261107/update_runtime.py": {
+      "bytes": 751,
+      "sha256": "df60d2c937d4676775c9ba01fe6886886d09158bc3fc219e233775c6b9454a26"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_golden_molten_swirler_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "ca93d0caf1cfc4dd27015ce55524f705ae024d42b499dd4e6642f8732aa12b3e"
+    },
+    {
+      "name": "timewarp_golden_molten_swirler_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "ebfe941660141fa40787f18570c40ea0ddadfdc69f2ab2a42cbb5e343ddc59ba"
+    },
+    {
+      "name": "timewarp_golden_molten_swirler_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "fd64c5f782c952e6b2547150b6c7ade5aaa5854f1dd602681688f4bcbc765542"
+    },
+    {
+      "name": "timewarp_golden_molten_swirler_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "482b622f348597be4df58165b084b91241977c04973adf69db8a50b890e4b698"
+    },
+    {
+      "name": "timewarp_golden_molten_swirler_20261107.tar.xz.part004",
+      "bytes": 52636,
+      "sha256": "39c49884661f59f77bcd35907a67245f7875686467892e452137645e0395a82b"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "timewarp_golden_molten_swirler_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 201,
+      "sha256": "7deedfdbe82aabed82d637f10d736d3511f6b11b601c650a28ebb7edfc6e369f"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "golden_swirler_combat_commit": "ae0da5151367a20801200475d21d7016d02b3ed1",
+    "golden_swirler_combat_source_map_sha256": "ebcdd31ae1a2d4b22fa9788fb904ada65e47ab8e05a68a591c4e4d8a6f6eeff4"
+  },
+  "status": "Golden Molten Swirler first-play bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 34,
+    "credential_pattern_flags": []
+  }
+}
