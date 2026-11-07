@@ -1,0 +1,203 @@
+{
+  "archive": "electron_golden_touch_20261107.tar.xz",
+  "bytes": 1068540,
+  "sha256": "9dbbfc1a4e1d10efa6216e5bdbfb9683989b32d7427c3a58056c1c4bfd72b596",
+  "files": {
+    "electron_golden_touch_20261107/BASE_MAP.json": {
+      "bytes": 4568033,
+      "sha256": "6f163c0fc8a881d3c666b68599a5ce089e388f8168765aa07369a559e78a2520"
+    },
+    "electron_golden_touch_20261107/EXPECTED_ROWS.json": {
+      "bytes": 23197,
+      "sha256": "1ece3a687c6529da8313ccb31d5541612815a185f382604d9d83a9086b2e6991"
+    },
+    "electron_golden_touch_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_golden_touch_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5045,
+      "sha256": "cb9fbfbfcee88f1ae70a9c830684d9ee824b7b50f0a550a49c576bb290dc547f"
+    },
+    "electron_golden_touch_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 269588,
+      "sha256": "4236cc4458a1ff7ce73e049cfca5869d6e9647bd54cac8bcffb01e359f8da6d0"
+    },
+    "electron_golden_touch_20261107/README.md": {
+      "bytes": 2113,
+      "sha256": "0dd85a6cb7ff012cd601013e34771d284650759906ee6b078de0a13b4959bc5a"
+    },
+    "electron_golden_touch_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_golden_touch_20261107/SOURCE_DELTA.json": {
+      "bytes": 1305,
+      "sha256": "6c692d47c30ddf684ebfba70fa9896f1be568b99d8787595deff1b7f96fdee52"
+    },
+    "electron_golden_touch_20261107/SOURCE_MAP.json": {
+      "bytes": 4568352,
+      "sha256": "8266106c62d99359a96445abb99687141b12673e3fd79299abb28a5cf1a7514a"
+    },
+    "electron_golden_touch_20261107/VALIDATION.json": {
+      "bytes": 837,
+      "sha256": "21cbcb5694c6a66cefaf15d3d4a280177b2904ff24376e7e7365027e3f385043"
+    },
+    "electron_golden_touch_20261107/build.py": {
+      "bytes": 3537,
+      "sha256": "d4936d662980a43a0db3813d312903783742b3b98cde4c4fed3e3de9d5b797d1"
+    },
+    "electron_golden_touch_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 40185,
+      "sha256": "ec30e56f356478bde30cbf135ed6ee2133993a80e1f4f1c39cc18cbea0ca5626"
+    },
+    "electron_golden_touch_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 38238,
+      "sha256": "e71609ff4696e63f3be5268eb7415f3a7f78f167fa96546a3bcf813e5970da7f"
+    },
+    "electron_golden_touch_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 12044,
+      "sha256": "7b3675b3ce4c4056ae06619bf0b37e1f4c89adc351d0d439342efe725b7d7e78"
+    },
+    "electron_golden_touch_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 24641,
+      "sha256": "00cbf312d9f0ff346595e283b027a32aa6156f541f75491b06897c3c4d05720c"
+    },
+    "electron_golden_touch_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 23431,
+      "sha256": "cca8daa23fcaf91f1fefedd716f8e8e05f19d2346223b6857b9f60a45cfb5fa8"
+    },
+    "electron_golden_touch_20261107/delta/research/electron_golden_touch/BG28_830.native.xml": {
+      "bytes": 2198,
+      "sha256": "f0e78dffeaa5feae812239126e054b58c0df077966b7c60c4f18c961b9827d32"
+    },
+    "electron_golden_touch_20261107/delta/research/electron_golden_touch/evidence.json": {
+      "bytes": 538,
+      "sha256": "c86db245fdcb85420aa6127f81443fc73aa47fdac58efb29507ee17c27f71a6b"
+    },
+    "electron_golden_touch_20261107/gate.gd": {
+      "bytes": 20119,
+      "sha256": "8ede0d41ee4882301044c502debcfec1d6d9245b332f493a17abadcbd7c6d414"
+    },
+    "electron_golden_touch_20261107/materialize.py": {
+      "bytes": 1670,
+      "sha256": "41c76694cd1b5f3e9a6139dbe63cbbe176deed995b1198760bda0011ed98e52d"
+    },
+    "electron_golden_touch_20261107/prepare_gate.py": {
+      "bytes": 6233,
+      "sha256": "48388cf8276954b1ea31320f34668ed1b5f3a977e570796182a41f9806ad6242"
+    },
+    "electron_golden_touch_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1173,
+      "sha256": "6c627d053814cc7670b1fac03e7cd8b37561598b982f2c2ebcbffc85988b74a8"
+    },
+    "electron_golden_touch_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_golden_touch_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 23197,
+      "sha256": "1ece3a687c6529da8313ccb31d5541612815a185f382604d9d83a9086b2e6991"
+    },
+    "electron_golden_touch_20261107/run_1/LAUNCH.json": {
+      "bytes": 529,
+      "sha256": "f15dcab4c0f70800beb4cf4eddbbcc50cf40a96e7376953007ff0b0ee29e5705"
+    },
+    "electron_golden_touch_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 269588,
+      "sha256": "4236cc4458a1ff7ce73e049cfca5869d6e9647bd54cac8bcffb01e359f8da6d0"
+    },
+    "electron_golden_touch_20261107/run_1/PROCESS.json": {
+      "bytes": 603,
+      "sha256": "8f52e037b98639aae63187d9d10006e68383aa27efc759e6e4c11bacddde7f33"
+    },
+    "electron_golden_touch_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1305,
+      "sha256": "6c692d47c30ddf684ebfba70fa9896f1be568b99d8787595deff1b7f96fdee52"
+    },
+    "electron_golden_touch_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 13088,
+      "sha256": "061b7df49ab2630a142fdcbca4c95fa2d67e77309ae23fbf40d7eabd0f51a66e"
+    },
+    "electron_golden_touch_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4568352,
+      "sha256": "8266106c62d99359a96445abb99687141b12673e3fd79299abb28a5cf1a7514a"
+    },
+    "electron_golden_touch_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 34285,
+      "sha256": "970fc646ad68873d32986f4e89130199a85ab01aa8c5a95512a9ef215d57f1cc"
+    },
+    "electron_golden_touch_20261107/run_1/data/prefix_progress1.native_save.json": {
+      "bytes": 56938,
+      "sha256": "8cc9912633334a0bee7712bcadc52420d62c40f4c7b2e9d89fb294d44ae8fd49"
+    },
+    "electron_golden_touch_20261107/run_1/data/report.json": {
+      "bytes": 1526385,
+      "sha256": "37dcd3c8be9d2e2b6a36057d95913f21efe6dea1cc2033380319663a3d7eca5e"
+    },
+    "electron_golden_touch_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 70811,
+      "sha256": "5a9fcd595e9f3578e578cca44d5726535e72ad0796a754f1d0a976b8b71621b0"
+    },
+    "electron_golden_touch_20261107/run_1/gate_executed.gd": {
+      "bytes": 20119,
+      "sha256": "8ede0d41ee4882301044c502debcfec1d6d9245b332f493a17abadcbd7c6d414"
+    },
+    "electron_golden_touch_20261107/run_1/native.log": {
+      "bytes": 363,
+      "sha256": "195dc187747661d8964f0dfe2ca188c53a725317b8e1f4a08a8ad0e661233556"
+    },
+    "electron_golden_touch_20261107/seal.py": {
+      "bytes": 4668,
+      "sha256": "7863dfeaca2b7366ddec5aa5dacde86bf1df146d02a35cfa12d455e5be8f040e"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_golden_touch_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "3643aaddee6ef5eb60cd459e4456a5daaecee24b4e15c795f5b7ebbb11d99d9a"
+    },
+    {
+      "name": "electron_golden_touch_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "302b7a8d575f588131cb0958def1614e33df35aed3830a0e67442bdcf64d81c7"
+    },
+    {
+      "name": "electron_golden_touch_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "343ff353e53f22a5c2d9dcee31d5aaeaaf7bb3c991e276780c080489a2f0a787"
+    },
+    {
+      "name": "electron_golden_touch_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "434f056a4caf4a7028469c1ef57f8c60a10f9fa3823d3f376cee015ae0d37d81"
+    },
+    {
+      "name": "electron_golden_touch_20261107.tar.xz.part004",
+      "bytes": 68540,
+      "sha256": "5c61dc235930909a21f58d4904f06e6cb7ad8fa7d218d81b6b907b9fad69a438"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_golden_touch_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 431,
+      "sha256": "2c978014ce702b2fec6230a258d1d2ebfa4e1f63eab8f04e8342f3581b6426a5"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "scavenge_clock_commit": "b98e2c26abf8843f45b9e88af678465bfa8c011b",
+    "scavenge_clock_source_map_sha256": "6f163c0fc8a881d3c666b68599a5ce089e388f8168765aa07369a559e78a2520"
+  },
+  "status": "Electron Golden Touch shop transformation bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
