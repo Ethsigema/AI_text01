@@ -1,0 +1,434 @@
+{
+  "archive": "timewarp_electron_reconstructed_20261107.tar.xz",
+  "bytes": 2831808,
+  "sha256": "6baf387fe353cc5d480fd449de97353bbfec11e9651cedc4c9a788602129b976",
+  "files": {
+    "timewarp_electron_rebuild_20261107/BASE_MAP.json": {
+      "bytes": 4536491,
+      "sha256": "23c1cd9b8f037c39c7b748348312f3c5e327d35a471f9ded31b4e186574d0c8e"
+    },
+    "timewarp_electron_rebuild_20261107/BINDINGS.log": {
+      "bytes": 2229,
+      "sha256": "84ed743fa5c21a3f46928bd3658df1a5359372bf154f644732d1a0578ec38c49"
+    },
+    "timewarp_electron_rebuild_20261107/EXPECTED_ROWS.json": {
+      "bytes": 21785,
+      "sha256": "7f17f9868160224f2f43e7a75500ddf1c0c32d22366762a1cc3106b769256901"
+    },
+    "timewarp_electron_rebuild_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_electron_rebuild_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 13307,
+      "sha256": "c9e18952105e4048b02f4e8e1ee39b4170353c5ef7124062c8882c59911ff2ad"
+    },
+    "timewarp_electron_rebuild_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 230258,
+      "sha256": "4fd52818b26c1a792f86b033bff66d92a9695a97f61afcb14e6a5f07e0e13b12"
+    },
+    "timewarp_electron_rebuild_20261107/README.md": {
+      "bytes": 2966,
+      "sha256": "a70fa4f695345321ed37e6d862356e82b3f46202f25f0f534d31dce522e9f137"
+    },
+    "timewarp_electron_rebuild_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "0032f228889159a929ed55e971260b2fa79b2856f035c8a7321beff57f007e24"
+    },
+    "timewarp_electron_rebuild_20261107/SOURCE_DELTA.json": {
+      "bytes": 9300,
+      "sha256": "a928a053dbab290579cc631ac34b92168a2353cd13fbb0efb115ff3bb35245a6"
+    },
+    "timewarp_electron_rebuild_20261107/SOURCE_MAP.json": {
+      "bytes": 4537978,
+      "sha256": "8e099df06e47a901875a526a0ea21edcbf21406758f786b77078b8f00845492d"
+    },
+    "timewarp_electron_rebuild_20261107/VALIDATION.json": {
+      "bytes": 801,
+      "sha256": "433f576817d4eb18f26d680efd051a2b7c107121479ab12ed070674e14ec68a7"
+    },
+    "timewarp_electron_rebuild_20261107/build.py": {
+      "bytes": 7310,
+      "sha256": "dc4cda237da46cda37534cc1cf55d7f8827d3608fbd744d41fb76e911e0a91b2"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/catalog.gd": {
+      "bytes": 1802261,
+      "sha256": "8643f9c0a5a2442ec18499f32d30a22d3039cb095cae8e8009b6c0c82f05ceae"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/combat.gd": {
+      "bytes": 573752,
+      "sha256": "988a09077639fa3ea024dffa8a53b1db9ebf5f6d0b5eb4b862bb6c420a2bca3e"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/game.gd": {
+      "bytes": 1321744,
+      "sha256": "385cbc1a6b53522c43d5e269a2bf407d35cb892093c60ceb98d686d74c1da535"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/mechanism_effects.gd": {
+      "bytes": 208947,
+      "sha256": "2bf8270878cbac39508ddbc588607340a3686f650547d7d5e4260b8ec25c7496"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "fedd58b99ccb528dc062062e85013ddac086c471bc93e6e1948d85a4153323a5"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "52b9bbb1943ae9d6dd1b83b7a59b223c84135ba92eadca9924a0f44fd4518985"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "65e0a84c673d8a2a3473d3a384820871f397e8187689d8611aa239069dad90a6"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "63ff648f2c307fc7cea7052e48ff3cc9577a57fe8f393ded1b8604e9800b79c6"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "f4328e118eb01e8e3b20abdf9bad27b5fa60993bdab21a9bf19fe3479d4879e9"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "05f0f4b740cbdddfbdeaafb7bb033f2a8bd44c277446f273b4e9ac8e1cfb1b81"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "da8074e6ebf8f62fbf287d0fa1aed7261b062fce523cf9a37f9179a5f647be0a"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "7836c5a0c3edaf1bfb1b162a7a894461d3179801c6f174b5de2c22cbc23ef1a2"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "44d55de49719730411c1670ae90e45d9e09f6f349628dbef7f46b86473eb48ac"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "610c1fefbe4a917f5a9f678ccc7569f078a1ddc73d8d4068f7c2f184e5958a48"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "d6cd6be2e5438ff7b1b4ea6c29f0a38204a4d9af7753aa902b0977f0ad8e6a96"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "88149bfb5f8a9f77ea37d73296937f7af8db180d6a390658fa2c7b633b42eced"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "474c54dfcce0313288cdd9bdb74d945f7e492338202ae972aaf1297e83453006"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "979d7efc98a4635f587fb30fea8b024b74605eb74d263e94d74a8f4a3bd76a08"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "97822cc28373bd4263291a8f260e28f354b120ad63f535b5fde30b2d05998e76"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "e28ad7ab3728badd313df86b002538d8f78f6e328f28fbd078e1a54b0cbbd4d7"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "70f82adc50a3c14fb9d9c8bef729aa4cabcd8a2ff014355cfadc3041331b82b7"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "131ca0add385a0752d00b3ea0a6b2f7df3251c1ca231f710e09f8db5dcf3e643"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "284f5e2918d853061b91a64bba2605404715f64dd0d12b12a06234dd711f98ef"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "7490cefc5d31356611b85f625e52a1698c5a12f319916756510bcf3a1652121b"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "a865b32406ad198742f28a89a30e9d20ce49dca3f5edd3a5b85f086868163c2a"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "ce441c112eecb285a300be28c64458c11e6399f01bc410c777e660d709ca53b6"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "e0599008cbfa7d5e27171ed8bdd86d181051e20c3aae4e58e082270aea6a53c3"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "17b16bc9428cbe09b88211ad3139918bd2a57ae0c2ba675ec40c53e2c52e6058"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "ed1de5849fbdd96bb980a37ad9e179eb8ebb8a8d2108ed328c50ad480ed4d5b4"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "17192cc356a9a6d7652e0c4cd7e2c65fa1aa5a6eb6305289e60b34e6d5b43106"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "c696db52fdc366bdfe3e815c6820fda8146afb6553f80ea1dfd8223ff04be833"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "382109751764af6f3220211c27f0f9eacc79e9bda2a63c2c471edc636e59b7f4"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "9c5edf83d2e359cd855c6672ae97d5474a9f81e66be90c411ceaa7adacb37629"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "7237b77b0a1d1ee839c2d66daa489a13c93e7c461521b8233e4161ca514b8080"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "5dd4fd6e68dbc06a9d4c046c285b64fb3cc885600ee9e45746a9bac0be21d049"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "edb59bce1c38feca86d411fca61f80dd6779bfa5026c8ec0d17073e709f749cc"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "791986922f1a85ef4fb681b75eaee2cc233125568edb49ba1cdad5cb2c18887f"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "f11dfc1aa317577171ee140fdc20e6eb68e244f127f58e31443f24dc744c19c7"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "3ebe4739aaddad58431a537fb5812fe24ae6f8ece1a3a61b412815604f775ac8"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "4a1c23dc8e55e811d1ed3ba8f9e9472f140ce5e35da2875426589c79755d985b"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "231f390e8f093b7ae3c2cf2bad9f566cb49919ba21a08ca2465ad4f18b5af006"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 31256,
+      "sha256": "3976ff5111e1cead906c6423718c686309205c1764060c1e30a9cf4bbc884dd4"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 29309,
+      "sha256": "9459b0fefb7180f0b21e11087733d8a31025cbde727e61a3bfd3045346b4d3c0"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "8f0c10cafe6a844dc09a07cad19d00c2ad903a3bf40803b4af849147635577eb"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "6abd7fdc844b09c408d9885491f7dca0670976e85b349e5b00606af7904e126c"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "be2856fbed959ec1b289a8bba1a4bb7286c6e3fcbfb76f5ee2a90ee05a7f1f42"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "350c946399921c805b3c5b8ee99517b0c842a3a84175abd4bf92265d7dababc8"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "0094d28cd25c030bb7c9100aaba325a5a6e950fa53b6ed4113ad65f8e650c5a6"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "cf64200e1a384777e0d0b7c1e6486d4f54c48a193ec598755b58bf9bdb0307ae"
+    },
+    "timewarp_electron_rebuild_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 5278,
+      "sha256": "e5da7c3f2efbcf550111418b42eb6b12c508c41561b5056734a926f2a73c0933"
+    },
+    "timewarp_electron_rebuild_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 23935,
+      "sha256": "8db0a442db0ad1cb022761b4130ef5bbf471345b77d878ebb649f257eeb8711d"
+    },
+    "timewarp_electron_rebuild_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 22725,
+      "sha256": "48a246d00dc2fa23ee03f2b9ad7335d105a225f5ac8945bde9443ddf6ef382c6"
+    },
+    "timewarp_electron_rebuild_20261107/delta/research/patch_3702_timewarp_electron/BG34_Giant_610.native.xml": {
+      "bytes": 4877,
+      "sha256": "cbbf3305183568de94914f4b7bdf4f912a341438748d0691626da418a0d95245"
+    },
+    "timewarp_electron_rebuild_20261107/delta/research/patch_3702_timewarp_electron/evidence.json": {
+      "bytes": 475,
+      "sha256": "95be1a2b6fa0ad3343457c5d1d67d1477961ab07728e88c0abba4cb91593fa09"
+    },
+    "timewarp_electron_rebuild_20261107/delta/research/patch_3702_timewarp_electron_golden/BG34_Giant_610_G.native.xml": {
+      "bytes": 5238,
+      "sha256": "eea53be0a48287e1c303e19834833688155a257c3b98e966d7bb1806223dec1b"
+    },
+    "timewarp_electron_rebuild_20261107/delta/research/patch_3702_timewarp_electron_golden/evidence.json": {
+      "bytes": 477,
+      "sha256": "052715ff76acf0468e3adeb0aa5f5633f981e40267002fbe4cdc223a1ddcee68"
+    },
+    "timewarp_electron_rebuild_20261107/gate.gd": {
+      "bytes": 17372,
+      "sha256": "94024661fa0cb407d399b6f17683cb1ab090933d9f4ba122327774e6ca71ff53"
+    },
+    "timewarp_electron_rebuild_20261107/host.gd": {
+      "bytes": 5278,
+      "sha256": "e5da7c3f2efbcf550111418b42eb6b12c508c41561b5056734a926f2a73c0933"
+    },
+    "timewarp_electron_rebuild_20261107/make_gate.py": {
+      "bytes": 1105,
+      "sha256": "22f2d5931ec025a99955128ab75147cc56d7e3ee89779777f1532398494d87d0"
+    },
+    "timewarp_electron_rebuild_20261107/materialize.py": {
+      "bytes": 1691,
+      "sha256": "f54d0f70e03e1afc463258cf360f3b69f801e80e9f864951350f9223e2d5186d"
+    },
+    "timewarp_electron_rebuild_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1174,
+      "sha256": "6d41819ebdad58b99b6a304d3bb05e816671db2f65e45ee085abbd61a3c160ca"
+    },
+    "timewarp_electron_rebuild_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 21785,
+      "sha256": "7f17f9868160224f2f43e7a75500ddf1c0c32d22366762a1cc3106b769256901"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/LAUNCH.json": {
+      "bytes": 537,
+      "sha256": "361a5243c3a8cb49627d3c0c2d2e9c5a4023c7bd91faa577b31f0cd573bd4824"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 230258,
+      "sha256": "4fd52818b26c1a792f86b033bff66d92a9695a97f61afcb14e6a5f07e0e13b12"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/PROCESS.json": {
+      "bytes": 611,
+      "sha256": "6de48b1cbdfe5537e37c4e09e9bf2bb61f29833879f616665e8b36ae704dc562"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 9300,
+      "sha256": "a928a053dbab290579cc631ac34b92168a2353cd13fbb0efb115ff3bb35245a6"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 412128,
+      "sha256": "0e38b14511301a27b014cc156c11a89888f269883d0b1b2132cbc28f9461224a"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4537978,
+      "sha256": "8e099df06e47a901875a526a0ea21edcbf21406758f786b77078b8f00845492d"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 25632,
+      "sha256": "5c8b19fcb5e8245ad93439ac92b4e923ddb4f1137a600b8d50dc3a6cbc4ef0a6"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/data/prefix_progress1.native_save.json": {
+      "bytes": 46884,
+      "sha256": "4a6be260514b353b2b9463b3af785e38d667fac849ffd814afb6155e4cc3dda0"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/data/report.json": {
+      "bytes": 2788501,
+      "sha256": "f570618b4a11c9ebbb29a8e429ab09b416a5a0f2d7a757fd2f67069e62da5164"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 100717,
+      "sha256": "7867add189921a0d03e40abdc1280df925a3670436b4af53ccf161ed9685b6ff"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/gate_executed.gd": {
+      "bytes": 17372,
+      "sha256": "94024661fa0cb407d399b6f17683cb1ab090933d9f4ba122327774e6ca71ff53"
+    },
+    "timewarp_electron_rebuild_20261107/run_1/native.log": {
+      "bytes": 736,
+      "sha256": "f60507d6777885cea2cee4468857ad28b19cd94bbc1781d3c7ff2fcf3bd0f7b3"
+    },
+    "timewarp_electron_rebuild_20261107/scenario.gd": {
+      "bytes": 7985,
+      "sha256": "49e2f859161951993ce101755f1f1ebd107b53e65377558b63a4c0241eef4937"
+    },
+    "timewarp_electron_rebuild_20261107/seal.py": {
+      "bytes": 4285,
+      "sha256": "23e6e7e3b118845c5e3465d944625f486f370aa41684ada6c8709bbf46c99643"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_electron_reconstructed_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "9a2d7059fdbfa6cb0a3829a824a8b62da9478afe39be206f2e02e768fbc62f97"
+    },
+    {
+      "name": "timewarp_electron_reconstructed_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "df841046f9b8b347e098a51ce32becef8ab3ea877e082a4aebc13e2876cae781"
+    },
+    {
+      "name": "timewarp_electron_reconstructed_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "983e9afb9a7d2a58fddc8714f7659dc476f4739be3c0d7bbbb69d740191e1703"
+    },
+    {
+      "name": "timewarp_electron_reconstructed_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "c25163645a42509c70f5997363135772aa63099b4615c614bce79b29c6a41789"
+    },
+    {
+      "name": "timewarp_electron_reconstructed_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "82b3af897860fa4d71a5fcebd05a44f6514b3ccb9d02c380d69a61e57ac26d2e"
+    },
+    {
+      "name": "timewarp_electron_reconstructed_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "ef85f8510fea81baf79e0e6d0305a375fd704c05e75aecb7814d114d5f1cd55f"
+    },
+    {
+      "name": "timewarp_electron_reconstructed_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "fe2186484722568f2632dfa61b2c1b42073e38c0db1be612dd312332e4c82238"
+    },
+    {
+      "name": "timewarp_electron_reconstructed_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "8468f6e6ca9b0a7c4cef345e260769f5e6e3e7c3281f18669cf13d122379025e"
+    },
+    {
+      "name": "timewarp_electron_reconstructed_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "b80e50de7bca7dea36ccaf1db2fee5c38f1a4ebf7e417402c64c13d22c4d6659"
+    },
+    {
+      "name": "timewarp_electron_reconstructed_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "8db05562732ad26c57f852506b7d758df1f659d2d86f15dfe67a377984187eb7"
+    },
+    {
+      "name": "timewarp_electron_reconstructed_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "010705c80f9592df18a83555eade48fac280e84e35c515d45c4cbe4f06eb88b6"
+    },
+    {
+      "name": "timewarp_electron_reconstructed_20261107.tar.xz.part011",
+      "bytes": 81808,
+      "sha256": "3fb5837bd3ff424ec190aaefb07f29e432d530db9f75ed4e11804c82d49d2f4c"
+    }
+  ],
+  "depends_on": {
+    "theotar_commit": "e23df857427307b8a29675a62156e96040c72604",
+    "theotar_source_map_sha256": "23c1cd9b8f037c39c7b748348312f3c5e327d35a471f9ded31b4e186574d0c8e"
+  },
+  "status": "Incremental reconstructed source; retain complete Theotar, Wrathguard, Bloodbound and historical base chain; no full gameplay acceptance claim",
+  "audit": {
+    "archive_members": 89,
+    "credential_pattern_flags": []
+  }
+}
