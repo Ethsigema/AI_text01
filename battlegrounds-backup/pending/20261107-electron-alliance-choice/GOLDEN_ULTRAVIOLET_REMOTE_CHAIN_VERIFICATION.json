@@ -1,0 +1,59 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "golden_ultraviolet",
+      "commit": "67459fd7cb493d9a84e956efd867fc7cd32ca3f2",
+      "repository_path": "battlegrounds-backup/pending/20261107-timewarp-golden-ultraviolet-bridge",
+      "manifest_sha256": "636ff2a338a1c58fe057a58d794454f78afb97d3249145e596ab11d2378ffcee",
+      "archive": "timewarp_golden_ultraviolet_bridge_20261107.tar.xz",
+      "archive_sha256": "66714f169d488e8400132bfe692c38e5676573903e04057cbe9eca9ef66aeedc",
+      "archive_bytes": 1059228,
+      "parts_verified": 5,
+      "members_verified": 32,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "combat_spells": "5c30800c28a7f49dab7a5d2a48e2836451db05827ddde077a9b206654f8852ee",
+    "golden_ultraviolet": "ad387f3dd43e4f2239efa641f9eb4168de901331342741a36ffe85cf924aef6d"
+  },
+  "combat_spells_source_byte_equals_golden_ultraviolet_base": true,
+  "baseline_files_rehashed": 27669,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "7deedfdbe82aabed82d637f10d736d3511f6b11b601c650a28ebb7edfc6e369f",
+  "change_lists": {
+    "added": [],
+    "modified": [
+      "core/patch_3702_timewarp_swirler_golden_sources.gd",
+      "core/patch_3702_timewarp_swirler_sources.gd",
+      "core/timewarp_swirler_host.gd"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 3,
+  "new_files": 0,
+  "modified_files": 3,
+  "removed_files": 0,
+  "restored_files": 27669,
+  "restored_bytes": 1547960474,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_combat_spells_to_golden_ultraviolet_map_continuity": true,
+  "supporting_combat_spells_chain_receipt_sha256": "6911f047420ccef8d461f331cae2026fea863523fdc0c42f191657eb6d52bad2",
+  "historical_baseline_provenance": "The baseline is the verified Electron Combat Spells baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Timewarp Golden Ultraviolet Bridge increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T20:37:36.635139+00:00"
+}

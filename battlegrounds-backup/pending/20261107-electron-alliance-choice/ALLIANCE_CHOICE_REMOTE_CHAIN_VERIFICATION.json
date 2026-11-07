@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "alliance_choice",
+      "commit": "8be0744a863586ebd290c7aba6a8002d5571eaa1",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-alliance-choice",
+      "manifest_sha256": "205d64a32377dc178907464dcaabee79f41498089f843af6caef1da1640df0c8",
+      "archive": "electron_alliance_choice_20261107.tar.xz",
+      "archive_sha256": "6a960e606db53e60e3328a1287f80e7a762b46113c7deef7217d58cbf9b6fc20",
+      "archive_bytes": 1069516,
+      "parts_verified": 5,
+      "members_verified": 40,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "golden_ultraviolet": "ad387f3dd43e4f2239efa641f9eb4168de901331342741a36ffe85cf924aef6d",
+    "alliance_choice": "07dd29436f95d0fba4d71cd33c71ae8cba079be3017cb5152ca34468e09a39c7"
+  },
+  "golden_ultraviolet_source_byte_equals_alliance_choice_base": true,
+  "baseline_files_rehashed": 27669,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "a6d21fc68dd4223f1474c0ed2aed12f9226f59b7e32f6c8fd9dbe4e25f0943d0",
+  "change_lists": {
+    "added": [
+      "research/electron_alliance_choice/BG31_880.native.xml",
+      "research/electron_alliance_choice/BG31_880t.native.xml",
+      "research/electron_alliance_choice/BG31_880t2.native.xml",
+      "research/electron_alliance_choice/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 9,
+  "new_files": 4,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27673,
+  "restored_bytes": 1547974412,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_golden_ultraviolet_to_alliance_choice_map_continuity": true,
+  "supporting_golden_ultraviolet_chain_receipt_sha256": "89d48d8b396783a6e75b86b826f70e62ff0b019ad4f1bb8fa201dadb75a97985",
+  "historical_baseline_provenance": "The baseline is the verified Timewarp Golden Ultraviolet Bridge baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Alliance Choice increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T20:49:11.556861+00:00"
+}
