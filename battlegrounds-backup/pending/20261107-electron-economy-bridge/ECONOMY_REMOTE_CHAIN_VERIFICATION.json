@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "economy",
+      "commit": "9e5970c858ed126f40b198282b902fac5fd2864a",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-economy-bridge",
+      "manifest_sha256": "44b0ea4354d827e8c9f1c3c3245ba76c188c3e2a1574ccf6f4668e45ae1c37d4",
+      "archive": "electron_economy_bridge_20261107.tar.xz",
+      "archive_sha256": "438990b43593dd35722002c075223fe4cf101708a9b7209d09e5b896b8bb182c",
+      "archive_bytes": 1063732,
+      "parts_verified": 5,
+      "members_verified": 42,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "all_bridge": "1c1bc2d4916afc3e457ea61faf8ce8592b78653c76a08c756e2e1c9c0b04e9dd",
+    "economy": "faa285f0648287c779cefa6f185a22f6355eab160db752f05a2d10a7c459d133"
+  },
+  "all_bridge_source_byte_equals_economy_base": true,
+  "baseline_files_rehashed": 27526,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "86d2a78c7f4d4875d16696b8a29cef5abbb2f4b128999ea0a33a5433ab156d1b",
+  "change_lists": {
+    "added": [
+      "research/electron_economy_bridge/BG28_500.native.xml",
+      "research/electron_economy_bridge/BG28_800.native.xml",
+      "research/electron_economy_bridge/BG28_805.native.xml",
+      "research/electron_economy_bridge/BG28_827.native.xml",
+      "research/electron_economy_bridge/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 10,
+  "new_files": 5,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27531,
+  "restored_bytes": 1546535856,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_all_bridge_chain_receipt_sha256": "b5de179a414c7b01c5c4479da3871004496a07dab1e3bc47a6c0ea10778eee1a",
+  "historical_baseline_provenance": "The baseline is the verified Amalgam ALL bridge restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron economy bridge increment and rehashes every supplied baseline file.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T11:05:25.658932+00:00"
+}

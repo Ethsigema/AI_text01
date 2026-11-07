@@ -1,0 +1,59 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "all_bridge",
+      "commit": "e491723278e6068d6e001f0e7f9b7027827b5715",
+      "repository_path": "battlegrounds-backup/pending/20261107-amalgam-all-bridge",
+      "manifest_sha256": "4aa51d87ef7f3cbe3060681d7614daf7e2a260814f00ad69a7495a7ef7427f44",
+      "archive": "amalgam_all_bridge_20261107.tar.xz",
+      "archive_sha256": "157b43f2d5e4cf8749f58dd0858df764c9ba3d67d3f5c8434fba7fc820222bb0",
+      "archive_bytes": 1049612,
+      "parts_verified": 5,
+      "members_verified": 38,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "drakkari": "3d7912ba375c31ef80867c78d7bfe36380596bb531606db4563f58ffcfda0288",
+    "all_bridge": "1c1bc2d4916afc3e457ea61faf8ce8592b78653c76a08c756e2e1c9c0b04e9dd"
+  },
+  "drakkari_source_byte_equals_all_bridge_base": true,
+  "baseline_files_rehashed": 27526,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "034b29d72ab81c80b700508012d829822777bde7032b5d1eb7065abd66a6ebdb",
+  "change_lists": {
+    "added": [],
+    "modified": [
+      "core/patch_3702_timewarp_amalgam_golden_sources.gd",
+      "core/patch_3702_timewarp_amalgam_sources.gd",
+      "core/shop_bonus_selectors.gd",
+      "core/timewarp_amalgam_host.gd",
+      "data/patch_3702_timewarp_amalgam_golden_overlay.json",
+      "data/patch_3702_timewarp_amalgam_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 6,
+  "new_files": 0,
+  "modified_files": 6,
+  "removed_files": 0,
+  "restored_files": 27526,
+  "restored_bytes": 1546524109,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_drakkari_chain_receipt_sha256": "ec57603b02864f8a865b25935d8aa2dcd915613883cacb88577e51305b157a31",
+  "historical_baseline_provenance": "The baseline is the verified Drakkari Chimera bridge restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Amalgam ALL bridge increment and rehashes every supplied baseline file.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T10:50:48.206202+00:00"
+}
