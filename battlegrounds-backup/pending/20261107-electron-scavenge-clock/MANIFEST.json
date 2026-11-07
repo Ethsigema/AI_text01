@@ -1,0 +1,203 @@
+{
+  "archive": "electron_scavenge_clock_20261107.tar.xz",
+  "bytes": 1074648,
+  "sha256": "30fc4afb1c1c69829f739cee96cbea942f7f734dcec4275307568b102de52bf8",
+  "files": {
+    "electron_scavenge_clock_20261107/BASE_MAP.json": {
+      "bytes": 4567710,
+      "sha256": "07dd29436f95d0fba4d71cd33c71ae8cba079be3017cb5152ca34468e09a39c7"
+    },
+    "electron_scavenge_clock_20261107/EXPECTED_ROWS.json": {
+      "bytes": 22931,
+      "sha256": "74d406356ea0cee64eac1900da925705521085593572f60a21e8f2c819a60c70"
+    },
+    "electron_scavenge_clock_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_scavenge_clock_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5048,
+      "sha256": "d004098a60d4a7ecec021705df8b09b6df0ddda03ca7147db348e53cf3674864"
+    },
+    "electron_scavenge_clock_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 269054,
+      "sha256": "63bbde48a757d625b58366898e2dee3a6557775d79cec02ddbc7be34dae6df78"
+    },
+    "electron_scavenge_clock_20261107/README.md": {
+      "bytes": 2297,
+      "sha256": "c4006f79a7cecf5ac061df1c5bc71ba975ee40effe7a90bc931c5cd290a1c48c"
+    },
+    "electron_scavenge_clock_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_scavenge_clock_20261107/SOURCE_DELTA.json": {
+      "bytes": 1315,
+      "sha256": "90effbd929ae2be2e7211aba410ad1221eb568beb60cf3c815b4ece5b78f91e4"
+    },
+    "electron_scavenge_clock_20261107/SOURCE_MAP.json": {
+      "bytes": 4568033,
+      "sha256": "6f163c0fc8a881d3c666b68599a5ce089e388f8168765aa07369a559e78a2520"
+    },
+    "electron_scavenge_clock_20261107/VALIDATION.json": {
+      "bytes": 967,
+      "sha256": "8cd68b418ea2a6d5b3c0f40e744843891589f7789a8c6ba3247adb4cd0c6b341"
+    },
+    "electron_scavenge_clock_20261107/build.py": {
+      "bytes": 3538,
+      "sha256": "37f17c66bceffbc9694be3eb16fff4c77aa02ecb37bcc80cd26ddeb1514a8f99"
+    },
+    "electron_scavenge_clock_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 39585,
+      "sha256": "afa98c1a9aa05cfecbb12c9d1b0486a53958cc16dc407297f95d33ff5ff27701"
+    },
+    "electron_scavenge_clock_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 37638,
+      "sha256": "5623a7db5e762ed561085600b0de42d89085d907648963673378de3c9224a1c2"
+    },
+    "electron_scavenge_clock_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 11659,
+      "sha256": "fda782e6362aa1d263a87ce006a4ef46bdcd9e9347d830214c6f970f5f685d1b"
+    },
+    "electron_scavenge_clock_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 24508,
+      "sha256": "dc44ea27cfe4eaea1f7d96150b8675e14611352fe02dad06cc12b2149d28a85d"
+    },
+    "electron_scavenge_clock_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 23298,
+      "sha256": "175e4d3add754b2422084b85d6f7d09fb98e5e12593530d997e0b99418301129"
+    },
+    "electron_scavenge_clock_20261107/delta/research/electron_scavenge_clock/BG28_600.native.xml": {
+      "bytes": 3318,
+      "sha256": "90e99c3e6f8b1da5359e80170c26253548c17a693d1d6d4a6c62b1a0990c1f71"
+    },
+    "electron_scavenge_clock_20261107/delta/research/electron_scavenge_clock/evidence.json": {
+      "bytes": 525,
+      "sha256": "8599c0cd21db950c2c92d4c0f9b378f037898b335bb52f79f8fe2b3fac654df8"
+    },
+    "electron_scavenge_clock_20261107/gate.gd": {
+      "bytes": 19771,
+      "sha256": "4c8fcc758302db72a955a41d49bfc6b7c9149e38865f424bd6ba977d64fef40d"
+    },
+    "electron_scavenge_clock_20261107/materialize.py": {
+      "bytes": 1672,
+      "sha256": "eaca914ba00b35d224907dc57cc7267784881d15e6480b52528de6f8611bfc13"
+    },
+    "electron_scavenge_clock_20261107/prepare_gate.py": {
+      "bytes": 6101,
+      "sha256": "bb3e9f152b680965fd45860e8cf4995f5c7591da1504423e98b1553dc6ed6feb"
+    },
+    "electron_scavenge_clock_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1174,
+      "sha256": "b9fb604b464c69c6611af95d79a83dd418c6e16d34a9a655bf79746d5991ba23"
+    },
+    "electron_scavenge_clock_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_scavenge_clock_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 22931,
+      "sha256": "74d406356ea0cee64eac1900da925705521085593572f60a21e8f2c819a60c70"
+    },
+    "electron_scavenge_clock_20261107/run_1/LAUNCH.json": {
+      "bytes": 533,
+      "sha256": "b22e32f34768d5dd2a57502e415dd5018792badf0e73cbe5fa927f88e0c242e6"
+    },
+    "electron_scavenge_clock_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 269054,
+      "sha256": "63bbde48a757d625b58366898e2dee3a6557775d79cec02ddbc7be34dae6df78"
+    },
+    "electron_scavenge_clock_20261107/run_1/PROCESS.json": {
+      "bytes": 606,
+      "sha256": "3f699f3d529a782bc5bdb17ff485cc8cc55a06f0f7fd0650163a81fa9ad8f1e6"
+    },
+    "electron_scavenge_clock_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1315,
+      "sha256": "90effbd929ae2be2e7211aba410ad1221eb568beb60cf3c815b4ece5b78f91e4"
+    },
+    "electron_scavenge_clock_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 13296,
+      "sha256": "32f6a43ec5e4b573d62dfbc555188cc38f020b1742a6415a3de142df01abd86f"
+    },
+    "electron_scavenge_clock_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4568033,
+      "sha256": "6f163c0fc8a881d3c666b68599a5ce089e388f8168765aa07369a559e78a2520"
+    },
+    "electron_scavenge_clock_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 31547,
+      "sha256": "735ff62a78ca84fbe96c1057ea8620412c722dd7c0d122b9681683cbdcd87780"
+    },
+    "electron_scavenge_clock_20261107/run_1/data/pending_clocks.native_save.json": {
+      "bytes": 68218,
+      "sha256": "13e9e1c704c35b0c631d619b7e92de66fc9e1936269d83af7903f1f89fb75cb8"
+    },
+    "electron_scavenge_clock_20261107/run_1/data/report.json": {
+      "bytes": 2413980,
+      "sha256": "b838bb63db87c860965da0c2712863897905cda992cde34ab6b0be34c276873f"
+    },
+    "electron_scavenge_clock_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 109190,
+      "sha256": "2d3ad7e880612e90085005b6a4886fe923e3cc70c688281ae11d3962d4e1b23b"
+    },
+    "electron_scavenge_clock_20261107/run_1/gate_executed.gd": {
+      "bytes": 19771,
+      "sha256": "4c8fcc758302db72a955a41d49bfc6b7c9149e38865f424bd6ba977d64fef40d"
+    },
+    "electron_scavenge_clock_20261107/run_1/native.log": {
+      "bytes": 516,
+      "sha256": "f3617c423719cc274d4d5b809919a9e3f5332c0ed979c846413269c7928b5ddd"
+    },
+    "electron_scavenge_clock_20261107/seal.py": {
+      "bytes": 4807,
+      "sha256": "580528c12394ed7e8f1cdc9cd9bc8ac5eba400f42a4f50fd020cf8f4f25c8f25"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_scavenge_clock_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "3a5697af30b00929a5432c5f3752083f4fa0636d6914f718152726b1ee2923ec"
+    },
+    {
+      "name": "electron_scavenge_clock_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "115bd5bdc3895ffec887377bf04a18a8c915538a2272149e2d66646c7660120f"
+    },
+    {
+      "name": "electron_scavenge_clock_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "2d1c2ed02942edd3a32d54953f661c3af1a91d4dd0dff55498e5dfb06c0a6f9e"
+    },
+    {
+      "name": "electron_scavenge_clock_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "901c224c360ac6836dce86e3ae00dfb2daaba646a2ec6b4913a8ca0d1ddfd419"
+    },
+    {
+      "name": "electron_scavenge_clock_20261107.tar.xz.part004",
+      "bytes": 74648,
+      "sha256": "800997fb529a865bb66d52e226a58a63021a479aabf4325ac010dc41ac38295b"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_scavenge_clock_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 435,
+      "sha256": "ac691b5f89a610d5e07feed4a6e48ce748f6774964a48ecf497f0963726c8dce"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "alliance_choice_commit": "b96c27f8061ee62de0a8418a880b98ef20793039",
+    "alliance_choice_source_map_sha256": "07dd29436f95d0fba4d71cd33c71ae8cba079be3017cb5152ca34468e09a39c7"
+  },
+  "status": "Electron Scavenge three-turn clock bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
