@@ -1,0 +1,547 @@
+{
+  "archive": "hooktusk_base_20261107.tar.xz",
+  "bytes": 3205320,
+  "sha256": "1ba7a719941879ca1ef1c4d22afbcf27c9b5cf9b12617aab6705a84a2b1c3117",
+  "files": {
+    "hooktusk_base_20261107/BASE_MAP.json": {
+      "bytes": 4547709,
+      "sha256": "c1bae64670746b1f5d28bea9e88a2ca5c040b29d12ccbb059cc99511b1d80259"
+    },
+    "hooktusk_base_20261107/EXPECTED_ROWS.json": {
+      "bytes": 15923,
+      "sha256": "ca101472d61dccb2ae415c5a8898904ff80b802aa44e45a0c64cdf8cb2d037f5"
+    },
+    "hooktusk_base_20261107/FINAL_PIN_PREFLIGHT.json": {
+      "bytes": 244663,
+      "sha256": "6d91626670b1b002e6fc927db5af250539b7bfd2efa9bef0d5b04edff6fab9b1"
+    },
+    "hooktusk_base_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hooktusk_base_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 16906,
+      "sha256": "af88de5f5d612cf0072823cb07d5be77eb1f592a3307c5a333a7293a9f123772"
+    },
+    "hooktusk_base_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 244663,
+      "sha256": "6d91626670b1b002e6fc927db5af250539b7bfd2efa9bef0d5b04edff6fab9b1"
+    },
+    "hooktusk_base_20261107/README.md": {
+      "bytes": 3157,
+      "sha256": "891a916c40287a6c0f28261695a0b02e71c557c9f0b4fc6b4566eeca6fa1920f"
+    },
+    "hooktusk_base_20261107/SECRET_SCAN.json": {
+      "bytes": 147,
+      "sha256": "96556e9366caf4a8cd295e4c6896641c50b5ee3bed4851c7e46d2c9f0ea6befa"
+    },
+    "hooktusk_base_20261107/SOURCE_DELTA.json": {
+      "bytes": 10983,
+      "sha256": "e3e3f1f95cd09e8d67732fcf50dcf9b4b689c4731f0a7ba83fab8f66846c61ec"
+    },
+    "hooktusk_base_20261107/SOURCE_MAP.json": {
+      "bytes": 4549103,
+      "sha256": "d9a4ab6b094a69ce6fc8a83f0100ac4f5546f2543067a115295f02be4a163398"
+    },
+    "hooktusk_base_20261107/VALIDATION.json": {
+      "bytes": 906,
+      "sha256": "c70b028c7a232643552b281b2a94e2138d1dda52d8656bfbc8f6b6ce712aebdc"
+    },
+    "hooktusk_base_20261107/build.py": {
+      "bytes": 7854,
+      "sha256": "5e4df227e119ade1d40ce9f1d7b1e16425ebc03c65409ece10d4f29e5a8de1ac"
+    },
+    "hooktusk_base_20261107/build_gate.py": {
+      "bytes": 6150,
+      "sha256": "ea84a4b088b17c333eac4ca99acfa61241de51e0aeab4cab044f785c734b639d"
+    },
+    "hooktusk_base_20261107/delta/core/catalog.gd": {
+      "bytes": 1821639,
+      "sha256": "f6cb624e84c1a9a9528285f17907282230a6ae0b4825079d7c8cd766eed860c1"
+    },
+    "hooktusk_base_20261107/delta/core/combat.gd": {
+      "bytes": 575153,
+      "sha256": "aa5da9fb1ccdd191e30d3a7481bbd219de536ace8f72f0575f0ec266a85ca278"
+    },
+    "hooktusk_base_20261107/delta/core/game.gd": {
+      "bytes": 1323718,
+      "sha256": "6b40d7d4581b98a26df02727cf67b81fee6f61d77ca8254f3f3e1854995df236"
+    },
+    "hooktusk_base_20261107/delta/core/hooktusk_host.gd": {
+      "bytes": 6119,
+      "sha256": "6b03af9be9e5f2487e438f0528109f4f3fa0a2ab5da0e0bfc0a9c87bb26d2bf5"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "cb953e2c2dc59bfcbbff0bd6a1ff6d28efb2f054c3bbdddbb21bef7abd73cf2f"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "4c7e2660d8d8e9d04ede0807a12713dfd8bf461194c8397e4bda40d9ed7b1ea2"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "a7e949cf16af871d2a01f3ceb6064a7213a0f1afffc86f91b510197f785eb291"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "7a16d303173aaa36d5d99a8ef096f172834b00de1d3e2e9260813e53ffc1f362"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "59bd689a21ee1a0e980bc8114265574fbbb642dc3c54d55a8890862b77621364"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "9bcb1b1682788fef307f5b22fe91635400b444beb5c2bbb0198615c534f527ea"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "af10a2d2f3bb6f45b7f5c42f14f92be4615b147658f4472ac8ee0016f79b2c6a"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "2510a6191d8f8b0896e3fb8b265c45601e37d01d6f6b9fa894733f77c0360613"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 23975,
+      "sha256": "73ecba4c6bf37b2d593f7fc893a828dc0b862704adb60dce5a978e260a2b5dd1"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23412,
+      "sha256": "97f5b2011c5e209b2fcaaa51b81c8c69cd7e4b40252346d1a7457bc8e5d261d9"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "1f1182a2dd70f29653ebc547851d9ce73dc23f7a4c94362496ba70ba549818e5"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "ad2c3dcb6b96b170b2f7e23aaf5c9b27cbaba31f7d40b287acd0f93bb19e300d"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "f8360dbf3d81db40e5c6694dca5e15a96df2029d98aaabad7e5a9f5405da8048"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "f6c5acccfb5f7e6c4dbe45faf6d088ec1924e1122f4ab57c01b9ee9a524721dc"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "b0c8ee46f67100ad0090f75ebefa3edbec597e7ba077fd488df56cc2806c1847"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "754b94de95f0921cef4a6e56a6ef2ee3039c3900c2caa0591191e97923b3d647"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "657dccde4a01862ee75fb550cef7b194d1829ec26afa80a133b49e07eb1c2882"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "1b00c1b676e6286491f4fa6cba64ac2020c0c06fe718180520f509da3b9a3049"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "8c350246327114af546c4a592b397d549468f3c86f0cc0c35d6d1e1a1f5ef376"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "8dc0beeba3c37739fa853512f4a43bf0802b01b9928e9267bc3147f6571ad413"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "9a8c80fe2d43a257e342f1f9b54d432bf002f7efdb1af88ac21af6b6658eeb5a"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "6eab989900371c2711d6fbb48de34001db7b50ad1cfd8c2f023a9ed4146473b8"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "f5d7766e126c147a4aa02b41be233e4545ee9936cf48a548333981cadfbf7d90"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "c7ef91b9bef48cd2aab41be6113b96475770d5c547e9af742ab9bc0a9152c805"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "1ace04062b319110becb674193705d5a8737b6dcd700eb20cd32f5d1d0e8963c"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "808560008b887de79fff96830a5d96ac243aaf8fe2c56bd33fd08c1d8431c809"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "d148ae08dfb1f96bb9a70284c2f508eddc798e0d5f0f453a5e38a7e6152561d4"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "315c87af43916b3faaa29502e1bf1889a4f14db1f784e160d1ee6d55383fd010"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "e7d2b1bad0b15646613944e0c4baffb925bb8b10552a3d76084622e0cf418f3d"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "9607c7c14e26e800e04af6073db9f05a98b9aa87997059d5029e19126cec9cda"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "e09a6bb0fad1fd666e2b8ef8acb4204764af0a1da671c5822a27889ac6ccade9"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "98c8d8b087da409d2cdbf2dd6c7229007c27f82ed9d2362a736de5f0415dc6c9"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "8a2317c8b558f521fba616a18038160bd71b39a14c62b38fc6e91d2d01532ba5"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "3cd61e75c58e26635cbafaec3baa5d8b76c1744b40365482ee709f1ce4477cc3"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "26b74fd0060044407e05ee155c62ffc2b13ec1c7d25fde2e185c1af19cb250be"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "09ae258558d671a1c6562d024363cb09048b8d7ec659fe24b258b53f475317f4"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "011ea22c33c455f73c4600d99cf8204baacf56f53066f0a5f0f58a2915b53552"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "25e0f9b2a5872567ca304e06fd8d328296bcd13a38b3407da829c40a7feea8cb"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "0f70469fd7394dd8ff201aef83a5c1cc024fe6c8b5af2304732ed02f5617cc00"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "43034011ea1da42f7c8ad776b1173b70142ac9de1983e8b37261256f401e533f"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "69ee78480794d9080db4b26ebc1a03d89b32d749e3b2ef802d594e2ed5464f9b"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "100af6e247428fa9f350d966bf0c1afb17427505f6a3d708bca1abfe2240f79e"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "9d16b8e34662103c409a242872794382b3e8ed217655a9c7feb5d8c3eec9f5a3"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 33780,
+      "sha256": "fbea70337562830fc7a7188e44c10a8653df0dde8990d3e9811c65e9987def7d"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 31833,
+      "sha256": "24e7f76d604065720434f666e07d09c1d25fe4e1f18b299235bac82a6a1da2ed"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "528974b5dbeef19a6b3271ac537491ce877185b667ded949ab75b0f146e55cde"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "f9d3cf75b98255e4144f0bed44a73ff33f9c2fc099984e25b32a3f16e9058ba1"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "66b71360a47419edcd74f73f55dad4e18a033c6e266565cd156b845a3ead17d9"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "715c010435b8164ece799095c9d0bcc91edb3d056a69221dd1f69d5ee11e3e37"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "aba07b73b13f53f55d21d83914d5a08aba2c1ed390f0d2183c30cf98ada255f1"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "0cc91c78c6cb3f46b8e4a1a604f98e41b30dc1dca6e95515892fec49d8094810"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "7601cc6a2b78da7a0714f0770107527ac791e081905063233f947298341d6513"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "adfd460edf688f193bc75d2dda4d089932c9c3a96f1484cbda8517f0049178f8"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "104e19ae671efc961d5cccb686b4ba75b2ebd941f7aaa7cf5e743d4f20c75f8f"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "bb567693f0994d75ecb31554e4023b15ac56893b315dbe1310c04c71ed454f34"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "d733647b2816dffc60295ab59d2b50caf7b04be9420d5bfd57d281d47e61d2f8"
+    },
+    "hooktusk_base_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "e3deec63135bdf2750b1833901603c18da508c96ca2018d4e0a906bd7b3ee90c"
+    },
+    "hooktusk_base_20261107/delta/data/patch_3702_hooktusk_golden_overlay.json": {
+      "bytes": 18181,
+      "sha256": "f2318325de7c3f501bfa47264c1e957d083d5f8966cfda56a7f023cad36cf778"
+    },
+    "hooktusk_base_20261107/delta/data/patch_3702_hooktusk_overlay.json": {
+      "bytes": 17945,
+      "sha256": "61c6c69014a29045fad598773674007e0f74c36ec68546c3c8adc01fe5074642"
+    },
+    "hooktusk_base_20261107/delta/research/patch_3702_hooktusk/BG36_344.native.xml": {
+      "bytes": 4880,
+      "sha256": "282460cb20919912d381ac6bace4b7da82226c91642a671105b0ee6d87afc002"
+    },
+    "hooktusk_base_20261107/delta/research/patch_3702_hooktusk/evidence.json": {
+      "bytes": 418,
+      "sha256": "70808c385e4d6cecc30a96ad7a16581721317bc2dbe08cff704d9fc31cb48a27"
+    },
+    "hooktusk_base_20261107/delta/research/patch_3702_hooktusk_golden/BG36_344_G.native.xml": {
+      "bytes": 4901,
+      "sha256": "037f978f70c73464ecc735342c2ac517f88fb8059c595b888213aa25514b75e1"
+    },
+    "hooktusk_base_20261107/delta/research/patch_3702_hooktusk_golden/evidence.json": {
+      "bytes": 420,
+      "sha256": "759b9dc149e49f90919df332c4b7f1b0c57879795d6d0517a9edb15a456aaa4a"
+    },
+    "hooktusk_base_20261107/gate.gd": {
+      "bytes": 19035,
+      "sha256": "e9dfe4461d5059074d140b6586c5b68120af735f1cea057a6a7714a5970f8199"
+    },
+    "hooktusk_base_20261107/host.gd": {
+      "bytes": 6119,
+      "sha256": "6b03af9be9e5f2487e438f0528109f4f3fa0a2ab5da0e0bfc0a9c87bb26d2bf5"
+    },
+    "hooktusk_base_20261107/materialize.py": {
+      "bytes": 1678,
+      "sha256": "86e1783f352c31f6b4fed090c8df9f71c513cc5c179d19c133051e9b6c5efb71"
+    },
+    "hooktusk_base_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1166,
+      "sha256": "2d8c268468d3b5522234c58845b720ddd86976c7246fa4918a1bd6f076f90f8c"
+    },
+    "hooktusk_base_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hooktusk_base_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 15923,
+      "sha256": "ca101472d61dccb2ae415c5a8898904ff80b802aa44e45a0c64cdf8cb2d037f5"
+    },
+    "hooktusk_base_20261107/run_1/LAUNCH.json": {
+      "bytes": 513,
+      "sha256": "96ea19e30af584aa38849eb35c15721e79f1d71e99c592cc68a66ac5a3492eee"
+    },
+    "hooktusk_base_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 244663,
+      "sha256": "6d91626670b1b002e6fc927db5af250539b7bfd2efa9bef0d5b04edff6fab9b1"
+    },
+    "hooktusk_base_20261107/run_1/PROCESS.json": {
+      "bytes": 587,
+      "sha256": "950d0a599b2e95c0235465b51d0e3be97ada08d7828c25a1140c4d6d5bda3ba1"
+    },
+    "hooktusk_base_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 10983,
+      "sha256": "7a458dd083d2f7972d351b9155be684d494e122a3ae45ccc4b5d3db7b1587a6d"
+    },
+    "hooktusk_base_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 395888,
+      "sha256": "4c19787714e4edd3ea04ed626250ebdb01dcbb5eafeb80bd9f8018acfae8cae0"
+    },
+    "hooktusk_base_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4549103,
+      "sha256": "af44fe66deddd7d3aa5567b84c84a8b2edd399bc42c75d43a6c359f7de5bd194"
+    },
+    "hooktusk_base_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 30050,
+      "sha256": "c091017edfdbbddb6efeb739d400e0874c53698a9c8e6aadaffd2d60b6cc07e6"
+    },
+    "hooktusk_base_20261107/run_1/data/pending_discover.native_save.json": {
+      "bytes": 124041,
+      "sha256": "0f5ee50469afae06343d3110ca773b86534b3a0bec7ad4b3a7ae85b2ae479f57"
+    },
+    "hooktusk_base_20261107/run_1/data/report.json": {
+      "bytes": 2174749,
+      "sha256": "4a085c663cf76ea0c8860f6ee8842406e0ffb7a2a098f78350fdc9d7ca864427"
+    },
+    "hooktusk_base_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 145205,
+      "sha256": "3c4e7beaa9cdd3a531b6f423809e01d5e37a5cdc7598122dcca9f8a1fde28bc8"
+    },
+    "hooktusk_base_20261107/run_1/gate_executed.gd": {
+      "bytes": 17503,
+      "sha256": "287df89f15e4247c882fe3e280d31aafa10b681572d93ff63b08c24b90b7b112"
+    },
+    "hooktusk_base_20261107/run_1/native.log": {
+      "bytes": 398,
+      "sha256": "f5a1d51fbeea9f84e495058dc72fca4a60c917f0a46d42804b9e54bdf13a1275"
+    },
+    "hooktusk_base_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 15923,
+      "sha256": "ca101472d61dccb2ae415c5a8898904ff80b802aa44e45a0c64cdf8cb2d037f5"
+    },
+    "hooktusk_base_20261107/run_2/LAUNCH.json": {
+      "bytes": 513,
+      "sha256": "76bdd61f7e5e9ad5d2009d1c23d00bf8689e59bf5d77b2c15a7d3f588310d308"
+    },
+    "hooktusk_base_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 244663,
+      "sha256": "6d91626670b1b002e6fc927db5af250539b7bfd2efa9bef0d5b04edff6fab9b1"
+    },
+    "hooktusk_base_20261107/run_2/PROCESS.json": {
+      "bytes": 587,
+      "sha256": "91b1a3027ec8f692fadb499b3e028659fc3616b85d22fabd5d06be15dfe205dd"
+    },
+    "hooktusk_base_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 10983,
+      "sha256": "e3e3f1f95cd09e8d67732fcf50dcf9b4b689c4731f0a7ba83fab8f66846c61ec"
+    },
+    "hooktusk_base_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 395916,
+      "sha256": "07feebbb40d77fbc8f33f809f1cd5948241680f6444fe6d03b91f096f321b0c0"
+    },
+    "hooktusk_base_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4549103,
+      "sha256": "d9a4ab6b094a69ce6fc8a83f0100ac4f5546f2543067a115295f02be4a163398"
+    },
+    "hooktusk_base_20261107/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 30050,
+      "sha256": "736e42bb136b728c41d38a9035801642c5f1ee00a28039789f37e6bf053e554d"
+    },
+    "hooktusk_base_20261107/run_2/data/pending_discover.native_save.json": {
+      "bytes": 124041,
+      "sha256": "3f8c810390e9e7a58e42fb0839495a2b50988b84a16ef5ae43eaa613181968b4"
+    },
+    "hooktusk_base_20261107/run_2/data/report.json": {
+      "bytes": 2228079,
+      "sha256": "e4944a985b41466b4a7a551bbe3750670d0c48376246badab293867fc363cf61"
+    },
+    "hooktusk_base_20261107/run_2/data/terminal.native_save.json": {
+      "bytes": 145205,
+      "sha256": "4319aa16bc215a752935f2fe959692837ce579d172b1df2ce631250caaf3eb8f"
+    },
+    "hooktusk_base_20261107/run_2/gate_executed.gd": {
+      "bytes": 19035,
+      "sha256": "e9dfe4461d5059074d140b6586c5b68120af735f1cea057a6a7714a5970f8199"
+    },
+    "hooktusk_base_20261107/run_2/native.log": {
+      "bytes": 398,
+      "sha256": "d004e62c9eb6cb842f5b89d035b23a448e6f2079fd5f8f55e8f6b813890f8169"
+    },
+    "hooktusk_base_20261107/seal.py": {
+      "bytes": 4276,
+      "sha256": "039ca85bb895684509cfefb8b04870984bd4f0e22d3a3f195806cb2842ad4dcd"
+    },
+    "hooktusk_base_20261107/update_runtime.py": {
+      "bytes": 690,
+      "sha256": "ab9cd702461ec944c66a44e4749653ee7e730d113de8ba66108d8f88b695cebd"
+    }
+  },
+  "parts": [
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "6a5375ae7ce18ecb712764452bcb1920210ba442287c6039ddc957b3f5f02713"
+    },
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "0e222b93551dc62f053ea34aab8a6862f9f07da6717fb352c4acda077dce1863"
+    },
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "6288d4f9089de8d8cb10562be851fe5dc9acc2c86762c2c97d149d0158fb3339"
+    },
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "466765c1019adc7208135d97a91841fdf8c90c16150c73caaae44809fb8cd9e2"
+    },
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "aaf5d8cf4f89bb318b81ea6ca5803e455b412ccfa53d161838362477edbd5981"
+    },
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "b182f531fe751de4b9c571777445ea10be1f33cc9b887bb9a5a9ce727c5c989b"
+    },
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "9a1cb089be700618b8c361d145e47c4733e7628ad4468c52bc6736b8c486f79a"
+    },
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "ca6f62ad4cb9c39349c1d6d70aef2341a6c484f53ec098d50955acbb9489f66f"
+    },
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "fd022793d28285a2199869bf86ab28b6201ef3a243a8d017366d17449e9d478b"
+    },
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "517f5eac208a5916f6f3f697da50b1d7d9e5d28e0a272e56328e3f7196abf8d9"
+    },
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "35fc8156bb5afee620764b18da74aeb73b856f934a53806a268a307cd1872791"
+    },
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "dadd8b19cf64a9515f6c32923185c1ca9c7b53f866f3a739eff08ea41cce3969"
+    },
+    {
+      "name": "hooktusk_base_20261107.tar.xz.part012",
+      "bytes": 205320,
+      "sha256": "c3dd82f30a47f5a085107750be363bf4727a0897009efd22dbf388b2981729ab"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hooktusk_base_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "CHANGES.json": {
+      "bytes": 3354,
+      "sha256": "b95a96ac8d7a24196d24cf809aeb1ad338cf4307f249308e9d68a297a4eb799e"
+    }
+  },
+  "depends_on": {
+    "ultraviolet_commit": "3ce3cfd66d0e8f081d3f8480214a6b2915d30b5b",
+    "ultraviolet_source_map_sha256": "c1bae64670746b1f5d28bea9e88a2ca5c040b29d12ccbb059cc99511b1d80259"
+  },
+  "status": "Partial Hooktusk base Scout Discover payoff; not full growth/general Discover; preserve complete chain",
+  "audit": {
+    "archive_members": 113,
+    "credential_pattern_flags": []
+  }
+}
