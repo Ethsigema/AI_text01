@@ -1,0 +1,639 @@
+{
+  "archive": "spark_snapper_base_20261107.tar.xz",
+  "bytes": 3249228,
+  "sha256": "1228308f44eaf78c887f9a42046f2820d2b7d311b2fad606dc071f5b8b6a7d7f",
+  "files": {
+    "spark_snapper_base_20261107/BASE_MAP.json": {
+      "bytes": 4559428,
+      "sha256": "d1d1689c77b5ddf700b1d5f75ff259ca3a39ea55be0b7ccf2f1786b91c419e51"
+    },
+    "spark_snapper_base_20261107/EXPECTED_ROWS.json": {
+      "bytes": 15329,
+      "sha256": "fde3c3fb72618fb5ea9978beaba51f9839771049090bce17c47963d0565e1fd4"
+    },
+    "spark_snapper_base_20261107/FINAL_PIN_PREFLIGHT.json": {
+      "bytes": 258914,
+      "sha256": "f6c6620fc7b61e28b4f507c1f38173ccafd7c2a449192178369cca804cfc3455"
+    },
+    "spark_snapper_base_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "spark_snapper_base_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 20482,
+      "sha256": "83d56d92d30cd9eca89e10766945932da31776c6c100265e1e17774e3ece0851"
+    },
+    "spark_snapper_base_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 258914,
+      "sha256": "f6c6620fc7b61e28b4f507c1f38173ccafd7c2a449192178369cca804cfc3455"
+    },
+    "spark_snapper_base_20261107/README.md": {
+      "bytes": 2602,
+      "sha256": "0f4004126744876d33866ba2cb9bbba0e52373f042ad54bc9304b4058d1f240d"
+    },
+    "spark_snapper_base_20261107/SECRET_SCAN.json": {
+      "bytes": 147,
+      "sha256": "1a5300485735d5cfc51d4157f21f31f0e6d76a17e2553d88bb3967336cfed6c2"
+    },
+    "spark_snapper_base_20261107/SOURCE_DELTA.json": {
+      "bytes": 13494,
+      "sha256": "ee8db993e395d86a12a9b68b11c0b012f76dc99b43c02fdaab272ed82ee33e4a"
+    },
+    "spark_snapper_base_20261107/SOURCE_MAP.json": {
+      "bytes": 4560867,
+      "sha256": "95de72bfa20d119788db4e0c54c344236f5cb01e8772b3ae1ec87402d4a913ed"
+    },
+    "spark_snapper_base_20261107/VALIDATION.json": {
+      "bytes": 912,
+      "sha256": "6b71161622e98503cdcc871cb0964d11b274a02e3a8932e6183900b7dda2d203"
+    },
+    "spark_snapper_base_20261107/build.py": {
+      "bytes": 7673,
+      "sha256": "bd2121a0f16c4cd8b5427442dedc4868fc85573b12c74fe5b516909715c26d3f"
+    },
+    "spark_snapper_base_20261107/build_gate.py": {
+      "bytes": 2909,
+      "sha256": "2871d7f1456bf70e17a96bc9a66675fb720defd376a644b384d5898c72b9f410"
+    },
+    "spark_snapper_base_20261107/delta/core/catalog.gd": {
+      "bytes": 1845488,
+      "sha256": "0840c6103de9c4d81895acaf604fac7f69792e5f54a26e44e8451d050a24a152"
+    },
+    "spark_snapper_base_20261107/delta/core/combat.gd": {
+      "bytes": 576725,
+      "sha256": "ba8aa2d79608f83c7d2e3e2754534f3a2ad9a0fe2697b07513306562bcb78be9"
+    },
+    "spark_snapper_base_20261107/delta/core/game.gd": {
+      "bytes": 1328127,
+      "sha256": "5ef12e2b9e19e8db1daec3f89d225e50fd5de194cc47e52daae283b903e85a82"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_air_baller_golden_sources.gd": {
+      "bytes": 23207,
+      "sha256": "94676541832529dcacf262b1470e53e3bf7c39320a7254b14bf1e92d4b057fa6"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_air_baller_sources.gd": {
+      "bytes": 22610,
+      "sha256": "d7cdfe0eaf78ef92de427fa266af4d7ea37d5d22e7b2be92cc3a4062f8f6b615"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "f7bb8b69368fed572125fe3f7876c0a38f26f1f044a0b821c1cd3196883c11bb"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "b6dece34dd3305a3a2fdc383d0fd49ff300de20134d058ce0a36eb7d4c48e923"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "0580a3dc61ea53043695b24a99ae6c0e96fc896c587abd96cc04c1fcdabbb30a"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "72306585cc86d543f855b53dd77df1af0a8ff0f912bd23fb8ef5079b8796c1cc"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_fire_baller_golden_sources.gd": {
+      "bytes": 26786,
+      "sha256": "21ade8f6d3bea789f6dd26073c981086d73d1abbf580bb9b0e8b06cd99f9c8e9"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_fire_baller_sources.gd": {
+      "bytes": 26227,
+      "sha256": "2e0a55561a1fb0e503b8b5d23778dbc9f48aa8a8df5d6161f8aa0f7dd9bbd4c7"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "0cce4abd16aa8c951f9098763b96ee097a56706d36bd76dee563139aaf6255d4"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "c959df63546880fcebebe41460a4a96d403321b36785a66606f833f01aff48ff"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "3c095c6125c28aa2d06685f3d5560ca87e6d2cb02f694a2fc1f4c6f36028b25e"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "57bf5e1c433e198a086ca40ea49016ae6311bbf4510c4643abbc116a4f9d2d44"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 24230,
+      "sha256": "b03d7ff89453bfaa240d2f23845fcf308923cc4658fe22bb37cd567b539d1cbb"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23667,
+      "sha256": "13b6d3819fb44a24c8ab8656db9282c4a238818ed246ffbdf98fbfdf4433fc40"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "13132ab2eca16ba7b89c28f1e6b92a92c6de484961818f88645f3573558ab30f"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "152ac7540879329bd5e2d3256753f4b7af5b2408f66931eec32d00c1e25bd182"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "a359544b0ec46d1106d9a18c07853c5bbe50d4179fa6047d6363a2ee72d5d113"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "c9b356c4ef94ccec514a8247645303cd91fd95f2ecd5b7258341b35354bb86a3"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "bcd3fcfb174e73f2e92d529a4ac0ffafa60c47860e3b386578bebd1517558d17"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "64128de5c09a9e6ee3a86cf6ad08120e2cddf2f6c23727496211efb0f58c50ce"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "695943a14485bea6d2286f268e279781d0c5c7a6f9b0b78bb64755cca70968c5"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "ec2e71857d8bf2c2039af4295a916e06e90a3052946232525aa5689d2666cede"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "81cd6eb37fc897d5d5328b04c21e00bb8276a9610116f66f55e7e4995b125c31"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "252cabc4db6ce72027065117cd47cbfb984b07702b09bc058bacc4efdebb2bbc"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "da86a688922e73dad5bde18d82ee5330105c07208bab459bd9cc9c3d7b7c48c6"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "5d3166dbfa87e4f42bd6e52bb06bcd71c9b41c605a54576a98829494d15f0718"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "2ddacc63f292c1c6b001f80b466bc42d9b97acc62a92ae3a4fb3327c09b00d36"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "8907ef40671581542b4a51185a674c795ac88e959bd3b92caf4c0774ae85fed6"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "9335889eb3300153bf7d3c8e107a08d03ca8cb4612f352e8bf2e448bbf3daedd"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "4c38d8539a35670e9f6ec7c3d97ee036699bad4bc03201a5d2f0ef86e45f9074"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "a137f978e786a94c09a5fb0790d450f9f3700c8259116cf54751829d8e1db8b1"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "3b259257dd5ed17fba985d8a1773e9f05db50d509a5ca4365cc81e0945e8a74e"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "be4afc2cd298c260a9a1a26aeebe5f2475fc683e40285fdfc85a0067381e1340"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "8c6aa97ba79fffc37b28647d3dee2df2c839cb3d7ba9337d9c2e9d503bbca038"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "9cd15f6ea5415974dbc7bdf155003622b054083b2c661e0569ce629eac58f2c0"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "f149ff92029d131af43222a0c941fa7724258bb8c5e32a1fbe4f9e2d0c5aec06"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "3a408db89d80b7b495424fbfc53f5c473b3e2d9e20846c6a0a609f92e858b87a"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_snow_baller_golden_sources.gd": {
+      "bytes": 26678,
+      "sha256": "210d6807c3ca7ee34ed24cc814932e755da746315a9fa044863eccab91cd37d7"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_snow_baller_sources.gd": {
+      "bytes": 26119,
+      "sha256": "2dd0a5f4113fe0dc5f0648269fb6da9fb002864e1d25d1ce970dafdd5db514bf"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_spark_snapper_golden_sources.gd": {
+      "bytes": 23215,
+      "sha256": "3e5deceaf4e655885909923803b10f3b49c05f31e8f39d73887e5ca03cb2cb3f"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_spark_snapper_sources.gd": {
+      "bytes": 22618,
+      "sha256": "a2ce3e03a85a09f287111b6ba329723db5836ca3be5991ebedf76d4726d09bee"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "032f86a91212f7e4e343b70d7517f20de6bceb6bbd44101abca53ea366e975d1"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_temperature_shift_sources.gd": {
+      "bytes": 24051,
+      "sha256": "5eb1c85195a2045846f107d87cfb216b5159458689b1f033d2dfd787f19bb8c4"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "f2272692d2dee76972102f8c3d772d86de8cdda31b406ea33c79a5e32c5379e1"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "c4f67cb381d835ce9df6221e9c64342de5bfabecf097211d21a5ef4fe41c499e"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "0b20d42ab10cf22722e21ad7b47287ac32bce489fe00dd7dc11ea487c79ec963"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "17b90f709b214d78a02e8bafa4a89081b6384b170c4dce1a3bd4a43d50bfaabb"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "99d64f4a6e716801d1f5a29a2fd067b52d59c9b8b1e55616d9afca6a318040c3"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "1f8501b7560b3a36170416c112b20d74d2d3a79dee3822419d6ff8d21b3d2bdc"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "e1bf85ba05043b0ec57b7f0e51feee7a87e13b619553ee5e6b18e7bfe789a7df"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "02b5d2015e94a98c9bea0f792bfffa0c1598af5701d1bc7b2392bb5a8349a65f"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "2175a78c00c3320224e84aedbd5715d40d0b9550eb2d7b911de6251ed57588de"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 34980,
+      "sha256": "3239dd7fa54cb3f05c0e9b3c93c79579027df4d02717efb64621ede45e83c6c4"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 33033,
+      "sha256": "dfb0a080c3852018c1a0332621b42db22c99871d7a1e91e89dfffdd1af548eac"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_molten_golden_sources.gd": {
+      "bytes": 27927,
+      "sha256": "66fe53e6e747d497224314fc9dc34f74d65c31bc773a54c162b810459ab0be58"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_molten_sources.gd": {
+      "bytes": 27646,
+      "sha256": "742f095f3232ffb9785fd426d45fade38a89ba37ae0ad978de372b52979109ca"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_murky_golden_sources.gd": {
+      "bytes": 28518,
+      "sha256": "0bdc11cedfd4081b2b7fe60a374be4211115b0accd2d4a1b3b9106190717e08b"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_murky_sources.gd": {
+      "bytes": 28241,
+      "sha256": "092c9f012c0532dc97cf18e03bd7ca92969a430c560c12f5c9691f8fb9ffb52c"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "24c5539a36b476b27c70e511002788a7a8d5790295eb18ebc774d1adc5919d3f"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "2608519f29c7ae1d38c6eba192ac46f9318ea1bfffe38074ee982d7a004529d7"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_painter_golden_sources.gd": {
+      "bytes": 28712,
+      "sha256": "fe4c6133e5b9744f166c567de033877d3ad77e21ee56b6c25fc63561be69f09e"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_painter_sources.gd": {
+      "bytes": 28457,
+      "sha256": "2a8245ac6e9f273df83e903b1a53b22c75d2d16f19680e91241a68980176a2ac"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "fdd3523a90cc52c3fc4e0c3933f43eade11a9ff6d9faead2981f84e16fb228ea"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "08718e341c4fef5b07b95cb7850f219eb0ba7eb237b2b08e0bf5409f680b301c"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "7358298b2873ab17641d343264ba1e13459e23c6a4cdc672a857652fe2655054"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "d45be3c622dabbf51abc71a8f69b34f11243cb4c47704d8cf4461f351e984a03"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "a2c9a91be10ad7190c4ab5a17fb2ed45884b73a50e7da3671d5492a0a3b451e6"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "b3c9ca3018ef6304242450291627dc038866a0109751f5299f748db26d6d05de"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "9102c59d7914665a6a0e090cc695f40b3c1e3f777746ea658b15c8234f58bf4a"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "8207110ebbbd75b47eb6410098d395adb4b16c601bcd947d97479140a0aa661f"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "1993202f39bc7ade6d7d01a014951d0860f9a3d2261bb732ea88609fe3132c18"
+    },
+    "spark_snapper_base_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "8885963f2b8d23d1afe8d829c6f2699f3be4dcecec9fe8880e1fc75b9016333b"
+    },
+    "spark_snapper_base_20261107/delta/core/spark_snapper_host.gd": {
+      "bytes": 4585,
+      "sha256": "90844a94f1a46e7eedeccf841c459f4d8843c64b52f02677c95248717c3a699c"
+    },
+    "spark_snapper_base_20261107/delta/data/patch_3702_spark_snapper_golden_overlay.json": {
+      "bytes": 17613,
+      "sha256": "8b24f259822229cf7238ba19e3c3e4e699a2670dec60a43177beaeb90ce87e20"
+    },
+    "spark_snapper_base_20261107/delta/data/patch_3702_spark_snapper_overlay.json": {
+      "bytes": 17353,
+      "sha256": "87b6fe99c70643e63ce2d98ebaca4e0379c8f5e145fa065d2f60bd847e0c641b"
+    },
+    "spark_snapper_base_20261107/delta/research/patch_3702_spark_snapper/BG36_851.native.xml": {
+      "bytes": 3852,
+      "sha256": "03627b50de12229b9fc69bb88e0d86dd669c5fde7e7f532835ec816d30b3b547"
+    },
+    "spark_snapper_base_20261107/delta/research/patch_3702_spark_snapper/evidence.json": {
+      "bytes": 442,
+      "sha256": "c82566a047b8645d9ea68a0b8b3e0caddb5c6bd6c203e9c79bd9f74830182dec"
+    },
+    "spark_snapper_base_20261107/delta/research/patch_3702_spark_snapper_golden/BG36_851_G.native.xml": {
+      "bytes": 3908,
+      "sha256": "ee235e08f3cca7a546e753317d8b6d84d9f9c71130d689bd28e420873f7e15e6"
+    },
+    "spark_snapper_base_20261107/delta/research/patch_3702_spark_snapper_golden/evidence.json": {
+      "bytes": 444,
+      "sha256": "c3876a9dc70862db100103b8463d3721f52a5ec953fe5e2d740f4c04159fd378"
+    },
+    "spark_snapper_base_20261107/gate.gd": {
+      "bytes": 18522,
+      "sha256": "f1bbf2838b29626c6ea47d52f373189d8c3a4139a6b4619f2ad38a2e14be2e6e"
+    },
+    "spark_snapper_base_20261107/host.gd": {
+      "bytes": 4585,
+      "sha256": "90844a94f1a46e7eedeccf841c459f4d8843c64b52f02677c95248717c3a699c"
+    },
+    "spark_snapper_base_20261107/materialize.py": {
+      "bytes": 1675,
+      "sha256": "43865680895a6d3958f80b57b859ec41e82826d3f3a6ae5f9c21fc5e995db8bd"
+    },
+    "spark_snapper_base_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "11184f31397fc7b3bfa6cc78de21b19f1a54ef3027c9fc25a646defbbddbbc5f"
+    },
+    "spark_snapper_base_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "spark_snapper_base_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 15329,
+      "sha256": "fde3c3fb72618fb5ea9978beaba51f9839771049090bce17c47963d0565e1fd4"
+    },
+    "spark_snapper_base_20261107/run_1/LAUNCH.json": {
+      "bytes": 523,
+      "sha256": "38cc299d88a254f678bdb6ad9fd2edd6c23edaeb1341091dc067ad3ba87e030f"
+    },
+    "spark_snapper_base_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 258914,
+      "sha256": "f6c6620fc7b61e28b4f507c1f38173ccafd7c2a449192178369cca804cfc3455"
+    },
+    "spark_snapper_base_20261107/run_1/PROCESS.json": {
+      "bytes": 602,
+      "sha256": "6275ee4b0cbfa1c30c7ea24d366c389ac2b5d7333bddaa5a2b5bec3c7b28b5ca"
+    },
+    "spark_snapper_base_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 13579,
+      "sha256": "081fe91690e326e3bb9705ecd131b1375a6d9d9494a3bf38d9cc64936a2db97d"
+    },
+    "spark_snapper_base_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 408132,
+      "sha256": "884e0362dd50ba8f16f7c68d38a0a360c645073e7ca7d2c2e248fe55b5b5af4e"
+    },
+    "spark_snapper_base_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4560867,
+      "sha256": "d016fe249a5fdcfa3fb12cf113d54a1bd4ff829fd60a4bc73ade0d630f757fd8"
+    },
+    "spark_snapper_base_20261107/run_1/gate_executed.gd": {
+      "bytes": 18573,
+      "sha256": "8d8880b674093d1af3f099e18070e4141282fc1f29bf9abd9ea6282f32b6656c"
+    },
+    "spark_snapper_base_20261107/run_1/native.log": {
+      "bytes": 695,
+      "sha256": "0c0b07882924802538a8ec90f878906452c6062fcd19b68e39bcee4762c998c3"
+    },
+    "spark_snapper_base_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 15329,
+      "sha256": "fde3c3fb72618fb5ea9978beaba51f9839771049090bce17c47963d0565e1fd4"
+    },
+    "spark_snapper_base_20261107/run_2/LAUNCH.json": {
+      "bytes": 523,
+      "sha256": "55168b17fafb4a40a6b42dd2154276cc2e2ad0329f3d95288c8a3aef9043ac7c"
+    },
+    "spark_snapper_base_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 258914,
+      "sha256": "f6c6620fc7b61e28b4f507c1f38173ccafd7c2a449192178369cca804cfc3455"
+    },
+    "spark_snapper_base_20261107/run_2/PROCESS.json": {
+      "bytes": 596,
+      "sha256": "30181e04e002a6dd85e76d7537cee70e6d811690a5e5947a25ebd0de31ec6637"
+    },
+    "spark_snapper_base_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 13494,
+      "sha256": "ee8db993e395d86a12a9b68b11c0b012f76dc99b43c02fdaab272ed82ee33e4a"
+    },
+    "spark_snapper_base_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 408248,
+      "sha256": "a85674098af1c879f4435e080d3f9845d63a13b13c049a7e4e7aaf9b3d2cfcfb"
+    },
+    "spark_snapper_base_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4560867,
+      "sha256": "95de72bfa20d119788db4e0c54c344236f5cb01e8772b3ae1ec87402d4a913ed"
+    },
+    "spark_snapper_base_20261107/run_2/data/before_first_elemental.native_save.json": {
+      "bytes": 45294,
+      "sha256": "af4ea47600b6d6dc40979122ed833cc6470ebbb157d34c0851cb7d921652cf30"
+    },
+    "spark_snapper_base_20261107/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 25490,
+      "sha256": "242479ff200b5672f4114d10913f30006ac7564e2a9df66014bc992a51030411"
+    },
+    "spark_snapper_base_20261107/run_2/data/report.json": {
+      "bytes": 1008078,
+      "sha256": "d5a1fdda465a3fadd399cd556434085925034c9525c09135ea9ab67b0bb662fa"
+    },
+    "spark_snapper_base_20261107/run_2/gate_executed.gd": {
+      "bytes": 18573,
+      "sha256": "8d8880b674093d1af3f099e18070e4141282fc1f29bf9abd9ea6282f32b6656c"
+    },
+    "spark_snapper_base_20261107/run_2/native.log": {
+      "bytes": 415,
+      "sha256": "ca630259c2333a8d6096a593769042ea095628dc702d5c686f9c2e24ab145bb2"
+    },
+    "spark_snapper_base_20261107/run_3/EXPECTED_ROWS.json": {
+      "bytes": 15329,
+      "sha256": "fde3c3fb72618fb5ea9978beaba51f9839771049090bce17c47963d0565e1fd4"
+    },
+    "spark_snapper_base_20261107/run_3/LAUNCH.json": {
+      "bytes": 523,
+      "sha256": "52cdc8f601ce4ce791b2dc92ff2c95f59a577bc97ebf31d25cf2ed3833a96ef5"
+    },
+    "spark_snapper_base_20261107/run_3/PIN_PREFLIGHT.json": {
+      "bytes": 258914,
+      "sha256": "f6c6620fc7b61e28b4f507c1f38173ccafd7c2a449192178369cca804cfc3455"
+    },
+    "spark_snapper_base_20261107/run_3/PROCESS.json": {
+      "bytes": 596,
+      "sha256": "6f023b25c2a0a4bff9f075b1d64a663e311a13dbcbdc39198410e795ba0345a7"
+    },
+    "spark_snapper_base_20261107/run_3/SOURCE_DELTA.json": {
+      "bytes": 13494,
+      "sha256": "ee8db993e395d86a12a9b68b11c0b012f76dc99b43c02fdaab272ed82ee33e4a"
+    },
+    "spark_snapper_base_20261107/run_3/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 408248,
+      "sha256": "a85674098af1c879f4435e080d3f9845d63a13b13c049a7e4e7aaf9b3d2cfcfb"
+    },
+    "spark_snapper_base_20261107/run_3/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4560867,
+      "sha256": "95de72bfa20d119788db4e0c54c344236f5cb01e8772b3ae1ec87402d4a913ed"
+    },
+    "spark_snapper_base_20261107/run_3/data/before_first_elemental.native_save.json": {
+      "bytes": 38438,
+      "sha256": "69ff8c67269d99167589305ed665d007a34822f7f303583a219844ad0af20e67"
+    },
+    "spark_snapper_base_20261107/run_3/data/initial_fixture.native_save.json": {
+      "bytes": 25490,
+      "sha256": "242479ff200b5672f4114d10913f30006ac7564e2a9df66014bc992a51030411"
+    },
+    "spark_snapper_base_20261107/run_3/data/report.json": {
+      "bytes": 1029574,
+      "sha256": "d284d4ee72593d029e0c1943b7dc49aee05fb69c17d235b5765798dc6a5b4f69"
+    },
+    "spark_snapper_base_20261107/run_3/data/terminal.native_save.json": {
+      "bytes": 54952,
+      "sha256": "499421ee416a2c73c30952e1ca343f5c834eab7e9253a935ae22fe2fac9fd5a6"
+    },
+    "spark_snapper_base_20261107/run_3/gate_executed.gd": {
+      "bytes": 18522,
+      "sha256": "f1bbf2838b29626c6ea47d52f373189d8c3a4139a6b4619f2ad38a2e14be2e6e"
+    },
+    "spark_snapper_base_20261107/run_3/native.log": {
+      "bytes": 384,
+      "sha256": "a8ae0e643b6452eb70e358b01adc52895105a5b36182b071e7577e5b79f29900"
+    },
+    "spark_snapper_base_20261107/seal.py": {
+      "bytes": 4391,
+      "sha256": "5328387d3848d107ba1e6b03f0f89265d255362a90cdf6140aed2054376b0ce7"
+    },
+    "spark_snapper_base_20261107/update_runtime.py": {
+      "bytes": 751,
+      "sha256": "df60d2c937d4676775c9ba01fe6886886d09158bc3fc219e233775c6b9454a26"
+    }
+  },
+  "parts": [
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "583ede5130f48ddf257d481e550f385a4ce7942d915c5c9cb9004e8be6da82a8"
+    },
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "aefa154feb40e377a2006597cf0c50c0cddd99de12bfd43eea284822ff89edab"
+    },
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "da317667a261f115857ca8d71f2e18387df46174ebb8531d92c5b5a73b5957f9"
+    },
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "82a8c9c871cc2fbc3acf9292ff3a528200d43e8cb4bf5a8fc6ad307a46321156"
+    },
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "960ece002c207ef4298c891151ac6f02199b32dc7103f2af6ba83b1b93a52d8c"
+    },
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "d9e568980a74b942163bf7779d79b703ae2247bec88128ab423841769cb23a56"
+    },
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "a8b5d07599b7867177364d6e713f6263e146d7c34ce2e199cd5908d1002cc185"
+    },
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "814270d1990bee469b94d44db39f339a593e4d6d790720b1bd52b6f3f22b9ecd"
+    },
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "81b7acda9cf5d363da21545cc1841f4e1f29b94dbd7ce81b4e309eed5b4335b2"
+    },
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "49c47bc138315ad65f9d4f6d3b89ece5a62abf566e9d2846d57d078d47d597e1"
+    },
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "d5c0992902723fff557c7129b378f1ba3d57ff1e81c88ae843b8595991a68e2e"
+    },
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "873f9ee0de9495e80c9770f5b9bf7b5200b9405301186e85cf11518f3002ad7f"
+    },
+    {
+      "name": "spark_snapper_base_20261107.tar.xz.part012",
+      "bytes": 249228,
+      "sha256": "a7b975a4011001739639c16be07ee002486b6a9f50abb502b94edfb305e23438"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "spark_snapper_base_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 4160,
+      "sha256": "157a0fc42e06eca66ff167e63161d0fd8089dd6cab36940e41d81febbff89162"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "molten_commit": "7ce90c87e7d41bb2f84f7430971fc6f86e15fd20",
+    "molten_source_map_sha256": "d1d1689c77b5ddf700b1d5f75ff259ca3a39ea55be0b7ccf2f1786b91c419e51"
+  },
+  "status": "Partial Spark Snapper first Mech Satellite only; growth and golden gameplay unfinished; source recovery only",
+  "audit": {
+    "archive_members": 136,
+    "credential_pattern_flags": []
+  }
+}
