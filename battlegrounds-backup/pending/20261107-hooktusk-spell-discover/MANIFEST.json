@@ -1,0 +1,247 @@
+{
+  "archive": "hooktusk_spell_discover_20261107.tar.xz",
+  "bytes": 1091768,
+  "sha256": "c4f136b7e23c4ee9e128ebae2ae6d52deb3691b8715c4f464fffcc2e337d9436",
+  "files": {
+    "hooktusk_spell_discover_20261107/BASE_MAP.json": {
+      "bytes": 4549103,
+      "sha256": "ec3b729af4547bed473c49ac0969841d56945da7a14456f7b90145a8dbee2364"
+    },
+    "hooktusk_spell_discover_20261107/EXPECTED_ROWS.json": {
+      "bytes": 16017,
+      "sha256": "549548a08c2a759ba74916da84dc166a19192d5a9206037459ed82b8884268bb"
+    },
+    "hooktusk_spell_discover_20261107/FINAL_PIN_PREFLIGHT.json": {
+      "bytes": 244892,
+      "sha256": "ab9100d824b83f659c779f9d889c786682c19e809924e5eb6500ed0aa1a7a836"
+    },
+    "hooktusk_spell_discover_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hooktusk_spell_discover_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 6523,
+      "sha256": "14dc6e66477768632f5ce4e7c3f87e1a9fd06c19be0de66492cc82d85c5d9574"
+    },
+    "hooktusk_spell_discover_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 244663,
+      "sha256": "6d91626670b1b002e6fc927db5af250539b7bfd2efa9bef0d5b04edff6fab9b1"
+    },
+    "hooktusk_spell_discover_20261107/README.md": {
+      "bytes": 2374,
+      "sha256": "9512eb03162b7fa9644c087e32aa6c568ea1ffe31eb6dd7c99a02da97256e46f"
+    },
+    "hooktusk_spell_discover_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "02e124e19b7f7fe814da51844215b2f9b50d202ef9aed09c23a368110c52b026"
+    },
+    "hooktusk_spell_discover_20261107/SOURCE_DELTA.json": {
+      "bytes": 1346,
+      "sha256": "954ec42fd8286ea663b76138dac9925c8e10ea8075263ebea0fec0613a6b9f7b"
+    },
+    "hooktusk_spell_discover_20261107/SOURCE_MAP.json": {
+      "bytes": 4549103,
+      "sha256": "b1c2becb377e2f49fe483d74e131a52fe97e718627d739a594ef6307bed3a09e"
+    },
+    "hooktusk_spell_discover_20261107/VALIDATION.json": {
+      "bytes": 925,
+      "sha256": "0e31c39fba6f43a90369369251f95da9cba7d83eeb8a6a2f7de06d2b01fd4246"
+    },
+    "hooktusk_spell_discover_20261107/build.py": {
+      "bytes": 4949,
+      "sha256": "7e11ddb51f80ecca84fec15e0cfef2de6920c8ee96cd0950cc59a7ae09b9e393"
+    },
+    "hooktusk_spell_discover_20261107/delta/core/bulk_recruit_discover_effects.gd": {
+      "bytes": 50288,
+      "sha256": "a6f4b55e5a58eecbf74c6d3013906f6dd8cf6ab3ae16b7f16845dc10b79a3838"
+    },
+    "hooktusk_spell_discover_20261107/delta/core/hooktusk_host.gd": {
+      "bytes": 8664,
+      "sha256": "7f4792bd7480958414c91190b4eb42a56f83fcfdc5b05a4501bd3cf96feecc00"
+    },
+    "hooktusk_spell_discover_20261107/delta/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 24216,
+      "sha256": "61b11198c4e41d0162e5661fc47072dde1f576b28a2508c64a73cc0b69b9ccd7"
+    },
+    "hooktusk_spell_discover_20261107/delta/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23653,
+      "sha256": "0a96a020bbeb6db0653024d63d8a32b8cc21a134bb5d16c15fb539853079282e"
+    },
+    "hooktusk_spell_discover_20261107/delta/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "67b70df7e9cb9f405121412d21cd90af03e8f91db5bb72272ed5245a74ac013c"
+    },
+    "hooktusk_spell_discover_20261107/delta/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "dc29ec9aa07d2d11a2a1033691da11b17548e9021ea7f5f5c703b5efce5c5b1f"
+    },
+    "hooktusk_spell_discover_20261107/delta/data/patch_3702_hooktusk_golden_overlay.json": {
+      "bytes": 18228,
+      "sha256": "abb1b8e1d19388deba00499e44c149970ec11d5dd6f00fe72b99a6b31ac7e9c9"
+    },
+    "hooktusk_spell_discover_20261107/delta/data/patch_3702_hooktusk_overlay.json": {
+      "bytes": 17992,
+      "sha256": "61897ee9171a13dc1d1c49a76a4053013abce1cb306880b1ede79404c34dc6c3"
+    },
+    "hooktusk_spell_discover_20261107/gate.gd": {
+      "bytes": 19010,
+      "sha256": "7478972ffa64d5d591839fcd4838f09f621d767c3a900be3778cade15ec86f88"
+    },
+    "hooktusk_spell_discover_20261107/materialize.py": {
+      "bytes": 1692,
+      "sha256": "50703cdc6b18cff6e413e84c4e45a1defe03b35c7aa394b737e0c7beca08ce39"
+    },
+    "hooktusk_spell_discover_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1173,
+      "sha256": "64081c9f35853dc82d6e581779da3b178ea4aa765ba84dd289701d75c4cad496"
+    },
+    "hooktusk_spell_discover_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hooktusk_spell_discover_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 16017,
+      "sha256": "549548a08c2a759ba74916da84dc166a19192d5a9206037459ed82b8884268bb"
+    },
+    "hooktusk_spell_discover_20261107/run_1/LAUNCH.json": {
+      "bytes": 533,
+      "sha256": "400bfe116a03636c8f958740087c18e070ca677abd2703532f992f1bc481281d"
+    },
+    "hooktusk_spell_discover_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 244663,
+      "sha256": "6d91626670b1b002e6fc927db5af250539b7bfd2efa9bef0d5b04edff6fab9b1"
+    },
+    "hooktusk_spell_discover_20261107/run_1/PROCESS.json": {
+      "bytes": 612,
+      "sha256": "38bd87f8ed08d505ba0598c98ecc424ac80a8673891746bcac51597b2bd06d7a"
+    },
+    "hooktusk_spell_discover_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1419,
+      "sha256": "a265517a848e1b1a533807a20c2ed76ed26022483dd14f36d1137aa611b6af28"
+    },
+    "hooktusk_spell_discover_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 17168,
+      "sha256": "b6041b7d6c798a8c8373457435eacdc71e9ce769baef22c76d12d6b0b02a90e6"
+    },
+    "hooktusk_spell_discover_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4549103,
+      "sha256": "96c309fb41caa5692527e6e23abd4aa81d0881beab9588752ac2c3ef86db0e9b"
+    },
+    "hooktusk_spell_discover_20261107/run_1/gate_executed.gd": {
+      "bytes": 19010,
+      "sha256": "7478972ffa64d5d591839fcd4838f09f621d767c3a900be3778cade15ec86f88"
+    },
+    "hooktusk_spell_discover_20261107/run_1/native.log": {
+      "bytes": 1004,
+      "sha256": "6f473a8d7c447d5ddd5aba206eeb2fa4253cefe9bbff365df4cd825c3e3b118d"
+    },
+    "hooktusk_spell_discover_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 16017,
+      "sha256": "549548a08c2a759ba74916da84dc166a19192d5a9206037459ed82b8884268bb"
+    },
+    "hooktusk_spell_discover_20261107/run_2/LAUNCH.json": {
+      "bytes": 533,
+      "sha256": "fedaa2b9cd0ea8ac41bea758d169afa8ccbebff4a412a2bf341575857f5389a8"
+    },
+    "hooktusk_spell_discover_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 244663,
+      "sha256": "6d91626670b1b002e6fc927db5af250539b7bfd2efa9bef0d5b04edff6fab9b1"
+    },
+    "hooktusk_spell_discover_20261107/run_2/PROCESS.json": {
+      "bytes": 607,
+      "sha256": "d2702e01b67181830c1f11c24e1728670acfb0a31c1ab815149cea5acfc59d11"
+    },
+    "hooktusk_spell_discover_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 1346,
+      "sha256": "954ec42fd8286ea663b76138dac9925c8e10ea8075263ebea0fec0613a6b9f7b"
+    },
+    "hooktusk_spell_discover_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 17164,
+      "sha256": "4bca789c1a90bb5105cbc2631d7e0503a4ab103c99cb08c1438963a2c92a0a1a"
+    },
+    "hooktusk_spell_discover_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4549103,
+      "sha256": "b1c2becb377e2f49fe483d74e131a52fe97e718627d739a594ef6307bed3a09e"
+    },
+    "hooktusk_spell_discover_20261107/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 29427,
+      "sha256": "b9e12a2bb832587007deb36e766b4b50bfe25eb89411988e34491cd206ec9205"
+    },
+    "hooktusk_spell_discover_20261107/run_2/data/pending_discover.native_save.json": {
+      "bytes": 61759,
+      "sha256": "e9a4a1891af8b2c8b9ac7bd7913c7084b1ca897c69534c818171140a5d011f62"
+    },
+    "hooktusk_spell_discover_20261107/run_2/data/report.json": {
+      "bytes": 1292025,
+      "sha256": "ffcad68826f42218855f531b19f06f066eacbf3d410f20297aa3a87a401092af"
+    },
+    "hooktusk_spell_discover_20261107/run_2/data/terminal.native_save.json": {
+      "bytes": 56774,
+      "sha256": "675c69f1fa29de55b76d4a52536e3851be56f0eebc4541d44b18afd8e8d688c4"
+    },
+    "hooktusk_spell_discover_20261107/run_2/gate_executed.gd": {
+      "bytes": 19010,
+      "sha256": "7478972ffa64d5d591839fcd4838f09f621d767c3a900be3778cade15ec86f88"
+    },
+    "hooktusk_spell_discover_20261107/run_2/native.log": {
+      "bytes": 369,
+      "sha256": "893f0c38a2bf7305a2da8429def1071d63eb840642306e8c65fd42e9c1e4438b"
+    },
+    "hooktusk_spell_discover_20261107/seal.py": {
+      "bytes": 4462,
+      "sha256": "6c0ba234f3442950be286b3d7a3f201fb74c7f6506a1e2f5a3686b17c4aefc7a"
+    },
+    "hooktusk_spell_discover_20261107/update_runtime.py": {
+      "bytes": 697,
+      "sha256": "7d877c9eb6da94bf48e7e8747351aaa19a26b4b55b2129097025c06b56b54860"
+    }
+  },
+  "parts": [
+    {
+      "name": "hooktusk_spell_discover_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "430d4752211307fd349c39c926b014b6a559c3d3405d7c362150a5e9926d9224"
+    },
+    {
+      "name": "hooktusk_spell_discover_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "58c2fa0dec4bd507e5bf678cb2859d71fdcd3a8153d94ad3b212fb9d0f77a027"
+    },
+    {
+      "name": "hooktusk_spell_discover_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "481fcccb88da835af75a1c25e62999b75e56466fbd4b15001bd5d67f774929af"
+    },
+    {
+      "name": "hooktusk_spell_discover_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "442ae48092f6f2ad7f3eccac3a7eb64bdd607b66c6f0439bacce50489e8affbb"
+    },
+    {
+      "name": "hooktusk_spell_discover_20261107.tar.xz.part004",
+      "bytes": 91768,
+      "sha256": "f1593a1f93e81e75840ffcf98f816886d660079eff51ca5e8267ead755067879"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hooktusk_spell_discover_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "CHANGES.json": {
+      "bytes": 424,
+      "sha256": "55e19e8f5d4f0e12a4119ec9f7fab735b3ea2f90d86a0d39c0f741b121e5eea8"
+    }
+  },
+  "depends_on": {
+    "stock_commit": "905ae578d31f4c7270c0ce7cbcd45238e6f519e3",
+    "stock_source_map_sha256": "ec3b729af4547bed473c49ac0969841d56945da7a14456f7b90145a8dbee2364"
+  },
+  "status": "Partial Sunken Spell Discover bridge; no growth/general route claim; preserve complete chain",
+  "audit": {
+    "archive_members": 48,
+    "credential_pattern_flags": []
+  }
+}
