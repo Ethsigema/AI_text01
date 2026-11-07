@@ -1,0 +1,676 @@
+{
+  "archive": "ultraviolet_base_20261107.tar.xz",
+  "bytes": 4411248,
+  "sha256": "ad65ec13971070d1e962044513488e498b554cff454b798d1469156d2a49b7b9",
+  "files": {
+    "ultraviolet_base_20261107/BASE_MAP.json": {
+      "bytes": 4546288,
+      "sha256": "9bd31a5351f2adc91dcad6c34e42a259844e4bfcab0173d0e9cee3ad54758574"
+    },
+    "ultraviolet_base_20261107/EXPECTED_ROWS.json": {
+      "bytes": 15549,
+      "sha256": "68c435805ee17448e67d70dd83ab5b0db5003d8c7173228d4c3089fb3d63c2e7"
+    },
+    "ultraviolet_base_20261107/FINAL_PIN_PREFLIGHT.json": {
+      "bytes": 243145,
+      "sha256": "b07a4710fdaf70c7f5f3b0e2fdb1b9064019806ed975319dc5002e467f10780e"
+    },
+    "ultraviolet_base_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "ultraviolet_base_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 20412,
+      "sha256": "b80556f5873c21e04e33a00d0189eecce70a66dfb14b924dfb564038398f9130"
+    },
+    "ultraviolet_base_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 243145,
+      "sha256": "b07a4710fdaf70c7f5f3b0e2fdb1b9064019806ed975319dc5002e467f10780e"
+    },
+    "ultraviolet_base_20261107/README.md": {
+      "bytes": 2813,
+      "sha256": "9ac8fbd2ead3c047bfee5bc914d724813ecf7fa84b2a84f8d052a7b4d9684368"
+    },
+    "ultraviolet_base_20261107/SECRET_SCAN.json": {
+      "bytes": 147,
+      "sha256": "7347ea33c41de275fe06bea6c95688c2fe81beb29645cd723eba923c4cd5a932"
+    },
+    "ultraviolet_base_20261107/SOURCE_DELTA.json": {
+      "bytes": 10837,
+      "sha256": "f51b14ada82c6d1cd977b4485eceed2c444da0de9cbd1e30ddd27cf531b064c3"
+    },
+    "ultraviolet_base_20261107/SOURCE_MAP.json": {
+      "bytes": 4547709,
+      "sha256": "c1bae64670746b1f5d28bea9e88a2ca5c040b29d12ccbb059cc99511b1d80259"
+    },
+    "ultraviolet_base_20261107/VALIDATION.json": {
+      "bytes": 920,
+      "sha256": "36f439187b978f151fbfa98c12988490f6f4bb2c7496b9207d3cb7ce087ba09a"
+    },
+    "ultraviolet_base_20261107/build.py": {
+      "bytes": 7733,
+      "sha256": "fc6dcd30f628dcdee6230cc2f8d301173090576f1fc6243dfe168ef15e9f8d52"
+    },
+    "ultraviolet_base_20261107/build_gate.py": {
+      "bytes": 3155,
+      "sha256": "3afe7df1aedd48dab41bf87edb39f421f3b734c95246b39638252702273141a4"
+    },
+    "ultraviolet_base_20261107/delta/core/catalog.gd": {
+      "bytes": 1818732,
+      "sha256": "0732c4c230a57d4a5d276ed38f21fa12fa241ed4c392e12bb086301fc2505861"
+    },
+    "ultraviolet_base_20261107/delta/core/combat.gd": {
+      "bytes": 574957,
+      "sha256": "cb9882ef13fdb3342540add28455455e623b27063fc49f103861c2c1de6312fc"
+    },
+    "ultraviolet_base_20261107/delta/core/game.gd": {
+      "bytes": 1322935,
+      "sha256": "de3ce3d1448c64bb1ed618a81bc5448f8bd029539419767e4b95958c65bc020c"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "2c3ec44aa487670368a4c626fa8f4a7dcd8a7613b8bcc30e8204ccec0c599076"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "39a4d898ab6f61c22cc754242d682612b883ba2fc86c3fef2d183aec17ef76fe"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "485a0112473bcda3edae945050c24998b8e61c3e59255a57671f4461e174acc5"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "7c75de8817ef064afe32b612dab52d48409978e1cba36bae17870250931d108c"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "d0b2a1e5a4cc0466eeeb3a47b80cbf689014625023d85703a0835463b807f442"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "3b422b08af0ed00803a2d405a49eeeea1b3c3ba3049eb8d19ca535aca323cd43"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "e2755c7f247d5a0b97f1e6d19c309c5c1736f428b45dfe31ab1d56fe25aa356a"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "96d24c29b0c36e8ab77b41d16817d9de602be74ca53be5ed8363a56ee1a44de6"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "97d0a13c22cb0c47c8c09549f62b157a891ff5543347f735233fd2c919c77379"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "c76c1e1eca8b51bbd9cd0087d1b19d2a5af7fa31881ebe8189c9868e2c7d5d4b"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "df3230f6f726e0b9b890b30429b8e64db560d14038b9855b3a3016aa364d90c4"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "f6e3e8788d27bbdfaaba38a85ff827fcc255e88ad56419e47ad4839800f9d04b"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "6ab2f11781b6904bd56d051da005f7f1a75c38f1e4e75ad80c93c02f9e7de230"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "2b2ee36ca705927ad45d06a1e3108c4e01edb8ae0f365ba645c5c79f98a3078b"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "153dcdeedf6fabaf485c786acdc179a60b727809ded05722c548715c4769367c"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "6a0e9575470e0f6e00a39c7a4fad586b2477d9e93c7804bbe87478bc594caf65"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "b7a32ef3de4257cab7fd644d5f29c228a98189091f655f44bdbc9b968e7eea79"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "4872fca21b1a07612ccc15b267e79f352522c7c162d2df1b908fc47e26bf4b29"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "d85a9669f621a67972bc5ed9a505cbe609ff402064cfc397a3e888e03db34220"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "5c78ff360b6709be4d485672b6306755a37d4f3d454c699fd0dde6830c3af9a9"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "d9c0aaa414b3f2ceff38a017118bd8feaf41b4420e4de9464c5af208cd451dab"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "942c322720f95f35e25936cee82b9d4100d61ee6d19e0406f5f7cdf5e4a18872"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "05027d1a22955e75dcf556ec57cafa23e3c948d0776e63ce7c482beb0ea3ae3a"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "ae76b9d5e20e5dcc037b730d3b85e5ea3c52d944c8f46536d344dbee5000a8e3"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "9baddc6aa8915c0db685129dc5e4314aa9927a04ac54c5cb2204a8f249c78af1"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "3342aa5160e05048871393df4cc8a7eb8fc3af0bc9ebcf3cbfcf552588780d55"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "ee9b814516865b970a1f97afdf0abd9b25eedd238afbee35f14b0fd8e7ad1cab"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "99defe4dc92f66ef605cc63c159e845f46c6633889c7ae7cbba13e0b0b060b0b"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "a12b789bca393a5dee21eaf6d60cd19fc870e4461b9206f1f679b1fb24a9ef3c"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "ae8a60fbb842a963868072ae8de534181a109589c8393359827517ff9fcfd303"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "fd0eae2be968e11b5407e16c5e23bb18d358ab764b5bb8e1aee0504f477d92fd"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "84ef2370115d2777422ba5923a900d0c959a81e0a9db8f57d66c3f530ad047d3"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "2009fbadf3195a8b95be006044cbd1af44a4696b254514409766b57bfcc4a3c1"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "83065aef9270520c7aecee12811b17c70a5eeef7c95bfc5fb992a821e8ca3fdb"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "5c5384a8463dfa7f987464029b6a044d181206a543a848a716d198defec68e7d"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "64d0ecad42a49a9b4b6ccad055dc279f26713e4826c6f8e17df73cce36d59d1f"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "bcf2479dc5519c8be87d829d10dfd0a0c3259f14f6e2383f9dad887dff55517b"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "2630da3c39ff171aa750991bb6a80e947cd9515eb84218838b57adee558c9de4"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "ae6ba1802d5b74e5e3a5444e0a3f92606ea8f584c91e1089282aecc91c59e1d8"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "524b9ab5bdf703bf5bc28076b230f5d0d6d6110dafb44d1c47e9c2e1658732c8"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "96a8466c4902b7dcf1447473585b0b4f7581dd0b78873b621604039e2be21de4"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 33780,
+      "sha256": "fa53a3e0a3b6676a2c9990329c76ebd1a7abd721f2a9964c6ab8e88f2471c541"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 31833,
+      "sha256": "b284d06a5fd438abd6cf37189830d41860e28e8c05c627949aeaa9a3ab192bfa"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "752a7fc5796d333fa48586e8df784818c8bd90c8195167c99814590282de5628"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "92bdd186f5a03b3454c02c7ad7d5d614428776364d01f1eca7fbc9a28bdc5067"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "715aec172474ae35e9abc4455def8a9bc84617892d97db04c7a95baa15df06c2"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "98115cc91e356c275b60d7258ce2c0f5d306bd7308bca608fdc32b714d0c3b5f"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "9aed0ea73f292cc2015d10c800a0e3b79ca83109af77c7df6af20bcd35467c34"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "647acd0dda7025ce6e71a301a72f6c90aa8e9adab95d9054ed64b8274b11de3a"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "fc39a2998319e1cc127aa7a656181e0a60c44c62e683a940231f02775b516173"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "a5130b872be1ba94d6eb168eee659e835e8ec4735e634c8e0c5b4e7b55081cb7"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "fda96fba35ec454c08f23951af4ab4bfcf3ef7441acd4720749660eef439805c"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "7d9c991b711157856480b18ff3a3eb748167930830467de98035e37b056f3250"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "8b0caae17df8da4cb746bcbbd7e781a1527ae071df5e719d726e2e7e271cfcd5"
+    },
+    "ultraviolet_base_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "eb604848a28a68b5cd88937a3f489ed9b7b54af81a12d12027b1b103e07f2457"
+    },
+    "ultraviolet_base_20261107/delta/core/start_combat_effects.gd": {
+      "bytes": 24220,
+      "sha256": "6218ad7ccdefe6e2c06fd3103de1024548f8c82e2eaa37598ef18cbfb27d8014"
+    },
+    "ultraviolet_base_20261107/delta/core/ultraviolet_host.gd": {
+      "bytes": 3609,
+      "sha256": "47536ae9e862a4f378657bb2f5053615e8cce5e010e7673a1eb186ccd3d3ce51"
+    },
+    "ultraviolet_base_20261107/delta/data/patch_3702_ultraviolet_golden_overlay.json": {
+      "bytes": 17822,
+      "sha256": "d870f8f54bb4f504abd178db8bbfd5e0f699e5e922ae79e2d52ca9b1bcff94f8"
+    },
+    "ultraviolet_base_20261107/delta/data/patch_3702_ultraviolet_overlay.json": {
+      "bytes": 17562,
+      "sha256": "b77931a530caeae6e435ae2880e627c73d5fbb55a95f00d6324fb6dbb7cc079c"
+    },
+    "ultraviolet_base_20261107/delta/research/patch_3702_ultraviolet/BG31_810.native.xml": {
+      "bytes": 4486,
+      "sha256": "ffebf10f7f8cb7867a7f018f83328c9b619f1f2a52dc0efd1ca567c9c504069c"
+    },
+    "ultraviolet_base_20261107/delta/research/patch_3702_ultraviolet/evidence.json": {
+      "bytes": 364,
+      "sha256": "9f1553a8e65cb8da59c6690b044c3d21dd6491603cfa636f8baeed116333ae5f"
+    },
+    "ultraviolet_base_20261107/delta/research/patch_3702_ultraviolet_golden/BG31_810_G.native.xml": {
+      "bytes": 4380,
+      "sha256": "b9e0eed91fe53e3f18cd7e96aca2eb6183abb2a07a707fd83f177c9d19617f9e"
+    },
+    "ultraviolet_base_20261107/delta/research/patch_3702_ultraviolet_golden/evidence.json": {
+      "bytes": 366,
+      "sha256": "e6ca40794e0c7f8fe57d2870d10cfc1da844de11c697002760da89987ead8c30"
+    },
+    "ultraviolet_base_20261107/gate.gd": {
+      "bytes": 17362,
+      "sha256": "3ff67c04c09e4e5c71ae1b4922435c8fe75f1c5fb603fa1ff1ad7cb4b330e63c"
+    },
+    "ultraviolet_base_20261107/host.gd": {
+      "bytes": 3609,
+      "sha256": "47536ae9e862a4f378657bb2f5053615e8cce5e010e7673a1eb186ccd3d3ce51"
+    },
+    "ultraviolet_base_20261107/materialize.py": {
+      "bytes": 1686,
+      "sha256": "47c82395047c28e397717b912968495215f6e6b5c08effa7f0115437cbb05a0d"
+    },
+    "ultraviolet_base_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "0d4b10588dbf455cd6e30013318a5165c896bb8056eb0d8c8ce7962d85e64b24"
+    },
+    "ultraviolet_base_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "ultraviolet_base_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 15373,
+      "sha256": "fed034d1166b648df7292e3b67d0d84b8f42734cb39b4382ef2017bd114ed58f"
+    },
+    "ultraviolet_base_20261107/run_1/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "fc6a49944d6d8794f130c61c536f9cfb72dbb5eea573e47496ed33571e2a0138"
+    },
+    "ultraviolet_base_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 243145,
+      "sha256": "b07a4710fdaf70c7f5f3b0e2fdb1b9064019806ed975319dc5002e467f10780e"
+    },
+    "ultraviolet_base_20261107/run_1/PROCESS.json": {
+      "bytes": 598,
+      "sha256": "81120361031bc438df02a3b87e881e84fbca7cc5dee6574b099e260e6ef234f8"
+    },
+    "ultraviolet_base_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 10910,
+      "sha256": "b31c2a46ea0455f6ebd9149565996d90ff5c95e174438601fe53b810b930412f"
+    },
+    "ultraviolet_base_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 396756,
+      "sha256": "d056f34f43f5f339f0cfcb6e76bc89750c812655ebb2fea50ffcbf607d1e336e"
+    },
+    "ultraviolet_base_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4547709,
+      "sha256": "27ba9bb4889d7be6c5fe8807806aac70002c9e2bcd70a1214cfe3647072e711c"
+    },
+    "ultraviolet_base_20261107/run_1/gate_executed.gd": {
+      "bytes": 17248,
+      "sha256": "35d423dc250f9bc01e23c4117463d20e28db647af31db56599a0c36feee047de"
+    },
+    "ultraviolet_base_20261107/run_1/native.log": {
+      "bytes": 36172,
+      "sha256": "4ec2cd4bd5f9fd4d9ff8078cf07e9299f8077052c903b4ab55cce51228612f6c"
+    },
+    "ultraviolet_base_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 15373,
+      "sha256": "fed034d1166b648df7292e3b67d0d84b8f42734cb39b4382ef2017bd114ed58f"
+    },
+    "ultraviolet_base_20261107/run_2/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "931e90378f985d6d21b7e74b57e22b7de4c7a79376d6d86cae4bf5a6d96415ee"
+    },
+    "ultraviolet_base_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 243145,
+      "sha256": "b07a4710fdaf70c7f5f3b0e2fdb1b9064019806ed975319dc5002e467f10780e"
+    },
+    "ultraviolet_base_20261107/run_2/PROCESS.json": {
+      "bytes": 593,
+      "sha256": "16a023807bf8c49fcd06a4b540b886694c2571b15401613a650db2196d26d64c"
+    },
+    "ultraviolet_base_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 10837,
+      "sha256": "980e9373e3fed5221ef29d8b5a52c11ecb9a993c2e1336ff64f05df097556120"
+    },
+    "ultraviolet_base_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 396964,
+      "sha256": "0f5f94e995b5679bcb43766aa6c9dfb5a227bc2aef7500092cc1b192434cd027"
+    },
+    "ultraviolet_base_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4547709,
+      "sha256": "b7787e3e4234738e210bbdc0ad74cac7bb7333213f3999a2a477e34ff71b79bf"
+    },
+    "ultraviolet_base_20261107/run_2/data/report.json": {
+      "bytes": 29722,
+      "sha256": "21f26642c9be5a026dc444ea0ca9b409369033593d35b9660f78587ac64e1f52"
+    },
+    "ultraviolet_base_20261107/run_2/gate_executed.gd": {
+      "bytes": 17248,
+      "sha256": "35d423dc250f9bc01e23c4117463d20e28db647af31db56599a0c36feee047de"
+    },
+    "ultraviolet_base_20261107/run_2/native.log": {
+      "bytes": 150,
+      "sha256": "067bb2cb4d78db6b677869698b34203670ae9a679dc3a899e3911509848ea05b"
+    },
+    "ultraviolet_base_20261107/run_3/EXPECTED_ROWS.json": {
+      "bytes": 15375,
+      "sha256": "46626b2b950001b3dcb408f5cfff0915e6267dfe29943631e0c34fd86ea708e9"
+    },
+    "ultraviolet_base_20261107/run_3/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "f252de6281d35861c0f51476987c113a84085b01b93b9067bce9f2fc8002ca60"
+    },
+    "ultraviolet_base_20261107/run_3/PIN_PREFLIGHT.json": {
+      "bytes": 243145,
+      "sha256": "b07a4710fdaf70c7f5f3b0e2fdb1b9064019806ed975319dc5002e467f10780e"
+    },
+    "ultraviolet_base_20261107/run_3/PROCESS.json": {
+      "bytes": 592,
+      "sha256": "938f86fe661d3f5679f36cfb8abd6c784a0d2f52cd83e3b31ad517e788dc5aac"
+    },
+    "ultraviolet_base_20261107/run_3/SOURCE_DELTA.json": {
+      "bytes": 10837,
+      "sha256": "3ce6fad5bda06eae26cb199e819483506e7ada97b6ea7211e9171ae7df7ea01d"
+    },
+    "ultraviolet_base_20261107/run_3/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 396868,
+      "sha256": "a508464074ad2a943fc9457619d5f64b5a6cf1c280d0536a78b95d08d628590b"
+    },
+    "ultraviolet_base_20261107/run_3/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4547709,
+      "sha256": "79c18dabca3592253ea4a28c0e59c1d7a368e5cd2bb22c7c1b0702f96a1ec3d1"
+    },
+    "ultraviolet_base_20261107/run_3/data/report.json": {
+      "bytes": 29722,
+      "sha256": "4feb0db662b9ccb093d903fd9b42b70d9b640980a4a2f2f9ec131392a5fe3569"
+    },
+    "ultraviolet_base_20261107/run_3/gate_executed.gd": {
+      "bytes": 17249,
+      "sha256": "b147a9088f6a5c5bb74bef4cd8293cdfba8fe738289e6b081f5dc69ba00867fe"
+    },
+    "ultraviolet_base_20261107/run_3/native.log": {
+      "bytes": 150,
+      "sha256": "efbe5b7188efc3f8c93fae40b0aed797e948b896c693012c1d1c0f54e096c58e"
+    },
+    "ultraviolet_base_20261107/run_4/EXPECTED_ROWS.json": {
+      "bytes": 15549,
+      "sha256": "68c435805ee17448e67d70dd83ab5b0db5003d8c7173228d4c3089fb3d63c2e7"
+    },
+    "ultraviolet_base_20261107/run_4/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "41f1833dc988884518b0e45a80a63fb0097f1358f5087e9cfa980ed3a860cb82"
+    },
+    "ultraviolet_base_20261107/run_4/PIN_PREFLIGHT.json": {
+      "bytes": 243145,
+      "sha256": "b07a4710fdaf70c7f5f3b0e2fdb1b9064019806ed975319dc5002e467f10780e"
+    },
+    "ultraviolet_base_20261107/run_4/PROCESS.json": {
+      "bytes": 592,
+      "sha256": "141fe65dc33269609587dbc6d91accc26f56dccaeda20f98c7468b1267c549b0"
+    },
+    "ultraviolet_base_20261107/run_4/SOURCE_DELTA.json": {
+      "bytes": 10837,
+      "sha256": "b3ae7fc00f7888cbb22996567c3fa9eb33a26e161e77f3dc51285563cfa7d13c"
+    },
+    "ultraviolet_base_20261107/run_4/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 397012,
+      "sha256": "c3e1ce30f1f00ff7ce20579158461bb0525409a013e0d5fb737c070151f30c4f"
+    },
+    "ultraviolet_base_20261107/run_4/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4547709,
+      "sha256": "8526e8e6b9287b9a5a82e1ae69b69defc30d480d606d2e74de5413234d2e3d83"
+    },
+    "ultraviolet_base_20261107/run_4/data/initial_fixture.native_save.json": {
+      "bytes": 25221,
+      "sha256": "18b621a25ca494f4609ac6affb0da3cddac0af6d9c2c01856dca77b3077df9b8"
+    },
+    "ultraviolet_base_20261107/run_4/data/report.json": {
+      "bytes": 749272,
+      "sha256": "ffec57c03d8308fe09a22e7ca13df38cb6cacb65102a2338b1cd08dba599f0fb"
+    },
+    "ultraviolet_base_20261107/run_4/gate_executed.gd": {
+      "bytes": 17362,
+      "sha256": "3ff67c04c09e4e5c71ae1b4922435c8fe75f1c5fb603fa1ff1ad7cb4b330e63c"
+    },
+    "ultraviolet_base_20261107/run_4/native.log": {
+      "bytes": 407,
+      "sha256": "3c41eeb4463be714a3072c8e93c6a83221b0f71264a3730b5c6ee410f9cbc01e"
+    },
+    "ultraviolet_base_20261107/run_5/EXPECTED_ROWS.json": {
+      "bytes": 15549,
+      "sha256": "68c435805ee17448e67d70dd83ab5b0db5003d8c7173228d4c3089fb3d63c2e7"
+    },
+    "ultraviolet_base_20261107/run_5/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "5d55854f47f1bcec11c7dc41d266c7f7daa624e708eda2b74275e3083cace857"
+    },
+    "ultraviolet_base_20261107/run_5/PIN_PREFLIGHT.json": {
+      "bytes": 243145,
+      "sha256": "b07a4710fdaf70c7f5f3b0e2fdb1b9064019806ed975319dc5002e467f10780e"
+    },
+    "ultraviolet_base_20261107/run_5/PROCESS.json": {
+      "bytes": 593,
+      "sha256": "9bd09d650e3377a3cd6d9742224763a06f029b6567f15fa79550743b1032ac83"
+    },
+    "ultraviolet_base_20261107/run_5/SOURCE_DELTA.json": {
+      "bytes": 10837,
+      "sha256": "f51b14ada82c6d1cd977b4485eceed2c444da0de9cbd1e30ddd27cf531b064c3"
+    },
+    "ultraviolet_base_20261107/run_5/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 396744,
+      "sha256": "7375ae23a33aa283d2b2fb2733f1075d0b713e1d149b289d0b51cc8a3b9032d0"
+    },
+    "ultraviolet_base_20261107/run_5/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4547709,
+      "sha256": "c1bae64670746b1f5d28bea9e88a2ca5c040b29d12ccbb059cc99511b1d80259"
+    },
+    "ultraviolet_base_20261107/run_5/data/before_combat.native_save.json": {
+      "bytes": 70945,
+      "sha256": "b3cc35c81784fdd0cd81291ef326793e84721714ac06ce246cf5989ccd16dbfa"
+    },
+    "ultraviolet_base_20261107/run_5/data/initial_fixture.native_save.json": {
+      "bytes": 25221,
+      "sha256": "f2e51e453f3c2eb9cc13c78243fac5da77abdfb7273d29986d56e4a2a00a2f13"
+    },
+    "ultraviolet_base_20261107/run_5/data/report.json": {
+      "bytes": 2009678,
+      "sha256": "edb0d0d657db3161e946a20e2063a3dec186a1d676c814f143bb27fdeb1487d5"
+    },
+    "ultraviolet_base_20261107/run_5/data/terminal.native_save.json": {
+      "bytes": 99802,
+      "sha256": "9458eb343a40bea429d68f7ea5c1b73ea0cd5b4f1f199ded99d22cbace2e4fe0"
+    },
+    "ultraviolet_base_20261107/run_5/gate_executed.gd": {
+      "bytes": 17362,
+      "sha256": "3ff67c04c09e4e5c71ae1b4922435c8fe75f1c5fb603fa1ff1ad7cb4b330e63c"
+    },
+    "ultraviolet_base_20261107/run_5/native.log": {
+      "bytes": 572,
+      "sha256": "9e207df4b9ac92c927fa7aa5260c099da8511c7007d4ed8b53c81615c4610b9a"
+    },
+    "ultraviolet_base_20261107/seal.py": {
+      "bytes": 4433,
+      "sha256": "209bb61c8621740dcfef0e0d84993d6ddea5557e51a6a38cf1ce8284f4a6d649"
+    },
+    "ultraviolet_base_20261107/update_runtime.py": {
+      "bytes": 694,
+      "sha256": "28f9cf0fc2987691c19ae5011e6b015bb9beed9261f25400cc90bcd584a7d0e1"
+    }
+  },
+  "parts": [
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "f2a4f5085d915afef29cc19a64304eac4ff4afd805b7e35eecceb6bc0e81ea25"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "1a3051d76bd22c0d95326bed6d801aa9f6fc8259435c92dd5ddc154faa366596"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "a01b099495797a99ee1c2f8a2fff1b688335e41f0d31bb8b8c6cba78a84b7fcc"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "45b8656c6f5173a4336345cbf2b0cd33c56197b0798085f4e79a07cb17a2f3c4"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "d231860576ff523637dba4c9bd6622dbab5025bcdee626aa26a82f0b548cd6f3"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "9b306898d8258bd1fb461d22bf908a4a3af1f55ef9b168dee6c0aefd821714f2"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "b4aa333b6043105f5dede425b1e6c21cda6976f0212e4ed5575a1c7843743879"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "04ec8ab1fa75a50b54f7819f613b543ca406b97cb9f2c903f5c9360a82780ebf"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "2ab230d3a6e877ac3fee1ec01de2c988e137624d04a2a539f7c14b3a63e687b1"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "47ff8628cfd82e39d6212cc1801ecbe9eda35faa3b699620ae5f2dbcb864c5d9"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "928c48a27dfd12c47810f57642a7ba2ed22f30477e9801c4d2410f305052fb39"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "7a9941a7f2096f8bf9eaabcdf2fcbf5509b0a826be6a4f8b22672e0a3f4f46af"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part012",
+      "bytes": 250000,
+      "sha256": "859331e71f2d03e714ccce40477c244012a84e6bb8e5fb5881e4c873ee368ea8"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part013",
+      "bytes": 250000,
+      "sha256": "c9b572b44202fa82e21a608557a49f5598ec2fb2f1f57e47b0779244334891b1"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part014",
+      "bytes": 250000,
+      "sha256": "772d2e26a955263d43a6bf625104ba8201e9275f1f51b49bf5c3a10020fcd3cd"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part015",
+      "bytes": 250000,
+      "sha256": "b95384ad326f9d415a21e4271d3f688792ae9749fab1bfe92371634677b7c99a"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part016",
+      "bytes": 250000,
+      "sha256": "2807f826979efd2d8b082604ed7b0a971c65afa563e63fe7fb98fba78064c3cc"
+    },
+    {
+      "name": "ultraviolet_base_20261107.tar.xz.part017",
+      "bytes": 161248,
+      "sha256": "e0953184b029e70f629cb4dacc8e11adb19645c29411591ad0edd16dc7c59bc2"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "ultraviolet_base_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "CHANGES.json": {
+      "bytes": 3318,
+      "sha256": "cd64975256572f92f04bee94a0ba8ec66afc4644e591474242265a130758547a"
+    }
+  },
+  "depends_on": {
+    "shop_commit": "6f1d7b78ae6c68b9c250528b651dd30c990c4dde",
+    "shop_source_map_sha256": "9bd31a5351f2adc91dcad6c34e42a259844e4bfcab0173d0e9cee3ad54758574"
+  },
+  "status": "Partial Ultraviolet base ability only; growth not implemented; preserve complete chain",
+  "audit": {
+    "archive_members": 139,
+    "credential_pattern_flags": []
+  }
+}
