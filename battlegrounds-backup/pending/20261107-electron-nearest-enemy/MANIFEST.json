@@ -1,0 +1,203 @@
+{
+  "archive": "electron_nearest_enemy_20261107.tar.xz",
+  "bytes": 1078336,
+  "sha256": "9e800a250fc9a6936082eed99bb11d22f1d1c09a29c5efe56ebd76e05f6f51f8",
+  "files": {
+    "electron_nearest_enemy_20261107/BASE_MAP.json": {
+      "bytes": 4569642,
+      "sha256": "237533b3bed6e4eeea709c9e1670720dbe6e53f8ebcd24ad1eb103c364f45933"
+    },
+    "electron_nearest_enemy_20261107/EXPECTED_ROWS.json": {
+      "bytes": 24513,
+      "sha256": "8d95f173a3a73a4a46ac2b5a652329ee4531ae44d10f30fcab29d0f6ea639b1a"
+    },
+    "electron_nearest_enemy_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_nearest_enemy_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5047,
+      "sha256": "f89bcf6e94c7f2cc8a30f6cab3ad65c22baae3bc42aa1881f02898f8c227cebb"
+    },
+    "electron_nearest_enemy_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 272290,
+      "sha256": "08262214df256d632fe791934da4ec6078ad0732f62667a819fe534c89691783"
+    },
+    "electron_nearest_enemy_20261107/README.md": {
+      "bytes": 2113,
+      "sha256": "431d34e600b16cb0933b9bdbeff7e079cbc601185c1b953892e682983d1cb3df"
+    },
+    "electron_nearest_enemy_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_nearest_enemy_20261107/SOURCE_DELTA.json": {
+      "bytes": 1302,
+      "sha256": "f540b69455e77ee6a4ed2d6193791a8920f462a84c01159ade2a4519d00fdd9a"
+    },
+    "electron_nearest_enemy_20261107/SOURCE_MAP.json": {
+      "bytes": 4569963,
+      "sha256": "c6d66a3d40b242f9238e80cc2d28a96615fd3ebf7f4a0363e31ed3ba8445803c"
+    },
+    "electron_nearest_enemy_20261107/VALIDATION.json": {
+      "bytes": 807,
+      "sha256": "f9c73414adb168248c131c21eb6cd70b15d8a2006d5bc71010a8249eff5f699a"
+    },
+    "electron_nearest_enemy_20261107/build.py": {
+      "bytes": 3551,
+      "sha256": "20fcfe34b4fd72fcffa5996d84a17c08d00dbe5e67e51c7f8bc4eda43806bcb6"
+    },
+    "electron_nearest_enemy_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 43203,
+      "sha256": "d055cb9437990ea0e5dee1b6d64c36cb0a06aac9de25a69cfef8db180c1c18c5"
+    },
+    "electron_nearest_enemy_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 41256,
+      "sha256": "1f3e7951bb666a11ad4c0298a6a61c43a8fb826546aaa8ab303436fa8763d45f"
+    },
+    "electron_nearest_enemy_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 13925,
+      "sha256": "91b921123952871e1ae2ae1d1a7a3a7faf686cbc9cfc21d428f01ce228920654"
+    },
+    "electron_nearest_enemy_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 25299,
+      "sha256": "ea74966a38640c58696080ccf336271066846bc594e73075eb1b6c3ad45c3b31"
+    },
+    "electron_nearest_enemy_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 24089,
+      "sha256": "c1c862e0ffc36916c3c38a8138cedeb09a1dd57c38c9db9bf2361c78f9592e85"
+    },
+    "electron_nearest_enemy_20261107/delta/research/electron_nearest_enemy/BG31_889.native.xml": {
+      "bytes": 3724,
+      "sha256": "941818ade1caa0c4db38d7bc0897ba6aa56f2eb51fce3b8059b5a86afb896f82"
+    },
+    "electron_nearest_enemy_20261107/delta/research/electron_nearest_enemy/evidence.json": {
+      "bytes": 536,
+      "sha256": "87152a8b67bba29b7fb53e212e400c4db2a436592b3c03bd450057342be27755"
+    },
+    "electron_nearest_enemy_20261107/gate.gd": {
+      "bytes": 21427,
+      "sha256": "9580438882d498d02e96cdb5da045d7969a55a662567d29949301b32b88c27c1"
+    },
+    "electron_nearest_enemy_20261107/materialize.py": {
+      "bytes": 1664,
+      "sha256": "fe97f9555fccacc60bc1ef3abaa5149f0d540c5f2eda1dcf692bcb45e016e9a8"
+    },
+    "electron_nearest_enemy_20261107/prepare_gate.py": {
+      "bytes": 3998,
+      "sha256": "aef34a9197b65495b2423885252296c24782a5090f3834c37654159807c846c9"
+    },
+    "electron_nearest_enemy_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "355fd4051bb388169bb088c594e4a13dd9b44b93b34516600c2e8836635538c1"
+    },
+    "electron_nearest_enemy_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_nearest_enemy_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 24513,
+      "sha256": "8d95f173a3a73a4a46ac2b5a652329ee4531ae44d10f30fcab29d0f6ea639b1a"
+    },
+    "electron_nearest_enemy_20261107/run_1/LAUNCH.json": {
+      "bytes": 531,
+      "sha256": "80b6b0a2a6fdb109b1ab79fa31d571070adaabed85d0dfac1fd299c4ff638b24"
+    },
+    "electron_nearest_enemy_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 272290,
+      "sha256": "08262214df256d632fe791934da4ec6078ad0732f62667a819fe534c89691783"
+    },
+    "electron_nearest_enemy_20261107/run_1/PROCESS.json": {
+      "bytes": 605,
+      "sha256": "c2896e37ded04edd00cbf874c1dd6f99c5f16aebdf6bd009f913c78ea2105a28"
+    },
+    "electron_nearest_enemy_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1302,
+      "sha256": "f540b69455e77ee6a4ed2d6193791a8920f462a84c01159ade2a4519d00fdd9a"
+    },
+    "electron_nearest_enemy_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 14688,
+      "sha256": "d3255bad175863c2cd89d0053118e1ed06d6d22f769f696451360524ea10ecb8"
+    },
+    "electron_nearest_enemy_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4569963,
+      "sha256": "c6d66a3d40b242f9238e80cc2d28a96615fd3ebf7f4a0363e31ed3ba8445803c"
+    },
+    "electron_nearest_enemy_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 31542,
+      "sha256": "65bdea5b275c3718f896a730403344b2b5724842dd3600f128252f52033759fe"
+    },
+    "electron_nearest_enemy_20261107/run_1/data/pending_outcomes.native_save.json": {
+      "bytes": 72186,
+      "sha256": "3571acacbba8a78ce7f9e835ecbb34cbd1f99a25ad1101a279e6a201929a90c0"
+    },
+    "electron_nearest_enemy_20261107/run_1/data/report.json": {
+      "bytes": 1943022,
+      "sha256": "6692e486a001ede8f184690c059bd7d62cc9bfb27d7f54f1e2d59b1cc19f7bcc"
+    },
+    "electron_nearest_enemy_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 96684,
+      "sha256": "fc7106a9649a16c7237dd5e4f9a31cd65f1a25bb2d9d96ce9fbdf21e1a2573de"
+    },
+    "electron_nearest_enemy_20261107/run_1/gate_executed.gd": {
+      "bytes": 21427,
+      "sha256": "9580438882d498d02e96cdb5da045d7969a55a662567d29949301b32b88c27c1"
+    },
+    "electron_nearest_enemy_20261107/run_1/native.log": {
+      "bytes": 455,
+      "sha256": "08c5e541385af8ca84a65233d877a3217e880d231fe6286ed872f2ef7e6835c8"
+    },
+    "electron_nearest_enemy_20261107/seal.py": {
+      "bytes": 4743,
+      "sha256": "2e01b31fb7b5019a60c137c64695e8751fa9e6e787988f37ae8392086dc59277"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_nearest_enemy_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "249e04ece526a996e553a3f9d6a91a783bdcfcef502b2f4bd1450146dedb25d3"
+    },
+    {
+      "name": "electron_nearest_enemy_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "0cbc9150c597998d63dc63ff2b1f6457f6e5e4d402d0f8ad7e7f0a2417d725b5"
+    },
+    {
+      "name": "electron_nearest_enemy_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "668c96b8b22f54e0aa17d5aca053ba6b8b4f9bea16a82ebadd9f6c67a2a3c35d"
+    },
+    {
+      "name": "electron_nearest_enemy_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "d65a3a777b6a0923345e78ea42c70b4c81dae020739a654201d212eb16e3e01a"
+    },
+    {
+      "name": "electron_nearest_enemy_20261107.tar.xz.part004",
+      "bytes": 78336,
+      "sha256": "fa0fe380a58ca0d3b0eb27aa189f50950267d445cb3085e1b2f65003979034fc"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_nearest_enemy_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 433,
+      "sha256": "bfe4af21f38f914b82bbf8744486bb6c9352501b336855978dc602de89c44dd6"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "undead_army_commit": "f2afd6a9950608571a4db22eb8ee58ac4046e20f",
+    "undead_army_source_map_sha256": "237533b3bed6e4eeea709c9e1670720dbe6e53f8ebcd24ad1eb103c364f45933"
+  },
+  "status": "Electron nearest-enemy combat bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
