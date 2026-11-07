@@ -1,0 +1,575 @@
+{
+  "archive": "timewarp_painter_base_20261107.tar.xz",
+  "bytes": 3234632,
+  "sha256": "b9544311e21722384a3e7bc05597fdbc1b5e6a46ebf6eee2f9fe84d90c16c5ed",
+  "files": {
+    "timewarp_painter_base_20261107/BASE_MAP.json": {
+      "bytes": 4555021,
+      "sha256": "3d326b2610fae0996fb5ae339abe8a04559fefcdba0356009313c8020854c46b"
+    },
+    "timewarp_painter_base_20261107/EXPECTED_ROWS.json": {
+      "bytes": 20110,
+      "sha256": "20b73723c467da26480be6dc4f99eef62842185247f4e422e5f101ddd76cffb9"
+    },
+    "timewarp_painter_base_20261107/FINAL_PIN_PREFLIGHT.json": {
+      "bytes": 253970,
+      "sha256": "8c0b503701c5772bc5a16ba35d349b934c56d7b2c1634083026b641efc630ebc"
+    },
+    "timewarp_painter_base_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_painter_base_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 18085,
+      "sha256": "0cacc46ea3dafaa3fee621e1975bc9c19b7ce576340572ae2764b8b44e7825dc"
+    },
+    "timewarp_painter_base_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 253970,
+      "sha256": "8c0b503701c5772bc5a16ba35d349b934c56d7b2c1634083026b641efc630ebc"
+    },
+    "timewarp_painter_base_20261107/README.md": {
+      "bytes": 2481,
+      "sha256": "e4ecd4acda05ceb8ba33ebb6e48c5134892b4642926d6f9ce5b73ed1e9d89e70"
+    },
+    "timewarp_painter_base_20261107/SECRET_SCAN.json": {
+      "bytes": 147,
+      "sha256": "bbd038026205e2babafeb6ab04aabf0e995909127079f203a470b958b8d03a67"
+    },
+    "timewarp_painter_base_20261107/SOURCE_DELTA.json": {
+      "bytes": 12532,
+      "sha256": "b086352c66aa49f958a137478763da6cc8b0af9ffd2c777a0ce9b7a44a276581"
+    },
+    "timewarp_painter_base_20261107/SOURCE_MAP.json": {
+      "bytes": 4556499,
+      "sha256": "bc2a6ee18a9d14875b104dbb990544cf1299ea93c03885da66fec8cea5c09246"
+    },
+    "timewarp_painter_base_20261107/VALIDATION.json": {
+      "bytes": 839,
+      "sha256": "a575d26d57f4817451d7f210164cf88c789c131f1fd62a229a924733dea32e2b"
+    },
+    "timewarp_painter_base_20261107/build.py": {
+      "bytes": 6892,
+      "sha256": "916301319f29aca62c4e0fc0dd98d0d8a1881522165dba4f07b7ae38128409d1"
+    },
+    "timewarp_painter_base_20261107/build_gate.py": {
+      "bytes": 4080,
+      "sha256": "80fe6aa9fedf075f84d329ecedacae9f394353b5116904e77c6e8922cc0cc48c"
+    },
+    "timewarp_painter_base_20261107/delta/core/catalog.gd": {
+      "bytes": 1835723,
+      "sha256": "b23868e4fe50ce8d2bf6e35eeb3f6a09c57fb2d98b0bb0964f7c78a5ab1e6b65"
+    },
+    "timewarp_painter_base_20261107/delta/core/combat.gd": {
+      "bytes": 576023,
+      "sha256": "ff04a16ee0fd91254799e12c4f5ad934b73a29fd6980f85423f480f7e8528b9d"
+    },
+    "timewarp_painter_base_20261107/delta/core/game.gd": {
+      "bytes": 1326162,
+      "sha256": "b20d1b4c68cf08155e5805732a7235cb0bb8c4a159405a82920a6b7098d2fca8"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_air_baller_golden_sources.gd": {
+      "bytes": 23207,
+      "sha256": "80bf3913539a04b5215e68fed52e0ecb52ed9330074c0f2a2c4147119e909787"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_air_baller_sources.gd": {
+      "bytes": 22610,
+      "sha256": "e22fb6dd51ff04c62a2489338d9f0ddc9776a314e4fac68b606f7b97de7b0593"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "a5554f5ad67c45ea5ff5483138603319c08032edff5f9f8000f2aba4ee8469c3"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "fee948775915ff211f6423165ea0389f6ebc14b463a8d3bb6a00f62810c2ddc4"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "a9abcb252ad5596148bee1609cb33613c4c756a5c53db0d5b464be77e0d08d79"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "f62205fc3e859325d4d6a6cd8620ca7025dc8ec6a3f01edaaf4d86fb385751db"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_fire_baller_golden_sources.gd": {
+      "bytes": 26786,
+      "sha256": "2ce3d91f90c6b542316d0f0e37ef786c30d511b73b9d12aa3b0d7b3d5fa1cb2c"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_fire_baller_sources.gd": {
+      "bytes": 26227,
+      "sha256": "38bda6eb5717435633b6355ff29d4ff74d655e097a7e48f70ee0f2e58f8ad3a7"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "dd78b3082eb6ef93ae6ad3d158dea626c425047f82cb126a0029d62579683b60"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "ecc1e69444d764e49303ce2b0c463210cc55e3409195b3b5b1c7da22859fb4e1"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "b7b35c7878af8ef4135c30d8f2ffd9a681efcb05d6e29946761f4f1469da5022"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "c1d3ef9e3da03a9eac5ae77adf8a631ce47d253ae4eedfe536b6eb19bdeb2c96"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 24230,
+      "sha256": "f3b3d0ae53e4a35af2e47800d488d08e77721145e45ed0dea99396cc55d4fb7f"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23667,
+      "sha256": "36b2cfda106689e0594278c9328d67c0d57646877ed51ebd953ac3c9c928c18d"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "7d5693923597fa44525cd4e97585693d90bf9a1132b05802211030c95ff9b312"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "540f323dadd436a7eb14424f4f411d1a2ee76474948128780b80de1255289f66"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "e7a987480ee0648d3d00d7a407424a6860e1e6b88d942547c67c33cae28571d7"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "5c1450a8f50d2f84ed3d2b4a715894528b49db6336df03a4e3ddd9346490420b"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "9116cd5d078f2b0e5a775d31fb2af339c74c2c608d45711b30ac19ecfa60847a"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "2526896d88ecf806c889cd2c2250e9e9df3b1ae367e9cfa8e5a3f00feb9ae599"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "21fa462dae735413eda79e5d54e3075037b32fb9df14e52e1e33b74c9d468b0d"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "ed05778beb0a852dec01b2a2473288e46d6978cb1fa9033ae2cad7dcd5dea0d9"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "8762396ca052975ddc35363e124350eaa43635dab615320285fc9353b8575f2d"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "a574143aeb7133c8b68342b769b49a8f73244586fbc5b552c371f2c627e98b01"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "2cdc37c7e3ab5c4daf9ca868a09e22cb573a7615df802ddd29a1e01e5b10d2b3"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "e41649a6858bacd872a33cdadb345574c4bae73a64460cc67eabf64bb7f81e1f"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "8bb4c3372c92751dc85471dc774c550bb1f43227c28b7eccf9932002bbeec592"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "97ac00fc392951f79614e1ed416fcb46189ad32789d575a04bdb99d8abd104cd"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "433a8affdc56e841c4e83d76255e0279c5403164be8d261616e761d65eda108a"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "418f8e15833edb1a0cbff0e0cf738e238878457c0d5a9d4211db22555a5f7edd"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "761fcd341edc071260afd99f69cf4ec05fa81837a08d8b380a2f7457462e6f02"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "ea7ed6c9f292ba760305e5f9364e309e90d139527181baab3864aa12d16aec29"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "074573490f0b87ab4cbbef8173bf841fd373ae64d8ab01b5613299f81f36cd57"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "097f9aba9a02512d75e97a0ce062d30a95d857d964f60e430015c6666635eda9"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "e9b8c5494ede1bb2430450ac67346c04e761e79e11e54beba4557510e150f4dc"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "7455ba444c9e80887c07ae9e6c01d2b1c9766d40887f1f9993e68c89d7676ef2"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "860558ee1edb649d205beaa9d8ee291a6a58ecb973475a0adb20bab31ac93f95"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_snow_baller_golden_sources.gd": {
+      "bytes": 26678,
+      "sha256": "4c0c46d9229fda76c2d017905e3b023862d3f293a4659c8f41df8d74b14aa075"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_snow_baller_sources.gd": {
+      "bytes": 26119,
+      "sha256": "688c0c448d73db0f9ab7b403b2e18a818a3592e57676e1ba1a94476bf7fc5c3f"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "fd2e24ffa9f79f9c1464e80804c9a55c7eefebb3718575d126afaaa6c426ea15"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_temperature_shift_sources.gd": {
+      "bytes": 24051,
+      "sha256": "6c42f57c286b09c43e1f624f76c9060e84bc8e424cf7b5abe8425be7817868cb"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "4c96d3a613a291880272e8d323accb3910204b636c7a4131c309873d99691ff1"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "8170994b53f38ef9c9b7c8226b0b5ac6741849280f5006c8a31fcafc3c58a53d"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "904d9c3fc3bf0397820b9a08d7aed280bf71689ab5a412f7364deb9eb2122217"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "464c90b1ad5e9a5735579ddcb8a24e3b30fba135f4691ac1996fe7208e614737"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "2b32eeeca7fcbc6504591709c8b503d017eb6602d595c4aa81d107e6c2e07424"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "bca4fa59043668289ae9455d691ca3381d72b712eacb07608dc974f5582cda58"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "5c40bea2453ce244673ced85a7aee73072a27f2c270a434e8109fef911448c9c"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "813549e6d61bf8f134b826c6d9e8d22a2398a4c0e04b5fe56742c9f20b1ededc"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "0e57793ebf7d7414547e68e16e863d05b3e30621139c4d52d537e474e7315c3f"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 34980,
+      "sha256": "c6dfeb5d9244b3162602ec6a34a54c119f2bfc661a2115b71698072a2e884851"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 33033,
+      "sha256": "cbf8cc74019d80b0dcd4ae0290e4f81e51f823f64301d2cccbf8f19166c984ff"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "134f9c7b02eef89de1b8e1af344a9419934d6f3da401a2658c033c72f3c4199e"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "2eb742d52b8fc8675e31ba3d489d91d8a28bb540cde6fcb237611295b9f51241"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_painter_golden_sources.gd": {
+      "bytes": 28712,
+      "sha256": "92da3d1e52b8c6b547d807b97a5761674231f27b3e414b1b27df22a5510b9b8b"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_painter_sources.gd": {
+      "bytes": 28457,
+      "sha256": "b077b55cc911328aff6496b1e6d49910f29d359a447aa9f3ba11888e4c180ad8"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "b1c9df8493685d72d150727092a000883276e8a44f29d70e449a22efda7143e5"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "c62253571ff4a674978528fc12dbb660fdf4f3aef93fbab55c421330a6a9daed"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "554efe636f05012526e22d598fb39100e78b2b03722ba5aa366999b45b2878c3"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "2cf6579960af66d5b19669b54f5734d3186553abc50982fad08e9ac5f55e92b4"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "5d2a1f6ded15b6c9a5708422c5c8fde161158fb24a856d3e79d28b0bce6bf9a1"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "47b3855ea7a229f56b5b12b5db5f9653e4f5fbfa823b2ab2a55b3e16bd25b627"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "e3391e4d639225e951cdf3a68bcc45e7fbf5c068a1fc97aded7e3740bfb9ff08"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "ae387ce47081554fa22d770d73dbb9c4dcb455b782f70958d4c16a15eb36ee9a"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "f8d752448ee2c54abe0215606f77aaccd3e3b14f77820d5c6d2626fcadda34f8"
+    },
+    "timewarp_painter_base_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "0ef97594cb69829d2eb15eb132701c02bb39202655c2184b94bddf6713ba0bb5"
+    },
+    "timewarp_painter_base_20261107/delta/core/timewarp_painter_host.gd": {
+      "bytes": 1757,
+      "sha256": "378c9b9bd57456dd61e8c32b7469987be22d20cd4146a5f8cb221c157583706b"
+    },
+    "timewarp_painter_base_20261107/delta/data/patch_3702_timewarp_painter_golden_overlay.json": {
+      "bytes": 22760,
+      "sha256": "99022df27f4e7d2b9613e8ac1045ee5533e51e87aa5212271a3c8db03b540fcb"
+    },
+    "timewarp_painter_base_20261107/delta/data/patch_3702_timewarp_painter_overlay.json": {
+      "bytes": 22681,
+      "sha256": "e462982cf0dd719536367d06523a28d2e703e61a8804ad31117fb674606aec95"
+    },
+    "timewarp_painter_base_20261107/delta/research/patch_3702_timewarp_painter/BG34_Giant_319.native.xml": {
+      "bytes": 4372,
+      "sha256": "7b232118ccd6704d5acce5e87b05385eea55f2c743a592eb12dd3ff972b68b24"
+    },
+    "timewarp_painter_base_20261107/delta/research/patch_3702_timewarp_painter/evidence.json": {
+      "bytes": 433,
+      "sha256": "e0145a77fe573d46c17fa526c13a6fe0c9ee2197a7fd3ee640d53c8d444057c4"
+    },
+    "timewarp_painter_base_20261107/delta/research/patch_3702_timewarp_painter_golden/BG34_Giant_319_G.native.xml": {
+      "bytes": 4359,
+      "sha256": "0f52ac23f20131273f53e83f1aabfe47aa2880ba071fdf1e5a2db28fd043e835"
+    },
+    "timewarp_painter_base_20261107/delta/research/patch_3702_timewarp_painter_golden/evidence.json": {
+      "bytes": 434,
+      "sha256": "a755eb9ef1e61810c0bf9b5aa34c6a766b29bc4c1e7519f0f645cc6d4601c9f5"
+    },
+    "timewarp_painter_base_20261107/gate.gd": {
+      "bytes": 17290,
+      "sha256": "3f46f5bd458c6482d0b7bf7e5920c4a15b272d9db53d19eec45c7553107876f1"
+    },
+    "timewarp_painter_base_20261107/host.gd": {
+      "bytes": 1757,
+      "sha256": "378c9b9bd57456dd61e8c32b7469987be22d20cd4146a5f8cb221c157583706b"
+    },
+    "timewarp_painter_base_20261107/materialize.py": {
+      "bytes": 1670,
+      "sha256": "9eeb41bbd9aa7b0c2b07e224065a3b35490568c6d7edd3335abe618fc5865e75"
+    },
+    "timewarp_painter_base_20261107/parse_probe.gd": {
+      "bytes": 110,
+      "sha256": "15f2ba788cc4f5b6503a5d36ff295bd2f30d412db0768ec63c3b9837124f4123"
+    },
+    "timewarp_painter_base_20261107/parse_probe.log": {
+      "bytes": 735,
+      "sha256": "15595d14c71acab4ed625183bf079c59eea514e9359bab18e9988069d4d9fbad"
+    },
+    "timewarp_painter_base_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1165,
+      "sha256": "1edf1f7a30a6ee2b4d080f771791cfd7860aa28ee36ed0519df75c74e0f9b0e5"
+    },
+    "timewarp_painter_base_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_painter_base_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 20110,
+      "sha256": "20b73723c467da26480be6dc4f99eef62842185247f4e422e5f101ddd76cffb9"
+    },
+    "timewarp_painter_base_20261107/run_1/LAUNCH.json": {
+      "bytes": 529,
+      "sha256": "706fa004cc7a1a9e839c51def67d608788ccc0d653c7ec6f5a591b7fac3d90fd"
+    },
+    "timewarp_painter_base_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 253970,
+      "sha256": "8c0b503701c5772bc5a16ba35d349b934c56d7b2c1634083026b641efc630ebc"
+    },
+    "timewarp_painter_base_20261107/run_1/PROCESS.json": {
+      "bytes": 608,
+      "sha256": "ad520545e04ec02e44384d0171b905c6f977b853ce01463044ef435f949e5c08"
+    },
+    "timewarp_painter_base_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 12613,
+      "sha256": "a91f8cef52a7aab7e53d62642729945a336df45fb4adcee32178a65fafd1e358"
+    },
+    "timewarp_painter_base_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 403012,
+      "sha256": "79c43e2658d6f72f3e185682d0257952c4b4a65d550b2d381ebae169d7b20c67"
+    },
+    "timewarp_painter_base_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4556499,
+      "sha256": "2a1c72797dcb3f4b60acf0e707e33533cdeb1e9b842298407f98ebf1e305515a"
+    },
+    "timewarp_painter_base_20261107/run_1/gate_executed.gd": {
+      "bytes": 17290,
+      "sha256": "3f46f5bd458c6482d0b7bf7e5920c4a15b272d9db53d19eec45c7553107876f1"
+    },
+    "timewarp_painter_base_20261107/run_1/native.log": {
+      "bytes": 36762,
+      "sha256": "4023de9d23dc64409b00b6415169fbda43d83c1dcae2e07893d1acffe61e26e6"
+    },
+    "timewarp_painter_base_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 20110,
+      "sha256": "20b73723c467da26480be6dc4f99eef62842185247f4e422e5f101ddd76cffb9"
+    },
+    "timewarp_painter_base_20261107/run_2/LAUNCH.json": {
+      "bytes": 529,
+      "sha256": "e25ac453226a5d4a6232f41e97a02ff1c9af010f94bf5152dc5a7ef62ffa675e"
+    },
+    "timewarp_painter_base_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 253970,
+      "sha256": "8c0b503701c5772bc5a16ba35d349b934c56d7b2c1634083026b641efc630ebc"
+    },
+    "timewarp_painter_base_20261107/run_2/PROCESS.json": {
+      "bytes": 602,
+      "sha256": "09cf877a739e1fc9decc8c0a9eefb5ee6b5d02c4d1b914d629564aad44c25ed5"
+    },
+    "timewarp_painter_base_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 12532,
+      "sha256": "b086352c66aa49f958a137478763da6cc8b0af9ffd2c777a0ce9b7a44a276581"
+    },
+    "timewarp_painter_base_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 403200,
+      "sha256": "aaf703a82b8bb4d679d6197152d36ffe6f9a89522dde84547ede4715df293a91"
+    },
+    "timewarp_painter_base_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4556499,
+      "sha256": "bc2a6ee18a9d14875b104dbb990544cf1299ea93c03885da66fec8cea5c09246"
+    },
+    "timewarp_painter_base_20261107/run_2/data/before_end_turn.native_save.json": {
+      "bytes": 68347,
+      "sha256": "644386d0dcef5587a64bfb12dff126ac7bbc8ad1ca882fab8d96cd9d43f0fa08"
+    },
+    "timewarp_painter_base_20261107/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 25174,
+      "sha256": "3cd390009c524a75467459e8848a10b3be7d46ba308708c44d2ab42f6e8429a5"
+    },
+    "timewarp_painter_base_20261107/run_2/data/report.json": {
+      "bytes": 2022153,
+      "sha256": "5781f12928a9b4afe1f32cb155f4448c3bf90dc680bca410594f09ca711db3cb"
+    },
+    "timewarp_painter_base_20261107/run_2/data/terminal.native_save.json": {
+      "bytes": 97575,
+      "sha256": "9f4302a93b49f72e30909383663b5f8d36b72fd6c2c7ffb90a5c2a246c1d3031"
+    },
+    "timewarp_painter_base_20261107/run_2/gate_executed.gd": {
+      "bytes": 17290,
+      "sha256": "3f46f5bd458c6482d0b7bf7e5920c4a15b272d9db53d19eec45c7553107876f1"
+    },
+    "timewarp_painter_base_20261107/run_2/native.log": {
+      "bytes": 625,
+      "sha256": "77cab49c01a7eaf98f3ef38940137bd693c4696f47dfd73cd4a4841a6c0b4b5e"
+    },
+    "timewarp_painter_base_20261107/seal.py": {
+      "bytes": 4218,
+      "sha256": "b74d423fb0c8bd3aea0dd144f3af4151ee1ed2bcd56e0fa8a9b81c2d7f5f5068"
+    },
+    "timewarp_painter_base_20261107/update_runtime.py": {
+      "bytes": 755,
+      "sha256": "41942b2b6b645c2123b0f934680d02e79c51535f80b965d47c8ab9218f4754ff"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "ccda0dd0e9f24519b606d3f1f1378d5f6d4cf9af6c812df1c4ee89945ac39529"
+    },
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "368bac740c3cd51ea64e3c79bfbc0d31c44046ff6954802af5eccff48e90b89c"
+    },
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "69dce582cf6b8f9c7b7941f72cbfb381b5d889e6ae434b691711d2090177847f"
+    },
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "5b63df59b101b59cda4a8a5a62036b87d41d9a4ef148a868702b774019feb9e1"
+    },
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "2a7f1b82ad7fa60bc6219b1b60ad47de0ecd1788da788944b85f3c53492324c5"
+    },
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "a1e53dda91a3e24bbe9ca1290a7be079745d7e4035006a9fa7da4f1034d2752c"
+    },
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "1eb8415b66941f80aab22e9a1fbe9f0d9f81fecc505f372c2be3d4917437b96c"
+    },
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "88a84b81882e79a255d137e7b09709c0a26bf297dd84dc560e5d4723a201910e"
+    },
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "46fe3462c480e6945f23345c33fddb82b51e3fafb7d68119d1638e9395860afc"
+    },
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "78046c0954d13ff94b08e1eec8e09f320c41363e8820f6322132e7346e971495"
+    },
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "7c1e0a081c63b0fd99cc3179988dc53e6009953e22f80396f5b60f6a2fe1f60f"
+    },
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "7ea9bfaed721fa32b7d0d63f9dfeafbdaa688947d900e334649795237a5eb8bc"
+    },
+    {
+      "name": "timewarp_painter_base_20261107.tar.xz.part012",
+      "bytes": 234632,
+      "sha256": "c3fb8b9b2db5cadee778834c04fb6acbef64bb8852adae0bb35cdc8b982636b0"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "timewarp_painter_base_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 3878,
+      "sha256": "3f999dfdaf38a7d29fc1df374bfbfa36d9eed5886323db9006c67f7c5677d251"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "air_commit": "44bdbdefa02b429195f5313e38296a4b0002c726",
+    "air_source_map_sha256": "3d326b2610fae0996fb5ae339abe8a04559fefcdba0356009313c8020854c46b"
+  },
+  "status": "Partial Timewarped Painter adjacent end-turn base only; improvement and golden gameplay unimplemented or unvalidated; source recovery only",
+  "audit": {
+    "archive_members": 120,
+    "credential_pattern_flags": []
+  }
+}
