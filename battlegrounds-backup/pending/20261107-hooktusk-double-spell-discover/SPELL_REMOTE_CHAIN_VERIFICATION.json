@@ -1,0 +1,62 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "spell",
+      "commit": "1daf34733072e975b19ef104897a351402d90fc6",
+      "repository_path": "battlegrounds-backup/pending/20261107-hooktusk-spell-discover",
+      "manifest_sha256": "f622fb4b5052f5d6cb28c0a3c290945971eed24f8932726ee8ab168c2b53b935",
+      "archive": "hooktusk_spell_discover_20261107.tar.xz",
+      "archive_sha256": "c4f136b7e23c4ee9e128ebae2ae6d52deb3691b8715c4f464fffcc2e337d9436",
+      "archive_bytes": 1091768,
+      "parts_verified": 5,
+      "members_verified": 48,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "stock": "ec3b729af4547bed473c49ac0969841d56945da7a14456f7b90145a8dbee2364",
+    "spell": "b1c2becb377e2f49fe483d74e131a52fe97e718627d739a594ef6307bed3a09e"
+  },
+  "stock_source_byte_equals_spell_base": true,
+  "baseline_files_rehashed": 27558,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "55e19e8f5d4f0e12a4119ec9f7fab735b3ea2f90d86a0d39c0f741b121e5eea8",
+  "change_lists": {
+    "added": [],
+    "modified": [
+      "core/bulk_recruit_discover_effects.gd",
+      "core/hooktusk_host.gd",
+      "core/patch_3702_hooktusk_golden_sources.gd",
+      "core/patch_3702_hooktusk_sources.gd",
+      "core/patch_3702_timewarp_rodeo_golden_sources.gd",
+      "core/patch_3702_timewarp_rodeo_sources.gd",
+      "data/patch_3702_hooktusk_golden_overlay.json",
+      "data/patch_3702_hooktusk_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 8,
+  "new_files": 0,
+  "modified_files": 8,
+  "removed_files": 0,
+  "restored_files": 27558,
+  "restored_bytes": 1546775109,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_stock_chain_receipt_sha256": "c37e5e18cfdfc793e9a185d6c60896227b48da662f7a6c47e0f85d550244b5c9",
+  "historical_baseline_provenance": "The baseline is the verified Hooktusk stock Discover baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hooktusk spell Discover increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Bounded spell Discover route only; growth implementation and full gameplay acceptance are not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T12:50:59.594533+00:00"
+}
