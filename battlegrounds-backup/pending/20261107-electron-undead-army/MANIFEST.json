@@ -1,0 +1,203 @@
+{
+  "archive": "electron_undead_army_20261107.tar.xz",
+  "bytes": 1073824,
+  "sha256": "7258cb92a91181b6285540e6b956f24ff4c0559e4cf0fa5c9c4a30378de92910",
+  "files": {
+    "electron_undead_army_20261107/BASE_MAP.json": {
+      "bytes": 4569325,
+      "sha256": "22fa70dd74fadfe687dfdfabab2ad62abcaf961955ff31197fa271f997cb38dc"
+    },
+    "electron_undead_army_20261107/EXPECTED_ROWS.json": {
+      "bytes": 24237,
+      "sha256": "bf959c0be788db643dce180f48b24821c2e20127be76a820c734ba486880c275"
+    },
+    "electron_undead_army_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_undead_army_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5037,
+      "sha256": "d5dae22f4ea512d00e7ee8a356e38c4f93483780fac68a38d956e09d88f4db8b"
+    },
+    "electron_undead_army_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 271752,
+      "sha256": "d6736e9e157017d953a0e9e84ef677b542c10aaacd96ba64268a2a2fd3e9e548"
+    },
+    "electron_undead_army_20261107/README.md": {
+      "bytes": 2025,
+      "sha256": "a9e66fe2a53f72a2eac0c97632e954a4cd581ff452bfe54c4673797fc31819f4"
+    },
+    "electron_undead_army_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_undead_army_20261107/SOURCE_DELTA.json": {
+      "bytes": 1312,
+      "sha256": "f62f6dbeba42dda012f130c91428d60ca6a7c8e55b730e8cc9b18d2b9e7ee365"
+    },
+    "electron_undead_army_20261107/SOURCE_MAP.json": {
+      "bytes": 4569642,
+      "sha256": "237533b3bed6e4eeea709c9e1670720dbe6e53f8ebcd24ad1eb103c364f45933"
+    },
+    "electron_undead_army_20261107/VALIDATION.json": {
+      "bytes": 842,
+      "sha256": "f8cc173d58ca0ddcd8e65ff79d2f81b9c0058cfb7799367009071c95d5aca974"
+    },
+    "electron_undead_army_20261107/build.py": {
+      "bytes": 3563,
+      "sha256": "2cee7f391b982a84b9d0aee009ead7ff13d764edc539b3c4b52322e3cd52b46c"
+    },
+    "electron_undead_army_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 42589,
+      "sha256": "595135971220c14f936c70b186c11c275c5ffcde8f51c31c7e08cd5b4047ee0b"
+    },
+    "electron_undead_army_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 40642,
+      "sha256": "cc9da40c21c3da6ba4e52f15fc54cd128388124b68350f634c78d8d4e8a00b2d"
+    },
+    "electron_undead_army_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 13560,
+      "sha256": "28e06c54da677b5a84855afffed421070283e0b2c1074947d3b8327eb443879d"
+    },
+    "electron_undead_army_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 25161,
+      "sha256": "ba02a7b5c60bec617e09562e486b1865a4e186a248fb77088d016d540dd9a613"
+    },
+    "electron_undead_army_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 23951,
+      "sha256": "3a54fd596e9883bebdfd7327d63cac33839f0768fc63032d3853d9080140e525"
+    },
+    "electron_undead_army_20261107/delta/research/electron_undead_army/BG28_604.native.xml": {
+      "bytes": 5529,
+      "sha256": "9a4f56c339d3124146ce0145d8d33f61e7d28516b21fbcbfb4a0bab7abc54b7e"
+    },
+    "electron_undead_army_20261107/delta/research/electron_undead_army/evidence.json": {
+      "bytes": 695,
+      "sha256": "d8516c6d34bfd4c969495afdeb6cc8a82da4b9526a02ef7385eaeaf5b6017909"
+    },
+    "electron_undead_army_20261107/gate.gd": {
+      "bytes": 20446,
+      "sha256": "7f786982981ffb839a018c7e273b127af5883886d2afc5cdf9528ca84d6e79ce"
+    },
+    "electron_undead_army_20261107/materialize.py": {
+      "bytes": 1678,
+      "sha256": "c938c3c228c0a7450128c8f435ea1b28cc5abb91d6aa2f7f6a1db9b75f0b5a15"
+    },
+    "electron_undead_army_20261107/prepare_gate.py": {
+      "bytes": 6792,
+      "sha256": "b56505acf24c6e5cc7d7654ecb709b5b1e630d9b87f94d8b77c77aa26b8513d4"
+    },
+    "electron_undead_army_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1177,
+      "sha256": "f739277de3ec824bacc1150653cd5d51ff8294e2bfce1b1f984fb1faebce9946"
+    },
+    "electron_undead_army_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_undead_army_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 24237,
+      "sha256": "bf959c0be788db643dce180f48b24821c2e20127be76a820c734ba486880c275"
+    },
+    "electron_undead_army_20261107/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "ee3548979182edcb8d6e594cd1da5169ecd13d27c3614100374b8f68f04e24a8"
+    },
+    "electron_undead_army_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 271752,
+      "sha256": "d6736e9e157017d953a0e9e84ef677b542c10aaacd96ba64268a2a2fd3e9e548"
+    },
+    "electron_undead_army_20261107/run_1/PROCESS.json": {
+      "bytes": 600,
+      "sha256": "d0799200a58a1e19a66d84a3cd3f3a1b1d0429f35b741103d175595ab9964088"
+    },
+    "electron_undead_army_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1312,
+      "sha256": "f62f6dbeba42dda012f130c91428d60ca6a7c8e55b730e8cc9b18d2b9e7ee365"
+    },
+    "electron_undead_army_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 14560,
+      "sha256": "440630267134cfe6f177b509b1de770f6f52d234aac1ac9e36cf7012ed60ccf2"
+    },
+    "electron_undead_army_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4569642,
+      "sha256": "237533b3bed6e4eeea709c9e1670720dbe6e53f8ebcd24ad1eb103c364f45933"
+    },
+    "electron_undead_army_20261107/run_1/data/after_army.native_save.json": {
+      "bytes": 70991,
+      "sha256": "b09edd1a020bd2c51509562b4f8c699281e45ec70e6c04c3b5f5fffb582c2557"
+    },
+    "electron_undead_army_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 38418,
+      "sha256": "51d3aecebbfc40418d33c70e3ae4e58f64a62bbb241d2553293b0340118ea5ee"
+    },
+    "electron_undead_army_20261107/run_1/data/report.json": {
+      "bytes": 1815581,
+      "sha256": "03e54ef994b406c9880cdc822724f65b45e612805f6be71c44bf38e85cb027f2"
+    },
+    "electron_undead_army_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 84506,
+      "sha256": "e68629742328033973476b6ef9fb9af3672a05ddaf5f337e556fc8712800fb49"
+    },
+    "electron_undead_army_20261107/run_1/gate_executed.gd": {
+      "bytes": 20446,
+      "sha256": "7f786982981ffb839a018c7e273b127af5883886d2afc5cdf9528ca84d6e79ce"
+    },
+    "electron_undead_army_20261107/run_1/native.log": {
+      "bytes": 349,
+      "sha256": "e21598f44c541ad5ef045f275aa50bce0e4e6ef963938e554683f65f72f6fef7"
+    },
+    "electron_undead_army_20261107/seal.py": {
+      "bytes": 4670,
+      "sha256": "196d559137aed309e6f0568edf45df5f042ac6249d167311e8caac4781bf03a3"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_undead_army_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "6aa09e71d58cc4fde148b9c80ee30e6dda29e468f197f32e3ecffbcc5a35c8da"
+    },
+    {
+      "name": "electron_undead_army_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "2c7e68714a344af0017a8e80b46a050d33b572802f17199296b1720861ecaf9a"
+    },
+    {
+      "name": "electron_undead_army_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "3de7985637248efaa688d546c7f0930d89d618dd5aa9e2b2d7c357e87e2ed453"
+    },
+    {
+      "name": "electron_undead_army_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "a33405d8d5f2469748d0af68c2c0002f4df5738b0f484e96fa325261f244dd42"
+    },
+    {
+      "name": "electron_undead_army_20261107.tar.xz.part004",
+      "bytes": 73824,
+      "sha256": "07f75afa882328a9550c8af9dc2c16b41f058edcb2f55bad843a7606dd56a284"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_undead_army_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 429,
+      "sha256": "0817061d5575cf52e4cad92e4a3468a7aa444e5ecd7efcb393fbd3f6df14c5d9"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "corrupted_cupcakes_commit": "039832c10fe8e8296f92577a36c484df3c1d1d44",
+    "corrupted_cupcakes_source_map_sha256": "22fa70dd74fadfe687dfdfabab2ad62abcaf961955ff31197fa271f997cb38dc"
+  },
+  "status": "Electron Undead permanent-army bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
