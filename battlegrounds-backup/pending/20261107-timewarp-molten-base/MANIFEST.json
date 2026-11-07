@@ -1,0 +1,587 @@
+{
+  "archive": "timewarp_molten_base_20261107.tar.xz",
+  "bytes": 3236600,
+  "sha256": "1befe867b81c1f7ee6baabc93d32e89e12cc8a587f3e48c5af1cdde2e2db6c29",
+  "files": {
+    "timewarp_molten_base_20261107/BASE_MAP.json": {
+      "bytes": 4557959,
+      "sha256": "2a72dcaf1d6166065182f3c40c2aadb115cd50b427a7687a667521719febd443"
+    },
+    "timewarp_molten_base_20261107/EXPECTED_ROWS.json": {
+      "bytes": 19661,
+      "sha256": "9186d79f5e4d0a239b6948b21ec95d3b5a29cc6f549c55b8b159407945686a75"
+    },
+    "timewarp_molten_base_20261107/FINAL_PIN_PREFLIGHT.json": {
+      "bytes": 257296,
+      "sha256": "da5077cfdfd760a417c62ad78fdf843acd870273d06ea09bb72ea625fd6a5846"
+    },
+    "timewarp_molten_base_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_molten_base_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 18626,
+      "sha256": "589ff5398e5ad17c9ee4b44680bfc3a73fc08c18b5be62476c26120f344f3614"
+    },
+    "timewarp_molten_base_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 257296,
+      "sha256": "da5077cfdfd760a417c62ad78fdf843acd870273d06ea09bb72ea625fd6a5846"
+    },
+    "timewarp_molten_base_20261107/README.md": {
+      "bytes": 2291,
+      "sha256": "b8a30440b2c2397d9d680feaeea9124b1335af61fa393a19e93b735d325593ee"
+    },
+    "timewarp_molten_base_20261107/SECRET_SCAN.json": {
+      "bytes": 147,
+      "sha256": "3e73d31e2cfe8d8ec8003a36063c34733d8ba6c82ad49497589ff0d4a17c0413"
+    },
+    "timewarp_molten_base_20261107/SOURCE_DELTA.json": {
+      "bytes": 13188,
+      "sha256": "5e0a28ec8707a30a2cf816dff007334ecfb497274fa98fd45d266b50427f9f5f"
+    },
+    "timewarp_molten_base_20261107/SOURCE_MAP.json": {
+      "bytes": 4559428,
+      "sha256": "d1d1689c77b5ddf700b1d5f75ff259ca3a39ea55be0b7ccf2f1786b91c419e51"
+    },
+    "timewarp_molten_base_20261107/VALIDATION.json": {
+      "bytes": 882,
+      "sha256": "28a2411dce917df05c52957095f9985cce6796a3776550470d28d85299e86ef1"
+    },
+    "timewarp_molten_base_20261107/build.py": {
+      "bytes": 7700,
+      "sha256": "435a990a86e2123cf15aabad5af3990f42ec7f5fd4142f9cbba60ed8423aa592"
+    },
+    "timewarp_molten_base_20261107/build_gate.py": {
+      "bytes": 4838,
+      "sha256": "64017101e3ae4c20f98e316887b9d814dbe01a815eef15f4bf30f4afd63c0a3b"
+    },
+    "timewarp_molten_base_20261107/delta/core/catalog.gd": {
+      "bytes": 1842282,
+      "sha256": "6a7af130adef907b6efb7ee68c572fa91a3368daf950c84ed55e1b62d0aeab76"
+    },
+    "timewarp_molten_base_20261107/delta/core/combat.gd": {
+      "bytes": 576488,
+      "sha256": "8882396daead83f9339596a63e940ea9210629e1d6610af342866982606ca694"
+    },
+    "timewarp_molten_base_20261107/delta/core/game.gd": {
+      "bytes": 1327462,
+      "sha256": "b7f91f4dc4b9ee185a90d0d4c24cefc1d343790445e4fee1aeff1ed1310fa0c6"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_air_baller_golden_sources.gd": {
+      "bytes": 23207,
+      "sha256": "51c605e9f6355559170e9e6f1052d4361c0a63ee64c5bb348044abc0dbb84c18"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_air_baller_sources.gd": {
+      "bytes": 22610,
+      "sha256": "06e50b8db2f00e4e282e9006e9d548752134d2c0b0034af0b59ce965b60bfa19"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "ad7435f19913eb7c313126d4992d633aa857d3c566004b984724a970b6c34803"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "301786776c2c3a41d947208fc83fba87b3b9eefb5de1579072d0e95233569d07"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "d6a0ff82e81cb53432f696c8fb2a8ecbf864f9b7f71913a6509bca6fd5cd7de6"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "6358b06e92203abf9155a287a923e55f4b3890f344f2ff173f9c148f34f61635"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_fire_baller_golden_sources.gd": {
+      "bytes": 26786,
+      "sha256": "6b18be36be54f5407debd2f88f119e8347bde03a23a45541f951db596e0ea0fd"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_fire_baller_sources.gd": {
+      "bytes": 26227,
+      "sha256": "66a074b794fa789de755ff8e87949e6b700f3dd83afada88313067d3584fb51d"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "45eb544f4ae6f228fdd537b74f5ee9aec49625fae6a00694ec968c3983458c63"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "e0c1539fee06e279179fb431bbb2de25ef55133b8a9222b719f7d7238efc5e7b"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "54ead4d3e5ab1abcfdfa4aa262dd3245808ed465d7130111fdbe4de1a55e5e3c"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "930b19ccb1ba5557b3b286d3150327273266cf0c84657e3dfcc35b8175898b55"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 24230,
+      "sha256": "c8dbe56958953b93cc5ba8f4dd4091aee81537627588e78a575acf5fb5f95411"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23667,
+      "sha256": "577f81d90c5fc46468e52b8012385ba6aea1d5e3804b27a25c93e8e05de67493"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "f76d31780c15acb05c0fd646ed5d412c5d73faa0bb8ab15c16959fc470eada59"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "c532f9ca64cd47d887bd2f5d98995604aa1592f9a534c1286cb4137f55f58647"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "d29acfac4bec89b5fe8fce5f09fe9c9007ff5e01c3ab5e71b63456fa0ad32cb3"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "35aa49dda8cb7c74907b17270a9898d6059a201f7d14fe165c896791390d3390"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "f033e0247280d6b181c519d9e155b7a9fb20bd312cfb1bec02df92edba538940"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "9f505fce22c4d3c28c56662123ada6f011ff31e6d1516fa379f19728e42bdede"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "368264141c7604076ae5953bfc10700c4e6161fb80732fd505d047c7ff2315d3"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "ca7e3d7655fb5cb2f18f5a0d97e65410791f64e243208dd3c32e2b143e6bed3e"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "8cf9bf0cea8503210863db65543efe011747b7e971a88f59a58f21679f496fdb"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "dc55d1ca2518afd916eeff99c4c6bc7866a6591d579cea3c09d54e117b8a92df"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "cf37af89ae9ffcd0b9af78a1633975357f2b3bb2812c9acfdc470f89bb6e69c6"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "42c3d11ed999f8ec7bc4f9492f7a4dfbad9583f85c1617552b2eee65e04e5b5f"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "825be09037e3cc45cd1344080652dda1f035b8e243ce8faf559813635704b886"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "fe5220ac4b4a8064928d92a587bc9d621272c45c158f9a147709b4bfda2e1ed5"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "fe61fe3ada03c22442a46da88e59b16cfd2929d056303b80d8bf622edf04587a"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "44d4d5978312d8fbc65ae7a357b9ab64279285a98dcf4359b2f4c46a448e98da"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "66666e4aaddce373352e119cd703a61c5363fa08a97a3e663be43ef75c93e608"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "e68e1a3163b37d4232d55721d74bbebf0648312a909a8246485d0c93b820bc8b"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "7e4aff82e72179f7e50cb68c338f150e13f22302c7d0bd22c9b84e9983f1e3a1"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "9b4dc608464e6154b8809bd2520c603fc30827d515288c631f39bc634a83db4a"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "d18b5343b4eace9c5876b475f2bdb2cdef6c56f3fff1fb3fe2931c5f2916966d"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "45beefbb76c5444cb9bc66b6473e6393502b9c6372edc53cccf00029f90da85e"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "8fe13a831337c46aad2647439f280090e84ade62ddad92f06b98aee87e292405"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_snow_baller_golden_sources.gd": {
+      "bytes": 26678,
+      "sha256": "bf93bf398ebe4e8618b2b576035bd8e37abdd938c7127e14b453515da9f0789d"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_snow_baller_sources.gd": {
+      "bytes": 26119,
+      "sha256": "bd5dc7945394f428510189930e75004d9b0d1909ee0ca2384dc60d423afad1b3"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "8c7d34a9b3bb472211a0f996048612349e6eb617d2e9fd8b0e873fdb491c3e62"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_temperature_shift_sources.gd": {
+      "bytes": 24051,
+      "sha256": "fb7634999128cf796674ea82891808e4cf7d8fa1651c37532f4bac1a4f6a830a"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "1abe5b0c72ba5888ed76432c3fddb4785d572af7c9fb068e83ea223e93150cb9"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "905823c985928b8ade777eba780e04a0ccd278707321729ca7eeab2c6e418479"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "4abbae596e38ca2471ea0696b459e5ff5b6e5ba9f40e7c92a86f15b05f18907f"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "a766104f74bd277fce53bc73de565d762f97f78ea425cd183c370810740639b5"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "8b666e7c45dec795135ce885e30d35cf583bc1ebbfc38217cd2d41a536fcd46f"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "3aef111237f2f6d1f9fc917909b33727ea55e4052f47a062ee4eed42c13c1d98"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "73941e1d16932a93f399db68553c96eb71e0b7eae332d8083c485b35f94a1e50"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "49a30811d270e978f2e369d971e8bddf3be90b542dd7bec605b1a496424ba0f2"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "14a4390dd673f3d7ef2a32ab864a71aa28e288ccb814877d049864c5085bed14"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 34980,
+      "sha256": "6b6e998e78569e282bd5b75992811da6ec2a6033aad61a2a02511a6815b344b3"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 33033,
+      "sha256": "ee618fa738d72b0c87796a3da9d34b12a7d9b290cce904c39be81641342e73fc"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_molten_golden_sources.gd": {
+      "bytes": 27927,
+      "sha256": "0827e6976a84b5c1b1d1664a96af02de5b996fe2cf4d77915fcc86543e54b39e"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_molten_sources.gd": {
+      "bytes": 27646,
+      "sha256": "e5c69f8707b0343d5891f6696d8bf7cb4b375ee626ae581fb88f9ef1b0004ad5"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_murky_golden_sources.gd": {
+      "bytes": 28518,
+      "sha256": "7f7df72764c84907e103df37f1f3104f4814c64a63b487faf67a2141e4072b96"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_murky_sources.gd": {
+      "bytes": 28241,
+      "sha256": "00350012ad502d954937104e491b080231648d1de164942aadab947668474347"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "1ebaebaa780b009e7fd3079672101a61cd7c5c8c69dbd38537e7e4b34dc3af22"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "8668195385220e799f31cbfe31f1be47163d9072a327da4eb2ad99c7f827c949"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_painter_golden_sources.gd": {
+      "bytes": 28712,
+      "sha256": "577b4f2b925e94f82f194cb0d6e90894b52600aca8c00cb10c8e01c3d82917bb"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_painter_sources.gd": {
+      "bytes": 28457,
+      "sha256": "4b8bd4a39d773df84e2f2cee6b643ff1fdaba446ddd9a98df05b62f576be8d30"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "956ed0192e5b8bd51f559adc1f766625be582dbb61e082edeabd81b5bbb4b0ce"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "ea2d843fdc0790efe3166a1b86baa231bdb4dafc77376de3fd44a413c4d71e1b"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "a6e8a63a926b28f3c24db7371b9c700bde952e6cb0f29a88c2806e4d2379e293"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "970e6103bdff4fa2f5526cc884894a9499112547e14dc44f3d18bcbd6a728ce5"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "b68aaa4cb7bac5d5c7a4d22bd929e85275aef266511a57a0a6030bae0b10a421"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "cb9af5f3e4bbc26aa7208e0a191d94e46096dfa8220c8d94f8495fc8511f2540"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "151b471c91e8214754d4234e4f0ffcc0811fce1df90658b992be617b95218414"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "69688bdfbe09b473981434380f9b51a19abec46d88322479df7a48e2e844c3d8"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "1f7402629b219d956ddc4e0914b55de84c9f7fef9a4509ef5681942c4eaa0ce9"
+    },
+    "timewarp_molten_base_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "89a4856e4919225745290b81290be86c41126339028b4a1ba82b012708ba2208"
+    },
+    "timewarp_molten_base_20261107/delta/core/timewarp_molten_host.gd": {
+      "bytes": 3891,
+      "sha256": "6c6bad8d0aee45552388aa9c006957097245e1ebb4936941ae2e7279c5acc2cb"
+    },
+    "timewarp_molten_base_20261107/delta/data/patch_3702_timewarp_molten_golden_overlay.json": {
+      "bytes": 22217,
+      "sha256": "15af85354650b8a409bf93b8b11c44bf055a0c815ea1d18cfdb5d2d45751f2b4"
+    },
+    "timewarp_molten_base_20261107/delta/data/patch_3702_timewarp_molten_overlay.json": {
+      "bytes": 22121,
+      "sha256": "80eb25b849e1d2d7bf68c4389b4fa29ed84893b7d54308f477a7bd1aed9cef79"
+    },
+    "timewarp_molten_base_20261107/delta/research/patch_3702_timewarp_molten/BG34_Giant_006.native.xml": {
+      "bytes": 3319,
+      "sha256": "1a75c30692f28e4160c3aa32e0407b5711e1b21442a59c2e51cadba91e2cb197"
+    },
+    "timewarp_molten_base_20261107/delta/research/patch_3702_timewarp_molten/evidence.json": {
+      "bytes": 441,
+      "sha256": "10dd4fd26aa4e5b90f58a5930aa550188c4399e48c57bb0aed3871428ff0887c"
+    },
+    "timewarp_molten_base_20261107/delta/research/patch_3702_timewarp_molten_golden/BG34_Giant_006_G.native.xml": {
+      "bytes": 3355,
+      "sha256": "52aa2197e43ffb52150766b119622fe284f20751f51a36b8f1734b58a4888b3f"
+    },
+    "timewarp_molten_base_20261107/delta/research/patch_3702_timewarp_molten_golden/evidence.json": {
+      "bytes": 443,
+      "sha256": "75418f47c46977ca49fc0b5e10a27fd8d3cb293c7d7d5b88fffcc1b0e7f72a4d"
+    },
+    "timewarp_molten_base_20261107/gate.gd": {
+      "bytes": 17849,
+      "sha256": "4a1f702b4d5de3b57bcf9fdcdbb2784167219ee4740dcc2e25743eb78e26434d"
+    },
+    "timewarp_molten_base_20261107/host.gd": {
+      "bytes": 3891,
+      "sha256": "6c6bad8d0aee45552388aa9c006957097245e1ebb4936941ae2e7279c5acc2cb"
+    },
+    "timewarp_molten_base_20261107/materialize.py": {
+      "bytes": 1674,
+      "sha256": "2e463bd636851387fda4ee13c181b190c90b5b7d1af5db0521864ff75b478e1f"
+    },
+    "timewarp_molten_base_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1169,
+      "sha256": "52b31e85b8a66f19dd9a1261e12a6019207d23cbc15580aa80b557c559c0fae1"
+    },
+    "timewarp_molten_base_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_molten_base_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 19661,
+      "sha256": "9186d79f5e4d0a239b6948b21ec95d3b5a29cc6f549c55b8b159407945686a75"
+    },
+    "timewarp_molten_base_20261107/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "31486e46a962ab99bee63458f6b67d63e79451f3dc3fce9708b7a1ba711d4eb9"
+    },
+    "timewarp_molten_base_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 257296,
+      "sha256": "da5077cfdfd760a417c62ad78fdf843acd870273d06ea09bb72ea625fd6a5846"
+    },
+    "timewarp_molten_base_20261107/run_1/PROCESS.json": {
+      "bytes": 607,
+      "sha256": "521fe6fe55d9e32fa1f4f4b97eaaefae1a58b8dfd03da81efdaf71bc3c89a454"
+    },
+    "timewarp_molten_base_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 13274,
+      "sha256": "0045b3df79bd0321785e845fceb90fb69211bbf72648a4152a650d58fd97b867"
+    },
+    "timewarp_molten_base_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 406240,
+      "sha256": "41b169c916d85b160fe765e0d0571124dac9ae3f65f41bf7bc821f1c46fae659"
+    },
+    "timewarp_molten_base_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4559428,
+      "sha256": "d4f2b9042f56c6132ef5d706eeebc131dd81abc938046df2a8432baf1b6efaa7"
+    },
+    "timewarp_molten_base_20261107/run_1/data/report.json": {
+      "bytes": 60293,
+      "sha256": "3a973c3e35419c74e2388884e824b753b45e667abaa75809fea3234adcead9bd"
+    },
+    "timewarp_molten_base_20261107/run_1/gate_executed.gd": {
+      "bytes": 17849,
+      "sha256": "4a1f702b4d5de3b57bcf9fdcdbb2784167219ee4740dcc2e25743eb78e26434d"
+    },
+    "timewarp_molten_base_20261107/run_1/native.log": {
+      "bytes": 449,
+      "sha256": "479b6c55d7fffa8c598bb31eb13cef917453ea9bae622953271888c84a8d8856"
+    },
+    "timewarp_molten_base_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 19661,
+      "sha256": "9186d79f5e4d0a239b6948b21ec95d3b5a29cc6f549c55b8b159407945686a75"
+    },
+    "timewarp_molten_base_20261107/run_2/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "2028aefbacac13ebee6494fd597cc5b34be66ded1733fe3431edb68bfa61d119"
+    },
+    "timewarp_molten_base_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 257296,
+      "sha256": "da5077cfdfd760a417c62ad78fdf843acd870273d06ea09bb72ea625fd6a5846"
+    },
+    "timewarp_molten_base_20261107/run_2/PROCESS.json": {
+      "bytes": 600,
+      "sha256": "80095a381a9c6aa18de1987aad74b2d3f92b704e9875493fd878d93366c162b5"
+    },
+    "timewarp_molten_base_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 13188,
+      "sha256": "5e0a28ec8707a30a2cf816dff007334ecfb497274fa98fd45d266b50427f9f5f"
+    },
+    "timewarp_molten_base_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 406192,
+      "sha256": "746f81ad2a92ecc4e55203207128749625eabf93452cc454c456bbaeb0a35f38"
+    },
+    "timewarp_molten_base_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4559428,
+      "sha256": "d1d1689c77b5ddf700b1d5f75ff259ca3a39ea55be0b7ccf2f1786b91c419e51"
+    },
+    "timewarp_molten_base_20261107/run_2/data/before_first_elemental.native_save.json": {
+      "bytes": 39358,
+      "sha256": "4e7ebf83ce1e6058e6bd504b8e9b6b14346860a14db8dcda230cf931bc3cfa3b"
+    },
+    "timewarp_molten_base_20261107/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 25511,
+      "sha256": "25c7f7563d3a3728fbc4bcc777b45a48f835e12fd3eaaaf7def42e1f6e3694a2"
+    },
+    "timewarp_molten_base_20261107/run_2/data/report.json": {
+      "bytes": 1152596,
+      "sha256": "3d3a5dc9d31a2d7c98dca8882a25561a640df0676452ae981d77b1ab6ef207cd"
+    },
+    "timewarp_molten_base_20261107/run_2/data/terminal.native_save.json": {
+      "bytes": 59388,
+      "sha256": "bd449ed5b4bc9f573ba6b2036762eb4f7ded058d3fc94d8cd5888c50060d1574"
+    },
+    "timewarp_molten_base_20261107/run_2/gate_executed.gd": {
+      "bytes": 17849,
+      "sha256": "4a1f702b4d5de3b57bcf9fdcdbb2784167219ee4740dcc2e25743eb78e26434d"
+    },
+    "timewarp_molten_base_20261107/run_2/native.log": {
+      "bytes": 409,
+      "sha256": "f0767ae8f83918f9db7992ac2c6b367c3bc2a2939fc2b931658d6ea0e8a22523"
+    },
+    "timewarp_molten_base_20261107/seal.py": {
+      "bytes": 4255,
+      "sha256": "bb7035c884684df71f3f2868b62265459b8e657174414307b2ebfdbe489ff277"
+    },
+    "timewarp_molten_base_20261107/update_runtime.py": {
+      "bytes": 750,
+      "sha256": "d5bad6a0c6af0ef892c3496afa6743c1c9d0e34d1dfb92d526e273e7e697e17c"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "4fe2fad59e7f0346c7e3a90eda8cfc299ba33e68f9ad1ec944473ddd0ed82312"
+    },
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "5d3aa7be69717cf7b76abb9d3e41e0dee76ff301f75720a88c04fa61348eab09"
+    },
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "6aa804140fd41db5356c4b471e73f51a6cd314b48693a38c9029718d5bc774ab"
+    },
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "faa8cea13ed957a10ab2b8bf85e99af651259195fdd7a7172cc9cf583175100d"
+    },
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "3d8cb049e1f99f3969647567940964f2f3f4bb8040177ec87c7e8a262498d19e"
+    },
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "d5117b3645b47d9c15c8d733ef19a28ae14dfaddf25d1124e3f74bceeb40aa21"
+    },
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "1369c6c197355e2157fa7fb68a22bdc18db9907faf68dad5d8e6bebd57ede8c0"
+    },
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "271ab3fe0617439548193039d72dae9296ae6b92ebfd527af332bcfa63250449"
+    },
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "771ca80db70cfd81efdac56a8c9988e3a6580e7ca0d4d0ac0aa21d7a757745a6"
+    },
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "a12c39844e1ae1ec5aa311474fda65ffeb4f78d099d88b284c4ab94d4a231a20"
+    },
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "8ae90cb7ce56b6784f8c771167ec08c87613902c5ed9931148532c7308e0f310"
+    },
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "afe0c88861889d9a3a32434a58d6e49e45c71c320876efccfec787bed9ec1c7b"
+    },
+    {
+      "name": "timewarp_molten_base_20261107.tar.xz.part012",
+      "bytes": 236600,
+      "sha256": "7e913913fb026dc77340836f7f394d39314de1e6f59a96c4f0b53635a8d22b8a"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "timewarp_molten_base_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 4083,
+      "sha256": "81718179668b7180c3b80db30cb2f384bd2a8a2ffc963fd6f689af16dbb76f35"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "murky_commit": "bce9cbf95bbd9e6c9174f547db48d5d900cd2ff0",
+    "murky_source_map_sha256": "2a72dcaf1d6166065182f3c40c2aadb115cd50b427a7687a667521719febd443"
+  },
+  "status": "Partial Timewarped Molten Rock first Elemental-play payoff only; growth and golden gameplay unfinished; source recovery only",
+  "audit": {
+    "archive_members": 123,
+    "credential_pattern_flags": []
+  }
+}
