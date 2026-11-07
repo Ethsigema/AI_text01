@@ -1,0 +1,114 @@
+{
+  "status": "PASS_FRESH_FULL_REMOTE_CHAIN_RESTORED",
+  "scope": "Fresh independently downloaded original release ZIP, recovery commit, Bloodbound snapshot, and both increment archives; no archive or baseline bytes reused from earlier local recovery. Published helpers ran unchanged in a new directory.",
+  "original_zip": {
+    "url": "https://github.com/Ethsigema/AI_text01/releases/download/battlegrounds-handoff-20261101/battlegrounds_new_scope_handoff_20261101.zip",
+    "bytes": 324041102,
+    "sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+    "fresh_download": true
+  },
+  "commits": {
+    "published_recipe_and_helpers": "e23df857427307b8a29675a62156e96040c72604",
+    "historical_recovery": "e11b3d7e759cc96b75a86b4c1de2e0cd192ab27c",
+    "bloodbound_snapshot": "32180d3af0db59fb3374f53100f9eaa5bb62d26a",
+    "wrathguard": "cf0a57917c570773382f8bcad5e33f86d141846f",
+    "theotar": "8a746239fec90cbc37983da1e2c4e271a1b05bbc"
+  },
+  "git_fsck_exit": 0,
+  "baseline": {
+    "files": 27463,
+    "source_map_sha256": "9a517b7c2e0ba0c14308248884696b008e5a6f0b500a1d1d97bcd53c4b7a9c71",
+    "part_manifests_checked": 70,
+    "archives_scanned": 103,
+    "missing": [],
+    "mismatch": [],
+    "archive_errors": [],
+    "fresh_download_and_reconstruction": true,
+    "exact_path_set_checked": true
+  },
+  "remote_increments": [
+    {
+      "package": "wrathguard",
+      "commit": "cf0a57917c570773382f8bcad5e33f86d141846f",
+      "repository_path": "battlegrounds-backup/pending/20261107-wrathguard-new-reconstruction",
+      "manifest_sha256": "2e8dfd81392ef90696e09a8d5bfd190bc430c0005b3b2cbc3806d455fb076313",
+      "archive": "wrathguard_new_reconstruction_20261107_retry.tar.xz",
+      "archive_sha256": "9e96a7b8f3a182975bd1237a4e68259568a38530be3738478883f3b8d5943432",
+      "archive_bytes": 1371400,
+      "parts_verified": 6,
+      "members_verified": 42,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    },
+    {
+      "package": "theotar",
+      "commit": "8a746239fec90cbc37983da1e2c4e271a1b05bbc",
+      "repository_path": "battlegrounds-backup/pending/20261107-theotar-reconstruction",
+      "manifest_sha256": "e18c935b5d1f318c97f7d224d06c5f34195f4bd604a921a433631bf9f321b7b4",
+      "archive": "timewarp_theotar_reconstructed_20261107.tar.xz",
+      "archive_sha256": "ac02652611912136525b97bc1d309c4a0d4193c972933dedef572ac39ab16800",
+      "archive_bytes": 2892616,
+      "parts_verified": 12,
+      "members_verified": 103,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "final_runtime": {
+    "files": 27480,
+    "bytes": 1546230646,
+    "source_map_sha256": "23c1cd9b8f037c39c7b748348312f3c5e327d35a471f9ded31b4e186574d0c8e",
+    "missing": [],
+    "mismatched": [],
+    "unexpected": [],
+    "independent_new_directory": true,
+    "baseline_unchanged": true
+  },
+  "map_equalities": {
+    "bloodbound_source_equals_wrathguard_base": true,
+    "wrathguard_source_equals_theotar_base": true
+  },
+  "source_map_sha256": {
+    "bloodbound": "9a517b7c2e0ba0c14308248884696b008e5a6f0b500a1d1d97bcd53c4b7a9c71",
+    "wrathguard": "e16ce2b99917f46f9492c0ad14f36060e0d90d19b76ae702fd13ebb9a51bfcd9",
+    "theotar": "23c1cd9b8f037c39c7b748348312f3c5e327d35a471f9ded31b4e186574d0c8e"
+  },
+  "published_helpers": [
+    {
+      "name": "RECOVERY.md",
+      "bytes": 5755,
+      "sha256": "dc9c163c800fd00bd8d37bd2d67d83c6b0f3e38bd6f16714d2cf39a0e95241ef",
+      "source_commit": "e23df857427307b8a29675a62156e96040c72604"
+    },
+    {
+      "name": "restore_bloodbound_from_archives.py",
+      "bytes": 5696,
+      "sha256": "ed3bd5ffe6fa89beb4e35c07436087f87d04298859307f512cb8ce86f8b3c9d7",
+      "source_commit": "e23df857427307b8a29675a62156e96040c72604"
+    },
+    {
+      "name": "verify_and_restore_latest.py",
+      "bytes": 5672,
+      "sha256": "dcea852da51763bca1d2eb9c6a26efcaa792c5b789db0c7511402a6a610be4be",
+      "source_commit": "e23df857427307b8a29675a62156e96040c72604"
+    }
+  ],
+  "published_helpers_modified": false,
+  "local_code_fixes": [],
+  "receipt_metadata_caveat": "The unchanged published latest helper hardcodes historical_baseline_freshly_downloaded_this_check=false and previous-baseline wording. Its original REMOTE_CHAIN_VERIFICATION.json is preserved unchanged. That wording is stale for this run; this separate full-chain receipt records the fresh original ZIP and complete baseline recovery actually performed immediately before the latest helper. Byte verification succeeded without script changes.",
+  "baseline_command_exit": 0,
+  "latest_command_exit": 0,
+  "artifact_hashes": {
+    "RESTORE_RESULT.json": "8ed982c41a22255ad173a7158607a09586d91866d5c01ae37a5ed763daaf8b5a",
+    "PROVENANCE.json": "9bdb43365c9d6449574c8be00e930d2b06b0f5519d35abff93d2b9b5e7f15698",
+    "ARCHIVE_SCANS.json": "e563160cc96566b5ec57869e0afc6b66d49fd566f2a67aea17f88067fc963bc5",
+    "REMOTE_CHAIN_VERIFICATION.json": "870c1019d3dce15ddbff0292c1da11536c0c6ea09e3a942f11be1967dc2c3d62",
+    "RESTORE_PROVENANCE.json": "6ac337859ff4b1bc4cacfe9efaba73ce7a68521cfadb611092ecb03a1fffcd85",
+    "BASELINE_RESTORE.log": "a7ff936bfc3240e100b45017b1a116ca53cabd1cda0175fa47bd98f2d9f1a373",
+    "LATEST_RESTORE.log": "d5cc07dac5cd639f8e1f4618afa5bce246fd3a63281005066e9cc13c4d8b5d11"
+  },
+  "no_deletion_performed": true,
+  "all_prior_backups_preserved": true,
+  "remote_changes_performed": false,
+  "gameplay_acceptance_claimed": false,
+  "lost_november6_work_recovered": false,
+  "verified_at_utc": "2026-11-07T08:10:39.846830+00:00"
+}

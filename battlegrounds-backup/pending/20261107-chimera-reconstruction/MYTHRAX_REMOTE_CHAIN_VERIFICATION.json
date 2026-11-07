@@ -1,0 +1,42 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "mythrax",
+      "commit": "2d5db05076c8d82b55d4f34c9bed8f608c844156",
+      "repository_path": "battlegrounds-backup/pending/20261107-mythrax-reconstruction",
+      "manifest_sha256": "67ed41e2b380ca707bdaea57be4d327f9163b2d3947c680f97de19095807fbde",
+      "archive": "timewarp_mythrax_reconstructed_20261107.tar.xz",
+      "archive_sha256": "59ad411f4c63f83962e87f3ed8b75e1bf86cb4293ec31f01bffe1e515d999624",
+      "archive_bytes": 2784700,
+      "parts_verified": 12,
+      "members_verified": 92,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "amalgam": "c24bdf4bedf966056670677d504207c3259bf4b3806afc5d2a2f2acb491d53de",
+    "mythrax": "f87e45df66016dcffa35e07d20e4f3aec5dd167e583f60bd6fb7c7318bb7cf95"
+  },
+  "amalgam_source_byte_equals_mythrax_base": true,
+  "baseline_files_rehashed": 27498,
+  "baseline_unchanged_after_restore": true,
+  "delta_files": 60,
+  "new_files": 9,
+  "modified_files": 51,
+  "removed_files": 0,
+  "restored_files": 27507,
+  "restored_bytes": 1546431495,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_amalgam_chain_receipt_sha256": "200ee8193d3356f77da11ad3b20585921889c5c4694269986d0c8968a4712014",
+  "historical_baseline_provenance": "Run the pinned Amalgam full recovery recipe referenced in RECOVERY.md. This helper freshly downloads Mythrax only and rehashes every supplied baseline file.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T09:00:34.223830+00:00"
+}
