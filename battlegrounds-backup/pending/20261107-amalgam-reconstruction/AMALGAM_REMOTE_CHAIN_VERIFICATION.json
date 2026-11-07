@@ -1,0 +1,42 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "amalgam",
+      "commit": "1859fa0d46420ae19feceeb97f8ba5d0ee15073f",
+      "repository_path": "battlegrounds-backup/pending/20261107-amalgam-reconstruction",
+      "manifest_sha256": "00ff237ba261e58bd675dd55a7380af51505c06205ca8726275b043bd52627d3",
+      "archive": "timewarp_amalgam_reconstructed_20261107.tar.xz",
+      "archive_sha256": "7f0733c2a68d4f7bb831d77f77d313207bb391468a25bf6c4d43439fb9e2f236",
+      "archive_bytes": 2793084,
+      "parts_verified": 12,
+      "members_verified": 115,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "electron": "8e099df06e47a901875a526a0ea21edcbf21406758f786b77078b8f00845492d",
+    "amalgam": "c24bdf4bedf966056670677d504207c3259bf4b3806afc5d2a2f2acb491d53de"
+  },
+  "electron_source_byte_equals_amalgam_base": true,
+  "baseline_files_rehashed": 27489,
+  "baseline_unchanged_after_restore": true,
+  "delta_files": 58,
+  "new_files": 9,
+  "modified_files": 49,
+  "removed_files": 0,
+  "restored_files": 27498,
+  "restored_bytes": 1546393840,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_electron_chain_receipt_sha256": "db112f966e3007373cdb58f23ce9b588966334169b7cf1e3d76e70f10fcba5e3",
+  "historical_baseline_provenance": "Run the pinned Electron full recovery recipe referenced in RECOVERY.md. This helper freshly downloads Amalgam only and rehashes every supplied baseline file.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T08:45:12.455778+00:00"
+}

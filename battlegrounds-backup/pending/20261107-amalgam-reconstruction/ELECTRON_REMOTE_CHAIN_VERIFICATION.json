@@ -1,0 +1,42 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "electron",
+      "commit": "a36ee10561aa7b32dd0f44c4c1e8ea32504c0314",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-reconstruction",
+      "manifest_sha256": "940f535bb0d8b6256b79a992ef7fb0ca39a5a2f06e15c532a02bf07a254777f3",
+      "archive": "timewarp_electron_reconstructed_20261107.tar.xz",
+      "archive_sha256": "6baf387fe353cc5d480fd449de97353bbfec11e9651cedc4c9a788602129b976",
+      "archive_bytes": 2831808,
+      "parts_verified": 12,
+      "members_verified": 89,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "theotar": "23c1cd9b8f037c39c7b748348312f3c5e327d35a471f9ded31b4e186574d0c8e",
+    "electron": "8e099df06e47a901875a526a0ea21edcbf21406758f786b77078b8f00845492d"
+  },
+  "theotar_source_byte_equals_electron_base": true,
+  "baseline_files_rehashed": 27480,
+  "baseline_unchanged_after_restore": true,
+  "delta_files": 56,
+  "new_files": 9,
+  "modified_files": 47,
+  "removed_files": 0,
+  "restored_files": 27489,
+  "restored_bytes": 1546358376,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_full_chain_receipt_sha256": "add483d2bf9526bba19bbb9d6b53e4e7e86bc78d9c2a6826c6dfd071d7ffc53e",
+  "historical_baseline_provenance": "Run the pinned Theotar full recovery recipe referenced in RECOVERY.md. This helper freshly downloads Electron only and rehashes every supplied baseline file.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T08:24:12.430058+00:00"
+}
