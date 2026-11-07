@@ -1,0 +1,215 @@
+{
+  "archive": "electron_alliance_choice_20261107.tar.xz",
+  "bytes": 1069516,
+  "sha256": "6a960e606db53e60e3328a1287f80e7a762b46113c7deef7217d58cbf9b6fc20",
+  "files": {
+    "electron_alliance_choice_20261107/BASE_MAP.json": {
+      "bytes": 4567049,
+      "sha256": "ad387f3dd43e4f2239efa641f9eb4168de901331342741a36ffe85cf924aef6d"
+    },
+    "electron_alliance_choice_20261107/EXPECTED_ROWS.json": {
+      "bytes": 22713,
+      "sha256": "3b56f7a540f64c11fbabd65d7bc8d989c10de41b1b80e7ba288171668c10f384"
+    },
+    "electron_alliance_choice_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_alliance_choice_20261107/NATIVE_QUANTITIES.json": {
+      "bytes": 337,
+      "sha256": "8f617dcd7b607bd7968bd07fd5cfbb0d31684c7d5c634053eb54c7edeb33acf2"
+    },
+    "electron_alliance_choice_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5533,
+      "sha256": "ab2d796e782d5b6ea91d24f2698b391da738d5afa20b73a076eb3d7afca1fd70"
+    },
+    "electron_alliance_choice_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 268512,
+      "sha256": "02ed2f249b9acfe83e116986f71db1872b19ec789267b81a7060622769467a36"
+    },
+    "electron_alliance_choice_20261107/README.md": {
+      "bytes": 1985,
+      "sha256": "452642d41d6ead7f88b1e047a5a7c7cac06626ca8a6d624d94739f5b1f868f62"
+    },
+    "electron_alliance_choice_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "9130f0693a94b6f6b86fbb0e14479d838f71dd2e76ac96fe00312504866184bc"
+    },
+    "electron_alliance_choice_20261107/SOURCE_DELTA.json": {
+      "bytes": 1671,
+      "sha256": "a23f37111c61d8479e52fd9e1da4a91488fb817b92cda2330f4844bd0a89ce20"
+    },
+    "electron_alliance_choice_20261107/SOURCE_MAP.json": {
+      "bytes": 4567710,
+      "sha256": "07dd29436f95d0fba4d71cd33c71ae8cba079be3017cb5152ca34468e09a39c7"
+    },
+    "electron_alliance_choice_20261107/VALIDATION.json": {
+      "bytes": 806,
+      "sha256": "bb46c85ad6e6170e878223bf828246ccaa4a666030b3f44bd37fa54847398649"
+    },
+    "electron_alliance_choice_20261107/build.py": {
+      "bytes": 3589,
+      "sha256": "f4caed2e9c1fe02be9207fef90e5ade336adbf293dc9ba5a3ac102498e948f5a"
+    },
+    "electron_alliance_choice_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 39025,
+      "sha256": "1bb807e77977fde914e21393b1ae9456e819aacf7075cd26598cea03c3ed74b7"
+    },
+    "electron_alliance_choice_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 37078,
+      "sha256": "c157a3eb5e7e4f6dbfadb95391e876fec0549ab6de0bdf940758103b7e764ee4"
+    },
+    "electron_alliance_choice_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 11300,
+      "sha256": "5738081b42cdac8518587bb20d9194a4b6cb36423691a8e164b1dcfb41168957"
+    },
+    "electron_alliance_choice_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 24399,
+      "sha256": "1880c605b862159404f69e404eef4639c09d6832f33df96f0d2e9e6ec1106a95"
+    },
+    "electron_alliance_choice_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 23189,
+      "sha256": "18d9edb6e20927d67de434900c695c183851467a6292a09d65c9f41e99ba4e84"
+    },
+    "electron_alliance_choice_20261107/delta/research/electron_alliance_choice/BG31_880.native.xml": {
+      "bytes": 4042,
+      "sha256": "6269ae2855d3c7785a38e22dd578a2a490b8f3fb65aa9fc2bda45ff5d9c12a4a"
+    },
+    "electron_alliance_choice_20261107/delta/research/electron_alliance_choice/BG31_880t.native.xml": {
+      "bytes": 2389,
+      "sha256": "02d998a3571de310997048b83b1a4d1bdc795883780285d8cb1207d5bfa6946d"
+    },
+    "electron_alliance_choice_20261107/delta/research/electron_alliance_choice/BG31_880t2.native.xml": {
+      "bytes": 2763,
+      "sha256": "654bb9b64416823082345edeadbeb79b6ae4e8ae26d5c7f6d79eb4a3f4ad61fa"
+    },
+    "electron_alliance_choice_20261107/delta/research/electron_alliance_choice/evidence.json": {
+      "bytes": 2055,
+      "sha256": "06e9d312c8359ac4bc7ad87369666af40ef128739255c25c6e482b34c88bb87e"
+    },
+    "electron_alliance_choice_20261107/gate.gd": {
+      "bytes": 19790,
+      "sha256": "fa49a3d81946d87632a56008fd5cdab58879ed1714f5af7f752b77145a43832f"
+    },
+    "electron_alliance_choice_20261107/materialize.py": {
+      "bytes": 1692,
+      "sha256": "531c415dbd6742dc04f6950d204d84e9ffe6ce8e61cb8cd3959f008c86b71a5c"
+    },
+    "electron_alliance_choice_20261107/prepare_gate.py": {
+      "bytes": 3787,
+      "sha256": "2c54a91931d477a0797778565183271553b188c21e16f63659cea99df56d30e4"
+    },
+    "electron_alliance_choice_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1184,
+      "sha256": "0bc285479142ebc910a67c9024d60df182328b41b92d296eafb98bf25e53647e"
+    },
+    "electron_alliance_choice_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_alliance_choice_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 22713,
+      "sha256": "3b56f7a540f64c11fbabd65d7bc8d989c10de41b1b80e7ba288171668c10f384"
+    },
+    "electron_alliance_choice_20261107/run_1/LAUNCH.json": {
+      "bytes": 535,
+      "sha256": "2ace952776fde3f2afbb7552d62a37c649be564b3c5f9cdf43c94831eb4bb604"
+    },
+    "electron_alliance_choice_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 268512,
+      "sha256": "02ed2f249b9acfe83e116986f71db1872b19ec789267b81a7060622769467a36"
+    },
+    "electron_alliance_choice_20261107/run_1/PROCESS.json": {
+      "bytes": 609,
+      "sha256": "eea43bb4f9919bcd9ba0f6470481edfa36766a86919b0d232c7c138d17a662f1"
+    },
+    "electron_alliance_choice_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1671,
+      "sha256": "a23f37111c61d8479e52fd9e1da4a91488fb817b92cda2330f4844bd0a89ce20"
+    },
+    "electron_alliance_choice_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 13792,
+      "sha256": "edde044f58aebca1989cc02c3225ed9cb646ba68a9170d310f33cedfbc304bbd"
+    },
+    "electron_alliance_choice_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4567710,
+      "sha256": "07dd29436f95d0fba4d71cd33c71ae8cba079be3017cb5152ca34468e09a39c7"
+    },
+    "electron_alliance_choice_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 36654,
+      "sha256": "c6c50749824cff3a85abebdc88c72ca4579ff5b0a1dbbdf1b57ef114c5000490"
+    },
+    "electron_alliance_choice_20261107/run_1/data/prefix_progress1.native_save.json": {
+      "bytes": 57428,
+      "sha256": "1294a25506bdc2c33f54089c1d474acbe836d36a8260362f0ba53f343abf5ca1"
+    },
+    "electron_alliance_choice_20261107/run_1/data/report.json": {
+      "bytes": 1439957,
+      "sha256": "7f8e33c7b1303b3b1fcfcfac9e80778b7bca1a0d8b445184ff9cfd18ace9d27d"
+    },
+    "electron_alliance_choice_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 70213,
+      "sha256": "b43eaf6340ccf52450e78017428401f5dbee7a3a1491c102e5eccb3fa4c98d7a"
+    },
+    "electron_alliance_choice_20261107/run_1/gate_executed.gd": {
+      "bytes": 19790,
+      "sha256": "fa49a3d81946d87632a56008fd5cdab58879ed1714f5af7f752b77145a43832f"
+    },
+    "electron_alliance_choice_20261107/run_1/native.log": {
+      "bytes": 339,
+      "sha256": "05815a80ca0ef8ac48af42e5a162d56b2dc254823f9608b65a09cb161cc62b42"
+    },
+    "electron_alliance_choice_20261107/seal.py": {
+      "bytes": 4679,
+      "sha256": "3839355627d72d21d700e7373be69901aab5dc652d14f8a43fc1147deaebe663"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_alliance_choice_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "3fd621711cc7bbaddc605cc432e6ed9bc0c207cf08bb14a5031cf9749a423cb6"
+    },
+    {
+      "name": "electron_alliance_choice_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "e8f954cbc855446695ecdbcefc7224f01fbe317502eb533a1605f692945c241e"
+    },
+    {
+      "name": "electron_alliance_choice_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "63c1c036b3c22e402195be3a22df437e70f3aaabd295fbf945d70729ecfdad38"
+    },
+    {
+      "name": "electron_alliance_choice_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "b35228c6d2224c8c36e972162466df7ac21206fdbd5abe0453366f1a0b5d7e07"
+    },
+    {
+      "name": "electron_alliance_choice_20261107.tar.xz.part004",
+      "bytes": 69516,
+      "sha256": "ed28319b0729094d12e963f3e3adf08203444569522aea394f72e3b956402bd5"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_alliance_choice_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 562,
+      "sha256": "a6d21fc68dd4223f1474c0ed2aed12f9226f59b7e32f6c8fd9dbe4e25f0943d0"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "golden_ultraviolet_commit": "7c650db07c27e961d655fd2b146692390afb58eb",
+    "golden_ultraviolet_source_map_sha256": "ad387f3dd43e4f2239efa641f9eb4168de901331342741a36ffe85cf924aef6d"
+  },
+  "status": "Electron Alliance Flag choice bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 40,
+    "credential_pattern_flags": []
+  }
+}
