@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "tier1_discover",
+      "commit": "a67eb4c44881a7149658ca07a1f230dbf1100332",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-tier1-discover",
+      "manifest_sha256": "80843332944b8c5a2c4b439df647b9accd8febd9a7d4c44d14f13e07f612e408",
+      "archive": "electron_tier1_discover_20261107.tar.xz",
+      "archive_sha256": "d1765c76eb295346b51fc4e42e988a8bb0c72e2cf7b9652f07d91eb9bee202c8",
+      "archive_bytes": 1069320,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "golden_touch": "8266106c62d99359a96445abb99687141b12673e3fd79299abb28a5cf1a7514a",
+    "tier1_discover": "4e0096c08e463090b8b47a88a7b2554b81a931054f87752b66ab59eee792014a"
+  },
+  "golden_touch_source_byte_equals_tier1_discover_base": true,
+  "baseline_files_rehashed": 27677,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "987a8f23bd0e1d0736b1d1d870ed8ea5a5baf5d6c98ca069b782d3307924b23a",
+  "change_lists": {
+    "added": [
+      "research/electron_tier1_discover/BG33_101.native.xml",
+      "research/electron_tier1_discover/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27679,
+  "restored_bytes": 1547988768,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_golden_touch_to_tier1_discover_map_continuity": true,
+  "supporting_golden_touch_chain_receipt_sha256": "6e482d7ecef425b16d97d76b0b45aa35a150260c45bb26343824fa137cbfba78",
+  "historical_baseline_provenance": "The baseline is the verified Electron Golden Touch baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Tier1 Discover increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T21:27:21.321226+00:00"
+}
