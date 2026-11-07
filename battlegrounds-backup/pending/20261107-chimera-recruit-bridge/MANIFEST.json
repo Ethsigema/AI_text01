@@ -1,0 +1,291 @@
+{
+  "archive": "chimera_recruit_bridge_20261107.tar.xz",
+  "bytes": 1076072,
+  "sha256": "5f49742aa35e2c8badfd491bc0e5af22b55c869d6851f31637aaf1e87f93bfb6",
+  "files": {
+    "chimera_recruit_bridge_20261107/BASE_MAP.json": {
+      "bytes": 4543856,
+      "sha256": "f1167a1cfc675e58bc6babec70b2af586d2f9a171283ef32360e733a8782be39"
+    },
+    "chimera_recruit_bridge_20261107/BINDINGS.log": {
+      "bytes": 109,
+      "sha256": "410e4916760354816d3cb775008d7a379da71dd0ddfeca3f2db58e666d4adf23"
+    },
+    "chimera_recruit_bridge_20261107/EXPECTED_ROWS.json": {
+      "bytes": 3653,
+      "sha256": "dcc91dd307da96c8c89fb5251c1735fe217263683d97e0e898d2481cc0753774"
+    },
+    "chimera_recruit_bridge_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "chimera_recruit_bridge_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 8137,
+      "sha256": "7962e55cb466539b440d28f54b7b714f4f8be418f1d1e7311810cdbd1778fdf6"
+    },
+    "chimera_recruit_bridge_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 237731,
+      "sha256": "e66f51d75c1019474b0774137462cfd28ec43843fda605ecac8e3bd340fbab00"
+    },
+    "chimera_recruit_bridge_20261107/README.md": {
+      "bytes": 2805,
+      "sha256": "5a58ba64c6dc16df4888f50d84e23400a3a27cad9e7880e842b8613ada4cbd7e"
+    },
+    "chimera_recruit_bridge_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "28b5e897f2035f662cfac5d51917cc4e3ffef8fcacea9d07d8c602b549a4b317"
+    },
+    "chimera_recruit_bridge_20261107/SOURCE_DELTA.json": {
+      "bytes": 1113,
+      "sha256": "da5aa21c09be497b0eebc9ec43012dd395b6441984e27898b8943030ea34e646"
+    },
+    "chimera_recruit_bridge_20261107/SOURCE_MAP.json": {
+      "bytes": 4544000,
+      "sha256": "ba5f61b6263fba3ab6303bedbf83640f7b2e33ca4e6b0e21383c13a2f975ef69"
+    },
+    "chimera_recruit_bridge_20261107/VALIDATION.json": {
+      "bytes": 903,
+      "sha256": "dff88d40152aa91c51eaca6bcfc21b501430c2b0d9e3a4f77f7e976fe1073d2a"
+    },
+    "chimera_recruit_bridge_20261107/build.py": {
+      "bytes": 3936,
+      "sha256": "1d3e0b6a319e4243c4fb57c52e059f5ebb2deacd0bb837c720833940e80073d8"
+    },
+    "chimera_recruit_bridge_20261107/delta/core/chimera_recruit_damage.gd": {
+      "bytes": 4663,
+      "sha256": "55aae59228ffe6d28f7671344df39e38351f2f8a96f7853564584b97bd5cb66b"
+    },
+    "chimera_recruit_bridge_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8533,
+      "sha256": "62b7ea85759605ea2255f1b1fe3c865b59c5476193870238c7dc4053d4bd6102"
+    },
+    "chimera_recruit_bridge_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8349,
+      "sha256": "05846a3311d583985ae3c8dabad326e4683da06ce1ecad44e8625f3eda0921f0"
+    },
+    "chimera_recruit_bridge_20261107/delta/core/recruit_minion_damage.gd": {
+      "bytes": 10227,
+      "sha256": "08fa6a59228e637f31aa707d3ba998518d8d24333a1606d5111039a343974c9e"
+    },
+    "chimera_recruit_bridge_20261107/delta/data/patch_3702_timewarp_chimera_golden_overlay.json": {
+      "bytes": 2260,
+      "sha256": "8b4c1680aaa96d6a9d2599f77dfbd1224cbe76822abe2cea6297113fae159af2"
+    },
+    "chimera_recruit_bridge_20261107/delta/data/patch_3702_timewarp_chimera_overlay.json": {
+      "bytes": 2232,
+      "sha256": "ae8654a3ea79807615b18453430e354da726dfe8d8640405ab03895d91a42865"
+    },
+    "chimera_recruit_bridge_20261107/gate.gd": {
+      "bytes": 17592,
+      "sha256": "70b9a4fde2d84bec1bbab7012f68d9140070f6838945a333b18dbb49c3f54498"
+    },
+    "chimera_recruit_bridge_20261107/host.gd": {
+      "bytes": 4663,
+      "sha256": "55aae59228ffe6d28f7671344df39e38351f2f8a96f7853564584b97bd5cb66b"
+    },
+    "chimera_recruit_bridge_20261107/materialize.py": {
+      "bytes": 1687,
+      "sha256": "d3abdc74a52ccf011d3ea70624e31a7465f6683cd69a4f97c7b0e016382c82e5"
+    },
+    "chimera_recruit_bridge_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1172,
+      "sha256": "ea87ca0a7c48a3a602c55a5aab7ee772aeff68c40e821e947246d1b79d2037be"
+    },
+    "chimera_recruit_bridge_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "chimera_recruit_bridge_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 3653,
+      "sha256": "dcc91dd307da96c8c89fb5251c1735fe217263683d97e0e898d2481cc0753774"
+    },
+    "chimera_recruit_bridge_20261107/run_1/LAUNCH.json": {
+      "bytes": 531,
+      "sha256": "514881913adaf6f46185ae80c0826129299d6f8c29a71396d4796371fd894fd2"
+    },
+    "chimera_recruit_bridge_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 237731,
+      "sha256": "e66f51d75c1019474b0774137462cfd28ec43843fda605ecac8e3bd340fbab00"
+    },
+    "chimera_recruit_bridge_20261107/run_1/PROCESS.json": {
+      "bytes": 605,
+      "sha256": "f0f0000a4a94c9e302890ec880f0b84c17ac1a3ef24af4111e258e353c3fa97f"
+    },
+    "chimera_recruit_bridge_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1113,
+      "sha256": "1557b5fcf436d294e3b4df82bc3fceb9ad2805e9f3c25966eb8e9ff8433f96c3"
+    },
+    "chimera_recruit_bridge_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 7468,
+      "sha256": "90ac7782416c1824c02fe8b504ff27984f2969dcd8bb202d9aa9b686d2c201cc"
+    },
+    "chimera_recruit_bridge_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4544000,
+      "sha256": "190cc60c91734c903860cff58df4d1617b4daf81eec1d7fb391f8776c5cfe7e7"
+    },
+    "chimera_recruit_bridge_20261107/run_1/data/report.json": {
+      "bytes": 32962,
+      "sha256": "3c7dcdf4034f0bedde41590b6cbf24e41a68813c806c67c5603ff6859ff320dd"
+    },
+    "chimera_recruit_bridge_20261107/run_1/gate_executed.gd": {
+      "bytes": 17030,
+      "sha256": "96c229969bfcf97ace82583791f7ffa4df8acc0698db6a13c6e1e8e878d2e3fc"
+    },
+    "chimera_recruit_bridge_20261107/run_1/native.log": {
+      "bytes": 158,
+      "sha256": "ff9d0561109df3c43f1b89760e1a59764d3a6b0336e2aae766f4bca7ffc0a3d9"
+    },
+    "chimera_recruit_bridge_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 3653,
+      "sha256": "dcc91dd307da96c8c89fb5251c1735fe217263683d97e0e898d2481cc0753774"
+    },
+    "chimera_recruit_bridge_20261107/run_2/LAUNCH.json": {
+      "bytes": 531,
+      "sha256": "7b9bdcade54d783ee2de735c77ba0d2421ec66f719cdac8a5d1ef8209567e873"
+    },
+    "chimera_recruit_bridge_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 237731,
+      "sha256": "e66f51d75c1019474b0774137462cfd28ec43843fda605ecac8e3bd340fbab00"
+    },
+    "chimera_recruit_bridge_20261107/run_2/PROCESS.json": {
+      "bytes": 605,
+      "sha256": "d36db5ee38805f098bf3f7018a243289bfa4cc5c23bb5f4a46b6aab2e7325524"
+    },
+    "chimera_recruit_bridge_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 1113,
+      "sha256": "da5aa21c09be497b0eebc9ec43012dd395b6441984e27898b8943030ea34e646"
+    },
+    "chimera_recruit_bridge_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 7488,
+      "sha256": "a2528e79fcf2c7100528620314fecc8fab2b05105aad2a343c2eb527065ab9c6"
+    },
+    "chimera_recruit_bridge_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4544000,
+      "sha256": "ba5f61b6263fba3ab6303bedbf83640f7b2e33ca4e6b0e21383c13a2f975ef69"
+    },
+    "chimera_recruit_bridge_20261107/run_2/data/before_clefthoof.native_save.json": {
+      "bytes": 50684,
+      "sha256": "4cf4b12e2c94cd77bdaf2ef21c0d90595b3d5d07fb98c8d003e6f3211de75978"
+    },
+    "chimera_recruit_bridge_20261107/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 29609,
+      "sha256": "c19255468fbf45dda260ff2a08affe0b174f0dfc8f35595a2716e9b5133df6c7"
+    },
+    "chimera_recruit_bridge_20261107/run_2/data/report.json": {
+      "bytes": 1008049,
+      "sha256": "cb6d0a7c2c47de800f299f6118a29015f649ed1bb038e889659f71f6f59b3e63"
+    },
+    "chimera_recruit_bridge_20261107/run_2/gate_executed.gd": {
+      "bytes": 17198,
+      "sha256": "66dc49b4433961353abc98cc9361e7898021cd828efac129ba9d1cbf97192199"
+    },
+    "chimera_recruit_bridge_20261107/run_2/native.log": {
+      "bytes": 352,
+      "sha256": "3b84d057eeadbbaca5f39095823d058472e74cc68f93f4b03b8509d7a6b4ab0f"
+    },
+    "chimera_recruit_bridge_20261107/run_3/EXPECTED_ROWS.json": {
+      "bytes": 3653,
+      "sha256": "dcc91dd307da96c8c89fb5251c1735fe217263683d97e0e898d2481cc0753774"
+    },
+    "chimera_recruit_bridge_20261107/run_3/LAUNCH.json": {
+      "bytes": 531,
+      "sha256": "dab838dd96ffb09af0ccc38afaa7d0eb640d7435ef6f07be3142507148176c26"
+    },
+    "chimera_recruit_bridge_20261107/run_3/PIN_PREFLIGHT.json": {
+      "bytes": 237731,
+      "sha256": "e66f51d75c1019474b0774137462cfd28ec43843fda605ecac8e3bd340fbab00"
+    },
+    "chimera_recruit_bridge_20261107/run_3/PROCESS.json": {
+      "bytes": 604,
+      "sha256": "3cc6c220be4f31ad8824fa8e0c5972b86173ed438e72a4f00ad708e73b608612"
+    },
+    "chimera_recruit_bridge_20261107/run_3/SOURCE_DELTA.json": {
+      "bytes": 1113,
+      "sha256": "da5aa21c09be497b0eebc9ec43012dd395b6441984e27898b8943030ea34e646"
+    },
+    "chimera_recruit_bridge_20261107/run_3/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 7488,
+      "sha256": "a2528e79fcf2c7100528620314fecc8fab2b05105aad2a343c2eb527065ab9c6"
+    },
+    "chimera_recruit_bridge_20261107/run_3/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4544000,
+      "sha256": "ba5f61b6263fba3ab6303bedbf83640f7b2e33ca4e6b0e21383c13a2f975ef69"
+    },
+    "chimera_recruit_bridge_20261107/run_3/data/before_clefthoof.native_save.json": {
+      "bytes": 50684,
+      "sha256": "4cf4b12e2c94cd77bdaf2ef21c0d90595b3d5d07fb98c8d003e6f3211de75978"
+    },
+    "chimera_recruit_bridge_20261107/run_3/data/initial_fixture.native_save.json": {
+      "bytes": 29609,
+      "sha256": "c19255468fbf45dda260ff2a08affe0b174f0dfc8f35595a2716e9b5133df6c7"
+    },
+    "chimera_recruit_bridge_20261107/run_3/data/report.json": {
+      "bytes": 2303344,
+      "sha256": "a2e1ad71f8ef24c76ba2556aba167254c02b75b98a6939a2a701e48601151b18"
+    },
+    "chimera_recruit_bridge_20261107/run_3/data/terminal.native_save.json": {
+      "bytes": 262569,
+      "sha256": "dddcea196c0cc980aaf9b1763a1c93680ef5f460c4ed18545382ee28ca928832"
+    },
+    "chimera_recruit_bridge_20261107/run_3/gate_executed.gd": {
+      "bytes": 17592,
+      "sha256": "70b9a4fde2d84bec1bbab7012f68d9140070f6838945a333b18dbb49c3f54498"
+    },
+    "chimera_recruit_bridge_20261107/run_3/native.log": {
+      "bytes": 352,
+      "sha256": "45055164d2100bb9ea610da856b707ce2337bff8f018f7ebbc8dcf9b912f3b8f"
+    },
+    "chimera_recruit_bridge_20261107/scenario.gd": {
+      "bytes": 8124,
+      "sha256": "ff58d7f70a8a010e17acd9735dd8b23a3cd42af4a2f4ec644522494f46726e2f"
+    },
+    "chimera_recruit_bridge_20261107/seal.py": {
+      "bytes": 4413,
+      "sha256": "abe85101d940008e5eca293194ece7409b5deb5b72c95662d16ead96d326ad2e"
+    }
+  },
+  "parts": [
+    {
+      "name": "chimera_recruit_bridge_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "5912012ad8eb2b2176440b105bbaffea7178e3c514081e0acaca201b4074673f"
+    },
+    {
+      "name": "chimera_recruit_bridge_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "12e1c81908f5564f2fc1cf49b7a2ff92ac91dcae6205df0bac0e7c05da893de7"
+    },
+    {
+      "name": "chimera_recruit_bridge_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "f6598a9f574a08746bfb9d42d788b762ae85b80e39ba0a8d0a795cc2744828af"
+    },
+    {
+      "name": "chimera_recruit_bridge_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "7fca415ebef9b8c3de40cea4b1a5c5e6655f613cecfe3d92482e30c979cb8da1"
+    },
+    {
+      "name": "chimera_recruit_bridge_20261107.tar.xz.part004",
+      "bytes": 76072,
+      "sha256": "a16a64548349f8e9319e968148023d94e139754348d172823f24cbc687b816db"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "chimera_recruit_bridge_20261107/SOURCE_MAP.json",
+  "depends_on": {
+    "rodeo_commit": "fe15aeeba85911aa4ccf9fed6295bdb04e4e1627",
+    "rodeo_source_map_sha256": "f1167a1cfc675e58bc6babec70b2af586d2f9a171283ef32360e733a8782be39"
+  },
+  "status": "Incremental reconstruction; preserve Rodeo and full historical chain; bounded recruit bridge only",
+  "audit": {
+    "archive_members": 60,
+    "credential_pattern_flags": []
+  },
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  }
+}
