@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "golden_touch",
+      "commit": "e7042656795d785110e75b0ee1e70b0fc82afc88",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-golden-touch",
+      "manifest_sha256": "c7dd2db6525619d33d12c5b3d608893380f60ce4b31b6c262e676586488eede4",
+      "archive": "electron_golden_touch_20261107.tar.xz",
+      "archive_sha256": "9dbbfc1a4e1d10efa6216e5bdbfb9683989b32d7427c3a58056c1c4bfd72b596",
+      "archive_bytes": 1068540,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "scavenge_clock": "6f163c0fc8a881d3c666b68599a5ce089e388f8168765aa07369a559e78a2520",
+    "golden_touch": "8266106c62d99359a96445abb99687141b12673e3fd79299abb28a5cf1a7514a"
+  },
+  "scavenge_clock_source_byte_equals_golden_touch_base": true,
+  "baseline_files_rehashed": 27675,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "2c978014ce702b2fec6230a258d1d2ebfa4e1f63eab8f04e8342f3581b6426a5",
+  "change_lists": {
+    "added": [
+      "research/electron_golden_touch/BG28_830.native.xml",
+      "research/electron_golden_touch/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27677,
+  "restored_bytes": 1547984539,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_scavenge_clock_to_golden_touch_map_continuity": true,
+  "supporting_scavenge_clock_chain_receipt_sha256": "669b3a0f6465850ba1ddf2299de68940c8b33a5e08f3911cd1a5b1f5a6ff9288",
+  "historical_baseline_provenance": "The baseline is the verified Electron Scavenge Clock baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Golden Touch increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T21:15:57.824065+00:00"
+}
