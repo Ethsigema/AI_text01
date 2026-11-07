@@ -1,0 +1,215 @@
+{
+  "archive": "chimera_random_bridge_20261107.tar.xz",
+  "bytes": 1072328,
+  "sha256": "e140a1799a047b4b04a38c474a410ae2b681435273caf41f69e9d4263203778a",
+  "files": {
+    "chimera_random_bridge_20261107/BASE_MAP.json": {
+      "bytes": 4544000,
+      "sha256": "ba5f61b6263fba3ab6303bedbf83640f7b2e33ca4e6b0e21383c13a2f975ef69"
+    },
+    "chimera_random_bridge_20261107/BINDINGS.log": {
+      "bytes": 109,
+      "sha256": "410e4916760354816d3cb775008d7a379da71dd0ddfeca3f2db58e666d4adf23"
+    },
+    "chimera_random_bridge_20261107/EXPECTED_ROWS.json": {
+      "bytes": 3679,
+      "sha256": "147500a96ec4063d336c48c8d2775421d2ec054ac2fb893dc15262c5e41ca562"
+    },
+    "chimera_random_bridge_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "chimera_random_bridge_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5396,
+      "sha256": "92f2a359884d82e4b566a2681de085125f14b881ba3503c1108d6117935b8152"
+    },
+    "chimera_random_bridge_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 237731,
+      "sha256": "e66f51d75c1019474b0774137462cfd28ec43843fda605ecac8e3bd340fbab00"
+    },
+    "chimera_random_bridge_20261107/PROJECTION_PROPERTIES.log": {
+      "bytes": 225,
+      "sha256": "6b26c6ffc964304f3d53e6aa051b8c86713427eec3a9b2dfdc9dc370fd212952"
+    },
+    "chimera_random_bridge_20261107/README.md": {
+      "bytes": 3431,
+      "sha256": "6bdfcb9215a9910b17eb50e428256dcda9ec7f52a014deab650092abddd85281"
+    },
+    "chimera_random_bridge_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "9130f0693a94b6f6b86fbb0e14479d838f71dd2e76ac96fe00312504866184bc"
+    },
+    "chimera_random_bridge_20261107/SOURCE_DELTA.json": {
+      "bytes": 1260,
+      "sha256": "384c7659fc9cfaa245440a97fc4faa9a8ec4bb1a87fc08c178e630d62ca9635b"
+    },
+    "chimera_random_bridge_20261107/SOURCE_MAP.json": {
+      "bytes": 4544000,
+      "sha256": "d454821446645d5dc6e299a38431a8611cc2e3d70b5c658a820e16c3f6959bd4"
+    },
+    "chimera_random_bridge_20261107/VALIDATION.json": {
+      "bytes": 966,
+      "sha256": "e2a9599df00bd5c439620368b212dd3400d46f411c11f60d0a8aedae1a83c5bc"
+    },
+    "chimera_random_bridge_20261107/build_checkpoint.py": {
+      "bytes": 6706,
+      "sha256": "96a83de9b29c18cb538e1f78b6ec2839112fb8bbe96abee0f4790836851d8f62"
+    },
+    "chimera_random_bridge_20261107/delta/core/chimera_recruit_damage.gd": {
+      "bytes": 6327,
+      "sha256": "961d99ddb2ffacab8c71027633e24d9458907f2f0a610efc9c271df37a605a03"
+    },
+    "chimera_random_bridge_20261107/delta/core/clefthoof_host.gd": {
+      "bytes": 13283,
+      "sha256": "9977e7ba8cbf1dfdc830801998172c4e5a3a21dbdaba4e7dfaf319ead7d92268"
+    },
+    "chimera_random_bridge_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "c22512e0c367a9e1e0eb9f479bcd1f485b810921e9c7cdc0635bf86cab98596d"
+    },
+    "chimera_random_bridge_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "931d512b940f7143102def325b4025644ec7c65350fe456d1b26d80d6cb9de34"
+    },
+    "chimera_random_bridge_20261107/delta/core/recruit_minion_damage.gd": {
+      "bytes": 10315,
+      "sha256": "8cece15e79418812c15defe96525bd6d2cd5c07eabafe6c6f48c85623201d4ed"
+    },
+    "chimera_random_bridge_20261107/delta/data/patch_3702_timewarp_chimera_golden_overlay.json": {
+      "bytes": 2273,
+      "sha256": "996e1cf62be64a30153e3fcb4b00b98af77b3b0c993c1477d8599e1ce92a9b29"
+    },
+    "chimera_random_bridge_20261107/delta/data/patch_3702_timewarp_chimera_overlay.json": {
+      "bytes": 2245,
+      "sha256": "bc25fa261745ffb256e6486c2c288652f4fb362f797eadb91ad5b0909b24900e"
+    },
+    "chimera_random_bridge_20261107/gate.gd": {
+      "bytes": 18110,
+      "sha256": "db7a01bb14116b49e3bc6324ddad826bac877f546b29bd53c187bd7c90331d39"
+    },
+    "chimera_random_bridge_20261107/host.gd": {
+      "bytes": 6327,
+      "sha256": "961d99ddb2ffacab8c71027633e24d9458907f2f0a610efc9c271df37a605a03"
+    },
+    "chimera_random_bridge_20261107/materialize.py": {
+      "bytes": 1690,
+      "sha256": "540d9db8633aef46b0255a889d6cece0874489a66bb259a4d71995a86d0c6829"
+    },
+    "chimera_random_bridge_20261107/projection_properties.gd": {
+      "bytes": 1987,
+      "sha256": "279fa990d27718e38407d00eae3252fa3fa31efc32a77f90bd6ad1533ec5df73"
+    },
+    "chimera_random_bridge_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1172,
+      "sha256": "98cab630a130e2a8ef28caab24fae1b21cbd7d6a884965d660bd24ef5871ac0a"
+    },
+    "chimera_random_bridge_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "chimera_random_bridge_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 3679,
+      "sha256": "147500a96ec4063d336c48c8d2775421d2ec054ac2fb893dc15262c5e41ca562"
+    },
+    "chimera_random_bridge_20261107/run_1/LAUNCH.json": {
+      "bytes": 529,
+      "sha256": "153f4590290778a8793d8f0fb6aaad1ab5d2008bbba527f3428a23a74e5eafb8"
+    },
+    "chimera_random_bridge_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 237731,
+      "sha256": "e66f51d75c1019474b0774137462cfd28ec43843fda605ecac8e3bd340fbab00"
+    },
+    "chimera_random_bridge_20261107/run_1/PROCESS.json": {
+      "bytes": 603,
+      "sha256": "a43f76f0c1f9b03fd0743b1f38e7a803bdae7bb6999b6daacb65854d9a613a4d"
+    },
+    "chimera_random_bridge_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1260,
+      "sha256": "384c7659fc9cfaa245440a97fc4faa9a8ec4bb1a87fc08c178e630d62ca9635b"
+    },
+    "chimera_random_bridge_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 10308,
+      "sha256": "6326eaabe45377758e8a927c04548f2a87ab4b84ffb1aec774528fd0c4bf6bd9"
+    },
+    "chimera_random_bridge_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4544000,
+      "sha256": "d454821446645d5dc6e299a38431a8611cc2e3d70b5c658a820e16c3f6959bd4"
+    },
+    "chimera_random_bridge_20261107/run_1/data/before_clefthoof.native_save.json": {
+      "bytes": 56478,
+      "sha256": "53949a675e2deb00265a0de33f2652c30a0fd9d0ce4136c4a01416a1b1e3b104"
+    },
+    "chimera_random_bridge_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 29609,
+      "sha256": "58cb5abc45e241a16be6809ba78eb5f2257d0919e392df62e1176686433e4c2d"
+    },
+    "chimera_random_bridge_20261107/run_1/data/report.json": {
+      "bytes": 2622476,
+      "sha256": "32ae7ad6d93f62760d5119dcd08d96101c860bb2708b3c7cd39eef4f95b03fa0"
+    },
+    "chimera_random_bridge_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 287269,
+      "sha256": "d33e9dddc9f37d2b7c7a9c726455fafcf7f05478710fd84f11091caac92527e3"
+    },
+    "chimera_random_bridge_20261107/run_1/gate_executed.gd": {
+      "bytes": 18110,
+      "sha256": "db7a01bb14116b49e3bc6324ddad826bac877f546b29bd53c187bd7c90331d39"
+    },
+    "chimera_random_bridge_20261107/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "da5263bca8f50d879c5ee9861981d1dc7730a324c435c6fdc54464edb926cefc"
+    },
+    "chimera_random_bridge_20261107/seal.py": {
+      "bytes": 4598,
+      "sha256": "69a57c17e33fb8f0c26ea1fbcd8cc00b3c7bcbdefead81e0617b19a239407d5c"
+    }
+  },
+  "parts": [
+    {
+      "name": "chimera_random_bridge_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "9bf2d6ea336a7399a253aa3556e094540ae01f6a7337652fc24e8f6544186a93"
+    },
+    {
+      "name": "chimera_random_bridge_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "91cdf7c41efe40d1e3487b007c7e93adf2869db20e540770cbc6234ac65282e6"
+    },
+    {
+      "name": "chimera_random_bridge_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "41b637a1c86e06ba61574ff96890536fc22a09b918b2805ab14734a6ce3ba657"
+    },
+    {
+      "name": "chimera_random_bridge_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "4965550b257630c01de13abf3d26721fc0db6e6c9c028080e2431774ee2d890d"
+    },
+    {
+      "name": "chimera_random_bridge_20261107.tar.xz.part004",
+      "bytes": 72328,
+      "sha256": "d89aa766dfa63df91f6ff0fd1afc7b5e2f30fde2847d6772f9d3dcbe7f7751fd"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "chimera_random_bridge_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "CHANGES.json": {
+      "bytes": 382,
+      "sha256": "eaf4f9bab1df3787865007ca98a4da344a04de2513027dc2e2f763c913dea640"
+    }
+  },
+  "depends_on": {
+    "recruit_bridge_commit": "1565ae7402d9f21c411e2400ce3e49cdaa008156",
+    "recruit_bridge_source_map_sha256": "ba5f61b6263fba3ab6303bedbf83640f7b2e33ca4e6b0e21383c13a2f975ef69"
+  },
+  "status": "Incremental reconstruction; preserve recruit bridge and full historical chain; bounded duplicate targeting support",
+  "audit": {
+    "archive_members": 40,
+    "credential_pattern_flags": []
+  }
+}
