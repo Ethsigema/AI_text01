@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "golden_swirler_air",
+      "commit": "9ae2032d3cc240c71ed96058a2a463c1393a1dbc",
+      "repository_path": "battlegrounds-backup/pending/20261107-timewarp-golden-swirler-air",
+      "manifest_sha256": "ac70908c7b1ec0d014e4d280cad98d73e8af900e25767ceebe90f24c72ea1158",
+      "archive": "timewarp_golden_swirler_air_20261107.tar.xz",
+      "archive_sha256": "04bb78cd91c1eacfbbb94939b64350e17d7e84da667d47db410d5d8eadaac486",
+      "archive_bytes": 1287548,
+      "parts_verified": 6,
+      "members_verified": 40,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "tableware": "1f165e821a4251c5e2770fe99c7268f55b757f397ac2134a8a6e3b97e1a4148b",
+    "golden_swirler_air": "045c431ca600e3f0cce20c766d498bdec6ae88f372ea0e23e0a9af8288cd6384"
+  },
+  "tableware_source_byte_equals_golden_swirler_air_base": true,
+  "baseline_files_rehashed": 27652,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "614f5fb5c9df142beb825ccb968fd041893082e2a5701114b7ddd809da8c10be",
+  "change_lists": {
+    "added": [
+      "core/patch_3702_timewarp_swirler_golden_sources.gd",
+      "data/patch_3702_timewarp_swirler_golden_overlay.json",
+      "research/patch_3702_timewarp_swirler_golden/BG34_Giant_686_G.native.xml",
+      "research/patch_3702_timewarp_swirler_golden/evidence.json"
+    ],
+    "modified": [
+      "core/catalog.gd",
+      "core/patch_3702_timewarp_swirler_sources.gd",
+      "core/timewarp_swirler_host.gd"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 4,
+  "modified_files": 3,
+  "removed_files": 0,
+  "restored_files": 27656,
+  "restored_bytes": 1547917931,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_tableware_to_golden_swirler_air_map_continuity": true,
+  "supporting_tableware_chain_receipt_sha256": "988cb51aa7c7c8fe124af9a00a7901e7c350a534b634fb63d44caf5d3c2c3a1f",
+  "historical_baseline_provenance": "The baseline is the verified Electron Tableware Bridge baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Timewarp Golden Swirler Air increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T18:57:26.840670+00:00"
+}
