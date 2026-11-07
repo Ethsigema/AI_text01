@@ -1,0 +1,17 @@
+{
+  "added": [
+    "research/electron_economy_bridge/BG28_500.native.xml",
+    "research/electron_economy_bridge/BG28_800.native.xml",
+    "research/electron_economy_bridge/BG28_805.native.xml",
+    "research/electron_economy_bridge/BG28_827.native.xml",
+    "research/electron_economy_bridge/evidence.json"
+  ],
+  "modified": [
+    "core/patch_3702_timewarp_electron_golden_sources.gd",
+    "core/patch_3702_timewarp_electron_sources.gd",
+    "core/timewarp_electron_host.gd",
+    "data/patch_3702_timewarp_electron_golden_overlay.json",
+    "data/patch_3702_timewarp_electron_overlay.json"
+  ],
+  "removed": []
+}

@@ -1,0 +1,223 @@
+{
+  "archive": "electron_economy_bridge_20261107.tar.xz",
+  "bytes": 1063732,
+  "sha256": "438990b43593dd35722002c075223fe4cf101708a9b7209d09e5b896b8bb182c",
+  "files": {
+    "electron_economy_bridge_20261107/BASE_MAP.json": {
+      "bytes": 4544000,
+      "sha256": "1c1bc2d4916afc3e457ea61faf8ce8592b78653c76a08c756e2e1c9c0b04e9dd"
+    },
+    "electron_economy_bridge_20261107/BINDINGS.log": {
+      "bytes": 111,
+      "sha256": "992f678a1a86ca392cfb75275bc3a357171de38f53e42cce0a83c156dd783c7a"
+    },
+    "electron_economy_bridge_20261107/ECONOMY_NEGATIVE.log": {
+      "bytes": 769,
+      "sha256": "30724188ea979ad290df6f0f692a1027e5228c48580d450d9c71fccfda81b3f9"
+    },
+    "electron_economy_bridge_20261107/EXPECTED_ROWS.json": {
+      "bytes": 21813,
+      "sha256": "b0b138969d2e223b1d8193f306908a3cf6e33c77e130638e8e99258f2bef8471"
+    },
+    "electron_economy_bridge_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_economy_bridge_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5833,
+      "sha256": "7ab7b0c58a3d7481b54b0f17b79325a47b57a0362202d365cde450a72d8b07fb"
+    },
+    "electron_economy_bridge_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 239104,
+      "sha256": "aeb61edf7b1770c3c2f58b02fbe1e9913db650422c5db11f7c404221f4b494a9"
+    },
+    "electron_economy_bridge_20261107/README.md": {
+      "bytes": 2780,
+      "sha256": "0a6875ab5c75897b2c89dc9a63a884c8575de96052d4034040949425659563bb"
+    },
+    "electron_economy_bridge_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "703eea04e159b2f0d41f61c732295ee38045668a381a1d1dcaeee0a288c5f80f"
+    },
+    "electron_economy_bridge_20261107/SOURCE_DELTA.json": {
+      "bytes": 1828,
+      "sha256": "71ceaf61039537433eea7d677115e96bb6909cdbd870df875fba03937fb9ce22"
+    },
+    "electron_economy_bridge_20261107/SOURCE_MAP.json": {
+      "bytes": 4544819,
+      "sha256": "faa285f0648287c779cefa6f185a22f6355eab160db752f05a2d10a7c459d133"
+    },
+    "electron_economy_bridge_20261107/VALIDATION.json": {
+      "bytes": 840,
+      "sha256": "5096448a74bb2ad1a6a15f3d6e38526e8409ad11e3e19e92c4ac8642744a1a39"
+    },
+    "electron_economy_bridge_20261107/build_checkpoint.py": {
+      "bytes": 8619,
+      "sha256": "18c00739ff70b3e8ab997c88e1ac5bbb9198132f546e5d3cb9383386b27e7721"
+    },
+    "electron_economy_bridge_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 32157,
+      "sha256": "d5b92c1ef1910992bd89a768e627442d5239a39d04650bc9b2526e39854e1785"
+    },
+    "electron_economy_bridge_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 30210,
+      "sha256": "307bff03b803e1715508116e1b2cfe4a9a4d4e84b5fa22bdc388405d5a6fb6c0"
+    },
+    "electron_economy_bridge_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 5804,
+      "sha256": "8a77a6835d4e7d2e623090c2833b5080ec0ffd43ad1b41cce8c7a3b5eab56e2f"
+    },
+    "electron_economy_bridge_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 23949,
+      "sha256": "edeef01947a98b3329e69433a3270f1ffc355f3ba8e192f19b3ed3e1def91f17"
+    },
+    "electron_economy_bridge_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 22739,
+      "sha256": "7e3f2134f2ea3a84ffb432397290eb464de97e12bc5e9c80c9fd9c560cfe8712"
+    },
+    "electron_economy_bridge_20261107/delta/research/electron_economy_bridge/BG28_500.native.xml": {
+      "bytes": 1816,
+      "sha256": "0bff6962b3ebc7b151751e0a1b10121928aac735059cdd995010b3deb4db260b"
+    },
+    "electron_economy_bridge_20261107/delta/research/electron_economy_bridge/BG28_800.native.xml": {
+      "bytes": 1932,
+      "sha256": "38428b419469834b14a87754c9bd4c865dab9574632a6881282a13577a760e07"
+    },
+    "electron_economy_bridge_20261107/delta/research/electron_economy_bridge/BG28_805.native.xml": {
+      "bytes": 1984,
+      "sha256": "453558e06dc312e528705315b8852e7dc71e2556d2efd30c5a75306ff35bf8ea"
+    },
+    "electron_economy_bridge_20261107/delta/research/electron_economy_bridge/BG28_827.native.xml": {
+      "bytes": 2218,
+      "sha256": "c4061a857ee9da59d3ded35b437d28adbf1533d139c21853de1ea7bf504a88e5"
+    },
+    "electron_economy_bridge_20261107/delta/research/electron_economy_bridge/evidence.json": {
+      "bytes": 1441,
+      "sha256": "6f774255b8290aa20ad18840a23d41e88acf036a6fb60aaf153de9b957467528"
+    },
+    "electron_economy_bridge_20261107/economy_negative.gd": {
+      "bytes": 1569,
+      "sha256": "6f89172c383da159ff25d26eed3298b0bd4b469f9da88005ffb3e3e858205031"
+    },
+    "electron_economy_bridge_20261107/gate.gd": {
+      "bytes": 18626,
+      "sha256": "b2ba2a2bddd0ae78e007e5586c47f4840def5bc457827bce7dd0488335188acb"
+    },
+    "electron_economy_bridge_20261107/materialize.py": {
+      "bytes": 1682,
+      "sha256": "30813dddce7daec811fbd2f90c524fa0dbd16c9416565f823952b836e8aac267"
+    },
+    "electron_economy_bridge_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1168,
+      "sha256": "60734f21075421b18b80cde9c39448536dddd1cacf0ae65ffe93db66946ecc26"
+    },
+    "electron_economy_bridge_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_economy_bridge_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 21813,
+      "sha256": "b0b138969d2e223b1d8193f306908a3cf6e33c77e130638e8e99258f2bef8471"
+    },
+    "electron_economy_bridge_20261107/run_1/LAUNCH.json": {
+      "bytes": 533,
+      "sha256": "d8df85f5409f98ef09823be83e14fb2765bcb3cfce018cda65818330c1b13643"
+    },
+    "electron_economy_bridge_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 239104,
+      "sha256": "aeb61edf7b1770c3c2f58b02fbe1e9913db650422c5db11f7c404221f4b494a9"
+    },
+    "electron_economy_bridge_20261107/run_1/PROCESS.json": {
+      "bytes": 607,
+      "sha256": "5c338a793e25d47d6ca5ddbfcdecc584c504eb88303dd08cc268a43eed384ae2"
+    },
+    "electron_economy_bridge_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1828,
+      "sha256": "71ceaf61039537433eea7d677115e96bb6909cdbd870df875fba03937fb9ce22"
+    },
+    "electron_economy_bridge_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 11832,
+      "sha256": "c90c6d19728f42bc24aac551ad5f3f714da01e1d8cff5de31767b66948f77b07"
+    },
+    "electron_economy_bridge_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4544819,
+      "sha256": "faa285f0648287c779cefa6f185a22f6355eab160db752f05a2d10a7c459d133"
+    },
+    "electron_economy_bridge_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 34529,
+      "sha256": "eaef91fd4832488ccb0d754c2de18bf6514b173d3cfb1b5799d90d58d5623ed0"
+    },
+    "electron_economy_bridge_20261107/run_1/data/prefix_progress1.native_save.json": {
+      "bytes": 47919,
+      "sha256": "a7a64a3da2df2e88c970a425bd10e6d5ad133cbf6e995a862ac21b9ef52ac00e"
+    },
+    "electron_economy_bridge_20261107/run_1/data/report.json": {
+      "bytes": 2110802,
+      "sha256": "5702698a9346f266fef309e09128dff1945967dc4975798383a406b9dad37df1"
+    },
+    "electron_economy_bridge_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 86930,
+      "sha256": "aac6daf419da948636fec84c174ffb42604c36e97969c34912a750202d1ba613"
+    },
+    "electron_economy_bridge_20261107/run_1/gate_executed.gd": {
+      "bytes": 18626,
+      "sha256": "b2ba2a2bddd0ae78e007e5586c47f4840def5bc457827bce7dd0488335188acb"
+    },
+    "electron_economy_bridge_20261107/run_1/native.log": {
+      "bytes": 492,
+      "sha256": "10cd4eb2ecce344ee9ff9ab97a888e54d548ca4e4fecf64bb19e2b6908583c9e"
+    },
+    "electron_economy_bridge_20261107/seal.py": {
+      "bytes": 4532,
+      "sha256": "89c9fad48c58f75b99b05797fae1344895019c6f28cc8c73ca4c1e6fb55d2119"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_economy_bridge_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "f08f163c9ea768ee8ff16657c66875dfb1195d30567680019d7d0a6a3ef490e7"
+    },
+    {
+      "name": "electron_economy_bridge_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "1fce95d98e813ea8d5c9f07220d713d1d2febb61766523e767f386a2e810a821"
+    },
+    {
+      "name": "electron_economy_bridge_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "b23e3b246d204b4dc8afa1780e0d80a02a69c34ea671d52a62f5f1e721194983"
+    },
+    {
+      "name": "electron_economy_bridge_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "48e65a99da9d566ca10559eb8c07a5fe79ac6c72185fb5fafb1f08aa16d7ff28"
+    },
+    {
+      "name": "electron_economy_bridge_20261107.tar.xz.part004",
+      "bytes": 63732,
+      "sha256": "6590d76df70fcf4a76ee139cf062905eb40fc6e655e6b091f45d300da4403ca4"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_economy_bridge_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "CHANGES.json": {
+      "bytes": 615,
+      "sha256": "86d2a78c7f4d4875d16696b8a29cef5abbb2f4b128999ea0a33a5433ab156d1b"
+    }
+  },
+  "depends_on": {
+    "all_bridge_commit": "6f2c7ae1d939a4dfd1c98449019ea377bd80de8b",
+    "all_bridge_source_map_sha256": "1c1bc2d4916afc3e457ea61faf8ce8592b78653c76a08c756e2e1c9c0b04e9dd"
+  },
+  "status": "Incremental economy spell bridge; preserve complete dependency chain; bounded tests only",
+  "audit": {
+    "archive_members": 42,
+    "credential_pattern_flags": []
+  }
+}
