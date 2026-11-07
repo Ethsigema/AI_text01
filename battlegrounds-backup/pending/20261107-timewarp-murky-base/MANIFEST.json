@@ -1,0 +1,526 @@
+{
+  "archive": "timewarp_murky_base_20261107.tar.xz",
+  "bytes": 2825608,
+  "sha256": "4227d199db7f7e92edf24fe1a12f630fb2cde86378bf21d72f06e8e3a9802a85",
+  "files": {
+    "timewarp_murky_base_20261107/BASE_MAP.json": {
+      "bytes": 4556499,
+      "sha256": "bc2a6ee18a9d14875b104dbb990544cf1299ea93c03885da66fec8cea5c09246"
+    },
+    "timewarp_murky_base_20261107/EXPECTED_ROWS.json": {
+      "bytes": 20043,
+      "sha256": "240786084bc423641616388a448876253e2d910d8207b4d93afa4eb1202e292b"
+    },
+    "timewarp_murky_base_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_murky_base_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 16645,
+      "sha256": "cf28f0cf87c1e3242475d3460ab1dff8ab5e06d46c765045c1247d087459c332"
+    },
+    "timewarp_murky_base_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 255622,
+      "sha256": "884105c451d40dbdeb58aa991856fc0b9cd97e7dd64d5c433a73ee9ef1e15a14"
+    },
+    "timewarp_murky_base_20261107/README.md": {
+      "bytes": 1863,
+      "sha256": "6eb7ad236d44fc0ad2ed600f5df9f6e5650ac11f79fdb28b4f1e0500ec39ee57"
+    },
+    "timewarp_murky_base_20261107/SECRET_SCAN.json": {
+      "bytes": 147,
+      "sha256": "513f4b3d7f108fcd0031b30c9add644d8fbe7aaf4375718d37e792134b8edf92"
+    },
+    "timewarp_murky_base_20261107/SOURCE_DELTA.json": {
+      "bytes": 12932,
+      "sha256": "612d86f52b0eeabb61e72fc504a06deaeb7e08279aa19732aedfd821dd68b119"
+    },
+    "timewarp_murky_base_20261107/SOURCE_MAP.json": {
+      "bytes": 4557959,
+      "sha256": "2a72dcaf1d6166065182f3c40c2aadb115cd50b427a7687a667521719febd443"
+    },
+    "timewarp_murky_base_20261107/VALIDATION.json": {
+      "bytes": 874,
+      "sha256": "94b7fa1c1af86f805e0d35d52bc5a3e186d080b19aa494404a77056f9e60a5fb"
+    },
+    "timewarp_murky_base_20261107/build.py": {
+      "bytes": 7626,
+      "sha256": "d9feddf4e2a8afff5dc9e480bcd2d5676001d945d3ce93b380e34c12c5112f73"
+    },
+    "timewarp_murky_base_20261107/build_gate.py": {
+      "bytes": 5300,
+      "sha256": "3f33d9974d83a381694461d2e631b958b8cfdb43cee4de08e9066cc7b4fe7e43"
+    },
+    "timewarp_murky_base_20261107/delta/core/catalog.gd": {
+      "bytes": 1838958,
+      "sha256": "ad5ba1ee9eb4b984f8beb7b1d8e50f2c38bd274be49ba2c874897569fefbad42"
+    },
+    "timewarp_murky_base_20261107/delta/core/combat.gd": {
+      "bytes": 576237,
+      "sha256": "54213ec87af7d0f9512feca81e9acd8996b0c6b826ac3aecf43e728b2511bec4"
+    },
+    "timewarp_murky_base_20261107/delta/core/game.gd": {
+      "bytes": 1326794,
+      "sha256": "e35d953e5ebf72409538593d1048b13044ad5674d9b16ba4fb899fbde9d94deb"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_air_baller_golden_sources.gd": {
+      "bytes": 23207,
+      "sha256": "a177401323eae1bf65aa9dda48bcaef88adad7c646d5f5dfff596025826f3b51"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_air_baller_sources.gd": {
+      "bytes": 22610,
+      "sha256": "957f64a94228d0d225176d52a84a658c288538a72b57378292da9291ef737612"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "064d2f86877a3700a3bb6b3e670bb95482c6089c88edd1b432eec622bdc64dee"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "ee21bbc43a74038832702da871fce20c027e636408e050a61cff89072e69fc9d"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "f009663a30c96c58e9623e44891ba8d4c30542beae2d8f85860f902b4cec4abe"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "405b08ace86d0af0fe56ef1d607d85ec49ade6184d8aa911d0266f30a9d6cddb"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_fire_baller_golden_sources.gd": {
+      "bytes": 26786,
+      "sha256": "505140122e1203513b5db459efd9982cc3bb2a2b3dad92e33b1a8fef68da998e"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_fire_baller_sources.gd": {
+      "bytes": 26227,
+      "sha256": "b6b95199123ab5ab40d00509d4ed01deaf4ba29092e509ab6b32ba07cb585083"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "e4ce875c746079e62fb67026e45aa4341fab24461f57f637cd49a9822ce2061a"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "f438176de311318d5a6537d2324c7a7a00a33fc93cd4b6e101a219d79f37d328"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "1655999b30fc75ec8de5637918222cd4dbdc84cfd21ddef86441bbd274f94a6b"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "9174b87694d490788d5b576b992960c5c59dedac3f48cbae804adfd980359c48"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 24230,
+      "sha256": "6b34d4286814d5928325b1e3f70e27a2bde6ec3669d4dbf0fe891b8c57106f77"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23667,
+      "sha256": "d68fdd4e8b17bd99afb4a62a13e06aaadedd7c651fa0eb85a45c1c36a349e35d"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "d9949671d4c4b4f8762a3d109c825adf18d25fb506ef33141095aeee11c9be35"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "966019ee4c54c1dea3de46cb1ff74862be3e020b2c06a8e0c4121355e4382e2a"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "5bbf476f1dc3634f5a88454dd6975ff17002a5e46e8428665a6672e83048d514"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "decc93e0c0e7ffafe99ae7b2f96f7f3c65c75b9888def16d9acfbc370f3d89e2"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "2a5ee37ddf03a17453d33c05a4a170c40fbbdb1ef4e68f6014603a37b552b989"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "af062406b2f1dec2239c79a4610425ff282ac2f11b0e5ab11596df4de46c5290"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "d2b48dd152710de47cb43240ab205d5bc9ed0c1d9b2dce10422526b0408ce0d7"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "011479ae91308ff215038c5d4ca8b7f8c61add851b2709284b30d13ad989735b"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "b3273c6fa715ece6bfa0575d4cd720e1bab15f74d2a0a7544445b7e1e7120bd6"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "18a14e3e3ff7147fe46714b9625ab6624db52e11daec64ce4b3e9dc9a5357056"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "cffdb3904e0023ed8d148a218ad4ace618872355ba3682bfd8b5e511a8f5fbb4"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "c2729a6e8b23240de296d0597694b49d05e1107f24c3bbe07c5ed84e70221cbe"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "9817277304a7db160651207740e80d3a6c1eec883b7c1a74e010c8c974ef1031"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "1176b787750184b8444f0aee334ebc4ec0d90a16c6171f6f5bda36627d0c37bc"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "7a81e172bb4e95b49aa0192dbeebb24dcfef5d9c52c039c1bb4fee525681d9cb"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "01da982f6f37e2be939d4b1bf0bd11aae1e4750f4161783a0642e8d59ae42fb4"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "610da709b3c17b804256e23809469350f053513549226cddf25c7bff5934869d"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "36d62d22d1d0269700299e59f246e43c19c9e3b8e8b1284a30074cf7d576deb9"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "a5dfa523ae25e845bb15af8cfe7a8157879e33f0242d1c63a3f4e927a50efcca"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "cbb64daf5c46a147dd2c0e6ec3f7238298520cbafbfde5f6c92b29717d631353"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "14a03a221bc332fddd16491730599df4d229a265ef285066c0e3f854c4eae776"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "69dab3696612c606d09149213e5269fccada27eb3b7b0c3a309ea55e2bd4d650"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "9b94554576f1afa79500ccb1fb6b9ec374338b9f39b132bb70c7ccaab996c6e5"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_snow_baller_golden_sources.gd": {
+      "bytes": 26678,
+      "sha256": "daac7db8afc47ec95b00c023b9d3f0152804308e4dbb02aa3044736d478ab870"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_snow_baller_sources.gd": {
+      "bytes": 26119,
+      "sha256": "00f3feb3fb9b99b64d85a010e3a675609d2f50c532cc0146127f2a4bbbc5241e"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "62950c48190a89ec20000389d4a265e6e4e6039df801da9f3864327c19ef90de"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_temperature_shift_sources.gd": {
+      "bytes": 24051,
+      "sha256": "f4c0446795fe7253e632651cca6722dafea26a2b7c8ddf10d316faf281b9ed0f"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "c3319e448fae268fdf950d5ffb35f1627f57d623b8794bcdf0e3b7b4e7d7a74a"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "367ac58c3bef5a2c2e5ea39634a1cb4cebf2e53097a660915145be6d046da321"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "4bc6444c087d7ab3bbeb1d81fa552e94e2d0c5b9c606ccf35b444a6305d1935f"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "a28e405f31c27eaf3252f77af1cb9757f9076be652a82d8fc932c6a7e49df0e2"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "45d017eaad8ebcae3fe8d2bccf2bf76dc7fd994fb1e9f154aac4bd02b7481315"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "2994f22a689c8e6d075409d837bc49ab3ed37a1fdb3caac51a6375f62ca79ff4"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "167a9529f8fd8593a4dcbb0b52db7dcb43ab8318b1eb993e120f7ddc5e61dd08"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "85d268722331998c0e77bc3ccfe26726544ea540b9fb2738a8e74d759d320571"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "3744dda8c8c4bc7e32980554ddc5939b3650eca3790f7e0e624c6c3287203444"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 34980,
+      "sha256": "76d1fa9e16dad08eca88d7fe1ae222fa7cf67342546a20de4e7aa2988afdffa5"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 33033,
+      "sha256": "23c5c62ef8afeac917bf1e438bf600877b5974e3b6346fd6e68471686882dbe1"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_murky_golden_sources.gd": {
+      "bytes": 28518,
+      "sha256": "de72335e256712a435af8a7c0320bebdcdb3290784930b673412bdc2e94572d3"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_murky_sources.gd": {
+      "bytes": 28241,
+      "sha256": "0739dd1f2293c60ff7eece7dd23bc139182a8cb4bedcbd433c4793ccc5892b62"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "4098ae9a0cf135bca4cc42ef61cb976ff2863c88b3580164e87c3047c4c7e4e2"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "8927c6d37580c14589b4401c2686262f572aa09169b6d5fb8381d22758e9444a"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_painter_golden_sources.gd": {
+      "bytes": 28712,
+      "sha256": "54e2b9758c716149591d6fe7c9bd54868a3e935a05a39dca953f270fbfc7e7b3"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_painter_sources.gd": {
+      "bytes": 28457,
+      "sha256": "cf1793f34a35010d46b66e6e197f3831267a735ae4a3794eec88ec9d06e6b77a"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "0f3993aabfaa70524095a25b159580d4f3414a3cecec0de33132bcdc6ba92eda"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "aefa1bde98b965207d410395487962bfa0d16192c6e0406a64fc6b5f82cb86a4"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "560bf124926da7a19741b8cba2e143a982eb541783fd7aa9b528b33f1fafb0c0"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "141e9f760575f0abbab5509eb851125bae96646aaa2914a12ee5d60ab401d517"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "037f8c37b78f762caf4d5cdcb78c47167b2a6f6f1a6936ff1dd937730c616aea"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "e121054e66f2c68a5814509bfe1331f7986aa3182070190f576f72f6cfeae536"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "4040ef820c43928de4da30c9286885ecbf4bbf0e363ac03470eb036af1c9a743"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "dc064c6906ae20358b320e05b11e8c695d87653b54d75c61a1bcb92938b65698"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "aa3c7a6033e69b03d4ae4070975e8c00bc5cf051243fbbc3de4908ca32525692"
+    },
+    "timewarp_murky_base_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "cb739825fc360472d3deb9113456246b5a6ec0ee534c1607c11dca835c404da3"
+    },
+    "timewarp_murky_base_20261107/delta/core/timewarp_murky_host.gd": {
+      "bytes": 2904,
+      "sha256": "6fa564f658f5623888a7328fbbba5977d6d2a2ea03c403991a2ae60b241e7fb7"
+    },
+    "timewarp_murky_base_20261107/delta/data/patch_3702_timewarp_murky_golden_overlay.json": {
+      "bytes": 22640,
+      "sha256": "fa5f10610b979ed8a00aa7a4515968da0d459b0e4638d36f03f42f25811223ff"
+    },
+    "timewarp_murky_base_20261107/delta/data/patch_3702_timewarp_murky_overlay.json": {
+      "bytes": 22546,
+      "sha256": "8aef102e85feb285aa3e7dab8418dd28820378133091c8232e020220dc0f0586"
+    },
+    "timewarp_murky_base_20261107/delta/research/patch_3702_timewarp_murky/BG34_Giant_206.native.xml": {
+      "bytes": 4505,
+      "sha256": "f6f2ae401dcede7e438b7cf7d4ca06be02ffe6b9652e98c29db8a35ed50cd207"
+    },
+    "timewarp_murky_base_20261107/delta/research/patch_3702_timewarp_murky/evidence.json": {
+      "bytes": 439,
+      "sha256": "694e29b4fdff0d422c8ef94a542572c43804317069368ca38d5249da89e0db95"
+    },
+    "timewarp_murky_base_20261107/delta/research/patch_3702_timewarp_murky_golden/BG34_Giant_206_G.native.xml": {
+      "bytes": 4493,
+      "sha256": "14215337b4cd3c299d9c01bd222eaba8afba75669bc90264ba207fcedc73f19e"
+    },
+    "timewarp_murky_base_20261107/delta/research/patch_3702_timewarp_murky_golden/evidence.json": {
+      "bytes": 441,
+      "sha256": "19ae41add49ada6e3da47d9c7d4c96a4df205d0c9898c43cb6e9ed8a36ffa993"
+    },
+    "timewarp_murky_base_20261107/gate.gd": {
+      "bytes": 18234,
+      "sha256": "fd33026fbfd17cef429435ead0b9ec851d045364dd7929312bd50c24d3a370e0"
+    },
+    "timewarp_murky_base_20261107/host.gd": {
+      "bytes": 2904,
+      "sha256": "6fa564f658f5623888a7328fbbba5977d6d2a2ea03c403991a2ae60b241e7fb7"
+    },
+    "timewarp_murky_base_20261107/materialize.py": {
+      "bytes": 1676,
+      "sha256": "e47776fd000cc78c8fd41cc4040c522c332eff303141a81f8c7b385dee4fcdc4"
+    },
+    "timewarp_murky_base_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1171,
+      "sha256": "9db12e8bb5dbca4b11761d40335f78773c6451252c3d65c083ecc0794cd090ca"
+    },
+    "timewarp_murky_base_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_murky_base_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 20043,
+      "sha256": "240786084bc423641616388a448876253e2d910d8207b4d93afa4eb1202e292b"
+    },
+    "timewarp_murky_base_20261107/run_1/LAUNCH.json": {
+      "bytes": 525,
+      "sha256": "cf9f8a078dc26b867d831bfe998aeaeeba01b8536c17ef4b7ea28a033431a292"
+    },
+    "timewarp_murky_base_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 255622,
+      "sha256": "884105c451d40dbdeb58aa991856fc0b9cd97e7dd64d5c433a73ee9ef1e15a14"
+    },
+    "timewarp_murky_base_20261107/run_1/PROCESS.json": {
+      "bytes": 598,
+      "sha256": "a863135440f70587587e2e675e8b5f3c2d9868ae42b8ad0b16bce49552eff994"
+    },
+    "timewarp_murky_base_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 12932,
+      "sha256": "612d86f52b0eeabb61e72fc504a06deaeb7e08279aa19732aedfd821dd68b119"
+    },
+    "timewarp_murky_base_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 404588,
+      "sha256": "0a2299a41f6541906911b3930e114ccb3f5535c1f76ea83119934a73540d42f2"
+    },
+    "timewarp_murky_base_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4557959,
+      "sha256": "2a72dcaf1d6166065182f3c40c2aadb115cd50b427a7687a667521719febd443"
+    },
+    "timewarp_murky_base_20261107/run_1/data/before_end_turn.native_save.json": {
+      "bytes": 45387,
+      "sha256": "0df7393ef143445d463507f5892545d81dc9455622e25d8890714bad6e09fdec"
+    },
+    "timewarp_murky_base_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 29291,
+      "sha256": "97bc08574d0f0b5f4ca7baa1b7f1ae68fad5a48d3afc036f10e71561537e6006"
+    },
+    "timewarp_murky_base_20261107/run_1/data/report.json": {
+      "bytes": 1249677,
+      "sha256": "fd5a68af00065c2cbe8db6ccc5b8dbd71e3ff48d5017955807d3011ebf82c7f8"
+    },
+    "timewarp_murky_base_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 77264,
+      "sha256": "e5dff5528c2e2aed3fa1faa419db3759523b2f2082fa0ebe57d26726fc786273"
+    },
+    "timewarp_murky_base_20261107/run_1/gate_executed.gd": {
+      "bytes": 18234,
+      "sha256": "fd33026fbfd17cef429435ead0b9ec851d045364dd7929312bd50c24d3a370e0"
+    },
+    "timewarp_murky_base_20261107/run_1/native.log": {
+      "bytes": 368,
+      "sha256": "4b0b1ced2780013294179c53ca620e4f2d9d0067d18e583bd7b40e58d652fb97"
+    },
+    "timewarp_murky_base_20261107/seal.py": {
+      "bytes": 4422,
+      "sha256": "3e55897ffa459557f6e262cdb402f582747fbd8866102860ee23972c6c61f18f"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_murky_base_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "0fa555a54275c2d42655e4ca114bb17fb1963463d7ec0eb535b8bcbb8309e61e"
+    },
+    {
+      "name": "timewarp_murky_base_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "0d41678ed315360582430c4265441296460be23d435d64d466efb05955479595"
+    },
+    {
+      "name": "timewarp_murky_base_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "e7866a04ed70e784a33c3af0eb78ed59811977a245e78e06483af5d6e65536f3"
+    },
+    {
+      "name": "timewarp_murky_base_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "9b13dc65d86150537821bfc19f921a4f68c43d62cd7558ae4a85d416d77c792e"
+    },
+    {
+      "name": "timewarp_murky_base_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "e21a31605d7972e9322177a45af48f906b67554d81adb51bd2c0960aa506712f"
+    },
+    {
+      "name": "timewarp_murky_base_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "2bcf339ec1505908b8f99c486aca7847008271a6c1da3636cf33e76a29dbf165"
+    },
+    {
+      "name": "timewarp_murky_base_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "12130793d670a8c30e3319ed31f10596d208c91c7c6f19780f80238addb4cea4"
+    },
+    {
+      "name": "timewarp_murky_base_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "d6ae3c472c2e55ea4ec1e12597685a1ef52da5b8c03b6c0708815e76419fe516"
+    },
+    {
+      "name": "timewarp_murky_base_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "379acae0c354ed8f10b7e96e354eb1e0d796b1504072803deda5a9ae549a443f"
+    },
+    {
+      "name": "timewarp_murky_base_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "98c5f1776dfaab5d127f698eb72ae91173935b77d1f7974a37f03dfb29cf19d0"
+    },
+    {
+      "name": "timewarp_murky_base_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "2e9ecf576c1f222ecbcb36796c856fdbaa595682792c97ab261f8826ead45e6f"
+    },
+    {
+      "name": "timewarp_murky_base_20261107.tar.xz.part011",
+      "bytes": 75608,
+      "sha256": "9b5f5a231bd33283d1f492571c735f205feac6f3919172c32612c584656de174"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "timewarp_murky_base_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 3969,
+      "sha256": "3185dfd0f7f8c3c3ee4192e7896dd86e2b7e38122112edbfc0f86d2eaa605928"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "painter_commit": "6ec4a6a25f8549a78277cc49e62181908fae8207",
+    "painter_source_map_sha256": "bc2a6ee18a9d14875b104dbb990544cf1299ea93c03885da66fec8cea5c09246"
+  },
+  "status": "Partial Timewarped Murky zero-Battlecry end-turn base only; growth and golden gameplay unfinished; source recovery only",
+  "audit": {
+    "archive_members": 109,
+    "credential_pattern_flags": []
+  }
+}
