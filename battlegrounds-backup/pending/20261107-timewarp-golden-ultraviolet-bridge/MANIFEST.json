@@ -1,0 +1,183 @@
+{
+  "archive": "timewarp_golden_ultraviolet_bridge_20261107.tar.xz",
+  "bytes": 1059228,
+  "sha256": "66714f169d488e8400132bfe692c38e5676573903e04057cbe9eca9ef66aeedc",
+  "files": {
+    "timewarp_golden_ultraviolet_bridge_20261107/BASE_MAP.json": {
+      "bytes": 4567049,
+      "sha256": "5c30800c28a7f49dab7a5d2a48e2836451db05827ddde077a9b206654f8852ee"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/EXPECTED_ROWS.json": {
+      "bytes": 126,
+      "sha256": "ca46141d6083330d6d3a0def2d098c62079fa9072b4d649839aeeaf471b6a202"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 4235,
+      "sha256": "3208a236388eedcfdc50d24a146b5a894ea6b2786f4590b47b5d4021d52a240f"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 267402,
+      "sha256": "5bb1e58ebe43a07449d774135619ac32d047e67cbc0fe57e2dc8c64ef3e6b5bf"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/README.md": {
+      "bytes": 2442,
+      "sha256": "22d0c8287f516fc5c41d4ca87b7482b4c92f69281a45fabea5af431929631a23"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "1281ef4ac6bd24e81e3e10feb53a9dfd5cf73ec566dc29030f8b1ef4303fb609"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/SOURCE_DELTA.json": {
+      "bytes": 640,
+      "sha256": "e7af17b46427aaf2916a63fdd477cec8e7cf21ef6cff26167025b9225564cc2c"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/SOURCE_MAP.json": {
+      "bytes": 4567049,
+      "sha256": "ad387f3dd43e4f2239efa641f9eb4168de901331342741a36ffe85cf924aef6d"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/VALIDATION.json": {
+      "bytes": 1279,
+      "sha256": "3025a5612bffe874434abee29686a35e0be0f48660ae2e6c1c7d7d4cdbf0d566"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/build.py": {
+      "bytes": 4517,
+      "sha256": "e8917024adc877ecbe439c2e8d465acffa2d735441366abda591063395cee1d8"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/delta/core/patch_3702_timewarp_swirler_golden_sources.gd": {
+      "bytes": 27292,
+      "sha256": "c80a66778caab971b4ffed38324eebbfc6e9a18987bf0c34ba4c490013b50b65"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/delta/core/patch_3702_timewarp_swirler_sources.gd": {
+      "bytes": 27441,
+      "sha256": "edd5bd7d422ad78e2cd3ced58fcf44a364de8147e3739540c0adc90358eeed6b"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/delta/core/timewarp_swirler_host.gd": {
+      "bytes": 11013,
+      "sha256": "311e3260b1c8e10f76df61134f92d069cd1b52f14e429b508f97060930428bca"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/gate.gd": {
+      "bytes": 17736,
+      "sha256": "7994ec9e91ebe4a17892d307bfad46ed4cff7a9be0e260476c25975fd925f148"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/materialize.py": {
+      "bytes": 1677,
+      "sha256": "9bd55051ebbddba1bef250e91082302794ee0f6314c6083363caea035b7d6b1c"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1172,
+      "sha256": "664b1ec0a87ce9402009999ecc0104e792ced4d5f52bb068594d154e0e1629cf"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 126,
+      "sha256": "ca46141d6083330d6d3a0def2d098c62079fa9072b4d649839aeeaf471b6a202"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/LAUNCH.json": {
+      "bytes": 555,
+      "sha256": "ec30b1db5fc9f32955356ef1732079be520d9a7bccec83032680e9b59610536f"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 267402,
+      "sha256": "5bb1e58ebe43a07449d774135619ac32d047e67cbc0fe57e2dc8c64ef3e6b5bf"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/PROCESS.json": {
+      "bytes": 629,
+      "sha256": "5d30ba3f43f81286d77868e96992587e9141837718d3d52b524c7f4061a4d7f8"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 629,
+      "sha256": "04ab59b9bb6a7addd5b42a0c6c9a19ad7de173cf4de221f078e9023a71ddd467"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 7648,
+      "sha256": "f864aafafa963b7487730c8a626fb0c29c868f9b481b982d12189406e1c63426"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4567049,
+      "sha256": "ad387f3dd43e4f2239efa641f9eb4168de901331342741a36ffe85cf924aef6d"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/data/before_combat.native_save.json": {
+      "bytes": 56465,
+      "sha256": "8b1ea6e79986848856734eaca3ac31b5477bea5721df68a959a95b2b2e917ee2"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 26804,
+      "sha256": "d8f00ea691ab0de4a2ba6913b1ac6148c28e62afcbf67fc70470a772e27b3af7"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/data/report.json": {
+      "bytes": 1385376,
+      "sha256": "1a804b284675e4216a7ab04c9125d4316014bbeee9cb3031768fcba7de8c634a"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 80927,
+      "sha256": "76c0eca2bca9ecd807316be48c5ec472cc71cd934a9a0a70c4a801cb5b1c9d67"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/gate_executed.gd": {
+      "bytes": 17736,
+      "sha256": "7994ec9e91ebe4a17892d307bfad46ed4cff7a9be0e260476c25975fd925f148"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/run_1/native.log": {
+      "bytes": 413,
+      "sha256": "837d4ccc7e812fa5c16d209f039f237db18b4cf2018fbe714a47056a07c0a6b4"
+    },
+    "timewarp_golden_ultraviolet_bridge_20261107/seal.py": {
+      "bytes": 4347,
+      "sha256": "c4b5d272a7087209e6dbab38410c44faa8cb92575d2bcc8f6f75d777a0aac18d"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_golden_ultraviolet_bridge_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "f075200045f3779fd2aca34742fcaebd1ff140d49d3159c4c0bc32f489871467"
+    },
+    {
+      "name": "timewarp_golden_ultraviolet_bridge_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "c37ebd8da8b30d6a9e231dfc0d65c54830c125e1baefe7ad3675912d8ab30adb"
+    },
+    {
+      "name": "timewarp_golden_ultraviolet_bridge_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "ea1eadcdc27965fdf7bac002936fe0f6347840d1e9e7a0ef1c9b37c9255f50d4"
+    },
+    {
+      "name": "timewarp_golden_ultraviolet_bridge_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "b36a4e79c129977be9ce2ec9d09dd7e2389ace9aefe3d7fd850208fb5e7212d7"
+    },
+    {
+      "name": "timewarp_golden_ultraviolet_bridge_20261107.tar.xz.part004",
+      "bytes": 59228,
+      "sha256": "47a72e6bf60600664069bb48f75a93245a5b39fbfa0f425d620dad664f6b86f7"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "timewarp_golden_ultraviolet_bridge_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 201,
+      "sha256": "7deedfdbe82aabed82d637f10d736d3511f6b11b601c650a28ebb7edfc6e369f"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "combat_spells_commit": "094957ee47f52dfee428f5424d67aa3cc4220e83",
+    "combat_spells_source_map_sha256": "5c30800c28a7f49dab7a5d2a48e2836451db05827ddde077a9b206654f8852ee"
+  },
+  "status": "Golden Ultraviolet Swirler combat bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 32,
+    "credential_pattern_flags": []
+  }
+}
