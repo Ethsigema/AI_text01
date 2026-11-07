@@ -1,0 +1,65 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "targeted",
+      "commit": "fdf33eaeff8336ee4f25d48d901ec27f90cd1344",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-targeted-bridge",
+      "manifest_sha256": "2575077aeb3c525e0feb254dc953c40afbf51672879499e9ed84ce5d2782917b",
+      "archive": "electron_targeted_bridge_20261107.tar.xz",
+      "archive_sha256": "c3004f169e1ef8027c2d755545556badbc3bbf58e75f524d979c0780f3fb256f",
+      "archive_bytes": 1067748,
+      "parts_verified": 5,
+      "members_verified": 51,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "economy": "faa285f0648287c779cefa6f185a22f6355eab160db752f05a2d10a7c459d133",
+    "targeted": "787d2084673b022681214fcf1a6764c5f0fb3fdd67235c2360e583be10bb814d"
+  },
+  "economy_source_byte_equals_targeted_base": true,
+  "baseline_files_rehashed": 27531,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "4388e4a6d2fec76e92720b5a4696a6f85204876b1091841bb5b2cda4afe20c69",
+  "change_lists": {
+    "added": [
+      "research/electron_targeted_bridge/BG28_503.native.xml",
+      "research/electron_targeted_bridge/BG28_507.native.xml",
+      "research/electron_targeted_bridge/BG28_520.native.xml",
+      "research/electron_targeted_bridge/BG28_825.native.xml",
+      "research/electron_targeted_bridge/BG28_838.native.xml",
+      "research/electron_targeted_bridge/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 11,
+  "new_files": 6,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27537,
+  "restored_bytes": 1546561686,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_economy_chain_receipt_sha256": "0e80e29ef085849ab9956960e83ad905780f8f4b721cc5953638a6e4313b07fc",
+  "historical_baseline_provenance": "The baseline is the verified Electron economy bridge restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron targeted bridge increment and rehashes every supplied baseline file.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T11:22:43.285731+00:00"
+}
