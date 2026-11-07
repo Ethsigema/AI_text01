@@ -1,0 +1,203 @@
+{
+  "archive": "electron_deathrattle_discover_20261107.tar.xz",
+  "bytes": 1074796,
+  "sha256": "7f9f4353665bd1b3aa09f5dd6acd5808f09e77cf32f7b52487b954ef800f7a3a",
+  "files": {
+    "electron_deathrattle_discover_20261107/BASE_MAP.json": {
+      "bytes": 4571900,
+      "sha256": "91aa9cd267720819bbd5f1a82e5b95921b4fc34fac5b5cec8affd7b29d523982"
+    },
+    "electron_deathrattle_discover_20261107/EXPECTED_ROWS.json": {
+      "bytes": 26543,
+      "sha256": "7049246139a438084b68032a27420e3a32777af7b2baf8f9cfa5b95e9547730f"
+    },
+    "electron_deathrattle_discover_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_deathrattle_discover_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5061,
+      "sha256": "7f02f6bebbf5b81d79daa532149c63b6362bc4fb2d841cee4647924cc9d06338"
+    },
+    "electron_deathrattle_discover_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 276106,
+      "sha256": "0bc9c799c00c47d1692a3aee6b58d85371fd9fdb55ce2001bfcbb841b73ab494"
+    },
+    "electron_deathrattle_discover_20261107/README.md": {
+      "bytes": 2232,
+      "sha256": "ca18bd0bddd44ea77483e8020f3412eafd5f0264539845436048ccb65cea37cb"
+    },
+    "electron_deathrattle_discover_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_deathrattle_discover_20261107/SOURCE_DELTA.json": {
+      "bytes": 1324,
+      "sha256": "ddeaf9cde68d6eab54f72135cb9bd235080f0d3163ed3437086645ec5d41d5d4"
+    },
+    "electron_deathrattle_discover_20261107/SOURCE_MAP.json": {
+      "bytes": 4572235,
+      "sha256": "64db47233c38a84eae77365374b1f834172c21b5cdafd2ec6c596a38c2cd0a5f"
+    },
+    "electron_deathrattle_discover_20261107/VALIDATION.json": {
+      "bytes": 814,
+      "sha256": "8c7467834dcff2a810eb07a8946b57dcb252f3204fe58099900aca4ebec45dc4"
+    },
+    "electron_deathrattle_discover_20261107/build.py": {
+      "bytes": 3630,
+      "sha256": "0a1268c57a87f03f8f15bf21a8c0af5ba6f9964b97e1c9b745cb63ed258e83c0"
+    },
+    "electron_deathrattle_discover_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 47649,
+      "sha256": "99fe67700ac2fac89ce699e6b227a59e5f9d23f552470a4d6bf21554361902ce"
+    },
+    "electron_deathrattle_discover_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 45702,
+      "sha256": "af438624f36c91b17a4b735655583a5d13ddae0639e3e6570b5b6e38add5362a"
+    },
+    "electron_deathrattle_discover_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 16664,
+      "sha256": "2144c235ddcd88294b2e35adeb1d02bfdc49829fa8a7dd10a53f73838e4f8fb0"
+    },
+    "electron_deathrattle_discover_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 26314,
+      "sha256": "031dd8383cd0d37919468838ab7727235bdd756bf5b75996aefa5eb22a5d03d5"
+    },
+    "electron_deathrattle_discover_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 25104,
+      "sha256": "fe331c0a2a0c0e86b6c3b927bcde1a037c64d1d46e3f789e27be86d5d5ba7578"
+    },
+    "electron_deathrattle_discover_20261107/delta/research/electron_deathrattle_discover/BG28_882.native.xml": {
+      "bytes": 2841,
+      "sha256": "5f9ff445f6d5d1a82a933904b10bd7cdbf382b0abdb230cea6e6aa21e70e62d2"
+    },
+    "electron_deathrattle_discover_20261107/delta/research/electron_deathrattle_discover/evidence.json": {
+      "bytes": 487,
+      "sha256": "207e1118f68c10a1399e3ea8e0eb9fbee03b376f848daf57ce0ada87448922a7"
+    },
+    "electron_deathrattle_discover_20261107/gate.gd": {
+      "bytes": 20026,
+      "sha256": "4586c0a960b0413d1e719459cab9878d43e1d1493a6bef0ef38674fa68a7640d"
+    },
+    "electron_deathrattle_discover_20261107/materialize.py": {
+      "bytes": 1673,
+      "sha256": "404ce710ce15e2e72279230ace2ce38f8c13dd550c205d581fa005fe3d02d484"
+    },
+    "electron_deathrattle_discover_20261107/prepare_gate.py": {
+      "bytes": 2683,
+      "sha256": "113524deac646622232155597085b960def1c42e51d5c5f8bf0a744f6941cdfd"
+    },
+    "electron_deathrattle_discover_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "baf7e2c210526d232443e8cc48a2aa0bf44bfcf0e1f8437ad585ffdf60b899b2"
+    },
+    "electron_deathrattle_discover_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_deathrattle_discover_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 26543,
+      "sha256": "7049246139a438084b68032a27420e3a32777af7b2baf8f9cfa5b95e9547730f"
+    },
+    "electron_deathrattle_discover_20261107/run_1/LAUNCH.json": {
+      "bytes": 545,
+      "sha256": "f04e0aadd8fd5576dcc3513c1fb0ec03802d8ea597246a1aad31c7a60b8af345"
+    },
+    "electron_deathrattle_discover_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 276106,
+      "sha256": "0bc9c799c00c47d1692a3aee6b58d85371fd9fdb55ce2001bfcbb841b73ab494"
+    },
+    "electron_deathrattle_discover_20261107/run_1/PROCESS.json": {
+      "bytes": 619,
+      "sha256": "686da105812479756d4c91dbb34e64e38491f00b4bef8e8fa3a4880f44e411a8"
+    },
+    "electron_deathrattle_discover_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1324,
+      "sha256": "ddeaf9cde68d6eab54f72135cb9bd235080f0d3163ed3437086645ec5d41d5d4"
+    },
+    "electron_deathrattle_discover_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 15484,
+      "sha256": "df6898014204e93bb591f63cae3d04255bec8113573203733a4651a9a713f71a"
+    },
+    "electron_deathrattle_discover_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4572235,
+      "sha256": "64db47233c38a84eae77365374b1f834172c21b5cdafd2ec6c596a38c2cd0a5f"
+    },
+    "electron_deathrattle_discover_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 31108,
+      "sha256": "a47ca6fe9d4bbed980af0881402071ecc0a9c05b983a0b1c2c839aad51af72e9"
+    },
+    "electron_deathrattle_discover_20261107/run_1/data/pending_discover.native_save.json": {
+      "bytes": 60400,
+      "sha256": "c1b1cbb64eccf7413e02f1c6db247b27d14988f74c90e89be911861b0dd9d808"
+    },
+    "electron_deathrattle_discover_20261107/run_1/data/report.json": {
+      "bytes": 1472545,
+      "sha256": "5b1ec023fd7c35bcb71be09f21eb509129cb95845648741143d929c80dea35df"
+    },
+    "electron_deathrattle_discover_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 68724,
+      "sha256": "902063699830f7f641f62a16171164aa088fe9a02ce576da7a0e85a38b2a7adf"
+    },
+    "electron_deathrattle_discover_20261107/run_1/gate_executed.gd": {
+      "bytes": 20026,
+      "sha256": "4586c0a960b0413d1e719459cab9878d43e1d1493a6bef0ef38674fa68a7640d"
+    },
+    "electron_deathrattle_discover_20261107/run_1/native.log": {
+      "bytes": 367,
+      "sha256": "5e4c769b25c1c63c3b7d81ad2fa592bb62e014adebaf2601785a7c09d2d31512"
+    },
+    "electron_deathrattle_discover_20261107/seal.py": {
+      "bytes": 4639,
+      "sha256": "f725b8ff41b608f0821118336b9b9a462780614c5ffa66c859cb814777683718"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_deathrattle_discover_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "029f8d111acca9653512943dd417ac9786e69b77e8016fcf52d0dcc5d1eb77a1"
+    },
+    {
+      "name": "electron_deathrattle_discover_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "0bb308badad2997e6db47cb3dbe61f67763ec3412b317fabbb35e31ec2209e3c"
+    },
+    {
+      "name": "electron_deathrattle_discover_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "7e4fcb5e76426f3102987b2730addd927662c4a7c8fc0b43b2aac7217a6b9b1f"
+    },
+    {
+      "name": "electron_deathrattle_discover_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "97a3477d8a8c32f8e757d7ec49e275dbe4059ad14ee3c6bbffc51598776fbb94"
+    },
+    {
+      "name": "electron_deathrattle_discover_20261107.tar.xz.part004",
+      "bytes": 74796,
+      "sha256": "6472aa8774211c90d8ad71e994080949347b3187c5068516f355144173be8f49"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_deathrattle_discover_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 447,
+      "sha256": "805d2d5d0d0d892676d5e885e6434df2363337cff9d7b4042d61722c798dfb2b"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "recruitment_commit": "b3e251569af5ac4ee31db577318381c9c832f226",
+    "recruitment_source_map_sha256": "91aa9cd267720819bbd5f1a82e5b95921b4fc34fac5b5cec8affd7b29d523982"
+  },
+  "status": "Electron Deathrattle Discover bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
