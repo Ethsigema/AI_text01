@@ -1,0 +1,494 @@
+{
+  "archive": "snow_baller_base_20261107.tar.xz",
+  "bytes": 2802264,
+  "sha256": "5575a1fae249d474e477156c64e95d08df7c0918b249cc45366712dfbd0260de",
+  "files": {
+    "snow_baller_base_20261107/BASE_MAP.json": {
+      "bytes": 4551537,
+      "sha256": "8429c357fe845924347c1293f921c64e7143f4b4209d08dab2d51d7082e32120"
+    },
+    "snow_baller_base_20261107/EXPECTED_ROWS.json": {
+      "bytes": 17747,
+      "sha256": "764701e4cb6de602100fb85b3266f75ad725364bd3868b9e410de277d3000995"
+    },
+    "snow_baller_base_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "snow_baller_base_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 15341,
+      "sha256": "5e458495cb2608f6bad1903b0ad98ff67c32e8113c1f20fad4e777807d33540f"
+    },
+    "snow_baller_base_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 249762,
+      "sha256": "5aed6fbc3a2ab0094d7f6b3c6d50c3515529ec17e9b3398305e22c4c70907cb1"
+    },
+    "snow_baller_base_20261107/README.md": {
+      "bytes": 2318,
+      "sha256": "7f1b23e1ca4b01be9481d79706991be13f0f550ee262fe2f8c401837840fef42"
+    },
+    "snow_baller_base_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "fa18a7c46473649e2c938c570715d03d9926febd33c6418e6075d275ffabd404"
+    },
+    "snow_baller_base_20261107/SOURCE_DELTA.json": {
+      "bytes": 11738,
+      "sha256": "2e7cda9acb149c624ee41ebbb5e5801600f4db9dc628165dd750ab41c88cd7b5"
+    },
+    "snow_baller_base_20261107/SOURCE_MAP.json": {
+      "bytes": 4552958,
+      "sha256": "d3fcbaad4f03524277aaae06d0c53339cff8e4ec1552646bb64eca1dc153a48e"
+    },
+    "snow_baller_base_20261107/VALIDATION.json": {
+      "bytes": 914,
+      "sha256": "d7436418199de8c3332f288d329cd141e7afded9a6525404c1574422ceef6ce8"
+    },
+    "snow_baller_base_20261107/build.py": {
+      "bytes": 7934,
+      "sha256": "380a70628520fc3019ee32f3dd9693fa91c75bb5e10ecb1abdbbfa741ad2c82c"
+    },
+    "snow_baller_base_20261107/delta/core/catalog.gd": {
+      "bytes": 1827761,
+      "sha256": "104d29ef3326f3a793c2954e1b3ece51f65c275e35a6fe598643613e16c6c49d"
+    },
+    "snow_baller_base_20261107/delta/core/combat.gd": {
+      "bytes": 575587,
+      "sha256": "7694041b11fa8db6a6c90fd19a9a428c181840c9b971a2eec64eda543a385f75"
+    },
+    "snow_baller_base_20261107/delta/core/game.gd": {
+      "bytes": 1325190,
+      "sha256": "8f84a053081f3f57da9b87c592d61beabeeb38fee3bff7f0dd7766aa856573f4"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "962d58df523a5f252a3df11e580406e6c22a1b14feaafbe55e36697d4fea0170"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "a06780226ac1d13548862eb6cf501112d594d95013eb3983c4b31c1c93e6062e"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "47fa704035f5e4e33012f2774d56b0cd97ede19ebde2240316e9f9a775a3299e"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "03b1a5df1a6487beb897c1e338fb39d2a8c6d91c3d028976bc0d181953e456b8"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_fire_baller_golden_sources.gd": {
+      "bytes": 26786,
+      "sha256": "f912f5a37e040bc2480be717b600f91dc92fb6a3c02252219330d0e9ccb966e1"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_fire_baller_sources.gd": {
+      "bytes": 26227,
+      "sha256": "05f2fa2b845818d736469b35632333252d32707dc917e75e25a530d90858019d"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "9e6195724548222b768fc5349c98165bd8ecb309ea458038536e0cb4692a05e9"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "b19775f4690afbb42ed60892a65be27d3cfadf572feb97a6661445a4a1d39826"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "7915927d502a1d826c318b9f08109388396edbc3864198c5f79b6ec86c7293ca"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "980ddeffaf9cbb23731b95a471698f17f904451120e57579157ec95d56649104"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 24230,
+      "sha256": "b4a680fb973c18dd877845512ada6e4298313001261992715ea721543c5edeef"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23667,
+      "sha256": "d6e3161b324b01278de6a415f8589e4993e0b886835b0a6d5366646d8bcb5908"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "18fbab3af174fe3e292977fc81462898958a111f4d0f668026a1edcb19dc961a"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "f09684308b4c8b39c3b15e7d387498ca4b5741f60f1f3e15b5568cb4e3ca4ed1"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "d04af3b8a00745cfd22c9a067a47e437aa86832d3ca9024b1b1a5541ee66610e"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "0f3c1c3610d2548e1cfc67e2f118f983291ef7c23e26f80f46d71e04a9a6aa5c"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "fb627638e8ecda1344b904060b778cfed7a3b5788b56f8ada9f931308c49f266"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "21b632a115fba37339addf336784524315466710e117de34182bae7c3bbb10a3"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "af0c0e559b6e2c788d99c221563b0d0eb0aec9f7629355e3d7ab1482491cd758"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "210f1aa3a69fb9a6ee22b6ea04ed30ec52e6b71ba7437e5cc80035c01c2b834e"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "d797bc68eb6098ba1308c7f85571781501fae91fe802270d8f8bee3269455d74"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "fb9e041e924f50bb00f6f9f88934070898b60640b29a05679483af065de16932"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "9e95dcfb03cf68a7b080ad4ce269ca0f4c375628dfaa0b580527086fd766d958"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "590241d1518adc6f201aaaf21c439e5a3f2649ca6309c0664ed7a801b467cf6c"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "f5f22d9a756fa2e6f3191d7c688204edc270f17589c43339e33ac68b153ee38f"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "1840b4b4c0801eb3b30e1f07c41ddaa39eb8240cb2fb1e764f812ecb54ce5729"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "1a2af772969aac5b7d00f24219d12b988bf64e86fc2846808c20d7b60c4478fb"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "c1b2c12b659f3250648fa7afae42d0874a152a29ea5911c054f0396e92ada104"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "5dd858fc6c6a38314a850cca455fce7db13517f7107717f21f9823c42001e3ab"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "9977746844417028bd1e4bb968ff30214f67e91aff721a574209aa540026851a"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "3f6c455fa9f67defd3d79a464b9fd23949419d4ff97a9cf0c7cef1b31a2068b3"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "93a02095af0c77136b1e4ba34aa76d0788712abe800ec823682979e9d2ec15d0"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "006e2638c6f78a51ee8644e6b695dce806e7be96bafffa669ed67175275f452b"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "6071e2b79a871de87009e29cd88c7f1ecb3a477b6565c25bf2eace9ae4d89b74"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "d762712aab99f1bf256dc4845636ebdb44089ce1eaa978a979f06284c70908c5"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_snow_baller_golden_sources.gd": {
+      "bytes": 26678,
+      "sha256": "5576b87660c7f19ef41a1d62cb00cc6027929a97e232d1c3fca15f260f902bd6"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_snow_baller_sources.gd": {
+      "bytes": 26119,
+      "sha256": "f20f84b7ed4d4ba807b871aefb15aa97e14dd7e56aa6fa0e01025cf0735be139"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "55b04fef0d2e16c535247b368fdb2855d51f345b61989a683a34d29889a3b6ac"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "58815b5e53770efe7e719f52b3b165a7246e6deec612816f505aeb82ebd22c65"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "001bdaedb7f65c856e7b7cffcfc4e17aac079fcd19747d994c34150f399005fd"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "38839163d5bc92daad29b225b4b7fd14157eaa6bb2dc58514c46a4c74f96a656"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "a04e8884ea22a3bc74959171074910f18bfb6df8249eb2d5e9de802a604791f8"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "d97b6c1d230f753eb1bff6fbf6092f45ec419f3e9b3c0ee36567080b70a3f595"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "7244fb702d742620b006d8a95353d9d83cb518f720e547f339fb365bac561ed5"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "d761579468be842a7939cb0226d38567f5727502aae9dd9467086c3afa256746"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "ec53d639342491cfd94c41a8c5629b3f8e375363e4769decf49caebc3eed0435"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "b7f9bff0868ce0e1fbfad5aef23825728c5c96f3ff4844b9f849ddd5dce98612"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 34980,
+      "sha256": "4659b4ee5ccb1b7b091e1606f547c13848155820d85a1e6eeb517c4168ebde20"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 33033,
+      "sha256": "4deaa815fff615ec837daab48c8334f5da94b28e223c2b05b86ae9b479217ec5"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "47d3bfba79642e6560ac40a53b79f47319828acf0d22fac3b94d30681396cd50"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "fc45bc8ad53581edaf48b9c41f47f7f991bed5ff67132a3850c485ef38805cc9"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "ea57b4c8fcfffcb2e37ceb63fbd44433748cd09d03c7706f8619580ec593ed9d"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "b8cc73422514668f7c32cb99041020deede338a085cd7f26d9a0585dd51d578b"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "f5b1390b1a82591d0249c6ed6ec4cc3753e07f1d320196d706eb5ae51c1cd286"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "c2442e89f1c598b8c18aad0134f635f8b64f47ad690ac7e951bff6e75aff3fe3"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "5a849192b63af7742a9e2051496ce778769e4c27f4685dfeb3b2873626d310c7"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "6e2aa21d592210bd9be00a4696b5e33288f8fc16ac7b954e8d49481cea68c592"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "c367a4651d52177e4d5395e921fc9f5df94830232e5d83a253c2c57ac6123fa8"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "38b34bccb08fcb6bbb404c87b09dcebc9ee804adc88ffd41d24e60cd1c4494ee"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "7051d30485fe8d347531986c98295d2a66e5ef05689ffaded480fb5d71f05e71"
+    },
+    "snow_baller_base_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "3cae4dbdedcdfb8f1aa453c08db10efd8f001a1137d8d16c0cc1de2736578fe7"
+    },
+    "snow_baller_base_20261107/delta/core/snow_baller_host.gd": {
+      "bytes": 4021,
+      "sha256": "46013fd0013ea98302477d1a32bec1463947bfa0242f75d0963945382319c198"
+    },
+    "snow_baller_base_20261107/delta/data/patch_3702_snow_baller_golden_overlay.json": {
+      "bytes": 19911,
+      "sha256": "e95254d6291f024224a718c07d2b0bbca761b6c99005ff288777a05e2df42d5b"
+    },
+    "snow_baller_base_20261107/delta/data/patch_3702_snow_baller_overlay.json": {
+      "bytes": 19677,
+      "sha256": "5ae3229ccd4ac76a123908c0f6df08f003146b5a0e2ee51e7bbe786e55adc48d"
+    },
+    "snow_baller_base_20261107/delta/research/patch_3702_snow_baller/BG31_818.native.xml": {
+      "bytes": 5182,
+      "sha256": "d0b37cb54659130cbfd5fd7fb9263e9ed24480cbf7e58824ef40e4f360914093"
+    },
+    "snow_baller_base_20261107/delta/research/patch_3702_snow_baller/evidence.json": {
+      "bytes": 415,
+      "sha256": "d799271665200b6fa5704751230f0b502d8d33c7db73d79cf7b9d940759b16bc"
+    },
+    "snow_baller_base_20261107/delta/research/patch_3702_snow_baller_golden/BG31_818_G.native.xml": {
+      "bytes": 5019,
+      "sha256": "657f8cb7fe91dbdb80b1076082f2558c253206fb67131811c1b163ae1e5b8bbd"
+    },
+    "snow_baller_base_20261107/delta/research/patch_3702_snow_baller_golden/evidence.json": {
+      "bytes": 415,
+      "sha256": "ddcb2539022393207debb74e4cb9af23bb29fae40cfad43686b76aa0c22c0d8f"
+    },
+    "snow_baller_base_20261107/gate.gd": {
+      "bytes": 17441,
+      "sha256": "7b1142b086794275920b173121a5820821e89ee3e8a9041a5de9d3a9a1bd8f44"
+    },
+    "snow_baller_base_20261107/host.gd": {
+      "bytes": 4021,
+      "sha256": "46013fd0013ea98302477d1a32bec1463947bfa0242f75d0963945382319c198"
+    },
+    "snow_baller_base_20261107/materialize.py": {
+      "bytes": 1671,
+      "sha256": "4188852ac9a5e71539b397afa462b99dc85827d6bbb4b6de778797a054c2db62"
+    },
+    "snow_baller_base_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1166,
+      "sha256": "5cfb9f6d3b816afac35ad67686d80898d247140273705fe42143223398f2f882"
+    },
+    "snow_baller_base_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "snow_baller_base_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 17747,
+      "sha256": "764701e4cb6de602100fb85b3266f75ad725364bd3868b9e410de277d3000995"
+    },
+    "snow_baller_base_20261107/run_1/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "7740bc6f8961b376128c4b8c23304461ebd8669990ba89186ccf9364f66f97bb"
+    },
+    "snow_baller_base_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 249762,
+      "sha256": "5aed6fbc3a2ab0094d7f6b3c6d50c3515529ec17e9b3398305e22c4c70907cb1"
+    },
+    "snow_baller_base_20261107/run_1/PROCESS.json": {
+      "bytes": 592,
+      "sha256": "7a688321fac5e76c9f51fc4f51198fa3917dafed177ea6f2c8b4de183262b677"
+    },
+    "snow_baller_base_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 11738,
+      "sha256": "2e7cda9acb149c624ee41ebbb5e5801600f4db9dc628165dd750ab41c88cd7b5"
+    },
+    "snow_baller_base_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 398412,
+      "sha256": "2aed2c87708bc05c4c7cda70a5258d6fd5f1e58d4f8e5379c7675042ead2657d"
+    },
+    "snow_baller_base_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4552958,
+      "sha256": "d3fcbaad4f03524277aaae06d0c53339cff8e4ec1552646bb64eca1dc153a48e"
+    },
+    "snow_baller_base_20261107/run_1/data/before_first_sale.native_save.json": {
+      "bytes": 55115,
+      "sha256": "4addd6a4542787ae8574ac2747cdef79a373041b72e29887935ad28575dc124b"
+    },
+    "snow_baller_base_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 27275,
+      "sha256": "c046a56fffcd71f5ba876e52f3dd712fe5b514a855f304ccca77fadcc578005e"
+    },
+    "snow_baller_base_20261107/run_1/data/report.json": {
+      "bytes": 1131616,
+      "sha256": "bb949c2bf84c59d691cebce4c0448c86fb4be6b6d2de5ba793ef05b9df4da044"
+    },
+    "snow_baller_base_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 54988,
+      "sha256": "d33dc1811b2622bc5a675ee975e4fc33866e2779b6a577a8b0f0050f9e530472"
+    },
+    "snow_baller_base_20261107/run_1/gate_executed.gd": {
+      "bytes": 17441,
+      "sha256": "7b1142b086794275920b173121a5820821e89ee3e8a9041a5de9d3a9a1bd8f44"
+    },
+    "snow_baller_base_20261107/run_1/native.log": {
+      "bytes": 364,
+      "sha256": "2c4f9a87aac6aff01931387f60d784977e8ccd88786a6c3118eb0c1f47bc37fc"
+    },
+    "snow_baller_base_20261107/seal.py": {
+      "bytes": 4343,
+      "sha256": "446c0562860ab848bc59a13a34c3f49948f970637d42844105e1576908719b96"
+    }
+  },
+  "parts": [
+    {
+      "name": "snow_baller_base_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "a392cfd98fafcd6814429a9febff5d23435983c0e71bd6bcb0e03b739873e8c6"
+    },
+    {
+      "name": "snow_baller_base_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "752b2ab785b671eada0967ab76ea052fc1f0470f3b6f2f6110bed815bb35fa89"
+    },
+    {
+      "name": "snow_baller_base_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "522921b9b3037a6d8d73d764589526a4fbf46af9ecf125d16c3d000c156d4610"
+    },
+    {
+      "name": "snow_baller_base_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "672856a43f041a1e05e3d43d74c7cc72bd9b477746809ad5860bb8c22c150d35"
+    },
+    {
+      "name": "snow_baller_base_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "d85c65459145655c05a7078a8951b4c4e8f8d9009a2c9e496327f668757911a1"
+    },
+    {
+      "name": "snow_baller_base_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "b45e561869639f3c922295c05e460e8c472496b26b636150328f8d94a149d4ee"
+    },
+    {
+      "name": "snow_baller_base_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "9ef589c66fa80e94f64ed94f77e33d951f5e2791241c9c18eae43b4396fd2893"
+    },
+    {
+      "name": "snow_baller_base_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "9f201360f2b07008322d0f623058b1ef69460ac59ccbf72524a6d1130c9fc20f"
+    },
+    {
+      "name": "snow_baller_base_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "afc5d61b033dea67d6a7c79e324bb13748619567579419d34e5a12d26b9397b6"
+    },
+    {
+      "name": "snow_baller_base_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "c0b6c1375f5d14258fdd526e99d613884aa52057490c3b8edc2a677020ec72b0"
+    },
+    {
+      "name": "snow_baller_base_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "09d5a537baab5e9f04c85d36a66c6e924745ac1c3bee079347a2c62d0eb6b9f6"
+    },
+    {
+      "name": "snow_baller_base_20261107.tar.xz.part011",
+      "bytes": 52264,
+      "sha256": "cd8ecb6f565903624be2ff571247183ff2eb803d42b0392fc23cb8ffb705e4eb"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "snow_baller_base_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "CHANGES.json": {
+      "bytes": 3573,
+      "sha256": "e3f7d5a3152a5906e9013ff6048bc54c0956674a02424391d0daa98f82e9d7ae"
+    }
+  },
+  "depends_on": {
+    "fire_commit": "1b959163351c7fb492034a11d67217eb59285336",
+    "fire_source_map_sha256": "8429c357fe845924347c1293f921c64e7143f4b4209d08dab2d51d7082e32120"
+  },
+  "status": "Partial Snow Baller first sale base; not completed scaling; preserve complete chain",
+  "audit": {
+    "archive_members": 101,
+    "credential_pattern_flags": []
+  }
+}
