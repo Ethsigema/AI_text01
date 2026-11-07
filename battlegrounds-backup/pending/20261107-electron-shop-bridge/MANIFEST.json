@@ -1,0 +1,255 @@
+{
+  "archive": "electron_shop_bridge_20261107.tar.xz",
+  "bytes": 1059076,
+  "sha256": "df7bb3f2ba43c53d23a348e3ec9f824a4b920e8f149c8fd1a0c01bea15341620",
+  "files": {
+    "electron_shop_bridge_20261107/BASE_MAP.json": {
+      "bytes": 4545809,
+      "sha256": "787d2084673b022681214fcf1a6764c5f0fb3fdd67235c2360e583be10bb814d"
+    },
+    "electron_shop_bridge_20261107/EXPECTED_ROWS.json": {
+      "bytes": 21873,
+      "sha256": "013f3149237550ebb3b27d6b54b8988d06028276a2697592652c3c0ec508fe06"
+    },
+    "electron_shop_bridge_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_shop_bridge_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 6901,
+      "sha256": "f1f39d065e284acf31228da92328c49a17caa78aa07ad8b4269282a9d628be13"
+    },
+    "electron_shop_bridge_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 241567,
+      "sha256": "8b4948dfc08f37b7b1f9aee042ef06ebcd21122c9486ea4e7adc80bc71d2c892"
+    },
+    "electron_shop_bridge_20261107/README.md": {
+      "bytes": 2164,
+      "sha256": "664283c7416d4cd85e079190e0faf5160831616187c9ca0ed8182da4ba4f5c30"
+    },
+    "electron_shop_bridge_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "ab3513f547c4a2a6978a143184bfaf5d3428e7eb788f642e4a7b334381a34548"
+    },
+    "electron_shop_bridge_20261107/SOURCE_DELTA.json": {
+      "bytes": 1478,
+      "sha256": "a6b5f96adfc86327413cac769a42944a023ccf4a4ee59d4cf2765a950058cb5f"
+    },
+    "electron_shop_bridge_20261107/SOURCE_MAP.json": {
+      "bytes": 4546288,
+      "sha256": "9bd31a5351f2adc91dcad6c34e42a259844e4bfcab0173d0e9cee3ad54758574"
+    },
+    "electron_shop_bridge_20261107/VALIDATION.json": {
+      "bytes": 835,
+      "sha256": "745acfb77a69aacb313d471c44175b2d0e586b09418b36a0894cbcad6ed5e1f5"
+    },
+    "electron_shop_bridge_20261107/build_checkpoint.py": {
+      "bytes": 3773,
+      "sha256": "2f374b2d5982a6fdb50322ed997062d5cdc2cdc6942a58de74cfa85541c4790b"
+    },
+    "electron_shop_bridge_20261107/build_gate.py": {
+      "bytes": 2692,
+      "sha256": "819f02de96ac4d71763fa5286b2cb1938810b8b607afcb6249da7533d4c8652f"
+    },
+    "electron_shop_bridge_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 33780,
+      "sha256": "c4fc3950393925d1544e01f3e227f95b52868992a860d5a6ae0c687e65181885"
+    },
+    "electron_shop_bridge_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 31833,
+      "sha256": "fec470edb981028b78b7b3b001afa00994697eb875f1128ae87f69ff622307a0"
+    },
+    "electron_shop_bridge_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 7240,
+      "sha256": "fd425c17fe471c7f22eb89fc8f11d8fa8106d8fb6895f617baf1bee587b295a0"
+    },
+    "electron_shop_bridge_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 23979,
+      "sha256": "8f0e8366c05de4fed35602657115fb495b6f05699e429e50840023cf99f23768"
+    },
+    "electron_shop_bridge_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 22769,
+      "sha256": "a1f72e45a65ee3db8a3472fcc3f192c2eab5a4ef083fa92211121c28e31a33b7"
+    },
+    "electron_shop_bridge_20261107/delta/research/electron_shop_bridge/BG28_886.native.xml": {
+      "bytes": 2581,
+      "sha256": "0dd28b42a0d863e0eb3b95e7a2efca31bde8214baa6287eb1bcd7f8096621638"
+    },
+    "electron_shop_bridge_20261107/delta/research/electron_shop_bridge/BG28_966.native.xml": {
+      "bytes": 2240,
+      "sha256": "6c019a0c6c053e7125ca7b28fcf217d4a65160c9001ca65074acb8b1003e87b8"
+    },
+    "electron_shop_bridge_20261107/delta/research/electron_shop_bridge/evidence.json": {
+      "bytes": 890,
+      "sha256": "9970ab1e868501eef778d7251ac775046b0e7ab60c391b96b787b0a5b281b67c"
+    },
+    "electron_shop_bridge_20261107/gate.gd": {
+      "bytes": 18065,
+      "sha256": "0dca0d245f28874133ec00055f3ae460b7c705a2afe3c199f7e5dcc7f20ea3f3"
+    },
+    "electron_shop_bridge_20261107/materialize.py": {
+      "bytes": 1694,
+      "sha256": "855a05d8cf6f9f9094f25d559308c962de17a35bfd9f590cef54eeacdfb9aabd"
+    },
+    "electron_shop_bridge_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1174,
+      "sha256": "465c8a78b86ee7c077ec66cde7791aecec70c1873a10f214dddaeb57589e0704"
+    },
+    "electron_shop_bridge_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_shop_bridge_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 21873,
+      "sha256": "013f3149237550ebb3b27d6b54b8988d06028276a2697592652c3c0ec508fe06"
+    },
+    "electron_shop_bridge_20261107/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "5b506572731d81bdee491a29e756e79e29221e5c0779a19297f73a1c097ea8d0"
+    },
+    "electron_shop_bridge_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 241567,
+      "sha256": "8b4948dfc08f37b7b1f9aee042ef06ebcd21122c9486ea4e7adc80bc71d2c892"
+    },
+    "electron_shop_bridge_20261107/run_1/PROCESS.json": {
+      "bytes": 600,
+      "sha256": "d34f6b1fa9412bf22b883995a1d188bb210cf92d9589ac0b3d08354931022fee"
+    },
+    "electron_shop_bridge_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1478,
+      "sha256": "a6b5f96adfc86327413cac769a42944a023ccf4a4ee59d4cf2765a950058cb5f"
+    },
+    "electron_shop_bridge_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 11236,
+      "sha256": "80f8414b797fbd46e93968cdb6cda0df9f1a7b6887f8bf6f9de0b0d3a0e004c2"
+    },
+    "electron_shop_bridge_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4546288,
+      "sha256": "9bd31a5351f2adc91dcad6c34e42a259844e4bfcab0173d0e9cee3ad54758574"
+    },
+    "electron_shop_bridge_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 32036,
+      "sha256": "7a2fa7134f25a38cd31915724f33b981a2cf793de2dd92422d99499e15c02308"
+    },
+    "electron_shop_bridge_20261107/run_1/data/prefix_progress1.native_save.json": {
+      "bytes": 45539,
+      "sha256": "9891633ca9df8be73782c6a16d712d8bc0befd60b7f90db3362643f6389f8538"
+    },
+    "electron_shop_bridge_20261107/run_1/data/report.json": {
+      "bytes": 955120,
+      "sha256": "90dd09848e7ff7926620cf14fb7fa52a7cbee00ba8ef67ef22d11b12a0421202"
+    },
+    "electron_shop_bridge_20261107/run_1/gate_executed.gd": {
+      "bytes": 18068,
+      "sha256": "ff46619f8d1ba4167db1aa75c11791d819ff56158a5506cdee8abe1558fa6518"
+    },
+    "electron_shop_bridge_20261107/run_1/native.log": {
+      "bytes": 293,
+      "sha256": "1a74f677cb2d78b8a918733b310d344fea842960713e08b92992d0d6ad3ef74f"
+    },
+    "electron_shop_bridge_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 21873,
+      "sha256": "013f3149237550ebb3b27d6b54b8988d06028276a2697592652c3c0ec508fe06"
+    },
+    "electron_shop_bridge_20261107/run_2/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "0fe017781bf711a13b939fb3bdf73fc1991c265363456663458a250768c8b6f2"
+    },
+    "electron_shop_bridge_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 241567,
+      "sha256": "8b4948dfc08f37b7b1f9aee042ef06ebcd21122c9486ea4e7adc80bc71d2c892"
+    },
+    "electron_shop_bridge_20261107/run_2/PROCESS.json": {
+      "bytes": 599,
+      "sha256": "40b5a0dc53b9401c2711efdc54983a48f474eb1c0a4c4e8bd7cf3df0265a16fa"
+    },
+    "electron_shop_bridge_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 1478,
+      "sha256": "a6b5f96adfc86327413cac769a42944a023ccf4a4ee59d4cf2765a950058cb5f"
+    },
+    "electron_shop_bridge_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 11236,
+      "sha256": "80f8414b797fbd46e93968cdb6cda0df9f1a7b6887f8bf6f9de0b0d3a0e004c2"
+    },
+    "electron_shop_bridge_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4546288,
+      "sha256": "9bd31a5351f2adc91dcad6c34e42a259844e4bfcab0173d0e9cee3ad54758574"
+    },
+    "electron_shop_bridge_20261107/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 32036,
+      "sha256": "7a2fa7134f25a38cd31915724f33b981a2cf793de2dd92422d99499e15c02308"
+    },
+    "electron_shop_bridge_20261107/run_2/data/prefix_progress1.native_save.json": {
+      "bytes": 45539,
+      "sha256": "9891633ca9df8be73782c6a16d712d8bc0befd60b7f90db3362643f6389f8538"
+    },
+    "electron_shop_bridge_20261107/run_2/data/report.json": {
+      "bytes": 1296307,
+      "sha256": "e2aac07fcc6131f6ff2680324f4c347599f18f548d1a5bfcb16eefd9d5acf035"
+    },
+    "electron_shop_bridge_20261107/run_2/data/terminal.native_save.json": {
+      "bytes": 59075,
+      "sha256": "12d4c1baf70ca1b5d66bfc37da87e4e595bd8cc9042c66ecfaed80be2a3efd2f"
+    },
+    "electron_shop_bridge_20261107/run_2/gate_executed.gd": {
+      "bytes": 18065,
+      "sha256": "0dca0d245f28874133ec00055f3ae460b7c705a2afe3c199f7e5dcc7f20ea3f3"
+    },
+    "electron_shop_bridge_20261107/run_2/native.log": {
+      "bytes": 367,
+      "sha256": "5a7d3f02fd8c2f721fbb2f62416939f89d513785c2ee83dfa9ef2697baaeebf1"
+    },
+    "electron_shop_bridge_20261107/seal.py": {
+      "bytes": 4452,
+      "sha256": "19342b76b2ea881c33db8e42aed301882ae652c767267e590555916048db37b6"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_shop_bridge_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "780ce39c29afc34b453702b95c59e02bc1acbe43f06518f82ec5c3a7cbc58475"
+    },
+    {
+      "name": "electron_shop_bridge_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "1e96d4bccda58470986de0ba3d94cd3c359263fa515f7dfba61ddc22d20e5956"
+    },
+    {
+      "name": "electron_shop_bridge_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "6026db9748e9a383dd5a02e94ce0fd63d4d34536452f9723749687adb73d0bf6"
+    },
+    {
+      "name": "electron_shop_bridge_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "ab8966e6e9fdde6ff1b4095dacf3acc540ed4fee199a14a000ec0e5d7f98a439"
+    },
+    {
+      "name": "electron_shop_bridge_20261107.tar.xz.part004",
+      "bytes": 59076,
+      "sha256": "f902bb2166be451a24b25293bbddb1866a592c8858233cc795698d95e6d04efd"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_shop_bridge_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "CHANGES.json": {
+      "bytes": 486,
+      "sha256": "3a59d3869e20f6ac907ef93c7a370be8d6e84320c575bffed7193a9e8814c948"
+    }
+  },
+  "depends_on": {
+    "targeted_commit": "6db3c8925df72316a23b41fe7f7304b1bc70f025",
+    "targeted_source_map_sha256": "787d2084673b022681214fcf1a6764c5f0fb3fdd67235c2360e583be10bb814d"
+  },
+  "status": "Incremental Tavern buff bridge; preserve complete chain; bounded tests only",
+  "audit": {
+    "archive_members": 50,
+    "credential_pattern_flags": []
+  }
+}
