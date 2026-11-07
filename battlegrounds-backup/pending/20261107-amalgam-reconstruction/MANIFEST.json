@@ -1,0 +1,538 @@
+{
+  "archive": "timewarp_amalgam_reconstructed_20261107.tar.xz",
+  "bytes": 2793084,
+  "sha256": "7f0733c2a68d4f7bb831d77f77d313207bb391468a25bf6c4d43439fb9e2f236",
+  "files": {
+    "timewarp_amalgam_rebuild_20261107/BASE_MAP.json": {
+      "bytes": 4537978,
+      "sha256": "8e099df06e47a901875a526a0ea21edcbf21406758f786b77078b8f00845492d"
+    },
+    "timewarp_amalgam_rebuild_20261107/BINDINGS.log": {
+      "bytes": 2330,
+      "sha256": "528ad1d57bdd09d5d37d2bada186ff2c2c347ea604b4d2fe76eb13f79bf7b003"
+    },
+    "timewarp_amalgam_rebuild_20261107/EXPECTED_ROWS.json": {
+      "bytes": 3492,
+      "sha256": "46bc0b6c9247dac2fa39e1ce96894cfad441cb363a14f750184065a2e6b442fc"
+    },
+    "timewarp_amalgam_rebuild_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_amalgam_rebuild_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 17005,
+      "sha256": "1d15e8371656a4665ee706eb9dc16a9bb27ab313531de5ebaa81afbd1e8dba02"
+    },
+    "timewarp_amalgam_rebuild_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 231954,
+      "sha256": "dff722cb32fd3034e51e140448c005df70a60df92f12eaca1fc128076e51908b"
+    },
+    "timewarp_amalgam_rebuild_20261107/README.md": {
+      "bytes": 2715,
+      "sha256": "6fcecfb37007d37911ff577dc5f166b4d29404065535ce927ad19651e5136242"
+    },
+    "timewarp_amalgam_rebuild_20261107/SECRET_SCAN.json": {
+      "bytes": 147,
+      "sha256": "225fb21fc38d143dc4a8b5920dd5d437fe5e8eb79e797abf537593556b1da734"
+    },
+    "timewarp_amalgam_rebuild_20261107/SOURCE_DELTA.json": {
+      "bytes": 9627,
+      "sha256": "1a8193415e3d0a0753598ea660f12c960c7c1d789efb21e51ee6d1cf98282584"
+    },
+    "timewarp_amalgam_rebuild_20261107/SOURCE_MAP.json": {
+      "bytes": 4539452,
+      "sha256": "c24bdf4bedf966056670677d504207c3259bf4b3806afc5d2a2f2acb491d53de"
+    },
+    "timewarp_amalgam_rebuild_20261107/VALIDATION.json": {
+      "bytes": 780,
+      "sha256": "3b2632e4efcfd7d0cf7ccefb4cb01b3f035c9fdbf703900aadabf25c306de2e2"
+    },
+    "timewarp_amalgam_rebuild_20261107/build.py": {
+      "bytes": 7826,
+      "sha256": "f792bb094838b035d133f70501aa70393d55e7b710654bfbfc6003b7819538f4"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/catalog.gd": {
+      "bytes": 1805639,
+      "sha256": "a453223861345bb392e3019d577ffbb162df19987dab86a5f1c7fc1703bc416d"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/combat.gd": {
+      "bytes": 573963,
+      "sha256": "c13194868b349696519e3945669d0bfd49d1220b04c79c112adb9d178ede5f6c"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/game.gd": {
+      "bytes": 1322032,
+      "sha256": "57e94e98c3f59a62f7a888220b7c7b18d4375c43de64baa0c49f5f491116f4c2"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "6db69fa2bf470f7362a9bf7a9c2e3cbe04f54ea4a47332d68ca14137bd3726df"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "b442f537c20db50ca93215b786d28b0f9b10269d3580f7315818ac185b81faa6"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "ce8eef5db15bf2d958c5b38d1ac22db2f37addfa0c113a05fd709e58c1e6c1ce"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "74025da3f0d60b99efd519fd10020878cafce95979d8dee660de210b580ee45e"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "1fff89c2efdcdb22027516ef39fea3e362a6784634e16ac94a62b5a99e97b813"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "a4c57f8d9a99a2c8919af2f85d968a4058605cbf026f951468a3b4ce574593c1"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "9c905b5ec8cd648afb6c2e53ba4a4a7ad77b70c7661764f4bec8901445d794e5"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "d4d627122acafa19e70cec2511adc3bbf3f74978de85f7665112965df5f5d209"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "32e5fe5dd449a04a43318d43d0e901250b28e49efb24c44c42782cf2c2c5cd6c"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "abcf39fd2dc3a82291f80c741e7fd26b3b76b158f85ddd7431c5f08d148d4892"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "39054fcede73a10c06dff7eb9cf20a88e38b42d0ae2215195e845f26f102f6ef"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "82bb915191381188a770a2c2ebc9df7a1f690583e5f49b1f35bd63f28d7db041"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "2fb33eb1479e67c0f6bfa9287a8329fb96646e54dcd7fa854c45726f7c51d692"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "8ef93b31b149054377774dc495ef27fcfa7022565b1cc09c2c1cd6fc0ff3c762"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "866746a02bba494f81e2b0c31bb7814b11320b53826ee32e5f0043d2e530ad15"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "6167cbb3f4f5945c336f6fffc751282ee267e79f805bcc98bea6849c48973ecb"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "b6e931a103ecec2d74159b93449256eb8811291e2791f3df19f95a2dadb76273"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "7249f3a18c9f1f33d835f8dbe4c2cf708aa8966e1cf7198c4de3ed0f9a85598c"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "fa7cecdb17b8305d19d1fee2d9897a5961332d7d3542f85cfd718758dc0101dd"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "4319f20991bf5dd29bdf155714c313386a5ec5abcfc590317c7625ab2a5bdd04"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "7a3c4fe27692621f54a5393c470e977c322a9983c0579986dfc6ae31cd6385ad"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "f6c159f34981c5c793153f1063d72d8911e805bde8683cfd57f52c8a01a9c882"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "4dca1a71d31b8e5dba3cf8e9f91a5c5d63a7ac4139fb886fa842f3524a276e6c"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "0000de8ffe96ebef007149611cf4ec545890cb81ee897615a0f45554a480fbcb"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "487510b76b42ee210909f85f6e9c1dc3b951c10ef25d4f6ebd00441d2e761a8b"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "ed637a01fb288e1e8bb74443287541ce16b966d953049aefae409a3fd511f751"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "f13f9988a8557d198a007499de6d459d46ca87bcbe89b95164c6da7cc3fe3a14"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "fb31c0eefbc4da1efaa56855efff8c3d4ada6d2cf7030011365dbc814e93affc"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "20c545af6a8617f5260384c2c24f3df85f9418056940eb06dad9dc73a6cd4304"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "8eeceef9b212c1f25e7f27ea77d8bbd0e63d1c14c1698707f5daee918af83062"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "a98fcac010f05c9dd2e423ac51fc9d76bcf44d9eb966dfdace7dcc0dcf559bc3"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "2c3d5c2a8f906160262c50216a743c818706167cc04df08a72148c7e817369f7"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "cfde84759630742012a1d1a0d189814ae75ff33c0c836ee8690a58892b3386c2"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "5dacdc638cb9f894c2e63bbdac35a1a17cafbb3a5d50ebe32fa4b0cb7968b35c"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "579482fb978950a22b822150598c80045b7bd5a9623690f16e645c9cd41074dc"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "d68e608496c5835cd68dff17b5ee5ab9ea09a3b4636e65b7bc2409633e318e9c"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "8c80f6009feb27455f87af59ceb051bb998188b41897a3709f93481f25cf8b89"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8115,
+      "sha256": "19f094ab87e41218b5833285040a693c0e25c66ceef045bed3c5167344577df7"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7925,
+      "sha256": "d5dcb68db3d2fd54631f9dcd588acba4caf241299d288cc14c7882ae07d56cba"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 31256,
+      "sha256": "381ed63442ab319e6e4983475c6b8def1b6c3e963715093e7bbe6d9d8bbefd13"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 29309,
+      "sha256": "79ef3314454218850443b4a2cbb5c7fdce1a5c4ef642ca84f8486e599a634813"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "287c797b517f35ef9b578e5f1bba8ad23b5e4fc75ee086850db6b74852e64ed9"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "f92929c793fc9f5394a40ff0f2e6582b03e1caaf4d4e2c0808994d0f46163bdf"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "2a8f1776dfd8b5b936d72879e0fb1435e929d95e36e59761ba1945d1b6ed605f"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "cbd75b6ac245b5c1e9a02b27f1389b282dfd5db49a14642a6f112300a475f052"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "46f884ac5f46de1dcf63ae66d629c9d8bbd9cabb2bee60105341f92af653ca25"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "ac4f2cd6124e7f081501246067b09a2edaff43800832f1681c6238562e476633"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/recruit_extensions.gd": {
+      "bytes": 39504,
+      "sha256": "05b0e1eb6b98fe44d30f909dca598bd4d273c3dc967c33f90beb24d592b5cdd9"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/core/timewarp_amalgam_host.gd": {
+      "bytes": 2478,
+      "sha256": "1eab1b9c7993d4e16fdaeea63aca6f20c23596a2f510af6905163e5ef253e76a"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/data/patch_3702_timewarp_amalgam_golden_overlay.json": {
+      "bytes": 2181,
+      "sha256": "f3c33bbe9a3910afb6d93e5786277d26cf519bebaa473c3a1ba600bd854d1051"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/data/patch_3702_timewarp_amalgam_overlay.json": {
+      "bytes": 2150,
+      "sha256": "06651f8d49debade67f4f3bb4965ebfa50af2545935ff6b7b25bc4887b442459"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/research/patch_3702_timewarp_amalgam/BG34_Giant_336.native.xml": {
+      "bytes": 3690,
+      "sha256": "49a35a8dccad1ab90bd40a79d24007d9d1dfd2a1b4084e53cc817d19011befdf"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/research/patch_3702_timewarp_amalgam/evidence.json": {
+      "bytes": 412,
+      "sha256": "10d959ff421d1a0fffc17de38334eac2b887da127d3d44257725204e17710974"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/research/patch_3702_timewarp_amalgam_golden/BG34_Giant_336_G.native.xml": {
+      "bytes": 3954,
+      "sha256": "ab8f2fcd9e4aa3fa88f6119a1271449308f7e36f4a03c3be2bb4848af39ee839"
+    },
+    "timewarp_amalgam_rebuild_20261107/delta/research/patch_3702_timewarp_amalgam_golden/evidence.json": {
+      "bytes": 414,
+      "sha256": "bbdec5953ea9c7d9bf87b1c9aba7914fbcdd0cf1c926d7cf43769c5dbfc298e1"
+    },
+    "timewarp_amalgam_rebuild_20261107/gate.gd": {
+      "bytes": 17437,
+      "sha256": "8a2ef55d159b0339faccf1ff9aba8717f6c9b1c333285767ffef583321887ef8"
+    },
+    "timewarp_amalgam_rebuild_20261107/host.gd": {
+      "bytes": 2478,
+      "sha256": "1eab1b9c7993d4e16fdaeea63aca6f20c23596a2f510af6905163e5ef253e76a"
+    },
+    "timewarp_amalgam_rebuild_20261107/materialize.py": {
+      "bytes": 1693,
+      "sha256": "073b01f81732dc24cff6423307236103937b8006a909cab2c6815475dd0fe11b"
+    },
+    "timewarp_amalgam_rebuild_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1175,
+      "sha256": "9279cda6abc93b1413e291f2f3ccb1f1d6d5375da8b60c55607b62678c928886"
+    },
+    "timewarp_amalgam_rebuild_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 3492,
+      "sha256": "46bc0b6c9247dac2fa39e1ce96894cfad441cb363a14f750184065a2e6b442fc"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/LAUNCH.json": {
+      "bytes": 535,
+      "sha256": "fb0bf95e308a76701c5d1378fc98093c318bbebdbc2b93f2dcdc9f14d49be410"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 231954,
+      "sha256": "dff722cb32fd3034e51e140448c005df70a60df92f12eaca1fc128076e51908b"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/PROCESS.json": {
+      "bytes": 609,
+      "sha256": "d7e2e3cbdcf5f46ae33c7d80fdbd37d07de89b01244775f7767ee53c880d3117"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 9627,
+      "sha256": "1a8193415e3d0a0753598ea660f12c960c7c1d789efb21e51ee6d1cf98282584"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 392732,
+      "sha256": "9ab8e7d57909daf37ec59af5a1523dbd834f6975f1facecb29daff56fa4763b6"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4539452,
+      "sha256": "c24bdf4bedf966056670677d504207c3259bf4b3806afc5d2a2f2acb491d53de"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 25622,
+      "sha256": "6e883e912a7ee39c7dbb781fc031b30465974c674dca35b79f15c01a66e737d9"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/data/prefix_shop4.native_save.json": {
+      "bytes": 47199,
+      "sha256": "83c0bd88cd4dbdef9c67808a06305f8edc43bd946c88e443c1d19de33a973300"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/data/report.json": {
+      "bytes": 1544060,
+      "sha256": "2f88e13087973559e0189205079eca7d2e5266377c8aa18286587b38623368b4"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 75870,
+      "sha256": "b74b30984f566107597de384fe9d6af09e216692e9c25addb1de87d922d6e165"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/gate_executed.gd": {
+      "bytes": 16916,
+      "sha256": "0ba94724f1f36c2244ed3404d20a629d9d067697c2b3ba60c3df661f9c3de507"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_1/native.log": {
+      "bytes": 547,
+      "sha256": "9bcb3b17e20c8c201af5cbe8332a8bf373ec38697af616eb5c4b8303da669240"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 3492,
+      "sha256": "46bc0b6c9247dac2fa39e1ce96894cfad441cb363a14f750184065a2e6b442fc"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_2/LAUNCH.json": {
+      "bytes": 535,
+      "sha256": "c4912aff0eec77d733611b0ea869ddcdda017999c55f9251ce0172cefa56be11"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 231954,
+      "sha256": "dff722cb32fd3034e51e140448c005df70a60df92f12eaca1fc128076e51908b"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_2/PROCESS.json": {
+      "bytes": 609,
+      "sha256": "66f2ea2bf5e5fe43c6a7028b7cf20667a3deb8376bf705c7fdaf98a0d8c5d658"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 9627,
+      "sha256": "1a8193415e3d0a0753598ea660f12c960c7c1d789efb21e51ee6d1cf98282584"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 392732,
+      "sha256": "9ab8e7d57909daf37ec59af5a1523dbd834f6975f1facecb29daff56fa4763b6"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4539452,
+      "sha256": "c24bdf4bedf966056670677d504207c3259bf4b3806afc5d2a2f2acb491d53de"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 25622,
+      "sha256": "6e883e912a7ee39c7dbb781fc031b30465974c674dca35b79f15c01a66e737d9"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_2/data/prefix_shop4.native_save.json": {
+      "bytes": 53466,
+      "sha256": "4d19e4e5c16d248d58ff62380d03687dde35f0bd643c9f47b2be06092b6fa48d"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_2/data/report.json": {
+      "bytes": 1427248,
+      "sha256": "4c4c604c7c7fd12ec27930c7be7f8543610b336c2babfded90bc2f981ebfea6f"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_2/gate_executed.gd": {
+      "bytes": 17370,
+      "sha256": "0331a547df01312204fc81c663231b8afbf67b6ab02c0b8d622f697ab747b01c"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_2/native.log": {
+      "bytes": 618,
+      "sha256": "17c630e41d0f172d8833267488310d5e37b9e3c85c5ad0cb0cd78cfa457fba62"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/EXPECTED_ROWS.json": {
+      "bytes": 3492,
+      "sha256": "46bc0b6c9247dac2fa39e1ce96894cfad441cb363a14f750184065a2e6b442fc"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/LAUNCH.json": {
+      "bytes": 535,
+      "sha256": "a6adca4f77241c0a8633e4518eeb665d779c3d7d86a05418773ee9d2f3fbfa9d"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/PIN_PREFLIGHT.json": {
+      "bytes": 231954,
+      "sha256": "dff722cb32fd3034e51e140448c005df70a60df92f12eaca1fc128076e51908b"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/PROCESS.json": {
+      "bytes": 608,
+      "sha256": "130731942bbc168217f1b1b9b5e3bcbd5f0b1e72b0e0ba8f82786794e37e2390"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/SOURCE_DELTA.json": {
+      "bytes": 9627,
+      "sha256": "1a8193415e3d0a0753598ea660f12c960c7c1d789efb21e51ee6d1cf98282584"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 392732,
+      "sha256": "9ab8e7d57909daf37ec59af5a1523dbd834f6975f1facecb29daff56fa4763b6"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4539452,
+      "sha256": "c24bdf4bedf966056670677d504207c3259bf4b3806afc5d2a2f2acb491d53de"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/data/initial_fixture.native_save.json": {
+      "bytes": 25622,
+      "sha256": "6e883e912a7ee39c7dbb781fc031b30465974c674dca35b79f15c01a66e737d9"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/data/prefix_shop4.native_save.json": {
+      "bytes": 53466,
+      "sha256": "4d19e4e5c16d248d58ff62380d03687dde35f0bd643c9f47b2be06092b6fa48d"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/data/report.json": {
+      "bytes": 1784375,
+      "sha256": "e1a072bcacf25b0a3237e7298ec29cb07d1dbbb5f2e840e7f04fab74d7695bb3"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/data/terminal.native_save.json": {
+      "bytes": 74134,
+      "sha256": "47ef16e37b9eaac0d5b5ca464d029683a9c3a3723d612e23ae16ab289b11c127"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/gate_executed.gd": {
+      "bytes": 17437,
+      "sha256": "8a2ef55d159b0339faccf1ff9aba8717f6c9b1c333285767ffef583321887ef8"
+    },
+    "timewarp_amalgam_rebuild_20261107/run_3/native.log": {
+      "bytes": 618,
+      "sha256": "33b59da8a36293cd0b2606f7a82db9036635c6cc5fdb893c58ad7b1e956a6ccf"
+    },
+    "timewarp_amalgam_rebuild_20261107/scenario.gd": {
+      "bytes": 8098,
+      "sha256": "c48a90c8eca7dc0bb4161464811241d79b41dcb0c6cff3e42f7e657daf8a3edd"
+    },
+    "timewarp_amalgam_rebuild_20261107/seal.py": {
+      "bytes": 4806,
+      "sha256": "0d88f7c97a564d03b64d0d43a99b9ca62eda7562a702c76fe0301f7d3736ff22"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_amalgam_reconstructed_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "17bc85b18bbc184c84b57fe8586193081653acbb62fcd17855004805a96665f0"
+    },
+    {
+      "name": "timewarp_amalgam_reconstructed_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "a04374c4443c61ac25afea7a833bfb66e6ece0a4fff8002f363cd769c13e760f"
+    },
+    {
+      "name": "timewarp_amalgam_reconstructed_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "0c1b837d46b28d471186c7f6ffdc8007d92cb93e901eea460ef4092cc330bf42"
+    },
+    {
+      "name": "timewarp_amalgam_reconstructed_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "e2286c7ddf25b50774a134fd68cbd10805f3c0baa3dbbc1ac8acb25e41840604"
+    },
+    {
+      "name": "timewarp_amalgam_reconstructed_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "3cc0c7c69beb17b5eb50164d8fdbc276b11ee7688be5e1851bd95b444fc869b2"
+    },
+    {
+      "name": "timewarp_amalgam_reconstructed_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "02af222c7e0c39f21510637090f972d320521f658276c67557bac51246b8bd64"
+    },
+    {
+      "name": "timewarp_amalgam_reconstructed_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "8825bfc6f3c6a79d88b0afa65571e719f282ffcfe8873d505430a1aac7ce682c"
+    },
+    {
+      "name": "timewarp_amalgam_reconstructed_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "1489c16114a2f661824fcb19f20f5056ff94a2076bc01e28c9a2ee37b8e4a3b2"
+    },
+    {
+      "name": "timewarp_amalgam_reconstructed_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "e4c6569d4039ae72e1bfba766e24071d10249bf38d46d10b3a8c6d8d68ad3c4e"
+    },
+    {
+      "name": "timewarp_amalgam_reconstructed_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "98b7996af12a4bb242c819cf3b89a99b23220ea5ba07b035272e78f4cddf92e7"
+    },
+    {
+      "name": "timewarp_amalgam_reconstructed_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "000cae78fb0a63261dbbe8ca01b4bc5413edb4e89e8a127a1e281391a896fc98"
+    },
+    {
+      "name": "timewarp_amalgam_reconstructed_20261107.tar.xz.part011",
+      "bytes": 43084,
+      "sha256": "79d0e9e9d57a1742aad16bdd7a1f48de7c6ceb95c779008c8250fb5cdae7c8e2"
+    }
+  ],
+  "depends_on": {
+    "electron_commit": "66ea40c7527f149cfc12d4e325287375a475b35b",
+    "electron_source_map_sha256": "8e099df06e47a901875a526a0ea21edcbf21406758f786b77078b8f00845492d"
+  },
+  "status": "Incremental reconstruction; retain Electron and complete historical dependency chain; bounded gameplay evidence only",
+  "audit": {
+    "archive_members": 115,
+    "credential_pattern_flags": []
+  }
+}
