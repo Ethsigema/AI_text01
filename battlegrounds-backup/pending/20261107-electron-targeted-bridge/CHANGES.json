@@ -1,0 +1,18 @@
+{
+  "added": [
+    "research/electron_targeted_bridge/BG28_503.native.xml",
+    "research/electron_targeted_bridge/BG28_507.native.xml",
+    "research/electron_targeted_bridge/BG28_520.native.xml",
+    "research/electron_targeted_bridge/BG28_825.native.xml",
+    "research/electron_targeted_bridge/BG28_838.native.xml",
+    "research/electron_targeted_bridge/evidence.json"
+  ],
+  "modified": [
+    "core/patch_3702_timewarp_electron_golden_sources.gd",
+    "core/patch_3702_timewarp_electron_sources.gd",
+    "core/timewarp_electron_host.gd",
+    "data/patch_3702_timewarp_electron_golden_overlay.json",
+    "data/patch_3702_timewarp_electron_overlay.json"
+  ],
+  "removed": []
+}
