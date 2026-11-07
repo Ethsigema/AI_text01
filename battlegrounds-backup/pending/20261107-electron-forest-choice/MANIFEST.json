@@ -1,0 +1,215 @@
+{
+  "archive": "electron_forest_choice_20261107.tar.xz",
+  "bytes": 1067452,
+  "sha256": "bd4fc1b7c89233d278852b1fd3836a9652d02c5a265bd53534ec695495b28930",
+  "files": {
+    "electron_forest_choice_20261107/BASE_MAP.json": {
+      "bytes": 4564938,
+      "sha256": "3d562a0ccde4e3d74ec9794139497ac99378b5550971c73fac996cc7d2cfafd3"
+    },
+    "electron_forest_choice_20261107/EXPECTED_ROWS.json": {
+      "bytes": 22087,
+      "sha256": "61e68edf718b072d50182424eaa3cc6fc1c6239fc759c2bcc1f2d5ec0c0647a8"
+    },
+    "electron_forest_choice_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_forest_choice_20261107/NATIVE_QUANTITIES.json": {
+      "bytes": 181,
+      "sha256": "d6b6d5a99b048228efa14b2e2308ed574c247b4a197008f86009a095b7c0e19a"
+    },
+    "electron_forest_choice_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5520,
+      "sha256": "b2653d9ff2fa5d51d45dcd9235848e0b7aace81e1462db0c8770513493e39251"
+    },
+    "electron_forest_choice_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 264961,
+      "sha256": "df9e33cfbaaa010837ca54f46f744895ff1090aea6d3117d0ebf8efae3dedd76"
+    },
+    "electron_forest_choice_20261107/README.md": {
+      "bytes": 2142,
+      "sha256": "f20e62f7ccf24e23923688f62662d6964e1b3163134b2aea5c14ad8992c0f398"
+    },
+    "electron_forest_choice_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "9130f0693a94b6f6b86fbb0e14479d838f71dd2e76ac96fe00312504866184bc"
+    },
+    "electron_forest_choice_20261107/SOURCE_DELTA.json": {
+      "bytes": 1674,
+      "sha256": "9ae76295b8ba7646a56b93ce4894d201f368287b80ae2f12dd8d821981e1e2d7"
+    },
+    "electron_forest_choice_20261107/SOURCE_MAP.json": {
+      "bytes": 4565591,
+      "sha256": "7125eba781ac69fcd0f7d6b43f88a88ad151a63f075cbd1cd52092278816ac5d"
+    },
+    "electron_forest_choice_20261107/VALIDATION.json": {
+      "bytes": 776,
+      "sha256": "8b1cca7166c6de51f9584d3ea2c703b1a86cbf7caef27177393f3e034f98c948"
+    },
+    "electron_forest_choice_20261107/bindings.log": {
+      "bytes": 111,
+      "sha256": "992f678a1a86ca392cfb75275bc3a357171de38f53e42cce0a83c156dd783c7a"
+    },
+    "electron_forest_choice_20261107/build.py": {
+      "bytes": 3931,
+      "sha256": "b7e917ee68dd4e6600c9e7775f4d9c37b99a4ddd06217e772bf05fa6602ec87e"
+    },
+    "electron_forest_choice_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 36148,
+      "sha256": "594fb8344b4ead89186511a2d88b71d4ab85f917313c5f4565a8cddbcb72753f"
+    },
+    "electron_forest_choice_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 34201,
+      "sha256": "c0fc13bba42d3524d8e13a047f1ae9eb41ffe6692963c99ccc59c0c7959ef488"
+    },
+    "electron_forest_choice_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 9204,
+      "sha256": "29599a4fcbb9403e9513f2158f5d1a6d029004724179d1998e3ee468c2bb13bd"
+    },
+    "electron_forest_choice_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 24086,
+      "sha256": "ecd9a66f6b86952e9574a7c95d33d60d97b2f0a6e62cf8edaf7ade6237953eb5"
+    },
+    "electron_forest_choice_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 22876,
+      "sha256": "8fb14fb82e28a401d6142bcbed42e9912e0e60259c46e0cf3a5a69bd9f369d5a"
+    },
+    "electron_forest_choice_20261107/delta/research/electron_forest_choice/BG31_886.native.xml": {
+      "bytes": 4430,
+      "sha256": "eba035f9ad37acf09ab532391b734e9d1ba0acd96e00e321fe5906ab7a5399d2"
+    },
+    "electron_forest_choice_20261107/delta/research/electron_forest_choice/BG31_886t.native.xml": {
+      "bytes": 2685,
+      "sha256": "6f69865aba12e2241d96d042d3fbb9fe14f2925eb06e8a9746d95fdef54374e3"
+    },
+    "electron_forest_choice_20261107/delta/research/electron_forest_choice/BG31_886t2.native.xml": {
+      "bytes": 1920,
+      "sha256": "8ad1bd8b68755d4d37ebbf618876419a86619b96ad237f3092672ad1ea0f6396"
+    },
+    "electron_forest_choice_20261107/delta/research/electron_forest_choice/evidence.json": {
+      "bytes": 2205,
+      "sha256": "40fc5b399e336355801d1d19783409c6dffb1d0828aeb3d39bc37496948a687e"
+    },
+    "electron_forest_choice_20261107/gate.gd": {
+      "bytes": 18840,
+      "sha256": "e780832634e36ae1197a41a0d94cebc29954253cdbbfefacdb3257be7b3a6eb8"
+    },
+    "electron_forest_choice_20261107/materialize.py": {
+      "bytes": 1685,
+      "sha256": "80a185b3c5f00520d35aac249129d70118d488267cab5f03b597c914fbb852a8"
+    },
+    "electron_forest_choice_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1180,
+      "sha256": "dd3f164b01082b58e26208acb05b76768f21db4484f5baf5966b8cc5037d9a9a"
+    },
+    "electron_forest_choice_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_forest_choice_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 22087,
+      "sha256": "61e68edf718b072d50182424eaa3cc6fc1c6239fc759c2bcc1f2d5ec0c0647a8"
+    },
+    "electron_forest_choice_20261107/run_1/LAUNCH.json": {
+      "bytes": 531,
+      "sha256": "44c6dfa05a48370fb238063fb25e325244c00d454e021bcdeae90a72bf88f994"
+    },
+    "electron_forest_choice_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 264961,
+      "sha256": "df9e33cfbaaa010837ca54f46f744895ff1090aea6d3117d0ebf8efae3dedd76"
+    },
+    "electron_forest_choice_20261107/run_1/PROCESS.json": {
+      "bytes": 605,
+      "sha256": "711f5fd47d1326591064250e1d05b77e6031c4be3796f48f8c503abe3d251632"
+    },
+    "electron_forest_choice_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1659,
+      "sha256": "dfe292b3325a508db4943308c1ada39d242956808e3e56e7b100872aa9b2eb42"
+    },
+    "electron_forest_choice_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 13012,
+      "sha256": "a1f3c057c6c51857c241ecfd0748ccf8e07392637b44c514770b8fefd39bc5e7"
+    },
+    "electron_forest_choice_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4565591,
+      "sha256": "7125eba781ac69fcd0f7d6b43f88a88ad151a63f075cbd1cd52092278816ac5d"
+    },
+    "electron_forest_choice_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 36952,
+      "sha256": "ca77e709f939b918f8eae0027eb29aa9564d04dd33c5ac1a99669bbf47fd7f63"
+    },
+    "electron_forest_choice_20261107/run_1/data/prefix_progress1.native_save.json": {
+      "bytes": 59198,
+      "sha256": "a382d6089b8274b8f5b64c72097684f1781166e0aba787afb1b1ca97ab01feb8"
+    },
+    "electron_forest_choice_20261107/run_1/data/report.json": {
+      "bytes": 1476251,
+      "sha256": "bad629970a6d4d7999f001982ae465b7bf12339fe3fd2cd02f4eeb7a1465bc2c"
+    },
+    "electron_forest_choice_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 74147,
+      "sha256": "48d11916d64cdcb49b5ad3ca07ad37d4d6ef3fc9bb3f61fff1bf6fbc2420f659"
+    },
+    "electron_forest_choice_20261107/run_1/gate_executed.gd": {
+      "bytes": 18840,
+      "sha256": "e780832634e36ae1197a41a0d94cebc29954253cdbbfefacdb3257be7b3a6eb8"
+    },
+    "electron_forest_choice_20261107/run_1/native.log": {
+      "bytes": 335,
+      "sha256": "fe1392c50516a9367b1ab6f1c730ece2d4ef2ccbb6bb4295efc4aab8df5da95a"
+    },
+    "electron_forest_choice_20261107/seal.py": {
+      "bytes": 4671,
+      "sha256": "1984496938a3a2d77c103ae7d22aacca8f5425e602bbdb1e2a10a296b7c22306"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_forest_choice_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "78d7705a1934861a30b8f92508d785de93c64e69cae6496138489b624daec02d"
+    },
+    {
+      "name": "electron_forest_choice_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "9b7595d4f36032505d495976304299529cc7170bde98b244c09e009a85e26f50"
+    },
+    {
+      "name": "electron_forest_choice_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "15ffdbd89b8005787460448395119407e0ea4765403ddf8335cdf90ec968bd23"
+    },
+    {
+      "name": "electron_forest_choice_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "c4048da0b34fe6c690abff5cf394820addebb412d1576500a164f38182cdb73b"
+    },
+    {
+      "name": "electron_forest_choice_20261107.tar.xz.part004",
+      "bytes": 67452,
+      "sha256": "a63e538c0399864b0c5f462e9434f6e0ce0854fde5eca1db6942244ee3d5ba07"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_forest_choice_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 554,
+      "sha256": "5bc59ecab42ae0bbbcf0b7601b440eec89a3296561b64e155e3e32df97584069"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "golden_molten_commit": "53bfcd64be35948812aa0e6481f933a4934e4b06",
+    "golden_molten_source_map_sha256": "3d562a0ccde4e3d74ec9794139497ac99378b5550971c73fac996cc7d2cfafd3"
+  },
+  "status": "Electron Forest Bounty choice bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 40,
+    "credential_pattern_flags": []
+  }
+}
