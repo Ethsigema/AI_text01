@@ -1,0 +1,454 @@
+{
+  "archive": "timewarp_chimera_reconstructed_20261107.tar.xz",
+  "bytes": 2801160,
+  "sha256": "85909f7da4581207da4ccc0ed16d4248cc20df29cd60f55bde3321d0c26b313a",
+  "files": {
+    "timewarp_chimera_rebuild_20261107/BASE_MAP.json": {
+      "bytes": 4540926,
+      "sha256": "f87e45df66016dcffa35e07d20e4f3aec5dd167e583f60bd6fb7c7318bb7cf95"
+    },
+    "timewarp_chimera_rebuild_20261107/BINDINGS.log": {
+      "bytes": 2532,
+      "sha256": "dd8fe4d6da920c81e52b8203c9a1f16d9dc20d227680c7d16fbe7966484187c7"
+    },
+    "timewarp_chimera_rebuild_20261107/EXPECTED_ROWS.json": {
+      "bytes": 3611,
+      "sha256": "7e1d33988dd236afda2d674477bc3f6a4862f729d4367151f74b9e22d6c35b3c"
+    },
+    "timewarp_chimera_rebuild_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_chimera_rebuild_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 14161,
+      "sha256": "f25b63f66cd80e7bffb162cc8f17cc1e294ff963ef7f47454c93323e289cca94"
+    },
+    "timewarp_chimera_rebuild_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 235346,
+      "sha256": "48233dbea3fbd5366f3a4e2d447abfd93029747daf87bf74c6c2e4f7a6333e72"
+    },
+    "timewarp_chimera_rebuild_20261107/README.md": {
+      "bytes": 2134,
+      "sha256": "0385a8636c1325f79b7fdd3720b3d78cd7828c729b39186962e70d0bcd86be8e"
+    },
+    "timewarp_chimera_rebuild_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c7e960bd4c6c169f7afe807787bfadaf9246fac5a4ec0a887485c8bd9e883516"
+    },
+    "timewarp_chimera_rebuild_20261107/SOURCE_DELTA.json": {
+      "bytes": 10294,
+      "sha256": "a8def25a5a0d82ce148ff996941d7d95c7704cf9239df0ba21ac8a777524b612"
+    },
+    "timewarp_chimera_rebuild_20261107/SOURCE_MAP.json": {
+      "bytes": 4542400,
+      "sha256": "2f30ae8f177cc4c1b12ce0c8e34d295aa4d991ac8c4f524c56bfab58e05925d8"
+    },
+    "timewarp_chimera_rebuild_20261107/VALIDATION.json": {
+      "bytes": 995,
+      "sha256": "247a8980916f528900581fea9ecae0f09c44400b45f732ce99f6f75c88661a64"
+    },
+    "timewarp_chimera_rebuild_20261107/build.py": {
+      "bytes": 9892,
+      "sha256": "c448e13b7bb97178a8f11be6276fcd3a5409dbab508edea9bb992b91cf1e9610"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/catalog.gd": {
+      "bytes": 1812379,
+      "sha256": "5ee5779fdc2b039f4bd1dd796d7a6076f67340de1a0762629d0fddf4e3936337"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/combat.gd": {
+      "bytes": 574565,
+      "sha256": "e204a0cf78d79b10174f029c2b2bf6c44faba72bf8dccb1ab1aacd716aa0a1f1"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/game.gd": {
+      "bytes": 1322302,
+      "sha256": "b3d090dd2df904342ec34229aec0cc0df68536a59ac6e80e1fcaf396dd8dfbd6"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/kill_reward_host.gd": {
+      "bytes": 62674,
+      "sha256": "5752f3f8e3a2de745496ddd665f8ea9d3fa2c399741bd975655fe261ecb40957"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "6847506bcd17ecf608785cb13436253ecb055a489b4830c6a4265e7fe9d9c7f2"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "eafbfbff090be8b77acf24ca30983c1f0f757b1b7794d54b59da05218c345253"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "9e24498d3e72a83949ac3e6d254975c35d2e89e610cf0ca5e50aa27e8f8b1ead"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "db88a5069206f2eac69f9f91a1c5def49bd1d90a66246d7482921edf6f2a7d8c"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "2269f18c0990d61f7ecfdcd0ded4f93c7caf8d9d100eaf9d9e53ebfeb198ab42"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "57881b4285d11a9a424bdce8ff7564d2a149182ba3c9decbf4790a4aa13a9a94"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "e6d7b3f96b29b634bdfcdadb14f4a68c1e3233fe09751b29872d4733e8877293"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "b5913ec1a8afeb9b94940a56ca26e091f00afd580197c91000bf5a6a352d7064"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "26bafbcd428b183a6a62720f87a9b32b03b5a59bd5dd5643f0fb0ffdd23f0c63"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "9199818c2285516835d73d77452b4fcd6636bbb7dccc9becc74d5b70fc4ee174"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "659bd936995340d5e5f381da23f2436178b6698aa8c7f9df8bd336f5ad01c123"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "d6ebd8f21ed8cb8d55bfadf15425935254665e87aa6f52204ce3b7486ff6cd87"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "583c35bffa3f4c03b8f506aa852cd588b904d3a2be8d5325f97e44fd6c109adb"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "8e9412d441e3f1a920e2d1b57f1eee29e2519755c91765e0a055b75487b34b8d"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "e8688a68b456658de38ad483c2bbb47042c9f91f749ac7809192eb854347ed79"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "cc18d503c87c2329da6036f63bf77d1fd23293d498e30ed81f0d669aaffbafa0"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "ba8aee5b6486e322be8481bb56ad19feffe4c6bc7a0e002a0dcaba29d1e0bfa5"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "4e0beacda567b82678cd6b28174570025e4442943491c050c34240c4ff926df2"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "7b3380128adb29eff473b5d87571425bdb75f00a96d4d5d3564a7e33e3aad2b8"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "ad563ed78cd76648572892862bba11e5e3ccb81bf987612dc9f095d928cbee95"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "80dfcbaca04572c248339e3d8c2df4b8e05594c84881d573843b1a0f292a0b7e"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "d19be2d7dd3eb53de4fa85d56dce0f8c91f17dc3371a7bc790394565375c57ba"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "93dbdd4eb2f8e08e76ee770d193e149f8cb4a150381115b250ca38aba7c58eae"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "d9efe7700105d850423b778c9619c281efe0791d79333f648b5d849bc829978b"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "b5b19fa8ab7c318884b64c8affed6a903fbf68de470ca8de762a3da5c6324c0c"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "795bae34d3c558d7aaa2cd04e3e6acc07391d0fe2be6a37e922a342b6be0f24a"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "570a110b8531423ba61c93a9d8ced5630c3c1ef5c6e0a877679ad0f4453dcb7a"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "cce9cc008c8bdfabb7083bf088ff922d1ae685f7316c43c6786bcc2205a6df20"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "000170efd41fda541294db19a8222b6fe93a8e74939ba17c4d7b93363a51c738"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "1fc94744d4bb9cb95efd956c93ac5396c1b2a8b7ba32999506660c4ead712d0a"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "c65210de50c1ebc96af90273e9e7c1d3ba4dc4348a14ddc77fa7223ff55a51a0"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "93e08cc6137ea6047d0c187713bf89b16487a20dd3418316e0cd8a1c8a9f5c1e"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "a967a8818290982ad8dffcffdb2d3547a040bce250e1f0e8e16ee6d6b72cbe3d"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "955326cdcbe08d547d0f1830b92dfd3e1e43a3f80fbf2501d0be31534bf0bf5c"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "e763482186c85886e5b81c2a1f5f85c7041d99668c7b9edebaa9bb1c75eab074"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "4dd9105360b92ffa26ba9668a5825a0b8489618e2f2913ca75a89350bef7bb4b"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "264d72da260270b70ff05ea507e4a1656235c8ba76bf136d51cb763eaec960f3"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8115,
+      "sha256": "3adb22ab8b0f603b875eeb2b7c750b148fcd2819faf087e8bef8e756cac89133"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7925,
+      "sha256": "423dd501c1ddb2a5123749925374b702c99ae8552b670aa1c07ca9aba36ed4f1"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8227,
+      "sha256": "c6673a1386a0c7035223a0f4452d627875e7c67654fddd8e30e24ea665c3efad"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8043,
+      "sha256": "79ab57137c8d446ed04e03d31813fc2c5977872d50659840da3ac74cf0688513"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 31256,
+      "sha256": "ffb951e27fdf8ef5d93f5b336fc741629104411025abc92a82e9c3ff9b440c97"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 29309,
+      "sha256": "57bf32ca9b05799d2e617577f3abd83bbd9c1191d9a872a0d2787a48f26d1502"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "00db289ba4cf7d8851c510a97f8de461dbaa8208a504ed382636a406e795f242"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "9205ed826013cf0e41d7d24ccffa601d0b4bf77c34eea4dd3624b74623113ddb"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "1d12095eeade048af9f0b2eba833bae4801e7388a32d39b8202849db0c7dd2bb"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "faa5a06d4793c57bfaa53c5a64d098db8290223204d735adaa42887f3f5eb193"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "881eb368c585010ae8a68c3c13519357102814745994c9130c8dca6f05151926"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "1ff3dfe83f8bc6a2c2154a7f29b97edc51c5c0ef247ff402349b034cb5c189e4"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "29037031157f11f78b149601eb87946bf72a169d219a007c303e845977611b4a"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "07b56484162a4fba0942ae4c9726e6aec3f7ecdfe3d564486dccb94896e24d7d"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/core/timewarp_chimera_host.gd": {
+      "bytes": 5908,
+      "sha256": "05223d521e809b4f28a963108d1f4a6b4eec83347a618a36d05d8a969fd1e125"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/data/patch_3702_timewarp_chimera_golden_overlay.json": {
+      "bytes": 2239,
+      "sha256": "f88e0a93c91a5440be10b086ea547e276e38cac5203ca260ca1557277743b590"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/data/patch_3702_timewarp_chimera_overlay.json": {
+      "bytes": 2211,
+      "sha256": "57c41ac8ed1035b7658b09f21f9c7b0394b23c0f4b8b8941c20b45a207aca80f"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/research/patch_3702_timewarp_chimera/BG34_Giant_679.native.xml": {
+      "bytes": 3733,
+      "sha256": "074ef707f0e02618890f99366c78eb821af2c16bf1b0f85b76f6e6e0429537b5"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/research/patch_3702_timewarp_chimera/evidence.json": {
+      "bytes": 424,
+      "sha256": "b2e60b078ec274f46c44241e743add5dd03966ce2645bbcbde82c9ad5934bd00"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/research/patch_3702_timewarp_chimera_golden/BG34_Giant_679_G.native.xml": {
+      "bytes": 3914,
+      "sha256": "c140a58be2cda960ae709fb5871f9bdcb9e1964260afb2ffe2bb346a392b342f"
+    },
+    "timewarp_chimera_rebuild_20261107/delta/research/patch_3702_timewarp_chimera_golden/evidence.json": {
+      "bytes": 425,
+      "sha256": "6ebca050b3a278a45b500fb599590da77272e174cea588e0994528b955dc88c0"
+    },
+    "timewarp_chimera_rebuild_20261107/gate.gd": {
+      "bytes": 17337,
+      "sha256": "8095255d7623cbef54f03d0e520c0e0f86c64f0a0b444205736fb0a5b2feb19e"
+    },
+    "timewarp_chimera_rebuild_20261107/host.gd": {
+      "bytes": 5908,
+      "sha256": "05223d521e809b4f28a963108d1f4a6b4eec83347a618a36d05d8a969fd1e125"
+    },
+    "timewarp_chimera_rebuild_20261107/materialize.py": {
+      "bytes": 1691,
+      "sha256": "1551c49cc0c3a0f09005128856860371628fe2c37787944aa4f8d719142af552"
+    },
+    "timewarp_chimera_rebuild_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1174,
+      "sha256": "f9fb946f94ee6ea5785dcdcc4a772a0cd32b6da500e38b70ced77c423540e3f4"
+    },
+    "timewarp_chimera_rebuild_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 3611,
+      "sha256": "7e1d33988dd236afda2d674477bc3f6a4862f729d4367151f74b9e22d6c35b3c"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/LAUNCH.json": {
+      "bytes": 535,
+      "sha256": "fa894e002fdcc8ca1b97fc29e596c830dfbb042e37903863a358618e4d0bf643"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 235346,
+      "sha256": "48233dbea3fbd5366f3a4e2d447abfd93029747daf87bf74c6c2e4f7a6333e72"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/PROCESS.json": {
+      "bytes": 609,
+      "sha256": "95a85f86d8daa7270e427993ab35f0efb9a573da046a6fe9fc8deade01b7135a"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 10294,
+      "sha256": "a8def25a5a0d82ce148ff996941d7d95c7704cf9239df0ba21ac8a777524b612"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 397148,
+      "sha256": "eb77f8384fd381b06bbfdd086407e95a9beb3242be71a58394a10e1e9d6f014d"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4542400,
+      "sha256": "2f30ae8f177cc4c1b12ce0c8e34d295aa4d991ac8c4f524c56bfab58e05925d8"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/data/before_combat.native_save.json": {
+      "bytes": 67158,
+      "sha256": "df573710fd2d668f51f6c25d437358c7c3b8ca2d73086b8d0d8793ccb20b40b8"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 25226,
+      "sha256": "078e05a648cc85c9f62cb817fd3d58765017be38e03b4d8b19fedb36dc1cc281"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/data/report.json": {
+      "bytes": 1961150,
+      "sha256": "f3c578a236a5c65a942e09ee18e6360521f1872bed4fe9686f93a571198b9174"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 109638,
+      "sha256": "877ca899b568ff3fa68f4ae1367bf401ef2c9a78b99ba31bd017d867a91a70db"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/gate_executed.gd": {
+      "bytes": 17337,
+      "sha256": "8095255d7623cbef54f03d0e520c0e0f86c64f0a0b444205736fb0a5b2feb19e"
+    },
+    "timewarp_chimera_rebuild_20261107/run_1/native.log": {
+      "bytes": 546,
+      "sha256": "9aa69898b8051285a43c02d77f4e0a1875dce07244b1d2c36621b1b62eb5ffd4"
+    },
+    "timewarp_chimera_rebuild_20261107/scenario.gd": {
+      "bytes": 7954,
+      "sha256": "9dfb7805682809efd811ebf51e23f91ca902828e093deb10227907b82f91b2e9"
+    },
+    "timewarp_chimera_rebuild_20261107/seal.py": {
+      "bytes": 4477,
+      "sha256": "ad27d7c670bd308afddfe6e5501742d32d4c7353278d805c14171b06c9a25b01"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_chimera_reconstructed_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "79dff7def0dd9839382ce3cb20289f146bd6fd8f227967f36ae0fe972b4050ac"
+    },
+    {
+      "name": "timewarp_chimera_reconstructed_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "2247773466bc9eef46f7505a2e4ace5b9b2ff379095ac129bf4b1ca11dabcd71"
+    },
+    {
+      "name": "timewarp_chimera_reconstructed_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "c5980aa22261b473de76b7ba0c43eba1b71aea7901b5bcde2f606fca66d4584b"
+    },
+    {
+      "name": "timewarp_chimera_reconstructed_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "4e886ef57a018feed1eaf09b1c7ef36a1b2dbc938f8f29fae960088b44da47e8"
+    },
+    {
+      "name": "timewarp_chimera_reconstructed_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "3130d5bdad491f6470bd439dcd9c145d314f47bff95fb5cf153056e098afeb86"
+    },
+    {
+      "name": "timewarp_chimera_reconstructed_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "41924ccaaaee9ef3318435c21e9b2616b94226a15fe8248b7e43cdbd281fda3e"
+    },
+    {
+      "name": "timewarp_chimera_reconstructed_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "ac7465ac35b9983180a947058e89662327770838af194e883b629cdbf771844a"
+    },
+    {
+      "name": "timewarp_chimera_reconstructed_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "3af6c06f975155966740165882229ecb7c9e36cdd352f620dd8278990896563a"
+    },
+    {
+      "name": "timewarp_chimera_reconstructed_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "e1866106bc153483d91cdcda2f70e907490488c18002dd8e845d0018a177d88f"
+    },
+    {
+      "name": "timewarp_chimera_reconstructed_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "7b67ef59ea77e205dcb59622c4b3709f413be328651bdb06c118c637e1428c87"
+    },
+    {
+      "name": "timewarp_chimera_reconstructed_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "ae5e0bcf0a452ac4a16c73dbf5a1e2ace6fd046e16342b03bdc6029546f4c4cc"
+    },
+    {
+      "name": "timewarp_chimera_reconstructed_20261107.tar.xz.part011",
+      "bytes": 51160,
+      "sha256": "42b956410ac4201ef82adf97950e24ddbead6e496bc2b52f12c944893d852d2f"
+    }
+  ],
+  "depends_on": {
+    "mythrax_commit": "898c71b742b58bb02024a5c0106aea27578a2f79",
+    "mythrax_source_map_sha256": "f87e45df66016dcffa35e07d20e4f3aec5dd167e583f60bd6fb7c7318bb7cf95"
+  },
+  "status": "Incremental reconstruction; preserve Mythrax and full historical chain; no full gameplay acceptance",
+  "audit": {
+    "archive_members": 94,
+    "credential_pattern_flags": []
+  }
+}
