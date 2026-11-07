@@ -1,0 +1,203 @@
+{
+  "archive": "electron_tomb_turning_20261107.tar.xz",
+  "bytes": 1076532,
+  "sha256": "109b9819c7fa2dfb8a45695c9bb688c3913178354b182cbf62f3a0cabd0f882c",
+  "files": {
+    "electron_tomb_turning_20261107/BASE_MAP.json": {
+      "bytes": 4568675,
+      "sha256": "4e0096c08e463090b8b47a88a7b2554b81a931054f87752b66ab59eee792014a"
+    },
+    "electron_tomb_turning_20261107/EXPECTED_ROWS.json": {
+      "bytes": 23647,
+      "sha256": "2b99372bcb9238dc812103c8848fb9c865959022dece3d42d8282bff797e5c8f"
+    },
+    "electron_tomb_turning_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_tomb_turning_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5046,
+      "sha256": "2f6b59ab99d77b4e56c709860d1a6d835e44cb57bac6ec07ed0b528bdae9d8e5"
+    },
+    "electron_tomb_turning_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 270664,
+      "sha256": "90bb28b4a822093e71c232ace23b40bddd418a6f360d4b370324429efa7f238c"
+    },
+    "electron_tomb_turning_20261107/README.md": {
+      "bytes": 2129,
+      "sha256": "de37584b83befd96dabfff82757368abad1a251619607f404e364de63c7fd39f"
+    },
+    "electron_tomb_turning_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_tomb_turning_20261107/SOURCE_DELTA.json": {
+      "bytes": 1317,
+      "sha256": "801f085d85b7cd8ecf6e21a2ba3b06a469355bfd87f228aa2c8681d5bd7fb89e"
+    },
+    "electron_tomb_turning_20261107/SOURCE_MAP.json": {
+      "bytes": 4568994,
+      "sha256": "f2cd6744f457c94ca7b3d0338cfcab412b1cf8687edfce87fe76466ba90c68b9"
+    },
+    "electron_tomb_turning_20261107/VALIDATION.json": {
+      "bytes": 813,
+      "sha256": "db080347f92b0a2581b869c8e29308fbe8edc2875a9f03c18924960a445b63b2"
+    },
+    "electron_tomb_turning_20261107/build.py": {
+      "bytes": 3530,
+      "sha256": "aeb53095caf1d2f2bd63da323f0152552aa95b708add8db3e0b8ad6a9d655336"
+    },
+    "electron_tomb_turning_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 41311,
+      "sha256": "c164fd42dd1450368d9c32bed9833348f73c58a9556208e10f63bbd9391d40a5"
+    },
+    "electron_tomb_turning_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 39364,
+      "sha256": "025fe2d6f165e17bf50d07c32afd37e0d37ed66f031386d27f87151705b7e228"
+    },
+    "electron_tomb_turning_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 12759,
+      "sha256": "7f07f24e042c0e16d991667eb90cb8fbfbc79a2c978d8d9e0ef7d39d0effd4c2"
+    },
+    "electron_tomb_turning_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 24866,
+      "sha256": "620b2a4e1371d1615ce6a68ec3f888a0f3ddece6aa2247073434cc5bca50fc95"
+    },
+    "electron_tomb_turning_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 23656,
+      "sha256": "6dad130f3c3e7257f42cc2073c2545529bfd452b391a8c382561aa7f1d156fae"
+    },
+    "electron_tomb_turning_20261107/delta/research/electron_tomb_turning/BG34_888.native.xml": {
+      "bytes": 3061,
+      "sha256": "efb24376b64d1762a712075546e109a8c3320c68d084191f63c9f80eaf0b3341"
+    },
+    "electron_tomb_turning_20261107/delta/research/electron_tomb_turning/evidence.json": {
+      "bytes": 560,
+      "sha256": "0f9fb50b4b4156420f2d37b3c154a5435af2694b80302ab155a2da63f7eae292"
+    },
+    "electron_tomb_turning_20261107/gate.gd": {
+      "bytes": 20548,
+      "sha256": "36f631f7e341d1f6c8f44d264325473133b3d00ccfdda87537bf9ca66039f48c"
+    },
+    "electron_tomb_turning_20261107/materialize.py": {
+      "bytes": 1670,
+      "sha256": "c0b5581dee476478eb49b340e5801ce827083653f5c939330a27ea97db2350aa"
+    },
+    "electron_tomb_turning_20261107/prepare_gate.py": {
+      "bytes": 4114,
+      "sha256": "71c9e71b3d5d3ed04d6e361a464d05cd8e5528aa4620d722986cf950ba80a79c"
+    },
+    "electron_tomb_turning_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1173,
+      "sha256": "4d702b2033db9da22b18b5e2c70d2af9ba8c40504111af651c4dbf96d3b833b1"
+    },
+    "electron_tomb_turning_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_tomb_turning_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 23647,
+      "sha256": "2b99372bcb9238dc812103c8848fb9c865959022dece3d42d8282bff797e5c8f"
+    },
+    "electron_tomb_turning_20261107/run_1/LAUNCH.json": {
+      "bytes": 529,
+      "sha256": "d34410969e021adb4296a7068065ee963b64bc18937956891c94a693960975a8"
+    },
+    "electron_tomb_turning_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 270664,
+      "sha256": "90bb28b4a822093e71c232ace23b40bddd418a6f360d4b370324429efa7f238c"
+    },
+    "electron_tomb_turning_20261107/run_1/PROCESS.json": {
+      "bytes": 602,
+      "sha256": "df0cfa6983e7f49481a56c32ff4c184ebce891a5a40522001a335113d672c1e5"
+    },
+    "electron_tomb_turning_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1317,
+      "sha256": "801f085d85b7cd8ecf6e21a2ba3b06a469355bfd87f228aa2c8681d5bd7fb89e"
+    },
+    "electron_tomb_turning_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 13848,
+      "sha256": "6cd58e2eae36228443552ff307ab7d7524c53387e06353995873d312eab48cc1"
+    },
+    "electron_tomb_turning_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4568994,
+      "sha256": "f2cd6744f457c94ca7b3d0338cfcab412b1cf8687edfce87fe76466ba90c68b9"
+    },
+    "electron_tomb_turning_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 33996,
+      "sha256": "f527bf091b745ae93b1e67368817c2825fdf356ca896c9113023c9843a4a2f2f"
+    },
+    "electron_tomb_turning_20261107/run_1/data/pending_discover.native_save.json": {
+      "bytes": 93083,
+      "sha256": "01ef00c3ccb15ef3b02a9b3a1d1097397d9d30587c9894b247a5efcf28f0ca88"
+    },
+    "electron_tomb_turning_20261107/run_1/data/report.json": {
+      "bytes": 2099886,
+      "sha256": "29c3d61729b9747afee3cfd9a4f40f6604acd20cce7408765bbed06dde615d72"
+    },
+    "electron_tomb_turning_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 104172,
+      "sha256": "cafd9d7489f01e0747bb38da5e959e9aecc7d6a399df1a30e9e7965076deeb51"
+    },
+    "electron_tomb_turning_20261107/run_1/gate_executed.gd": {
+      "bytes": 20548,
+      "sha256": "36f631f7e341d1f6c8f44d264325473133b3d00ccfdda87537bf9ca66039f48c"
+    },
+    "electron_tomb_turning_20261107/run_1/native.log": {
+      "bytes": 394,
+      "sha256": "f46986b628fa15a72adcbcb38c8e134d685e191b6739aaf8e4da6eee5a17a12f"
+    },
+    "electron_tomb_turning_20261107/seal.py": {
+      "bytes": 4703,
+      "sha256": "582dceadcce5aecce034c3f4d1d8a76f77b6e05ed2a1019424d8d01c8f5c8801"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_tomb_turning_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "e52049944e1a882c7c99c005b6278f49c332920781cf040f22fbc24fb9ddcebe"
+    },
+    {
+      "name": "electron_tomb_turning_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "dccfbb75c87fbf7982655911b1ab7a45ee59397d3fff27fd2baa8a695ac98a5f"
+    },
+    {
+      "name": "electron_tomb_turning_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "16b679c746b093a1ced6298b2ddd3c21df92ef712db398da958f28881d206c9b"
+    },
+    {
+      "name": "electron_tomb_turning_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "0322dfa3eca8a37b0e3fd9d00fdd7b89fc655b40560b4cbe7842ea3939a0c743"
+    },
+    {
+      "name": "electron_tomb_turning_20261107.tar.xz.part004",
+      "bytes": 76532,
+      "sha256": "51c3c5fcd88a5a23d375d5259a101318ca94e1b31298bee4d70ac4061f2eb400"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_tomb_turning_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 431,
+      "sha256": "ede5f3b3e3bea72b78c8b87431ed928134e2895f5a55017c6a67aaad2a2f9e92"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "tier1_discover_commit": "a9d1dd894bf497b17b7bb8a1d9bba4d3e7eb5b3d",
+    "tier1_discover_source_map_sha256": "4e0096c08e463090b8b47a88a7b2554b81a931054f87752b66ab59eee792014a"
+  },
+  "status": "Electron Tomb Turning same-turn play-death bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
