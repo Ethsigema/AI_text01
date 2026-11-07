@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "tomb_turning",
+      "commit": "a83bbd5337558ab690778a31e33925913d53ff8c",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-tomb-turning",
+      "manifest_sha256": "c843f4ae79408c1712f5f43470d3eaff74970fa7fecdf9c7c7f58869e078ce4e",
+      "archive": "electron_tomb_turning_20261107.tar.xz",
+      "archive_sha256": "109b9819c7fa2dfb8a45695c9bb688c3913178354b182cbf62f3a0cabd0f882c",
+      "archive_bytes": 1076532,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "tier1_discover": "4e0096c08e463090b8b47a88a7b2554b81a931054f87752b66ab59eee792014a",
+    "tomb_turning": "f2cd6744f457c94ca7b3d0338cfcab412b1cf8687edfce87fe76466ba90c68b9"
+  },
+  "tier1_discover_source_byte_equals_tomb_turning_base": true,
+  "baseline_files_rehashed": 27679,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "ede5f3b3e3bea72b78c8b87431ed928134e2895f5a55017c6a67aaad2a2f9e92",
+  "change_lists": {
+    "added": [
+      "research/electron_tomb_turning/BG34_888.native.xml",
+      "research/electron_tomb_turning/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27681,
+  "restored_bytes": 1547994230,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_tier1_discover_to_tomb_turning_map_continuity": true,
+  "supporting_tier1_discover_chain_receipt_sha256": "9265c9ce6223f9b81972cf76d2980e84d3b03af5e77cb10b523580d4e207bac3",
+  "historical_baseline_provenance": "The baseline is the verified Electron Tier1 Discover baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Tomb Turning increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T21:40:12.236503+00:00"
+}
