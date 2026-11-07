@@ -1,0 +1,490 @@
+{
+  "archive": "fire_baller_base_20261107.tar.xz",
+  "bytes": 2798544,
+  "sha256": "caf851aa18803976358b1e9a94f1d5540fb64f2602a00dcc0bb07dc8166cc6b6",
+  "files": {
+    "fire_baller_base_20261107/BASE_MAP.json": {
+      "bytes": 4550116,
+      "sha256": "693f098913d7eb84ef16e6e09e95d8edfadbce2fdfe25b956bc83af91ac761d0"
+    },
+    "fire_baller_base_20261107/EXPECTED_ROWS.json": {
+      "bytes": 17819,
+      "sha256": "40b43bca3a1ec003758fc9c98979261ebb3a487a609504a74212674191aa3060"
+    },
+    "fire_baller_base_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "fire_baller_base_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 15144,
+      "sha256": "082e1f98ffeaa73f71e34927f7aa8ff19c204fb1d746aa3af0ae14e8941f4ebe"
+    },
+    "fire_baller_base_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 248182,
+      "sha256": "e5c72ec17cd75f659775eead32a843df295b63fb80222994ae42a11fd61923dd"
+    },
+    "fire_baller_base_20261107/README.md": {
+      "bytes": 1993,
+      "sha256": "44a8fb29c2f1d5664ca81bac2e16ee4190d27654609dfd66631a18cc081d50df"
+    },
+    "fire_baller_base_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "6ea9f6329b88bd058f384e82405d474274f6e72fa3dbf3af0a1d5a5c5c5a8c50"
+    },
+    "fire_baller_base_20261107/SOURCE_DELTA.json": {
+      "bytes": 11411,
+      "sha256": "a92ad194f94ab75bd1a55965a2e26af489b6fce2318fdb66190bb46054cb1238"
+    },
+    "fire_baller_base_20261107/SOURCE_MAP.json": {
+      "bytes": 4551537,
+      "sha256": "8429c357fe845924347c1293f921c64e7143f4b4209d08dab2d51d7082e32120"
+    },
+    "fire_baller_base_20261107/VALIDATION.json": {
+      "bytes": 914,
+      "sha256": "0711c92f1af1fa852fe55cd75133fb7b8eab71e5bbf812ebfdcd7f22266b1b7e"
+    },
+    "fire_baller_base_20261107/build.py": {
+      "bytes": 7768,
+      "sha256": "18097165ecc42062f5ae9cbc5ffb10bd07a75f8ef03743e18250d307b78317c7"
+    },
+    "fire_baller_base_20261107/build_gate.py": {
+      "bytes": 4605,
+      "sha256": "6cab3db33545c03352a51650f0b7f34769fa181e1ed4c796ff2a7f5ebdec6a64"
+    },
+    "fire_baller_base_20261107/delta/core/catalog.gd": {
+      "bytes": 1824700,
+      "sha256": "6cb9ac0c0f32e33f6cfbf86c9888d9996458edbfdad9ddebd523f786d6dd8641"
+    },
+    "fire_baller_base_20261107/delta/core/combat.gd": {
+      "bytes": 575370,
+      "sha256": "a2491bca8eca6475f4218849d11226e6efac38417965300ed123c4b129899209"
+    },
+    "fire_baller_base_20261107/delta/core/fire_baller_host.gd": {
+      "bytes": 4021,
+      "sha256": "ff8fba8e5f0ed0aedfbf3f665939492c56c568e90d79a7670aabf4e0747413e3"
+    },
+    "fire_baller_base_20261107/delta/core/game.gd": {
+      "bytes": 1324532,
+      "sha256": "b87ce279d66a897c7364bb6a4684b15bba5b550f8a5a4a811c0d4c2150338e66"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "0728ab6e294d6b5393156f4579bf34acd1275192f212fbdc02dfb0126403929d"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "06c7113620316b950034f21ffc71b74b29f2f03cc2bd92b47ccec8b79172e45c"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "7aead48a8d1cec3ae656ff01a3384de914b856a0b3f608a89e69f43f7dff9657"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "324fc01ec7438cb9d505f6be88c5e573a091ee484a1b50d11ca177924b61a93d"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_fire_baller_golden_sources.gd": {
+      "bytes": 26786,
+      "sha256": "3202f7225f3fd5848e9d4fd8a773913c17f04f8ba2c27a2e684ea3fa4e8f863b"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_fire_baller_sources.gd": {
+      "bytes": 26227,
+      "sha256": "dfabd82d46f4ff3959c3c9dba2f5271210bd8eb075b1060f5e95b48bb259b557"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "168047f4ffec829d80ba8e70d0c9d746ff434bae6bef61f2ea9e6a311177336e"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "c843a2ac360143a69987428815788a6b34116c497b8e4a23a2b8f17b08deb2e0"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "0e95d93253f8cd8e6f926c52746848d980029620620e43761a38acbf2ca285fb"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "1bedba49d394596fba23f1695105501c24c0f2f83095179f6f769e1f21302315"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 24230,
+      "sha256": "3359b46a582d7b8b49b9a9f2f25b07554b6ddcca925410b1a0d6e56bd4235310"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23667,
+      "sha256": "9d18353ad65bae6eaf80fc9605f9e1dae83b3f85e29304343172583d47fc0d48"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "1c95a4289c73f5789c1e9e301d7ea00d98b9b4504e01e615608d5cc9f9a02195"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "f80fbcc3e99ae44ee10cd5f98ac190ffc7b123f1a98ab7a3a28ff081884491d8"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "252977d6eacc65454741e37d6bfec4319ea964eb2e7c2d51a211a4fc69b07f9e"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "394fbe81266f4e26e5904b8d6728fda1765b96ed7eefe54020e934daf34a19ef"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "dda3726e7578a1c736f174524aeac54fc69c76ff51189aee1c129116b66e41cd"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "7148ffae801365d94fbc34bd9f9a6dcc5b03bd44598205dc280a1fb1a2b3e913"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "e143b339e3998e82b8574165972bee84c7ba71c7faf9afd2f02f4db9ee641117"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "c2003b7a91d86a4faf3c28b8200feae6c860f3f97ae736510827fa759aa9b998"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "753d6c2ea965ecbceb15a4a8cc879ae07ff33138dddb23d3a3aef0c10ed40098"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "fbf98a935766dc154c0dc140a017de4abb2bc4f1d30ad0df77da016cb9f0cb10"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "f982590af342dfc60d4e02b1029c09355cdd18ef1a4d90a85435ec4f2415223d"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "0b4c9b7a333c9741b64054b2709609bfea5a33eb3cfaa56fb336cb7d0e9a113d"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "4fb9de6c6abab179e7fe2e793734db779a427951f99be9dc975bcf612fc663e5"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "d0552bd6e47509f373526017e2e4794760ca6845199eb0216dbdd299124c9309"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "08d4bb1e491b5e528d18c8aa53369933d5fa7f147f6ac531ddccd35b3feedf3b"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "61d6f299f23abd8cf4d9ddb1a0917200b87b21829d2f3c396ceba0e1f4084c18"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "ff9fbad69e3ebbf7028240e338b66b7f6b5954ae4287810dc45deea01e78f986"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "5f6a7e03d9fa981bef0ca6d891d415c6639851aed7894c7313a9f970f42e4c69"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "9726df16e2ee00cf3a4ced83eddde909e67fb1132403e92086bffed8f4c52854"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "f984f01fbb298a8f23b75ef73ef12670b2b69294b0da2edb41c9f6186e6951a0"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "5146f8232a6a20e68ec4ca131f237992cfaef621539aac20f4df13d38905f1d4"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "1586ce0261df267a66fa433ba1997f6b9a3a034af0cb56000243e12b847c400f"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "334dae470688feb39aa075f4f5df1d14f92eb61a1968b0f6c8adf965edaeb962"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "7fbe2e250ca1bc131fe8b125bcbf845df3dbd65d903820d05eeee6367431243a"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "a6c3bf70c5fb1acacb8fee375c46b101c0057ecf57b5678767ae5d425f207c33"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "4c11935d8e0ca9c1f759756cc60e04236708bb64ea0eb3e6bcf4b486b26dbf1e"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "3446ae24ba11e47afb7d7bdc7fd364912063d4ee983bdf38f7eed3649f90122c"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "4caac21f8d57793939bd7ea26b2f5e2877064048a9197a59ce0978c9975585c1"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "c4a3ebf5b71fad8998bc5ed4fc3299b8e2db65f6c5e8ec3aa5f03da51082ed76"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "f84c8a1bf90ae4666df5ae568c57878d20f43669f3e394b11bf7dac46658cead"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "b84fb10413df952d305d7cf7627757eec001cc09cc92b68f7ee48d29005505a4"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "c5729efb81a862dd8a9afffc8b7bd5ffc65ea2c477f3989fab6d0467f8eeb2d1"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "9bf48c5c2c56016045724c43d500cd8f5b4ede7b5e079333f78e139d6855cf70"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 34980,
+      "sha256": "b9ba7622438084f780a5529f8dc9c1e17cb9c7cd0a1656c3b0b09c3be6c08bd2"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 33033,
+      "sha256": "7234e21ace1adc5590b2c93f428a645ae713b634a3bd74e0654688d499d9df85"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "462a862e2f1e381e3f6b652e8738e2d4c6856e118aa48f6d44934d5bacb22a55"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "eb2575b494b895e1a0581e17738c8c29118509799df8d36545c4835f040eefea"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "e00a614693ccd06d7b2413cd40f59581690c3b10ca0d4f7effbc42620bbeb291"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "a21c32eaf24216209c9ac531a424800cb89d8c64cef1ee40363f717fa6833eae"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "691d860769bdc07d9d8c18abf189c479de7903b3cc255a2c54462e3423ff2287"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "37c2949abf88b8bb34710899698c0c6764d837b37ccb6a4223b014f82b37f0de"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "cb1fb3a7daa33869e8a98f270dcfd6b83e75d21ab8132a751c11a8d9a3d4059d"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "4f2a6591099e55800762b89ce5aa1483097f952340703fb5a663f1e3be83b481"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "b7e796861cf94aab93ad2da4b95a10de03916b10ddd9419d7e9941dad04526f3"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "81fb05ad853edc5cfb114d7f5d78f08ec00e949ba4031c63ca385536cc9e7057"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "d2e5f3e3f520e2fdcb6099dc69a53d346a37ce99bf2210cdca6b9c26bb1fe505"
+    },
+    "fire_baller_base_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "49c192e419d79dd49697871631cd9dffcbc5ca9b61cf1facaf6e985e4ffbcd5d"
+    },
+    "fire_baller_base_20261107/delta/data/patch_3702_fire_baller_golden_overlay.json": {
+      "bytes": 19983,
+      "sha256": "c55cb84613c14b8756b09d9f5e9b5d38d0adc4db2ed77ecd4fd17591bf39a6c3"
+    },
+    "fire_baller_base_20261107/delta/data/patch_3702_fire_baller_overlay.json": {
+      "bytes": 19749,
+      "sha256": "9d8c66052ee9c90b1a7c4439e95561fb1351fc93b27363eaa28fe3f9f97f6534"
+    },
+    "fire_baller_base_20261107/delta/research/patch_3702_fire_baller/BG31_816.native.xml": {
+      "bytes": 5180,
+      "sha256": "bc5f8f65b039482800f74afebcec6fbc5766dd30565bd8593d4388931aa993fb"
+    },
+    "fire_baller_base_20261107/delta/research/patch_3702_fire_baller/evidence.json": {
+      "bytes": 415,
+      "sha256": "40086d607a3cbdba73d353bf7f8a3e04eee0b5038baccee1684ee48a16cd4b26"
+    },
+    "fire_baller_base_20261107/delta/research/patch_3702_fire_baller_golden/BG31_816_G.native.xml": {
+      "bytes": 5017,
+      "sha256": "feeb4920839ad11af09c8d37b629544fff6784174c073be33b43c00f0fba601d"
+    },
+    "fire_baller_base_20261107/delta/research/patch_3702_fire_baller_golden/evidence.json": {
+      "bytes": 415,
+      "sha256": "1b8354c0d406ce656720da1b74a3859f4eb20d3a2f0ed37c75db90567ffe9e09"
+    },
+    "fire_baller_base_20261107/gate.gd": {
+      "bytes": 17441,
+      "sha256": "6f240821937db84a1678a4e66646210982861c6e8265b28165312c79b74b5268"
+    },
+    "fire_baller_base_20261107/host.gd": {
+      "bytes": 4021,
+      "sha256": "ff8fba8e5f0ed0aedfbf3f665939492c56c568e90d79a7670aabf4e0747413e3"
+    },
+    "fire_baller_base_20261107/materialize.py": {
+      "bytes": 1699,
+      "sha256": "80d94fc8fce90e2fd1da557ec240b81c4aac3fc39a457778add5d14a70ca7f60"
+    },
+    "fire_baller_base_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1180,
+      "sha256": "940238d34b65728fa4871407b3de057d3d90812e08b0c2908fd5c38b25412601"
+    },
+    "fire_baller_base_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "fire_baller_base_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 17819,
+      "sha256": "40b43bca3a1ec003758fc9c98979261ebb3a487a609504a74212674191aa3060"
+    },
+    "fire_baller_base_20261107/run_1/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "dcef0132af43e1508aa9a7fddd42824bd92bd7eb52a103ddc60d108b7ccd98f1"
+    },
+    "fire_baller_base_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 248182,
+      "sha256": "e5c72ec17cd75f659775eead32a843df295b63fb80222994ae42a11fd61923dd"
+    },
+    "fire_baller_base_20261107/run_1/PROCESS.json": {
+      "bytes": 592,
+      "sha256": "b716d65abd908cce22e4cef6657333244ac022b5e9ee455d6040825e7535853a"
+    },
+    "fire_baller_base_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 11411,
+      "sha256": "a92ad194f94ab75bd1a55965a2e26af489b6fce2318fdb66190bb46054cb1238"
+    },
+    "fire_baller_base_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 396988,
+      "sha256": "34867275869d09a68488260765de2740c20b2b861edcadc3b52543947584488b"
+    },
+    "fire_baller_base_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4551537,
+      "sha256": "8429c357fe845924347c1293f921c64e7143f4b4209d08dab2d51d7082e32120"
+    },
+    "fire_baller_base_20261107/run_1/data/before_first_sale.native_save.json": {
+      "bytes": 55115,
+      "sha256": "e742142969af25efc30406956ffd8552d38dd87e67f7111739d1e53181c56aaf"
+    },
+    "fire_baller_base_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 27275,
+      "sha256": "8dc9cd479a2cfbb4738eabab34fae351f657422c36ddf481c0da91086072bb3b"
+    },
+    "fire_baller_base_20261107/run_1/data/report.json": {
+      "bytes": 1131760,
+      "sha256": "60a3346a204055e2cf4d10fee63d1f44c26a2b40198e2aab45becc6a20e550b1"
+    },
+    "fire_baller_base_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 54988,
+      "sha256": "b4323baccd64f9c26f6086740cb403eb073832a81e31b46746f0294acf8a665c"
+    },
+    "fire_baller_base_20261107/run_1/gate_executed.gd": {
+      "bytes": 17441,
+      "sha256": "6f240821937db84a1678a4e66646210982861c6e8265b28165312c79b74b5268"
+    },
+    "fire_baller_base_20261107/run_1/native.log": {
+      "bytes": 364,
+      "sha256": "a8365bb53c83a299af1100bd3f9a29b964d135aa486ff204ae7b634052209dba"
+    },
+    "fire_baller_base_20261107/seal.py": {
+      "bytes": 4357,
+      "sha256": "9a7fc52285c3cfdf301d38a6b695078ec8d050bd463fa1d61c2168780774b65c"
+    }
+  },
+  "parts": [
+    {
+      "name": "fire_baller_base_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "6ed8e3aa49bf509895747c3a0752a8a9c42c7192eaa0d3203a86a62a3e9464f9"
+    },
+    {
+      "name": "fire_baller_base_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "6522587d69515f1ac9473f8b131f27d8034924768dd238730f27f4bd5ef4eb95"
+    },
+    {
+      "name": "fire_baller_base_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "94f96727b4173da449eca215a872b7aa9c371d8fecdcddd7927d404c0d15e30a"
+    },
+    {
+      "name": "fire_baller_base_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "98575228664233eb6dc274eedce53f9df544fe325ec23c93afa0c2d59653183e"
+    },
+    {
+      "name": "fire_baller_base_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "d55d2c9654a7795080d92d13d36b11b7c3b20c3ecec0a9dbe4be01bf2df99b26"
+    },
+    {
+      "name": "fire_baller_base_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "52fed593c5afe90b4ad73487949b5a4713ed716e5d09ba0dce0bea11fc0e00aa"
+    },
+    {
+      "name": "fire_baller_base_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "c44921777432e3a0f0f609aca538093444fd2ee90e6ada3fb5c0ad54002551c3"
+    },
+    {
+      "name": "fire_baller_base_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "a39040ac7ae7437f77db98162a217ee7ed07e6c4a2b75350e82705ab2fccce29"
+    },
+    {
+      "name": "fire_baller_base_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "e4beb9fb26682288700461c71001b51c13aa229a484f5c8e183ba6783278d122"
+    },
+    {
+      "name": "fire_baller_base_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "815fff69e724590a2b08929bc0de24fa904d3c00af9fddbba80f895c3371bca0"
+    },
+    {
+      "name": "fire_baller_base_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "53a5e52fa59ea2161513723071b7c74482185804ffc123d4be212085d6425558"
+    },
+    {
+      "name": "fire_baller_base_20261107.tar.xz.part011",
+      "bytes": 48544,
+      "sha256": "123c71a9cdbaea105ea2e7e309e839ca7a00b51c2fed917a46dbf9a43be4d290"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "fire_baller_base_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "CHANGES.json": {
+      "bytes": 3474,
+      "sha256": "db0be35cce206b5c8130ce03a4b8c87f31379713d621470cedfb0546d1759376"
+    }
+  },
+  "depends_on": {
+    "dynamic_commit": "f0e289876a65f73301efd0e27f904a1609c54e15",
+    "dynamic_source_map_sha256": "693f098913d7eb84ef16e6e09e95d8edfadbce2fdfe25b956bc83af91ac761d0"
+  },
+  "status": "Partial Fire Baller first sale base; not completed scaling; preserve complete chain",
+  "audit": {
+    "archive_members": 100,
+    "credential_pattern_flags": []
+  }
+}
