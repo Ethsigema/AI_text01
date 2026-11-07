@@ -1,0 +1,67 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "robust_evolution",
+      "commit": "d38e3502a2703839884e32855786913a0a514b57",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-robust-evolution",
+      "manifest_sha256": "6e08afdf3416b89c01517a076a063baf73ee88c4be317a401225fc8fbc64bf7b",
+      "archive": "electron_robust_evolution_20261107.tar.xz",
+      "archive_sha256": "cd625a1d580c75942e3b7a8f8fb39c773dad64fb1c85efdab1099dd1c8c5bc22",
+      "archive_bytes": 1100380,
+      "parts_verified": 5,
+      "members_verified": 54,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "sale_transfer": "6f3b6db8269a0e7522b395b534b7ff0fc4bee76533c90e3a24856064737e6f1a",
+    "robust_evolution": "7c6e3c37c5e2efe75c210b667a9e197f97bb8ae6cff6a9d17b5c9e7d66231297"
+  },
+  "sale_transfer_source_byte_equals_robust_evolution_base": true,
+  "baseline_files_rehashed": 27695,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "69c60260662a0e1974439494317958e3e2b316c487526a316d197543b17c34cb",
+  "change_lists": {
+    "added": [
+      "research/electron_robust_evolution/BG30_804.native.xml",
+      "research/electron_robust_evolution/evidence.json"
+    ],
+    "modified": [
+      "core/native_hand_spell_target.gd",
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/patch_3702_vibrant_bubble_sources.gd",
+      "core/patch_3702_vibrant_bubble_spell_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 10,
+  "new_files": 2,
+  "modified_files": 8,
+  "removed_files": 0,
+  "restored_files": 27697,
+  "restored_bytes": 1548042693,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_sale_transfer_to_robust_evolution_map_continuity": true,
+  "supporting_sale_transfer_chain_receipt_sha256": "e24d56d6b106897b3145cfa7d8f392da219a0581cff7b18572f4d6bfdebe6b98",
+  "historical_baseline_provenance": "The baseline is the verified Electron Sale Transfer baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Robust Evolution increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T23:36:01.002779+00:00"
+}
