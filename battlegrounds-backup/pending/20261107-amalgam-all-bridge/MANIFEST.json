@@ -1,0 +1,207 @@
+{
+  "archive": "amalgam_all_bridge_20261107.tar.xz",
+  "bytes": 1049612,
+  "sha256": "157b43f2d5e4cf8749f58dd0858df764c9ba3d67d3f5c8434fba7fc820222bb0",
+  "files": {
+    "amalgam_all_bridge_20261107/BASE_MAP.json": {
+      "bytes": 4544000,
+      "sha256": "3d7912ba375c31ef80867c78d7bfe36380596bb531606db4563f58ffcfda0288"
+    },
+    "amalgam_all_bridge_20261107/BINDINGS.log": {
+      "bytes": 109,
+      "sha256": "5bd373c478305dd5e7d6a8902fe05b5fc4163f946c2d2a500e46d1c7ef6bdc73"
+    },
+    "amalgam_all_bridge_20261107/EXPECTED_ROWS.json": {
+      "bytes": 3534,
+      "sha256": "51be803b715423fa09c24d87ba18d1b88c68c309520e29d3ede38f5923802a3a"
+    },
+    "amalgam_all_bridge_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "amalgam_all_bridge_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5113,
+      "sha256": "aa3ce38a5d8e0fddf20e20481ca94681a95f2c26dc802a5a5c85c166426b2ac8"
+    },
+    "amalgam_all_bridge_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 237731,
+      "sha256": "e66f51d75c1019474b0774137462cfd28ec43843fda605ecac8e3bd340fbab00"
+    },
+    "amalgam_all_bridge_20261107/README.md": {
+      "bytes": 3124,
+      "sha256": "db67c472afd1a822b5a7ae0eabfb6d653772aae97acf66428e5d9ddf5dacdf6a"
+    },
+    "amalgam_all_bridge_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "1273b28e774d0a0e816eecee4f77eef47b4eb5fd94d6b4e401406ab217efc072"
+    },
+    "amalgam_all_bridge_20261107/SELECTOR_CHECKS.log": {
+      "bytes": 635,
+      "sha256": "2178830c88c67b0d55478d491e338ad999de53753aa04314649885a46560894c"
+    },
+    "amalgam_all_bridge_20261107/SOURCE_DELTA.json": {
+      "bytes": 1114,
+      "sha256": "19ad3a4ffc94234f0b1de102ebdee925892839a9b03e4e650ad00e96d7006b6f"
+    },
+    "amalgam_all_bridge_20261107/SOURCE_MAP.json": {
+      "bytes": 4544000,
+      "sha256": "1c1bc2d4916afc3e457ea61faf8ce8592b78653c76a08c756e2e1c9c0b04e9dd"
+    },
+    "amalgam_all_bridge_20261107/VALIDATION.json": {
+      "bytes": 980,
+      "sha256": "d8db3d8649c8d5351beb030990cc6b68ba89a63aa25ae9a3b33385c970971fc4"
+    },
+    "amalgam_all_bridge_20261107/build_checkpoint.py": {
+      "bytes": 4839,
+      "sha256": "16ccd11eaae830ab039e3586651a7143496e98330b3a3c92b38e880879f8b71d"
+    },
+    "amalgam_all_bridge_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "716cb60da8782fc61269c3ffc071f6dedf30edaf0dde1bf2993e9da2ed54ffd9"
+    },
+    "amalgam_all_bridge_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "993d4c10389dd16942da4235d54d765e208f8daa8843dae4302bca185f91b9a8"
+    },
+    "amalgam_all_bridge_20261107/delta/core/shop_bonus_selectors.gd": {
+      "bytes": 1651,
+      "sha256": "7ae00b32ff90c85a7feee9c414ca496eb33602deb16269f13d893424d5bc2c7b"
+    },
+    "amalgam_all_bridge_20261107/delta/core/timewarp_amalgam_host.gd": {
+      "bytes": 2598,
+      "sha256": "cce0ec9651a6ee91b3b46096b04c5396cb7e0589373932fb4f3fcb250cde5aca"
+    },
+    "amalgam_all_bridge_20261107/delta/data/patch_3702_timewarp_amalgam_golden_overlay.json": {
+      "bytes": 2202,
+      "sha256": "0cd367425c2d8062d4588c1fb11e3487e93ef456c324209bdbdaddec4905e280"
+    },
+    "amalgam_all_bridge_20261107/delta/data/patch_3702_timewarp_amalgam_overlay.json": {
+      "bytes": 2171,
+      "sha256": "07984d38743fba3cc01fc5fab352730c28662bbcad42caec8a1b68322dc6bbe2"
+    },
+    "amalgam_all_bridge_20261107/gate.gd": {
+      "bytes": 18230,
+      "sha256": "bbb6a7c6bd80801d022257d4a409424785a810449c7d39d01cef805d76b7397e"
+    },
+    "amalgam_all_bridge_20261107/materialize.py": {
+      "bytes": 1692,
+      "sha256": "f71661f589a8bbb895f3cdffedc1e89f3b1f9faa7428573aa08249701921acf6"
+    },
+    "amalgam_all_bridge_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1173,
+      "sha256": "f42019327e7d3d4538b60aedb82caaf3ff1242df781db3878f92834d5fc702f9"
+    },
+    "amalgam_all_bridge_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "amalgam_all_bridge_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 3534,
+      "sha256": "51be803b715423fa09c24d87ba18d1b88c68c309520e29d3ede38f5923802a3a"
+    },
+    "amalgam_all_bridge_20261107/run_1/LAUNCH.json": {
+      "bytes": 523,
+      "sha256": "53233643ad837fc68a99a4868e1a4522a0241a4acfa4385682484632b3abfa98"
+    },
+    "amalgam_all_bridge_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 237731,
+      "sha256": "e66f51d75c1019474b0774137462cfd28ec43843fda605ecac8e3bd340fbab00"
+    },
+    "amalgam_all_bridge_20261107/run_1/PROCESS.json": {
+      "bytes": 596,
+      "sha256": "08b96d0bcff00a7a6516b74d06ca67ec745f57f7bf4144cd15c5ca73c7081e87"
+    },
+    "amalgam_all_bridge_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1114,
+      "sha256": "19ad3a4ffc94234f0b1de102ebdee925892839a9b03e4e650ad00e96d7006b6f"
+    },
+    "amalgam_all_bridge_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 4988,
+      "sha256": "c3e394cfee6781d13f522e4df0685eed06e321ed5fc89c62f8cd482bac844982"
+    },
+    "amalgam_all_bridge_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4544000,
+      "sha256": "1c1bc2d4916afc3e457ea61faf8ce8592b78653c76a08c756e2e1c9c0b04e9dd"
+    },
+    "amalgam_all_bridge_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 27255,
+      "sha256": "52b6614b54976361630dea3200ff5f7a2e703c3ce23b109dc752b613d7428666"
+    },
+    "amalgam_all_bridge_20261107/run_1/data/prefix_shop4.native_save.json": {
+      "bytes": 55150,
+      "sha256": "d47098d137381867a7d625beae1c63a3344fcc10b71f1439abe0c9b5ee164d7d"
+    },
+    "amalgam_all_bridge_20261107/run_1/data/report.json": {
+      "bytes": 2148683,
+      "sha256": "84e86f2b289d0ba221f78c4ac487148b9acd46f0e1add3ea37ff1216ca7963cd"
+    },
+    "amalgam_all_bridge_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 82518,
+      "sha256": "6994e8c7f3443c047223024169a67d564e931cbbcbf5131297f9f9c36710fb2b"
+    },
+    "amalgam_all_bridge_20261107/run_1/gate_executed.gd": {
+      "bytes": 18230,
+      "sha256": "bbb6a7c6bd80801d022257d4a409424785a810449c7d39d01cef805d76b7397e"
+    },
+    "amalgam_all_bridge_20261107/run_1/native.log": {
+      "bytes": 685,
+      "sha256": "bf6d50af4fd0112b66bdf215a9530b1cb6abe3c49a18c3fa68f1cb520ec4c8b3"
+    },
+    "amalgam_all_bridge_20261107/seal.py": {
+      "bytes": 5246,
+      "sha256": "3b97b7bdf19681eda9b1c2a32cb307fa841df2b26623097f0b04d11d092a77a3"
+    },
+    "amalgam_all_bridge_20261107/selector_checks.gd": {
+      "bytes": 1067,
+      "sha256": "ea5821fcfdd4557336737dc90607c9046ffc790ca616ff027281b1d6cc965bc7"
+    }
+  },
+  "parts": [
+    {
+      "name": "amalgam_all_bridge_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "ec73280ddea180309d3c8375bbabc2c1a98d1560a8cdd5aa15e4ba4c60dfb3a6"
+    },
+    {
+      "name": "amalgam_all_bridge_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "4054fdc012e5a6c70b1b18c431f076290ef8ccdff4d7dc905c9bc4c782d63895"
+    },
+    {
+      "name": "amalgam_all_bridge_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "129709d6ff7836697e473c5145ddf5ee93e4117063cf4b29c222009bad524b45"
+    },
+    {
+      "name": "amalgam_all_bridge_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "64939577d48840d72aaf51c1c0726ab22fd15fdd46e7f5a34603ff65bb7a7efb"
+    },
+    {
+      "name": "amalgam_all_bridge_20261107.tar.xz.part004",
+      "bytes": 49612,
+      "sha256": "1fcb41effd5d8a17f8b7c08016db36bf70a116cc7300d134d3bbbdcfddeab417"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "amalgam_all_bridge_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "CHANGES.json": {
+      "bytes": 350,
+      "sha256": "034b29d72ab81c80b700508012d829822777bde7032b5d1eb7065abd66a6ebdb"
+    }
+  },
+  "depends_on": {
+    "drakkari_commit": "f37e3632220ea8ec00734443b62927a062ced48a",
+    "drakkari_source_map_sha256": "3d7912ba375c31ef80867c78d7bfe36380596bb531606db4563f58ffcfda0288"
+  },
+  "status": "Incremental ALL play bridge; preserve complete dependency chain; bounded gameplay evidence only",
+  "audit": {
+    "archive_members": 38,
+    "credential_pattern_flags": []
+  }
+}
