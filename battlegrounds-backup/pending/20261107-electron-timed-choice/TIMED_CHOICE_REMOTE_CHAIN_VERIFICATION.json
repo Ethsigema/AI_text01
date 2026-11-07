@@ -1,0 +1,67 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "timed_choice",
+      "commit": "9b286088ce25f3e3348a8426e1a341eed52795df",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-timed-choice",
+      "manifest_sha256": "ef97762cda4309b80abb957d9d6165e15aa4745e1bb82782d4ef44584e8362a6",
+      "archive": "electron_timed_choice_20261107.tar.xz",
+      "archive_sha256": "9d968a78546da3a09125d931e3adc1e1e6a28e0c0f5891e8cb56c92269d97945",
+      "archive_bytes": 1106720,
+      "parts_verified": 5,
+      "members_verified": 78,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "forest_choice": "7125eba781ac69fcd0f7d6b43f88a88ad151a63f075cbd1cd52092278816ac5d",
+    "timed_choice": "3d73c34d37058c194cd9b6362943da522908723a0d2761852bfa358bbed997d7"
+  },
+  "forest_choice_source_byte_equals_timed_choice_base": true,
+  "baseline_files_rehashed": 27660,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "2308447500f246ae60b6168da4c24d8eeda403e052e75d3c3f20f01baf3a4319",
+  "change_lists": {
+    "added": [
+      "research/electron_timed_choice/BG31_881.native.xml",
+      "research/electron_timed_choice/BG31_881t.native.xml",
+      "research/electron_timed_choice/BG31_881t2.native.xml",
+      "research/electron_timed_choice/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timed_owner_spell_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 10,
+  "new_files": 4,
+  "modified_files": 6,
+  "removed_files": 0,
+  "restored_files": 27664,
+  "restored_bytes": 1547945669,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_forest_choice_to_timed_choice_map_continuity": true,
+  "supporting_forest_choice_chain_receipt_sha256": "7c191a0bc933c7b4c735e0d8662d947e55a57596113e25ee48212ecc7c51c7ed",
+  "historical_baseline_provenance": "The baseline is the verified Electron Forest Choice baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Timed Choice increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T19:57:45.400898+00:00"
+}
