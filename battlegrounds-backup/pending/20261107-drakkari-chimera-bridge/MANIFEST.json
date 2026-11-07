@@ -1,0 +1,203 @@
+{
+  "archive": "drakkari_chimera_bridge_20261107.tar.xz",
+  "bytes": 1063800,
+  "sha256": "cede912e7dd1a265fc3ee198f4d84550e94bbbebfe1c4575e2af716897a78ab6",
+  "files": {
+    "drakkari_chimera_bridge_20261107/BASE_MAP.json": {
+      "bytes": 4544000,
+      "sha256": "d454821446645d5dc6e299a38431a8611cc2e3d70b5c658a820e16c3f6959bd4"
+    },
+    "drakkari_chimera_bridge_20261107/BINDINGS.log": {
+      "bytes": 109,
+      "sha256": "410e4916760354816d3cb775008d7a379da71dd0ddfeca3f2db58e666d4adf23"
+    },
+    "drakkari_chimera_bridge_20261107/EXPECTED_ROWS.json": {
+      "bytes": 3679,
+      "sha256": "147500a96ec4063d336c48c8d2775421d2ec054ac2fb893dc15262c5e41ca562"
+    },
+    "drakkari_chimera_bridge_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "drakkari_chimera_bridge_20261107/MODIFIER_NEGATIVE.log": {
+      "bytes": 483,
+      "sha256": "037060fac2511b1c0842aaab4f1c6fae42e39a95728a5068c6025b5a3d143e09"
+    },
+    "drakkari_chimera_bridge_20261107/MODIFIER_NEGATIVE_run1.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "drakkari_chimera_bridge_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 4896,
+      "sha256": "e7769125ce9f58962fda12339c082feb7ba82ff8f30900fbfea85e6698b6a4ba"
+    },
+    "drakkari_chimera_bridge_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 237731,
+      "sha256": "e66f51d75c1019474b0774137462cfd28ec43843fda605ecac8e3bd340fbab00"
+    },
+    "drakkari_chimera_bridge_20261107/README.md": {
+      "bytes": 2873,
+      "sha256": "979b88fc13002469164ef5284928b5f48886285ef484a318d4d035be11b67299"
+    },
+    "drakkari_chimera_bridge_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "drakkari_chimera_bridge_20261107/SOURCE_DELTA.json": {
+      "bytes": 637,
+      "sha256": "35be8f52da0dcdcad63ea12c064464385abae766a0b49399390767dc2cd069a7"
+    },
+    "drakkari_chimera_bridge_20261107/SOURCE_MAP.json": {
+      "bytes": 4544000,
+      "sha256": "3d7912ba375c31ef80867c78d7bfe36380596bb531606db4563f58ffcfda0288"
+    },
+    "drakkari_chimera_bridge_20261107/VALIDATION.json": {
+      "bytes": 991,
+      "sha256": "224ee2b8f27a49fd107d275f76a7e694278b53069efac8b6da867281522737a8"
+    },
+    "drakkari_chimera_bridge_20261107/build_checkpoint.py": {
+      "bytes": 3587,
+      "sha256": "adbbb8a8ca982c779e7511847b5561c8b48e2664c77b88959e82765b2d6798f0"
+    },
+    "drakkari_chimera_bridge_20261107/delta/core/chimera_recruit_damage.gd": {
+      "bytes": 6749,
+      "sha256": "d41f2c29632b0b7735ade6a9759b0929173fdd598336c8a390374e9558eb66ee"
+    },
+    "drakkari_chimera_bridge_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "0c8f28e5eb0571d810aedb011d46e393e3027d76c25632ce17af47a38c0f3a4d"
+    },
+    "drakkari_chimera_bridge_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "2010fcf0d44d2c454963e0adba8dcb068956744540e82efc83443734e1406888"
+    },
+    "drakkari_chimera_bridge_20261107/gate.gd": {
+      "bytes": 18623,
+      "sha256": "a0e3df6bcf1d8dd7b3bf822905a5e9053fb16f94a30f45e0f58837ba378d6908"
+    },
+    "drakkari_chimera_bridge_20261107/host.gd": {
+      "bytes": 6749,
+      "sha256": "d41f2c29632b0b7735ade6a9759b0929173fdd598336c8a390374e9558eb66ee"
+    },
+    "drakkari_chimera_bridge_20261107/materialize.py": {
+      "bytes": 1700,
+      "sha256": "bdb2d883ccd1483af21540cbcf52d9774e320bfd93142e5110d948f0d0ac634e"
+    },
+    "drakkari_chimera_bridge_20261107/modifier_negative.gd": {
+      "bytes": 2067,
+      "sha256": "4c3ab0f6171034428e3df1fe394844de0880658b93f9b90346b891117ecb3a1e"
+    },
+    "drakkari_chimera_bridge_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1171,
+      "sha256": "6199ff2010e661ad3a5b8308802de44a7d59e180ca7bf693523c60d1624ad47b"
+    },
+    "drakkari_chimera_bridge_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 3679,
+      "sha256": "147500a96ec4063d336c48c8d2775421d2ec054ac2fb893dc15262c5e41ca562"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/LAUNCH.json": {
+      "bytes": 533,
+      "sha256": "3be7c2cde309bebf5d8f067dca294f4f0691c71a4b3e231cd075fea7f47024af"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 237731,
+      "sha256": "e66f51d75c1019474b0774137462cfd28ec43843fda605ecac8e3bd340fbab00"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/PROCESS.json": {
+      "bytes": 607,
+      "sha256": "d6a4ceb7603ae556a15d210df10568f286b0cf828e2047510551a9e625ff0035"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 637,
+      "sha256": "35be8f52da0dcdcad63ea12c064464385abae766a0b49399390767dc2cd069a7"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 5200,
+      "sha256": "257fcb65bb15b37dd8df598f8a46afdfbbb1103eaf4b9bc4cc872b209e3263a9"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4544000,
+      "sha256": "3d7912ba375c31ef80867c78d7bfe36380596bb531606db4563f58ffcfda0288"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/data/before_clefthoof.native_save.json": {
+      "bytes": 62030,
+      "sha256": "ee7b2730ebf55c55653dd1b479535c5fe3e68e10044e3f749d2502e8e9a47f14"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 31056,
+      "sha256": "5727e8e4a3ce00120d4717ca00fbfa9fe977664a9c52fac2851aa918dc9e23c4"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/data/report.json": {
+      "bytes": 2937447,
+      "sha256": "cbd0a44534a72f53649d43437e4b38e48c9535a6b77d9c9d2c4c0b152d3d7ffd"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 308045,
+      "sha256": "ff9f5355235c342bbcef8f8389284e24f073ab45e116c85ffeaf44fac5e65b07"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/gate_executed.gd": {
+      "bytes": 18623,
+      "sha256": "a0e3df6bcf1d8dd7b3bf822905a5e9053fb16f94a30f45e0f58837ba378d6908"
+    },
+    "drakkari_chimera_bridge_20261107/run_1/native.log": {
+      "bytes": 460,
+      "sha256": "c25075ae416c83fa0f4b541922e09e8fc0d490c18c6b55d04da1acbf585955a9"
+    },
+    "drakkari_chimera_bridge_20261107/seal.py": {
+      "bytes": 4908,
+      "sha256": "356cd4cbd4df224ae173240cc86acee88b35be29d3ed829bf6c28a9293a52f16"
+    }
+  },
+  "parts": [
+    {
+      "name": "drakkari_chimera_bridge_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "61fe6faa504d1074de40cfe2dd62b1d1ddbcd3f097d6a6de50cec757845f0907"
+    },
+    {
+      "name": "drakkari_chimera_bridge_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "a80528fd983775b0c59fd7d13f954d855eaa8ad55e079334562bcfb634d3fa14"
+    },
+    {
+      "name": "drakkari_chimera_bridge_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "eb13992daed807cde5aebd5c5aa1b89856fb1ea45db41898f8f02c102959fe5c"
+    },
+    {
+      "name": "drakkari_chimera_bridge_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "2d51089f4f17bab59471fd301aa29faee654c8cd0f15ab8dba94f3f62d4b537f"
+    },
+    {
+      "name": "drakkari_chimera_bridge_20261107.tar.xz.part004",
+      "bytes": 63800,
+      "sha256": "e7beb34e155215af303ab57508d24d749f1f3348ab77696b18d0bb8f25e4ee98"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "drakkari_chimera_bridge_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "CHANGES.json": {
+      "bytes": 202,
+      "sha256": "3a53a6a1c0d8f5481bb6a8d70ec88620d17a7e6f887ea331c0359372da8e131f"
+    }
+  },
+  "depends_on": {
+    "random_bridge_commit": "c582b4324786a88081487d581b073cc5ca8b9713",
+    "random_bridge_source_map_sha256": "d454821446645d5dc6e299a38431a8611cc2e3d70b5c658a820e16c3f6959bd4"
+  },
+  "status": "Incremental interaction fix; retain all prior dependency backups; bounded tests only",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
