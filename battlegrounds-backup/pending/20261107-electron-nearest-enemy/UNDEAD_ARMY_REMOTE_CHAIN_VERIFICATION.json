@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "undead_army",
+      "commit": "4666a3f225c0e5c489a731c6a2e407782ef720ad",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-undead-army",
+      "manifest_sha256": "0fdc7f831884953233bbf487e262e37cf2e29c8c2049f5abd621b09f56baf5e7",
+      "archive": "electron_undead_army_20261107.tar.xz",
+      "archive_sha256": "7258cb92a91181b6285540e6b956f24ff4c0559e4cf0fa5c9c4a30378de92910",
+      "archive_bytes": 1073824,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "corrupted_cupcakes": "22fa70dd74fadfe687dfdfabab2ad62abcaf961955ff31197fa271f997cb38dc",
+    "undead_army": "237533b3bed6e4eeea709c9e1670720dbe6e53f8ebcd24ad1eb103c364f45933"
+  },
+  "corrupted_cupcakes_source_byte_equals_undead_army_base": true,
+  "baseline_files_rehashed": 27683,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "0817061d5575cf52e4cad92e4a3468a7aa444e5ecd7efcb393fbd3f6df14c5d9",
+  "change_lists": {
+    "added": [
+      "research/electron_undead_army/BG28_604.native.xml",
+      "research/electron_undead_army/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27685,
+  "restored_bytes": 1548009285,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_corrupted_cupcakes_to_undead_army_map_continuity": true,
+  "supporting_corrupted_cupcakes_chain_receipt_sha256": "f33a9ef019f9a0abb6fb73295521cfab064e123a2849caad313eda3e06dc9dac",
+  "historical_baseline_provenance": "The baseline is the verified Electron Corrupted Cupcakes baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Undead Army increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T22:06:14.492048+00:00"
+}
