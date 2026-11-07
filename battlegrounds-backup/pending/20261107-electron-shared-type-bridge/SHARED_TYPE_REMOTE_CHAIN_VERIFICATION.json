@@ -1,0 +1,62 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "shared_type",
+      "commit": "595e7b564afc6919e6feeb9f6fd8babdd800b529",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-shared-type-bridge",
+      "manifest_sha256": "fcc7d574ea70091653aa380182f1f5830e5eb2ffd89528dab7c5a69c298f54f5",
+      "archive": "electron_shared_type_bridge_20261107.tar.xz",
+      "archive_sha256": "ac47568765b24a0f2572d9cf0b5a045d3abeb547e4b9be18ae1202dc459a0f56",
+      "archive_bytes": 1056452,
+      "parts_verified": 5,
+      "members_verified": 36,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "double_spell": "3ec6431e5bc7171a446013026cce91c62571b544ad3ebbc69ef7e9d145742b03",
+    "shared_type": "4540582564ab747c5c284ca9f9cc60aeb7703a304c29ba0475d63f59d88d40e2"
+  },
+  "double_spell_source_byte_equals_shared_type_base": true,
+  "baseline_files_rehashed": 27558,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "edc86189c6b5c7c118582ddacdb932602471bc5bf969e5c12b06a921aa961475",
+  "change_lists": {
+    "added": [
+      "research/electron_shared_type_bridge/BG28_845.native.xml",
+      "research/electron_shared_type_bridge/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27560,
+  "restored_bytes": 1546780587,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_double_spell_chain_receipt_sha256": "f25cbc438bab83122a4ec0abc8f2bae5947db23f8ee490d93eebbff6c1d78429",
+  "historical_baseline_provenance": "The baseline is the verified Hooktusk double spell Discover baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron shared-type bridge increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T13:17:12.323315+00:00"
+}
