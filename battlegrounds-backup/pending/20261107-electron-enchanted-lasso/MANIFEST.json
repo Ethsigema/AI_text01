@@ -1,0 +1,203 @@
+{
+  "archive": "electron_enchanted_lasso_20261107.tar.xz",
+  "bytes": 1069460,
+  "sha256": "27649a63c63fdfc0acee933a4cf4d3dea99dcf13a13df5e2916298e4da04d7f1",
+  "files": {
+    "electron_enchanted_lasso_20261107/BASE_MAP.json": {
+      "bytes": 4569963,
+      "sha256": "c6d66a3d40b242f9238e80cc2d28a96615fd3ebf7f4a0363e31ed3ba8445803c"
+    },
+    "electron_enchanted_lasso_20261107/EXPECTED_ROWS.json": {
+      "bytes": 24751,
+      "sha256": "1e148980442588d4b9ba0368fba66ae76c936a28455362045512ecde925d4ffe"
+    },
+    "electron_enchanted_lasso_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_enchanted_lasso_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5046,
+      "sha256": "cbb04e1c3506ef6391ab04a1612afea435c4d14153577b83424efaa5b9247358"
+    },
+    "electron_enchanted_lasso_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 272836,
+      "sha256": "915d8c2a3c01158451f51854c946aeba7410dd64aca1f24e81dd37103a4d50f9"
+    },
+    "electron_enchanted_lasso_20261107/README.md": {
+      "bytes": 2009,
+      "sha256": "d4bddcf3c8c1946bd022456e81f619d87c9adf15a5c53b97c9bcef02d7fb0077"
+    },
+    "electron_enchanted_lasso_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_enchanted_lasso_20261107/SOURCE_DELTA.json": {
+      "bytes": 1311,
+      "sha256": "443718a98bbdc4404e7fa1a6bd3b9991058cf925381022467a3006bfaa428181"
+    },
+    "electron_enchanted_lasso_20261107/SOURCE_MAP.json": {
+      "bytes": 4570288,
+      "sha256": "4cfd94bc3b414b3d55d0b827028bbfbe1e53c777321cac6c204b5c1d63ea0fec"
+    },
+    "electron_enchanted_lasso_20261107/VALIDATION.json": {
+      "bytes": 819,
+      "sha256": "c4336fe1df39a45f5506df5f87c0036baa82183f49a63c7463ec995f8b757e76"
+    },
+    "electron_enchanted_lasso_20261107/build.py": {
+      "bytes": 3518,
+      "sha256": "586ca17edcd837ccb4f39e4f806097465eab1bc236da2e258eee939f3fe79b4d"
+    },
+    "electron_enchanted_lasso_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 43787,
+      "sha256": "79cb62da1f656013a3231cb77726207db92c29287e29c1ff956433c4d278ea42"
+    },
+    "electron_enchanted_lasso_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 41840,
+      "sha256": "986b95f4ed988103d5a35798e4ac4fd5b9a83693ac44856182bb2017aa5b23d3"
+    },
+    "electron_enchanted_lasso_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 14235,
+      "sha256": "ab3702d89e691b8b2e042ea16f0d82ba624dbb0213ba76a68230be94e6742f25"
+    },
+    "electron_enchanted_lasso_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 25418,
+      "sha256": "466d4c9137d3483a7c829ef58322007690d78156d05a216d7cbc0b267d7e3cfc"
+    },
+    "electron_enchanted_lasso_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 24208,
+      "sha256": "ca032d3dd06e8de22b1bb34f41b50d6a2c3a3f54d50a446197fe60fa06abd3ad"
+    },
+    "electron_enchanted_lasso_20261107/delta/research/electron_enchanted_lasso/BG28_512.native.xml": {
+      "bytes": 2107,
+      "sha256": "9eb3faff248c882397b3003374d1e1a3008ef5d1fa88a24064b6d6c5187d0aff"
+    },
+    "electron_enchanted_lasso_20261107/delta/research/electron_enchanted_lasso/evidence.json": {
+      "bytes": 440,
+      "sha256": "cad994fe621f2863e2652365d15e9ebaa4897253faacacc0d52ba91f26808512"
+    },
+    "electron_enchanted_lasso_20261107/gate.gd": {
+      "bytes": 19965,
+      "sha256": "583ab71fd46bf3077e05fecd22d516bdd357f0dd515e9eba95060a74e94caacc"
+    },
+    "electron_enchanted_lasso_20261107/materialize.py": {
+      "bytes": 1668,
+      "sha256": "42e6bec0021f7f525afb0184bf023225aaf30c837eb5d485cd1224f953e6c9db"
+    },
+    "electron_enchanted_lasso_20261107/prepare_gate.py": {
+      "bytes": 5984,
+      "sha256": "6c3cbaf57473e5351adbcb8235d550aede02943c09dd0e030af37d6dd0862007"
+    },
+    "electron_enchanted_lasso_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1172,
+      "sha256": "f1603123add0101c2a47f62d1b5f9bb360db68efee9c6e844a08a5d2a6abbfa9"
+    },
+    "electron_enchanted_lasso_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_enchanted_lasso_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 24751,
+      "sha256": "1e148980442588d4b9ba0368fba66ae76c936a28455362045512ecde925d4ffe"
+    },
+    "electron_enchanted_lasso_20261107/run_1/LAUNCH.json": {
+      "bytes": 535,
+      "sha256": "5e9ed5eb2c90e04b5ff6e9aed2ac1a8bd9f622a545b488331d08427c517f264b"
+    },
+    "electron_enchanted_lasso_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 272836,
+      "sha256": "915d8c2a3c01158451f51854c946aeba7410dd64aca1f24e81dd37103a4d50f9"
+    },
+    "electron_enchanted_lasso_20261107/run_1/PROCESS.json": {
+      "bytes": 609,
+      "sha256": "2742668065a6952620ba176d66c2b84b7067f2e833a31f127e7f4a841bc0a10c"
+    },
+    "electron_enchanted_lasso_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1311,
+      "sha256": "443718a98bbdc4404e7fa1a6bd3b9991058cf925381022467a3006bfaa428181"
+    },
+    "electron_enchanted_lasso_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 14092,
+      "sha256": "33b2264825e1fe84a5f106fa9e7d9013621cce53a822c115c8b74436f85873ac"
+    },
+    "electron_enchanted_lasso_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4570288,
+      "sha256": "4cfd94bc3b414b3d55d0b827028bbfbe1e53c777321cac6c204b5c1d63ea0fec"
+    },
+    "electron_enchanted_lasso_20261107/run_1/data/after_theft.native_save.json": {
+      "bytes": 55800,
+      "sha256": "8f4d86c22d93e0e7232c9d2b8b1a15db89a831b158f66ed816a5c955775d02a9"
+    },
+    "electron_enchanted_lasso_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 34094,
+      "sha256": "3f3a21d72558ff180d1302d772dc794b831cb533214b09f7a858f45615d6ba66"
+    },
+    "electron_enchanted_lasso_20261107/run_1/data/report.json": {
+      "bytes": 1405542,
+      "sha256": "8321fbbed39afe94926ed79d6df9beb361e6e8398250625c2245e6f740f4c904"
+    },
+    "electron_enchanted_lasso_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 69313,
+      "sha256": "faf9e775a36603b8d14b6895c4b639af696356bf17b1535c1dc08968ac62b3ed"
+    },
+    "electron_enchanted_lasso_20261107/run_1/gate_executed.gd": {
+      "bytes": 19965,
+      "sha256": "583ab71fd46bf3077e05fecd22d516bdd357f0dd515e9eba95060a74e94caacc"
+    },
+    "electron_enchanted_lasso_20261107/run_1/native.log": {
+      "bytes": 321,
+      "sha256": "87c46fa0064529077e38577a6e8615758bde01ebbd496e3cc313cd94087fca18"
+    },
+    "electron_enchanted_lasso_20261107/seal.py": {
+      "bytes": 4671,
+      "sha256": "192bd5b3fe0c6a7f15cdeb56b8e50eb18634432b3e9231373ed57077fb5a6ba7"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_enchanted_lasso_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "c147ae76fd87513b78771bfcab3ecd70eeef74aff5480adece35b326639bfd93"
+    },
+    {
+      "name": "electron_enchanted_lasso_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "974420e0b80d0cebd53cee6e3350dbf3e319f6d67311ee03957eab50ccd18cd6"
+    },
+    {
+      "name": "electron_enchanted_lasso_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "2998b1334f2b4e2b28d65b9b23bcd7c563b5a0656e4a58ccb8e07dc56ecbb7fa"
+    },
+    {
+      "name": "electron_enchanted_lasso_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "b34902c8772fa1880057e081c2aa81ef36bfb3d383d536fb6c4e533cd7d0cd3b"
+    },
+    {
+      "name": "electron_enchanted_lasso_20261107.tar.xz.part004",
+      "bytes": 69460,
+      "sha256": "0bc2608d39f8ecada4caa1b48ce22caf09b99a13390c290ed8ea3da00535eae7"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_enchanted_lasso_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 437,
+      "sha256": "eac1fa16d91eba08b0bbad5e3b00689b90972fc4cb8cf5d2e1d270f05909cf39"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "nearest_enemy_commit": "44cd6b27c2a268471ed22c329f3bb4ab47734499",
+    "nearest_enemy_source_map_sha256": "c6d66a3d40b242f9238e80cc2d28a96615fd3ebf7f4a0363e31ed3ba8445803c"
+  },
+  "status": "Electron Enchanted Lasso bridge, excludes failed Tier7; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
