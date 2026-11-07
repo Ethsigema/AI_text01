@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "spell_refresh",
+      "commit": "673b2aa90334ba4b0a9ac728f69dccf97c4b2c8e",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-spell-refresh",
+      "manifest_sha256": "7298538619d7d3a291eb5543d874ea5d352223e063357dcff926da72bb493887",
+      "archive": "electron_spell_refresh_20261107.tar.xz",
+      "archive_sha256": "8f9e8a61a8aff5484f3a65c96dd0189f2426942df80810296dffc9a6bfa89fda",
+      "archive_bytes": 1074172,
+      "parts_verified": 5,
+      "members_verified": 49,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "enchanted_lasso": "4cfd94bc3b414b3d55d0b827028bbfbe1e53c777321cac6c204b5c1d63ea0fec",
+    "spell_refresh": "cdf2bf2193b604df9f9214fd1ca16c9a1cc0a0edc1d4ed334d6d0687fd6ecc08"
+  },
+  "enchanted_lasso_source_byte_equals_spell_refresh_base": true,
+  "baseline_files_rehashed": 27689,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "9ef6fdefcb6ff41e27428c10f920016f92505ad3aeaf757a1d3dfce4022be27c",
+  "change_lists": {
+    "added": [
+      "research/electron_spell_refresh/BG28_849.native.xml",
+      "research/electron_spell_refresh/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27691,
+  "restored_bytes": 1548024597,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_enchanted_lasso_to_spell_refresh_map_continuity": true,
+  "supporting_enchanted_lasso_chain_receipt_sha256": "edeb4fce7e1b91b6faa0121bb2fa8f6175e0b8716c3bd80eda4935dcd660f03e",
+  "historical_baseline_provenance": "The baseline is the verified Electron Enchanted Lasso baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Spell Refresh increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T22:49:45.051630+00:00"
+}
