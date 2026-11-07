@@ -1,0 +1,56 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "drakkari",
+      "commit": "8a492883700b1ac392900955387b907f6c2e8801",
+      "repository_path": "battlegrounds-backup/pending/20261107-drakkari-chimera-bridge",
+      "manifest_sha256": "99b8290c149c279a67181d9cc352a2b7b2e2b50fd0297008eecb5f1b6639fdad",
+      "archive": "drakkari_chimera_bridge_20261107.tar.xz",
+      "archive_sha256": "cede912e7dd1a265fc3ee198f4d84550e94bbbebfe1c4575e2af716897a78ab6",
+      "archive_bytes": 1063800,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "random_bridge": "d454821446645d5dc6e299a38431a8611cc2e3d70b5c658a820e16c3f6959bd4",
+    "drakkari": "3d7912ba375c31ef80867c78d7bfe36380596bb531606db4563f58ffcfda0288"
+  },
+  "random_bridge_source_byte_equals_drakkari_base": true,
+  "baseline_files_rehashed": 27526,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "3a53a6a1c0d8f5481bb6a8d70ec88620d17a7e6f887ea331c0359372da8e131f",
+  "change_lists": {
+    "added": [],
+    "modified": [
+      "core/chimera_recruit_damage.gd",
+      "core/patch_3702_timewarp_chimera_golden_sources.gd",
+      "core/patch_3702_timewarp_chimera_sources.gd"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 3,
+  "new_files": 0,
+  "modified_files": 3,
+  "removed_files": 0,
+  "restored_files": 27526,
+  "restored_bytes": 1546523624,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_random_bridge_chain_receipt_sha256": "ce881e6598f5299e0cc953255a95cad5db80067af2e64ee58ae592572c5907d9",
+  "historical_baseline_provenance": "The baseline is the verified randomized Chimera bridge restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Drakkari increment and rehashes every supplied baseline file.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T10:37:00.809162+00:00"
+}
