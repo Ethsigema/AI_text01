@@ -1,0 +1,256 @@
+{
+  "archive": "timewarp_scout_golden_20261107.tar.xz",
+  "bytes": 1295140,
+  "sha256": "e6d8bfc06cbc4744b908b9271b5f53dcb4efe8129d09997a21193783988c121b",
+  "files": {
+    "timewarp_scout_golden_20261107/BASE_MAP.json": {
+      "bytes": 4562457,
+      "sha256": "2f3de1eaccbd95c22a88d7b624aa3b9fe693e5c074f10759cfb7496e575282c0"
+    },
+    "timewarp_scout_golden_20261107/EXPECTED_ROWS.json": {
+      "bytes": 9882,
+      "sha256": "f0bab720ce9e8d08bc63ec6a833582b6205e2931d3307b9b89d3c61cdd463161"
+    },
+    "timewarp_scout_golden_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_scout_golden_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 6627,
+      "sha256": "39b3683eea0ca23300564afea7055eaae6d7d8fd9d73f2283b3614ae97dff37f"
+    },
+    "timewarp_scout_golden_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 261406,
+      "sha256": "04fe93f88b3ab373dd32db75176c07dd3e089690961b8caeac557c8149e8cf4b"
+    },
+    "timewarp_scout_golden_20261107/README.md": {
+      "bytes": 1432,
+      "sha256": "9679b5cbb70c7e9bf906490b69865a02ce2eea77154488f84ab44a8f9bf23822"
+    },
+    "timewarp_scout_golden_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "0b1e97dc68006352f1ed53bbe1022fd9b2ddbd56bc5d46873272a7e2d5fcdf12"
+    },
+    "timewarp_scout_golden_20261107/SOURCE_DELTA.json": {
+      "bytes": 1298,
+      "sha256": "690d2f780e45c4534fbfba26f2b6945f79addec3b9c11c7d6e948f9ea6cff3a8"
+    },
+    "timewarp_scout_golden_20261107/SOURCE_MAP.json": {
+      "bytes": 4563132,
+      "sha256": "b181d94c863a5d5016e31a03f89d3120c42a06f42ed7fbb3c8d42acdb975c2b4"
+    },
+    "timewarp_scout_golden_20261107/VALIDATION.json": {
+      "bytes": 2100,
+      "sha256": "3870a46f559a5642253f129b2208e2f00b53b4e40803dca80b0647e577c12198"
+    },
+    "timewarp_scout_golden_20261107/bindings.log": {
+      "bytes": 53,
+      "sha256": "d6e23217284d23d550dab983bc5d456c717c34a487066877e4a0baaa7bfeeb94"
+    },
+    "timewarp_scout_golden_20261107/build.py": {
+      "bytes": 5332,
+      "sha256": "08cd6b4f5fff3d1c81984fab9d32497a2c2e942f7b807554c30845efc73f7dee"
+    },
+    "timewarp_scout_golden_20261107/build_gate.py": {
+      "bytes": 1785,
+      "sha256": "4d0b791a51c834efd3ea79b2ced556e2524cdd75ed255d6cc9704656dba42e80"
+    },
+    "timewarp_scout_golden_20261107/delta/core/catalog.gd": {
+      "bytes": 1850389,
+      "sha256": "4ebed02502bc467a80994609535a5760f91ebe1519330d649d047b6858e63ff4"
+    },
+    "timewarp_scout_golden_20261107/delta/core/patch_3702_timewarp_scout_golden_sources.gd": {
+      "bytes": 28135,
+      "sha256": "457f0e5f80984de99daa85fcfc6ef4badff9b68f4319febacf2b36a42aad4740"
+    },
+    "timewarp_scout_golden_20261107/delta/core/patch_3702_timewarp_scout_sources.gd": {
+      "bytes": 27868,
+      "sha256": "eeaed2b7e011d1575ac53715be5a1d03689af593d9b05209800c0be4f49f6b22"
+    },
+    "timewarp_scout_golden_20261107/delta/core/timewarp_scout_host.gd": {
+      "bytes": 4977,
+      "sha256": "e92d691e7e3bcdc6f4afe41f0b1a3d8bfda0cb3042d87a34e1f780dc01ce1d89"
+    },
+    "timewarp_scout_golden_20261107/delta/data/patch_3702_timewarp_scout_golden_overlay.json": {
+      "bytes": 22292,
+      "sha256": "fb4f3516ddad11dd78e41cb2fbbf199fab2b4912e4dfc2a6124a30319ec8e460"
+    },
+    "timewarp_scout_golden_20261107/delta/research/patch_3702_timewarp_scout_golden/BG34_Giant_333_G.native.xml": {
+      "bytes": 4073,
+      "sha256": "d75d29a34815c2b9e124ac3abf026516cc033df8c5a5292cd714b71eba9b5193"
+    },
+    "timewarp_scout_golden_20261107/delta/research/patch_3702_timewarp_scout_golden/evidence.json": {
+      "bytes": 430,
+      "sha256": "b50eac30fbdc8b0b8d96fee702c4839373ef328b65f547a32f62c64109fecb60"
+    },
+    "timewarp_scout_golden_20261107/gate.gd": {
+      "bytes": 16578,
+      "sha256": "a21b80e140969bb4c604187c4d1837807f2e8b9511c8e61856d04a6eb28bfe0d"
+    },
+    "timewarp_scout_golden_20261107/host.gd": {
+      "bytes": 4977,
+      "sha256": "e92d691e7e3bcdc6f4afe41f0b1a3d8bfda0cb3042d87a34e1f780dc01ce1d89"
+    },
+    "timewarp_scout_golden_20261107/materialize.py": {
+      "bytes": 1674,
+      "sha256": "b36eb8dc0cdfa4c9889661925bae5ce9143d027846faf02b54646b672a3380b0"
+    },
+    "timewarp_scout_golden_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1169,
+      "sha256": "d343fc9e5f561c19fc303307caf7bbe2334cec83908dbd09b9e39f589f97cfee"
+    },
+    "timewarp_scout_golden_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_scout_golden_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 9882,
+      "sha256": "f0bab720ce9e8d08bc63ec6a833582b6205e2931d3307b9b89d3c61cdd463161"
+    },
+    "timewarp_scout_golden_20261107/run_1/LAUNCH.json": {
+      "bytes": 529,
+      "sha256": "3de9ba296467a54bb3b56ff0230f1f8d211c60e43a673c97e15cfeada58fd8c9"
+    },
+    "timewarp_scout_golden_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 261406,
+      "sha256": "04fe93f88b3ab373dd32db75176c07dd3e089690961b8caeac557c8149e8cf4b"
+    },
+    "timewarp_scout_golden_20261107/run_1/PROCESS.json": {
+      "bytes": 603,
+      "sha256": "664402779b7017bd6f6578f0503f98ee6b19060c23892a481989f473fd30cb2e"
+    },
+    "timewarp_scout_golden_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1298,
+      "sha256": "690d2f780e45c4534fbfba26f2b6945f79addec3b9c11c7d6e948f9ea6cff3a8"
+    },
+    "timewarp_scout_golden_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 124112,
+      "sha256": "4c4a685f04a7908db8fd6b1ec88f4affd2bf632bbb41ee9496a88bf2f6425b2f"
+    },
+    "timewarp_scout_golden_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4563132,
+      "sha256": "b181d94c863a5d5016e31a03f89d3120c42a06f42ed7fbb3c8d42acdb975c2b4"
+    },
+    "timewarp_scout_golden_20261107/run_1/gate_executed.gd": {
+      "bytes": 16582,
+      "sha256": "5b8b47519d72fdf7de75dfea4f4ebd9c49b587c77cbc97d81e5c8044de444323"
+    },
+    "timewarp_scout_golden_20261107/run_1/native.log": {
+      "bytes": 489,
+      "sha256": "7225a1b2e0037b500701756263a61072ca44de244c466d81f511a29e535652c8"
+    },
+    "timewarp_scout_golden_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 9882,
+      "sha256": "f0bab720ce9e8d08bc63ec6a833582b6205e2931d3307b9b89d3c61cdd463161"
+    },
+    "timewarp_scout_golden_20261107/run_2/LAUNCH.json": {
+      "bytes": 529,
+      "sha256": "bc92c0fb418bdd1dade80d337a67533aabf0d37826864310bd4211524d8b6478"
+    },
+    "timewarp_scout_golden_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 261406,
+      "sha256": "04fe93f88b3ab373dd32db75176c07dd3e089690961b8caeac557c8149e8cf4b"
+    },
+    "timewarp_scout_golden_20261107/run_2/PROCESS.json": {
+      "bytes": 603,
+      "sha256": "07fa954527377a28e6338ceb950f38b246ea92408e278de8acc94e4c40a950f6"
+    },
+    "timewarp_scout_golden_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 1298,
+      "sha256": "690d2f780e45c4534fbfba26f2b6945f79addec3b9c11c7d6e948f9ea6cff3a8"
+    },
+    "timewarp_scout_golden_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 124112,
+      "sha256": "4c4a685f04a7908db8fd6b1ec88f4affd2bf632bbb41ee9496a88bf2f6425b2f"
+    },
+    "timewarp_scout_golden_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4563132,
+      "sha256": "b181d94c863a5d5016e31a03f89d3120c42a06f42ed7fbb3c8d42acdb975c2b4"
+    },
+    "timewarp_scout_golden_20261107/run_2/data/before_sale.native_save.json": {
+      "bytes": 38222,
+      "sha256": "6ba8c6034ae36168ead76e3a587c6baff37cdb9b56a5e6c5b06c2924ba47726e"
+    },
+    "timewarp_scout_golden_20261107/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 25151,
+      "sha256": "17cbe333cebaaeb4e7bce9043d6707d55a886f268db35993d40387d12a4707a9"
+    },
+    "timewarp_scout_golden_20261107/run_2/data/report.json": {
+      "bytes": 823080,
+      "sha256": "585bda392e05df5cce1b731caeca7f4e34a28121b5f379cb3f74697376355dda"
+    },
+    "timewarp_scout_golden_20261107/run_2/data/terminal.native_save.json": {
+      "bytes": 42967,
+      "sha256": "216dac7e87193b1358ba688a03a2a74779d80b2bbb5ecf5eb0a91a9e7c89328e"
+    },
+    "timewarp_scout_golden_20261107/run_2/gate_executed.gd": {
+      "bytes": 16578,
+      "sha256": "a21b80e140969bb4c604187c4d1837807f2e8b9511c8e61856d04a6eb28bfe0d"
+    },
+    "timewarp_scout_golden_20261107/run_2/native.log": {
+      "bytes": 270,
+      "sha256": "31f04bd4dd3cb6fcc34311fe1c15abe5db5f805612e904360a970b7c3c01e7a8"
+    },
+    "timewarp_scout_golden_20261107/seal.py": {
+      "bytes": 4197,
+      "sha256": "cd0ee59742204b186355d198ab6849a830235f51072da2e7db037add94572c5f"
+    },
+    "timewarp_scout_golden_20261107/update_runtime.py": {
+      "bytes": 751,
+      "sha256": "df60d2c937d4676775c9ba01fe6886886d09158bc3fc219e233775c6b9454a26"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_scout_golden_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "0b930452a14dda285278e526b1db42fd4073eca7aea0a498f973f47adfe01a8a"
+    },
+    {
+      "name": "timewarp_scout_golden_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "6ed3f30bc3706d01fb395b33bd98337e5ab40014b9430abb341275b5a1fe9b3e"
+    },
+    {
+      "name": "timewarp_scout_golden_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "19b03a84b108df75f163a761a01ff70e98439206e3d0de11acc5a876c5972cac"
+    },
+    {
+      "name": "timewarp_scout_golden_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "5998879873d1a6fca1599c10a90f7e73e922df53e765d093134d9b73aa959f2f"
+    },
+    {
+      "name": "timewarp_scout_golden_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "9aaa95f74acd7f34f328ec665731829c1aa1817c91374fa49e1d280f0ce3a363"
+    },
+    {
+      "name": "timewarp_scout_golden_20261107.tar.xz.part005",
+      "bytes": 45140,
+      "sha256": "867f4c6d91027ab458b72ed84374be73ee8ef1d8d4240128e03ba30209d4297e"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "timewarp_scout_golden_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 418,
+      "sha256": "25631a980153ef39e179964178467e773b5e873d16a4985ad618e07e5812d0ae"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "scout_commit": "5d1396ad54b7a3085e8b64566776bbf40d174a01",
+    "scout_source_map_sha256": "2f3de1eaccbd95c22a88d7b624aa3b9fe693e5c074f10759cfb7496e575282c0"
+  },
+  "status": "Golden Timewarped Scout initial-round sale only; later growth and broader gameplay unvalidated; source recovery only",
+  "audit": {
+    "archive_members": 49,
+    "credential_pattern_flags": []
+  }
+}
