@@ -1,0 +1,214 @@
+{
+  "archive": "wrathguard_new_reconstruction_20261107_retry.tar.xz",
+  "bytes": 1371400,
+  "sha256": "9e96a7b8f3a182975bd1237a4e68259568a38530be3738478883f3b8d5943432",
+  "files": {
+    "wrathguard_rebuild_retry_20261107/BASE_MAP.json": {
+      "bytes": 4533739,
+      "sha256": "9a517b7c2e0ba0c14308248884696b008e5a6f0b500a1d1d97bcd53c4b7a9c71"
+    },
+    "wrathguard_rebuild_retry_20261107/BINDINGS.log": {
+      "bytes": 5,
+      "sha256": "e628d1e0eca4d8c7f07c8f9e7c2ff22032d7b86798856591ac4cf1074b1a306f"
+    },
+    "wrathguard_rebuild_retry_20261107/EXPECTED_ROWS.json": {
+      "bytes": 15629,
+      "sha256": "ae3b4af76fd9079587719ccc27db7ddf7fbc9db93dd4d5e5d9c49cb28bfe986a"
+    },
+    "wrathguard_rebuild_retry_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5708,
+      "sha256": "c9a41de942dc9e6d0db10a3a882723a321f9af9aa20346c4b2dfc3aeb9807cbd"
+    },
+    "wrathguard_rebuild_retry_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 226840,
+      "sha256": "342a9b6bd17a067127450bd752837ab056b291a46e7f0fcc90cc395971b88b6a"
+    },
+    "wrathguard_rebuild_retry_20261107/README.md": {
+      "bytes": 2608,
+      "sha256": "de726d40729e5510e7bae1bc7e21a5bdf73c38e8867a79321ee666bbaf11dd44"
+    },
+    "wrathguard_rebuild_retry_20261107/SECRET_SCAN.json": {
+      "bytes": 148,
+      "sha256": "3d53c01cee965b0e9175108d92ec6fefa860dbf3f6ef68d96a693ca4a9a1cb11"
+    },
+    "wrathguard_rebuild_retry_20261107/SOURCE_DELTA.json": {
+      "bytes": 1761,
+      "sha256": "1365a2f8d48f7a586514de94d20e51be146f474a0436876ac4a9594972166339"
+    },
+    "wrathguard_rebuild_retry_20261107/SOURCE_MAP.json": {
+      "bytes": 4535015,
+      "sha256": "e16ce2b99917f46f9492c0ad14f36060e0d90d19b76ae702fd13ebb9a51bfcd9"
+    },
+    "wrathguard_rebuild_retry_20261107/VALIDATION.json": {
+      "bytes": 557,
+      "sha256": "21cac160def7d14a0d7d1d81e43a787bac53c2c586aaac45d4ef323f190aaee3"
+    },
+    "wrathguard_rebuild_retry_20261107/build.py": {
+      "bytes": 5725,
+      "sha256": "462aae31c26d6eb360f8bd5ad8b4c41424fce995794d67551dcdce48946b3943"
+    },
+    "wrathguard_rebuild_retry_20261107/custom_guard.gd": {
+      "bytes": 1492,
+      "sha256": "56f3e0b0ebdbcfb926df69831616215a109d8c3665ff6b4881350d34e10f4766"
+    },
+    "wrathguard_rebuild_retry_20261107/delta/core/catalog.gd": {
+      "bytes": 1795432,
+      "sha256": "ceb2def33f0314b7bd5eea163b8ef6e3591734b850fe829c47e29470732cda6f"
+    },
+    "wrathguard_rebuild_retry_20261107/delta/core/minion_activate.gd": {
+      "bytes": 40182,
+      "sha256": "45620c0a340bf54520bfb114a551fd69ac1a4b40411f4f3d51dc11c9a34c22cc"
+    },
+    "wrathguard_rebuild_retry_20261107/delta/core/patch_3702_wrathguard_golden_sources.gd": {
+      "bytes": 24418,
+      "sha256": "4ba0e586b89eaf264a517c31e4c4073b475e98023846feb445746c55fde9097a"
+    },
+    "wrathguard_rebuild_retry_20261107/delta/core/patch_3702_wrathguard_sources.gd": {
+      "bytes": 23843,
+      "sha256": "3f83d0d18584d144ea120b0b34e33e1dc53510cc5f65595154aa83a5a1bd38a8"
+    },
+    "wrathguard_rebuild_retry_20261107/delta/data/patch_3702_wrathguard_golden_overlay.json": {
+      "bytes": 17201,
+      "sha256": "342787ebe6d2dc7b897543fa1cdbab7fed46c4f81f24f1f6b6fd609d7b16e933"
+    },
+    "wrathguard_rebuild_retry_20261107/delta/data/patch_3702_wrathguard_overlay.json": {
+      "bytes": 16957,
+      "sha256": "b5c1176ff7278003ce4f9bb5ace0cbb1252a4a4370bdaf087343d3dc325b6e88"
+    },
+    "wrathguard_rebuild_retry_20261107/delta/research/patch_3702_wrathguard/BG36_362.native.xml": {
+      "bytes": 4621,
+      "sha256": "1962727a5c9fc342cb0f758fd459fb1e88c55b1e8efc094884e365bd0f84143d"
+    },
+    "wrathguard_rebuild_retry_20261107/delta/research/patch_3702_wrathguard/evidence.json": {
+      "bytes": 340,
+      "sha256": "d62f2936043fa269dcb8bd11cd72e91cc52d39bdf642d1566b53dfbb2539e820"
+    },
+    "wrathguard_rebuild_retry_20261107/delta/research/patch_3702_wrathguard_golden/BG36_362_G.native.xml": {
+      "bytes": 4746,
+      "sha256": "3f97155ecf2b93269cacc3c1a5d4ee49f63a67fd2c56028dbe4c152d935c01e4"
+    },
+    "wrathguard_rebuild_retry_20261107/delta/research/patch_3702_wrathguard_golden/evidence.json": {
+      "bytes": 341,
+      "sha256": "b2402ab4ea560a467e49ebb6b46d600b048e1085c16df94f6aebd79b3e44097b"
+    },
+    "wrathguard_rebuild_retry_20261107/gate.gd": {
+      "bytes": 16343,
+      "sha256": "08f9fa89d535def751be0feae257284c0e472bea268111e245257d18bd802a42"
+    },
+    "wrathguard_rebuild_retry_20261107/make_gate.py": {
+      "bytes": 1033,
+      "sha256": "c4e28f714ba334847b93a6fe2e138d74eb9e36d9a675005a7c16b33e2c990e15"
+    },
+    "wrathguard_rebuild_retry_20261107/materialize.py": {
+      "bytes": 1454,
+      "sha256": "dc1c9301a507f6946a504cf1e9379c3580e2acf62c2bb954893de54ea999a45f"
+    },
+    "wrathguard_rebuild_retry_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1184,
+      "sha256": "0538ed1e586dd77c66c7d245ed52b56f5dc56ec807da160820dcfaf269c81df3"
+    },
+    "wrathguard_rebuild_retry_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 15629,
+      "sha256": "ae3b4af76fd9079587719ccc27db7ddf7fbc9db93dd4d5e5d9c49cb28bfe986a"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/LAUNCH.json": {
+      "bytes": 535,
+      "sha256": "7632aa205a42b4766d294fa13709b0098b9fb35bcc2c5c4c827d6acb6508b2e0"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 226840,
+      "sha256": "342a9b6bd17a067127450bd752837ab056b291a46e7f0fcc90cc395971b88b6a"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/PROCESS.json": {
+      "bytes": 609,
+      "sha256": "aab27e2cab7076064a5da531310b7b96ff266b6a81644e6aa36e3e7fa3effb2b"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1761,
+      "sha256": "1365a2f8d48f7a586514de94d20e51be146f474a0436876ac4a9594972166339"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 126712,
+      "sha256": "60a70587e82d9cbc656ee7db65b941df8cee8d3ba4ce2347afd7aec3c9ec5e0b"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4535015,
+      "sha256": "e16ce2b99917f46f9492c0ad14f36060e0d90d19b76ae702fd13ebb9a51bfcd9"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/data/before_combat.native_save.json": {
+      "bytes": 40762,
+      "sha256": "48e6f665ea23197efcd87fb9e9ecfd8358673d1e0fa83ee383b0b25a97462f1a"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/data/initial.native_save.json": {
+      "bytes": 18806,
+      "sha256": "bc19a65cb972bf65c22b6b629ce5a37db45217de34327f4f8f656f873e78ddca"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/data/report.json": {
+      "bytes": 1231705,
+      "sha256": "57ae85e6468f08d7ccce2b76e79997ee5c31bf8ebbc70bffbfbe306fcc48d40a"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 62749,
+      "sha256": "199dcc322125c8f835631dc0df7981150b13c27158a5f6c9d9d140de6628f7b4"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/gate_executed.gd": {
+      "bytes": 16343,
+      "sha256": "08f9fa89d535def751be0feae257284c0e472bea268111e245257d18bd802a42"
+    },
+    "wrathguard_rebuild_retry_20261107/run_1/native.log": {
+      "bytes": 552,
+      "sha256": "f976270d4e15e23b30a058aa9cfee8379e17e282ee36f86e4f7108dd881ac959"
+    },
+    "wrathguard_rebuild_retry_20261107/scenario.gd": {
+      "bytes": 7152,
+      "sha256": "dcfa478525311239232bb99d3fab2681e02a84fa089b5c2ae7057ade64124c5e"
+    },
+    "wrathguard_rebuild_retry_20261107/seal.py": {
+      "bytes": 3954,
+      "sha256": "972b5b12ff8c12edf3380b136745cef6ffc5355b7924829dfab0368a6c507e54"
+    }
+  },
+  "parts": [
+    {
+      "name": "wrathguard_new_reconstruction_20261107_retry.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "b8c02e03fa4337c9a1665d03c0e708b33b2b52813af04e03015e3ad7642cf604"
+    },
+    {
+      "name": "wrathguard_new_reconstruction_20261107_retry.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "7dfbe7c27f93cfdea8a0a49958baa1a7d9f96a43b2737bce9ee1a830b7d6336e"
+    },
+    {
+      "name": "wrathguard_new_reconstruction_20261107_retry.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "48da13870c82edcf140daae16d324c0678831cf17edcae8b374c9a61d7c41a94"
+    },
+    {
+      "name": "wrathguard_new_reconstruction_20261107_retry.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "c21040dd46864eaf5e305f5950fa0e6efbeeb08190f887390c575992807de1e4"
+    },
+    {
+      "name": "wrathguard_new_reconstruction_20261107_retry.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "030f152e4ab9cc85df210e124abe2ef7d8ab30a1ff6cdf6c8b8703f624c398a4"
+    },
+    {
+      "name": "wrathguard_new_reconstruction_20261107_retry.tar.xz.part005",
+      "bytes": 121400,
+      "sha256": "9c9ea4f55201965613f155386bd3bab9b8c3c72f826297f599243e86a4bafb4a"
+    }
+  ],
+  "dependencies": [
+    "Bloodbound source map 9a517b7c2e0ba0c14308248884696b008e5a6f0b500a1d1d97bcd53c4b7a9c71",
+    "Recovery branch e11b3d7e759cc96b75a86b4c1de2e0cd192ab27c",
+    "Main 32180d3af0db59fb3374f53100f9eaa5bb62d26a",
+    "November1 baseline ZIP33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65"
+  ],
+  "status": "NEW reconstruction, partial card support, not recovery of lost archive; preserve all dependency backups"
+}
