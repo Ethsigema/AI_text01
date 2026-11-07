@@ -1,0 +1,255 @@
+{
+  "archive": "timewarp_swirler_air_20261107.tar.xz",
+  "bytes": 1069796,
+  "sha256": "ef9255cdb356b236e99349486b0b460ade7cd13e4a69fc6aea486c4563118a4c",
+  "files": {
+    "timewarp_swirler_air_20261107/BASE_MAP.json": {
+      "bytes": 4563927,
+      "sha256": "3c73101f8f0d4f215f127efb6773df218c52032d43afb78891c2a2629f5be476"
+    },
+    "timewarp_swirler_air_20261107/EXPECTED_ROWS.json": {
+      "bytes": 97,
+      "sha256": "885d60fc8fed7a150658d3c6cdf2fc94e55cde7c308ede500f2053e5993eca81"
+    },
+    "timewarp_swirler_air_20261107/FINAL_PIN_PREFLIGHT.json": {
+      "bytes": 262325,
+      "sha256": "72532f19bd3c4250c7022a36d25590e0010308c1b83437cd86a9fdfff00d05a6"
+    },
+    "timewarp_swirler_air_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_swirler_air_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 6727,
+      "sha256": "7c342ece0becb7ffccf185c2b9f7296e369d4a93891c929bc1c115eca390ff59"
+    },
+    "timewarp_swirler_air_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 262325,
+      "sha256": "72532f19bd3c4250c7022a36d25590e0010308c1b83437cd86a9fdfff00d05a6"
+    },
+    "timewarp_swirler_air_20261107/README.md": {
+      "bytes": 1894,
+      "sha256": "a0aeeeb12e21bbb41c79f4bbf6b66078d416a7cdaf478ea26f54f7b14d0b98a8"
+    },
+    "timewarp_swirler_air_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "ab3513f547c4a2a6978a143184bfaf5d3428e7eb788f642e4a7b334381a34548"
+    },
+    "timewarp_swirler_air_20261107/SOURCE_DELTA.json": {
+      "bytes": 1007,
+      "sha256": "633df06473e11acd66a6934a11d230964889e7ccfb2a7c162352b7fb24c539cb"
+    },
+    "timewarp_swirler_air_20261107/SOURCE_MAP.json": {
+      "bytes": 4563927,
+      "sha256": "62e6602590ccb3b1793e5bc91b7e72080ff9c69d4558cd17bae36621fab6a8b0"
+    },
+    "timewarp_swirler_air_20261107/VALIDATION.json": {
+      "bytes": 1277,
+      "sha256": "883752918c0791ba1e98ee56c68f04241163a4a0d3063a2c984247d7f7d02223"
+    },
+    "timewarp_swirler_air_20261107/bindings.log": {
+      "bytes": 199,
+      "sha256": "9199f642f42f7bf71e3eb34299e6f0195e61f8f1afe0f63b76e4cc2e5795e14e"
+    },
+    "timewarp_swirler_air_20261107/build.py": {
+      "bytes": 5222,
+      "sha256": "b7b156e19a5209632e667eebcb2c32942e5939a21062b8ed8726a791c81a7ec1"
+    },
+    "timewarp_swirler_air_20261107/build_gate.py": {
+      "bytes": 4088,
+      "sha256": "677d7c157031c24ff2bd1e474d280e9e8cbfc9083a6764d4e20a8e7c5cdf26ce"
+    },
+    "timewarp_swirler_air_20261107/delta/core/air_baller_host.gd": {
+      "bytes": 4179,
+      "sha256": "66748022af7c7ccfba4b5a46c17d1580cc2fbf34af43c4459f2a9344de98ede9"
+    },
+    "timewarp_swirler_air_20261107/delta/core/patch_3702_air_baller_golden_sources.gd": {
+      "bytes": 23207,
+      "sha256": "f1969d03fa29d1f55b02bcc88e9dba78c1be306d2567282ebd329ce6f55355dd"
+    },
+    "timewarp_swirler_air_20261107/delta/core/patch_3702_air_baller_sources.gd": {
+      "bytes": 22610,
+      "sha256": "9c404177a907c807a7d325af7d5a9417807e943cc1630b1209a4877f2b8fd194"
+    },
+    "timewarp_swirler_air_20261107/delta/core/patch_3702_timewarp_swirler_sources.gd": {
+      "bytes": 27224,
+      "sha256": "4b22d8b895484796a56d934b850fbf4832cbde77142a0f8b5f8ba01f269e7f41"
+    },
+    "timewarp_swirler_air_20261107/delta/core/timewarp_swirler_host.gd": {
+      "bytes": 5756,
+      "sha256": "d1cb8242a13cd85b248b68fab3e2c0c4cbb1bce63b2da8cf7650ffb48c56980b"
+    },
+    "timewarp_swirler_air_20261107/delta/data/patch_3702_timewarp_swirler_overlay.json": {
+      "bytes": 21723,
+      "sha256": "cdfafe96f9942582e371a0fcd65757fa961754d0d6e5006341b493bc3bf34fc7"
+    },
+    "timewarp_swirler_air_20261107/gate.gd": {
+      "bytes": 17751,
+      "sha256": "37a83b29b3ee8d95cd2a2d3f6b264a489753db106d6651a967e2d4348519ab67"
+    },
+    "timewarp_swirler_air_20261107/materialize.py": {
+      "bytes": 1678,
+      "sha256": "c409906341758923ff79cb066ff6dff84c32e43e3a412c63c207319464dd2a71"
+    },
+    "timewarp_swirler_air_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1173,
+      "sha256": "33152b0c689686211f337f3277d15f9f5edefa013a31095d40e9ce0cfecb2ade"
+    },
+    "timewarp_swirler_air_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_swirler_air_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 97,
+      "sha256": "885d60fc8fed7a150658d3c6cdf2fc94e55cde7c308ede500f2053e5993eca81"
+    },
+    "timewarp_swirler_air_20261107/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "1e134cafbf0e6b43a1fca2a2de57ba9398229b82b52556b97c2cc36ec3f428e4"
+    },
+    "timewarp_swirler_air_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 262325,
+      "sha256": "72532f19bd3c4250c7022a36d25590e0010308c1b83437cd86a9fdfff00d05a6"
+    },
+    "timewarp_swirler_air_20261107/run_1/PROCESS.json": {
+      "bytes": 601,
+      "sha256": "4ebe744059c84b04419b1c261ddca6c4b6dda88e1720524d712f0476772ebf62"
+    },
+    "timewarp_swirler_air_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1092,
+      "sha256": "13721a1cfdf5a70a217234e200ecddc5262bbec7cb271f8b4e49d19710e01ceb"
+    },
+    "timewarp_swirler_air_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 9628,
+      "sha256": "f1e9e87aa461faa8538e8d79bf54da9ee8b77d6474599518ec6d9a79d4607b0f"
+    },
+    "timewarp_swirler_air_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4563927,
+      "sha256": "06b439fc4f5368c77649d47ba785537f4942829f2b9aa4cf824d08fb2b07ff84"
+    },
+    "timewarp_swirler_air_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 26705,
+      "sha256": "cc30b31ee541ad45dfd6fc0fc012f4d2bf1db4f76740225e00eced4f1241650c"
+    },
+    "timewarp_swirler_air_20261107/run_1/data/report.json": {
+      "bytes": 256017,
+      "sha256": "a2a4738f58ff2eb3bf5e4cb7e6f0659e57544b281b0acd10e6a69c28a99bb511"
+    },
+    "timewarp_swirler_air_20261107/run_1/gate_executed.gd": {
+      "bytes": 17751,
+      "sha256": "37a83b29b3ee8d95cd2a2d3f6b264a489753db106d6651a967e2d4348519ab67"
+    },
+    "timewarp_swirler_air_20261107/run_1/native.log": {
+      "bytes": 181,
+      "sha256": "cdf551deae8032b3739e79d9b10a7b9f5a34c9d49067cdb3a50017fc6b3de4fb"
+    },
+    "timewarp_swirler_air_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 97,
+      "sha256": "885d60fc8fed7a150658d3c6cdf2fc94e55cde7c308ede500f2053e5993eca81"
+    },
+    "timewarp_swirler_air_20261107/run_2/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "1a533cc9fce0aa03c40dfc969096221f54064ea4fb6b7394167cc6990d82990a"
+    },
+    "timewarp_swirler_air_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 262325,
+      "sha256": "72532f19bd3c4250c7022a36d25590e0010308c1b83437cd86a9fdfff00d05a6"
+    },
+    "timewarp_swirler_air_20261107/run_2/PROCESS.json": {
+      "bytes": 600,
+      "sha256": "c3e5ac6e7409e2466786c75d638acc3b91df4bcd9791fc4b618905628eb45021"
+    },
+    "timewarp_swirler_air_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 1007,
+      "sha256": "633df06473e11acd66a6934a11d230964889e7ccfb2a7c162352b7fb24c539cb"
+    },
+    "timewarp_swirler_air_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 9712,
+      "sha256": "cf0510fcdbdb7041bf0c2e6265f55fe3861de0d4461864a684cea7c6715980b4"
+    },
+    "timewarp_swirler_air_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4563927,
+      "sha256": "62e6602590ccb3b1793e5bc91b7e72080ff9c69d4558cd17bae36621fab6a8b0"
+    },
+    "timewarp_swirler_air_20261107/run_2/data/before_aura.native_save.json": {
+      "bytes": 39787,
+      "sha256": "c52f9bc45b9296df897791b0074c8218e7abcd9c4d0716d7aa82f5f6eee92282"
+    },
+    "timewarp_swirler_air_20261107/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 26705,
+      "sha256": "7c52dca616bff66b1120a9dd533db61957fe49a8fe4c30544dbdc8ff3ef942bf"
+    },
+    "timewarp_swirler_air_20261107/run_2/data/report.json": {
+      "bytes": 857780,
+      "sha256": "0a948f3c290c24dc2c7c87cf39e5d7218158ed21f419266981c09e0efaee19d6"
+    },
+    "timewarp_swirler_air_20261107/run_2/data/terminal.native_save.json": {
+      "bytes": 47463,
+      "sha256": "33b46e85b81a95711906a33a1a2209872dfdaf8da4bdb13333dfc1842fb907d3"
+    },
+    "timewarp_swirler_air_20261107/run_2/gate_executed.gd": {
+      "bytes": 17751,
+      "sha256": "37a83b29b3ee8d95cd2a2d3f6b264a489753db106d6651a967e2d4348519ab67"
+    },
+    "timewarp_swirler_air_20261107/run_2/native.log": {
+      "bytes": 300,
+      "sha256": "18afb7d0b98d3f1f69e1772a487a750abc29643ee0ea883be617d5f97491bb19"
+    },
+    "timewarp_swirler_air_20261107/seal.py": {
+      "bytes": 4383,
+      "sha256": "ce7ea9b52a86ede1b8d1be77641a71183801e8ff044548f76f0b80dcf281b820"
+    },
+    "timewarp_swirler_air_20261107/update_runtime.py": {
+      "bytes": 751,
+      "sha256": "df60d2c937d4676775c9ba01fe6886886d09158bc3fc219e233775c6b9454a26"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_swirler_air_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "7ab12e4f5cf0827d118e1205a9f6245fb3b344d41f38ad0c29b53a79530b285d"
+    },
+    {
+      "name": "timewarp_swirler_air_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "6082b95d19af3d275bc188b30b76f121d21be1c5bdcb354782aa783e43fc3202"
+    },
+    {
+      "name": "timewarp_swirler_air_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "e383b8223c403bf4e9140e16a159ee112c528539961e301d5f7980b0fe5a966d"
+    },
+    {
+      "name": "timewarp_swirler_air_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "939cdbe2927abc7551e260897638891098ee6b02d213f2640c145adffb07704c"
+    },
+    {
+      "name": "timewarp_swirler_air_20261107.tar.xz.part004",
+      "bytes": 69796,
+      "sha256": "6d5daa59134afb7f7b859b0688f9cfb34b91c2e62cc5cad0be781f2b28fb9c24"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "timewarp_swirler_air_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 324,
+      "sha256": "c39245add86094399c657e3c263e31399c19f7438ddc924ce747fe1fccbb4b06"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "swirler_commit": "8533853fec40dcace4510ab0c7b520dd50d98217",
+    "swirler_source_map_sha256": "3c73101f8f0d4f215f127efb6773df218c52032d43afb78891c2a2629f5be476"
+  },
+  "status": "Partial Swirler Air Baller first-sale bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 50,
+    "credential_pattern_flags": []
+  }
+}
