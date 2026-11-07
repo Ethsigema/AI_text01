@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "enchanted_lasso",
+      "commit": "490988e6f23f0f218b3b5f29168b9b703d3eaba9",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-enchanted-lasso",
+      "manifest_sha256": "a0ef0176a4b70060f97f4a93d33faf745f1fbf0841c725466e8d687fc70781dd",
+      "archive": "electron_enchanted_lasso_20261107.tar.xz",
+      "archive_sha256": "27649a63c63fdfc0acee933a4cf4d3dea99dcf13a13df5e2916298e4da04d7f1",
+      "archive_bytes": 1069460,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "nearest_enemy": "c6d66a3d40b242f9238e80cc2d28a96615fd3ebf7f4a0363e31ed3ba8445803c",
+    "enchanted_lasso": "4cfd94bc3b414b3d55d0b827028bbfbe1e53c777321cac6c204b5c1d63ea0fec"
+  },
+  "nearest_enemy_source_byte_equals_enchanted_lasso_base": true,
+  "baseline_files_rehashed": 27687,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "eac1fa16d91eba08b0bbad5e3b00689b90972fc4cb8cf5d2e1d270f05909cf39",
+  "change_lists": {
+    "added": [
+      "research/electron_enchanted_lasso/BG28_512.native.xml",
+      "research/electron_enchanted_lasso/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27689,
+  "restored_bytes": 1548019677,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_nearest_enemy_to_enchanted_lasso_map_continuity": true,
+  "supporting_nearest_enemy_chain_receipt_sha256": "221ef8f62d7fe3f7a6d88286387a393551a88053b1ff26ebad15a7afe4296973",
+  "historical_baseline_provenance": "The baseline is the verified Electron Nearest Enemy baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Enchanted Lasso increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T22:35:29.614327+00:00"
+}
