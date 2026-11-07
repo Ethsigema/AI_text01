@@ -1,0 +1,18 @@
+{
+  "added": [
+    "core/patch_3702_temperature_shift_sources.gd",
+    "data/patch_3702_temperature_shift_overlay.json",
+    "research/patch_3702_temperature_shift/BG31_819.native.xml",
+    "research/patch_3702_temperature_shift/evidence.json"
+  ],
+  "modified": [
+    "core/catalog.gd",
+    "core/fire_baller_host.gd",
+    "core/patch_3702_fire_baller_golden_sources.gd",
+    "core/patch_3702_fire_baller_sources.gd",
+    "core/patch_3702_snow_baller_golden_sources.gd",
+    "core/patch_3702_snow_baller_sources.gd",
+    "core/snow_baller_host.gd"
+  ],
+  "removed": []
+}

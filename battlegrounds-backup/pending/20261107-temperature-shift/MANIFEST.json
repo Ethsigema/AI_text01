@@ -1,0 +1,224 @@
+{
+  "archive": "temperature_shift_20261107.tar.xz",
+  "bytes": 1280680,
+  "sha256": "51bd998e9340ae45dce247f70b968fa8fe8238c021bb019475edb9dae097e2f9",
+  "files": {
+    "temperature_shift_20261107/BASE_MAP.json": {
+      "bytes": 4552958,
+      "sha256": "d3fcbaad4f03524277aaae06d0c53339cff8e4ec1552646bb64eca1dc153a48e"
+    },
+    "temperature_shift_20261107/EXPECTED_ROWS.json": {
+      "bytes": 8199,
+      "sha256": "f0fd9245869fef304e5c9c75083d08bb5324ba57425f58f1be22ea87d4441f2a"
+    },
+    "temperature_shift_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "temperature_shift_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5632,
+      "sha256": "3806fed44182f0bf4a0b5a7ae508e162e32029b3ef90daf70d5bfbff53c3bf72"
+    },
+    "temperature_shift_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 250716,
+      "sha256": "d4205d69a85bbd3af32c1696ba6f6e28291c1f207bf53124c7c20e8995760211"
+    },
+    "temperature_shift_20261107/README.md": {
+      "bytes": 1953,
+      "sha256": "d1c8182242737e4512ec0805a93f00947c171397f09b9c7b54434629c168d98a"
+    },
+    "temperature_shift_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "3e5639a7de05356d0334a09d3b4dabb7364c3ece8c32100235193ef9a0507486"
+    },
+    "temperature_shift_20261107/SOURCE_DELTA.json": {
+      "bytes": 1907,
+      "sha256": "a773040bd1e1bbb8b783be3d90b608a0f2e581397cc25fd794e7f15021ba02e8"
+    },
+    "temperature_shift_20261107/SOURCE_MAP.json": {
+      "bytes": 4553609,
+      "sha256": "c7e94e89019ab848f268c4b9cfa2bedebb747d50342b542b0cf8d0a3546b9215"
+    },
+    "temperature_shift_20261107/VALIDATION.json": {
+      "bytes": 830,
+      "sha256": "329e9c6610d2bffd194af0f37ea615ef478efdcfc8500bbaf8cdd7bde0f83486"
+    },
+    "temperature_shift_20261107/build.py": {
+      "bytes": 4915,
+      "sha256": "e1d270f65b29b2151e81e2ee17500ec8c9ef228b755aa316bce4dc9137b5dcf1"
+    },
+    "temperature_shift_20261107/build_gate.py": {
+      "bytes": 5998,
+      "sha256": "ded9ecad61e66aee71533146a428318436cc1d5949da78f30ebd1d89469c80dd"
+    },
+    "temperature_shift_20261107/delta/core/catalog.gd": {
+      "bytes": 1829369,
+      "sha256": "dfde6b86636434f6fff3c0315f5eeb7139f5daf810b9b126b0e2ae8ea6b3e69e"
+    },
+    "temperature_shift_20261107/delta/core/fire_baller_host.gd": {
+      "bytes": 4096,
+      "sha256": "21ffd9eae8d7b9c0eb6360015b44e035efa4e01705c8adf94a047d2fc6fc4036"
+    },
+    "temperature_shift_20261107/delta/core/patch_3702_fire_baller_golden_sources.gd": {
+      "bytes": 26786,
+      "sha256": "9e526615b1a303571b5b9a92c623f4500592be59beb436ddff85bd685f1425b9"
+    },
+    "temperature_shift_20261107/delta/core/patch_3702_fire_baller_sources.gd": {
+      "bytes": 26227,
+      "sha256": "c3ba1cdf9a8c136f188d882290fa1b543d8edfb5e6a8384bbdd71318c808b07f"
+    },
+    "temperature_shift_20261107/delta/core/patch_3702_snow_baller_golden_sources.gd": {
+      "bytes": 26678,
+      "sha256": "b34af34652ec7a0e4d437b0819b0da72a9cb61fcebc5383e11a4b08a2b31a118"
+    },
+    "temperature_shift_20261107/delta/core/patch_3702_snow_baller_sources.gd": {
+      "bytes": 26119,
+      "sha256": "cff2ecbbd41ae7b825c8a92ed002290c1247cbef8f7e4bf7e07be4a456db1c1d"
+    },
+    "temperature_shift_20261107/delta/core/patch_3702_temperature_shift_sources.gd": {
+      "bytes": 24051,
+      "sha256": "82e91369a07863132ce985da0c17e0f42bcdfae20df52acf924f31737551a3d4"
+    },
+    "temperature_shift_20261107/delta/core/snow_baller_host.gd": {
+      "bytes": 4096,
+      "sha256": "798824fa54fa839b802bb0faa8a7e342e39d1d85e420733f28a0524ecd069faa"
+    },
+    "temperature_shift_20261107/delta/data/patch_3702_temperature_shift_overlay.json": {
+      "bytes": 17689,
+      "sha256": "af1f772b2a16ab39d9ff3aa73811eec7964ac92cd3db25677073c73c944a0386"
+    },
+    "temperature_shift_20261107/delta/research/patch_3702_temperature_shift/BG31_819.native.xml": {
+      "bytes": 2511,
+      "sha256": "8bbb3375d6cb18d66a3189954bec84fbaff9ebe9b8e4808e9e16c51ecc34e874"
+    },
+    "temperature_shift_20261107/delta/research/patch_3702_temperature_shift/evidence.json": {
+      "bytes": 519,
+      "sha256": "069911e46065d7cb03651f4e95493e601a5f8d92adf2e75e6cecdf6d3005dd4b"
+    },
+    "temperature_shift_20261107/gate.gd": {
+      "bytes": 18084,
+      "sha256": "c4058b4adcbe1e581d492b18eab52abfa4407601295c933049412e5bb2231f3c"
+    },
+    "temperature_shift_20261107/materialize.py": {
+      "bytes": 1671,
+      "sha256": "0d37187f80efdfa5936a0b14bc16c6bb7a3b52b242c3b1a25598a27d80a19c88"
+    },
+    "temperature_shift_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1166,
+      "sha256": "344a9fecc6b01b1e16dcac0959dfd7ee0dd0e97d1db3fe902f0b6a4e8ac0d755"
+    },
+    "temperature_shift_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "temperature_shift_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 8199,
+      "sha256": "f0fd9245869fef304e5c9c75083d08bb5324ba57425f58f1be22ea87d4441f2a"
+    },
+    "temperature_shift_20261107/run_1/LAUNCH.json": {
+      "bytes": 521,
+      "sha256": "f1a3fb314ead0b01cbc575f2061af8200275f7b6ba01dac8efaca7b59db00d7a"
+    },
+    "temperature_shift_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 250716,
+      "sha256": "d4205d69a85bbd3af32c1696ba6f6e28291c1f207bf53124c7c20e8995760211"
+    },
+    "temperature_shift_20261107/run_1/PROCESS.json": {
+      "bytes": 595,
+      "sha256": "a137eab4f13eaca7ba00aaefd8e66987e2a571beee1224ff5fe1a9bddd5198b3"
+    },
+    "temperature_shift_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1907,
+      "sha256": "a773040bd1e1bbb8b783be3d90b608a0f2e581397cc25fd794e7f15021ba02e8"
+    },
+    "temperature_shift_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 123988,
+      "sha256": "d90ae67b2addd30cd9fd4f33a47d6b37f989b79d4f3dabc9c915a3012e03d9d6"
+    },
+    "temperature_shift_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4553609,
+      "sha256": "c7e94e89019ab848f268c4b9cfa2bedebb747d50342b542b0cf8d0a3546b9215"
+    },
+    "temperature_shift_20261107/run_1/data/before_first_sale.native_save.json": {
+      "bytes": 53842,
+      "sha256": "86730553661cc2edb82bfc961d4a34af7bf50ea752918bf6d26d0d3699c7a6a0"
+    },
+    "temperature_shift_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 27855,
+      "sha256": "8f6a1d39a4fe1df66f4201db06a6336e5e8931e0ed579d423b0d5c9a99097351"
+    },
+    "temperature_shift_20261107/run_1/data/report.json": {
+      "bytes": 1079704,
+      "sha256": "6e0b77c3c457bccbe5952d0a8e064f3b375b02ea1e7bc7f5aa2bbf953054e793"
+    },
+    "temperature_shift_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 53334,
+      "sha256": "fbd943dfc522e5e0f53cbba285be7167f4c9867151f7f7536f12cb26f168b6c3"
+    },
+    "temperature_shift_20261107/run_1/gate_executed.gd": {
+      "bytes": 18084,
+      "sha256": "c4058b4adcbe1e581d492b18eab52abfa4407601295c933049412e5bb2231f3c"
+    },
+    "temperature_shift_20261107/run_1/native.log": {
+      "bytes": 332,
+      "sha256": "3ec8a2b55d0b6012066aa8bdea13b81f7cc2f75e8ce46fdc49d0295a9ec9797c"
+    },
+    "temperature_shift_20261107/seal.py": {
+      "bytes": 4392,
+      "sha256": "bd4fc6d18c13e4b9bd3c883b9ac3cdddf6feb20659b9b2df572bfed23eae5845"
+    }
+  },
+  "parts": [
+    {
+      "name": "temperature_shift_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "9b0f026571c02149705fad64903e8790eb02f19047a49e0e3d735c0a981c5d39"
+    },
+    {
+      "name": "temperature_shift_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "b6bf20b105a7dca7bcb02eabddfa81634a355121c8fdbb7286237bd81dfe6167"
+    },
+    {
+      "name": "temperature_shift_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "93a664b3b66cce83e3b93d78949bd7d26a5fa9ad1877b7f9cc2bbb827420157e"
+    },
+    {
+      "name": "temperature_shift_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "9dd3ceca76c3368625754ce37d5f49d8c200a1def055d91af20ab50daf9baddc"
+    },
+    {
+      "name": "temperature_shift_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "7fb9a38cb3f80c7d5b01b48ff5065e3a3caf8aff010730fadcf078ce525a4b42"
+    },
+    {
+      "name": "temperature_shift_20261107.tar.xz.part005",
+      "bytes": 30680,
+      "sha256": "9b3b45e1016d9dd87765b004417410a87aa999d43e453760f9ea811d1b5663ea"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "temperature_shift_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 572,
+      "sha256": "3011ff311243ee5d85c9c0339cc5eb49dfb5628e2225d01dc323e829f2245188"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "snow_commit": "011d4553c2f0e3fd9a09a7cab21b2497d2fdf06d",
+    "snow_source_map_sha256": "d3fcbaad4f03524277aaae06d0c53339cff8e4ec1552646bb64eca1dc153a48e"
+  },
+  "status": "Temperature Shift spell delivery; Baller growth remains unimplemented and later sales held; source recovery only",
+  "audit": {
+    "archive_members": 41,
+    "credential_pattern_flags": []
+  }
+}
