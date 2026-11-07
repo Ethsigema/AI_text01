@@ -1,0 +1,416 @@
+{
+  "archive": "hooktusk_stock_discover_20261107.tar.xz",
+  "bytes": 1455676,
+  "sha256": "fc44bc837a9175da771cff1261d20c1eeb094168fd575d4057527ab81c2b28b7",
+  "files": {
+    "hooktusk_stock_discover_20261107/BASE_MAP.json": {
+      "bytes": 4549103,
+      "sha256": "d9a4ab6b094a69ce6fc8a83f0100ac4f5546f2543067a115295f02be4a163398"
+    },
+    "hooktusk_stock_discover_20261107/EXPECTED_ROWS.json": {
+      "bytes": 15933,
+      "sha256": "8e3fa90cf05586df96db8d3026fb9e02b70f24d67af363dddbea992ac4e19a09"
+    },
+    "hooktusk_stock_discover_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hooktusk_stock_discover_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 13399,
+      "sha256": "28d5513191959e6ea34cc2c25c4991341d6787ab96ceebfc41f614276a6b3664"
+    },
+    "hooktusk_stock_discover_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 244663,
+      "sha256": "6d91626670b1b002e6fc927db5af250539b7bfd2efa9bef0d5b04edff6fab9b1"
+    },
+    "hooktusk_stock_discover_20261107/README.md": {
+      "bytes": 2140,
+      "sha256": "e301c3437f45b480e95d88c93a3c720482b66cff7cc78ebc409bcd05dcb55fdd"
+    },
+    "hooktusk_stock_discover_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "0032f228889159a929ed55e971260b2fa79b2856f035c8a7321beff57f007e24"
+    },
+    "hooktusk_stock_discover_20261107/SOURCE_DELTA.json": {
+      "bytes": 9756,
+      "sha256": "1c96dd69934d4c822f02df6196846e7c4f1c86b8a56453688887296ac803a929"
+    },
+    "hooktusk_stock_discover_20261107/SOURCE_MAP.json": {
+      "bytes": 4549103,
+      "sha256": "ec3b729af4547bed473c49ac0969841d56945da7a14456f7b90145a8dbee2364"
+    },
+    "hooktusk_stock_discover_20261107/VALIDATION.json": {
+      "bytes": 924,
+      "sha256": "74ad29012d8e8d9f5779c754c4b56d3b8b8ad4f3c7190ff4d944b58cf23f1dcf"
+    },
+    "hooktusk_stock_discover_20261107/build.py": {
+      "bytes": 5169,
+      "sha256": "878a978caaf27ee3b2f630b87969174a0f7547f7df3fd602a89c0d263f1c23c5"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/game.gd": {
+      "bytes": 1323874,
+      "sha256": "9038afdb6944f209de36a617d3021bab770c2cb86acc4f795a5e8726c25d6a04"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/hooktusk_host.gd": {
+      "bytes": 7235,
+      "sha256": "3e944e37104f6dab6c8db82b3909620f78172d5bf497885dabeb951cbd683d30"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "f808ddb90bd36239e118def7ad662d92593068cb2e34e191c1f058fd37968e54"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "82083f32909b98f5e2a868633b296c4df5234ebb9a77bf5beb40a5ac210afb0f"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "55a1a67da8dd3c3689dfb6431ce4c4a5db351771e5312bad2fd398785b955fa7"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "3d1eda240bd5ee39e21a76959e568443a2870370b68ddefb773455a7e4792beb"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "ef9ea36e9d257c72aee084dfb05d9b684985215fc4dbb4464c0e8bb9505af6d0"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "7f634d04c3dc78258542dfea949a4c81ef5b2220ebe56e043720a25b66672f7a"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "e825959fca03885b815889a353ecd15b93a7196b323351c3d7151a435892d0b2"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "ee542e9b54e49d0ca2ebdb6cddbaf16be9cfdbff75dcdc8d44e0fbc860fd80fd"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 23985,
+      "sha256": "71cbfdc51338ae091f780e6373a895172410b3e5e035f4429514448429735942"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23422,
+      "sha256": "56f2a8a03befe1590870771b508f841eccbf15f1ccad995c83c830a9f8ee5ab9"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "788c6c2a2229da4f378c953932d15f4093df84b0b081c5ef7a0bd7f687d68f47"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "5b4ae1b644979378a9a6b5b06557b16597d5baff5b142dd866aa397815aa5e02"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "751245b4cb66bd1b93498404e286fc11de07ecc3425eed753c85c6546ecf3845"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "910921ddeafbd92afa33f72b6fc20aac0353b8f940adf974406f922dd8a9bf69"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "7229de9c8d2ae0a9146bf03ea89521196151bdbe8f0f8d83d281d7b8658ae9ba"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "19e2a04a5418385b383b9bec60158fb445c640b0ac5ad001fa8434fdb629e0dd"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "10b61624f15f1a44cfa6747fcf414ed0a79bdcd9a3ff70e822ad25b0547dc585"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "a874c1d9dcc99b2a971c3bf6708876162db7ace1ce699e5898183eafa3076bdf"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "e414362d19e2a84e21509f065604962e9a92955d36bee708a0acb64c229007a7"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "1fb8aa69774f0395b7f348535d49c3a232722f2a4b63dad79eb7e928ef2eacb1"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "6d9561e1f7f2540b7304ad2c29afa685f3d350020ac79f2b8efe907c1e1c4a51"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "97613b205a9c64e696a17392cc0f845de7f4f908ab8cc0f894f918b223d67553"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "def356eba0dad5817bf1558108776829c491b53bc64358a4febdf32d85d4acd6"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "6ea3dd55bf0405f78d4f31af12d3466817359216a8863d9307c9277947598bd9"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "3b29a1ad21528e826f6cf18669a83d2a1aecf26f0851f9205c885db06002cfc3"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "b841e5c129170a609c5256d22e06da0ba8b1178a28b1f59149e1d85b5d4043e4"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "06e0497afb30c0d02b3dc330ad61e04979d8c8db611fc11ea1e0cdf5fd0af0aa"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "f1c3da087d2859c4165440e43ae2f2a12803f67872ded2b50baad7b302b80c3f"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "48b719514951832ce6ed17751eb4993bf2e105de6ae0dfbfbed404fe442e3111"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "474284752b3895fab0588713cd0b0a9476e85c733e8e10c5ec48ad61146ba993"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "de6b6edf00936e92a127d0f52d08c7a74cf0150191508a7ef636fdae6708fb2f"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "559d6b5314c81f2a09c762aed9979316a35e66a2d8bfe41ccdae479a80e781f1"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "7d923528ccafc4675e579f4e70798c6827abec5fa440f96edd34e64cd36373cf"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "42f504be2f99cee29a66cfea8469b35644a628090b4c4259ce67e1e12a4261fc"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "608bd372e7306dfeaa6be85e8fb0827c569fafaa54fd06586b9fe251de705a5c"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "2f8a8f25ba6ee7e212e6c1c4ceef619894214b5a4256238c09d2bf46db20ed96"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "9d896114391e945b56fef6b75bf1c8b0e6666b934a500cfb7d34ccbf7713aee7"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "c494d9b19c58b1834acedabedf96c453a20c8f4dd7d44ced92c2f3f791093afa"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "ec68671ea5276226d556987be34bad066e8ef942bd21550499ce2ad1bb9063e5"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "2d61844eaf06a91523dfa6188c00290f3b8c267eb5a1cd7607e733906bf05afb"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "100d1516bab28238ff3e65614876503f266b3557141c391ca737d2199db1383f"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 33780,
+      "sha256": "7d6e4f9cd418ad2713cc67b2e6579e9ab77171bd22a8bed9e25c527c31071ebb"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 31833,
+      "sha256": "7ca73a6546cfd161c770a431438c9090b6bcd8170ca3886db996b1bc2aa5ab30"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "c9a4407142dc809491a23de82e557445d6291a9536fd5a355db7d0c1e7e07bea"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "a647f6f47d03ef02a5e37ec3cda3dcd13c44712a419c1030806b3c753c28b679"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "b80e07488b8df5134c865205f45d1202c620436dc4161048ff390d39ad78f121"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "2f368277e6cd31709e771196ecaa011cafbab57450b6ee870fd43ec311dd343a"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "d31f563a8992bf818c641b998651df71f1954366a68f254a94a47928461bb971"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "0e125ba9949ea7b5d82eceb8bed45482501d85dc18e95792964c7e2f1c201bb1"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "d58bd44d714c7bb29538201b18e74b39adcd9dd15abd86fde46d7039d0104c49"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "4cc8109f9bb751824255c2f1c2dbdca9c256b7a00e33f73e389a8568c94e3560"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "2ee102e3219cd29776ae273fc13996460433d244b2a216b5281a89de3c36af22"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "4c58bb238add8d3317726f78afae9fd360849bfc3cc789933151931d32a6d395"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "91135cb2b0874146128a8cc75e3cff36728ddb0b9e6178b9eac89a02952af33a"
+    },
+    "hooktusk_stock_discover_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "8b77ba9b9136686dafe3982a48ea23776cd28851c4088ace4e6ed119fc859d69"
+    },
+    "hooktusk_stock_discover_20261107/delta/data/patch_3702_hooktusk_golden_overlay.json": {
+      "bytes": 18186,
+      "sha256": "0bae5b9cf6a016a35ca28b800d5774d89d094d758a9367f47203386f6f0dbf4e"
+    },
+    "hooktusk_stock_discover_20261107/delta/data/patch_3702_hooktusk_overlay.json": {
+      "bytes": 17950,
+      "sha256": "d4e2573e6dd505904d42de435d115128bf44be459e2d9ed0d5a487193854689f"
+    },
+    "hooktusk_stock_discover_20261107/gate.gd": {
+      "bytes": 19007,
+      "sha256": "4f17feb6b9ec87ccab9b7019b3f4acb14821cf3a6786c47d37d36d818bc01792"
+    },
+    "hooktusk_stock_discover_20261107/materialize.py": {
+      "bytes": 1672,
+      "sha256": "c8462aa8c2dd5bd98dfb4450df81ad282428b3545540c9a7f7e8b26af256c541"
+    },
+    "hooktusk_stock_discover_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1163,
+      "sha256": "e5a84547cda12e9a7d24d53338e899becd7980dc92d090616b9db581eabafb6e"
+    },
+    "hooktusk_stock_discover_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hooktusk_stock_discover_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 15933,
+      "sha256": "8e3fa90cf05586df96db8d3026fb9e02b70f24d67af363dddbea992ac4e19a09"
+    },
+    "hooktusk_stock_discover_20261107/run_1/LAUNCH.json": {
+      "bytes": 533,
+      "sha256": "4fbbaf060fcca23cbcc13dbb742bbdbdba5b8e11401c5bf328f0a5f9c5e34395"
+    },
+    "hooktusk_stock_discover_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 244663,
+      "sha256": "6d91626670b1b002e6fc927db5af250539b7bfd2efa9bef0d5b04edff6fab9b1"
+    },
+    "hooktusk_stock_discover_20261107/run_1/PROCESS.json": {
+      "bytes": 607,
+      "sha256": "6e89542b4b1cfb88536509a453f2e5d70e8620f33d4a61dc104794f6707248de"
+    },
+    "hooktusk_stock_discover_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 9756,
+      "sha256": "1c96dd69934d4c822f02df6196846e7c4f1c86b8a56453688887296ac803a929"
+    },
+    "hooktusk_stock_discover_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 214144,
+      "sha256": "9dac0562499d98cc1a75e45ee545885a24bfec3a1cefa16929a64ea2fcc20da1"
+    },
+    "hooktusk_stock_discover_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4549103,
+      "sha256": "ec3b729af4547bed473c49ac0969841d56945da7a14456f7b90145a8dbee2364"
+    },
+    "hooktusk_stock_discover_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 29352,
+      "sha256": "c9f6b5a5323902496605b7e485314d0faa0430abb99beefc961b31fdbff90300"
+    },
+    "hooktusk_stock_discover_20261107/run_1/data/pending_discover.native_save.json": {
+      "bytes": 63742,
+      "sha256": "295aed6f3652fac0d470e46e50a6a0eb4f9e53fb036c833cd95ed6d39b284f68"
+    },
+    "hooktusk_stock_discover_20261107/run_1/data/report.json": {
+      "bytes": 1312933,
+      "sha256": "79f3a3db2f60cfef0a129e128d408eb6496751694ef348ca44de9a92a02dd15d"
+    },
+    "hooktusk_stock_discover_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 58764,
+      "sha256": "fc929a0a632111c67ee0f7327d0cc96bd32ed0a741427cd50e76dfe1ca8051df"
+    },
+    "hooktusk_stock_discover_20261107/run_1/gate_executed.gd": {
+      "bytes": 19007,
+      "sha256": "4f17feb6b9ec87ccab9b7019b3f4acb14821cf3a6786c47d37d36d818bc01792"
+    },
+    "hooktusk_stock_discover_20261107/run_1/native.log": {
+      "bytes": 368,
+      "sha256": "294e209d9be78cbe8b6174b5751c869ef019bd41a9d71fc5b4b2c6e7b986beea"
+    },
+    "hooktusk_stock_discover_20261107/seal.py": {
+      "bytes": 4283,
+      "sha256": "e411b32854887db241fb265bfaeaad0542f01f006285f1bbd2d1bbaf0308459c"
+    },
+    "hooktusk_stock_discover_20261107/update_runtime.py": {
+      "bytes": 687,
+      "sha256": "6583542adbe7899950208aad5960e75ddcb8d14fcd2d0956a456b250663bc6da"
+    }
+  },
+  "parts": [
+    {
+      "name": "hooktusk_stock_discover_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "09d61a17155b7f555df3e54597a5a0bc394b6971e07593ce143e114fc16a4d7d"
+    },
+    {
+      "name": "hooktusk_stock_discover_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "7a021bea5005f6369c9fa1aee50d604af3a3ea00f9672e736bead5c520983529"
+    },
+    {
+      "name": "hooktusk_stock_discover_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "11ca1cc450640a92ef94451dd64b85bcd16e1941151840aeba2ce59a2c29985e"
+    },
+    {
+      "name": "hooktusk_stock_discover_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "23e9244887951630040a90284c308b9e6cfa25016987979d57240b36d30e8144"
+    },
+    {
+      "name": "hooktusk_stock_discover_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "22a5be456c62883eeeeca597fe6a11b97c035107ee8c94476b8314743d12ec0c"
+    },
+    {
+      "name": "hooktusk_stock_discover_20261107.tar.xz.part005",
+      "bytes": 205676,
+      "sha256": "3614b60c972f40625fdb5de29f79b138f33afe72de472f2eeb2cc4e23e5831e5"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hooktusk_stock_discover_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "CHANGES.json": {
+      "bytes": 2964,
+      "sha256": "f84d047dd4b7bca81fda7354440505f39288536aa247df678dad4ad361900b09"
+    }
+  },
+  "depends_on": {
+    "hooktusk_commit": "b47dca5c962341b97a14c23cffc9c75726295656",
+    "hooktusk_source_map_sha256": "d9a4ab6b094a69ce6fc8a83f0100ac4f5546f2543067a115295f02be4a163398"
+  },
+  "status": "Partial stock-minion Discover bridge; not growth/general Discover; preserve complete chain",
+  "audit": {
+    "archive_members": 89,
+    "credential_pattern_flags": []
+  }
+}
