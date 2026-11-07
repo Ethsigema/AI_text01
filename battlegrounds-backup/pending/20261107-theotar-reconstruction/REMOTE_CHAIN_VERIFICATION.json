@@ -1,0 +1,53 @@
+{
+  "status": "EXACT_SOURCE_RESTORED_FROM_FRESH_REMOTE_INCREMENTS_AND_PREVIOUSLY_VERIFIED_BASELINE",
+  "remote_packages": [
+    {
+      "package": "wrathguard",
+      "commit": "cf0a57917c570773382f8bcad5e33f86d141846f",
+      "repository_path": "battlegrounds-backup/pending/20261107-wrathguard-new-reconstruction",
+      "manifest_sha256": "2e8dfd81392ef90696e09a8d5bfd190bc430c0005b3b2cbc3806d455fb076313",
+      "archive": "wrathguard_new_reconstruction_20261107_retry.tar.xz",
+      "archive_sha256": "9e96a7b8f3a182975bd1237a4e68259568a38530be3738478883f3b8d5943432",
+      "archive_bytes": 1371400,
+      "parts_verified": 6,
+      "members_verified": 42,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    },
+    {
+      "package": "theotar",
+      "commit": "8a746239fec90cbc37983da1e2c4e271a1b05bbc",
+      "repository_path": "battlegrounds-backup/pending/20261107-theotar-reconstruction",
+      "manifest_sha256": "e18c935b5d1f318c97f7d224d06c5f34195f4bd604a921a433631bf9f321b7b4",
+      "archive": "timewarp_theotar_reconstructed_20261107.tar.xz",
+      "archive_sha256": "ac02652611912136525b97bc1d309c4a0d4193c972933dedef572ac39ab16800",
+      "archive_bytes": 2892616,
+      "parts_verified": 12,
+      "members_verified": 103,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "bloodbound": "9a517b7c2e0ba0c14308248884696b008e5a6f0b500a1d1d97bcd53c4b7a9c71",
+    "wrathguard": "e16ce2b99917f46f9492c0ad14f36060e0d90d19b76ae702fd13ebb9a51bfcd9",
+    "theotar": "23c1cd9b8f037c39c7b748348312f3c5e327d35a471f9ded31b4e186574d0c8e"
+  },
+  "map_equalities": {
+    "bloodbound_source_equals_wrathguard_base": true,
+    "wrathguard_source_equals_theotar_base": true
+  },
+  "baseline_manifest_files_verified": 27463,
+  "baseline_ignored_generated_extras": 0,
+  "baseline_unchanged_after_restore": true,
+  "restored_files": 27480,
+  "restored_bytes": 1546230646,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "historical_baseline_freshly_downloaded_this_check": false,
+  "historical_baseline_provenance": "Previously restored from November1 ZIP SHA25633b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65, recovery commit e11b3d7e759cc96b75a86b4c1de2e0cd192ab27c and Bloodbound main snapshot32180d3af0db59fb3374f53100f9eaa5bb62d26a; prior receipt checked27463files and70part manifests/103archive scans. Every baseline source byte rehashed during this check.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T07:29:14.971320+00:00"
+}
