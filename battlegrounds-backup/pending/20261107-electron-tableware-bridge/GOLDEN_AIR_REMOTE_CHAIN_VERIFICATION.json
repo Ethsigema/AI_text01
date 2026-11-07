@@ -1,0 +1,58 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "golden_air",
+      "commit": "cf984730977bc3e5013af67638e50e370ae823f1",
+      "repository_path": "battlegrounds-backup/pending/20261107-timewarp-swirler-golden-air",
+      "manifest_sha256": "28aab5265add1a080692bc30e850f46de46966d6edc6ae940ec003bcae689bb1",
+      "archive": "timewarp_swirler_golden_air_20261107.tar.xz",
+      "archive_sha256": "69a42acaeac6fec9e9ed3a8d67f79df68dc549120ba98aee147931207f439c1a",
+      "archive_bytes": 1055068,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "first_action": "d2e0de287713ef40084422492d6ea58ca0a6c7af03c52c0a5c3fcc05434debf8",
+    "golden_air": "e1f5d4fa719ca683553c6f641205fd33ea38382693ca8fa60b8cf95e070ce958"
+  },
+  "first_action_source_byte_equals_golden_air_base": true,
+  "baseline_files_rehashed": 27650,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "a87ee647447e479560eff48c3d416f2cfc71b3923af0997667c3fa3a95b96e2f",
+  "change_lists": {
+    "added": [],
+    "modified": [
+      "core/patch_3702_timewarp_swirler_sources.gd",
+      "core/timewarp_swirler_host.gd"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 2,
+  "new_files": 0,
+  "modified_files": 2,
+  "removed_files": 0,
+  "restored_files": 27650,
+  "restored_bytes": 1547857831,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_first_action_to_golden_air_map_continuity": true,
+  "supporting_first_action_chain_receipt_sha256": "669ecd2e26ebc88e71962efc8aadde7b342208fe22074bfef8b91459106195e9",
+  "historical_baseline_provenance": "The baseline is the verified First Action Play Sequence baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Timewarp Swirler Golden Air increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T18:29:22.167577+00:00"
+}
