@@ -1,0 +1,546 @@
+{
+  "archive": "timewarp_scout_base_20261107.tar.xz",
+  "bytes": 2839976,
+  "sha256": "256b1dd78c050e2a566da8fc5e9cde69afab9959b59fc9048048409954003c7d",
+  "files": {
+    "timewarp_scout_base_20261107/BASE_MAP.json": {
+      "bytes": 4561672,
+      "sha256": "0f04c4337ca47eb5e04b68c16c676d24535739527deac10e929126afaa896794"
+    },
+    "timewarp_scout_base_20261107/EXPECTED_ROWS.json": {
+      "bytes": 9846,
+      "sha256": "5cbae6d521a4986053a6b349ba53d872ec079a3fec81dea5243cf83ceacd5cd3"
+    },
+    "timewarp_scout_base_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_scout_base_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 17346,
+      "sha256": "940edb260cb61cf2020f3701f3e6602eb382f5134901e63f384ef866c23eba68"
+    },
+    "timewarp_scout_base_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 260542,
+      "sha256": "11f3726670030115ef8178b7b562ddec5034f54273119b6ea139196be7c953b3"
+    },
+    "timewarp_scout_base_20261107/README.md": {
+      "bytes": 1523,
+      "sha256": "7b4a9c9f5c35d5f4e4c5081ef584e7eb906f4a392caa89a742b643109ea744cf"
+    },
+    "timewarp_scout_base_20261107/SECRET_SCAN.json": {
+      "bytes": 147,
+      "sha256": "696b6378c2ccc656ad4b243f9a4818a3b83dc43900ea7b44d817df582052827b"
+    },
+    "timewarp_scout_base_20261107/SOURCE_DELTA.json": {
+      "bytes": 13391,
+      "sha256": "9774d1ce6933329592e17781fb358324cd1214bb539a6e0a32647baed3991569"
+    },
+    "timewarp_scout_base_20261107/SOURCE_MAP.json": {
+      "bytes": 4562457,
+      "sha256": "2f3de1eaccbd95c22a88d7b624aa3b9fe693e5c074f10759cfb7496e575282c0"
+    },
+    "timewarp_scout_base_20261107/VALIDATION.json": {
+      "bytes": 1293,
+      "sha256": "5e310e92ee769ad1f9c8348ae1c4e6b31a7df40866e7bb7cba08bb240d55a4bd"
+    },
+    "timewarp_scout_base_20261107/bindings.log": {
+      "bytes": 3610,
+      "sha256": "c71cd9a832cc4968c53b64182040310ffafd6e38c5ae747152ed7f54a9aba46b"
+    },
+    "timewarp_scout_base_20261107/build.py": {
+      "bytes": 7582,
+      "sha256": "083fef6633f974b710e36b75078284b56301cf0440d6df3d7b4521fc0706ef61"
+    },
+    "timewarp_scout_base_20261107/build_gate.py": {
+      "bytes": 2924,
+      "sha256": "60501dd961a862a7c7a5cf33063d6a88bf7427d931ac02c51325c682cbe2132c"
+    },
+    "timewarp_scout_base_20261107/delta/core/catalog.gd": {
+      "bytes": 1848675,
+      "sha256": "bf0de9a591a0d4029fdbe8966b5a23fb8f0c1184826ff636f7f802545dc051c1"
+    },
+    "timewarp_scout_base_20261107/delta/core/combat.gd": {
+      "bytes": 577184,
+      "sha256": "3c483b1a9d3cf5e2d07a60e08b9cee671c1c42acc12614a65044b1cc893b3a81"
+    },
+    "timewarp_scout_base_20261107/delta/core/game.gd": {
+      "bytes": 1329191,
+      "sha256": "58826d828a139dcc9b1a2b7168050d9a6b7c7295ad7d38c62806948d9e1cc8eb"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_air_baller_golden_sources.gd": {
+      "bytes": 23207,
+      "sha256": "36d5a4ed13405d0ac1b045ece47cb0602b19681a78bedbebe2042239423c36c2"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_air_baller_sources.gd": {
+      "bytes": 22610,
+      "sha256": "7dc719ab4ba3d6b54618108ac39160300b7fa41fe73f6e494b25c791972e9eae"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "ec3ca35b21e511d0dbb7f0415c279b3d41a04dda690437eb84f19d61e8d6de6d"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "365c5ff55741c8079e278d72eada2157929a23409309704023ee035230016b66"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "518f2418b1d02b63bffcbf41ead51737d852f8c017514d7e9b9a04c42d3c4819"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "862ba68866cd4077d88d8f5da5d76509385eb9fc1ce36bbd1524ab93eb7cbf06"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_fire_baller_golden_sources.gd": {
+      "bytes": 26786,
+      "sha256": "e58eb15af8f1ef9c4b700e54a5b24480b1a696fa31061f03fa8a770bf3a24fc9"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_fire_baller_sources.gd": {
+      "bytes": 26227,
+      "sha256": "0945f908e9b365ab6246479dba8eb09bec530ff61692a383d3b21bfae10c5933"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "6e9bb45b47f0ea2224e88d255c8f2319f40b72f4c791e27cae137bfb8f2396a9"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "a84c02496d52b21f823c91f20473e464eee2063efacc2c6c1e8139225fa1a669"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "01164fccf71dabb3088a8316e1ab328dccb099acda495f3fd3648f10d8f9c876"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "a63abb5b747ff8f52de1ec909027a0c20e2007e52a3e910a8f8f77662b0572c0"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 24230,
+      "sha256": "a175adaf1d417215c91afc5be8a722a39206496fd2c3470d8737fdd6b4eb0ac1"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23667,
+      "sha256": "c180d257515d6dbf2fe86184dc71c178aa07124a4bf35ded33a7a9ac9a233ae8"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "d96c942f1e327ad8f79ea7abcbbf55e3e075061e0b2e5287c26eb0b6dafc3683"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "ddf0db854a12d380f500f9049d29433f39c155cd4168eaa1bbe26164b63ae8d5"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "e56caf67b3187a61e85e61fbc24a270c28210eca77b4b05fad5ae3c6410c097d"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "8f035212a7ca0247099a53b250920a04cc14a416342772fe44cdd22838675e02"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "bde2a3451af54676b2eaf7bc0be0a9538a37d2d7f743340f71add5fa5cb49a16"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "a8ce80e0b9478c552852a4a8bff2a567cc054159757d91e60282d3f35432adb6"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "7258054aa24425460e05fa798928d4be3c253219e805e1b761181c79f0baade7"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "21aef4c701e3cac11625de670688e542cc823d460a247e0e2e4668b813e728d5"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "12e89f7ca98f37c0221d5f9e4b69c7421f4c92354f43cc347e60d1760abb5d78"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "546f4744af343428cfc26304bda792263ff60b28469ba723b4887f145c36033a"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "6de367478867b744826642e1dfd28b5d21a916b9798d2ef76660971f34295080"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "bdbf309b8dfb7e3912ceefa4301e499d755d568f1e78d0b206ddb127ac52e214"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "066e20f922b4bdf971a53c7549c8ce2ba466a20dd28a1c8a1b77c6d17a9e1847"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "3d1fbcd224c53f9716f30ec124d8f03362825fb35966a22852f7917c2df8df5d"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "b3fd81cfec0d75b9be8606408f7473948c50fd14aa5e75524882262952d60b5e"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "5097022013477798795dfb05e535254d964eb81cc0a8f0d9425fce3910eebb37"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "90b2593ba32b00d3ac705ab3608e8d3027c4a3d8fcda4c563692f89cc799bfd4"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "df3a28b3d0a11fe2f29596cb57e5f6b9d6fcd7d0549a2b0d14759e11d96d8150"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "effc73f3ba51ed3e3691b9d686f28cefb4b1577b4aea4a335dcec4aa457a21a8"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "6f1f82992177dd05032c6097c903615872dce3bdd96dee4e9ba9c53d4e964773"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "be0088fc56e4bfd052434ace6d559bba5b669bcbab9faf73df315e4d6c997c20"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "129497e0157efad2e1e29b656542aa30f93ecf00d04001954e9521bc698136ec"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "0ee41348345a831ac9b976f39289484e39d817125beb4f74e8db7c9f7e51690f"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_snow_baller_golden_sources.gd": {
+      "bytes": 26678,
+      "sha256": "fb7a2536169d2b5f91cf7133592cc354045481744050c5215ac4bc66618b1462"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_snow_baller_sources.gd": {
+      "bytes": 26119,
+      "sha256": "7a45e3b12929909329789a676b9edec2da8317edf6c276dc1e1babc7b42edeca"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_spark_snapper_golden_sources.gd": {
+      "bytes": 23215,
+      "sha256": "9f05b055f42748a641294b12738286498f765f622a4370c246f25c9620497c91"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_spark_snapper_sources.gd": {
+      "bytes": 22618,
+      "sha256": "275f27c839272367812ed2e2fc069129282f300594c1e19d7798c4249cb231d9"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "c756b95434aeb6c1438a9de040dccef4387fd72339561ffb40975f10bf808879"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_temperature_shift_sources.gd": {
+      "bytes": 24051,
+      "sha256": "e8c735cfc826763c5c7ebfba84bdec5844e29d094b437ee0fe6b03f034139869"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "b0f8a409ad7df99725b589e0012a7fef6a981c974c133c17ef04fc970a079151"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "f049e68d5ec8a4728ebecf68e568fcf6ad5de576b98073a40bc74a37b1a1f01b"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "786d9936932606cc46db4995cfd5b54bb8263e7098179cf3c5247ac6c99f27fd"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "af687e4d6df1342b40545fa53b8cab4afe419392b451a41b4e925d9c9f7280ea"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "d21f5b4982c7fa0d513dc823e38dda6680998f007f9176c62bfcdc43eb53ee34"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "19cd5239f07f085a7b3e0632065513feb2a106254441a53a2183c1ed68337dfd"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "2c204f3086c074832dba30bf8a0c80b02181aa5210cef02e63931ea0638df608"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "716cf1993e7e9f5063eae48bbeebc18caff42c036d10ab83ec2507f308943f96"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "493b87ee0815946db69e40eebcac4ac71edd0fe167afa4de085bdc11d74b0291"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 34980,
+      "sha256": "9c2f60e10188d020e25f6aceba10a1f26b3a948c1c38b1e2afa95f8ffeedfde0"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 33033,
+      "sha256": "e81aa06c05a27c031c00f14e757ed93b98052734c1f347619c1f7d5628ebe9e9"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_molten_golden_sources.gd": {
+      "bytes": 27927,
+      "sha256": "76b75b11374d54b2c5faa668697164c39ee64ccfda8c6942590eb72906988c23"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_molten_sources.gd": {
+      "bytes": 27646,
+      "sha256": "315af334d0b7cd28e83e5fb257e437f5cd90a800918272720eb27bdc8a6943d1"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_murky_golden_sources.gd": {
+      "bytes": 28518,
+      "sha256": "fc795ecd068084e28323c68d886f7b1d7391dbed2402a8791371f8fcabb83e80"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_murky_sources.gd": {
+      "bytes": 28241,
+      "sha256": "10d1058fa0954bf162ef99ca26c20a0343e9fba1a2fc31ebe9d63419d54fc06d"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "348b03ce2294bfdc72aeab1fc247dbf94a138a87857a52a954f581fe92c08010"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "ffaaeb9119e6532203872053b64b85809af351135481bd514369f20e1a1775c7"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_painter_golden_sources.gd": {
+      "bytes": 28712,
+      "sha256": "3319772110693bc14a4721b59b3c8df6ae165721cba1755b6f1357e0993280c6"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_painter_sources.gd": {
+      "bytes": 28457,
+      "sha256": "c161881fe33bec2c72a09e8f88e20ffa0798740ebfd596ba68174e9fad2c4a68"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_red_whelp_sources.gd": {
+      "bytes": 28213,
+      "sha256": "dfbb38e0c7276d030baf1d2f4e00ced38164f8cb7e6fd1ca81cf6dd7b8f448f1"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "6b9cae581ffa3e54117d53692ee309f09e6ac8250310d104ef4e4e47735c9b5f"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "5bd55b85becba4f48186ac89d11da59ed322715d9c84ed5552d90474be9ae79d"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_scout_sources.gd": {
+      "bytes": 27868,
+      "sha256": "0ee9778dd2402e9cc50ba19ba040889c392d1214e01c5091ca65a9845d566f0d"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "9a97d234231ad5a47fafedc76b80b36e6f0dafab41034a4cbf30674c4b7c4f32"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "9465c28d4e3c3b12b7a97def3b4c2b689f173707535fce6ece7491d94006c43f"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "c3e16c59a2fa43a5ae2bea96fa26234b5cfe2cbbbc4cd4ca77cc9cf93b7c8293"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "12a026f7c31cc9a465de8d1df36fab4f7e6b5b602b463ecabc2a5fd31ec45632"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "f7bc0fc14d6eb9cdc1e44484eae33c1a1bb841d328578914194848be79c52a00"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "c8538d9fae40bafc4728275a71ae09e5d4ac8bbfdcc527bb5b3d95e8548501f4"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "c26ccce9ca16d96611ddd601c2e1b3cd00af6b51e6998175b4e86da21626e886"
+    },
+    "timewarp_scout_base_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "ad25bd8527af8d3c22bfd122f6de5cec07933e1a60daa898c9a8c18a6305cbcf"
+    },
+    "timewarp_scout_base_20261107/delta/core/timewarp_scout_host.gd": {
+      "bytes": 4635,
+      "sha256": "45063d98258874e0000df893c5039f8d7186b1c537f663c66c080c8bd901a958"
+    },
+    "timewarp_scout_base_20261107/delta/data/patch_3702_timewarp_scout_overlay.json": {
+      "bytes": 22203,
+      "sha256": "271799469cb54c2b48c1947020f629ae120f1c501a27a9856a79f0820057854c"
+    },
+    "timewarp_scout_base_20261107/delta/research/patch_3702_timewarp_scout/BG34_Giant_333.native.xml": {
+      "bytes": 4067,
+      "sha256": "9af4244eb2edd50383cb68eb8c6afe7c1fed5d1199b6611dc3469930e5a1dc8d"
+    },
+    "timewarp_scout_base_20261107/delta/research/patch_3702_timewarp_scout/evidence.json": {
+      "bytes": 425,
+      "sha256": "6944ed9c6693499d827ec9f869f3fa1822e649ce2f7007622933f49c03593eb4"
+    },
+    "timewarp_scout_base_20261107/gate.gd": {
+      "bytes": 16364,
+      "sha256": "5dc6e92f8c3a1a9d3eb0cf92af75d3847ce2b7cfa6404809cf93e6aa96ce87c2"
+    },
+    "timewarp_scout_base_20261107/host.gd": {
+      "bytes": 4635,
+      "sha256": "45063d98258874e0000df893c5039f8d7186b1c537f663c66c080c8bd901a958"
+    },
+    "timewarp_scout_base_20261107/materialize.py": {
+      "bytes": 1678,
+      "sha256": "8e20d9363db375800ac0f7fbb25a91d36a2689629e778efc246b15480804edf3"
+    },
+    "timewarp_scout_base_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1173,
+      "sha256": "1d2ba24821ceae27e154eee516890f129a26165b9a9b35f542e8213d6a668d27"
+    },
+    "timewarp_scout_base_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_scout_base_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 9846,
+      "sha256": "5cbae6d521a4986053a6b349ba53d872ec079a3fec81dea5243cf83ceacd5cd3"
+    },
+    "timewarp_scout_base_20261107/run_1/LAUNCH.json": {
+      "bytes": 525,
+      "sha256": "2d0ef572e6dafa2dffd5d1610b28f32a073b2a51fdb091da8bdd42bade5e6e7b"
+    },
+    "timewarp_scout_base_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 260542,
+      "sha256": "11f3726670030115ef8178b7b562ddec5034f54273119b6ea139196be7c953b3"
+    },
+    "timewarp_scout_base_20261107/run_1/PROCESS.json": {
+      "bytes": 599,
+      "sha256": "293b929671ed0a79cebc2111c99ce81cc69274494532f70a9b4675bdfe0303d0"
+    },
+    "timewarp_scout_base_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 13391,
+      "sha256": "9774d1ce6933329592e17781fb358324cd1214bb539a6e0a32647baed3991569"
+    },
+    "timewarp_scout_base_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 409940,
+      "sha256": "92121317d65275efbb1e11167b23a2511facefcba9a0549c50514d5fecb01f3f"
+    },
+    "timewarp_scout_base_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4562457,
+      "sha256": "2f3de1eaccbd95c22a88d7b624aa3b9fe693e5c074f10759cfb7496e575282c0"
+    },
+    "timewarp_scout_base_20261107/run_1/data/before_sale.native_save.json": {
+      "bytes": 35327,
+      "sha256": "6cde0163c89288469b4ab8fa9681160642eab9042110c37f040c43f4149910b6"
+    },
+    "timewarp_scout_base_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 25139,
+      "sha256": "0ed0423eaefe64acdb9a4dc5cae81718758e74dcee69da6eda92cb790a1ddbb2"
+    },
+    "timewarp_scout_base_20261107/run_1/data/report.json": {
+      "bytes": 769688,
+      "sha256": "e533b5c6568eff56a1f226dd11b12fe8d1cc362ef660d410882a8bdfd95f7b83"
+    },
+    "timewarp_scout_base_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 37133,
+      "sha256": "000d8bfe17bd918dfb5e99f271a13d53ea9a3ae5fda40ce070ec6ac8d9969b57"
+    },
+    "timewarp_scout_base_20261107/run_1/gate_executed.gd": {
+      "bytes": 16364,
+      "sha256": "5dc6e92f8c3a1a9d3eb0cf92af75d3847ce2b7cfa6404809cf93e6aa96ce87c2"
+    },
+    "timewarp_scout_base_20261107/run_1/native.log": {
+      "bytes": 270,
+      "sha256": "e21824918bcda59a6c4d22c63d682c53cd7a88c6d96c8f24a2332403e748231b"
+    },
+    "timewarp_scout_base_20261107/seal.py": {
+      "bytes": 4170,
+      "sha256": "ee8a541640966ae61dfdc185c36e2efe0dcf2625c2200ec2dc491c72c8cd2003"
+    },
+    "timewarp_scout_base_20261107/update_runtime.py": {
+      "bytes": 751,
+      "sha256": "df60d2c937d4676775c9ba01fe6886886d09158bc3fc219e233775c6b9454a26"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_scout_base_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "965ab88a6c2b15defe2ffce9ec879f3404dbf24c768d0c228bfb42da4574a5db"
+    },
+    {
+      "name": "timewarp_scout_base_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "4659f9543134e383ebf85a59e04951dd825dd74ecb53a33a8b3f96d59d33ff8e"
+    },
+    {
+      "name": "timewarp_scout_base_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "eee9bfbb50da950f8b2bbaaa14974c9f55e4b7459810120dfe6786c6c09e7626"
+    },
+    {
+      "name": "timewarp_scout_base_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "6574fd7fcf0a27be92f1e8524cb098cade4a62f2dd3e47b0bfc0452a6071b9b5"
+    },
+    {
+      "name": "timewarp_scout_base_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "62d7ed2ffcd4a69e544a5b8aed4e3643e52257fd25a7a222b6ef8a847f6176a3"
+    },
+    {
+      "name": "timewarp_scout_base_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "b840a4ff912a3ad67c748950feabd19ab0658e772bab4e30006ec7e047fe60b8"
+    },
+    {
+      "name": "timewarp_scout_base_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "960cc1c303df3bfe72183ec7fc31fa98791048cdd62e1c9b6f10296648378a87"
+    },
+    {
+      "name": "timewarp_scout_base_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "82074d9271a9ba550f6d1188f10c9ffa47bda373c0180207dfeabffb3c0379f8"
+    },
+    {
+      "name": "timewarp_scout_base_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "cd4863b2e2e63f0936f8a0d5a0214fe0a9a777bff0c857878962115cd07a0c81"
+    },
+    {
+      "name": "timewarp_scout_base_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "52041d77af77e767baaa1b5dcb52cd0d168e90148fd196dcfd085829e2751bca"
+    },
+    {
+      "name": "timewarp_scout_base_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "b39c6d871428c0c7db76b6a7720dbc98756e6cac9dfee3869c72050e125a82e6"
+    },
+    {
+      "name": "timewarp_scout_base_20261107.tar.xz.part011",
+      "bytes": 89976,
+      "sha256": "bb5e381b16870291b2f0fe38240e459ba38b3f7c207ac21689bb2797c214fb98"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "timewarp_scout_base_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 4083,
+      "sha256": "bd7203fa406282b06c7bd4c135103d1c5c0ad8c28496d62301860157097471c7"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "red_whelp_commit": "84c3928704177ba384876fee613c6afe351f27bf",
+    "red_whelp_source_map_sha256": "0f04c4337ca47eb5e04b68c16c676d24535739527deac10e929126afaa896794"
+  },
+  "status": "Partial Timewarped Scout initial-round sale only; later growth and golden unsupported; source recovery only",
+  "audit": {
+    "archive_members": 114,
+    "credential_pattern_flags": []
+  }
+}
