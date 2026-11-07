@@ -1,0 +1,203 @@
+{
+  "archive": "electron_recruitment_20261107.tar.xz",
+  "bytes": 1071908,
+  "sha256": "9d74cf1f510c487462ee6658300e3cf10225082c7225af4f45a6bd808f6d4041",
+  "files": {
+    "electron_recruitment_20261107/BASE_MAP.json": {
+      "bytes": 4571583,
+      "sha256": "7c6e3c37c5e2efe75c210b667a9e197f97bb8ae6cff6a9d17b5c9e7d66231297"
+    },
+    "electron_recruitment_20261107/EXPECTED_ROWS.json": {
+      "bytes": 26203,
+      "sha256": "aa1714527b8b6b19d61d2b9282699a9530bb612a2498c068bfd7f83b632746e8"
+    },
+    "electron_recruitment_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_recruitment_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 5041,
+      "sha256": "cee6e8adf5fb0857fce077a8e1ba876519ff03cab9507aa11436799dc48e9dde"
+    },
+    "electron_recruitment_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 275540,
+      "sha256": "8f5ac05ce764b697eda598bc36bb8e57939cf7576a9244ba25cdd69c66813a8a"
+    },
+    "electron_recruitment_20261107/README.md": {
+      "bytes": 1986,
+      "sha256": "0539695890c59dd28d05d76b4f10563e2e94bad28f0644a7bb6a295ed10cb82b"
+    },
+    "electron_recruitment_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_recruitment_20261107/SOURCE_DELTA.json": {
+      "bytes": 1313,
+      "sha256": "e8aeac1fa42d7849ee948d51082a44a52d51ba8dcea34d283ca27ccf55848698"
+    },
+    "electron_recruitment_20261107/SOURCE_MAP.json": {
+      "bytes": 4571900,
+      "sha256": "91aa9cd267720819bbd5f1a82e5b95921b4fc34fac5b5cec8affd7b29d523982"
+    },
+    "electron_recruitment_20261107/VALIDATION.json": {
+      "bytes": 841,
+      "sha256": "ac783637981628816d9f0356535e958f19c0a3a01e3722c036134450d501c880"
+    },
+    "electron_recruitment_20261107/build.py": {
+      "bytes": 3553,
+      "sha256": "d197fee747e39275e3c2c73a79c28c6369c84813e94299d374238c5b15a13418"
+    },
+    "electron_recruitment_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 46943,
+      "sha256": "e0a5f234e2e41afc2c0f89e54c25f07ac14e46fd402ccff348236012361503eb"
+    },
+    "electron_recruitment_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 44996,
+      "sha256": "29162c09f2ad8a917f8c5e2522c5b6f74c3aaeb7bea696319081a66f8774d54d"
+    },
+    "electron_recruitment_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 16276,
+      "sha256": "317a9c47655b641cc41d0ea6603813d1f6ccb4946043fccdd8af3327ca1ee302"
+    },
+    "electron_recruitment_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 26144,
+      "sha256": "929e15564a075a85eeb8f8113c8195ef8c5a4b8c92f992f6d9bc366a18551c81"
+    },
+    "electron_recruitment_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 24934,
+      "sha256": "866af81d85567ae2924bbb7b77b6cad5a6a0750e0668981b8973b35edb3be726"
+    },
+    "electron_recruitment_20261107/delta/research/electron_recruitment/BG28_504.native.xml": {
+      "bytes": 2120,
+      "sha256": "743dfebd3a43ae2f6a5e6bb5edb944b4d4329ffe7fa48954cbb7514cccf72bb4"
+    },
+    "electron_recruitment_20261107/delta/research/electron_recruitment/evidence.json": {
+      "bytes": 461,
+      "sha256": "650436166844aaee96ed4660dbb003d2637e57dc1ca90367e15102fa945df8ff"
+    },
+    "electron_recruitment_20261107/gate.gd": {
+      "bytes": 19453,
+      "sha256": "ea3b4cbe8f741443153561672172ba54026420c50002018b36da4c9d1e3076f5"
+    },
+    "electron_recruitment_20261107/materialize.py": {
+      "bytes": 1685,
+      "sha256": "0ac6960306780f581f1a4690c3b3b7757aacc05f8c8ff504644875d120372e5f"
+    },
+    "electron_recruitment_20261107/prepare_gate.py": {
+      "bytes": 3340,
+      "sha256": "59f067f9fafcc316d04adf7d256d4728e9a6ded63fac56627e44dd7695f58a87"
+    },
+    "electron_recruitment_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1175,
+      "sha256": "03dd379c226310bbab5045553c37e22b74dda3dbfdd035113ed060beb94cc81c"
+    },
+    "electron_recruitment_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_recruitment_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 26203,
+      "sha256": "aa1714527b8b6b19d61d2b9282699a9530bb612a2498c068bfd7f83b632746e8"
+    },
+    "electron_recruitment_20261107/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "c80b840e45317491575067d904c25d0889943a46c5951784badd80d4a19a0d7f"
+    },
+    "electron_recruitment_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 275540,
+      "sha256": "8f5ac05ce764b697eda598bc36bb8e57939cf7576a9244ba25cdd69c66813a8a"
+    },
+    "electron_recruitment_20261107/run_1/PROCESS.json": {
+      "bytes": 600,
+      "sha256": "f8f94d185bea01503571309eccccb57a0e744d01044018a9f05317a8c08bc90d"
+    },
+    "electron_recruitment_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1313,
+      "sha256": "e8aeac1fa42d7849ee948d51082a44a52d51ba8dcea34d283ca27ccf55848698"
+    },
+    "electron_recruitment_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 15100,
+      "sha256": "4457ec79228ce20a511f62a0819aee10bbe8602e39d66f1b758187686e65f47b"
+    },
+    "electron_recruitment_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4571900,
+      "sha256": "91aa9cd267720819bbd5f1a82e5b95921b4fc34fac5b5cec8affd7b29d523982"
+    },
+    "electron_recruitment_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 34275,
+      "sha256": "46985f44faec5d792df0fa2c3066d31b9ed9755c7db079c27d840cc6a649e22b"
+    },
+    "electron_recruitment_20261107/run_1/data/recruited_card.native_save.json": {
+      "bytes": 58131,
+      "sha256": "4c870dbcdd34b9b8f1ce6c4b5c10a61a12d5648508a99ca9f45ba5372318fc22"
+    },
+    "electron_recruitment_20261107/run_1/data/report.json": {
+      "bytes": 1429944,
+      "sha256": "9377bfa69180c70ba7bc51379dd2b468ceb5dce225c9db9c01cf890a3a158b20"
+    },
+    "electron_recruitment_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 71644,
+      "sha256": "289877744e9e506e1b431fc02e70e70883a7214f119693924d3adc9bee31f1ca"
+    },
+    "electron_recruitment_20261107/run_1/gate_executed.gd": {
+      "bytes": 19453,
+      "sha256": "ea3b4cbe8f741443153561672172ba54026420c50002018b36da4c9d1e3076f5"
+    },
+    "electron_recruitment_20261107/run_1/native.log": {
+      "bytes": 321,
+      "sha256": "6c88be3a7031014849e75d49afa7e0f910f596681e9c4588e0c2ca1243a979bd"
+    },
+    "electron_recruitment_20261107/seal.py": {
+      "bytes": 4635,
+      "sha256": "6cbd70a5bf46aa5f14a0661704a0cb37b84f7f87255c4abb8b61cd22d374a983"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_recruitment_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "b0ae7f5d01d7b31041bbecbb581ba6cfe8e7e47b34c924751bf3bd6075261516"
+    },
+    {
+      "name": "electron_recruitment_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "5e5d0d58bf63029004c04efa3b9651b01eb80d3279079d4aafb068493ad8d29e"
+    },
+    {
+      "name": "electron_recruitment_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "94a831ea3266b1147fa854a669bfccec3d2768cbfb4007cc270f2c2d1f6ce67c"
+    },
+    {
+      "name": "electron_recruitment_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "435741dd7b04a7f56435b0625fd7d9857ec04ea7eb6c6683273d41b31e64c2b4"
+    },
+    {
+      "name": "electron_recruitment_20261107.tar.xz.part004",
+      "bytes": 71908,
+      "sha256": "6c83140e78e5bf441e94e30a087445d027b6ed94c89c208113552df7188b95c6"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_recruitment_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 429,
+      "sha256": "36ba9922ca5b3b9170f6eb3a113f767b2da134ba8e2209f870ab28ef12bc24a8"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "robust_evolution_commit": "6399412208a7f69d6d60fd00505ca8092b5aafb7",
+    "robust_evolution_source_map_sha256": "7c6e3c37c5e2efe75c210b667a9e197f97bb8ae6cff6a9d17b5c9e7d66231297"
+  },
+  "status": "Electron Recruitment bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
