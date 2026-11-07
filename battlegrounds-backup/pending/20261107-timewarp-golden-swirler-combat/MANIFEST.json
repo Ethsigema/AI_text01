@@ -1,0 +1,191 @@
+{
+  "archive": "timewarp_golden_swirler_combat_20261107.tar.xz",
+  "bytes": 1058516,
+  "sha256": "590438da2de0abbe26040649ea39eb6bb470b4fbb4202d8e0de452f59f6950a6",
+  "files": {
+    "timewarp_golden_swirler_combat_20261107/BASE_MAP.json": {
+      "bytes": 4564938,
+      "sha256": "045c431ca600e3f0cce20c766d498bdec6ae88f372ea0e23e0a9af8288cd6384"
+    },
+    "timewarp_golden_swirler_combat_20261107/EXPECTED_ROWS.json": {
+      "bytes": 109,
+      "sha256": "bf834c2d334c98a8670f5098ca8a766a72035b62fbd3b52cbd3984d01d79ba53"
+    },
+    "timewarp_golden_swirler_combat_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_golden_swirler_combat_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 4488,
+      "sha256": "7e3eb0d90f39ecffb1d6d19707eb9e1be34647bf4d8666b70a13da5c62af4c5e"
+    },
+    "timewarp_golden_swirler_combat_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 263867,
+      "sha256": "2b6bbd067484505e748d95f68cad815d248b0ebde13ee76efe4c2bd7990c19c5"
+    },
+    "timewarp_golden_swirler_combat_20261107/README.md": {
+      "bytes": 2231,
+      "sha256": "e00f0d49343b3cfa04264405dc9c658974c99490730518c15b7a4f82d9afd41b"
+    },
+    "timewarp_golden_swirler_combat_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "328ac76d18a1f13668040f6555bba549493a5a3dc87727b1f2426d18f8b297fa"
+    },
+    "timewarp_golden_swirler_combat_20261107/SOURCE_DELTA.json": {
+      "bytes": 640,
+      "sha256": "1934644276919a67ccd4c58fcacfd43761ccf1eccadfbe83afa6ea79f8c79296"
+    },
+    "timewarp_golden_swirler_combat_20261107/SOURCE_MAP.json": {
+      "bytes": 4564938,
+      "sha256": "ebcdd31ae1a2d4b22fa9788fb904ada65e47ab8e05a68a591c4e4d8a6f6eeff4"
+    },
+    "timewarp_golden_swirler_combat_20261107/VALIDATION.json": {
+      "bytes": 1261,
+      "sha256": "84810b4866b7d3be4fcde2cf56a66e427ac976a4c7a6a8a9be4ab01ec0784ffe"
+    },
+    "timewarp_golden_swirler_combat_20261107/bindings.log": {
+      "bytes": 109,
+      "sha256": "13a311eb8187f020a130cfa81833bd0cbee8c640b20432aee435775ef9d84db6"
+    },
+    "timewarp_golden_swirler_combat_20261107/build.py": {
+      "bytes": 4296,
+      "sha256": "2fee455de6ee81308ce8678593b366670d2530bd6be02aea4c692bfde3a0f03d"
+    },
+    "timewarp_golden_swirler_combat_20261107/delta/core/patch_3702_timewarp_swirler_golden_sources.gd": {
+      "bytes": 27292,
+      "sha256": "8c99f111723a4fdacfa9c0920c1c152982584456d868f5e19893b4fe232238c5"
+    },
+    "timewarp_golden_swirler_combat_20261107/delta/core/patch_3702_timewarp_swirler_sources.gd": {
+      "bytes": 27441,
+      "sha256": "262ce91a3272558093c27d2999c95be1dd1b4738aa97c4b2c29771b94359994e"
+    },
+    "timewarp_golden_swirler_combat_20261107/delta/core/timewarp_swirler_host.gd": {
+      "bytes": 10295,
+      "sha256": "2cb9e6a198597953c3bdd2d462ca046889807f6e772f4a88fb7cd4e59dd90925"
+    },
+    "timewarp_golden_swirler_combat_20261107/gate.gd": {
+      "bytes": 17169,
+      "sha256": "a3af6a637e23ce3b4d24c9db94d3e4b454e6b3ce8f9cff2e1421065e10a3fc84"
+    },
+    "timewarp_golden_swirler_combat_20261107/materialize.py": {
+      "bytes": 1682,
+      "sha256": "5bddb63599ea9f0e159029708bab33b13734909fb77b9d14d8a40a3600dce559"
+    },
+    "timewarp_golden_swirler_combat_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1177,
+      "sha256": "8dc8f0f72857d06aa77f612199270f3ad408ea8e2e554fa05a318fb42fdd4bbe"
+    },
+    "timewarp_golden_swirler_combat_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 109,
+      "sha256": "bf834c2d334c98a8670f5098ca8a766a72035b62fbd3b52cbd3984d01d79ba53"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/LAUNCH.json": {
+      "bytes": 547,
+      "sha256": "0a79fcc1fa9bafddd244e0441da9555ea1f34aac60a965a6bfab0c8117ed564a"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 263867,
+      "sha256": "2b6bbd067484505e748d95f68cad815d248b0ebde13ee76efe4c2bd7990c19c5"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/PROCESS.json": {
+      "bytes": 621,
+      "sha256": "4b8e32468646967a8fa557b60fd724740096ab13e96338aa579a9b6bff6bf8e5"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 629,
+      "sha256": "0f6e7abf8a39d38e146163483f974b5e8fc3b15b7b58a7cfba01364be1e95ae6"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 7620,
+      "sha256": "64579af62d60f67de4e00d8417af8a1070430a44e405c1060e43442f43290279"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4564938,
+      "sha256": "ebcdd31ae1a2d4b22fa9788fb904ada65e47ab8e05a68a591c4e4d8a6f6eeff4"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/data/before_combat.native_save.json": {
+      "bytes": 56372,
+      "sha256": "97b835ea416054d7d2af4e432fe1d761276d44c67dbbd54a8c2a902ef932101c"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 26792,
+      "sha256": "1adf7f3bb414b9efd0ce8ef95b5d03afc142517197063b6ea708a4e28b402e9a"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/data/report.json": {
+      "bytes": 1383520,
+      "sha256": "675a2f6a31611f06eb540ab34f56334def796c8dcc02402e6fa55f8a06b94b94"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 80810,
+      "sha256": "1d33b9365ff8362719989d0ccc7527434988e400c686155c558d403b150889b6"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/gate_executed.gd": {
+      "bytes": 17169,
+      "sha256": "a3af6a637e23ce3b4d24c9db94d3e4b454e6b3ce8f9cff2e1421065e10a3fc84"
+    },
+    "timewarp_golden_swirler_combat_20261107/run_1/native.log": {
+      "bytes": 413,
+      "sha256": "3df8f45d200bc2d55236527cadff98b743e97f6addf058f4742adf65a31460d2"
+    },
+    "timewarp_golden_swirler_combat_20261107/seal.py": {
+      "bytes": 4273,
+      "sha256": "786e42e1ea322b86dbe0a657555f17f48f0358b9ee93da691b8600d835dacfb7"
+    },
+    "timewarp_golden_swirler_combat_20261107/update_runtime.py": {
+      "bytes": 751,
+      "sha256": "df60d2c937d4676775c9ba01fe6886886d09158bc3fc219e233775c6b9454a26"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_golden_swirler_combat_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "4f3f0839724037ed3b76809bfc6f29f2c04307c183abc072d77c7e328eeb1ff2"
+    },
+    {
+      "name": "timewarp_golden_swirler_combat_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "51e8f3fa91f93ef74fa8a257e9185d965cf5fd2690fdb7581447fe5a62a520a5"
+    },
+    {
+      "name": "timewarp_golden_swirler_combat_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "58fcfadc8162fb654ae4b4f6fd71a6dc3fa2b07e4b3dac18851b0fbe7e8d8b60"
+    },
+    {
+      "name": "timewarp_golden_swirler_combat_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "6d6217f9704574911d263c480af1a635f25f91ba065482dea3cd3b78063c71e3"
+    },
+    {
+      "name": "timewarp_golden_swirler_combat_20261107.tar.xz.part004",
+      "bytes": 58516,
+      "sha256": "4bccf3c05d4c22aae47d94a362e5e74c47e874e3a3d19c6498e385a93c77f295"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "timewarp_golden_swirler_combat_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 201,
+      "sha256": "7deedfdbe82aabed82d637f10d736d3511f6b11b601c650a28ebb7edfc6e369f"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "golden_swirler_air_commit": "2ed710ec07072af1c1e60c1a213e25134d094a01",
+    "golden_swirler_air_source_map_sha256": "045c431ca600e3f0cce20c766d498bdec6ae88f372ea0e23e0a9af8288cd6384"
+  },
+  "status": "Golden Swirler Ultraviolet combat bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 34,
+    "credential_pattern_flags": []
+  }
+}
