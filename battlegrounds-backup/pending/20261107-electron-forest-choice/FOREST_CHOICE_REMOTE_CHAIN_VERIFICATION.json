@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "forest_choice",
+      "commit": "374052ea51b5be0ac464a0cdbbb004d7096b761e",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-forest-choice",
+      "manifest_sha256": "cb79813f3c3e40641f78a4c9cd1bff8a648abba1d0b38282ca2d365bd2896312",
+      "archive": "electron_forest_choice_20261107.tar.xz",
+      "archive_sha256": "bd4fc1b7c89233d278852b1fd3836a9652d02c5a265bd53534ec695495b28930",
+      "archive_bytes": 1067452,
+      "parts_verified": 5,
+      "members_verified": 40,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "golden_molten": "3d562a0ccde4e3d74ec9794139497ac99378b5550971c73fac996cc7d2cfafd3",
+    "forest_choice": "7125eba781ac69fcd0f7d6b43f88a88ad151a63f075cbd1cd52092278816ac5d"
+  },
+  "golden_molten_source_byte_equals_forest_choice_base": true,
+  "baseline_files_rehashed": 27656,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "5bc59ecab42ae0bbbcf0b7601b440eec89a3296561b64e155e3e32df97584069",
+  "change_lists": {
+    "added": [
+      "research/electron_forest_choice/BG31_886.native.xml",
+      "research/electron_forest_choice/BG31_886t.native.xml",
+      "research/electron_forest_choice/BG31_886t2.native.xml",
+      "research/electron_forest_choice/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 9,
+  "new_files": 4,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27660,
+  "restored_bytes": 1547931654,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_golden_molten_to_forest_choice_map_continuity": true,
+  "supporting_golden_molten_chain_receipt_sha256": "4012b2b8dab7a7dbf6e3d768b73340e20a033d542ebf5942473eced19f1fa97e",
+  "historical_baseline_provenance": "The baseline is the verified Timewarp Golden Molten Swirler baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Forest Choice increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T19:33:21.233998+00:00"
+}
