@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "recruitment",
+      "commit": "4f7cb71e9374d9593897887572ca6a72038e5ae2",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-recruitment",
+      "manifest_sha256": "048d84a491a4ad365141336226ebe0fe678a1dea43d1c43330e27e2c0049af2b",
+      "archive": "electron_recruitment_20261107.tar.xz",
+      "archive_sha256": "9d74cf1f510c487462ee6658300e3cf10225082c7225af4f45a6bd808f6d4041",
+      "archive_bytes": 1071908,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "robust_evolution": "7c6e3c37c5e2efe75c210b667a9e197f97bb8ae6cff6a9d17b5c9e7d66231297",
+    "recruitment": "91aa9cd267720819bbd5f1a82e5b95921b4fc34fac5b5cec8affd7b29d523982"
+  },
+  "robust_evolution_source_byte_equals_recruitment_base": true,
+  "baseline_files_rehashed": 27697,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "36ba9922ca5b3b9170f6eb3a113f767b2da134ba8e2209f870ab28ef12bc24a8",
+  "change_lists": {
+    "added": [
+      "research/electron_recruitment/BG28_504.native.xml",
+      "research/electron_recruitment/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27699,
+  "restored_bytes": 1548047159,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "edf518f5ab565c4ef1990a2efe0985f6fe985054655cc3b43e9cbad2b38613d2",
+  "prior_whole_chain_via_molten_robust_evolution_to_recruitment_map_continuity": true,
+  "supporting_robust_evolution_chain_receipt_sha256": "a43233e69cdde5cfdee9be520509a04258077826abeb82ff9ab461a5c7931994",
+  "historical_baseline_provenance": "The baseline is the verified Electron Robust Evolution baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Recruitment increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T23:48:02.040272+00:00"
+}
