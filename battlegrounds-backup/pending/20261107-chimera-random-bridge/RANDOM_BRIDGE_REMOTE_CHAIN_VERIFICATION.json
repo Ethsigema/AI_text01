@@ -1,0 +1,60 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "random_bridge",
+      "commit": "de33b3f720d4461fc9084e7527bbc3195efd963d",
+      "repository_path": "battlegrounds-backup/pending/20261107-chimera-random-bridge",
+      "manifest_sha256": "006e1df6fa33345a07148aef9e152cec14842293b19109058250a654a05ead96",
+      "archive": "chimera_random_bridge_20261107.tar.xz",
+      "archive_sha256": "e140a1799a047b4b04a38c474a410ae2b681435273caf41f69e9d4263203778a",
+      "archive_bytes": 1072328,
+      "parts_verified": 5,
+      "members_verified": 40,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "bridge": "ba5f61b6263fba3ab6303bedbf83640f7b2e33ca4e6b0e21383c13a2f975ef69",
+    "random_bridge": "d454821446645d5dc6e299a38431a8611cc2e3d70b5c658a820e16c3f6959bd4"
+  },
+  "bridge_source_byte_equals_random_bridge_base": true,
+  "baseline_files_rehashed": 27526,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "eaf4f9bab1df3787865007ca98a4da344a04de2513027dc2e2f763c913dea640",
+  "change_lists": {
+    "added": [],
+    "modified": [
+      "core/chimera_recruit_damage.gd",
+      "core/clefthoof_host.gd",
+      "core/patch_3702_timewarp_chimera_golden_sources.gd",
+      "core/patch_3702_timewarp_chimera_sources.gd",
+      "core/recruit_minion_damage.gd",
+      "data/patch_3702_timewarp_chimera_golden_overlay.json",
+      "data/patch_3702_timewarp_chimera_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 0,
+  "modified_files": 7,
+  "removed_files": 0,
+  "restored_files": 27526,
+  "restored_bytes": 1546523202,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_bridge_chain_receipt_sha256": "bee79c22e2b3ce12fa6ff1ac770f73f0cc8626607da2fc4e31eb58307992f6d7",
+  "historical_baseline_provenance": "Run the pinned Recruit bridge full recovery recipe referenced in RECOVERY.md. This helper freshly downloads Random bridge only and rehashes every supplied baseline file.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T10:19:35.866387+00:00"
+}
