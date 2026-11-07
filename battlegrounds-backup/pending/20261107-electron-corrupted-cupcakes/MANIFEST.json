@@ -1,0 +1,247 @@
+{
+  "archive": "electron_corrupted_cupcakes_20261107.tar.xz",
+  "bytes": 1076440,
+  "sha256": "7f7187e7b3107e26825788355e7fd4946cc54c8de37543b0f59216ab4761f9a1",
+  "files": {
+    "electron_corrupted_cupcakes_20261107/BASE_MAP.json": {
+      "bytes": 4568994,
+      "sha256": "f2cd6744f457c94ca7b3d0338cfcab412b1cf8687edfce87fe76466ba90c68b9"
+    },
+    "electron_corrupted_cupcakes_20261107/EXPECTED_ROWS.json": {
+      "bytes": 23925,
+      "sha256": "14a4683d2165ba19e0ebbb557e10fcb4d436da38d8c185061d95cfbc9c6fcd7c"
+    },
+    "electron_corrupted_cupcakes_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_corrupted_cupcakes_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 6578,
+      "sha256": "50af31730bd124e824b779641ea4a8bfa01d8ec549bb44200023737b29df6c94"
+    },
+    "electron_corrupted_cupcakes_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 271222,
+      "sha256": "42dda225da7e320908aff778a37f6cb7f81a540ce89297d208762d5a9eff850a"
+    },
+    "electron_corrupted_cupcakes_20261107/README.md": {
+      "bytes": 2554,
+      "sha256": "59ed7a5e4d2cbe50eaaef2f2ed72b558b8a93ce18df82e322b068185d4b49fa4"
+    },
+    "electron_corrupted_cupcakes_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "02e124e19b7f7fe814da51844215b2f9b50d202ef9aed09c23a368110c52b026"
+    },
+    "electron_corrupted_cupcakes_20261107/SOURCE_DELTA.json": {
+      "bytes": 1329,
+      "sha256": "0be5e27921f88bcdaae69a6530a8a6eb30cdd65b7a67d01e83a4cc32b42b2122"
+    },
+    "electron_corrupted_cupcakes_20261107/SOURCE_MAP.json": {
+      "bytes": 4569325,
+      "sha256": "22fa70dd74fadfe687dfdfabab2ad62abcaf961955ff31197fa271f997cb38dc"
+    },
+    "electron_corrupted_cupcakes_20261107/VALIDATION.json": {
+      "bytes": 839,
+      "sha256": "36438e5c06bb469085e535eb594247c638436de9753baf7c874a61b6f4f34ada"
+    },
+    "electron_corrupted_cupcakes_20261107/build.py": {
+      "bytes": 3560,
+      "sha256": "8e8cd6cbc05a7924a98181b4425a29f7815ef4873610c0e1f38fbe2b79063700"
+    },
+    "electron_corrupted_cupcakes_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 41947,
+      "sha256": "bf80f5ac5f69ce6a9fc4ba4628bac9af69d2a7710d8523d13b0f2d18bdb10f8b"
+    },
+    "electron_corrupted_cupcakes_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 40000,
+      "sha256": "abe1f696d62fcbe7529a354e220ec85017ff2f0b790e2fd18d1369dff4e6e22f"
+    },
+    "electron_corrupted_cupcakes_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 13173,
+      "sha256": "72d76b86072424b7899479b9799b5ac47991fbdb9ed18f8b0ad7302b6281224f"
+    },
+    "electron_corrupted_cupcakes_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 25005,
+      "sha256": "37651d2b3470d9d813c3ded9f6c1448d136e8f9c7fa73f32065f8138104698ef"
+    },
+    "electron_corrupted_cupcakes_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 23795,
+      "sha256": "e1204c75fc0bf9bb5b80208e1fae09809656dc8296f4bd378a63e0eb286d600b"
+    },
+    "electron_corrupted_cupcakes_20261107/delta/research/electron_corrupted_cupcakes/BG28_607.native.xml": {
+      "bytes": 4257,
+      "sha256": "01b1cae2dbf07b42f8d1ddbff79e7bd5f5373113f05e48bb3cd5f9d798a38676"
+    },
+    "electron_corrupted_cupcakes_20261107/delta/research/electron_corrupted_cupcakes/evidence.json": {
+      "bytes": 627,
+      "sha256": "66f404c754f9c7300ffb348dabbe8d85109d4403216a5475193d02b1aed83a8d"
+    },
+    "electron_corrupted_cupcakes_20261107/gate.gd": {
+      "bytes": 20302,
+      "sha256": "4a8a626b593b6028beb67cf716ab47160722288ad13188232261c61d5eb27437"
+    },
+    "electron_corrupted_cupcakes_20261107/materialize.py": {
+      "bytes": 1666,
+      "sha256": "65f00e7011aa80372eb766ce5e5a98e32fe0b6e1f8a58e7c40b9765d66cef409"
+    },
+    "electron_corrupted_cupcakes_20261107/prepare_gate.py": {
+      "bytes": 7168,
+      "sha256": "bad2a284d116ec82d6af67c6e72c18884ff42aacc34a6e3c3c9232fc56606743"
+    },
+    "electron_corrupted_cupcakes_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1171,
+      "sha256": "a56a50d3276cf7bee5efc4c621b3a8a5a9c8612a64c0105c7bd90d9db71bbeeb"
+    },
+    "electron_corrupted_cupcakes_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_corrupted_cupcakes_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 23925,
+      "sha256": "14a4683d2165ba19e0ebbb557e10fcb4d436da38d8c185061d95cfbc9c6fcd7c"
+    },
+    "electron_corrupted_cupcakes_20261107/run_1/LAUNCH.json": {
+      "bytes": 541,
+      "sha256": "71588f5e86c50ce35485a89e0a131049561dd224599930e2d04594946cd77878"
+    },
+    "electron_corrupted_cupcakes_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 271222,
+      "sha256": "42dda225da7e320908aff778a37f6cb7f81a540ce89297d208762d5a9eff850a"
+    },
+    "electron_corrupted_cupcakes_20261107/run_1/PROCESS.json": {
+      "bytes": 615,
+      "sha256": "8148ab5fd8c5077aa21e2b55cb669a1a4059be32e64cf50bab415f57c2c9e45f"
+    },
+    "electron_corrupted_cupcakes_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1329,
+      "sha256": "0be5e27921f88bcdaae69a6530a8a6eb30cdd65b7a67d01e83a4cc32b42b2122"
+    },
+    "electron_corrupted_cupcakes_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 14564,
+      "sha256": "63713110e1a618ab1ab3c3e5f8d48e0e2b76c346577a50c3696455b27a1b15f7"
+    },
+    "electron_corrupted_cupcakes_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4569325,
+      "sha256": "22fa70dd74fadfe687dfdfabab2ad62abcaf961955ff31197fa271f997cb38dc"
+    },
+    "electron_corrupted_cupcakes_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 36227,
+      "sha256": "cf3292f834efc4a8a12c1f64b51483b4a8ac05e720282b4582ea694c63514e0c"
+    },
+    "electron_corrupted_cupcakes_20261107/run_1/data/report.json": {
+      "bytes": 875744,
+      "sha256": "18dd72e037a27acb6516dda9778258e94ddd07a6f472fea46f771a11890fcf36"
+    },
+    "electron_corrupted_cupcakes_20261107/run_1/gate_executed.gd": {
+      "bytes": 20033,
+      "sha256": "489f510fe114d8217a197ce5ce2743869731736da60a4ff892d157bb48184c9f"
+    },
+    "electron_corrupted_cupcakes_20261107/run_1/native.log": {
+      "bytes": 336,
+      "sha256": "e5864bd7620ace2473454a0bc505be3191951799d6c4d4670b4db56839cd8165"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/EXPECTED_ROWS.json": {
+      "bytes": 23925,
+      "sha256": "14a4683d2165ba19e0ebbb557e10fcb4d436da38d8c185061d95cfbc9c6fcd7c"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/LAUNCH.json": {
+      "bytes": 541,
+      "sha256": "cf3fb2beb5f9d4af6e7edf205d5632fafb233339b3133e3d9b767a3aa97120bb"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 271222,
+      "sha256": "42dda225da7e320908aff778a37f6cb7f81a540ce89297d208762d5a9eff850a"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/PROCESS.json": {
+      "bytes": 615,
+      "sha256": "b71a32b04c043816a1538006f710f95e15e237279d816f84342420906be1fca5"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/SOURCE_DELTA.json": {
+      "bytes": 1329,
+      "sha256": "0be5e27921f88bcdaae69a6530a8a6eb30cdd65b7a67d01e83a4cc32b42b2122"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 14564,
+      "sha256": "63713110e1a618ab1ab3c3e5f8d48e0e2b76c346577a50c3696455b27a1b15f7"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4569325,
+      "sha256": "22fa70dd74fadfe687dfdfabab2ad62abcaf961955ff31197fa271f997cb38dc"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/data/after_consume.native_save.json": {
+      "bytes": 65705,
+      "sha256": "9dd72b9ab37f44752cbbd2be3f4219eaaf33938395a966b5d42a7c3f44ff5422"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 36227,
+      "sha256": "cf3292f834efc4a8a12c1f64b51483b4a8ac05e720282b4582ea694c63514e0c"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/data/report.json": {
+      "bytes": 1800719,
+      "sha256": "f03c446ba6a64d7da1e60a139545a2035d251d1706cb419b9a10a6d3d6fc944e"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/data/terminal.native_save.json": {
+      "bytes": 79214,
+      "sha256": "339c2eff48f9ea85201cc671a0c57759144f2ca79b45ea106589cd8b88d3648c"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/gate_executed.gd": {
+      "bytes": 20302,
+      "sha256": "4a8a626b593b6028beb67cf716ab47160722288ad13188232261c61d5eb27437"
+    },
+    "electron_corrupted_cupcakes_20261107/run_2/native.log": {
+      "bytes": 392,
+      "sha256": "cddfd9c296f7e908f890bf4816eb7858ec4748d53ed50dbb53ea050ba5a9b670"
+    },
+    "electron_corrupted_cupcakes_20261107/seal.py": {
+      "bytes": 4691,
+      "sha256": "0fe09f2ec0dffb469ef1d861a19387adee0d71c3f058f68fc1dd9037ff27251b"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_corrupted_cupcakes_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "7d25503661b1ab63928ef49a04a3111601f711c6d3452ce16678be6b4f4719ad"
+    },
+    {
+      "name": "electron_corrupted_cupcakes_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "109cf45065aecda89df141e0cdeef54019c3f4a7505e65923685ceb982704d9a"
+    },
+    {
+      "name": "electron_corrupted_cupcakes_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "2f439644695467a29ffa7632bbf9a77fce4f2a605b1cc43ba4c97a022c4b0699"
+    },
+    {
+      "name": "electron_corrupted_cupcakes_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "a294e607e01e3bb6aa71f29d20307e09b4b8bf6fef5d83db6b2172c5a25bdcd0"
+    },
+    {
+      "name": "electron_corrupted_cupcakes_20261107.tar.xz.part004",
+      "bytes": 76440,
+      "sha256": "a8c7a004a5effafb7b29804a1c6ba96bab490d71685755bdf5b08a0baa5a4507"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_corrupted_cupcakes_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 443,
+      "sha256": "6b75f5f482a2e30eaffabb506c5bd39993c244d280d6df3b24f427b5a88e63f3"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "tomb_turning_commit": "a85ed00007f36a1e1f714604b05f254d245adfb8",
+    "tomb_turning_source_map_sha256": "f2cd6744f457c94ca7b3d0338cfcab412b1cf8687edfce87fe76466ba90c68b9"
+  },
+  "status": "Electron Corrupted Cupcakes shop-consume bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 48,
+    "credential_pattern_flags": []
+  }
+}
