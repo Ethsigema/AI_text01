@@ -1,0 +1,62 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "shop",
+      "commit": "121772afa065621f29d4931172d4d7325edc9ee8",
+      "repository_path": "battlegrounds-backup/pending/20261107-electron-shop-bridge",
+      "manifest_sha256": "9271cf40c16ac98d68be1589802c590ae33a6991167004ed1593c22c9df7d8e2",
+      "archive": "electron_shop_bridge_20261107.tar.xz",
+      "archive_sha256": "df7bb3f2ba43c53d23a348e3ec9f824a4b920e8f149c8fd1a0c01bea15341620",
+      "archive_bytes": 1059076,
+      "parts_verified": 5,
+      "members_verified": 50,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "targeted": "787d2084673b022681214fcf1a6764c5f0fb3fdd67235c2360e583be10bb814d",
+    "shop": "9bd31a5351f2adc91dcad6c34e42a259844e4bfcab0173d0e9cee3ad54758574"
+  },
+  "targeted_source_byte_equals_shop_base": true,
+  "baseline_files_rehashed": 27537,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "3a59d3869e20f6ac907ef93c7a370be8d6e84320c575bffed7193a9e8814c948",
+  "change_lists": {
+    "added": [
+      "research/electron_shop_bridge/BG28_886.native.xml",
+      "research/electron_shop_bridge/BG28_966.native.xml",
+      "research/electron_shop_bridge/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 8,
+  "new_files": 3,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27540,
+  "restored_bytes": 1546568776,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_targeted_chain_receipt_sha256": "e22de2b7998a012cc9616d534e5111a4b83833de8a268bd0850dcbec24ecbcc9",
+  "historical_baseline_provenance": "The baseline is the verified Electron targeted bridge restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron shop bridge increment and rehashes every supplied baseline file.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-07T11:35:38.925195+00:00"
+}
