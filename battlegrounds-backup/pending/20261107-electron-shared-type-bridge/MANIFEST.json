@@ -1,0 +1,199 @@
+{
+  "archive": "electron_shared_type_bridge_20261107.tar.xz",
+  "bytes": 1056452,
+  "sha256": "ac47568765b24a0f2572d9cf0b5a045d3abeb547e4b9be18ae1202dc459a0f56",
+  "files": {
+    "electron_shared_type_bridge_20261107/BASE_MAP.json": {
+      "bytes": 4549103,
+      "sha256": "3ec6431e5bc7171a446013026cce91c62571b544ad3ebbc69ef7e9d145742b03"
+    },
+    "electron_shared_type_bridge_20261107/EXPECTED_ROWS.json": {
+      "bytes": 21859,
+      "sha256": "9e708284fea626e960a959b01d783b83df611a7e943b83592e775d887809d9f8"
+    },
+    "electron_shared_type_bridge_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_shared_type_bridge_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 4939,
+      "sha256": "2c7500e4ff1684157c6225334110d387bba3e5517dc52e2c3a7f13dd0994b4cb"
+    },
+    "electron_shared_type_bridge_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 245450,
+      "sha256": "ebad31c46dffcae6504b67b93113b7915b21f84c6bf75a5958ec8015a8eeb2e4"
+    },
+    "electron_shared_type_bridge_20261107/README.md": {
+      "bytes": 1590,
+      "sha256": "69cc5efef48507085b0a4d61355311c65ecd0c8042930577c9c62098da003d16"
+    },
+    "electron_shared_type_bridge_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "electron_shared_type_bridge_20261107/SOURCE_DELTA.json": {
+      "bytes": 1321,
+      "sha256": "23a6e6403dc96e05a6fec067f506ff7b301d7d42d8d9f6707fd6d85cc57dafc0"
+    },
+    "electron_shared_type_bridge_20261107/SOURCE_MAP.json": {
+      "bytes": 4549434,
+      "sha256": "4540582564ab747c5c284ca9f9cc60aeb7703a304c29ba0475d63f59d88d40e2"
+    },
+    "electron_shared_type_bridge_20261107/VALIDATION.json": {
+      "bytes": 842,
+      "sha256": "35b72c2be4912a6fcae85c786758cde68402c98f973024daecfac8a39e20a5c7"
+    },
+    "electron_shared_type_bridge_20261107/build_checkpoint.py": {
+      "bytes": 3802,
+      "sha256": "eea3a593a85dd3fe3efcfa558a1bcbd17a2a9625dcde9ffcbf4bdc3d8b331a2a"
+    },
+    "electron_shared_type_bridge_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 34124,
+      "sha256": "26c25ccdc777915ca0ee6bc475fd2a05b90d7c071ae8618842f2dcb51765197d"
+    },
+    "electron_shared_type_bridge_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 32177,
+      "sha256": "29ce16f8a1f669c8f5919b6a4863fd775698d2a123ed62168014e607cbeeab59"
+    },
+    "electron_shared_type_bridge_20261107/delta/core/timewarp_electron_host.gd": {
+      "bytes": 7577,
+      "sha256": "c269c3dac285c45c23b59b1c783e3d6303fb78dcb5b211907078c0a18d25e4e4"
+    },
+    "electron_shared_type_bridge_20261107/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 23972,
+      "sha256": "433cd82de938b98bd757ff9fa4c374e427bf661a534076bd44f600039c9c5444"
+    },
+    "electron_shared_type_bridge_20261107/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 22762,
+      "sha256": "555db2ab67fe28b7e0635776cf34393d8640d8444f239cd1be7d6d834b508ff3"
+    },
+    "electron_shared_type_bridge_20261107/delta/research/electron_shared_type_bridge/BG28_845.native.xml": {
+      "bytes": 3869,
+      "sha256": "6429d12dba77980112fbe2fd3a0ee51a562d79e1dfe4f7637f07b0e5f18186e8"
+    },
+    "electron_shared_type_bridge_20261107/delta/research/electron_shared_type_bridge/evidence.json": {
+      "bytes": 538,
+      "sha256": "6ae2362ae40f1ade70c76e1528a3cef76f68d5c1e916b00c04fc3b77b5054c5c"
+    },
+    "electron_shared_type_bridge_20261107/gate.gd": {
+      "bytes": 17778,
+      "sha256": "411a14773b7c7733f2ab3bc6e1c0288f46816f27b5f35f2b4897c8e361e7fe1c"
+    },
+    "electron_shared_type_bridge_20261107/materialize.py": {
+      "bytes": 1699,
+      "sha256": "c070d9b2a77e07f5e9e350789f681715f89490bf5ce2cfe67e24e4dd954bf197"
+    },
+    "electron_shared_type_bridge_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1180,
+      "sha256": "d6740ea59e849cb74a73f8ef2959b964c6b8b2b1cf37732d538d119168ad37a6"
+    },
+    "electron_shared_type_bridge_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_shared_type_bridge_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 21859,
+      "sha256": "9e708284fea626e960a959b01d783b83df611a7e943b83592e775d887809d9f8"
+    },
+    "electron_shared_type_bridge_20261107/run_1/LAUNCH.json": {
+      "bytes": 541,
+      "sha256": "b80f7b9fe365b1cf8a1e41e7228bdddb5131f3a559fb6f0a92f9f3171522e48d"
+    },
+    "electron_shared_type_bridge_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 245450,
+      "sha256": "ebad31c46dffcae6504b67b93113b7915b21f84c6bf75a5958ec8015a8eeb2e4"
+    },
+    "electron_shared_type_bridge_20261107/run_1/PROCESS.json": {
+      "bytes": 615,
+      "sha256": "5c4276f6b04424ba08ecdc5d43aa6cbf3636478f37d006460d2156b1d61615a4"
+    },
+    "electron_shared_type_bridge_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 1321,
+      "sha256": "23a6e6403dc96e05a6fec067f506ff7b301d7d42d8d9f6707fd6d85cc57dafc0"
+    },
+    "electron_shared_type_bridge_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 11332,
+      "sha256": "aae7838380d25ce425f1c240ae9715b3f407e94c96005cbf0951af97c923ff17"
+    },
+    "electron_shared_type_bridge_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4549434,
+      "sha256": "4540582564ab747c5c284ca9f9cc60aeb7703a304c29ba0475d63f59d88d40e2"
+    },
+    "electron_shared_type_bridge_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 32122,
+      "sha256": "f8d64694846521a6686199d33de1548e3247033b4eeae39f61cc59e5da4ff977"
+    },
+    "electron_shared_type_bridge_20261107/run_1/data/prefix_progress1.native_save.json": {
+      "bytes": 45332,
+      "sha256": "e2d1c6087d92fad39c50f7f99b315b01b37c6044189dee0389c169d2efc96ed1"
+    },
+    "electron_shared_type_bridge_20261107/run_1/data/report.json": {
+      "bytes": 1103263,
+      "sha256": "036e8093a5a7e74c2a6075e011d1cf9ad8f64d72d34101e4b3241087d0af1475"
+    },
+    "electron_shared_type_bridge_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 55042,
+      "sha256": "c27bf3d518e17eee985833fb3d38fb70d66dbc11fb1ce89ebc3722a79004deba"
+    },
+    "electron_shared_type_bridge_20261107/run_1/gate_executed.gd": {
+      "bytes": 17778,
+      "sha256": "411a14773b7c7733f2ab3bc6e1c0288f46816f27b5f35f2b4897c8e361e7fe1c"
+    },
+    "electron_shared_type_bridge_20261107/run_1/native.log": {
+      "bytes": 293,
+      "sha256": "fbbc9f273f8a1debb2b4a548ee7d93ae18d1e5c47642507c12a485078ca5f89a"
+    },
+    "electron_shared_type_bridge_20261107/seal.py": {
+      "bytes": 4472,
+      "sha256": "ca4dd1f5ffb86fd7a967ce1641a899610c87c830d8861ec42c61f8bc72bbce15"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_shared_type_bridge_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "9f8d6bb5baf21ff345924454dfb2ee1f26c9fa55f53f6306a45b465c7c8ecfba"
+    },
+    {
+      "name": "electron_shared_type_bridge_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "4f9ef5d72ac3f3fdb3039604f4e9f5bbf359907ddc795582aa9027b7bfdf1efc"
+    },
+    {
+      "name": "electron_shared_type_bridge_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "a6a8be9c3426d97013a2da4418cdd2254b6bf9b1e34e623b61713c3af6d4be3c"
+    },
+    {
+      "name": "electron_shared_type_bridge_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "a21e26f06264fe6665abea33c28f9075bb3288e519e466e19a13e9803d1192d9"
+    },
+    {
+      "name": "electron_shared_type_bridge_20261107.tar.xz.part004",
+      "bytes": 56452,
+      "sha256": "61866d3137d58adaf257a989f5f02b76bf118f78291354c4fa3ae5a5642d76a7"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_shared_type_bridge_20261107/SOURCE_MAP.json",
+  "companion_files": {
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "CHANGES.json": {
+      "bytes": 443,
+      "sha256": "edc86189c6b5c7c118582ddacdb932602471bc5bf969e5c12b06a921aa961475"
+    }
+  },
+  "depends_on": {
+    "double_spell_commit": "0b5e2c9bf89a6d906a18d872922dc40aea44497a",
+    "double_spell_source_map_sha256": "3ec6431e5bc7171a446013026cce91c62571b544ad3ebbc69ef7e9d145742b03"
+  },
+  "status": "Bounded shared-type spell bridge; preserve complete chain; no full gameplay acceptance",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
