@@ -1,0 +1,446 @@
+{
+  "archive": "timewarp_mythrax_reconstructed_20261107.tar.xz",
+  "bytes": 2784700,
+  "sha256": "59ad411f4c63f83962e87f3ed8b75e1bf86cb4293ec31f01bffe1e515d999624",
+  "files": {
+    "timewarp_mythrax_rebuild_20261107/BASE_MAP.json": {
+      "bytes": 4539452,
+      "sha256": "c24bdf4bedf966056670677d504207c3259bf4b3806afc5d2a2f2acb491d53de"
+    },
+    "timewarp_mythrax_rebuild_20261107/BINDINGS.log": {
+      "bytes": 2431,
+      "sha256": "421032b85f35e372fd86f489d911515d0b3d9d3851d4490f0ff51cc524c47e71"
+    },
+    "timewarp_mythrax_rebuild_20261107/EXPECTED_ROWS.json": {
+      "bytes": 3585,
+      "sha256": "3791d7a71daec46cd36e52fd883f0abcc6fdb29dbbc81ddc4213264862967dbb"
+    },
+    "timewarp_mythrax_rebuild_20261107/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "timewarp_mythrax_rebuild_20261107/PACKAGE_MANIFEST.json": {
+      "bytes": 13832,
+      "sha256": "26e4a8b4cd6d38fdfc89c6885f55576c0c83072e8c309a406fea1d4ffa022b7a"
+    },
+    "timewarp_mythrax_rebuild_20261107/PIN_PREFLIGHT.json": {
+      "bytes": 233654,
+      "sha256": "f254ae6639cd7946987bd725de34398a13ecb9dfda8eba03b488458b68e411c2"
+    },
+    "timewarp_mythrax_rebuild_20261107/README.md": {
+      "bytes": 1963,
+      "sha256": "c3c3541f200f93ea2a4c104eddf6aec08cf3eaded537c47f4b5def66a7a9c80f"
+    },
+    "timewarp_mythrax_rebuild_20261107/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "9dcb0daf0f837092d6007df16e7030d03fd55ab4e0ba5ec1b04851065d1112fc"
+    },
+    "timewarp_mythrax_rebuild_20261107/SOURCE_DELTA.json": {
+      "bytes": 9963,
+      "sha256": "11c9b4cf0be30a3b9f390f26df18b6645c46ebe8987f88f6e7f6e59a6253e0d8"
+    },
+    "timewarp_mythrax_rebuild_20261107/SOURCE_MAP.json": {
+      "bytes": 4540926,
+      "sha256": "f87e45df66016dcffa35e07d20e4f3aec5dd167e583f60bd6fb7c7318bb7cf95"
+    },
+    "timewarp_mythrax_rebuild_20261107/VALIDATION.json": {
+      "bytes": 892,
+      "sha256": "ba281d6d9f0ac9f6f330c8e42710b82404cc914d16847d2ea850ad6b8e6882c5"
+    },
+    "timewarp_mythrax_rebuild_20261107/build.py": {
+      "bytes": 7550,
+      "sha256": "503d2261069101d3098a557c753babc1e62c0c2d77ad0ff4002965881f948f20"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/catalog.gd": {
+      "bytes": 1808990,
+      "sha256": "34a4fd49357bf535dfdfd927b4bbebd53eb210b5ee258e51a61f24e60f0ce494"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/combat.gd": {
+      "bytes": 574147,
+      "sha256": "a7a2f0f8622525fdd36afc43100d208819d7fbc7e4968aa3a467dfa1838ba40a"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/game.gd": {
+      "bytes": 1322167,
+      "sha256": "7b465b3cdb649b30f699339cf7707ef994f35ab8bc2f5e30ec8aabfdc38d4e6a"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "289c66f91baf7afeeaccbd579aa06d051da95d321f58de7c2b9f97cca80ff345"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "1bcaf8f1822fe5e7ffe09e2ec18a609e4f49e2adef962337901df891de72ace0"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "d1267dff657933a9fbe969dff192563f5948b3bd339102f27d3e0e786f70c17a"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "9f42a895c9f1f68da19a573bb71cb09fce9e76a3b55d9e6fbe9ebaae15c608a1"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "a398b6200deda9f8d3add49d711856caa866ad43357f70ee9bfe0710ade190e8"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "b0641b9943613b93878ae06df854ad5ff90c222faffea7e136464d09dc6d6ab4"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "130ff07fb48e7c2f8633e80c923aa373bdf9df78f508b5d777ba64ae0a01eceb"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "e53ec3f89816b18071bcbb927abd0657b6742392d85799739d053f92eb1f508a"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 23710,
+      "sha256": "9d070dc0aa855f0f480453cd288c658f515a6966847adf90d510aae67aa8e2bf"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23132,
+      "sha256": "11ae88c288166ecaa3b9e5ddfc8cd0942f6ca972eebc777f87d95cc2feca01df"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "48e973aabcde8a7bd081120392e060c8900cd8cbf7739a89209bb21bfeac2fd8"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "faf2ed43b51b604f9090d062f3765b133df79049e37ac8a99f9194b81a88596b"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "8e366f93ac608b40d84551d198285bc18a0cbd046d3441ea37d2f54b6c9e2fe9"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "0a61cb757cb939598ec9a7c883aad1992bc0abfd780ed9b7ce55fa83f993b04c"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "28368d4fef5a9cdf5226eac7be9047fc9f81e6061cc8d966a3480452ce7b9858"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "1c1d05ab7b9c65738c8cae141a43b9ef82922310349e7e4cc583fd2a7046bfd6"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "4d52349e5f28cd753a33fadf216770e7824215f096dc5014a47b9fc8e159c70b"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "7ed0a0c150fc869cecdff71311ab62846aa7e2d143246e96c303b451da6916ca"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "326f86302fe78093b629d20053e22aaa221729fd060348f54be6229250858565"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "ddce0e8cf05233cf8d94ff4938a99ba816e8807d6e2bebdbeeb621331e59cb45"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "e38535dd2b6b474878ff0aa8253b7f22c9a4ef655259343d451ecb0dbf568a98"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "baebb420e94a444236dce0cfece44fa15cb7faebc6bcf3eeca16a0fd69c9f69f"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "13087ba95c45c79ba7a364d85634e7c2812941150e77c256ccc389090a4ed15e"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "37587e121c3ca9c00aac784890d4d99857a0332d885cc53a3b440af6b4d42311"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "76ac060e476d8f5f9564baba3897fc61e6446e5555bba621e4c378e42a20bfe3"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "9dda699713559c92cf215cbcb72484f7e27c94b0dbc38e03644c9885558ee861"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "baadbd9ecfac5ab5bd348219c3076a6d5208b48aee978dfbc1776eee04ae5661"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "65f2f1c04b306d7e2f8b3d727d65b95a43baa5f1b7fe121b88985f9b70807613"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "76c627e96b4702558309dcd015c768bba538ffcba2a00cc125a2325f563e71ae"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "95bb1a4e852a8fa74905c550930c2d075860b0ab922889f677f1e326f7ac5949"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "b107ee76beb1498754ceb31bcd631aeba0da8b0f60cc566bfa6806603dbf0f53"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "ce57d7341086a23b44def34deb48cfd696c1e661a556d59078d3e0533619021e"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "ba3dc6752b70af2a32f97de4d6259bc32a95820efa9fe71b14915b26d02fa7ac"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "c6bafdddc7fb03c7eb83fc601a0997d912f833f71cdaaa8287a1f9a137ff4879"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "b40175457f49c516043706d459b65f9e38b417e3358ab07c1ec5d3ccfd8aa80c"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "cd73359aa475358c0a1f4652910aab90d57bd25efa9926f92adde93d00339ac7"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "e679e86f250746afd083281df6642d3a4b68a1a7534b6f372a184df1abcbea69"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8115,
+      "sha256": "cefd76674ed5ee844352ff49ade7bd26b1166acb1703f2225c1d03df8eb9c531"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7925,
+      "sha256": "4d819cea21f86f22627579d10cd567447efda69b4d91147c7b866551c20b35ca"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 31256,
+      "sha256": "4ce7f008ae15e25d3d932e7dee7458f9eb0b15410142616e690a6122f598dbdf"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 29309,
+      "sha256": "ed58b9351bbf2c508e00b3ce3a291abcaf899fef7345ff5a0704d45c94f7a409"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "e74e8505a86c02ca15553d6116d68750179b744fe8db62d775658b5607235239"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "07ec37367333acab98e0bf7dd68a70041f4dcbc2855bc87d6fab47a3446a1482"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "35e4add41b3dad5c68087297aac7345b6b8261eb97988d406f84ae4641ca3f38"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "dc3ae29e54e476a87d2d8cd3bf217bc78c87e58f884ef538fc01539b48d1afa2"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "0c84a0721375617e95c773c8f9898b3ae24a9d90906301970081315d0ba03d3d"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "b74c5ac5885a97531fbfcdc02169acc19f3775b1cd8524ddf82fb8584c79df74"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "f0e3043841b3420d30850fe71d588e4b3f6a6f058934a8c528151affd97c29ef"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "ae8fc664ac341cf6b42861d299b72671a9adc6714f5b0254179ddb679bf939cd"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/start_combat_effects.gd": {
+      "bytes": 23977,
+      "sha256": "f4b94148c464bfdb8557819299a570d4a2d74b76d28d89e485623f104fdd2a26"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/core/timewarp_mythrax_host.gd": {
+      "bytes": 3449,
+      "sha256": "5720ca7826b450e12da601c5a2b7c4f38827bbccdda47888128a88f31cb42615"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/data/patch_3702_timewarp_mythrax_golden_overlay.json": {
+      "bytes": 2222,
+      "sha256": "ea621fbe6888a5f20186e57b6a4be17a75ad39bb18ea2d9151ddf02c3ac9e3cd"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/data/patch_3702_timewarp_mythrax_overlay.json": {
+      "bytes": 2202,
+      "sha256": "d8e69d7584172c0aa6162271e60847e5d671bfe4d5861fd34b83271ae6b03cfe"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/research/patch_3702_timewarp_mythrax/BG34_Giant_684.native.xml": {
+      "bytes": 4434,
+      "sha256": "f4b621526125ef7cd313ba34d54fb660681968a74884bc8fbc0dffb5ad0e8d91"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/research/patch_3702_timewarp_mythrax/evidence.json": {
+      "bytes": 349,
+      "sha256": "66921504d837cb16238df9b3b78258c2d659f9d9485e21b3b3e14ec0abe942bc"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/research/patch_3702_timewarp_mythrax_golden/BG34_Giant_684_G.native.xml": {
+      "bytes": 4476,
+      "sha256": "6723bd35f6994e013a6561ac16092683b9523e17c1e72a85037716cc91ac5193"
+    },
+    "timewarp_mythrax_rebuild_20261107/delta/research/patch_3702_timewarp_mythrax_golden/evidence.json": {
+      "bytes": 351,
+      "sha256": "ee59ae9351c294ac59b57480280f588666d545e4433e947f54db7b30968c94ca"
+    },
+    "timewarp_mythrax_rebuild_20261107/gate.gd": {
+      "bytes": 16968,
+      "sha256": "9c47f481ada8dc60f3b297397dfaed47dac1e23e05cb6400d53eeb85ed7a31b8"
+    },
+    "timewarp_mythrax_rebuild_20261107/host.gd": {
+      "bytes": 3449,
+      "sha256": "5720ca7826b450e12da601c5a2b7c4f38827bbccdda47888128a88f31cb42615"
+    },
+    "timewarp_mythrax_rebuild_20261107/materialize.py": {
+      "bytes": 1691,
+      "sha256": "a7116bcff1ad8823e8807b1bb6459948f566bffa9e31e61f184234a1090c838c"
+    },
+    "timewarp_mythrax_rebuild_20261107/refresh_virtual_bindings.py": {
+      "bytes": 1174,
+      "sha256": "64fbab195a44ddf2c333b6f014aaa1a629671c156dc550908683c5a4c2c692d6"
+    },
+    "timewarp_mythrax_rebuild_20261107/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/EXPECTED_ROWS.json": {
+      "bytes": 3585,
+      "sha256": "3791d7a71daec46cd36e52fd883f0abcc6fdb29dbbc81ddc4213264862967dbb"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/LAUNCH.json": {
+      "bytes": 535,
+      "sha256": "ee3098119efe02c3f40570a56ad520e80cb91a85c375348f006afd9bb0179c0a"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 233654,
+      "sha256": "f254ae6639cd7946987bd725de34398a13ecb9dfda8eba03b488458b68e411c2"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/PROCESS.json": {
+      "bytes": 609,
+      "sha256": "7c2a141c7c96e5678e50d0ba3bc396c13bf1056b80cfebee4782e0ce146cc209"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/SOURCE_DELTA.json": {
+      "bytes": 9963,
+      "sha256": "11c9b4cf0be30a3b9f390f26df18b6645c46ebe8987f88f6e7f6e59a6253e0d8"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 391288,
+      "sha256": "399238cb768c5d45365d341aed4910f5988a76e4c82cd9896d4d0b097521eb08"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4540926,
+      "sha256": "f87e45df66016dcffa35e07d20e4f3aec5dd167e583f60bd6fb7c7318bb7cf95"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/data/before_combat.native_save.json": {
+      "bytes": 64127,
+      "sha256": "876add4b59374ac8ce75caa8cdea7a635fa5b113bbf4b4124ca23c883699e413"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 25296,
+      "sha256": "c51f6674c36fd4ed9e74bab49aec08a3cc9e80337997b33b8c1166f105720a25"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/data/report.json": {
+      "bytes": 1753520,
+      "sha256": "2787617a83b5e40761f5efed4e33475ee10aae174ed2ff8505a4e515f5dd583d"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/data/terminal.native_save.json": {
+      "bytes": 100131,
+      "sha256": "19ae6ba05df9885094c01878e0ef6c8107ed7cbb1436d90ffdbc67f4345fd0bc"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/gate_executed.gd": {
+      "bytes": 16968,
+      "sha256": "9c47f481ada8dc60f3b297397dfaed47dac1e23e05cb6400d53eeb85ed7a31b8"
+    },
+    "timewarp_mythrax_rebuild_20261107/run_1/native.log": {
+      "bytes": 509,
+      "sha256": "dfc3604af41c4254f2f6a227299fa4848ed5248d5809ca4fd3c7ae7c0e9cf12e"
+    },
+    "timewarp_mythrax_rebuild_20261107/scenario.gd": {
+      "bytes": 7574,
+      "sha256": "4db656d2177de5a7beedbc657446723561796ecec2f638ff7c5eddbf26b13aa5"
+    },
+    "timewarp_mythrax_rebuild_20261107/seal.py": {
+      "bytes": 4379,
+      "sha256": "3147b4e2ffcb5d2bcc555ce63a39b6a1514631799a0ac54c8dc529a682f63f70"
+    }
+  },
+  "parts": [
+    {
+      "name": "timewarp_mythrax_reconstructed_20261107.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "9f63eb3691a54a12ebadeadb8382eae6914aa58ea6ac87237d2a2fc7c6963e12"
+    },
+    {
+      "name": "timewarp_mythrax_reconstructed_20261107.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "78030034380b57048426591ff73dfafc491a2ba9376c78f3d55c7f2233c7f918"
+    },
+    {
+      "name": "timewarp_mythrax_reconstructed_20261107.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "66b4065b1b16e62ab2bde71cdeb6dbd74595bf7c3eccd5c437c407684906a9b5"
+    },
+    {
+      "name": "timewarp_mythrax_reconstructed_20261107.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "dd8c387aa0ebc26066d8caa08d93c584668db08f777b66d5114977b9d79e14ff"
+    },
+    {
+      "name": "timewarp_mythrax_reconstructed_20261107.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "1bde16991f4c4a993f858911487dddebf7a6c7f09366583d76ba078020b5817d"
+    },
+    {
+      "name": "timewarp_mythrax_reconstructed_20261107.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "5c3497279cd24712aade0749cbc18c785b9e392868689cef6ff34fceb80c2634"
+    },
+    {
+      "name": "timewarp_mythrax_reconstructed_20261107.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "6676207eaaa023c0273e877fc9a2c3e255102efa9f702ca05ae86b2709143545"
+    },
+    {
+      "name": "timewarp_mythrax_reconstructed_20261107.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "934d226c51ab61d5f353178cc98c2ffd903e9704d5a64fcc38c8a319c687fd1e"
+    },
+    {
+      "name": "timewarp_mythrax_reconstructed_20261107.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "fbbe99ecc7831172f42174fb201d7c9ebcadc1461cd6d29aa03b6dda71ee61ce"
+    },
+    {
+      "name": "timewarp_mythrax_reconstructed_20261107.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "f33900c3015b517887bbfc7afead4dd0204250694603f97d4a663cb060bffebe"
+    },
+    {
+      "name": "timewarp_mythrax_reconstructed_20261107.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "4e0e2f584cfcf39ad5639624b916f17f1be810b858c90d0538c78ab3b8c896d1"
+    },
+    {
+      "name": "timewarp_mythrax_reconstructed_20261107.tar.xz.part011",
+      "bytes": 34700,
+      "sha256": "07b2d30ab7ade4a623ac073864996727b4a560db85160c9fddc5948f15bc611b"
+    }
+  ],
+  "depends_on": {
+    "amalgam_commit": "98399070e3da945ac6c232bb390516b3d2ff1473",
+    "amalgam_source_map_sha256": "c24bdf4bedf966056670677d504207c3259bf4b3806afc5d2a2f2acb491d53de"
+  },
+  "status": "Incremental reconstruction; preserve Amalgam and full historical chain; no full gameplay acceptance",
+  "audit": {
+    "archive_members": 92,
+    "credential_pattern_flags": []
+  }
+}
