@@ -1,0 +1,203 @@
+{
+  "archive": "electron_type_refresh_20261108.tar.xz",
+  "bytes": 1078324,
+  "sha256": "69931527bea9114d3f7ad196c6c5f17898e585d4a6e0595d580e1bbf8c233582",
+  "files": {
+    "electron_type_refresh_20261108/BASE_MAP.json": {
+      "bytes": 4574530,
+      "sha256": "05dbcc97097782b408b73e9cb2e55e018739a6063dd82ef66efdf92ba3c61b3f"
+    },
+    "electron_type_refresh_20261108/EXPECTED_ROWS.json": {
+      "bytes": 28725,
+      "sha256": "4030ba0488f13ff8c54879ba508286b114fed90977ab063fcbf74ba52f45b199"
+    },
+    "electron_type_refresh_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_type_refresh_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5047,
+      "sha256": "f802a762169cbea98dfcbea82ecedbc16e020bcb1eec271d7e6176c17189a245"
+    },
+    "electron_type_refresh_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 280508,
+      "sha256": "98d2a40ff9373c2ce42a70ef8cf52768b67c0d8c4a92586806fec514ad6f8013"
+    },
+    "electron_type_refresh_20261108/README.md": {
+      "bytes": 1612,
+      "sha256": "f5eab61cae93e8c7808bf6169ed239ad52fc03cde7e1890d7aba2ea51e558c17"
+    },
+    "electron_type_refresh_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_type_refresh_20261108/SOURCE_DELTA.json": {
+      "bytes": 1309,
+      "sha256": "ed57d85ed33661296cd27f8fc63b077ce90bec838048dc355ea672c010a28bbd"
+    },
+    "electron_type_refresh_20261108/SOURCE_MAP.json": {
+      "bytes": 4574854,
+      "sha256": "7d11fbb5e4f8f090bfb2592444e1e773434fe1a3ed08f4d6b3e90ad6a8c2036f"
+    },
+    "electron_type_refresh_20261108/VALIDATION.json": {
+      "bytes": 836,
+      "sha256": "f4dd5d2c3bf5f5362501803fa14ad1477736b6fa5ef6b17a94cacc68497a4380"
+    },
+    "electron_type_refresh_20261108/build.py": {
+      "bytes": 3574,
+      "sha256": "96a24d0fa8c89901acb495d0f1be6e4bf991d065053657eeb8b9447a376a719a"
+    },
+    "electron_type_refresh_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 52633,
+      "sha256": "62fe10bd322a8468e3accbf94be55e42adc01681c3345dc6217ed41e16fc6ac6"
+    },
+    "electron_type_refresh_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 50686,
+      "sha256": "5775da7553ea913629e524028f031638af55d236e107eb28b6afab4292bafc23"
+    },
+    "electron_type_refresh_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 19729,
+      "sha256": "adc4fcaa0edc993af0f9a96f15cfc48756c44bafc28660e44cd3c45955344f77"
+    },
+    "electron_type_refresh_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 27405,
+      "sha256": "6c9ff8a70237fccd85dff5d27ac3921271c699b3c1116ec09006cc161bd8948e"
+    },
+    "electron_type_refresh_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 26195,
+      "sha256": "d30f283158261287a9507c67b2793056f187d14891d649aa4931c2ad7e19be73"
+    },
+    "electron_type_refresh_20261108/delta/research/electron_type_refresh/EBG_Spell_038.native.xml": {
+      "bytes": 4477,
+      "sha256": "cf9aca4ff2f8f195ecaa78871d88a8adc9692e4244e55a85d15ad89361d70bbb"
+    },
+    "electron_type_refresh_20261108/delta/research/electron_type_refresh/evidence.json": {
+      "bytes": 588,
+      "sha256": "447916e2f352102cb017cdfc301bad9171d8f6ea898028c5e2e3deaf51b476c0"
+    },
+    "electron_type_refresh_20261108/gate.gd": {
+      "bytes": 20506,
+      "sha256": "6d5a2a44a12482e0a19f63491707dc788df91c32eeb74ac918fda5c8851455b1"
+    },
+    "electron_type_refresh_20261108/materialize.py": {
+      "bytes": 1670,
+      "sha256": "f5b00bf7cc555cb4a9eb42da63ef7c3701a0d12875fc94ec28fd8cffb9025a37"
+    },
+    "electron_type_refresh_20261108/prepare_gate.py": {
+      "bytes": 3424,
+      "sha256": "b466f8da8874522dc0544620ac49e2759d126c753b04612b7aa221023735f3a6"
+    },
+    "electron_type_refresh_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1171,
+      "sha256": "b2c7b48a3f8298906a12ba89114fe34d5fd40bdea55c092f0b62dd29a47b0ef7"
+    },
+    "electron_type_refresh_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_type_refresh_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 28725,
+      "sha256": "4030ba0488f13ff8c54879ba508286b114fed90977ab063fcbf74ba52f45b199"
+    },
+    "electron_type_refresh_20261108/run_1/LAUNCH.json": {
+      "bytes": 529,
+      "sha256": "32334de838463c483b3d7d756807ee8d54d9967e56b106cca376b129c99d1fba"
+    },
+    "electron_type_refresh_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 280508,
+      "sha256": "98d2a40ff9373c2ce42a70ef8cf52768b67c0d8c4a92586806fec514ad6f8013"
+    },
+    "electron_type_refresh_20261108/run_1/PROCESS.json": {
+      "bytes": 603,
+      "sha256": "b6ce59346c6e3d69e506f48b786bb1eb5f21fa8d1fb20da96c2bdf689fca5462"
+    },
+    "electron_type_refresh_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1309,
+      "sha256": "ed57d85ed33661296cd27f8fc63b077ce90bec838048dc355ea672c010a28bbd"
+    },
+    "electron_type_refresh_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 17264,
+      "sha256": "8044e62d99377428ebc559b340a0ee13aaccf6a2f81e567562717f9462c7e4f4"
+    },
+    "electron_type_refresh_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4574854,
+      "sha256": "7d11fbb5e4f8f090bfb2592444e1e773434fe1a3ed08f4d6b3e90ad6a8c2036f"
+    },
+    "electron_type_refresh_20261108/run_1/data/after_refresh.native_save.json": {
+      "bytes": 59501,
+      "sha256": "f1b7df97dcb3aa01cff788b025fdb9718c35d49e7e1c2a4d2000ad0bbd98dc60"
+    },
+    "electron_type_refresh_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 30881,
+      "sha256": "ab7bdeee9c0ebe3fab1f531f40ef089d87f3653d9523ba6da6453cfe48944d0c"
+    },
+    "electron_type_refresh_20261108/run_1/data/report.json": {
+      "bytes": 1528695,
+      "sha256": "b74416ac380bac5ac005db62056913bbcda64f1950149d0e97c5b94add67edf7"
+    },
+    "electron_type_refresh_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 73360,
+      "sha256": "59b7136973ba005c3f0c3d09e46c837f4b567a150cf8a28869f0f0870e73367a"
+    },
+    "electron_type_refresh_20261108/run_1/gate_executed.gd": {
+      "bytes": 20506,
+      "sha256": "6d5a2a44a12482e0a19f63491707dc788df91c32eeb74ac918fda5c8851455b1"
+    },
+    "electron_type_refresh_20261108/run_1/native.log": {
+      "bytes": 366,
+      "sha256": "0b3da4b8ada944e35ee4a4b9f6203f680f89667909a63fd4ef279bd98dfff34d"
+    },
+    "electron_type_refresh_20261108/seal.py": {
+      "bytes": 4636,
+      "sha256": "8d75e98ef6dbad8dac5af34baa336f47916df6e05d3971130899b11dbdea49d6"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_type_refresh_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "109498538b5c7a6beab34fd39fac94883940d68b93ecdab506bc8425399c6948"
+    },
+    {
+      "name": "electron_type_refresh_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "1fd78edac40178239f940fe73dab8865080b87142e78a3b1b6dcf3d419e15bac"
+    },
+    {
+      "name": "electron_type_refresh_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "6a4ee44f4e426734e94ed6a863e0534c29ef5519ba97c878c78ef736f738ae94"
+    },
+    {
+      "name": "electron_type_refresh_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "2c440ac9ca997afddc1ae935133d561e96c5891e583c38be7b11333a1207d067"
+    },
+    {
+      "name": "electron_type_refresh_20261108.tar.xz.part004",
+      "bytes": 78324,
+      "sha256": "a1a48f8c567de06873c9b69ad10f2611d8b500b77d1f389145a6945147589e4e"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_type_refresh_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 436,
+      "sha256": "c11b6f6a9aebcbcf2f1e91cb246e54e6305836f99246de96f61c1a035297f2a8"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "earth_mother_commit": "031d6bfb1cb044c9e7c69f3d6acf04d852dac2f2",
+    "earth_mother_source_map_sha256": "05dbcc97097782b408b73e9cb2e55e018739a6063dd82ef66efdf92ba3c61b3f"
+  },
+  "status": "Electron targeted-type shop refresh bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
