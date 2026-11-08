@@ -1,0 +1,65 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "chef_choice",
+      "commit": "32ffaa836630796372832deaa4b8441d9b82fe4a",
+      "repository_path": "battlegrounds-backup/pending/20261108-electron-chef-choice",
+      "manifest_sha256": "5d85dcafaa942ed859c7ddebc7fa0805009de8344fd4f58f01d59f822536be05",
+      "archive": "electron_chef_choice_20261108.tar.xz",
+      "archive_sha256": "a16af8dc107c44fa558df23beef080198b08931b5d86abcee88b391d86bf9a20",
+      "archive_bytes": 1085872,
+      "parts_verified": 5,
+      "members_verified": 38,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "methodical_madness": "125e50eccf1f9d59cb4e16f83d6fd1994cb56a423f9370690dca9502b7f02ab3",
+    "chef_choice": "e1a0a8cec47f9e58612f5e0e1533ea8ff01710b0487d09689a21509821f666bc"
+  },
+  "methodical_madness_source_byte_equals_chef_choice_base": true,
+  "baseline_files_rehashed": 27723,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "970dd0129bb3412885c73a06688ef76a2941ed603d7b9b53b084249edfd0bf0e",
+  "change_lists": {
+    "added": [
+      "research/electron_chef_choice/BG28_518.native.xml",
+      "research/electron_chef_choice/evidence.json"
+    ],
+    "modified": [
+      "core/chef_choice_recruit.gd",
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 8,
+  "new_files": 2,
+  "modified_files": 6,
+  "removed_files": 0,
+  "restored_files": 27725,
+  "restored_bytes": 1548126797,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "47f9232e818c42246c1932cebfdb71dce791bb42b0b82cf5beb9614655bdd5b7",
+  "prior_whole_chain_via_methodical_madness_to_chef_choice_map_continuity": true,
+  "supporting_methodical_madness_chain_receipt_sha256": "986626fb2a987b8623a6bcf2001c75fd42415499dc1e1f5af2b40d6a9deaa837",
+  "historical_baseline_provenance": "The baseline is the verified Electron Methodical Madness baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Chef Choice increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Chef Choice gameplay implementation is partial, and full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T03:11:07.217951+00:00"
+}
