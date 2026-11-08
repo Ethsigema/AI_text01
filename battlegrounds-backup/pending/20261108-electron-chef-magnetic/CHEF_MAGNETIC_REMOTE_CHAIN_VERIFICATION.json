@@ -1,0 +1,67 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "chef_magnetic",
+      "commit": "054dccd84590fc60323a8e6202fbb88d8ff39d39",
+      "repository_path": "battlegrounds-backup/pending/20261108-electron-chef-magnetic",
+      "manifest_sha256": "a9234ab7236702b4ce4aba4af46b3fdd73e049ab29566c255497d4ab7b8d6cc6",
+      "archive": "electron_chef_magnetic_20261108.tar.xz",
+      "archive_sha256": "42cc923b5a7b2fc6c950a2f3b410ced70a984ce118dddb4875cf3b9a6fea3dba",
+      "archive_bytes": 1085628,
+      "parts_verified": 5,
+      "members_verified": 38,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "chef_choice": "e1a0a8cec47f9e58612f5e0e1533ea8ff01710b0487d09689a21509821f666bc",
+    "chef_magnetic": "696b48e489f4ed384fd2a65bad4e56436cc35b239bf55d5eacd2a920dcdde7af"
+  },
+  "chef_choice_source_byte_equals_chef_magnetic_base": true,
+  "baseline_files_rehashed": 27725,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "a905131c3afcea9a7e891b12bbe3ee4008707e1d1ab12db773166135b09fc972",
+  "change_lists": {
+    "added": [],
+    "modified": [
+      "core/chef_choice_recruit.gd",
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 8,
+  "new_files": 0,
+  "modified_files": 6,
+  "redundant_unchanged_delta_files": [
+    "research/electron_chef_choice/BG28_518.native.xml",
+    "research/electron_chef_choice/evidence.json"
+  ],
+  "actual_changed_files": 6,
+  "removed_files": 0,
+  "restored_files": 27725,
+  "restored_bytes": 1548128293,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "47f9232e818c42246c1932cebfdb71dce791bb42b0b82cf5beb9614655bdd5b7",
+  "prior_whole_chain_via_chef_choice_to_chef_magnetic_map_continuity": true,
+  "supporting_chef_choice_chain_receipt_sha256": "b0037ef1e7dc19952915e78f49e03350b5c27e70f994cba4d48c3fecce343c80",
+  "historical_baseline_provenance": "The baseline is the verified Electron Chef Choice baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Chef Magnetic increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Chef Magnetic gameplay implementation is partial, and full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T03:25:21.169447+00:00"
+}
