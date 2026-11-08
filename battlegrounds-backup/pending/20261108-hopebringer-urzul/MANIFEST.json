@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_urzul_20261108.tar.xz",
+  "bytes": 1599964,
+  "sha256": "35a9a536ad7181f921289508375d1ae0777512d7a5ac7d76611388a42f34158d",
+  "files": {
+    "hopebringer_urzul_20261108/BASE_MAP.json": {
+      "bytes": 4596394,
+      "sha256": "2130f84b455c534c421306136727ca097327f4f9ccb08af6dfd914d4eca28def"
+    },
+    "hopebringer_urzul_20261108/EXPECTED_ROWS.json": {
+      "bytes": 43439,
+      "sha256": "31560ea4a1c6ab6edf5c6422d96fe464d776cd2da9133c7c2bf6f14d8bdabb3b"
+    },
+    "hopebringer_urzul_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_urzul_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4880,
+      "sha256": "61f2c7658997889d0d3badde795630b792ba93c338835df53cd2ac182d63079d"
+    },
+    "hopebringer_urzul_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 315801,
+      "sha256": "868cb6541d45d70b4f2dc07b270831869b26ed6af2f15644c3f85dc7d03a3295"
+    },
+    "hopebringer_urzul_20261108/README.md": {
+      "bytes": 1069,
+      "sha256": "cffae8cd889f1a67a5aaf64006869a05d68ec68bb3aef8aa62d5d99fdf48a7a2"
+    },
+    "hopebringer_urzul_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_urzul_20261108/SOURCE_DELTA.json": {
+      "bytes": 1286,
+      "sha256": "feb2cdb6c4ec9294eebe9d28c0ac88e5be022f2f7c7b151539aba3902354c222"
+    },
+    "hopebringer_urzul_20261108/SOURCE_MAP.json": {
+      "bytes": 4596705,
+      "sha256": "c5be020f61efcc6b04383fb27090ff9c00d292233919fa9aadf4e1c5681f42cc"
+    },
+    "hopebringer_urzul_20261108/VALIDATION.json": {
+      "bytes": 912,
+      "sha256": "7413c3cc76c4e4d933c15e47ceb248d1429319fb27a88457d0c9601e7b537d2e"
+    },
+    "hopebringer_urzul_20261108/build.py": {
+      "bytes": 3631,
+      "sha256": "3a520dffc13baa971bd9b4221c445b7e0f1f701bf315ea94fdb9e8994e9f0c6d"
+    },
+    "hopebringer_urzul_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 17844,
+      "sha256": "0c51a1e9aa5f29e7c4f5c353fa987d6c67095e98adb26902fde9c25df153bd7d"
+    },
+    "hopebringer_urzul_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 68050,
+      "sha256": "77a54e0578edc4f8d51595351dc2c396797cf218b046d50b7563af152c4bb285"
+    },
+    "hopebringer_urzul_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 67472,
+      "sha256": "d38a3edeb6e63ed6303bbd6d1a518be5fbe85b4604486179b0499757f5118e91"
+    },
+    "hopebringer_urzul_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 30933,
+      "sha256": "5e8c48bd9607a9613ff962d4b53e679496bbda9f52f1a6055564e278147ee234"
+    },
+    "hopebringer_urzul_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 30698,
+      "sha256": "5e2f8813300e176b582a98577f728d119bccc248e0ea92bf3ea6704d4092fd4a"
+    },
+    "hopebringer_urzul_20261108/delta/research/hopebringer_urzul/BG21_004.native.xml": {
+      "bytes": 3833,
+      "sha256": "de92fe380c84f19df0c0c75f8f1cad804dfc12fbe4a029e43f996b6f51f2f61c"
+    },
+    "hopebringer_urzul_20261108/delta/research/hopebringer_urzul/evidence.json": {
+      "bytes": 535,
+      "sha256": "75fc8a55060c73531fc3e9d988f3de3345101f33a11cc785e4cda4b868a95666"
+    },
+    "hopebringer_urzul_20261108/gate.gd": {
+      "bytes": 19502,
+      "sha256": "e6efe05422caaf8140c9f5e3ee8e75a67bb6741a98ec5439f8e40147e1a506d2"
+    },
+    "hopebringer_urzul_20261108/materialize.py": {
+      "bytes": 1693,
+      "sha256": "1ae8ba5f2fe14561424d01ca870dfd1067e1c5c09ae00a7c5e85f53590357784"
+    },
+    "hopebringer_urzul_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1177,
+      "sha256": "ced1b76567b38d4137655f352fecf7e5be4ae4c11f4c1aad05efcb2235e4adcf"
+    },
+    "hopebringer_urzul_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_urzul_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 43439,
+      "sha256": "31560ea4a1c6ab6edf5c6422d96fe464d776cd2da9133c7c2bf6f14d8bdabb3b"
+    },
+    "hopebringer_urzul_20261108/run_1/LAUNCH.json": {
+      "bytes": 521,
+      "sha256": "48775187190389b2bbd2494d91703ad8743f1d290c04229a6b315b447f672101"
+    },
+    "hopebringer_urzul_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 315801,
+      "sha256": "868cb6541d45d70b4f2dc07b270831869b26ed6af2f15644c3f85dc7d03a3295"
+    },
+    "hopebringer_urzul_20261108/run_1/PROCESS.json": {
+      "bytes": 595,
+      "sha256": "fc59c3a38d3a59cdbf6ac0523eb328592e0675af9fcc08dec5d3635de13ef109"
+    },
+    "hopebringer_urzul_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1286,
+      "sha256": "feb2cdb6c4ec9294eebe9d28c0ac88e5be022f2f7c7b151539aba3902354c222"
+    },
+    "hopebringer_urzul_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 18492,
+      "sha256": "37b56d0afa6cc461a72b5af43a8bbe235dfcb13a5ac6bfe054439b22f8561887"
+    },
+    "hopebringer_urzul_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4596705,
+      "sha256": "c5be020f61efcc6b04383fb27090ff9c00d292233919fa9aadf4e1c5681f42cc"
+    },
+    "hopebringer_urzul_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 77592,
+      "sha256": "3444ac94a8a352f231a2a9b8b36a0570b5b0a884778c4b1cd2173be57203eb51"
+    },
+    "hopebringer_urzul_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 39146,
+      "sha256": "197e9f63f942f5acdbdcb1db69784659857f0a0dcf050fb399f6b9c9f73b51c1"
+    },
+    "hopebringer_urzul_20261108/run_1/data/report.json": {
+      "bytes": 7187707,
+      "sha256": "ab9e2206179b68f618bfb7dc7354db65466089cbc67f2539166dc078424e36a3"
+    },
+    "hopebringer_urzul_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 770322,
+      "sha256": "d74813f3dd9bf8a74048c29e4b1ffd201a52580650561256796073468096adf3"
+    },
+    "hopebringer_urzul_20261108/run_1/gate_executed.gd": {
+      "bytes": 19502,
+      "sha256": "e6efe05422caaf8140c9f5e3ee8e75a67bb6741a98ec5439f8e40147e1a506d2"
+    },
+    "hopebringer_urzul_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "7f7e1924398893ecaf6bfb9a54d5f9d5554ba5769d468752ce99d86d8e475fb1"
+    },
+    "hopebringer_urzul_20261108/seal.py": {
+      "bytes": 4014,
+      "sha256": "1b9444ae74978a71a4f2ffc24ef7c2922b3d2e53d41e5c32a40c97ea69b2cd2b"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_urzul_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "b70e1aa36f830f6078aa1c1909d7a950e103b081df03413e9887b19c66cb3243"
+    },
+    {
+      "name": "hopebringer_urzul_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "364ba3c7de1be764e229d28ce4e3a2b83876ad5686f4fd51e9ff2f6d33a84a1d"
+    },
+    {
+      "name": "hopebringer_urzul_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "2d4f4b0d2c311c3c91f9b6b3da81eb2edcdd7f9a9928288663e51796535f9e78"
+    },
+    {
+      "name": "hopebringer_urzul_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "dfc8dd5f4e5b007bc648403f3805b2f6bf8d066eb6e62af3c57ee970f390722f"
+    },
+    {
+      "name": "hopebringer_urzul_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "71f6a456c15b7572fa476575afad54348dc12fd40ea64c307c55670490f45b4a"
+    },
+    {
+      "name": "hopebringer_urzul_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "40740b288c7d41bb99e63cdde4ef86d1a3b4620447041c1dd3cb63423206513b"
+    },
+    {
+      "name": "hopebringer_urzul_20261108.tar.xz.part006",
+      "bytes": 99964,
+      "sha256": "7edbe4b5c302d37894665effac42a9e1a145386b8ed4807b4485d8e3ef71dfd2"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_urzul_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 396,
+      "sha256": "71368b814e490571dfe7d3286f3dd7eb26ed2faecd515b741d3cd8c11aa1ef62"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_drakkari_devour_commit": "5a19a4ae428b671775a7e0b8a0a269abbd1475f6",
+    "hopebringer_drakkari_devour_source_map_sha256": "2130f84b455c534c421306136727ca097327f4f9ccb08af6dfd914d4eca28def"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Urzul Demon-play Tavern consume combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
