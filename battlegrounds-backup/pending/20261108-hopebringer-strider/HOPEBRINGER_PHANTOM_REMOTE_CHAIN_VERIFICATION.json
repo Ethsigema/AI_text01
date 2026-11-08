@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_phantom",
+      "commit": "4584362553c34a86b032899b3ceee92592c8c29a",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-phantom",
+      "manifest_sha256": "1946fc0181bb6a701de1f537b5c7fe5d700953a8d02e8ffa8a9d4d0e08cb6926",
+      "archive": "hopebringer_phantom_20261108.tar.xz",
+      "archive_sha256": "3da24a625c2d219398c381e8dd2702615a00aa04a9a270409c5cf746e5175330",
+      "archive_bytes": 1606632,
+      "parts_verified": 7,
+      "members_verified": 36,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_banshee": "f14143c5758249a34f6b837037aae9fd71a726c5a4d92de96bebc29675826883",
+    "hopebringer_phantom": "9617b0b0e4f823141049d41f0728b1aba2f306e729ae860bc16fd6647acd89ed"
+  },
+  "hopebringer_banshee_source_byte_equals_hopebringer_phantom_base": true,
+  "baseline_files_rehashed": 27871,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "1cab5c71358a8a24a9eb095176773bea8b236d7cc14e6241ee89ab11b72fb47c",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_phantom/BG36_515.native.xml",
+      "research/hopebringer_phantom/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27873,
+  "restored_bytes": 1548627184,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "0d8a735b6656ec5fa63fc1a0696b1b8a14d8ea4ce40b50e2640fb6eaf5cb285f",
+  "prior_whole_chain_via_hopebringer_banshee_to_hopebringer_phantom_map_continuity": true,
+  "supporting_hopebringer_banshee_chain_receipt_sha256": "f580a4188d98f8600f8a03e2b2dc132e95957f61dce1278b495a1f5f83730345",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Banshee baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Phantom increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T21:26:51.474524+00:00"
+}
