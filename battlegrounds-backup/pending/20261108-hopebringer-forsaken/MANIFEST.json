@@ -1,0 +1,213 @@
+{
+  "archive": "hopebringer_forsaken_20261108.tar.xz",
+  "bytes": 1565968,
+  "sha256": "ad4ae5e962e671775262cfd563d3b8120d341d52dc036227954cb38eed5a4323",
+  "files": {
+    "hopebringer_forsaken_20261108/BASE_MAP.json": {
+      "bytes": 4581536,
+      "sha256": "131d581364ab21c0faa390ff33160d2652f8cd99475552195b704cb67b47e4a7"
+    },
+    "hopebringer_forsaken_20261108/EXPECTED_ROWS.json": {
+      "bytes": 18359,
+      "sha256": "a84d74b9c7ba017fd4bdafd87d624264422fb354b28f29ee59c43d1432d6aa83"
+    },
+    "hopebringer_forsaken_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_forsaken_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5056,
+      "sha256": "b329f8dd7576671755315515775d30427adf5e4493812d47f401b438a7f902d6"
+    },
+    "hopebringer_forsaken_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 292400,
+      "sha256": "7f438b61a8ea28b10605421d5f5e6afd0be35af2c3bc048874bf1ec92f4243d4"
+    },
+    "hopebringer_forsaken_20261108/README.md": {
+      "bytes": 1876,
+      "sha256": "0016b461098a47ad19deead3e5560bd90eb8a9959c2cce8b24833bd1d14cf9fa"
+    },
+    "hopebringer_forsaken_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "hopebringer_forsaken_20261108/SOURCE_DELTA.json": {
+      "bytes": 1466,
+      "sha256": "426c861ebcee62d2563b0ebc5eb9c7427a20e001afbb238c366b9338168cc2b9"
+    },
+    "hopebringer_forsaken_20261108/SOURCE_MAP.json": {
+      "bytes": 4582017,
+      "sha256": "57a47c0f18da92d854dcfa8460c76668b93ea778c831d8ad0fac0ada329b7051"
+    },
+    "hopebringer_forsaken_20261108/VALIDATION.json": {
+      "bytes": 863,
+      "sha256": "828dcadf4b43bb5bf9590c9f9c18b8df4df3201ad1345bf43c345948d1c54155"
+    },
+    "hopebringer_forsaken_20261108/build.py": {
+      "bytes": 3520,
+      "sha256": "59649de6b88612dd6072e87cd2610208699de12c18943d938b8cce97a729a43f"
+    },
+    "hopebringer_forsaken_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 7967,
+      "sha256": "c4df8751326c54261356c4a777c9d708bc91c67a84d7a099663fce89e511a724"
+    },
+    "hopebringer_forsaken_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 27753,
+      "sha256": "66c4be779b098b6e6b94d97fb30b46e183f6fc1e7d533c7d2009dd5f9fc992ed"
+    },
+    "hopebringer_forsaken_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 27175,
+      "sha256": "ebcfc251bdb2c3d5e6261e2e123ad5afec50dfc73a850edd1c47f27a3c8ef22d"
+    },
+    "hopebringer_forsaken_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 18393,
+      "sha256": "eb9e3ffba4d8f2b2282a9f5eeb8069665ab3b6df1b0098e3bdb5e7ee520b9507"
+    },
+    "hopebringer_forsaken_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 18158,
+      "sha256": "f1de0196d42152da482267ef7677ae8acfa88c762ac69db9796373bcd4b94e21"
+    },
+    "hopebringer_forsaken_20261108/delta/research/hopebringer_forsaken/BG25_010.native.xml": {
+      "bytes": 3178,
+      "sha256": "9da0974b1a8426d751a1fe1306647886e148e10a1a6cf08809bc40e901934750"
+    },
+    "hopebringer_forsaken_20261108/delta/research/hopebringer_forsaken/BG25_010t.native.xml": {
+      "bytes": 1841,
+      "sha256": "805056638ae48cf26611c9c19bc6a2739602936596e7624f091c51600de5bb30"
+    },
+    "hopebringer_forsaken_20261108/delta/research/hopebringer_forsaken/evidence.json": {
+      "bytes": 1054,
+      "sha256": "bc00f0fc99ac18b0977faf102685130be79121a6d0beedff34b32b846de3b766"
+    },
+    "hopebringer_forsaken_20261108/gate.gd": {
+      "bytes": 18628,
+      "sha256": "0501e57b6a763f2d00cff3ce00443dd252b4c994ad3acb42be6572482fcefed0"
+    },
+    "hopebringer_forsaken_20261108/materialize.py": {
+      "bytes": 1683,
+      "sha256": "96b8386098bce2f176f08d43be2b9a2dee05dd1e15d3a7fbc89bbd9b022c99d3"
+    },
+    "hopebringer_forsaken_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1172,
+      "sha256": "1a4bc25aff925dc4b5c6d01ad5b9fb7651225d54b4cf68b6d06ccbeda9843c21"
+    },
+    "hopebringer_forsaken_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_forsaken_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 18359,
+      "sha256": "a84d74b9c7ba017fd4bdafd87d624264422fb354b28f29ee59c43d1432d6aa83"
+    },
+    "hopebringer_forsaken_20261108/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "c749e578e15684f976e6e3febfea7ad90bdb6b9c2ac31b218dd764aceb448452"
+    },
+    "hopebringer_forsaken_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 292400,
+      "sha256": "7f438b61a8ea28b10605421d5f5e6afd0be35af2c3bc048874bf1ec92f4243d4"
+    },
+    "hopebringer_forsaken_20261108/run_1/PROCESS.json": {
+      "bytes": 600,
+      "sha256": "223f1242610dd8117c2e784f5ec55dd3c9ee058c1cd0ca1f3518430371870546"
+    },
+    "hopebringer_forsaken_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1466,
+      "sha256": "426c861ebcee62d2563b0ebc5eb9c7427a20e001afbb238c366b9338168cc2b9"
+    },
+    "hopebringer_forsaken_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 10904,
+      "sha256": "91991f087322efbd2966b6c86ae2cc081c023731f62afede392848ca9fb6bbee"
+    },
+    "hopebringer_forsaken_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4582017,
+      "sha256": "57a47c0f18da92d854dcfa8460c76668b93ea778c831d8ad0fac0ada329b7051"
+    },
+    "hopebringer_forsaken_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 107351,
+      "sha256": "35dc75cbe06604ff62b4e9405cbbb610085ef517723432d9cd69326ec280f3b0"
+    },
+    "hopebringer_forsaken_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 43243,
+      "sha256": "df794573221ecedbe51c757d53d7160e8adef73de65da194696b533ea333537a"
+    },
+    "hopebringer_forsaken_20261108/run_1/data/report.json": {
+      "bytes": 7877755,
+      "sha256": "ce952756fb05ce501cc99461900dfec86d3b2c119848e06d22f88fd986ebd5d3"
+    },
+    "hopebringer_forsaken_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 788430,
+      "sha256": "77f00236203d3eaf0fa3bdbe27c0c6a94aeaa27037cb4294087f900bb33d4681"
+    },
+    "hopebringer_forsaken_20261108/run_1/gate_executed.gd": {
+      "bytes": 18628,
+      "sha256": "0501e57b6a763f2d00cff3ce00443dd252b4c994ad3acb42be6572482fcefed0"
+    },
+    "hopebringer_forsaken_20261108/run_1/native.log": {
+      "bytes": 532,
+      "sha256": "80604685aad49a256ac873db604655f0153befe1cbe7bfb8faa1d8dabc385ca3"
+    },
+    "hopebringer_forsaken_20261108/seal.py": {
+      "bytes": 4004,
+      "sha256": "062b78e53257e9fe4d7a0d6496b71cd22cc2771d7738359c2b786856b7e11bbb"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_forsaken_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "c3790a8a294e704eef05b9d26bacdf7ed6b4fee507101a96c6082ded1bfe536f"
+    },
+    {
+      "name": "hopebringer_forsaken_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "361852831555635fc1b77ce2c0b1ae3224b577fc7743795ed916e819ea7e72ad"
+    },
+    {
+      "name": "hopebringer_forsaken_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "ed9a199cca3c27b606c0ec00772b67b841b684d8ac99825b2a179afcf5f087da"
+    },
+    {
+      "name": "hopebringer_forsaken_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "dc2a2ef43697d79c165f43e20892126e1374d5c70d8b47ff7b5ef2f0197f04f0"
+    },
+    {
+      "name": "hopebringer_forsaken_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "d2bc051de250e5bda2b0f68561d68068a6b968e9b9a880f8fc207c7056bf2761"
+    },
+    {
+      "name": "hopebringer_forsaken_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "351b7a94730133330da2a7ecff9427aa54f92f371408cb65e678da4ae7f5772f"
+    },
+    {
+      "name": "hopebringer_forsaken_20261108.tar.xz.part006",
+      "bytes": 65968,
+      "sha256": "bca256ef8b7f6eb0e2f26594341af96d1980726289db1e62df10ede26c9d199e"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_forsaken_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 460,
+      "sha256": "be12f383375eb417795c048bfe39e0b587e6db3cbb17b5224b3e7107095f1698"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_rat_leader_commit": "b7b5aaca089e723cee32c33e3ba6fa8b9d1acd97",
+    "hopebringer_rat_leader_source_map_sha256": "131d581364ab21c0faa390ff33160d2652f8cd99475552195b704cb67b47e4a7"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Forsaken combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
