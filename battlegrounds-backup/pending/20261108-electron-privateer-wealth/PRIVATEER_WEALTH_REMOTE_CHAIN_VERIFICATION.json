@@ -1,0 +1,69 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "privateer_wealth",
+      "commit": "b3a129736c61e94023099ca5a630bee859d4c918",
+      "repository_path": "battlegrounds-backup/pending/20261108-electron-privateer-wealth",
+      "manifest_sha256": "7aef559219789405605ce74eb56ec6da994e6106ddf68fcd00cdddd5acf9748a",
+      "archive": "electron_privateer_wealth_20261108.tar.xz",
+      "archive_sha256": "2dda901ab44b7c98be52fbad2921012409b87bd2feb58aac4e7dc2cb4ba459f4",
+      "archive_bytes": 1088608,
+      "parts_verified": 5,
+      "members_verified": 39,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "sludge_discard": "10779ba8aa53ccf512d9ef0fad64be922ed0b1a0b85b4da0205389088dfe6cbb",
+    "privateer_wealth": "170be091073bebc2381da4f748262098c1093008f5f35f9ae97971f557817c5b"
+  },
+  "sludge_discard_source_byte_equals_privateer_wealth_base": true,
+  "baseline_files_rehashed": 27735,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "41ba1abacd9bbea14a9e7b9ee6c02d5c9b976fb2c45bf94604441d5608a6bd90",
+  "change_lists": {
+    "added": [
+      "research/electron_privateer_wealth/BG33_815.native.xml",
+      "research/electron_privateer_wealth/BG33_825.native.xml",
+      "research/electron_privateer_wealth/BG33_825_G.native.xml",
+      "research/electron_privateer_wealth/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/privateer_bounty_cast.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 10,
+  "new_files": 4,
+  "modified_files": 6,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 10,
+  "removed_files": 0,
+  "restored_files": 27739,
+  "restored_bytes": 1548173496,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "47f9232e818c42246c1932cebfdb71dce791bb42b0b82cf5beb9614655bdd5b7",
+  "prior_whole_chain_via_sludge_discard_to_privateer_wealth_map_continuity": true,
+  "supporting_sludge_discard_chain_receipt_sha256": "47c33c11c77c1a9fafedde5777fd1609ecbfcee8c136a1977d7ad2c39999573b",
+  "historical_baseline_provenance": "The baseline is the verified Electron Sludge Discard baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Privateer Wealth increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T04:51:05.967770+00:00"
+}
