@@ -1,0 +1,67 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_weaver",
+      "commit": "eca59f5c592b437972b3b989d439586b83b89191",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-weaver",
+      "manifest_sha256": "4dbfec2b421cfcf8a19cfc50afce20744b5093af738466aff2d69b388abf4105",
+      "archive": "hopebringer_weaver_20261108.tar.xz",
+      "archive_sha256": "9893c581e0aba12b3c6edd3fecd481ff3ff6f79b3fcd2e2b24423aa29f0722c3",
+      "archive_bytes": 1588964,
+      "parts_verified": 7,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_dune": "afcfedcc2db16afaa31e2007e32c39dd63d6efef20fdcdfd975d7c5a97c67ad7",
+    "hopebringer_weaver": "bb941238bde7de43664ce830363307bf455fed7d4e1af587b31dd38876ebaf55"
+  },
+  "hopebringer_dune_source_byte_equals_hopebringer_weaver_base": true,
+  "baseline_files_rehashed": 27821,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "c0c22feea87fb4bc3a02181df00bced3184ed350725ce219fad4232833a19c01",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_weaver/BGS_004.native.xml",
+      "research/hopebringer_weaver/BG_BRM_006t.native.xml",
+      "research/hopebringer_weaver/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 8,
+  "new_files": 3,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 8,
+  "removed_files": 0,
+  "restored_files": 27824,
+  "restored_bytes": 1548452794,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "0d8a735b6656ec5fa63fc1a0696b1b8a14d8ea4ce40b50e2640fb6eaf5cb285f",
+  "prior_whole_chain_via_hopebringer_dune_to_hopebringer_weaver_map_continuity": true,
+  "supporting_hopebringer_dune_chain_receipt_sha256": "a4dab7e378f6f79cfee6bc695c6b3ba8385866c500ec5d89594b6ee51b2a833f",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Dune baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Weaver increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T15:50:30.184412+00:00"
+}
