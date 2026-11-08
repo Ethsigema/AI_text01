@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_humming_20261108.tar.xz",
+  "bytes": 1577040,
+  "sha256": "8e1b9fd84a1b144c551b07f633e6c2fd02d91773786389399240895522373d54",
+  "files": {
+    "hopebringer_humming_20261108/BASE_MAP.json": {
+      "bytes": 4585305,
+      "sha256": "801ee9d585dbf6b6bc51b57f89ec3dc769c644d23799867cd600db71f1791d28"
+    },
+    "hopebringer_humming_20261108/EXPECTED_ROWS.json": {
+      "bytes": 25049,
+      "sha256": "635cff8a9eeb3a29d1124c1824dc8dc2bd1a968ebc19ea7e78d489dc2db81ec8"
+    },
+    "hopebringer_humming_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_humming_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4884,
+      "sha256": "1d83354f7d8665a822a70a82b18e46f743017b0288fcf10e8571dd279fffdf7d"
+    },
+    "hopebringer_humming_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 298133,
+      "sha256": "491b11c4a60454c3eef7d667c73e420a77fe880bc3880fb6531bc9bf0abba1ba"
+    },
+    "hopebringer_humming_20261108/README.md": {
+      "bytes": 1058,
+      "sha256": "b302b2f8ad161e2eb972f9b6d8f447fccc3507111917ecb5c975b009a0b4c708"
+    },
+    "hopebringer_humming_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_humming_20261108/SOURCE_DELTA.json": {
+      "bytes": 1281,
+      "sha256": "ca9d8cc1794e8bf28486fd19f26f80e0679433cbb2e43dfc9f2cc338be7e6df1"
+    },
+    "hopebringer_humming_20261108/SOURCE_MAP.json": {
+      "bytes": 4585621,
+      "sha256": "75ab1ea4ff1dcd8e57495841c0f1e17c7ace505645eea9d0b8abd4b9f8becdc6"
+    },
+    "hopebringer_humming_20261108/VALIDATION.json": {
+      "bytes": 931,
+      "sha256": "d6c67e2887a4420898ea9a6ba36d672383bf5ea83cd5770df91417e56ab8b90a"
+    },
+    "hopebringer_humming_20261108/build.py": {
+      "bytes": 3562,
+      "sha256": "598d6e0582c5f7a2416a1d3074bd40eb73f599f7405e3388004b9f7b0aae4886"
+    },
+    "hopebringer_humming_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 10021,
+      "sha256": "91e74d6cc2cda78b8b3f555f6f167cb9cab459d123979ebd8f9dbfbde3e02769"
+    },
+    "hopebringer_humming_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 38152,
+      "sha256": "873d0eb0870ca7335a567f21b8068197a14e76d775182f330d78cc5a8da8c2fb"
+    },
+    "hopebringer_humming_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 37574,
+      "sha256": "646462a4124ff71cc0054462547d2fbdaf0d87ef79bd3750251d5d00456a0a96"
+    },
+    "hopebringer_humming_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 21738,
+      "sha256": "3dc897ddbe4b155b8cbd691aeafe78c770b75655cf6d0ce248420b6f2c126338"
+    },
+    "hopebringer_humming_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 21503,
+      "sha256": "39e31f27d1cab8d876b764a6ef12a8fd3d751644b595c21f5646215b8f6b478a"
+    },
+    "hopebringer_humming_20261108/delta/research/hopebringer_humming/BG26_805.native.xml": {
+      "bytes": 3279,
+      "sha256": "35b00e6367c1e72563c6e6a773538c65b294b3120affb205595dbfc445283cd3"
+    },
+    "hopebringer_humming_20261108/delta/research/hopebringer_humming/evidence.json": {
+      "bytes": 551,
+      "sha256": "69e98195fecd7e0678078c8fa24b37851eafbbebbb83652ac85e5b6ca00b7a0e"
+    },
+    "hopebringer_humming_20261108/gate.gd": {
+      "bytes": 19436,
+      "sha256": "cefb1f8e466404089671d3c4abcd1443bff22aa09b6ed903b4a2298c32ec27d4"
+    },
+    "hopebringer_humming_20261108/materialize.py": {
+      "bytes": 1675,
+      "sha256": "6638bcf3987d4a4bd43392ba2e81f3cd31acd09f8e4a4925d08b9b86edcb4be2"
+    },
+    "hopebringer_humming_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1168,
+      "sha256": "a51e66cc5571295caddf93ffe1121b722f25a9c7869e0820cc9737c266cc2102"
+    },
+    "hopebringer_humming_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_humming_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 25049,
+      "sha256": "635cff8a9eeb3a29d1124c1824dc8dc2bd1a968ebc19ea7e78d489dc2db81ec8"
+    },
+    "hopebringer_humming_20261108/run_1/LAUNCH.json": {
+      "bytes": 525,
+      "sha256": "4eafcab91c6a3f5271274bcb15ecef08d1ba9c2669f11f2fc2fff65ea968b8a3"
+    },
+    "hopebringer_humming_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 298133,
+      "sha256": "491b11c4a60454c3eef7d667c73e420a77fe880bc3880fb6531bc9bf0abba1ba"
+    },
+    "hopebringer_humming_20261108/run_1/PROCESS.json": {
+      "bytes": 597,
+      "sha256": "24f7f3039ee71874d4d73f5252de934320be699f49dd2e433a67fbf2b6509986"
+    },
+    "hopebringer_humming_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1281,
+      "sha256": "ca9d8cc1794e8bf28486fd19f26f80e0679433cbb2e43dfc9f2cc338be7e6df1"
+    },
+    "hopebringer_humming_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 12600,
+      "sha256": "57dc700d49679b5b5bee6748c51cd439beb420e9c1d3b07d97ba274381c74e78"
+    },
+    "hopebringer_humming_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4585621,
+      "sha256": "75ab1ea4ff1dcd8e57495841c0f1e17c7ace505645eea9d0b8abd4b9f8becdc6"
+    },
+    "hopebringer_humming_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 84228,
+      "sha256": "98f63409a42eaccb91da0490d453a7211bc74bdb126777e859454ed879945981"
+    },
+    "hopebringer_humming_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 38762,
+      "sha256": "1d3fc607d32d4e41687fab50637b7ffb5d41eefcb55d305c39569ddeb8a14432"
+    },
+    "hopebringer_humming_20261108/run_1/data/report.json": {
+      "bytes": 7223732,
+      "sha256": "739cdc5300d0f610212a48a2b251ea5df1a0943340dc3f7b692f61ecb0de1576"
+    },
+    "hopebringer_humming_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 770219,
+      "sha256": "8191d1b45ade19747df5991c013a7c9d7cbd0cfa183f8ad9ec9f88de744889a5"
+    },
+    "hopebringer_humming_20261108/run_1/gate_executed.gd": {
+      "bytes": 19436,
+      "sha256": "cefb1f8e466404089671d3c4abcd1443bff22aa09b6ed903b4a2298c32ec27d4"
+    },
+    "hopebringer_humming_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "b639379e1855e75756b20529a4eb3660da67d6fbd43ae55afe71153e6fdf33c1"
+    },
+    "hopebringer_humming_20261108/seal.py": {
+      "bytes": 3979,
+      "sha256": "4f78a16f742d117073c5ffc6cc66a93becba416d3e66492a982fe223aacd2f59"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_humming_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "9a331cc70fdda2899ef2132b005c9d96006e31db0c18b6647fd29ba9594ae281"
+    },
+    {
+      "name": "hopebringer_humming_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "c056b555aca2befc3ae2078d40e907485a649d94285754263efb0214ad245e0e"
+    },
+    {
+      "name": "hopebringer_humming_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "90868da175e8e1aa866b8bd4ee097a4c4198a2bc34d0ee32e43663514ab0492d"
+    },
+    {
+      "name": "hopebringer_humming_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "3288a55ba946a2c75d3aab57a253b2393d250f7044b0284e40dade4e9bf48993"
+    },
+    {
+      "name": "hopebringer_humming_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "c281978a556d4d5fe7f8abdcb38c933c0ebc95253b767fa76163c4a20b997a71"
+    },
+    {
+      "name": "hopebringer_humming_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "35cb0ad31cd60197a265d7c0a424c0cbb756ec39b2c00f8333ba3baed2a82bef"
+    },
+    {
+      "name": "hopebringer_humming_20261108.tar.xz.part006",
+      "bytes": 77040,
+      "sha256": "b31dabb53815c4d53924d1d77f9c2c49bc58d141ba0742b4f5066d20b4264438"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_humming_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 400,
+      "sha256": "4efd13486f8eb3d0cb18865b3095b6412cdc7038bf76eac315a8f559da5227e7"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_banana_commit": "b3e57db6cd419cbb92ce8f467012e858cdbaf5a5",
+    "hopebringer_banana_source_map_sha256": "801ee9d585dbf6b6bc51b57f89ec3dc769c644d23799867cd600db71f1791d28"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Humming Bird combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
