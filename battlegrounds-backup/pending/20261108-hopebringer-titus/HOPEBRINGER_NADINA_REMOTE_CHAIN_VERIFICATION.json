@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_nadina",
+      "commit": "2a61f7edab3cd6ce9826fae3263b9f0c80def62b",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-nadina",
+      "manifest_sha256": "aa66d5d7c8c72088f41edc327ff3daef944949d982bb3307375e7f6cea03a4ba",
+      "archive": "hopebringer_nadina_20261108.tar.xz",
+      "archive_sha256": "259444bad147d818ae228aad515b05c4e106e2c927692da928bae89c5ea4c7e2",
+      "archive_bytes": 3464724,
+      "parts_verified": 14,
+      "members_verified": 60,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_skull": "8ca7c76e406b9900fec5c8f1e8fa9512d1809e8259b6a6829a989b079a3824be",
+    "hopebringer_nadina": "09e4acb1b56ca75044ced6b677807a2f5299c47f098f38c3dadd9efb0e362e75"
+  },
+  "hopebringer_skull_source_byte_equals_hopebringer_nadina_base": true,
+  "baseline_files_rehashed": 27768,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "46daa0a808ee863392fefeb1b32ff73f09b331a233109db27831856482d6984b",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_nadina/BGS_040.native.xml",
+      "research/hopebringer_nadina/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27770,
+  "restored_bytes": 1548279777,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "fd25b27e3113830b7d692beab0f02d85568bc579c5b995e663fe3fa1feb2a319",
+  "prior_whole_chain_via_hopebringer_skull_to_hopebringer_nadina_map_continuity": true,
+  "supporting_hopebringer_skull_chain_receipt_sha256": "d369c0d0e238f5b5d816ac636c2760af1629924183daf17b8ac2f8e35e39098f",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Skull baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Nadina increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T09:14:15.867104+00:00"
+}
