@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_titus_20261108.tar.xz",
+  "bytes": 1567776,
+  "sha256": "380da0a402a28bb9d1efc80c16cf030e06a88c6c6eba06b7b5f35f7c088dd06e",
+  "files": {
+    "hopebringer_titus_20261108/BASE_MAP.json": {
+      "bytes": 4583427,
+      "sha256": "09e4acb1b56ca75044ced6b677807a2f5299c47f098f38c3dadd9efb0e362e75"
+    },
+    "hopebringer_titus_20261108/EXPECTED_ROWS.json": {
+      "bytes": 21277,
+      "sha256": "e1269346ba0f1cae88ae1c4992240d1965d4bcc9fd242fd89e9cfdf435f40011"
+    },
+    "hopebringer_titus_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_titus_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4880,
+      "sha256": "5a4390a3e308c2cf9fc5b85e7c6e3c51b4010ac093361e087a94355de09c83d2"
+    },
+    "hopebringer_titus_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 295137,
+      "sha256": "257f85fbd059e95058010cbb3a81343e2db30f457a4511767a45c508db42a873"
+    },
+    "hopebringer_titus_20261108/README.md": {
+      "bytes": 1090,
+      "sha256": "f742cf263fa5923614d9b3f35d9ae3bbdc6b0e2a627810e8091d978cf05f0bcc"
+    },
+    "hopebringer_titus_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_titus_20261108/SOURCE_DELTA.json": {
+      "bytes": 1276,
+      "sha256": "59705d69c7032c9353b4ef8bc7912bcf3ae7f33e6edb6e4dd2a06fc0a4be8233"
+    },
+    "hopebringer_titus_20261108/SOURCE_MAP.json": {
+      "bytes": 4583738,
+      "sha256": "8e91bb42f29e491ac948ab8513292251b1cab19183f9eee783918dd67a1148be"
+    },
+    "hopebringer_titus_20261108/VALIDATION.json": {
+      "bytes": 946,
+      "sha256": "9b769290d3983fcd3e32f434944507f5d65cd32eb45bfd1031d3bfd7d03e20a2"
+    },
+    "hopebringer_titus_20261108/build.py": {
+      "bytes": 3534,
+      "sha256": "aff1334121e1819a93fc175f0284c1d03ef7f5fc39a71ae7b78bb0e5e43d31e3"
+    },
+    "hopebringer_titus_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 9054,
+      "sha256": "760bf82ecfd8bbbafb8be9b4b359e43c6019331509542977940d7b3305f3f5ed"
+    },
+    "hopebringer_titus_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 32440,
+      "sha256": "3db186e94451e76d1291fcbb100c9edb21778097fe57c0c52be1836dcccb37f7"
+    },
+    "hopebringer_titus_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 31862,
+      "sha256": "819c3f35085f13ce3d68a890fc64fcef41595702d59875ef80a9b09eb6bd8d3f"
+    },
+    "hopebringer_titus_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 19852,
+      "sha256": "4c3e557cd5f7967a9c0468bc03a02c22d901e061396902ed714d8b3bf95612c5"
+    },
+    "hopebringer_titus_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 19617,
+      "sha256": "1a62cc544a048ad6de69f63972fe952c04473ce5bf69f7fd8ff3a443916d9973"
+    },
+    "hopebringer_titus_20261108/delta/research/hopebringer_titus/BG25_354.native.xml": {
+      "bytes": 5212,
+      "sha256": "f9573d08d0715b575cc34af5d36f306b8d6453a3bf6cb6d1f38b3753ada1fabb"
+    },
+    "hopebringer_titus_20261108/delta/research/hopebringer_titus/evidence.json": {
+      "bytes": 454,
+      "sha256": "e19a3949428736832a64e212b7b2f1e3fbeb5aa13997496aa9b1121b7f2e8d29"
+    },
+    "hopebringer_titus_20261108/gate.gd": {
+      "bytes": 18049,
+      "sha256": "a081c6da3c68b02cff649c4299ae041e9792d915740977aa1d4cd34d9fe4a748"
+    },
+    "hopebringer_titus_20261108/materialize.py": {
+      "bytes": 1675,
+      "sha256": "3727c320bff187c63765f32fcb2cb380582b038cda3dafc36ad1a9b798d095db"
+    },
+    "hopebringer_titus_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1168,
+      "sha256": "b24fed209f5b96dc6639da95e46d49d295d1008fe122395793037c2ad15aab80"
+    },
+    "hopebringer_titus_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_titus_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 21277,
+      "sha256": "e1269346ba0f1cae88ae1c4992240d1965d4bcc9fd242fd89e9cfdf435f40011"
+    },
+    "hopebringer_titus_20261108/run_1/LAUNCH.json": {
+      "bytes": 521,
+      "sha256": "52857edae6765f0f9b905e7f8da6db5a3b082e0392451dd34ada3e6736fe474b"
+    },
+    "hopebringer_titus_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 295137,
+      "sha256": "257f85fbd059e95058010cbb3a81343e2db30f457a4511767a45c508db42a873"
+    },
+    "hopebringer_titus_20261108/run_1/PROCESS.json": {
+      "bytes": 594,
+      "sha256": "9fa66aca0a2e9d40ecbf7de12a73d6f4a4925a2fe873516f5994feda3be2f0f2"
+    },
+    "hopebringer_titus_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1276,
+      "sha256": "59705d69c7032c9353b4ef8bc7912bcf3ae7f33e6edb6e4dd2a06fc0a4be8233"
+    },
+    "hopebringer_titus_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 12688,
+      "sha256": "f32a38183298be3bf7344370d5d637f92ec7e2ffc97adf423145f6366241842a"
+    },
+    "hopebringer_titus_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4583738,
+      "sha256": "8e91bb42f29e491ac948ab8513292251b1cab19183f9eee783918dd67a1148be"
+    },
+    "hopebringer_titus_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 105332,
+      "sha256": "98ec563388b316109f1c4f9310fde368f4ac0d32d3c070a5c84f097e40fa43fe"
+    },
+    "hopebringer_titus_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 42534,
+      "sha256": "bab1bf0481d8b85dfe343a63b2c271fcdac9b83d2a58bb288cfb14cf1913bcca"
+    },
+    "hopebringer_titus_20261108/run_1/data/report.json": {
+      "bytes": 7820247,
+      "sha256": "ace5541723f3695fb961b14ac3b4b868dcd3367a19b8fc6747ad5fdec857b5bc"
+    },
+    "hopebringer_titus_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 783208,
+      "sha256": "4606a0d6d61c1c1758031f99df389699c9adb4e27750ef3114c29d775d3f7927"
+    },
+    "hopebringer_titus_20261108/run_1/gate_executed.gd": {
+      "bytes": 18049,
+      "sha256": "a081c6da3c68b02cff649c4299ae041e9792d915740977aa1d4cd34d9fe4a748"
+    },
+    "hopebringer_titus_20261108/run_1/native.log": {
+      "bytes": 532,
+      "sha256": "58ddb5fde4dcccd9f96f77de63da3f2013468f95cf9c3105e688e2ba87622546"
+    },
+    "hopebringer_titus_20261108/seal.py": {
+      "bytes": 3977,
+      "sha256": "271fed56867dcff9044b456229972c44bf41ac319f5086cd3d35bfabb5768592"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_titus_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "f6642f712147920f8a15f03457dc820d938e9653d9aa3fde3ebabce3f7d00df2"
+    },
+    {
+      "name": "hopebringer_titus_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "904fc4109b99a74da074d6e001ba86a9386ce95c235da223130b5e4126b2725a"
+    },
+    {
+      "name": "hopebringer_titus_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "a6465c09399d22e3bbb059a7ff8314a8f4cde719d3a45435a44976c9ca7678eb"
+    },
+    {
+      "name": "hopebringer_titus_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "245b45ac4e5c3efa683f9cf6ac1b4204241a258dbdc8351e00e4671bdf36c6e0"
+    },
+    {
+      "name": "hopebringer_titus_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "c858e9c58511ed877726c0618aee15543e5b2064d6611d46835f6f66dd9ec398"
+    },
+    {
+      "name": "hopebringer_titus_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "8ded1e4564d58667295196eb2956a41ba80d94893d5e6131a2be9ebdb1b56800"
+    },
+    {
+      "name": "hopebringer_titus_20261108.tar.xz.part006",
+      "bytes": 67776,
+      "sha256": "438139ad0a3cd2a03abd7375963ae04edccb825c2353a76c762a1ba38d352a61"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_titus_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 396,
+      "sha256": "cb39aa9dc545be5fd77cb66caef7d5c80377433b3a91a4fa36398c9e8cd9e4a0"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_nadina_commit": "61074906ec3d5bc7889fd03289dbf76eb27590e0",
+    "hopebringer_nadina_source_map_sha256": "09e4acb1b56ca75044ced6b677807a2f5299c47f098f38c3dadd9efb0e362e75"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Titus combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
