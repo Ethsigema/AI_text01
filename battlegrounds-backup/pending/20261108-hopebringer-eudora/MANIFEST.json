@@ -1,0 +1,277 @@
+{
+  "archive": "hopebringer_eudora_20261108.tar.xz",
+  "bytes": 2591092,
+  "sha256": "c65a461ad8f8636cfe77c704bfbcf1ce997abc1a3f879b47d4e6a15a3338807d",
+  "files": {
+    "hopebringer_eudora_20261108/BASE_MAP.json": {
+      "bytes": 4582017,
+      "sha256": "57a47c0f18da92d854dcfa8460c76668b93ea778c831d8ad0fac0ada329b7051"
+    },
+    "hopebringer_eudora_20261108/EXPECTED_ROWS.json": {
+      "bytes": 18859,
+      "sha256": "de4846321b741abc591d797649b28a7f3539a3fe01a4ef1d0cc0854165c53484"
+    },
+    "hopebringer_eudora_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_eudora_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 6563,
+      "sha256": "821d8b0decf73c2b8b4b2cbb69359c792e21cc9051a2b4395e84a9eb4f2186c7"
+    },
+    "hopebringer_eudora_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 292898,
+      "sha256": "2cc924694a32743391c32c7f7ff423508f6cf0a205cf38a009a028f5ef1b12ff"
+    },
+    "hopebringer_eudora_20261108/README.md": {
+      "bytes": 2155,
+      "sha256": "b54e5cc998602af47398479ebc69376502ee3f107c889e96a0913fe21ee40f81"
+    },
+    "hopebringer_eudora_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "02e124e19b7f7fe814da51844215b2f9b50d202ef9aed09c23a368110c52b026"
+    },
+    "hopebringer_eudora_20261108/SOURCE_DELTA.json": {
+      "bytes": 1296,
+      "sha256": "c2c2e5ba348e1bbfc229d542ce8d93d0d196792b62008cd40d17d52c1404ec6f"
+    },
+    "hopebringer_eudora_20261108/SOURCE_MAP.json": {
+      "bytes": 4582330,
+      "sha256": "423e2cf3e18e4edef0949ce180fb7145e7e8b765d01eb5feeefb4f455ac6df1e"
+    },
+    "hopebringer_eudora_20261108/VALIDATION.json": {
+      "bytes": 845,
+      "sha256": "09fc80373ed6f71bc3dd2c4e7142e062e4cf3b76c24931c92d2991b9b96a7958"
+    },
+    "hopebringer_eudora_20261108/build.py": {
+      "bytes": 3589,
+      "sha256": "3053e95dd2dc0e49e16ae41c9150b046a3efc8ec5fd1515767f3ecc6682a1fca"
+    },
+    "hopebringer_eudora_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 8141,
+      "sha256": "f8cd0b25f864ee683b6ab962a33a4f7d9f46b8917ac9f30957dbcbf14afdeb80"
+    },
+    "hopebringer_eudora_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 28575,
+      "sha256": "51db8f8b2858fc75fa969f7222844d5f10c7092734630be1a35c6a2efb1c22cf"
+    },
+    "hopebringer_eudora_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 27997,
+      "sha256": "75b474f6e647ff9d7bb1365b0467d83962dc22ddfb91ac9cba2f1bc51bce1ee2"
+    },
+    "hopebringer_eudora_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 18643,
+      "sha256": "69bbd9086b0469679b37fb480d2f4ced2cc1809043e334ecdf5842b058b190b7"
+    },
+    "hopebringer_eudora_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 18408,
+      "sha256": "e8746e42632a40728b5c94535ae2712ad2c9b5f7a3fe6efac5cb80e2635dfada"
+    },
+    "hopebringer_eudora_20261108/delta/research/hopebringer_eudora/BG33_828.native.xml": {
+      "bytes": 3818,
+      "sha256": "33703415aabb003c51321daace547e7a3320b5a9210b4f61a86ab58da4b95283"
+    },
+    "hopebringer_eudora_20261108/delta/research/hopebringer_eudora/evidence.json": {
+      "bytes": 560,
+      "sha256": "613930b18321fc2da1a53444d02d49a078ba2fbc8dbc258bcbfafbf8e8a2dbda"
+    },
+    "hopebringer_eudora_20261108/gate.gd": {
+      "bytes": 19059,
+      "sha256": "cdceb479e9048db45bdc5f10867c700ab23f7216a711530b262b80bba13320bd"
+    },
+    "hopebringer_eudora_20261108/materialize.py": {
+      "bytes": 1679,
+      "sha256": "94ef5464fffca8c025a6f1fc149ae40e356b8636d8f950b5715b3fe7c0ff0be6"
+    },
+    "hopebringer_eudora_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "4188dcbcbfc4ad9d68da94cc51570f6ea63b8c418a237b2fee5d9a76858a1d90"
+    },
+    "hopebringer_eudora_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_eudora_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 18859,
+      "sha256": "de4846321b741abc591d797649b28a7f3539a3fe01a4ef1d0cc0854165c53484"
+    },
+    "hopebringer_eudora_20261108/run_1/LAUNCH.json": {
+      "bytes": 523,
+      "sha256": "f7a6a5a8f9d6b5d6e3bd902e82871e7417b170b17abbd5f1dd5166d90452f052"
+    },
+    "hopebringer_eudora_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 292898,
+      "sha256": "2cc924694a32743391c32c7f7ff423508f6cf0a205cf38a009a028f5ef1b12ff"
+    },
+    "hopebringer_eudora_20261108/run_1/PROCESS.json": {
+      "bytes": 596,
+      "sha256": "73a0e6b488e5cde6e9b0b31a589e070863f811e8ef369f7025a285e1da9f09e7"
+    },
+    "hopebringer_eudora_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1280,
+      "sha256": "4961198ea84bc2b0cd8af65b2e219fa127bd40c228dab4bc483cf5cbb58a5e85"
+    },
+    "hopebringer_eudora_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 11096,
+      "sha256": "b0c85c5b05ac644cec4d1d4e88d11176154ea0dbd7b17a0292e097821f3b2f3c"
+    },
+    "hopebringer_eudora_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4582330,
+      "sha256": "423e2cf3e18e4edef0949ce180fb7145e7e8b765d01eb5feeefb4f455ac6df1e"
+    },
+    "hopebringer_eudora_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 116974,
+      "sha256": "4df8e07c2ecc5d5ae08087b1b86727c7e59be400084f3ffdf3608a47cb781066"
+    },
+    "hopebringer_eudora_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 44079,
+      "sha256": "a93d436591f22b2af33481c484a878d816abaff26b991d545175da3ebfccf5be"
+    },
+    "hopebringer_eudora_20261108/run_1/data/report.json": {
+      "bytes": 3639700,
+      "sha256": "f1302b4f76c62d133009a752c931e87d07a43449a13a74db9dd28160d076dbef"
+    },
+    "hopebringer_eudora_20261108/run_1/gate_executed.gd": {
+      "bytes": 18903,
+      "sha256": "442310bfddfc7c1c71d92b2e9e9e14408e41792fb085abe2b4567355d1bb5a75"
+    },
+    "hopebringer_eudora_20261108/run_1/native.log": {
+      "bytes": 561,
+      "sha256": "09dfd909abdf11063475629f4a260b48ea846e81ffd668cbb69a4eab7d18082c"
+    },
+    "hopebringer_eudora_20261108/run_2/EXPECTED_ROWS.json": {
+      "bytes": 18859,
+      "sha256": "de4846321b741abc591d797649b28a7f3539a3fe01a4ef1d0cc0854165c53484"
+    },
+    "hopebringer_eudora_20261108/run_2/LAUNCH.json": {
+      "bytes": 523,
+      "sha256": "617d4923dbac04f5bec161bfa0ea3a4fcd8fcfc256ac5ee432100a12b0e76e9e"
+    },
+    "hopebringer_eudora_20261108/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 292898,
+      "sha256": "2cc924694a32743391c32c7f7ff423508f6cf0a205cf38a009a028f5ef1b12ff"
+    },
+    "hopebringer_eudora_20261108/run_2/PROCESS.json": {
+      "bytes": 596,
+      "sha256": "eba229872c680751f1cc838f4ad56899d8055e4eb6bec37e2eea32e61cbdf6f9"
+    },
+    "hopebringer_eudora_20261108/run_2/SOURCE_DELTA.json": {
+      "bytes": 1280,
+      "sha256": "4961198ea84bc2b0cd8af65b2e219fa127bd40c228dab4bc483cf5cbb58a5e85"
+    },
+    "hopebringer_eudora_20261108/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 11096,
+      "sha256": "b0c85c5b05ac644cec4d1d4e88d11176154ea0dbd7b17a0292e097821f3b2f3c"
+    },
+    "hopebringer_eudora_20261108/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4582330,
+      "sha256": "423e2cf3e18e4edef0949ce180fb7145e7e8b765d01eb5feeefb4f455ac6df1e"
+    },
+    "hopebringer_eudora_20261108/run_2/data/before_combat.native_save.json": {
+      "bytes": 116974,
+      "sha256": "4df8e07c2ecc5d5ae08087b1b86727c7e59be400084f3ffdf3608a47cb781066"
+    },
+    "hopebringer_eudora_20261108/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 44079,
+      "sha256": "a93d436591f22b2af33481c484a878d816abaff26b991d545175da3ebfccf5be"
+    },
+    "hopebringer_eudora_20261108/run_2/data/report.json": {
+      "bytes": 8277257,
+      "sha256": "ff0642fadcf863bd759b65b4871bad88583bfa65fcdd4651007742e1e1d6eec0"
+    },
+    "hopebringer_eudora_20261108/run_2/data/terminal.native_save.json": {
+      "bytes": 806538,
+      "sha256": "229d934e6b60173b47ca5d750b7e2710195dc881db7e09cf78fdad45ccb6f6a6"
+    },
+    "hopebringer_eudora_20261108/run_2/gate_executed.gd": {
+      "bytes": 19059,
+      "sha256": "cdceb479e9048db45bdc5f10867c700ab23f7216a711530b262b80bba13320bd"
+    },
+    "hopebringer_eudora_20261108/run_2/native.log": {
+      "bytes": 561,
+      "sha256": "c01d98df1a7817e881f7889f329c1e1b87d9c3b7fd9185b6e369cb59b2064126"
+    },
+    "hopebringer_eudora_20261108/seal.py": {
+      "bytes": 3998,
+      "sha256": "e7337a7c6ef7e997db00e22d7c1693909915c3e08b8a55d2ecfcbf7448eb3bf7"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_eudora_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "fb95253b4ad7a3ea40bcb48a3bbad92de2f68aaae8a56a01edc97933d5c64f47"
+    },
+    {
+      "name": "hopebringer_eudora_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "905bf0218db47024a1c59565e9c0c480a3893cdfe9903c50017822f9bfb4b518"
+    },
+    {
+      "name": "hopebringer_eudora_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "4acaea9939edde26e1b47874239ebccdc67fefd786ca2fd7a069be32ea2c037b"
+    },
+    {
+      "name": "hopebringer_eudora_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "61646599b5abb6b015b799c9f296f1b517ec993ebf2843a2512f5af8516053c7"
+    },
+    {
+      "name": "hopebringer_eudora_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "50ece6a05e8b76f43f10258ee0b1610f42c123675959b0b93391748296fae00a"
+    },
+    {
+      "name": "hopebringer_eudora_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "5809b584f67006699df42cfbdc419c4ba1d5aba4ff108ef6497b1d71f3b440eb"
+    },
+    {
+      "name": "hopebringer_eudora_20261108.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "502090e5bf3b3f42216d54320073bf345842984c78f31da7ce4f7a0fead83922"
+    },
+    {
+      "name": "hopebringer_eudora_20261108.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "5b78aa9bde91295a5ae995695bc0b4402cbe556100f05641a5f2f31544ac24e6"
+    },
+    {
+      "name": "hopebringer_eudora_20261108.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "1a2a2c8fb777d1ca1ceb74f461c703027f85747fbe5ea4c894dd75b1f10b7369"
+    },
+    {
+      "name": "hopebringer_eudora_20261108.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "0b043244043e7b435a96d2a725fd66b6a57835bbedf826d872a4a746d168f452"
+    },
+    {
+      "name": "hopebringer_eudora_20261108.tar.xz.part010",
+      "bytes": 91092,
+      "sha256": "2de964efabbd6c3a04366eaeea3f69f5f936076c7c700dcc325a289c0f66c371"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_eudora_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 398,
+      "sha256": "0df4673c17f733acf12d43320d085a2d7b46eff5257505d3451329f4e6f4b21e"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_forsaken_commit": "bf629d63258373402b89dae856bfbf61e89b85df",
+    "hopebringer_forsaken_source_map_sha256": "57a47c0f18da92d854dcfa8460c76668b93ea778c831d8ad0fac0ada329b7051"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Eudora combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 48,
+    "credential_pattern_flags": []
+  }
+}
