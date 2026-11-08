@@ -1,0 +1,213 @@
+{
+  "archive": "hopebringer_venom_20261108.tar.xz",
+  "bytes": 1579900,
+  "sha256": "7c52cf4bcadac9d739d894e275e8854544ab8ec32137e5e1fe0d099417404095",
+  "files": {
+    "hopebringer_venom_20261108/BASE_MAP.json": {
+      "bytes": 4588141,
+      "sha256": "ba4a83a9e17a7721676468613b7f66415ff3a9835851752b68ecee8fe50fcfa9"
+    },
+    "hopebringer_venom_20261108/EXPECTED_ROWS.json": {
+      "bytes": 29917,
+      "sha256": "d2b9c570e63dcf43ddc83f41a7fd8e2b7976859ba46b615a710b45d1b3ac9def"
+    },
+    "hopebringer_venom_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_venom_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5046,
+      "sha256": "5b37626558f843733aa0a5cc0566f8136c69b09851433c04a42087db5f660a20"
+    },
+    "hopebringer_venom_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 302892,
+      "sha256": "c9c75f71897bd5e5a6332d3ded7e80a231881e33a2ea371cfdb6506677cdcdc6"
+    },
+    "hopebringer_venom_20261108/README.md": {
+      "bytes": 1350,
+      "sha256": "8f95554c7789656344ffe294c335f9412cc4d0604790ac37d0726eb283497e1a"
+    },
+    "hopebringer_venom_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "hopebringer_venom_20261108/SOURCE_DELTA.json": {
+      "bytes": 1447,
+      "sha256": "0ea2df53db6d93bfd62d59f43bc7f220c7c3f12ad16f495269593a200efa900e"
+    },
+    "hopebringer_venom_20261108/SOURCE_MAP.json": {
+      "bytes": 4588612,
+      "sha256": "942a26eeed2777253701d2aa30acc53a488945514aec151dc32127b8ec767527"
+    },
+    "hopebringer_venom_20261108/VALIDATION.json": {
+      "bytes": 943,
+      "sha256": "cde4a31e09446d1c4bcf53944c15688e59f738a9205e7c1a4f7c70a2f65c49b9"
+    },
+    "hopebringer_venom_20261108/build.py": {
+      "bytes": 3935,
+      "sha256": "7de2c00fd59490acbdbf41ff2d4271d1e078411a64813c938bbd800356907c75"
+    },
+    "hopebringer_venom_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 13148,
+      "sha256": "b5414e9e069d1679b0d649995add9404e9a7055a319a89c5a805b9a6aceaa416"
+    },
+    "hopebringer_venom_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 46107,
+      "sha256": "1937fa6ed718ca6a98949cc60c58a1b22bceb5f721b354a24512ec20fdecd7d6"
+    },
+    "hopebringer_venom_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 45529,
+      "sha256": "7d037fcbaac41ad4bfe9c342f38593196103859f2fa1dc0717e3dd6cb80c31f7"
+    },
+    "hopebringer_venom_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 24172,
+      "sha256": "3b358c0c1843835a9481489ff8fc2604879b3450c4d5850528b62e03844b66a9"
+    },
+    "hopebringer_venom_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 23937,
+      "sha256": "a591a2bdaf464b268565481c1f8c13dce133ef696bd6d3e5b7fe4f6f0afe1cbd"
+    },
+    "hopebringer_venom_20261108/delta/research/hopebringer_venom/BG22_202.native.xml": {
+      "bytes": 2444,
+      "sha256": "1b82269753284a428eb1b91e4ebd0ff81ba4af9d855d1eebdb17f616ed7893ff"
+    },
+    "hopebringer_venom_20261108/delta/research/hopebringer_venom/BG33_318.native.xml": {
+      "bytes": 3508,
+      "sha256": "16377be39741f0675c375e683b907d79d634be271f6b468e02fa5ee03ad033d8"
+    },
+    "hopebringer_venom_20261108/delta/research/hopebringer_venom/evidence.json": {
+      "bytes": 1022,
+      "sha256": "45b95381d019d2eccd2484a75d1f3aee4c4296f9e78dc4ba5f0d8f4f93407720"
+    },
+    "hopebringer_venom_20261108/gate.gd": {
+      "bytes": 19184,
+      "sha256": "f0dfecc0d510bb23cb55456d14ed882e46aff5983e3ed4dbe5892d8abbceb097"
+    },
+    "hopebringer_venom_20261108/materialize.py": {
+      "bytes": 1679,
+      "sha256": "aabd0b75b2d372cf676d2f738715ef950e64ce49db6013a3945d38db212086e2"
+    },
+    "hopebringer_venom_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "81e90da243e5f2e872784a671524d57f4ff0e2cbdb454f285ba7cb8bce7d89f9"
+    },
+    "hopebringer_venom_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_venom_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 29917,
+      "sha256": "d2b9c570e63dcf43ddc83f41a7fd8e2b7976859ba46b615a710b45d1b3ac9def"
+    },
+    "hopebringer_venom_20261108/run_1/LAUNCH.json": {
+      "bytes": 521,
+      "sha256": "ebc17852d83ad8c2804d202fd2f562834ee1ac1be59ba3ef3d53b1e8e7318c2a"
+    },
+    "hopebringer_venom_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 302892,
+      "sha256": "c9c75f71897bd5e5a6332d3ded7e80a231881e33a2ea371cfdb6506677cdcdc6"
+    },
+    "hopebringer_venom_20261108/run_1/PROCESS.json": {
+      "bytes": 595,
+      "sha256": "76810461964f836c5bf808ce5a80885aed1baac12f6470de6667834d5653a5b0"
+    },
+    "hopebringer_venom_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1447,
+      "sha256": "0ea2df53db6d93bfd62d59f43bc7f220c7c3f12ad16f495269593a200efa900e"
+    },
+    "hopebringer_venom_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 14760,
+      "sha256": "a742725e194dcc14bb45e70e4f454e91cf01772bedea0c1739f3e22877aee154"
+    },
+    "hopebringer_venom_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4588612,
+      "sha256": "942a26eeed2777253701d2aa30acc53a488945514aec151dc32127b8ec767527"
+    },
+    "hopebringer_venom_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 77660,
+      "sha256": "a4011d41ed3da4a162971e03c8d112810f90759d5c4e21e56df137019cd5c983"
+    },
+    "hopebringer_venom_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 38463,
+      "sha256": "8f2dfa141be3b2c6de3ecbd75a8ee3d82f20713d7f7ee60fbe6b6d76086c3f82"
+    },
+    "hopebringer_venom_20261108/run_1/data/report.json": {
+      "bytes": 6992942,
+      "sha256": "ea8a3747f30d9d039d5f5c3b7a8a969a9c86e9725686f7717c0ecf9f7c6e0eb6"
+    },
+    "hopebringer_venom_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 749334,
+      "sha256": "15ef4c917446b79ef4d4d588fa3dc323fe3a8b16311828959d2125d67eda8b4a"
+    },
+    "hopebringer_venom_20261108/run_1/gate_executed.gd": {
+      "bytes": 19184,
+      "sha256": "f0dfecc0d510bb23cb55456d14ed882e46aff5983e3ed4dbe5892d8abbceb097"
+    },
+    "hopebringer_venom_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "7ebbce9474ca01c1e79fc4ca88ee5fb1239d128cc8619bb669f641b45c0427a6"
+    },
+    "hopebringer_venom_20261108/seal.py": {
+      "bytes": 4057,
+      "sha256": "c2dc59969a6851c95e5d04434dff0ddb8428c456f44ac4beb199402c230047a0"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_venom_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "d3397b8433659de5ec7e7358a4c769fe3802b24465ecb9d40bd28db36bcca5ca"
+    },
+    {
+      "name": "hopebringer_venom_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "9a6b51f1445039cc44756c8e41c86dae35224ff2f1a1c6e7ba9330ae8cafe14c"
+    },
+    {
+      "name": "hopebringer_venom_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "69eb5e69909065243434896d3e0e2e1bb04a01091c5bf03e214a1f5644901238"
+    },
+    {
+      "name": "hopebringer_venom_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "6b3d7622bb57c235140b484e9ce23da5f09e95998d2e2b797fa2c15f85020a8f"
+    },
+    {
+      "name": "hopebringer_venom_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "62d8aae3528f0c511ddbbe5db084c73c3794ad9e98a48b4832fd5831665d4386"
+    },
+    {
+      "name": "hopebringer_venom_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "0138eb8438bb3405ffa05120e585aa60d971808197234af620db9c6ab2851634"
+    },
+    {
+      "name": "hopebringer_venom_20261108.tar.xz.part006",
+      "bytes": 79900,
+      "sha256": "59ab41c09c0eb3eaa6c8cf1e8f0a59b4d1218436fad169b0a5ccc5cfd27adad3"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_venom_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 450,
+      "sha256": "81ac1716b1620879ebcaa5d0376370daa071920b07a70d7fc4963d7e33848336"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_sindorei_commit": "fb89af905dfd627034e2eef8c634bccc8b00ca4d",
+    "hopebringer_sindorei_source_map_sha256": "ba4a83a9e17a7721676468613b7f66415ff3a9835851752b68ecee8fe50fcfa9"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Bile Spitter venom Rally combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
