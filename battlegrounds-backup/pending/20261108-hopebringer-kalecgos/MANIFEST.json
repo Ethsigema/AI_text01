@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_kalecgos_20261108.tar.xz",
+  "bytes": 1598368,
+  "sha256": "0e3aab2f76a4e345a7e12edf0834a4ce1ec29df914f5612c90744575e6011970",
+  "files": {
+    "hopebringer_kalecgos_20261108/BASE_MAP.json": {
+      "bytes": 4594487,
+      "sha256": "8d101d811bb61f6dfdb7ede936562fdacfb142e567d69316a1f477037f7bc190"
+    },
+    "hopebringer_kalecgos_20261108/EXPECTED_ROWS.json": {
+      "bytes": 39861,
+      "sha256": "27f95c742d2b3cb392f53a436fdfb0843251031d843428e2e39d5de8f7daacad"
+    },
+    "hopebringer_kalecgos_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_kalecgos_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4885,
+      "sha256": "817d9c80d01f4acd54e9202c2a73a2f45af0e262177ecf4e84356e8c4a819cbb"
+    },
+    "hopebringer_kalecgos_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 312765,
+      "sha256": "14d8f18f8c3551857c7de5258bdc6398feded40c3d773837f7155e9377386602"
+    },
+    "hopebringer_kalecgos_20261108/README.md": {
+      "bytes": 1073,
+      "sha256": "a7a806c7dcfa4cf5aa1003903d0e916c4114fdb27ea3f705453c383f5a0d644e"
+    },
+    "hopebringer_kalecgos_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_kalecgos_20261108/SOURCE_DELTA.json": {
+      "bytes": 1283,
+      "sha256": "ad0b5f3d77ac93d3dafe5b1ab41f6615753656a27b6167e56b8655bcbf140dec"
+    },
+    "hopebringer_kalecgos_20261108/SOURCE_MAP.json": {
+      "bytes": 4594803,
+      "sha256": "c7b7e6e47b59346f7c2e1f9799ad631c2e074c802f46b21a1ba444abcb645c71"
+    },
+    "hopebringer_kalecgos_20261108/VALIDATION.json": {
+      "bytes": 904,
+      "sha256": "e04791473c1e9db0017b919c5d7191413ed4ccf8eb27b5084fc56ae73885aebe"
+    },
+    "hopebringer_kalecgos_20261108/build.py": {
+      "bytes": 3623,
+      "sha256": "cb33f7052b36bf870ac26c0f87bb19b939fa2fccf046dea326dff0ef148a0f7a"
+    },
+    "hopebringer_kalecgos_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 16944,
+      "sha256": "5f2513aecf3adf8a1f61bd0284eccef07538a70f363bfa29edb666239084899e"
+    },
+    "hopebringer_kalecgos_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 62492,
+      "sha256": "9f19e132c85135c5086978b0f7130250b368536e9553431d280d0ce538e22140"
+    },
+    "hopebringer_kalecgos_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 61914,
+      "sha256": "f9365d4878b86c169e88377c0596007c042d9a3c50b5db615cd93973a2ec0087"
+    },
+    "hopebringer_kalecgos_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 29144,
+      "sha256": "2669fe4c8c64d3abbab7d0799fd3eb372a1c0fe51eeaa382cd56f21d9c445c3a"
+    },
+    "hopebringer_kalecgos_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 28909,
+      "sha256": "cd0ef2921eaf2d03a4c89b5ab72a0195706087c75113a9e85c62cef8d1cceb0a"
+    },
+    "hopebringer_kalecgos_20261108/delta/research/hopebringer_kalecgos/BGS_041.native.xml": {
+      "bytes": 3502,
+      "sha256": "b0c27e35370cdfa58337fc278c2116a5e10cfcaacf100a2d5a22c2bb5f5b35da"
+    },
+    "hopebringer_kalecgos_20261108/delta/research/hopebringer_kalecgos/evidence.json": {
+      "bytes": 615,
+      "sha256": "55f5bb916fab01723d30ec8b839b600d1ff6fba189a4b3f2dafc6ff019698862"
+    },
+    "hopebringer_kalecgos_20261108/gate.gd": {
+      "bytes": 19227,
+      "sha256": "c766cc15ef21c206600def67c4e67becfb1e303533200dbf21abc85af87691ae"
+    },
+    "hopebringer_kalecgos_20261108/materialize.py": {
+      "bytes": 1677,
+      "sha256": "678a908ffa63a06058b3276b6aa464e852668fa59ef503fa15da99fd22552a75"
+    },
+    "hopebringer_kalecgos_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1169,
+      "sha256": "484c51d2eb59f253993d10afc3d3695f81322cd94d508ece8143f603565be743"
+    },
+    "hopebringer_kalecgos_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_kalecgos_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 39861,
+      "sha256": "27f95c742d2b3cb392f53a436fdfb0843251031d843428e2e39d5de8f7daacad"
+    },
+    "hopebringer_kalecgos_20261108/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "9112e9fd6729ecf11845b6fb69fab6db28ba816d8d62d10c18ddb4853a4a580e"
+    },
+    "hopebringer_kalecgos_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 312765,
+      "sha256": "14d8f18f8c3551857c7de5258bdc6398feded40c3d773837f7155e9377386602"
+    },
+    "hopebringer_kalecgos_20261108/run_1/PROCESS.json": {
+      "bytes": 600,
+      "sha256": "130317224e1ee3c0da56580f02f0e37f27e7e78272eafd79b207ac3468e15d5d"
+    },
+    "hopebringer_kalecgos_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1283,
+      "sha256": "ad0b5f3d77ac93d3dafe5b1ab41f6615753656a27b6167e56b8655bcbf140dec"
+    },
+    "hopebringer_kalecgos_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 17160,
+      "sha256": "21afb5c04ccfbcb0a5ac4c3347f61bb22571361123b1fb8cc39c6c914e6474ca"
+    },
+    "hopebringer_kalecgos_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4594803,
+      "sha256": "c7b7e6e47b59346f7c2e1f9799ad631c2e074c802f46b21a1ba444abcb645c71"
+    },
+    "hopebringer_kalecgos_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 82402,
+      "sha256": "76902e2b97635c6b8904a831d58279ff2a948150ef3fa09441444baa48d05774"
+    },
+    "hopebringer_kalecgos_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 38080,
+      "sha256": "73598092ced9915ea940d05a69754fd751f962f1a92a2ceb3607f214c577a5d0"
+    },
+    "hopebringer_kalecgos_20261108/run_1/data/report.json": {
+      "bytes": 7284612,
+      "sha256": "31ab395c8390178c440b6a337862cc730d96bf3ba737eaf29e7b600cf91f12e2"
+    },
+    "hopebringer_kalecgos_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 778956,
+      "sha256": "0ef39f1e04c20a6a42a39f71f5d3675daffc4ac4a3d62d98b9098e5115819168"
+    },
+    "hopebringer_kalecgos_20261108/run_1/gate_executed.gd": {
+      "bytes": 19227,
+      "sha256": "c766cc15ef21c206600def67c4e67becfb1e303533200dbf21abc85af87691ae"
+    },
+    "hopebringer_kalecgos_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "cf804e80e60e11c51f53503cc70990dab721f0e30f73968d58ef451fb200312a"
+    },
+    "hopebringer_kalecgos_20261108/seal.py": {
+      "bytes": 3930,
+      "sha256": "90a0d7f05dbe07c67c1bd1bc19e76f92827ebaf55ff8a5b5854eda28f230ede7"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_kalecgos_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "b8009a3031d4e01084c381c525ed5059f64956578ca6ec00dfde19b01fb0e56e"
+    },
+    {
+      "name": "hopebringer_kalecgos_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "d2f2ef35dbe26bcb5c5309876f0487a1e154a389126732bcfbdeb5de13a74801"
+    },
+    {
+      "name": "hopebringer_kalecgos_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "31786a470192c51460b26269cee4c8e735f06f24c46c3ceebdb9db98d4589af4"
+    },
+    {
+      "name": "hopebringer_kalecgos_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "7755d62743392ff732b32d06c33a62a4fa9ff15991899c7ff9dfa31d3469b698"
+    },
+    {
+      "name": "hopebringer_kalecgos_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "49985e33dc7852026fb12b53c4ac75f81b476822e0f9f6a1be65a40b4e624eb6"
+    },
+    {
+      "name": "hopebringer_kalecgos_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "333841a3fa62eb7da7611d2c134233934bacce991e2a25215ded0857cb1a7a4c"
+    },
+    {
+      "name": "hopebringer_kalecgos_20261108.tar.xz.part006",
+      "bytes": 98368,
+      "sha256": "2b800656a48105d44040a7076ebc1220e46553aaa3af2beec7f19b0795fd5492"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_kalecgos_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 401,
+      "sha256": "7c853b1a3e9a4cd0d0d3a898fa01967e10157dede59262eba991ec4cbcc02be7"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_prophet_commit": "49ac922df9660f2eea0ad6b30906fd0ee2a3c0c3",
+    "hopebringer_prophet_source_map_sha256": "8d101d811bb61f6dfdb7ede936562fdacfb142e567d69316a1f477037f7bc190"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Kalecgos Battlecry Dragon buff combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
