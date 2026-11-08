@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_humming",
+      "commit": "f7919f28d466cb2cf3b4ac463659937351b01777",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-humming",
+      "manifest_sha256": "51f81d6af9da44778337ef18c8a10d7a4ebeed3021b5fef4db5336f557b29d3b",
+      "archive": "hopebringer_humming_20261108.tar.xz",
+      "archive_sha256": "8e1b9fd84a1b144c551b07f633e6c2fd02d91773786389399240895522373d54",
+      "archive_bytes": 1577040,
+      "parts_verified": 7,
+      "members_verified": 36,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_banana": "801ee9d585dbf6b6bc51b57f89ec3dc769c644d23799867cd600db71f1791d28",
+    "hopebringer_humming": "75ab1ea4ff1dcd8e57495841c0f1e17c7ace505645eea9d0b8abd4b9f8becdc6"
+  },
+  "hopebringer_banana_source_byte_equals_hopebringer_humming_base": true,
+  "baseline_files_rehashed": 27782,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "4efd13486f8eb3d0cb18865b3095b6412cdc7038bf76eac315a8f559da5227e7",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_humming/BG26_805.native.xml",
+      "research/hopebringer_humming/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27784,
+  "restored_bytes": 1548326479,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "18f89636d4c2aa8750e54178454711ccda2c153fd745d808abd5c502aeacf98d",
+  "prior_whole_chain_via_hopebringer_banana_to_hopebringer_humming_map_continuity": true,
+  "supporting_hopebringer_banana_chain_receipt_sha256": "435bd80d14d81a27e7cae4e8cbf3e8be8dc046a02c59de9c82008c3239db609a",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Banana baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Humming increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T10:55:55.190438+00:00"
+}
