@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_executor",
+      "commit": "494937c2cd2caaf19c53f3ff56a3ce85a5adb5cd",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-executor",
+      "manifest_sha256": "e1e2404d461955fd1e97a04a62c1d70c8a3d4059ca5641ff0b7667cd3afa13dc",
+      "archive": "hopebringer_executor_20261108.tar.xz",
+      "archive_sha256": "1402ee584d4a6e78cac7ca1fc91e806316ee61c6917b560a02fb61f2cbde2e73",
+      "archive_bytes": 1601824,
+      "parts_verified": 7,
+      "members_verified": 36,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_costume": "3f25aeca6742477e702ba19c7ee90f0af5d0528b8f37512d57115d5e8e7e56b0",
+    "hopebringer_executor": "40e55a22bbd70f972c6c8b0e7e61e880dbbf6c39f73d2f677f2964080ee51985"
+  },
+  "hopebringer_costume_source_byte_equals_hopebringer_executor_base": true,
+  "baseline_files_rehashed": 27848,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "f4b8c9785d92cd22541598d25fee87e47d13c7ccdd5f154becd1f6a3ffa03717",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_executor/BG34_500.native.xml",
+      "research/hopebringer_executor/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27850,
+  "restored_bytes": 1548543144,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "0d8a735b6656ec5fa63fc1a0696b1b8a14d8ea4ce40b50e2640fb6eaf5cb285f",
+  "prior_whole_chain_via_hopebringer_costume_to_hopebringer_executor_map_continuity": true,
+  "supporting_hopebringer_costume_chain_receipt_sha256": "40955b7bac81107a8c3d1e019d07ddcb0ed6c680c590a64c3d713d449dcde184",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Costume baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Executor increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T18:27:42.224473+00:00"
+}
