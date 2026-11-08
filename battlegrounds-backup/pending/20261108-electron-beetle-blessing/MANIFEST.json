@@ -1,0 +1,203 @@
+{
+  "archive": "electron_beetle_blessing_20261108.tar.xz",
+  "bytes": 1087648,
+  "sha256": "d95dfe8dd2a7c537208674ff86e1b516fc441927e9375b37ca2d6b86d6e50d30",
+  "files": {
+    "electron_beetle_blessing_20261108/BASE_MAP.json": {
+      "bytes": 4576473,
+      "sha256": "d08421c3d32fd5f07e583b10e64a85b56ef39b596944fc0023ffaa617d05f93a"
+    },
+    "electron_beetle_blessing_20261108/EXPECTED_ROWS.json": {
+      "bytes": 30603,
+      "sha256": "8b3e91f52427cbc4e84eb8182db460c4f9aa7e5856a77d88840d1ee8611a8610"
+    },
+    "electron_beetle_blessing_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_beetle_blessing_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5052,
+      "sha256": "23ce38d55018ef1fba77dfa9c9b27b27820a4a26399fb163299f9395b3a3ec3d"
+    },
+    "electron_beetle_blessing_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 283772,
+      "sha256": "27968a83147890577e42c916ff233d235f4c1bb0f831dcd001867ab555ad8fc0"
+    },
+    "electron_beetle_blessing_20261108/README.md": {
+      "bytes": 1608,
+      "sha256": "440851ca6205e0963d31e85c6d5c678ae42ab13c977555e5f987377382195c59"
+    },
+    "electron_beetle_blessing_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_beetle_blessing_20261108/SOURCE_DELTA.json": {
+      "bytes": 1321,
+      "sha256": "39799213e54d88f907620d922467d266441cf6c81ee51c7e2e928e1cda77be87"
+    },
+    "electron_beetle_blessing_20261108/SOURCE_MAP.json": {
+      "bytes": 4576798,
+      "sha256": "c91bbad9c9d37b2c27a6a2ab774b374c2ba5dafb60a331a94f7fe0b29f3952e7"
+    },
+    "electron_beetle_blessing_20261108/VALIDATION.json": {
+      "bytes": 852,
+      "sha256": "43b1530c8bfc2d538c4295a56862b6b7c39e5c8c80405ac148e29b1aa9c09753"
+    },
+    "electron_beetle_blessing_20261108/build.py": {
+      "bytes": 3623,
+      "sha256": "9bb300dd4b00add886cba3dcb046ac649a2a4964c159b958823a0418fce209f8"
+    },
+    "electron_beetle_blessing_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 56575,
+      "sha256": "fb4ba7d5c94a52b10a5b7ce5637391b711c6238119793f85db548dfcb3fe2ade"
+    },
+    "electron_beetle_blessing_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 54628,
+      "sha256": "5b89fd005cdfbf120c45d1e7df7489f4b6785cab7e6b7c5be0315e50c1b98a4b"
+    },
+    "electron_beetle_blessing_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 22928,
+      "sha256": "e87226d1c169f33f85d3dd946b04f4819f76c175cc2b7788c9f3f6d747563e92"
+    },
+    "electron_beetle_blessing_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 28344,
+      "sha256": "c8986a2f8ac13e5abf65479bd1a08df2d9f504ec0fb68c30b8587e5297ca915b"
+    },
+    "electron_beetle_blessing_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 27134,
+      "sha256": "d7a85d72863be341c700c53f52737c6b93e971bc637ee9edcc8f723e553ec518"
+    },
+    "electron_beetle_blessing_20261108/delta/research/electron_beetle_blessing/BG28_603.native.xml": {
+      "bytes": 4384,
+      "sha256": "4e1b7469d468bfad100db985ff57fb3181d6c2f9b2de6654d9a0bd8879b6fb69"
+    },
+    "electron_beetle_blessing_20261108/delta/research/electron_beetle_blessing/evidence.json": {
+      "bytes": 672,
+      "sha256": "6036d53debb685a50a0797d07c49ea485ac84eb08bab819f81e0693d20f398bb"
+    },
+    "electron_beetle_blessing_20261108/gate.gd": {
+      "bytes": 21397,
+      "sha256": "f8fc9af6eae1339773e7df931e97e5ef27d4821d9ada77056420374264d86a90"
+    },
+    "electron_beetle_blessing_20261108/materialize.py": {
+      "bytes": 1685,
+      "sha256": "c9100753e4035cb8c4c90bcab18ca2eb6c3b96484515f55d1986af5e931ab6ea"
+    },
+    "electron_beetle_blessing_20261108/prepare_gate.py": {
+      "bytes": 3821,
+      "sha256": "0917c6edad460da8051cc5b0a914e4a85cf6e3639b61fbf33ad13c47901530b5"
+    },
+    "electron_beetle_blessing_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1175,
+      "sha256": "a1cd6e9a389a966b64fe39955a512761732efa0dff31a385e5916fe85bba1380"
+    },
+    "electron_beetle_blessing_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_beetle_blessing_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 30603,
+      "sha256": "8b3e91f52427cbc4e84eb8182db460c4f9aa7e5856a77d88840d1ee8611a8610"
+    },
+    "electron_beetle_blessing_20261108/run_1/LAUNCH.json": {
+      "bytes": 535,
+      "sha256": "d6acdad75f9e8c963269ca224e2ed12bfd95a1ef260a164ee850400be28d4dde"
+    },
+    "electron_beetle_blessing_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 283772,
+      "sha256": "27968a83147890577e42c916ff233d235f4c1bb0f831dcd001867ab555ad8fc0"
+    },
+    "electron_beetle_blessing_20261108/run_1/PROCESS.json": {
+      "bytes": 608,
+      "sha256": "02d19a68c77745c3a50674f79ffa87c9b44fd85b82960003ae691a3d95ca69d9"
+    },
+    "electron_beetle_blessing_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1321,
+      "sha256": "39799213e54d88f907620d922467d266441cf6c81ee51c7e2e928e1cda77be87"
+    },
+    "electron_beetle_blessing_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 18760,
+      "sha256": "f20a0af4e26527b41d06af0c5327c46025b582ad1af458aa5684d78a2366e28f"
+    },
+    "electron_beetle_blessing_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4576798,
+      "sha256": "c91bbad9c9d37b2c27a6a2ab774b374c2ba5dafb60a331a94f7fe0b29f3952e7"
+    },
+    "electron_beetle_blessing_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 32022,
+      "sha256": "666cfacc142923f3db8d39836f627d1e9704f4866d90f24747cad2ae71b09f6e"
+    },
+    "electron_beetle_blessing_20261108/run_1/data/pending_outcomes.native_save.json": {
+      "bytes": 72186,
+      "sha256": "103ccb07bfacd616868d6e1ca17438271b46eb18a8e84d30bdab21a59adf9684"
+    },
+    "electron_beetle_blessing_20261108/run_1/data/report.json": {
+      "bytes": 2091814,
+      "sha256": "dc93cf74413d3b73b78e54151e1babcd71a11b37b6ccf9d44900a35a18f4938d"
+    },
+    "electron_beetle_blessing_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 117112,
+      "sha256": "9a48d7aabac0431f29ec6be724844980a4bcabb062be5bf709e952d6b23ed722"
+    },
+    "electron_beetle_blessing_20261108/run_1/gate_executed.gd": {
+      "bytes": 21397,
+      "sha256": "f8fc9af6eae1339773e7df931e97e5ef27d4821d9ada77056420374264d86a90"
+    },
+    "electron_beetle_blessing_20261108/run_1/native.log": {
+      "bytes": 455,
+      "sha256": "77f32e41870e45a1fcb9955deb961336327d718e583fa508f8a3f6a3553d07a0"
+    },
+    "electron_beetle_blessing_20261108/seal.py": {
+      "bytes": 4713,
+      "sha256": "ac0a6d687b0c7d9ab04e08ac87b1b94d66e60550c7db2e9fc0968faa042cfc79"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_beetle_blessing_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "d3179c880e1eab6a39860524261c8dbdb4c35db7105fed8572f09fc2645466bc"
+    },
+    {
+      "name": "electron_beetle_blessing_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "703b034421cdb475117d3f0b718ee54434c9e7184675faecbcde17b045eedd26"
+    },
+    {
+      "name": "electron_beetle_blessing_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "56fcd094b673a37c71bf4ecd23c35ca4c1643f362c70b789c1b61e09430234c0"
+    },
+    {
+      "name": "electron_beetle_blessing_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "339b8435a2b8ec9f241e1d96617a3eb632b32f8c09464c11b40bcd80832525d1"
+    },
+    {
+      "name": "electron_beetle_blessing_20261108.tar.xz.part004",
+      "bytes": 87648,
+      "sha256": "78c18b11466f867a843eaaef91e09811e9c64759c4d1e002c9572db4ebabbe43"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_beetle_blessing_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 437,
+      "sha256": "6fac6c42a7e7ca2aa238fd6c050139a91fc072d4d10bc1ce736ba8bf18a122d7"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "gem_confiscation_commit": "da0e22c7eb889bc039c423f6073b798e27397c54",
+    "gem_confiscation_source_map_sha256": "d08421c3d32fd5f07e583b10e64a85b56ef39b596944fc0023ffaa617d05f93a"
+  },
+  "status": "Source recovery increment only. Bounded Beetle Blessing interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
