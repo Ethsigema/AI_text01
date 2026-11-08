@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_geomancer",
+      "commit": "227347493d6a30bff7a7f284b8dc9cac8540b5a0",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-geomancer",
+      "manifest_sha256": "46d33df036273626d796dfd2286eefb075f7ef8c57a5771a038739d185abb99e",
+      "archive": "hopebringer_geomancer_20261108.tar.xz",
+      "archive_sha256": "a4654dcee8225c0c35126279c1855d4146a4dc793a388f1fbc7b3f0d6431914d",
+      "archive_bytes": 1597916,
+      "parts_verified": 7,
+      "members_verified": 48,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_brann": "b8eb523573635a49b49f81f0d8b2cecb33f221b77896d5aa53fca04909a066f2",
+    "hopebringer_geomancer": "f05abac1c5b185aab5ea1b68643f9a2e7447008203f3dd515e459b4d8498cbcf"
+  },
+  "hopebringer_brann_source_byte_equals_hopebringer_geomancer_base": true,
+  "baseline_files_rehashed": 27810,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "e85cbd1c04c637f5aad7cd7b60482675467eb5d16b8e5ca1ccdcc986c3faab86",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_geomancer/BG20_100.native.xml",
+      "research/hopebringer_geomancer/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27812,
+  "restored_bytes": 1548415354,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "18f89636d4c2aa8750e54178454711ccda2c153fd745d808abd5c502aeacf98d",
+  "prior_whole_chain_via_hopebringer_brann_to_hopebringer_geomancer_map_continuity": true,
+  "supporting_hopebringer_brann_chain_receipt_sha256": "4591cbfe560fafb6e6b00ca9ef2bd1aec341ebcb23a8e9379c9775431a573d2c",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Brann baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Geomancer increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T13:56:47.978454+00:00"
+}
