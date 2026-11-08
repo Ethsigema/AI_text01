@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_urzul",
+      "commit": "0eef14ca436bb963d289e1d06d8a100d3408ff1b",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-urzul",
+      "manifest_sha256": "6846b9453cdf9fb5410aabecf3514c69b0a425f2fa01005ebb23cae2b6fa870e",
+      "archive": "hopebringer_urzul_20261108.tar.xz",
+      "archive_sha256": "35a9a536ad7181f921289508375d1ae0777512d7a5ac7d76611388a42f34158d",
+      "archive_bytes": 1599964,
+      "parts_verified": 7,
+      "members_verified": 36,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_drakkari_devour": "2130f84b455c534c421306136727ca097327f4f9ccb08af6dfd914d4eca28def",
+    "hopebringer_urzul": "c5be020f61efcc6b04383fb27090ff9c00d292233919fa9aadf4e1c5681f42cc"
+  },
+  "hopebringer_drakkari_devour_source_byte_equals_hopebringer_urzul_base": true,
+  "baseline_files_rehashed": 27852,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "71368b814e490571dfe7d3286f3dd7eb26ed2faecd515b741d3cd8c11aa1ef62",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_urzul/BG21_004.native.xml",
+      "research/hopebringer_urzul/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27854,
+  "restored_bytes": 1548557641,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "0d8a735b6656ec5fa63fc1a0696b1b8a14d8ea4ce40b50e2640fb6eaf5cb285f",
+  "prior_whole_chain_via_hopebringer_drakkari_devour_to_hopebringer_urzul_map_continuity": true,
+  "supporting_hopebringer_drakkari_devour_chain_receipt_sha256": "8b3bc46011ccbcce4fabc0f44325ce68fcb43eb37193aae31cd4d092be25a43a",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Drakkari Devour baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Urzul increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T19:00:59.715631+00:00"
+}
