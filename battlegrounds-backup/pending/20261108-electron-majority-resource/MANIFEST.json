@@ -1,0 +1,203 @@
+{
+  "archive": "electron_majority_resource_20261108.tar.xz",
+  "bytes": 1075500,
+  "sha256": "13909ad876ae7b1ee213aabdfbec6d204bf2af49cefd15f3b320a32e6c163bcf",
+  "files": {
+    "electron_majority_resource_20261108/BASE_MAP.json": {
+      "bytes": 4573216,
+      "sha256": "c18e95627f7b1d7c754829f58a5364f77069c1e458c43eddde2b7251b9674297"
+    },
+    "electron_majority_resource_20261108/EXPECTED_ROWS.json": {
+      "bytes": 27845,
+      "sha256": "9299c1430355e1880475f5cb1990baa14bb76bdbf4a2d5598e1605d1b785f60e"
+    },
+    "electron_majority_resource_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_majority_resource_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5053,
+      "sha256": "d42b8a5c93e7ec80751bf98d31328f43f31ecc0127b5c63daa1d0edbe5563540"
+    },
+    "electron_majority_resource_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 278310,
+      "sha256": "7ceac8fa672d62a6891794fbe8f8aafdb692316e9b22088c4abb20819079cfa6"
+    },
+    "electron_majority_resource_20261108/README.md": {
+      "bytes": 1644,
+      "sha256": "79713f2ee06e49c4828badca60cbc8c85b05ee109cdf15c9c65e5c082e171ab6"
+    },
+    "electron_majority_resource_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_majority_resource_20261108/SOURCE_DELTA.json": {
+      "bytes": 1322,
+      "sha256": "5eadb2c49044e5f8fe4b42985172f7577dfcea8fd41fdded8e5b0b45b92bfdb3"
+    },
+    "electron_majority_resource_20261108/SOURCE_MAP.json": {
+      "bytes": 4573545,
+      "sha256": "cb3b14d327715c5654d9fedc6b3e97b1fb7b3759946d338909631d0a701fb2ac"
+    },
+    "electron_majority_resource_20261108/VALIDATION.json": {
+      "bytes": 859,
+      "sha256": "f23f9fff4fbb1cb1028c955aa7beff6fadbbcda13a3709ca5104ad67966b5293"
+    },
+    "electron_majority_resource_20261108/build.py": {
+      "bytes": 3598,
+      "sha256": "0ce950ee411863b47ae580d3e1269d123c3060252033fd893724ce06989643ab"
+    },
+    "electron_majority_resource_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 50355,
+      "sha256": "0ae830352d00d112102a946f3352669d9180039502eb3bec303e33645cb227f5"
+    },
+    "electron_majority_resource_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 48408,
+      "sha256": "2c03c2ebdac4f660986be56895e182497d32732924e3881f2323d58e023499a3"
+    },
+    "electron_majority_resource_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 18294,
+      "sha256": "b7b77732b6b202410dc3b066f934f073ba6968d9d91f2ac2c28d9b4e158e845a"
+    },
+    "electron_majority_resource_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 26965,
+      "sha256": "830015c914e13514b410111be8fde49a4f56a9232b403acef9e4afac777b4fe3"
+    },
+    "electron_majority_resource_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 25755,
+      "sha256": "1093d350fe95c7c7603277d6cd866364ff84e90122973709cc5cacec85f4fc7f"
+    },
+    "electron_majority_resource_20261108/delta/research/electron_majority_resource/BG33_814.native.xml": {
+      "bytes": 2656,
+      "sha256": "4d162a7144eb8abbd2e89f7063689fcf2f77bae5162e9e8a9b964fcd92e930c1"
+    },
+    "electron_majority_resource_20261108/delta/research/electron_majority_resource/evidence.json": {
+      "bytes": 581,
+      "sha256": "9128c8ec20c60cfd1f4642078ff4e70943f25fa0fe2aa376e6500a111615d12e"
+    },
+    "electron_majority_resource_20261108/gate.gd": {
+      "bytes": 19483,
+      "sha256": "de72b9807525381bc0ff9d3745f65adf5938b23a3e9435d031415d226c54e0b2"
+    },
+    "electron_majority_resource_20261108/materialize.py": {
+      "bytes": 1681,
+      "sha256": "725d1707b4124ff3885160388bc48b386aa856c827cd5872018175662b1cf4fa"
+    },
+    "electron_majority_resource_20261108/prepare_gate.py": {
+      "bytes": 2474,
+      "sha256": "badd5b69608f9edde7d218f2fbe676d925f05aba7eaf6d8a4a759f97812c5f40"
+    },
+    "electron_majority_resource_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1174,
+      "sha256": "1de66b8da9a32eb5dbc82d166f6ce8b86d4ddb38935624cb113775f4d17d8c42"
+    },
+    "electron_majority_resource_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_majority_resource_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 27845,
+      "sha256": "9299c1430355e1880475f5cb1990baa14bb76bdbf4a2d5598e1605d1b785f60e"
+    },
+    "electron_majority_resource_20261108/run_1/LAUNCH.json": {
+      "bytes": 539,
+      "sha256": "6abb78d7d981fc6ec58e8ea811b2c7379aff10064af9e39edda1c78608d7a92c"
+    },
+    "electron_majority_resource_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 278310,
+      "sha256": "7ceac8fa672d62a6891794fbe8f8aafdb692316e9b22088c4abb20819079cfa6"
+    },
+    "electron_majority_resource_20261108/run_1/PROCESS.json": {
+      "bytes": 611,
+      "sha256": "cbb95ba35478ddb873990ec8b9545fb0e70536cf0d3e3e3d9e73de0b72215fc0"
+    },
+    "electron_majority_resource_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1322,
+      "sha256": "5eadb2c49044e5f8fe4b42985172f7577dfcea8fd41fdded8e5b0b45b92bfdb3"
+    },
+    "electron_majority_resource_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 16240,
+      "sha256": "f147da364b85d93a702eb3057b1ec25197fb198ae5d197085e03da5decf7dfc1"
+    },
+    "electron_majority_resource_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4573545,
+      "sha256": "cb3b14d327715c5654d9fedc6b3e97b1fb7b3759946d338909631d0a701fb2ac"
+    },
+    "electron_majority_resource_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 31323,
+      "sha256": "915f820ee6d9163f23c63bee1f2dd220d469bfdf0fee7d484e65aad87474f896"
+    },
+    "electron_majority_resource_20261108/run_1/data/recruited_card.native_save.json": {
+      "bytes": 56640,
+      "sha256": "755ba3225d04d5263b67793cc9d83a1ae2c850fedc407029529dcce8c26c2fe1"
+    },
+    "electron_majority_resource_20261108/run_1/data/report.json": {
+      "bytes": 1382961,
+      "sha256": "5204e8bdab9d11db2c4980925e27fb9246c6340ca4ff9dc2f81c97192ea5477c"
+    },
+    "electron_majority_resource_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 70153,
+      "sha256": "4fcca171376d61f7974b183dea0f18df35f1ff39172e927e0037f80c60a15f41"
+    },
+    "electron_majority_resource_20261108/run_1/gate_executed.gd": {
+      "bytes": 19483,
+      "sha256": "de72b9807525381bc0ff9d3745f65adf5938b23a3e9435d031415d226c54e0b2"
+    },
+    "electron_majority_resource_20261108/run_1/native.log": {
+      "bytes": 321,
+      "sha256": "1fcd9d5178390aaceb444013f4a8d3c878d572c17376408cda2e0eee956f357c"
+    },
+    "electron_majority_resource_20261108/seal.py": {
+      "bytes": 4640,
+      "sha256": "8284779251cf35e95a1455bb0955bb07697070393557f26bfb0a2b86d32e68e6"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_majority_resource_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "4e992c6bc0ac751147ca9c1f9a18077651f2636c6fae8a3aebfbc7de49920e34"
+    },
+    {
+      "name": "electron_majority_resource_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "9598adf93bb30ec76c90c13680226b7d7ae65954f3fe767faa851a3968593472"
+    },
+    {
+      "name": "electron_majority_resource_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "edd75cf98aa0a837319af9d535350b2f9085964c3e7498b2795d9eb80d7f86fd"
+    },
+    {
+      "name": "electron_majority_resource_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "35b85367562755ce5312a50d6ffd03a1bac7c72f0156a90cfbe488fa892b81d9"
+    },
+    {
+      "name": "electron_majority_resource_20261108.tar.xz.part004",
+      "bytes": 75500,
+      "sha256": "e9c92afc12a6a2e892b3612c657f8b70b56c1e224353f3b61c6dbe6b6ed63ccc"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_majority_resource_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 441,
+      "sha256": "225f9a4d972991b802e94f773e720fde7a1388a7ed4911e7783c99ac80731fbd"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "locked_discover_commit": "d46400728900b29681ce989cf164eb2edb63d7be",
+    "locked_discover_source_map_sha256": "c18e95627f7b1d7c754829f58a5364f77069c1e458c43eddde2b7251b9674297"
+  },
+  "status": "Electron majority-type resource bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
