@@ -1,0 +1,203 @@
+{
+  "archive": "electron_gem_barrage_20261108.tar.xz",
+  "bytes": 1079548,
+  "sha256": "1e0bc7bede79f981036f0843a258cfe8f8ac61cbdbbd92e68f4f66fdf7f5d47c",
+  "files": {
+    "electron_gem_barrage_20261108/BASE_MAP.json": {
+      "bytes": 4575181,
+      "sha256": "8924681eebd90ccafc2b0ab1c9e6dac974a5a947936a3a7f12750e22d0464a2d"
+    },
+    "electron_gem_barrage_20261108/EXPECTED_ROWS.json": {
+      "bytes": 29193,
+      "sha256": "e9f8e5767c86d165de6943265da364540a9a2762c7379ec9c9f929ec30653204"
+    },
+    "electron_gem_barrage_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_gem_barrage_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5048,
+      "sha256": "ac0b7fa6558712c6eb1e8e3d65aa8cd948d20c51b594132f14cc55f9439659af"
+    },
+    "electron_gem_barrage_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 281588,
+      "sha256": "9c51c6544655834aec959d74760aa89e28380ea258360a3604985d5386970f76"
+    },
+    "electron_gem_barrage_20261108/README.md": {
+      "bytes": 1817,
+      "sha256": "77d4746985499b66c9280e2cf193c009ab654250d99c4ee57702ab8737056263"
+    },
+    "electron_gem_barrage_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_gem_barrage_20261108/SOURCE_DELTA.json": {
+      "bytes": 1319,
+      "sha256": "d33e12fbd004b4315ca1143932a88551c0a024069ffd56c75c9e93c4c15c6ed5"
+    },
+    "electron_gem_barrage_20261108/SOURCE_MAP.json": {
+      "bytes": 4575498,
+      "sha256": "ab70bb0cf113fae82e898b4acb910b218453aad8a3a5981dcd06625b6a818941"
+    },
+    "electron_gem_barrage_20261108/VALIDATION.json": {
+      "bytes": 840,
+      "sha256": "44efe7f055132aef729de97324f02cefad75e8da811055744bd780840d93314e"
+    },
+    "electron_gem_barrage_20261108/build.py": {
+      "bytes": 3571,
+      "sha256": "6091d58d5fabcdc2335f58b1375f6c57e9601eef77e061c28472436dbb664996"
+    },
+    "electron_gem_barrage_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 53781,
+      "sha256": "f6f2aabf5e9e26a2620bc0f9c2c293c0b808a0ff894360e89f74277437fc4db2"
+    },
+    "electron_gem_barrage_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 51834,
+      "sha256": "d8efda1ceededfa1e4e5d7625b79becdab1a60ca1ecc9f12193aa2335301e28c"
+    },
+    "electron_gem_barrage_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 20498,
+      "sha256": "22944e9469cd2e1acad012d5dd835354c2b619a7431c636b958aab897b260010"
+    },
+    "electron_gem_barrage_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 27639,
+      "sha256": "17f4397f2a620687974836a9a46c2e1d5662b2f873189ff608503613aa031b59"
+    },
+    "electron_gem_barrage_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 26429,
+      "sha256": "38bdf4ef88c9a0a820ea1a3fdec2f55bb26cefdadd3c05e6e66dba12cd7c898b"
+    },
+    "electron_gem_barrage_20261108/delta/research/electron_gem_barrage/BG34_689.native.xml": {
+      "bytes": 4273,
+      "sha256": "16c85be1f90a2553568002f3a172fd75ffc8228b5bf8cfd9e8066d4712d4ccaf"
+    },
+    "electron_gem_barrage_20261108/delta/research/electron_gem_barrage/evidence.json": {
+      "bytes": 587,
+      "sha256": "dcba135d8388448334b5d7785c433e0f4ff9429161ced54831219f53ff88f38c"
+    },
+    "electron_gem_barrage_20261108/gate.gd": {
+      "bytes": 20740,
+      "sha256": "f423f8a9e04474c5f20a2c29c118cf0da28e552a0bcf79aa910f0c7c1f274173"
+    },
+    "electron_gem_barrage_20261108/materialize.py": {
+      "bytes": 1691,
+      "sha256": "ea17760bdb10a2656e126815001eeb7af7ae363104effc66505d0a09c1ba6ca8"
+    },
+    "electron_gem_barrage_20261108/prepare_gate.py": {
+      "bytes": 3423,
+      "sha256": "59f579f22053d4366b632d1a276d30e42f9e7ca18f1ccaa933f510d5f41f51fa"
+    },
+    "electron_gem_barrage_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1175,
+      "sha256": "181a334c6a68c64c1939d990c63773655ef3373f0041abb59ffcfbdf0d6def57"
+    },
+    "electron_gem_barrage_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_gem_barrage_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 29193,
+      "sha256": "e9f8e5767c86d165de6943265da364540a9a2762c7379ec9c9f929ec30653204"
+    },
+    "electron_gem_barrage_20261108/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "c10924933503720df8ff9c146689fc3b255d36df30d10b6a9526be149cb1ee14"
+    },
+    "electron_gem_barrage_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 281588,
+      "sha256": "9c51c6544655834aec959d74760aa89e28380ea258360a3604985d5386970f76"
+    },
+    "electron_gem_barrage_20261108/run_1/PROCESS.json": {
+      "bytes": 601,
+      "sha256": "b5bcb1765c3bdb731d496b6a2262a03eaf7342ec84964fd1c47517a4ecdf63f1"
+    },
+    "electron_gem_barrage_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1319,
+      "sha256": "d33e12fbd004b4315ca1143932a88551c0a024069ffd56c75c9e93c4c15c6ed5"
+    },
+    "electron_gem_barrage_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 17724,
+      "sha256": "df950273b1412bb2cac25245d83d1b0a63b1422a85e1d17c4c7b56d954a4c367"
+    },
+    "electron_gem_barrage_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4575498,
+      "sha256": "ab70bb0cf113fae82e898b4acb910b218453aad8a3a5981dcd06625b6a818941"
+    },
+    "electron_gem_barrage_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 34326,
+      "sha256": "e7616919e6d55c403878fcc7bde0379be25501bb20384af0934953d2c89b010c"
+    },
+    "electron_gem_barrage_20261108/run_1/data/permanent_entitlement.native_save.json": {
+      "bytes": 69715,
+      "sha256": "f5daf2791897080bbf3e3f0502e649ea003c363a34cd4c44df08c070964a8c54"
+    },
+    "electron_gem_barrage_20261108/run_1/data/report.json": {
+      "bytes": 1876560,
+      "sha256": "ae3d67b3a893cc50bfd0b680f53d7b56cc537c910df1306a652b855d5593d0ab"
+    },
+    "electron_gem_barrage_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 79885,
+      "sha256": "7f343eec24ed018d94efcf66e17af3c911add45ab8701e17493da92e125e7f96"
+    },
+    "electron_gem_barrage_20261108/run_1/gate_executed.gd": {
+      "bytes": 20740,
+      "sha256": "f423f8a9e04474c5f20a2c29c118cf0da28e552a0bcf79aa910f0c7c1f274173"
+    },
+    "electron_gem_barrage_20261108/run_1/native.log": {
+      "bytes": 440,
+      "sha256": "8311f437330c840772431644d3c28490248b17fd97cd9a57a7fd6af46610192b"
+    },
+    "electron_gem_barrage_20261108/seal.py": {
+      "bytes": 4697,
+      "sha256": "971a0dcfcd7da836b4a5852f6f7c1a400a2cfc3c6ffc140db59630edcb5e6427"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_gem_barrage_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "20b81bd23e1b820a3cc2e241f258e5119e0cb66d63d705e62cca6759d8d4cccd"
+    },
+    {
+      "name": "electron_gem_barrage_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "b70f2c11913493c83a72db6ea4f68a8261b0be9fc5ab6fcc4cf78a76ff03e8dd"
+    },
+    {
+      "name": "electron_gem_barrage_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "405959298de3f73197212c55cc9269fd8b2699f24370ac30651a3798b2f31464"
+    },
+    {
+      "name": "electron_gem_barrage_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "dc7191f0374f322a920f73ecf5ea190e1fb3b2d17404c422bd25341f805e2f36"
+    },
+    {
+      "name": "electron_gem_barrage_20261108.tar.xz.part004",
+      "bytes": 79548,
+      "sha256": "7ac51076331e2f62f4e0d074a56bd653761bd525d8eb6281f767cdaf09d00839"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_gem_barrage_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 429,
+      "sha256": "eaa725ca373c838d11810aadd1acd9bb81e69627ce5ca7bb79d7de2a0deded2f"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "planar_telescope_commit": "ef3c4ba0d3558976a68d5b64f2bcf6cca5c54e74",
+    "planar_telescope_source_map_sha256": "8924681eebd90ccafc2b0ab1c9e6dac974a5a947936a3a7f12750e22d0464a2d"
+  },
+  "status": "Electron Blood Gem Barrage bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
