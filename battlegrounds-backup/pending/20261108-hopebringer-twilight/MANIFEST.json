@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_twilight_20261108.tar.xz",
+  "bytes": 1614164,
+  "sha256": "4d8e9d06f1f7e2a086d36835ad8437e672d1486edd7a097a2f9b782660411cc5",
+  "files": {
+    "hopebringer_twilight_20261108/BASE_MAP.json": {
+      "bytes": 4598118,
+      "sha256": "27884941a70c355e56ad91b8ab282927be1edaa52d5eab34832706bb9f79cca1"
+    },
+    "hopebringer_twilight_20261108/EXPECTED_ROWS.json": {
+      "bytes": 46409,
+      "sha256": "07ff8c11147f8fa2a32884c606064370831764f71d3c5c2ae3188ce965de787b"
+    },
+    "hopebringer_twilight_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_twilight_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4886,
+      "sha256": "21c7c05bbd8f4ab4b0611e1136433c85c61cb4e2d69a5143e5d2f40bb0e100e8"
+    },
+    "hopebringer_twilight_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 318554,
+      "sha256": "c1cb9ad3670ff50b5bb780851a33bc69596375cc409bed40b00685aebf71aa5e"
+    },
+    "hopebringer_twilight_20261108/README.md": {
+      "bytes": 1246,
+      "sha256": "7b341fa33ba051b00b71983c5c501809ec50790c31cbba3b211adf9d5b3f3349"
+    },
+    "hopebringer_twilight_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_twilight_20261108/SOURCE_DELTA.json": {
+      "bytes": 1281,
+      "sha256": "3774edb5623c1a2bc10bfd755a1302db059eefa0c0238f80e7b353a019694098"
+    },
+    "hopebringer_twilight_20261108/SOURCE_MAP.json": {
+      "bytes": 4598435,
+      "sha256": "c579c174b7659d977f92dc89a2fcf82d7c83006b525dd539b49b784e78202345"
+    },
+    "hopebringer_twilight_20261108/VALIDATION.json": {
+      "bytes": 922,
+      "sha256": "4d826b09a5347e7caf9fb0b5274a4b84a5d4e9aa05d7084ee0d1a0950f3f3789"
+    },
+    "hopebringer_twilight_20261108/build.py": {
+      "bytes": 3783,
+      "sha256": "c3f5be320e0d1274adf5b124d25915a83923a70686b44d30af931b715897be24"
+    },
+    "hopebringer_twilight_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 18845,
+      "sha256": "21a0c083034b8d8c6d8ea2d44dedbda882729b91c9722e43f8e3de66c7d2d148"
+    },
+    "hopebringer_twilight_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 72805,
+      "sha256": "72e4b7b09fc2cc6f6af744abd248e1dbf5bf47f5d5ab12e0f5453548af967b2a"
+    },
+    "hopebringer_twilight_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 72227,
+      "sha256": "d4eb0659b67f13c5bbd737ced852fbe5c16e9f1d2daeb4685084418226d6abb4"
+    },
+    "hopebringer_twilight_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 32418,
+      "sha256": "45a04c2d571abff4dfc428f166851c14ec0d6d97421e7a00388e373d53895080"
+    },
+    "hopebringer_twilight_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 32183,
+      "sha256": "b896a01a4ba0ece2c7132977ce88d117ac8dc8d453238b9e19ca8c1be27173ac"
+    },
+    "hopebringer_twilight_20261108/delta/research/hopebringer_twilight/BG36_703.native.xml": {
+      "bytes": 3620,
+      "sha256": "4d249f18fe2c3dc663b2b4f3fee2516e31cb6f0b10bbf5bee623392ce6b10f74"
+    },
+    "hopebringer_twilight_20261108/delta/research/hopebringer_twilight/evidence.json": {
+      "bytes": 668,
+      "sha256": "28fb68549d6f865278cd50d4e5e03194145179596451f22fd2bf5371f272f1a3"
+    },
+    "hopebringer_twilight_20261108/gate.gd": {
+      "bytes": 19418,
+      "sha256": "dfd9d48fa1b3a7f432a07cd4fa8365eb1891bf6b824949f907222b5a5491fd1c"
+    },
+    "hopebringer_twilight_20261108/materialize.py": {
+      "bytes": 1671,
+      "sha256": "0dc7e8156f1c4a7aa12f5886a69f6b817d309fc228717389149fbd8926fdb3c2"
+    },
+    "hopebringer_twilight_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1166,
+      "sha256": "8f0131e36c57c99a016b83d6373aa45c0dec9d18216116e675cb64509b5a832d"
+    },
+    "hopebringer_twilight_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_twilight_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 46409,
+      "sha256": "07ff8c11147f8fa2a32884c606064370831764f71d3c5c2ae3188ce965de787b"
+    },
+    "hopebringer_twilight_20261108/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "f78252305f4c3afb6c6a300716fecdd766b7cdd8a74142e331223a94999b3251"
+    },
+    "hopebringer_twilight_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 318554,
+      "sha256": "c1cb9ad3670ff50b5bb780851a33bc69596375cc409bed40b00685aebf71aa5e"
+    },
+    "hopebringer_twilight_20261108/run_1/PROCESS.json": {
+      "bytes": 601,
+      "sha256": "3761ca322da7ee1ee8f8efc33106f73f76d4249b07bd1b84f8c9d9c66c97fb1b"
+    },
+    "hopebringer_twilight_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1281,
+      "sha256": "3774edb5623c1a2bc10bfd755a1302db059eefa0c0238f80e7b353a019694098"
+    },
+    "hopebringer_twilight_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 19204,
+      "sha256": "0b5bf91b6b85f8e6810a08d0d8e1701c58972c3a36edeace3dbbc5ebae1dc340"
+    },
+    "hopebringer_twilight_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4598435,
+      "sha256": "c579c174b7659d977f92dc89a2fcf82d7c83006b525dd539b49b784e78202345"
+    },
+    "hopebringer_twilight_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 86111,
+      "sha256": "6bacc4909dae2af6704a4f071e4f29471c48960384c384507555bd33c651e4b6"
+    },
+    "hopebringer_twilight_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 43672,
+      "sha256": "52e3d56a3970ef373f17b03007d6c5b7d62378c84367e8fcb7f01cd3737603c7"
+    },
+    "hopebringer_twilight_20261108/run_1/data/report.json": {
+      "bytes": 7569818,
+      "sha256": "60864d36b1cdf5df5877cc8994d2ef2aa1c4942e0be76c611083074578536c06"
+    },
+    "hopebringer_twilight_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 793018,
+      "sha256": "5af6e4ffdace994e617eebf85a544b1a04e6b8a6faaae3846385488a62e3d666"
+    },
+    "hopebringer_twilight_20261108/run_1/gate_executed.gd": {
+      "bytes": 19418,
+      "sha256": "dfd9d48fa1b3a7f432a07cd4fa8365eb1891bf6b824949f907222b5a5491fd1c"
+    },
+    "hopebringer_twilight_20261108/run_1/native.log": {
+      "bytes": 454,
+      "sha256": "bb676b785eca2c42693c86240de9f63d8ed2783bbe6dda0642cb9a0c3673be31"
+    },
+    "hopebringer_twilight_20261108/seal.py": {
+      "bytes": 3922,
+      "sha256": "670ca6235ca187fbe8b5e75df3487276f38f463d53f9f46862fec9a52282a589"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_twilight_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "83fb5256e8020278c7451f5feb9b610965ed7bad4f1382353dcdbb57b58577a3"
+    },
+    {
+      "name": "hopebringer_twilight_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "ca8d0aac89d678516561db4fe654433c05b90c7ad93af563310810f1e6c7244a"
+    },
+    {
+      "name": "hopebringer_twilight_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "d9ae61802bdab460a1a238cdf0136c116010a0f4892716e4f4192a28ef468baa"
+    },
+    {
+      "name": "hopebringer_twilight_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "62b82d28a7b8981ae46ab33a99ae50b16d58e1c21c2320121b1ed5f60f388f6f"
+    },
+    {
+      "name": "hopebringer_twilight_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "7a840c9fadb21e4b26663d29922e064ecc9815aa71dfe50db3fc7db0b4cd3a87"
+    },
+    {
+      "name": "hopebringer_twilight_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "0a36b532fa0094dc1b0ace61d62178f1833913985dfb5b0fb7380139def165e8"
+    },
+    {
+      "name": "hopebringer_twilight_20261108.tar.xz.part006",
+      "bytes": 114164,
+      "sha256": "2c9ede38615d2cff10c00d76b381097c8dfed026e8fe7f29b1f2f68185aa4955"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_twilight_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 402,
+      "sha256": "2054b4a4dc21b9c3bb9170cc5dd65804f68ad046a4ad38b19e4c149a385c2656"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_gorm_commit": "69e94cb46336b8ea8d6740f86439a3da5af1b314",
+    "hopebringer_gorm_source_map_sha256": "27884941a70c355e56ad91b8ab282927be1edaa52d5eab34832706bb9f79cca1"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Twilight hand buff combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
