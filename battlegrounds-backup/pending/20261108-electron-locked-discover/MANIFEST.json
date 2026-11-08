@@ -1,0 +1,203 @@
+{
+  "archive": "electron_locked_discover_20261108.tar.xz",
+  "bytes": 1077348,
+  "sha256": "474affa3545f2a935d37d7fc7133366397201bfcb9e2376783f80ebfe1ac36cd",
+  "files": {
+    "electron_locked_discover_20261108/BASE_MAP.json": {
+      "bytes": 4572891,
+      "sha256": "7e1eea7ffc224727525fef214a08ad6056563b332b95837910c423e7ca666787"
+    },
+    "electron_locked_discover_20261108/EXPECTED_ROWS.json": {
+      "bytes": 27547,
+      "sha256": "745cff3c3769a595f0053fc423585402f92c431903e6048cea60aeabb3a0994d"
+    },
+    "electron_locked_discover_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_locked_discover_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5051,
+      "sha256": "19a793defeeef78d2e94514dc9cb7544d42658862937595baada1769383f1932"
+    },
+    "electron_locked_discover_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 277756,
+      "sha256": "55811cdb3f12dd6c1a5bc79c5938bc838a8b59109aeb43b1881c63f0f5e6bdeb"
+    },
+    "electron_locked_discover_20261108/README.md": {
+      "bytes": 1767,
+      "sha256": "91fd1a194853f870b4aa15f10513c0384b469b1f5613b1fb8376a110a8def6f9"
+    },
+    "electron_locked_discover_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_locked_discover_20261108/SOURCE_DELTA.json": {
+      "bytes": 1320,
+      "sha256": "f947bddfbdd6d781a5dbd647493e89d421643182354f508489fe999d29f0d622"
+    },
+    "electron_locked_discover_20261108/SOURCE_MAP.json": {
+      "bytes": 4573216,
+      "sha256": "c18e95627f7b1d7c754829f58a5364f77069c1e458c43eddde2b7251b9674297"
+    },
+    "electron_locked_discover_20261108/VALIDATION.json": {
+      "bytes": 827,
+      "sha256": "0fdde3403df70f1dff3ecfa4517d70c23e9b4f49830a30e4b4e8721aa3cd375d"
+    },
+    "electron_locked_discover_20261108/build.py": {
+      "bytes": 3605,
+      "sha256": "7a5cc6d7fadb3bc5871c56ff662ae33774e8c5abd4064da5ca701c8c7dd009d0"
+    },
+    "electron_locked_discover_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 49703,
+      "sha256": "4a61c65b17b7ae5cfb4b905e80e98d1f8036fbbe3ca322f99e1f3a1f463b9cd8"
+    },
+    "electron_locked_discover_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 47756,
+      "sha256": "03dbf8c3d5dea5bc3e81d97c488be03ab047c4980bd3cce09223d82c655fc7d7"
+    },
+    "electron_locked_discover_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 17863,
+      "sha256": "7516e2a90457c0a453f112405f69a67075e21e97de21db99139f3f0a36e81bf4"
+    },
+    "electron_locked_discover_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 26816,
+      "sha256": "819938aa8163c3e58047884da9d2aa74af6c8409c936b046645373732de31726"
+    },
+    "electron_locked_discover_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 25606,
+      "sha256": "4a158051b05814d2261cd4b4ce09272219cb31e4bec124bb0e397629774b82c6"
+    },
+    "electron_locked_discover_20261108/delta/research/electron_locked_discover/BG34_330.native.xml": {
+      "bytes": 3116,
+      "sha256": "2cf78d0dff3c62b6f719f70ca9683ef547727447409199d2070e859b787f7325"
+    },
+    "electron_locked_discover_20261108/delta/research/electron_locked_discover/evidence.json": {
+      "bytes": 503,
+      "sha256": "ade93a9c61b3d14f493245ad8e1a192ab44cdf54a7b3942b7b0d8a45c0e48660"
+    },
+    "electron_locked_discover_20261108/gate.gd": {
+      "bytes": 20282,
+      "sha256": "d30b3efbee47b949c39f7752d01b216538a935fa6f2a3d568bc7d84aec1f907e"
+    },
+    "electron_locked_discover_20261108/materialize.py": {
+      "bytes": 1686,
+      "sha256": "e9118f0fb4736109d78ea01409229dbda405d0eadb2827836c5442e9d9c6329c"
+    },
+    "electron_locked_discover_20261108/prepare_gate.py": {
+      "bytes": 2722,
+      "sha256": "7c05d1b3671028b33feb43df8ce33529358c555df615ea0bf2186435c7917edc"
+    },
+    "electron_locked_discover_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1177,
+      "sha256": "638d3b42018ef5e5ec1b1650c10c6dc6fd3f91932e13194e06c9dd94327388e4"
+    },
+    "electron_locked_discover_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_locked_discover_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 27547,
+      "sha256": "745cff3c3769a595f0053fc423585402f92c431903e6048cea60aeabb3a0994d"
+    },
+    "electron_locked_discover_20261108/run_1/LAUNCH.json": {
+      "bytes": 535,
+      "sha256": "4b4d33e3a7857eb8b6dacd29964d85d5c1c2ccfd0d0f856772f3e8bcf9e9dff1"
+    },
+    "electron_locked_discover_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 277756,
+      "sha256": "55811cdb3f12dd6c1a5bc79c5938bc838a8b59109aeb43b1881c63f0f5e6bdeb"
+    },
+    "electron_locked_discover_20261108/run_1/PROCESS.json": {
+      "bytes": 609,
+      "sha256": "0a3ca03f37221b3b0e769e34049a64e5660522721a2536b041e9cabaf24b25f1"
+    },
+    "electron_locked_discover_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1320,
+      "sha256": "f947bddfbdd6d781a5dbd647493e89d421643182354f508489fe999d29f0d622"
+    },
+    "electron_locked_discover_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 16260,
+      "sha256": "77f300880d8024b1183c23f735dae3aac8bc6f2abc874e1b413d6cf5be71487a"
+    },
+    "electron_locked_discover_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4573216,
+      "sha256": "c18e95627f7b1d7c754829f58a5364f77069c1e458c43eddde2b7251b9674297"
+    },
+    "electron_locked_discover_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 34194,
+      "sha256": "19ec89e61a30c1eccb8c014b3f2769ce81eb98aab5a2fb6c855c381d13be0859"
+    },
+    "electron_locked_discover_20261108/run_1/data/pending_discover.native_save.json": {
+      "bytes": 64191,
+      "sha256": "8eb26f2a656c1fe77771123e82d72beaab88bc1a850806d413f9c43a56c0cffc"
+    },
+    "electron_locked_discover_20261108/run_1/data/report.json": {
+      "bytes": 1570419,
+      "sha256": "c37a3717754331b08eeff66fa8e51fc56c5b910ad8ed71b355def9bd5d6b19b5"
+    },
+    "electron_locked_discover_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 73859,
+      "sha256": "b10f452a63348c6937066700633e2b9760d7ef841ddf91fc843afa29509af95e"
+    },
+    "electron_locked_discover_20261108/run_1/gate_executed.gd": {
+      "bytes": 20282,
+      "sha256": "d30b3efbee47b949c39f7752d01b216538a935fa6f2a3d568bc7d84aec1f907e"
+    },
+    "electron_locked_discover_20261108/run_1/native.log": {
+      "bytes": 367,
+      "sha256": "f2ab423ef206ad5b24cbd19fa086ab559bb15295e8546f8e62ee1a350af22cd9"
+    },
+    "electron_locked_discover_20261108/seal.py": {
+      "bytes": 4641,
+      "sha256": "512a604e694be044e36ff268353d75542595977439f5edf862ef51dd4aca0183"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_locked_discover_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "c39e509ab183947a2b9c2711613fe85e0dc523cc6218fc219b85b31aa7a227eb"
+    },
+    {
+      "name": "electron_locked_discover_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "db35dcbc97b4b9262f93a777ffb16f742be3d2fb418c1b04a50bdcd1b1819857"
+    },
+    {
+      "name": "electron_locked_discover_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "2aca9458785d068f9e2dfae12297e55c599a813854c7ab8828218c8d8ef11384"
+    },
+    {
+      "name": "electron_locked_discover_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "d584c91b2a51a399d37047102f1b1bbb698a877bc598c1969d4a731c2c7f8d03"
+    },
+    {
+      "name": "electron_locked_discover_20261108.tar.xz.part004",
+      "bytes": 77348,
+      "sha256": "b421a0fc184d9c000baf94d069953de509bc7800f9385ca050de84be93a55c0f"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_locked_discover_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 437,
+      "sha256": "520966e454b52fdba28fa7c44819d8b8c346cb7c99dfb24c34e507aa12f48687"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "battlecry_discover_commit": "1a30f1b4d420ad60a55b2b91665fed91e7ec49bd",
+    "battlecry_discover_source_map_sha256": "7e1eea7ffc224727525fef214a08ad6056563b332b95837910c423e7ca666787"
+  },
+  "status": "Electron Search Through Time locked Discover bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
