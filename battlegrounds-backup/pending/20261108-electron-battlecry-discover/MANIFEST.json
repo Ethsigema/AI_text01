@@ -1,0 +1,203 @@
+{
+  "archive": "electron_battlecry_discover_20261108.tar.xz",
+  "bytes": 1076612,
+  "sha256": "d8de842db29100276342e4fbc0a9c9c29e4d8b6a31423eb77c642ef165489ba7",
+  "files": {
+    "electron_battlecry_discover_20261108/BASE_MAP.json": {
+      "bytes": 4572556,
+      "sha256": "4af4961f1d1b1f67ab9981f92bcd202553c8a35a9f2faa9a1f69bd47627883dd"
+    },
+    "electron_battlecry_discover_20261108/EXPECTED_ROWS.json": {
+      "bytes": 27209,
+      "sha256": "2c3633e9abe47df0861ef6fc66d0be52532dcdceb5cad331407c6e15356fb3e3"
+    },
+    "electron_battlecry_discover_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_battlecry_discover_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5061,
+      "sha256": "553c5902de4e574c54f679a063fbce2df795a6c5d73f76d54bf85c9cb321754e"
+    },
+    "electron_battlecry_discover_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 277210,
+      "sha256": "34a9c30e03745814bfbf7a7f7b8c37ab31f8cead6bdb5eef23fa38fc4f678912"
+    },
+    "electron_battlecry_discover_20261108/README.md": {
+      "bytes": 1769,
+      "sha256": "7a69337a6b79d8bc68c7744ff679b372dab1a116caa6511654c6d5427d8099ed"
+    },
+    "electron_battlecry_discover_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_battlecry_discover_20261108/SOURCE_DELTA.json": {
+      "bytes": 1338,
+      "sha256": "d6aa41536f0ddbbe3232e0cc86b10fa4f70d96efebcebdcdd75ec50d74bf40f0"
+    },
+    "electron_battlecry_discover_20261108/SOURCE_MAP.json": {
+      "bytes": 4572891,
+      "sha256": "7e1eea7ffc224727525fef214a08ad6056563b332b95837910c423e7ca666787"
+    },
+    "electron_battlecry_discover_20261108/VALIDATION.json": {
+      "bytes": 843,
+      "sha256": "476c4b87f4dfa6327c44863be999b3055c7d2d17f8de4c1d7fc0ebedd192012a"
+    },
+    "electron_battlecry_discover_20261108/build.py": {
+      "bytes": 3630,
+      "sha256": "0826d1853aacca61320bb24adb398925b754e486bab81fc73a821a9dfee30573"
+    },
+    "electron_battlecry_discover_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 49019,
+      "sha256": "d4b053ada01092d9bb88b1d0b4643d317d3cd0b0693d53e64b8378a8b09c1b1c"
+    },
+    "electron_battlecry_discover_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 47072,
+      "sha256": "1a330fdf18907f00f9cefe5693ce618d6ade2eb934b81dbd75cfbfd66a0add58"
+    },
+    "electron_battlecry_discover_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 17498,
+      "sha256": "425923981dbd9b1307f9e7f911db96299c109c06f6427410115dfc7a9bb6429e"
+    },
+    "electron_battlecry_discover_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 26647,
+      "sha256": "9fad286c3c7d3d6900b88bb63a586c6f816269e0a649a18d86aa8af3dee5e642"
+    },
+    "electron_battlecry_discover_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 25437,
+      "sha256": "06c9d043012c87f5029438b40e21a0e4298b49e9d3fc360d96fb7b7e3ddb0025"
+    },
+    "electron_battlecry_discover_20261108/delta/research/electron_battlecry_discover/BG28_GIL_836.native.xml": {
+      "bytes": 2884,
+      "sha256": "d08f57d109ea09cced45a2234f271218b751339dde12339fac38b5c40a162182"
+    },
+    "electron_battlecry_discover_20261108/delta/research/electron_battlecry_discover/evidence.json": {
+      "bytes": 487,
+      "sha256": "0a285010a4420af739bbc731d2ff992106bad36bad8a5d63c2b8b2138d49148d"
+    },
+    "electron_battlecry_discover_20261108/gate.gd": {
+      "bytes": 20807,
+      "sha256": "9b73aacc44d21de6ef06beac7bf796d068501456bdf434eaf25d73f195e4703f"
+    },
+    "electron_battlecry_discover_20261108/materialize.py": {
+      "bytes": 1689,
+      "sha256": "955f5b136f0aa26dfe723157c9fb19171a5eb9a3616384ad250d09234e82c49d"
+    },
+    "electron_battlecry_discover_20261108/prepare_gate.py": {
+      "bytes": 3183,
+      "sha256": "0a21b394307c6358b826dd79c623d8601c710e94ae9855ccda2629217f840989"
+    },
+    "electron_battlecry_discover_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1172,
+      "sha256": "c51d716311b4f52b17d3e9408e980794aba40d66238882d57de4f879d5d4d51d"
+    },
+    "electron_battlecry_discover_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_battlecry_discover_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 27209,
+      "sha256": "2c3633e9abe47df0861ef6fc66d0be52532dcdceb5cad331407c6e15356fb3e3"
+    },
+    "electron_battlecry_discover_20261108/run_1/LAUNCH.json": {
+      "bytes": 541,
+      "sha256": "41a7927511969b9d78082b972657fa3a4339f5314018890d319685562f43fc59"
+    },
+    "electron_battlecry_discover_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 277210,
+      "sha256": "34a9c30e03745814bfbf7a7f7b8c37ab31f8cead6bdb5eef23fa38fc4f678912"
+    },
+    "electron_battlecry_discover_20261108/run_1/PROCESS.json": {
+      "bytes": 614,
+      "sha256": "d22493a5afcc473b2531b082f1cbbed76394d04f7c5b9a38fbf6894923a17441"
+    },
+    "electron_battlecry_discover_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1338,
+      "sha256": "d6aa41536f0ddbbe3232e0cc86b10fa4f70d96efebcebdcdd75ec50d74bf40f0"
+    },
+    "electron_battlecry_discover_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 15888,
+      "sha256": "07c478a6bd2c637e890ed3288e806c841a7970634038ad8a97a49633f5d13182"
+    },
+    "electron_battlecry_discover_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4572891,
+      "sha256": "7e1eea7ffc224727525fef214a08ad6056563b332b95837910c423e7ca666787"
+    },
+    "electron_battlecry_discover_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 31636,
+      "sha256": "f3a35e6a8a2f97597f3e97dddd54586f6923002ba44ecab3923a6c74d8532ecd"
+    },
+    "electron_battlecry_discover_20261108/run_1/data/pending_discover.native_save.json": {
+      "bytes": 60754,
+      "sha256": "78d3664c448ee2c40208c69637e921c73d6fa4a795213a0b6fee739d402719a2"
+    },
+    "electron_battlecry_discover_20261108/run_1/data/report.json": {
+      "bytes": 1645552,
+      "sha256": "17ef1e9abe16dd6f5d13b0f38b03b2dd7198d1118c92bb5beb74cc89c3b93ba5"
+    },
+    "electron_battlecry_discover_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 78614,
+      "sha256": "46a186b4574cc966ad067acfab84cadf09411d702749fc71bdc62d3238c2dbb4"
+    },
+    "electron_battlecry_discover_20261108/run_1/gate_executed.gd": {
+      "bytes": 20807,
+      "sha256": "9b73aacc44d21de6ef06beac7bf796d068501456bdf434eaf25d73f195e4703f"
+    },
+    "electron_battlecry_discover_20261108/run_1/native.log": {
+      "bytes": 399,
+      "sha256": "0f8a8c4af14479cac53dbbefc354a1cbd776d822020cacdafcc7a77c616e0440"
+    },
+    "electron_battlecry_discover_20261108/seal.py": {
+      "bytes": 4639,
+      "sha256": "10fb688cf05644082126683c5c1b37603304ecd3bc94cc7719d85f74300e8d68"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_battlecry_discover_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "17bfc5f5ceaf2ca31e93cf0b9c681028f2e070096a1a1c6447794ad6ebe3817c"
+    },
+    {
+      "name": "electron_battlecry_discover_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "b13da7fa39b0cd79d8de0ce24f34d21a820f6e5fc259109835d90ec13e15d649"
+    },
+    {
+      "name": "electron_battlecry_discover_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "471b8f7bf176160e78d26e3379fd1d1c67383a3be0c946f1826808b0cc7a3cee"
+    },
+    {
+      "name": "electron_battlecry_discover_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "441f58ba0f2e1c1112bacf00eb7b88489fd04cfddb0d95b9296cb3b936a724d4"
+    },
+    {
+      "name": "electron_battlecry_discover_20261108.tar.xz.part004",
+      "bytes": 76612,
+      "sha256": "22a3f77cb71935bb2e19947e6ab977033db4eb78eb2794a6c234e15b44e22abe"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_battlecry_discover_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 447,
+      "sha256": "84aa743a66ac20b958a00412cc6339a58874110733598cd6269eb37ba02b39cf"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "cloning_conch_commit": "2f56cbcf1ac5816edc88fc99fe090c81d1cfd39f",
+    "cloning_conch_source_map_sha256": "4af4961f1d1b1f67ab9981f92bcd202553c8a35a9f2faa9a1f69bd47627883dd"
+  },
+  "status": "Electron Battlecry Discover bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
