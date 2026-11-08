@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_mindmuck_20261108.tar.xz",
+  "bytes": 1602212,
+  "sha256": "8885ba8e22842280c5bd4f870a7455448a5ddd99fface31c4f3be4937018902c",
+  "files": {
+    "hopebringer_mindmuck_20261108/BASE_MAP.json": {
+      "bytes": 4596705,
+      "sha256": "c5be020f61efcc6b04383fb27090ff9c00d292233919fa9aadf4e1c5681f42cc"
+    },
+    "hopebringer_mindmuck_20261108/EXPECTED_ROWS.json": {
+      "bytes": 44041,
+      "sha256": "ed1772f66675e328d6d6383dc10a0cc50c3cb0950daf073c97220a4b989bef10"
+    },
+    "hopebringer_mindmuck_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_mindmuck_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4886,
+      "sha256": "23b8710231e33c010e21904ce76adf6b852acbde02c19bfe4673c4ad981e9e34"
+    },
+    "hopebringer_mindmuck_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 316307,
+      "sha256": "7eb4c4f24bab414b8d1c02ad273f25c186edd60250dc1d0e8b15966d47f52905"
+    },
+    "hopebringer_mindmuck_20261108/README.md": {
+      "bytes": 1109,
+      "sha256": "62288b734b5c420677de8256c331acce3c4a1fa9f8e10d931e546275055c61f8"
+    },
+    "hopebringer_mindmuck_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_mindmuck_20261108/SOURCE_DELTA.json": {
+      "bytes": 1282,
+      "sha256": "a2311213b149e48abb398094246f757a43248cde4a54102ac36d7f19f00e6254"
+    },
+    "hopebringer_mindmuck_20261108/SOURCE_MAP.json": {
+      "bytes": 4597022,
+      "sha256": "d18852cb8aa7c99d31e6d9ebb297f6151e4a1a8639e3401292c601470bf7a0e7"
+    },
+    "hopebringer_mindmuck_20261108/VALIDATION.json": {
+      "bytes": 923,
+      "sha256": "9ba2f7629d3c8d52d194259ca9a9e32268f1e8449e97ce6284d5d6246c805c3a"
+    },
+    "hopebringer_mindmuck_20261108/build.py": {
+      "bytes": 3627,
+      "sha256": "1eb281d6696bb5578ad09ab57f1b7cb6e21e015deeac85f3f223d69289d06688"
+    },
+    "hopebringer_mindmuck_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 17995,
+      "sha256": "663bf75020a25977e258573fcf2a99c2559d754d5f83920243fe9a8c40b346c7"
+    },
+    "hopebringer_mindmuck_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 68982,
+      "sha256": "b0a331b32ab4305e76a11c7730902d0e4d434a7411216c2b2e5381f401fff62f"
+    },
+    "hopebringer_mindmuck_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 68404,
+      "sha256": "75dd75b3fe5788bcbf19f13f1bfe41f4b6404068fcf0071790ff5be30b722910"
+    },
+    "hopebringer_mindmuck_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 31234,
+      "sha256": "dc98cf35382089960c597759feb0506074e53bcbca5d0d84f3b09294f597bdde"
+    },
+    "hopebringer_mindmuck_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 30999,
+      "sha256": "beeab64404752510b7e60dc7645c2cb326861c1bb39aac8aa8f5c36ccada0e02"
+    },
+    "hopebringer_mindmuck_20261108/delta/research/hopebringer_mindmuck/BG23_357.native.xml": {
+      "bytes": 4422,
+      "sha256": "1ce6e982e07d57fe23ad21ccd09a43ff342f89157971379ab2f054b9e5631925"
+    },
+    "hopebringer_mindmuck_20261108/delta/research/hopebringer_mindmuck/evidence.json": {
+      "bytes": 568,
+      "sha256": "4885a62cae01893710b0c50c6d7a48a123cc96f0c3f45c84e471a48e8a9ea116"
+    },
+    "hopebringer_mindmuck_20261108/gate.gd": {
+      "bytes": 19430,
+      "sha256": "7eb305f49fd4d2e3fe2570d13bed42f1f6a2c23d2f4932585051635545c7721c"
+    },
+    "hopebringer_mindmuck_20261108/materialize.py": {
+      "bytes": 1673,
+      "sha256": "3637e3b0655be4a090c2356b2b037ecc13e01df4eab58a7a4d84f2a0a91cdeb3"
+    },
+    "hopebringer_mindmuck_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1167,
+      "sha256": "aa4b800211385683b1cd4a353c7ce47e767a5ec88c2ffa22e865b48a329a984b"
+    },
+    "hopebringer_mindmuck_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_mindmuck_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 44041,
+      "sha256": "ed1772f66675e328d6d6383dc10a0cc50c3cb0950daf073c97220a4b989bef10"
+    },
+    "hopebringer_mindmuck_20261108/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "54e336878a48e690c854adf90bd5b8c5459824d2cb4372570e47b8da52de89fb"
+    },
+    "hopebringer_mindmuck_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 316307,
+      "sha256": "7eb4c4f24bab414b8d1c02ad273f25c186edd60250dc1d0e8b15966d47f52905"
+    },
+    "hopebringer_mindmuck_20261108/run_1/PROCESS.json": {
+      "bytes": 600,
+      "sha256": "1f707f9742530a6aa2d60d692e28ea55d8a4dd0398025cb2422a94534a4db79a"
+    },
+    "hopebringer_mindmuck_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1282,
+      "sha256": "a2311213b149e48abb398094246f757a43248cde4a54102ac36d7f19f00e6254"
+    },
+    "hopebringer_mindmuck_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 18788,
+      "sha256": "d553e3b3328f6dbd6528ba806fc446849c0f16a326a35da93bd6a8105958dd2c"
+    },
+    "hopebringer_mindmuck_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4597022,
+      "sha256": "d18852cb8aa7c99d31e6d9ebb297f6151e4a1a8639e3401292c601470bf7a0e7"
+    },
+    "hopebringer_mindmuck_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 80387,
+      "sha256": "04857be3b4f210361f17093deda3e99e6fa330043ebbee178d0a50a8ec593746"
+    },
+    "hopebringer_mindmuck_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 39119,
+      "sha256": "0adf3e8f66e4accf31788ea03a9e12b4061dca9d2f59d6d421dc69ac45d2666a"
+    },
+    "hopebringer_mindmuck_20261108/run_1/data/report.json": {
+      "bytes": 7256487,
+      "sha256": "fccb6bc9785668d9fd6401bcda9455092681e95772668ef33de18d120d2e1ca0"
+    },
+    "hopebringer_mindmuck_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 774674,
+      "sha256": "2ae591f51296e32dab444bb6bfc15d5af25bafdb2347d98716e7eff879438605"
+    },
+    "hopebringer_mindmuck_20261108/run_1/gate_executed.gd": {
+      "bytes": 19430,
+      "sha256": "7eb305f49fd4d2e3fe2570d13bed42f1f6a2c23d2f4932585051635545c7721c"
+    },
+    "hopebringer_mindmuck_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "f45400317355a02e1ef1fd1a0ce8248626f5ca4d2549b0da33aaaabac141513d"
+    },
+    "hopebringer_mindmuck_20261108/seal.py": {
+      "bytes": 4006,
+      "sha256": "49c9c41f95d312f2e1e0cb9fcc5abb901f033bab5c6f64e80e591c1be6079526"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_mindmuck_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "8292ea3bca019fe88b80c49d238d64c43550bc87f9b2d419145ae0f53bd6a1f0"
+    },
+    {
+      "name": "hopebringer_mindmuck_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "9434cce6f94582da7453f7e78a154f1df13f64652102246464e30d631f388cff"
+    },
+    {
+      "name": "hopebringer_mindmuck_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "0132b7622f9b1c75a7e4a4e1c4dea1e9e34decaae62f2c2f87cfee0b80c431d6"
+    },
+    {
+      "name": "hopebringer_mindmuck_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "6767cc3cdc35725332017b093fa9ad97e3d6b92e48de07e956a741da29d05b66"
+    },
+    {
+      "name": "hopebringer_mindmuck_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "2b206282c1cd194ba28cbdc90d2a837e6ef5f71bbe0786fb98868f1f1fb3b76d"
+    },
+    {
+      "name": "hopebringer_mindmuck_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "c355c9348bc63c94421b1ee2f4234f4d9e93485839e9d213f20fb863574c9142"
+    },
+    {
+      "name": "hopebringer_mindmuck_20261108.tar.xz.part006",
+      "bytes": 102212,
+      "sha256": "5907a900881f11563356cb5e3bf6d2ab8e4f26580be8c4e0a27bdcf47168eb3f"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_mindmuck_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 402,
+      "sha256": "33021dcfc79dfd7c7e8e02ce650fc70a93c69295027ed0039abe391d3a42ef4f"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_urzul_commit": "e09921add489a2815542108afa3b673b899d034a",
+    "hopebringer_urzul_source_map_sha256": "c5be020f61efcc6b04383fb27090ff9c00d292233919fa9aadf4e1c5681f42cc"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Mindmuck targeted Battlecry consume combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
