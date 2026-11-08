@@ -1,0 +1,213 @@
+{
+  "archive": "hopebringer_sellemental_20261108.tar.xz",
+  "bytes": 1577732,
+  "sha256": "164633e86dcdb33ec19d6441b7867a289b483422254c508d7dd8b2b17663e723",
+  "files": {
+    "hopebringer_sellemental_20261108/BASE_MAP.json": {
+      "bytes": 4590360,
+      "sha256": "0416cdda6d96751509c39dc3dcfe60983fede6130615ba68df1eefa1dea4eb9e"
+    },
+    "hopebringer_sellemental_20261108/EXPECTED_ROWS.json": {
+      "bytes": 33663,
+      "sha256": "845d0928c69fe3375d64bad13a2bf01bd1c0c738ce9721c0cefbfe01311ec4f2"
+    },
+    "hopebringer_sellemental_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_sellemental_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5062,
+      "sha256": "1b0f547d2db0f855e863e014e7c93b67fb226ababa5239ddbbcaf1b371d71eb7"
+    },
+    "hopebringer_sellemental_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 306464,
+      "sha256": "d8dbc5a5a323947ff087052230cbfe7c80d9174f9985c6ed9b0f5864b15c4575"
+    },
+    "hopebringer_sellemental_20261108/README.md": {
+      "bytes": 1327,
+      "sha256": "f5d3901fb2f7dc0e77da4e2b20b5130fbc7e6ca20ff645e4ea75b8bd1d1fd598"
+    },
+    "hopebringer_sellemental_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "hopebringer_sellemental_20261108/SOURCE_DELTA.json": {
+      "bytes": 1463,
+      "sha256": "b717dfbb5a1806b490b7503b32403db1ff8d7c1e67fd73ea1af47a4ed36d3350"
+    },
+    "hopebringer_sellemental_20261108/SOURCE_MAP.json": {
+      "bytes": 4590847,
+      "sha256": "7d5e3a682dc9dcaeab6de97d84d11769cbc13996c47b3b9b0f3e47fe91ef2d1c"
+    },
+    "hopebringer_sellemental_20261108/VALIDATION.json": {
+      "bytes": 892,
+      "sha256": "e0024ab73a7136021889ef0dc8c831cbe21cd0af77503dff21cce7c2de292e0a"
+    },
+    "hopebringer_sellemental_20261108/build.py": {
+      "bytes": 3546,
+      "sha256": "2f83185bad3328974c3c947c56a3a1596450a29ea48d1854b6b69b20b0958429"
+    },
+    "hopebringer_sellemental_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 14467,
+      "sha256": "01019cfd6e4ce0fa0cec60f9803c76787d699c02d19b8b762f1f621151682bc9"
+    },
+    "hopebringer_sellemental_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 52193,
+      "sha256": "cef2bae2fd66425fbb20c028f4e378824c6dfb6923816b8dd722526ad38d352d"
+    },
+    "hopebringer_sellemental_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 51615,
+      "sha256": "9a4ac2ebfe858dfee95728808c3a1c9f164c07bdd2ab67a1cb1ac1e454911dd7"
+    },
+    "hopebringer_sellemental_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 26045,
+      "sha256": "48b48b7f5a1ac3576fb81aff97c734caccfe6c9223b0c024193aebbd64f32af0"
+    },
+    "hopebringer_sellemental_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 25810,
+      "sha256": "501f08fa978968b760273be16385e895eee6924a68073a76951cf2f63257aac3"
+    },
+    "hopebringer_sellemental_20261108/delta/research/hopebringer_sellemental/BGS_115.native.xml": {
+      "bytes": 2587,
+      "sha256": "1ce3a5eb4b81ad78fe99de09517a650fe2de436f7b87b0b5d4ee5a69235229b3"
+    },
+    "hopebringer_sellemental_20261108/delta/research/hopebringer_sellemental/BGS_115t.native.xml": {
+      "bytes": 1027,
+      "sha256": "4179c0b76b7348fd30feb258e3b909218dbb0ba82de4e5d13ef8ab787ae76a7f"
+    },
+    "hopebringer_sellemental_20261108/delta/research/hopebringer_sellemental/evidence.json": {
+      "bytes": 640,
+      "sha256": "94fada2b6b6851d6f8aacb202490073b2cd0191aa1258b548c44d2d470d9cbc2"
+    },
+    "hopebringer_sellemental_20261108/gate.gd": {
+      "bytes": 18854,
+      "sha256": "f879c3f2f5a4ce9fe9afebc9d2d8ff15c097038d59a20b9d3fd07c1207627832"
+    },
+    "hopebringer_sellemental_20261108/materialize.py": {
+      "bytes": 1679,
+      "sha256": "72adbf9187b56e7931bb3cea152a57de9614d2f50f351b4530c209aaad6a4416"
+    },
+    "hopebringer_sellemental_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "5799a25616b98a505e368ab2529d471cbd2e72e0e8acfbe01a9f72dd4333adc1"
+    },
+    "hopebringer_sellemental_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_sellemental_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 33663,
+      "sha256": "845d0928c69fe3375d64bad13a2bf01bd1c0c738ce9721c0cefbfe01311ec4f2"
+    },
+    "hopebringer_sellemental_20261108/run_1/LAUNCH.json": {
+      "bytes": 533,
+      "sha256": "7fa754bbb63ec3c159bfb22f266a71c71333eebfd1c350211fec4e744da1c28e"
+    },
+    "hopebringer_sellemental_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 306464,
+      "sha256": "d8dbc5a5a323947ff087052230cbfe7c80d9174f9985c6ed9b0f5864b15c4575"
+    },
+    "hopebringer_sellemental_20261108/run_1/PROCESS.json": {
+      "bytes": 605,
+      "sha256": "4b9b86e71d9c41f9e596dd619877998adce8a7e5a3f9a9b8603e7de432da542f"
+    },
+    "hopebringer_sellemental_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1463,
+      "sha256": "b717dfbb5a1806b490b7503b32403db1ff8d7c1e67fd73ea1af47a4ed36d3350"
+    },
+    "hopebringer_sellemental_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 15016,
+      "sha256": "4d82afbeade65fa8cfa35624a62d5af14f2e0c99f8032f4bbf924bfa69539fae"
+    },
+    "hopebringer_sellemental_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4590847,
+      "sha256": "7d5e3a682dc9dcaeab6de97d84d11769cbc13996c47b3b9b0f3e47fe91ef2d1c"
+    },
+    "hopebringer_sellemental_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 80173,
+      "sha256": "f5e670c1e63b4aca8c7952925dff7b9ae088cdf07306f533ced7f9a762d826cc"
+    },
+    "hopebringer_sellemental_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 36517,
+      "sha256": "87ee7ad6746a1fbb2d3cc8226513560fb6bf8d8ea57111c2732685fbc49b373c"
+    },
+    "hopebringer_sellemental_20261108/run_1/data/report.json": {
+      "bytes": 7096547,
+      "sha256": "ed8c0dbe25f70bd0e687e82b3a4e581b1efc6919e139bd4603058886b9156e81"
+    },
+    "hopebringer_sellemental_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 749131,
+      "sha256": "f98f6d4bdd9d980d5f9b2b15760b9559dfb3bcb3b1071310659ddf00ae531be1"
+    },
+    "hopebringer_sellemental_20261108/run_1/gate_executed.gd": {
+      "bytes": 18854,
+      "sha256": "f879c3f2f5a4ce9fe9afebc9d2d8ff15c097038d59a20b9d3fd07c1207627832"
+    },
+    "hopebringer_sellemental_20261108/run_1/native.log": {
+      "bytes": 462,
+      "sha256": "2156573d3aadfd2474a1f3e119dda32b1b00dbd769cf9aab3224c448274db109"
+    },
+    "hopebringer_sellemental_20261108/seal.py": {
+      "bytes": 3969,
+      "sha256": "7c8a850d85e9ab207dd572eb45e0bfb762fe249ffd5beada717726de8dbf4c74"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_sellemental_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "2f52f69ed3dc584f0c04f2055741b4c6928e7edbe0fb65684452d55597088cca"
+    },
+    {
+      "name": "hopebringer_sellemental_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "34cb36b12c398d59708bf1d2179a6f8d0a83cc3f80fe3324b8683daf0eca151e"
+    },
+    {
+      "name": "hopebringer_sellemental_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "aa936ad06034f024b9bed40e0195da4fbeeaeff2e3e6168012b7ac2df97fa6c3"
+    },
+    {
+      "name": "hopebringer_sellemental_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "541355a68ff23fa1df4f773f890795d480be06120b129c40b476d694686bda3b"
+    },
+    {
+      "name": "hopebringer_sellemental_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "866bbec8519abc7a5f303571bd5100fe2eb3bccbdb02a2882036cd436c456ae8"
+    },
+    {
+      "name": "hopebringer_sellemental_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "7a2a113a31785eae225d4793829b1f13f0300b3ec483e1a9c8537c2cfa86aa04"
+    },
+    {
+      "name": "hopebringer_sellemental_20261108.tar.xz.part006",
+      "bytes": 77732,
+      "sha256": "ca51e8c8e60f14d93bf8f854f7e5b31daf3643687e8e2866ad1f0b64329b2d0b"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_sellemental_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 467,
+      "sha256": "6ce830b83916a57a39cd45eac70fda95c754c2c74567c87a3aa319a7ea041632"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_lullabot_commit": "dc96f05b52ec6a03cb5bf94f0d93aacf615e8ab2",
+    "hopebringer_lullabot_source_map_sha256": "0416cdda6d96751509c39dc3dcfe60983fede6130615ba68df1eefa1dea4eb9e"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Sellemental sale reward combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
