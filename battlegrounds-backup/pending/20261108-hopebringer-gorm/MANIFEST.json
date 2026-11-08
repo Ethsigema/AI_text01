@@ -1,0 +1,213 @@
+{
+  "archive": "hopebringer_gorm_20261108.tar.xz",
+  "bytes": 1599248,
+  "sha256": "f114bef418e6cada8fb58ec92177eb501023d31b19db2abd8cd644b1d8a0bb8c",
+  "files": {
+    "hopebringer_gorm_20261108/BASE_MAP.json": {
+      "bytes": 4597650,
+      "sha256": "bc90ec2530f6e815459d2b6e9cd007832d2d49426af6cd3ea0ab7d7ad08d2c69"
+    },
+    "hopebringer_gorm_20261108/EXPECTED_ROWS.json": {
+      "bytes": 45829,
+      "sha256": "7a8acd1ad559749b865e4627c516755d85de3100e99100033867ded78c384c4f"
+    },
+    "hopebringer_gorm_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_gorm_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5043,
+      "sha256": "0012ebf8b2a334a2324b2463271123d80ba8bd69c8c3651155766d598563d82d"
+    },
+    "hopebringer_gorm_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 318048,
+      "sha256": "26697cb152bb4711c713412460e526cb89d7348dc3380d174363b91e7d5d878f"
+    },
+    "hopebringer_gorm_20261108/README.md": {
+      "bytes": 1140,
+      "sha256": "e912c6bfa1f56c430ed31ebf6f21e596c09e0d1bfec7110c5a5e1c439de13d7e"
+    },
+    "hopebringer_gorm_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "hopebringer_gorm_20261108/SOURCE_DELTA.json": {
+      "bytes": 1443,
+      "sha256": "5d678258fc5737197f57482a39f6373056612f0f645e59024a85fafcfe95e0c1"
+    },
+    "hopebringer_gorm_20261108/SOURCE_MAP.json": {
+      "bytes": 4598118,
+      "sha256": "27884941a70c355e56ad91b8ab282927be1edaa52d5eab34832706bb9f79cca1"
+    },
+    "hopebringer_gorm_20261108/VALIDATION.json": {
+      "bytes": 914,
+      "sha256": "408f0e33c36bca5d4f9a2f73a9a5e87e948a27e0ee3cb5f475deb9a4adfe8df2"
+    },
+    "hopebringer_gorm_20261108/build.py": {
+      "bytes": 3832,
+      "sha256": "eb6fb0279693023ae2ca9a915dddcae80f60bfd6a339b727e36f4244f38ccd3d"
+    },
+    "hopebringer_gorm_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 18671,
+      "sha256": "141535030a3000c42d7b2808b0d368ed8b3b851e81d35a2b18b80406aecb20b6"
+    },
+    "hopebringer_gorm_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 71895,
+      "sha256": "aa32718364e3131f329af97d91642eb74313daf6f9c7d1b46e74d035173591ba"
+    },
+    "hopebringer_gorm_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 71317,
+      "sha256": "9c5b7ab4c3c4788ec567918ca93674063209e572760c37294d6fb4ba0fff8ee3"
+    },
+    "hopebringer_gorm_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 32128,
+      "sha256": "88b759b3658d18cf227e0d7323898689b4f50e7737e3ae493b83a2473bbb99ac"
+    },
+    "hopebringer_gorm_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 31893,
+      "sha256": "31a51bf2f3b697feb5a28c94c24efb86fa40416901886020c311e17d21ec5f7c"
+    },
+    "hopebringer_gorm_20261108/delta/research/hopebringer_gorm/BG32_336.native.xml": {
+      "bytes": 3698,
+      "sha256": "7f4024f8910c7bc6acaf4df74f4c1a5750273de7b8c57cebe846d3e1f83b2a57"
+    },
+    "hopebringer_gorm_20261108/delta/research/hopebringer_gorm/BG32_337.native.xml": {
+      "bytes": 5462,
+      "sha256": "e3a0867c1bcec49f1e156ee8a427fb87cc01c5cb3baac537da4279c23cfcb4c0"
+    },
+    "hopebringer_gorm_20261108/delta/research/hopebringer_gorm/evidence.json": {
+      "bytes": 1242,
+      "sha256": "85619492ad9311f0b1dd8d3417e2d8c1038b9d22f33e4e114882f153e57b1921"
+    },
+    "hopebringer_gorm_20261108/gate.gd": {
+      "bytes": 18934,
+      "sha256": "89040a463c7209d13e9ee728a60c0421209f999710dea9231f2d4c47fe2bee88"
+    },
+    "hopebringer_gorm_20261108/materialize.py": {
+      "bytes": 1677,
+      "sha256": "7ad9a7bcade35de72924eb90397762aaf0a93d51db7b512f018232dddd503853"
+    },
+    "hopebringer_gorm_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1169,
+      "sha256": "3e5275c70e6f3ce90f8fd96bd175c59900b9bee25d55ab6d420c5988009a9bf8"
+    },
+    "hopebringer_gorm_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_gorm_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 45829,
+      "sha256": "7a8acd1ad559749b865e4627c516755d85de3100e99100033867ded78c384c4f"
+    },
+    "hopebringer_gorm_20261108/run_1/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "bacfa99d63b3b74446fc52d5a911984da5078d2d534df199e4b2452e24072de3"
+    },
+    "hopebringer_gorm_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 318048,
+      "sha256": "26697cb152bb4711c713412460e526cb89d7348dc3380d174363b91e7d5d878f"
+    },
+    "hopebringer_gorm_20261108/run_1/PROCESS.json": {
+      "bytes": 592,
+      "sha256": "e0725baaf36b2b771641e6025109aa3d27dc6be504f38977d9c66599205ac63f"
+    },
+    "hopebringer_gorm_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1443,
+      "sha256": "5d678258fc5737197f57482a39f6373056612f0f645e59024a85fafcfe95e0c1"
+    },
+    "hopebringer_gorm_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 20436,
+      "sha256": "30cbd25a205267baf619c9d8c1b62af0efb1f67e06c0896ab4b775ac4a7b96fa"
+    },
+    "hopebringer_gorm_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4598118,
+      "sha256": "27884941a70c355e56ad91b8ab282927be1edaa52d5eab34832706bb9f79cca1"
+    },
+    "hopebringer_gorm_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 77999,
+      "sha256": "d0f539757480ec35455691eaf8fe6567864636cd3e9a6e003a7385988f405a5f"
+    },
+    "hopebringer_gorm_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 36818,
+      "sha256": "6aada16bb3963c744c5bda3825bda186bb3026c6913ad6516b1ae4ff53d3afd7"
+    },
+    "hopebringer_gorm_20261108/run_1/data/report.json": {
+      "bytes": 7139464,
+      "sha256": "16043708d482dc537beedf65dbaf9cbe60302de962e9684e3674c18d9d4ef3cd"
+    },
+    "hopebringer_gorm_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 764939,
+      "sha256": "1a088811de1a7c281b93605ee3ece9bb9ac4a64dcf8d5388e66b6fbdcfb1fac5"
+    },
+    "hopebringer_gorm_20261108/run_1/gate_executed.gd": {
+      "bytes": 18934,
+      "sha256": "89040a463c7209d13e9ee728a60c0421209f999710dea9231f2d4c47fe2bee88"
+    },
+    "hopebringer_gorm_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "5a5243d61669aa28f6b88f7356bdea8629aafd35d11b67a649c29b5e2912ab85"
+    },
+    "hopebringer_gorm_20261108/seal.py": {
+      "bytes": 4007,
+      "sha256": "fa97d2e27f0f39790bd7ead1873ea77e3cbf56a2a186470dbad5f1f88ec316cb"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_gorm_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "efc0642d848d6397860d596ff9539e7abf623f7bc413062caa9263dc886b9165"
+    },
+    {
+      "name": "hopebringer_gorm_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "b381eaf620514fa5313a0a4cd30a1d6bcff77c523b4174f2950ee555b2b6a63e"
+    },
+    {
+      "name": "hopebringer_gorm_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "702409f31dfc9eabf3bb10db1d9516f0da86519391342d1b4c070019c04a2850"
+    },
+    {
+      "name": "hopebringer_gorm_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "9081cbf3885bda15d6cb1126862da7171688ee984d2e5a47afab065c8b7239e4"
+    },
+    {
+      "name": "hopebringer_gorm_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "08bd05a496f8106746ac2f48245253a818aaa480db5d9974091675c2633321f3"
+    },
+    {
+      "name": "hopebringer_gorm_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "ba4daf081a831557d452144ba04e8db00b17aa73d2232b86b9adb6f5fbdb2a7e"
+    },
+    {
+      "name": "hopebringer_gorm_20261108.tar.xz.part006",
+      "bytes": 99248,
+      "sha256": "655b976b579dfa3381e6fc8f522f6dd98f3afaa7c27e107bfb9a10b3d37e43e1"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_gorm_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 447,
+      "sha256": "5fa2726e8732095ea68790805d35dc208cbdc70b77a818e01930270fa51f17df"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_lookout_commit": "b01330c40a4928f717fa53b055a94254d38059b0",
+    "hopebringer_lookout_source_map_sha256": "bc90ec2530f6e815459d2b6e9cd007832d2d49426af6cd3ea0ab7d7ad08d2c69"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Gorm Seafood Stew combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
