@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_choral",
+      "commit": "efa6466a49c6e924d1a3409c9153beb998f8198c",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-choral",
+      "manifest_sha256": "0a9b16f474a8f2e1b1dfbd1fadc5702b60aa01f2c236535d3d13e4543db57821",
+      "archive": "hopebringer_choral_20261108.tar.xz",
+      "archive_sha256": "77fb35c87ee9cad8038ced9012c8798b43d4a53ebfa9e528d3569e0333678bd4",
+      "archive_bytes": 1592864,
+      "parts_verified": 7,
+      "members_verified": 36,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_sushi": "79affdba332bb0ab59d6cfc4a56a86b2b8a08ae42e2e2efe860db26a0d81bad7",
+    "hopebringer_choral": "514c88f919c33e4b533233745a36ff0521a85848eebc27e9e05d0d1012d15cd1"
+  },
+  "hopebringer_sushi_source_byte_equals_hopebringer_choral_base": true,
+  "baseline_files_rehashed": 27844,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "c5a93cd422360c0195b505bddc04307d3510f0fa48314b65e3652e645d823e01",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_choral/BG26_354.native.xml",
+      "research/hopebringer_choral/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27846,
+  "restored_bytes": 1548529188,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "0d8a735b6656ec5fa63fc1a0696b1b8a14d8ea4ce40b50e2640fb6eaf5cb285f",
+  "prior_whole_chain_via_hopebringer_sushi_to_hopebringer_choral_map_continuity": true,
+  "supporting_hopebringer_sushi_chain_receipt_sha256": "89184e5a1660d2741d0b6590746ddaf78eafbd68e93e13c06bff884890529dc5",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Sushi baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Choral increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T17:58:50.153376+00:00"
+}
