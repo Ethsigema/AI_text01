@@ -1,0 +1,297 @@
+{
+  "archive": "hopebringer_dune_20261108.tar.xz",
+  "bytes": 1571908,
+  "sha256": "e09b9a16e325b39fffdc3359543d527ff364737f247191407915b984c57ba073",
+  "files": {
+    "hopebringer_dune_20261108/BASE_MAP.json": {
+      "bytes": 4591160,
+      "sha256": "4342a26be4032b422da1599de730f3b4634ef902954cc3eea82556fbfa8df88a"
+    },
+    "hopebringer_dune_20261108/EXPECTED_ROWS.json": {
+      "bytes": 34915,
+      "sha256": "66556a4606a6196bf346bc6b564a5a5adcee2e55c61713f3f0a8f911be21bc0c"
+    },
+    "hopebringer_dune_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_dune_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 7926,
+      "sha256": "8f416cd30e333478eaa21e33413667653839e8f5e23592e0a75a343fb9672489"
+    },
+    "hopebringer_dune_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 307452,
+      "sha256": "1d4d3c7692dfcb3ff21a31f8d2c51beb38b8e0620867b6a240a5e82a5ade2066"
+    },
+    "hopebringer_dune_20261108/README.md": {
+      "bytes": 1689,
+      "sha256": "c546b78f6f90885b8fa44e04136aacf0c2b03a3cd70af0aaa21e538c1647bace"
+    },
+    "hopebringer_dune_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "386c6f77424a5ac734727be617b3164356a21f44acf249aa2d17886baa5ee7b8"
+    },
+    "hopebringer_dune_20261108/SOURCE_DELTA.json": {
+      "bytes": 1275,
+      "sha256": "bd98781d2c365980b1ee1086926d9790e0c7e38543070583eb70772196f1076d"
+    },
+    "hopebringer_dune_20261108/SOURCE_MAP.json": {
+      "bytes": 4591469,
+      "sha256": "afcfedcc2db16afaa31e2007e32c39dd63d6efef20fdcdfd975d7c5a97c67ad7"
+    },
+    "hopebringer_dune_20261108/VALIDATION.json": {
+      "bytes": 900,
+      "sha256": "2e976914e3799272bb4f094c3ffcffd58ec763810743b730159e52129b1e812a"
+    },
+    "hopebringer_dune_20261108/build.py": {
+      "bytes": 3622,
+      "sha256": "93571829d5f3265400b22aafcc043a8a1e9b436132ed534f7a585a7fe0773d27"
+    },
+    "hopebringer_dune_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 14785,
+      "sha256": "b35a140d8af94a66455043f40f7fd554c10ba65994c8ead389c25f0df40b9a72"
+    },
+    "hopebringer_dune_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 54081,
+      "sha256": "a6912f3e5f9b46c139ec46ad34bc67947e4844f232994c1fe99adbc7126bed32"
+    },
+    "hopebringer_dune_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 53503,
+      "sha256": "8eecd4998cea74d6c7eb986199eb688687722916eb187fecf0102e1f4f6bf8f1"
+    },
+    "hopebringer_dune_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 26671,
+      "sha256": "f85e563ee85202d6900576b3d7a3dc60b261c953f559caa7f704efd2ea92489d"
+    },
+    "hopebringer_dune_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 26436,
+      "sha256": "0322d56cc4fe59ae247b0bd2cb75e6099cc52b586873316af0b0fb02966a49d5"
+    },
+    "hopebringer_dune_20261108/delta/research/hopebringer_dune/BG31_815.native.xml": {
+      "bytes": 3392,
+      "sha256": "8738231f4344fd6b494239344922d90871a23590128ea9f6d0cc020a5f38db19"
+    },
+    "hopebringer_dune_20261108/delta/research/hopebringer_dune/evidence.json": {
+      "bytes": 616,
+      "sha256": "435c5133929cfa04f616c20fe23615502c237266a2b27642b75fb209b4186fc2"
+    },
+    "hopebringer_dune_20261108/gate.gd": {
+      "bytes": 19432,
+      "sha256": "2993d77d6d63cd4b1f6d083e1cd0c9116372aa0f961c45c77e6c7e9c3d3b2809"
+    },
+    "hopebringer_dune_20261108/materialize.py": {
+      "bytes": 1675,
+      "sha256": "8b6928182060e50ce7ac6128ef7d76496815b2192af0b443eed548b9e715835e"
+    },
+    "hopebringer_dune_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1168,
+      "sha256": "024b01ac377cef9819ed80847ec0cb08855a2b4c70aae36a8327bf5718909756"
+    },
+    "hopebringer_dune_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_dune_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 34915,
+      "sha256": "66556a4606a6196bf346bc6b564a5a5adcee2e55c61713f3f0a8f911be21bc0c"
+    },
+    "hopebringer_dune_20261108/run_1/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "1105772c893ba4be3cadfa6225d26cfccb97455aff5ae22eeaf8cca23b1175d0"
+    },
+    "hopebringer_dune_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 307452,
+      "sha256": "1d4d3c7692dfcb3ff21a31f8d2c51beb38b8e0620867b6a240a5e82a5ade2066"
+    },
+    "hopebringer_dune_20261108/run_1/PROCESS.json": {
+      "bytes": 593,
+      "sha256": "5af5ee85d8c56032e87d34fea920bbdb1a67bba68f5949711d3f3d666b25b0a9"
+    },
+    "hopebringer_dune_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1275,
+      "sha256": "bd98781d2c365980b1ee1086926d9790e0c7e38543070583eb70772196f1076d"
+    },
+    "hopebringer_dune_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 15456,
+      "sha256": "d2736543bd2b14cc7680e408d4e1de237e61d79fec4b94443c5ec58530cbf3a2"
+    },
+    "hopebringer_dune_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4591469,
+      "sha256": "afcfedcc2db16afaa31e2007e32c39dd63d6efef20fdcdfd975d7c5a97c67ad7"
+    },
+    "hopebringer_dune_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 30501,
+      "sha256": "6a2880b1256c066e47b381cb2fdc82a7c972f314f95b7c40f49c3123c412e8a4"
+    },
+    "hopebringer_dune_20261108/run_1/data/report.json": {
+      "bytes": 201775,
+      "sha256": "58b50415cc47050ad71af337a67c21f7f22583f1c8c62933ab352667da841a8b"
+    },
+    "hopebringer_dune_20261108/run_1/gate_executed.gd": {
+      "bytes": 19158,
+      "sha256": "47a891d1c4af8117b2f2a736ba3f0117f4cfdfec0199c1ec28a209d80264ce58"
+    },
+    "hopebringer_dune_20261108/run_1/native.log": {
+      "bytes": 151,
+      "sha256": "866c8f6c61132fc349172658332b07c359cac6c4b03a5ad5e0cdac4a87a973ba"
+    },
+    "hopebringer_dune_20261108/run_2/EXPECTED_ROWS.json": {
+      "bytes": 34915,
+      "sha256": "66556a4606a6196bf346bc6b564a5a5adcee2e55c61713f3f0a8f911be21bc0c"
+    },
+    "hopebringer_dune_20261108/run_2/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "b4b04268efdc59d32297edc7af22ae3788de5673ec62019403480347b3d6cc32"
+    },
+    "hopebringer_dune_20261108/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 307452,
+      "sha256": "1d4d3c7692dfcb3ff21a31f8d2c51beb38b8e0620867b6a240a5e82a5ade2066"
+    },
+    "hopebringer_dune_20261108/run_2/PROCESS.json": {
+      "bytes": 593,
+      "sha256": "7d04b48e13bce249e638979943c23f99c40c8cc267c70a52057b83dac0fcc9eb"
+    },
+    "hopebringer_dune_20261108/run_2/SOURCE_DELTA.json": {
+      "bytes": 1275,
+      "sha256": "bd98781d2c365980b1ee1086926d9790e0c7e38543070583eb70772196f1076d"
+    },
+    "hopebringer_dune_20261108/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 15456,
+      "sha256": "d2736543bd2b14cc7680e408d4e1de237e61d79fec4b94443c5ec58530cbf3a2"
+    },
+    "hopebringer_dune_20261108/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4591469,
+      "sha256": "afcfedcc2db16afaa31e2007e32c39dd63d6efef20fdcdfd975d7c5a97c67ad7"
+    },
+    "hopebringer_dune_20261108/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 31610,
+      "sha256": "3bd2078a249276446c36547da5d124d92365fdada9c19db94b5fba8446fffc94"
+    },
+    "hopebringer_dune_20261108/run_2/data/report.json": {
+      "bytes": 616490,
+      "sha256": "ba2728260564b57749ef04786394eee679b9549226139d16d8d38862d09f08c7"
+    },
+    "hopebringer_dune_20261108/run_2/gate_executed.gd": {
+      "bytes": 19171,
+      "sha256": "fc906507eceb658e28cb22efd10d5161d80ec0de0fd653a5a2f38dab054954da"
+    },
+    "hopebringer_dune_20261108/run_2/native.log": {
+      "bytes": 276,
+      "sha256": "c59a839a574df544c0652bee31e99e3e6e155be4f29fe52e4262fc0655fd8219"
+    },
+    "hopebringer_dune_20261108/run_3/EXPECTED_ROWS.json": {
+      "bytes": 34915,
+      "sha256": "66556a4606a6196bf346bc6b564a5a5adcee2e55c61713f3f0a8f911be21bc0c"
+    },
+    "hopebringer_dune_20261108/run_3/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "c12b55805baaa94e2060c4dd61552c2c671a4fb299b6fffac086a1dcf06621d2"
+    },
+    "hopebringer_dune_20261108/run_3/PIN_PREFLIGHT.json": {
+      "bytes": 307452,
+      "sha256": "1d4d3c7692dfcb3ff21a31f8d2c51beb38b8e0620867b6a240a5e82a5ade2066"
+    },
+    "hopebringer_dune_20261108/run_3/PROCESS.json": {
+      "bytes": 592,
+      "sha256": "ba2a731f4665e2619e3f665547a8241bc16c2cc9bb6212fc86e7654e249b1e47"
+    },
+    "hopebringer_dune_20261108/run_3/SOURCE_DELTA.json": {
+      "bytes": 1275,
+      "sha256": "bd98781d2c365980b1ee1086926d9790e0c7e38543070583eb70772196f1076d"
+    },
+    "hopebringer_dune_20261108/run_3/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 15456,
+      "sha256": "d2736543bd2b14cc7680e408d4e1de237e61d79fec4b94443c5ec58530cbf3a2"
+    },
+    "hopebringer_dune_20261108/run_3/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4591469,
+      "sha256": "afcfedcc2db16afaa31e2007e32c39dd63d6efef20fdcdfd975d7c5a97c67ad7"
+    },
+    "hopebringer_dune_20261108/run_3/data/before_combat.native_save.json": {
+      "bytes": 83067,
+      "sha256": "3808d0d4a54fb8c7e8a73750eb48f44e66f3a3d2f77ed32ecd0d61a2b8a334cf"
+    },
+    "hopebringer_dune_20261108/run_3/data/initial_fixture.native_save.json": {
+      "bytes": 31610,
+      "sha256": "3bd2078a249276446c36547da5d124d92365fdada9c19db94b5fba8446fffc94"
+    },
+    "hopebringer_dune_20261108/run_3/data/report.json": {
+      "bytes": 7182607,
+      "sha256": "ccbb3e5afd488329be008cd4b623cba02d6981b6e22fbb0a2bd8f8d1611bcaa8"
+    },
+    "hopebringer_dune_20261108/run_3/data/terminal.native_save.json": {
+      "bytes": 736759,
+      "sha256": "d3566509f72737e0272fa17a4a54bd5a029b060c44f04c5e171ab4a87aac949f"
+    },
+    "hopebringer_dune_20261108/run_3/gate_executed.gd": {
+      "bytes": 19432,
+      "sha256": "2993d77d6d63cd4b1f6d083e1cd0c9116372aa0f961c45c77e6c7e9c3d3b2809"
+    },
+    "hopebringer_dune_20261108/run_3/native.log": {
+      "bytes": 553,
+      "sha256": "3afc0ee78e81c8d5bf22772906d2dc031ffcc162430778903d584520e2bcfbdc"
+    },
+    "hopebringer_dune_20261108/seal.py": {
+      "bytes": 3912,
+      "sha256": "e9143effc5ec1a10c257f6665a7b9fe1b738aa68b35e6ceaaa0d499a1aedcc33"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_dune_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "00a071469bf40c666ea70cd1922f078e717e47015e6e7a01658914b2139a228c"
+    },
+    {
+      "name": "hopebringer_dune_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "315aae08bb18e206ea110c86a4c9858221911e6399dabc8473938db63f028baa"
+    },
+    {
+      "name": "hopebringer_dune_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "d076ec26b8cf405c31fb279baf0106b2eedc0ac96be2aaa84f869d795b432a4a"
+    },
+    {
+      "name": "hopebringer_dune_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "a8c2983d11d42bae88fa7ca7624ffbeb1dc577d4cfd1e9eceb6143e8fa00ea4b"
+    },
+    {
+      "name": "hopebringer_dune_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "2ccaf7c313f690fe12a1be542a7795714beaeb3e1ddc2f9edcf7213e68a1b086"
+    },
+    {
+      "name": "hopebringer_dune_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "f985b6d05a8c3b6961764ad9cfac5851453af23ad64659b59c2ade26caab4269"
+    },
+    {
+      "name": "hopebringer_dune_20261108.tar.xz.part006",
+      "bytes": 71908,
+      "sha256": "19abab39c10ba461b6477665a17676be4939c306bdb98ef98293b837135ed9b5"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_dune_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 394,
+      "sha256": "3964947b7456f11121b016298c1b92b7f83a86f23eb7df8a17b73390dc0cfbe1"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_sylvar_commit": "a6388174be2b42fa913592329c28d7a31dc94d57",
+    "hopebringer_sylvar_source_map_sha256": "4342a26be4032b422da1599de730f3b4634ef902954cc3eea82556fbfa8df88a"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Dune Tavern Elemental buff combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 58,
+    "credential_pattern_flags": []
+  }
+}
