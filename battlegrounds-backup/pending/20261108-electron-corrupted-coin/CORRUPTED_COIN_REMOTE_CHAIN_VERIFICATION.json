@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "corrupted_coin",
+      "commit": "60472112a7858d6569eff79b783146443d9f04ab",
+      "repository_path": "battlegrounds-backup/pending/20261108-electron-corrupted-coin",
+      "manifest_sha256": "2ec7b5ca8e56b3688ecf8d2dd5df6bad5f93363b1307fa96b29a1a8877a84805",
+      "archive": "electron_corrupted_coin_20261108.tar.xz",
+      "archive_sha256": "03750aee5b546752f8d80456545b31afb7c367caf3815031b584b11d47269912",
+      "archive_bytes": 1078292,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "beetle_blessing": "c91bbad9c9d37b2c27a6a2ab774b374c2ba5dafb60a331a94f7fe0b29f3952e7",
+    "corrupted_coin": "acfd9e487224daf05eb93e343f099fb26de584f3296c051a510fbb902736dce4"
+  },
+  "beetle_blessing_source_byte_equals_corrupted_coin_base": true,
+  "baseline_files_rehashed": 27729,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "e9a65fddc8f148ece528952eca5fc8d2674a6df24093f0f76d23394dd3898a57",
+  "change_lists": {
+    "added": [
+      "research/electron_corrupted_coin/BG36_303.native.xml",
+      "research/electron_corrupted_coin/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27731,
+  "restored_bytes": 1548148085,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "47f9232e818c42246c1932cebfdb71dce791bb42b0b82cf5beb9614655bdd5b7",
+  "prior_whole_chain_via_beetle_blessing_to_corrupted_coin_map_continuity": true,
+  "supporting_beetle_blessing_chain_receipt_sha256": "1432bb9d874b7a00f67852159afd08c578af0e21d28d0a66026072e0032af27b",
+  "historical_baseline_provenance": "The baseline is the verified Electron Beetle Blessing baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Corrupted Coin increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T04:05:51.795783+00:00"
+}
