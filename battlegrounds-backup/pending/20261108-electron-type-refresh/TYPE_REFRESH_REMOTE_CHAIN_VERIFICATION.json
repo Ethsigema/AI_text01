@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "type_refresh",
+      "commit": "39b1e73b5b362915b1151bbc623464cd86defbb8",
+      "repository_path": "battlegrounds-backup/pending/20261108-electron-type-refresh",
+      "manifest_sha256": "04cdf28dfe2edd9878bab162a239583d69b5bbe2fcf53c1d6335495126a9c093",
+      "archive": "electron_type_refresh_20261108.tar.xz",
+      "archive_sha256": "69931527bea9114d3f7ad196c6c5f17898e585d4a6e0595d580e1bbf8c233582",
+      "archive_bytes": 1078324,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "earth_mother": "05dbcc97097782b408b73e9cb2e55e018739a6063dd82ef66efdf92ba3c61b3f",
+    "type_refresh": "7d11fbb5e4f8f090bfb2592444e1e773434fe1a3ed08f4d6b3e90ad6a8c2036f"
+  },
+  "earth_mother_source_byte_equals_type_refresh_base": true,
+  "baseline_files_rehashed": 27715,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "c11b6f6a9aebcbcf2f1e91cb246e54e6305836f99246de96f61c1a035297f2a8",
+  "change_lists": {
+    "added": [
+      "research/electron_type_refresh/EBG_Spell_038.native.xml",
+      "research/electron_type_refresh/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27717,
+  "restored_bytes": 1548100726,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "47f9232e818c42246c1932cebfdb71dce791bb42b0b82cf5beb9614655bdd5b7",
+  "prior_whole_chain_via_earth_mother_to_type_refresh_map_continuity": true,
+  "supporting_earth_mother_chain_receipt_sha256": "09decd982730bc39dc6e4b5e65085d3bdfe34d7233eaceafade6f84cdd710542",
+  "historical_baseline_provenance": "The baseline is the verified Electron Earth Mother baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Type Refresh increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T02:22:45.271033+00:00"
+}
