@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_rattler_20261108.tar.xz",
+  "bytes": 1572072,
+  "sha256": "ed340e38a54deb732a5b320ea2e964cbdab826d16d6998a717a9e1f5fb9f8d1d",
+  "files": {
+    "hopebringer_rattler_20261108/BASE_MAP.json": {
+      "bytes": 4585940,
+      "sha256": "708c6bc362cee806ec1932409db9da7f08ccf1430f9b0562a201d653e2027205"
+    },
+    "hopebringer_rattler_20261108/EXPECTED_ROWS.json": {
+      "bytes": 26293,
+      "sha256": "7cdc493f2c5774fabfa8873b809aa3bc80add815f89d1a5d95ec3b4b84d73692"
+    },
+    "hopebringer_rattler_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_rattler_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4884,
+      "sha256": "503b515af36280ba4273d812a3e2ee73b989fcc737793e7be0168aca9dbb9c69"
+    },
+    "hopebringer_rattler_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 299145,
+      "sha256": "5bf4032298f13e043ddc6ad16029dac97df110cc4b341eb55bd194709c1d544c"
+    },
+    "hopebringer_rattler_20261108/README.md": {
+      "bytes": 1179,
+      "sha256": "f5b9469cba52c5a6ec5339b4bc14edd567666d5de33f979be49728ed0b37001d"
+    },
+    "hopebringer_rattler_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_rattler_20261108/SOURCE_DELTA.json": {
+      "bytes": 1284,
+      "sha256": "227f4b52cd066041ff073db3e6938133168d1a1f34124b465c90a3cbeffe3946"
+    },
+    "hopebringer_rattler_20261108/SOURCE_MAP.json": {
+      "bytes": 4586255,
+      "sha256": "a5463a3bbad74c00b03aecde9ac7f60deee30caf3c6ba6c311229237357d911b"
+    },
+    "hopebringer_rattler_20261108/VALIDATION.json": {
+      "bytes": 948,
+      "sha256": "ce1f64a93bb1f0cbe97cddd0f0f87702efecf12d30051f7e89cbe24f0f688a42"
+    },
+    "hopebringer_rattler_20261108/build.py": {
+      "bytes": 3555,
+      "sha256": "4197d04d0d4be0c49993fbf56e1f742e4ff45748c5fa4704395abec1399b657c"
+    },
+    "hopebringer_rattler_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 10491,
+      "sha256": "19bf211f54d174786c961eaad930bce900c1d3c5f98f19b84ad3aa2075b33161"
+    },
+    "hopebringer_rattler_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 40056,
+      "sha256": "ad622ccadb777d18148d50fa982ca72787f7ef566d39ed604d917759a9a1824e"
+    },
+    "hopebringer_rattler_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 39478,
+      "sha256": "44b8c18d971d7c259462bdbadf021c82b91b184d0538ebff865d61b3d605bfb6"
+    },
+    "hopebringer_rattler_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 22360,
+      "sha256": "cafa6bce3df2c6f72895b0d5e291ce2f19f5faeb6505a1658a92c4ff7a48ac2a"
+    },
+    "hopebringer_rattler_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 22125,
+      "sha256": "78f907c7a172067d36c5487bfb100fd02694107d7b6e7569fcf28ffc053c78b7"
+    },
+    "hopebringer_rattler_20261108/delta/research/hopebringer_rattler/BG36_211.native.xml": {
+      "bytes": 2877,
+      "sha256": "d98add4ed898e91b3ad8c9f847c9e5a6567c791a200e3f7d030bbf6815addc6d"
+    },
+    "hopebringer_rattler_20261108/delta/research/hopebringer_rattler/evidence.json": {
+      "bytes": 643,
+      "sha256": "e24a25d0d5e9f39f08b549d9c06220b13f4403526b78208a595a66c3b5faf647"
+    },
+    "hopebringer_rattler_20261108/gate.gd": {
+      "bytes": 19542,
+      "sha256": "61748d500f8d9ac1530c273b037057b48ebf8d7a92b2b6430cf7839e738a634e"
+    },
+    "hopebringer_rattler_20261108/materialize.py": {
+      "bytes": 1681,
+      "sha256": "f67fe674130117f5f8128ed0a7e2bb48cbff1bc389003a3ece586ce35dfb8dce"
+    },
+    "hopebringer_rattler_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1171,
+      "sha256": "83367367556f273b020790275c0656036c39ad0f7b4db1e1d6fe23d30ba5a7ab"
+    },
+    "hopebringer_rattler_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_rattler_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 26293,
+      "sha256": "7cdc493f2c5774fabfa8873b809aa3bc80add815f89d1a5d95ec3b4b84d73692"
+    },
+    "hopebringer_rattler_20261108/run_1/LAUNCH.json": {
+      "bytes": 525,
+      "sha256": "5e4108916ab540585127d3328fe5b874eb8b4a95eab981a82c413a34fb456fdc"
+    },
+    "hopebringer_rattler_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 299145,
+      "sha256": "5bf4032298f13e043ddc6ad16029dac97df110cc4b341eb55bd194709c1d544c"
+    },
+    "hopebringer_rattler_20261108/run_1/PROCESS.json": {
+      "bytes": 599,
+      "sha256": "7f7d709ce6ad653438bc7b22b400760e8ca1aa42d9d9939f3bb3613304213f7a"
+    },
+    "hopebringer_rattler_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1284,
+      "sha256": "227f4b52cd066041ff073db3e6938133168d1a1f34124b465c90a3cbeffe3946"
+    },
+    "hopebringer_rattler_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 12736,
+      "sha256": "33286d50c8f91b6adf2e0cdab9882234f17e4f5085340636b70d2c1ae461b301"
+    },
+    "hopebringer_rattler_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4586255,
+      "sha256": "a5463a3bbad74c00b03aecde9ac7f60deee30caf3c6ba6c311229237357d911b"
+    },
+    "hopebringer_rattler_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 84747,
+      "sha256": "75388504b192c0186cb23c4e301cbfd8ecf080cc9bb4ffc9fcb40c257885087c"
+    },
+    "hopebringer_rattler_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 38941,
+      "sha256": "882a1bb269a40770121973f624481818e8d5e926b34913f50dff720a490b3df5"
+    },
+    "hopebringer_rattler_20261108/run_1/data/report.json": {
+      "bytes": 7260618,
+      "sha256": "fc7245d31e3e2bfdf75b605aa66cd749541de3be38a3072bf22803b48626ab01"
+    },
+    "hopebringer_rattler_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 774676,
+      "sha256": "00f8be5c19e31df6657c30a0f9002a5aea621cf4e3f12c637f0d986555ebbca3"
+    },
+    "hopebringer_rattler_20261108/run_1/gate_executed.gd": {
+      "bytes": 19542,
+      "sha256": "61748d500f8d9ac1530c273b037057b48ebf8d7a92b2b6430cf7839e738a634e"
+    },
+    "hopebringer_rattler_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "a73895683473810b5b92e61cde5f283dde28cc02db90e9ddba1ea562b0cc6433"
+    },
+    "hopebringer_rattler_20261108/seal.py": {
+      "bytes": 3946,
+      "sha256": "1f83aae9bb074417aacae470d068711014af9c2cd9de94b778e8ec25d1008488"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_rattler_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "eb27a610ae87cc687f049d4857377325e14d961129119b046150c28779ffeb5b"
+    },
+    {
+      "name": "hopebringer_rattler_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "53c6d5c408b2a8e963fbddc7c114b97e6ea67f6d236909f1664950ba501b1702"
+    },
+    {
+      "name": "hopebringer_rattler_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "e433daa59749f569624686839218b1404ea87e676db34c24b5ab1a04c0e5c459"
+    },
+    {
+      "name": "hopebringer_rattler_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "1c6c2f4c4f89244aac764c7bceed90b8cfbfeb3eef25008426b31c115175f920"
+    },
+    {
+      "name": "hopebringer_rattler_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "17d0b50ee7c3e2452dd69b5bbd902bdce20f0456685612eab30a3d160b15f169"
+    },
+    {
+      "name": "hopebringer_rattler_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "c99fc71102dc717014dbb4ebbe8be43569fc3508a1a6a351a422bb7ee62286d2"
+    },
+    {
+      "name": "hopebringer_rattler_20261108.tar.xz.part006",
+      "bytes": 72072,
+      "sha256": "9a58fef480cd287dd943a595fba26bc8c87744e622efa91a7edcb8ed0166e6c8"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_rattler_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 400,
+      "sha256": "f990fdb8e03f9d988eadc7ece79489bc97e2048231544af76b33b900e7874fa1"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_recruiter_commit": "b8bc506164c488fd22f6c5b04ce7420251a4ec6d",
+    "hopebringer_recruiter_source_map_sha256": "708c6bc362cee806ec1932409db9da7f08ccf1430f9b0562a201d653e2027205"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Cage Rattler combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
