@@ -1,0 +1,257 @@
+{
+  "archive": "hopebringer_strider_20261108.tar.xz",
+  "bytes": 1620316,
+  "sha256": "f4ad2938938b0a0d0db50dd203fcb77164100ea2c9ac0b0d5c85cf73761e7fa1",
+  "files": {
+    "hopebringer_strider_20261108/BASE_MAP.json": {
+      "bytes": 4599697,
+      "sha256": "9617b0b0e4f823141049d41f0728b1aba2f306e729ae860bc16fd6647acd89ed"
+    },
+    "hopebringer_strider_20261108/EXPECTED_ROWS.json": {
+      "bytes": 49387,
+      "sha256": "1460bc66fce51a538632a91fdb749de0a6a6a25d9b652b1cf2df43b3a262b639"
+    },
+    "hopebringer_strider_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_strider_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 6563,
+      "sha256": "05203f99cab461197c73b9b268e6704a686a90f5915724816aff6c3d40672e40"
+    },
+    "hopebringer_strider_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 321068,
+      "sha256": "93526ada2fdcd144c0b6368424ff1744d19db0dd0051c964175342237368426a"
+    },
+    "hopebringer_strider_20261108/README.md": {
+      "bytes": 912,
+      "sha256": "a0d32fdf912cf71e1d023ede2f30d102f39204c90f498f12ea52262cb5b8b111"
+    },
+    "hopebringer_strider_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "02e124e19b7f7fe814da51844215b2f9b50d202ef9aed09c23a368110c52b026"
+    },
+    "hopebringer_strider_20261108/SOURCE_DELTA.json": {
+      "bytes": 1282,
+      "sha256": "736366422d5ca8d4809fc976bec59845b76311fd25212f0f6a0eb997e4e560c5"
+    },
+    "hopebringer_strider_20261108/SOURCE_MAP.json": {
+      "bytes": 4600012,
+      "sha256": "3abb943757c53ed71ccec8b444fdcd7a458d6c96802086c1fa92190ed0ffcdc4"
+    },
+    "hopebringer_strider_20261108/VALIDATION.json": {
+      "bytes": 920,
+      "sha256": "7a422dde03a2ee2e40b9f9bd0c321d2e884ea07e7ee9f1c7ff9bf451f84d738b"
+    },
+    "hopebringer_strider_20261108/build.py": {
+      "bytes": 3618,
+      "sha256": "b3813907682a8fd0a2207922b24329e270d70af6a3e6804cc3f5c9b8053399bf"
+    },
+    "hopebringer_strider_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 19965,
+      "sha256": "16eb4a75c131867f43d71995518a2073acc7d1b96dba11a819fccb43d527378e"
+    },
+    "hopebringer_strider_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 77417,
+      "sha256": "4ce39beff3efecb54fa9da94a1f1042e7c0f6238a2948a12dc12947a7dc3df6f"
+    },
+    "hopebringer_strider_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 76839,
+      "sha256": "5c3a96b34e9de65f9bb59900991afce8ce23f08887fcffb75c1c4992ac6c1e9d"
+    },
+    "hopebringer_strider_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 33907,
+      "sha256": "e3d1d97a15fcb260983a4557c9abd95c21d4c670b3e35ca7ca2543496f450be1"
+    },
+    "hopebringer_strider_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 33672,
+      "sha256": "4beac90413575274f49ae8f8f3db4fef15b4cf5073e5423e1a920f7dc5cf93ae"
+    },
+    "hopebringer_strider_20261108/delta/research/hopebringer_strider/BG36_208.native.xml": {
+      "bytes": 3862,
+      "sha256": "2c5a096cc8fd50f1796dad08776bee08669a5a6d11933ee5e92874ee971e752c"
+    },
+    "hopebringer_strider_20261108/delta/research/hopebringer_strider/evidence.json": {
+      "bytes": 609,
+      "sha256": "7a4f898f68c6460c9b3b0110dddeb1a7c4d67bfa4f315ad65db3b09f31d31f34"
+    },
+    "hopebringer_strider_20261108/gate.gd": {
+      "bytes": 19792,
+      "sha256": "a212916b8dc43260745f073e5e9eddc7d3983c6cff59338bc8ba0404678bba6c"
+    },
+    "hopebringer_strider_20261108/materialize.py": {
+      "bytes": 1677,
+      "sha256": "ab3a55ee8359cc4a3db58df244ab04aea6acc4fcfbfa5586ff98236d188bf906"
+    },
+    "hopebringer_strider_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1169,
+      "sha256": "3657b628a766cd8077551f5faa7fbfc2023069eab4f20dfcd22899b4d54f4488"
+    },
+    "hopebringer_strider_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_strider_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 49387,
+      "sha256": "1460bc66fce51a538632a91fdb749de0a6a6a25d9b652b1cf2df43b3a262b639"
+    },
+    "hopebringer_strider_20261108/run_1/LAUNCH.json": {
+      "bytes": 525,
+      "sha256": "9ed2b10fce0b69969e70614caadf2f4a4cfe7ed1bdd943a23ea16ebb105afacd"
+    },
+    "hopebringer_strider_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 321068,
+      "sha256": "93526ada2fdcd144c0b6368424ff1744d19db0dd0051c964175342237368426a"
+    },
+    "hopebringer_strider_20261108/run_1/PROCESS.json": {
+      "bytes": 599,
+      "sha256": "84adda7a8507179f1894525f9a6607184db0f4807fe548692bad04fffe280e7c"
+    },
+    "hopebringer_strider_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1282,
+      "sha256": "736366422d5ca8d4809fc976bec59845b76311fd25212f0f6a0eb997e4e560c5"
+    },
+    "hopebringer_strider_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 20056,
+      "sha256": "f036ac0697f663b9dcecf1350f6c825b3714ec5c95bc4ebae72cb8634d2e6103"
+    },
+    "hopebringer_strider_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4600012,
+      "sha256": "3abb943757c53ed71ccec8b444fdcd7a458d6c96802086c1fa92190ed0ffcdc4"
+    },
+    "hopebringer_strider_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 83403,
+      "sha256": "2cde7f3547ab94cde7b56fde8f4f4909792fbcc860c8cde526a6434ddaf2604e"
+    },
+    "hopebringer_strider_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 38473,
+      "sha256": "b497a37269e2d0306365b6722f4c90d89ee374d5b506fdc1d698c00c265da5f6"
+    },
+    "hopebringer_strider_20261108/run_1/data/report.json": {
+      "bytes": 2808456,
+      "sha256": "e840f298e11fd4ddc7f5d3622af28e8788dc6f81d6729c774a22e1067abed664"
+    },
+    "hopebringer_strider_20261108/run_1/gate_executed.gd": {
+      "bytes": 19802,
+      "sha256": "d7da7c98443aad14f69a8bc1091dda54197bc85f31c2facbfdb5e99f69648d01"
+    },
+    "hopebringer_strider_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "9eb30f0cdbf31f85b8ff0faa797bf22cf7774181219cdd9b5079f7569cbbcaa6"
+    },
+    "hopebringer_strider_20261108/run_2/EXPECTED_ROWS.json": {
+      "bytes": 49387,
+      "sha256": "1460bc66fce51a538632a91fdb749de0a6a6a25d9b652b1cf2df43b3a262b639"
+    },
+    "hopebringer_strider_20261108/run_2/LAUNCH.json": {
+      "bytes": 525,
+      "sha256": "95c94aece00268873cb60edeabd4cfd9fb96c2e9da50a755fdf97ec4c8cad9ca"
+    },
+    "hopebringer_strider_20261108/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 321068,
+      "sha256": "93526ada2fdcd144c0b6368424ff1744d19db0dd0051c964175342237368426a"
+    },
+    "hopebringer_strider_20261108/run_2/PROCESS.json": {
+      "bytes": 599,
+      "sha256": "3e6f773545787b6b3149aac51a1622aaca646472c3431732a6016c383508fe57"
+    },
+    "hopebringer_strider_20261108/run_2/SOURCE_DELTA.json": {
+      "bytes": 1282,
+      "sha256": "736366422d5ca8d4809fc976bec59845b76311fd25212f0f6a0eb997e4e560c5"
+    },
+    "hopebringer_strider_20261108/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 20056,
+      "sha256": "f036ac0697f663b9dcecf1350f6c825b3714ec5c95bc4ebae72cb8634d2e6103"
+    },
+    "hopebringer_strider_20261108/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4600012,
+      "sha256": "3abb943757c53ed71ccec8b444fdcd7a458d6c96802086c1fa92190ed0ffcdc4"
+    },
+    "hopebringer_strider_20261108/run_2/data/before_combat.native_save.json": {
+      "bytes": 83403,
+      "sha256": "2cde7f3547ab94cde7b56fde8f4f4909792fbcc860c8cde526a6434ddaf2604e"
+    },
+    "hopebringer_strider_20261108/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 38473,
+      "sha256": "b497a37269e2d0306365b6722f4c90d89ee374d5b506fdc1d698c00c265da5f6"
+    },
+    "hopebringer_strider_20261108/run_2/data/report.json": {
+      "bytes": 7388201,
+      "sha256": "b918c6c83707c3a293c1b89499b6919ea517015d310f736f1b6aae99dc01b1d6"
+    },
+    "hopebringer_strider_20261108/run_2/data/terminal.native_save.json": {
+      "bytes": 788401,
+      "sha256": "e2861e79421516d0c5ab1d06eb720c1d5feb68c2859a0c2e91d7d3af94bbe272"
+    },
+    "hopebringer_strider_20261108/run_2/gate_executed.gd": {
+      "bytes": 19792,
+      "sha256": "a212916b8dc43260745f073e5e9eddc7d3983c6cff59338bc8ba0404678bba6c"
+    },
+    "hopebringer_strider_20261108/run_2/native.log": {
+      "bytes": 425,
+      "sha256": "f7791dc8aba1cbff82e08f5c5ff601a4f599be1ce199d35c1b8e325db4252e6d"
+    },
+    "hopebringer_strider_20261108/seal.py": {
+      "bytes": 3922,
+      "sha256": "817b3e19363e7ff79c8c304e302189ab381f96300f43cdbb79866960db509deb"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_strider_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "1a72ebcbf7cfcd61b4e4767d363747de6ff15a69615b8f806666fc8ce016d425"
+    },
+    {
+      "name": "hopebringer_strider_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "fe3981aeca9bf61c1f71c6ed59a4ad772524a9bb5e964d8dbd0f201f32ef1384"
+    },
+    {
+      "name": "hopebringer_strider_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "24be01df1fd20910bc5f28d09c89289f11fc5cf660224e9b10daf85d02cc5ebf"
+    },
+    {
+      "name": "hopebringer_strider_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "77426c4843d7b3e25dcf39043a75a6c147b6ea136b2dfd79296c5d8aa5cd13fe"
+    },
+    {
+      "name": "hopebringer_strider_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "d43ff48cf894f0f2a8c75a1bfef47e27e1b4a26507615accbf45a0ea3afb4dfa"
+    },
+    {
+      "name": "hopebringer_strider_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "0f4f97805c1e808db7faeb5d57f306e333c82f80cb7d5a2b949824f655ebb295"
+    },
+    {
+      "name": "hopebringer_strider_20261108.tar.xz.part006",
+      "bytes": 120316,
+      "sha256": "9b4fbed1995a00197c77f95b3b7d37cc7d777146e009a0325ba96b8c62102dde"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_strider_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 400,
+      "sha256": "9a6972179604b35fdbecd4a9da819cfdf36b65d1839d43589f11be2843fc823a"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_phantom_commit": "433398490d6dcb1f84046da644fc25decdfb87d5",
+    "hopebringer_phantom_source_map_sha256": "9617b0b0e4f823141049d41f0728b1aba2f306e729ae860bc16fd6647acd89ed"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Strider Rally living Deathrattle combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 48,
+    "credential_pattern_flags": []
+  }
+}
