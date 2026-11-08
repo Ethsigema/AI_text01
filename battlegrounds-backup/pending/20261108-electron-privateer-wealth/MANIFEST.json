@@ -1,0 +1,211 @@
+{
+  "archive": "electron_privateer_wealth_20261108.tar.xz",
+  "bytes": 1088608,
+  "sha256": "2dda901ab44b7c98be52fbad2921012409b87bd2feb58aac4e7dc2cb4ba459f4",
+  "files": {
+    "electron_privateer_wealth_20261108/BASE_MAP.json": {
+      "bytes": 4577763,
+      "sha256": "10779ba8aa53ccf512d9ef0fad64be922ed0b1a0b85b4da0205389088dfe6cbb"
+    },
+    "electron_privateer_wealth_20261108/EXPECTED_ROWS.json": {
+      "bytes": 32127,
+      "sha256": "d654714a843d330ec490a6bdb947397c6ca3298515c8f147c8b8327076301d3d"
+    },
+    "electron_privateer_wealth_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_privateer_wealth_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5425,
+      "sha256": "a2d4f195396f80d12ec495d7e9e5083abc39124b91fc41d8ffb82a7a76ed7c1d"
+    },
+    "electron_privateer_wealth_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 286506,
+      "sha256": "8e00d9a9102f9c31d60f322a051e320f36597d6a1d62f44768c27f16b6003e9a"
+    },
+    "electron_privateer_wealth_20261108/README.md": {
+      "bytes": 2204,
+      "sha256": "6c6c7a45feb33fb5e3c6d91d32964e956bb63bf1c21167bb481cc20087ee04b2"
+    },
+    "electron_privateer_wealth_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "887d80a8569b928f50c76ce448bf50c83736da0e9b65801edc5036507481aaf9"
+    },
+    "electron_privateer_wealth_20261108/SOURCE_DELTA.json": {
+      "bytes": 1844,
+      "sha256": "8c67dd4e075abc3fe2477c043dc9eb9e1f7d4369d591ec4dc0b3fa246137d7b6"
+    },
+    "electron_privateer_wealth_20261108/SOURCE_MAP.json": {
+      "bytes": 4578427,
+      "sha256": "170be091073bebc2381da4f748262098c1093008f5f35f9ae97971f557817c5b"
+    },
+    "electron_privateer_wealth_20261108/VALIDATION.json": {
+      "bytes": 824,
+      "sha256": "25cac08574b41a312a58cb68fedb73e5b15d6d9b0f1e10f2ff18cd8fc424268f"
+    },
+    "electron_privateer_wealth_20261108/build.py": {
+      "bytes": 5980,
+      "sha256": "dbc232c2c1954ef22c5ef77f8995c5de651e6920fcd7d89ff9343253b8e8cc65"
+    },
+    "electron_privateer_wealth_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 59833,
+      "sha256": "be2c2f36d199c85c6132d364c5e3390f21c525df3fbdc10e86ea8f5d392d43c6"
+    },
+    "electron_privateer_wealth_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 57886,
+      "sha256": "5221a4ad96abe92964381ae8c7f0920c537e3e241ab81db4609785e1280bd0d6"
+    },
+    "electron_privateer_wealth_20261108/delta/core/privateer_bounty_cast.gd": {
+      "bytes": 10415,
+      "sha256": "7a1b52436932343f5b6fc6e6ce2e1588470d75983f1fc289a4ec52c35e8fd598"
+    },
+    "electron_privateer_wealth_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 25857,
+      "sha256": "87b75220e8236586331ba99e4b1b144460d2bec321771ece5aae1c8c8b85435d"
+    },
+    "electron_privateer_wealth_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 29106,
+      "sha256": "4e5a8a6b8b7a43a6f04a55bba504e2b02c0e4088bfb904df93261a9398b37a6d"
+    },
+    "electron_privateer_wealth_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 27896,
+      "sha256": "5c538a6b80be682b72b8032eaff7d6f4b49c411c1a21ef6b8c45e8475645a7af"
+    },
+    "electron_privateer_wealth_20261108/delta/research/electron_privateer_wealth/BG33_815.native.xml": {
+      "bytes": 1932,
+      "sha256": "fcc635277c04aaf9dfa4aa5940defeafc18059438259b4792118dd146d3b7a6f"
+    },
+    "electron_privateer_wealth_20261108/delta/research/electron_privateer_wealth/BG33_825.native.xml": {
+      "bytes": 2575,
+      "sha256": "60b3a8ab198af593d96ca864c83ea39b8e3d84669aa013bc4a10a1e5c9a7abba"
+    },
+    "electron_privateer_wealth_20261108/delta/research/electron_privateer_wealth/BG33_825_G.native.xml": {
+      "bytes": 2425,
+      "sha256": "c48a2d7b732327975aa23ba8d361d2ec94cf7b12f5288ba7d53001f3f578195c"
+    },
+    "electron_privateer_wealth_20261108/delta/research/electron_privateer_wealth/evidence.json": {
+      "bytes": 1122,
+      "sha256": "2e0319c266f91a8e6ad5788996a6a33a537493aec4fe2a2fe70bcb3438c616bc"
+    },
+    "electron_privateer_wealth_20261108/gate.gd": {
+      "bytes": 18757,
+      "sha256": "26113289315ce6cb66f22b1a3faac06d86100423dcecbe663288d0218eedf269"
+    },
+    "electron_privateer_wealth_20261108/materialize.py": {
+      "bytes": 1685,
+      "sha256": "4e08ff30fc738da2e6792de268828d963138cdd74690c6536802c54e4aca982c"
+    },
+    "electron_privateer_wealth_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1173,
+      "sha256": "2e79e12260d9ccd8c54701cba9a96bc7fe58033b9ba15f19762cd546dab19206"
+    },
+    "electron_privateer_wealth_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_privateer_wealth_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 32127,
+      "sha256": "d654714a843d330ec490a6bdb947397c6ca3298515c8f147c8b8327076301d3d"
+    },
+    "electron_privateer_wealth_20261108/run_1/LAUNCH.json": {
+      "bytes": 537,
+      "sha256": "bb08dad5cb798798ec03bc51c8aa20ae50a10b54b172702847bd07c12da49f59"
+    },
+    "electron_privateer_wealth_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 286506,
+      "sha256": "8e00d9a9102f9c31d60f322a051e320f36597d6a1d62f44768c27f16b6003e9a"
+    },
+    "electron_privateer_wealth_20261108/run_1/PROCESS.json": {
+      "bytes": 611,
+      "sha256": "99687051f1d3188c6e256f865e7800293ebaa4be49a797d1336c74da490b1ab5"
+    },
+    "electron_privateer_wealth_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1844,
+      "sha256": "8c67dd4e075abc3fe2477c043dc9eb9e1f7d4369d591ec4dc0b3fa246137d7b6"
+    },
+    "electron_privateer_wealth_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 21972,
+      "sha256": "95ececb0bc4105112f5505b2ba4d2189790ca4ee5d49a688b5e815288eedfffd"
+    },
+    "electron_privateer_wealth_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4578427,
+      "sha256": "170be091073bebc2381da4f748262098c1093008f5f35f9ae97971f557817c5b"
+    },
+    "electron_privateer_wealth_20261108/run_1/data/after_first_wealth.native_save.json": {
+      "bytes": 80691,
+      "sha256": "1a06b44221fe96825059f6f2ea47a596dce028d7e34b8e1a2bb62f399f8f6c71"
+    },
+    "electron_privateer_wealth_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 35450,
+      "sha256": "9661113168c5417733552e8fc71089c733d959048273e558daab7fe936753363"
+    },
+    "electron_privateer_wealth_20261108/run_1/data/report.json": {
+      "bytes": 1916121,
+      "sha256": "405f9486765076db152891a2f20a4e69884dffc4c0752408b80ccac4174333ba"
+    },
+    "electron_privateer_wealth_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 99612,
+      "sha256": "7b099d13f2af459803277b9d86fa79cf6c63b82ef3c50a94f67bafb27294b7bd"
+    },
+    "electron_privateer_wealth_20261108/run_1/gate_executed.gd": {
+      "bytes": 18757,
+      "sha256": "26113289315ce6cb66f22b1a3faac06d86100423dcecbe663288d0218eedf269"
+    },
+    "electron_privateer_wealth_20261108/run_1/native.log": {
+      "bytes": 349,
+      "sha256": "34c7980d3561994aca515e18756da6e6e2782f96e254a19dce99acad6d874537"
+    },
+    "electron_privateer_wealth_20261108/seal.py": {
+      "bytes": 5003,
+      "sha256": "ac8b11a6139d5e680c0b7b97d9dad90377d806883399d8ab22afc02fba17be1a"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_privateer_wealth_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "feb350caa42f0dc9ab42934204858fbaca80fa3710f4ae49f6b040b5d65a3b71"
+    },
+    {
+      "name": "electron_privateer_wealth_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "fc2b194f263abea861d941f69c4948c141e120a17cb79ed3cb62a50390fb8fc6"
+    },
+    {
+      "name": "electron_privateer_wealth_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "0cd6687e2c6b73e7833c1f1ecd50957e72cfac946c94e41575ae43414675b2b5"
+    },
+    {
+      "name": "electron_privateer_wealth_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "4c9ef2983df762e94d7bd00ff2133a3facfd54085832bcf1739938b2e866b4c9"
+    },
+    {
+      "name": "electron_privateer_wealth_20261108.tar.xz.part004",
+      "bytes": 88608,
+      "sha256": "19cc3b510363048877bea6fb175de2370804790fc00c63f19839093661708ea7"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_privateer_wealth_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 602,
+      "sha256": "41ba1abacd9bbea14a9e7b9ee6c02d5c9b976fb2c45bf94604441d5608a6bd90"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "sludge_discard_commit": "a813d1b0ac6d9213af5fb907bbabad44d3999438",
+    "sludge_discard_source_map_sha256": "10779ba8aa53ccf512d9ef0fad64be922ed0b1a0b85b4da0205389088dfe6cbb"
+  },
+  "status": "Source recovery increment only. Bounded Privateer Wealth repeat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 39,
+    "credential_pattern_flags": []
+  }
+}
