@@ -1,0 +1,361 @@
+{
+  "files": 27463,
+  "expected": 27463,
+  "missing": [],
+  "mismatch": [],
+  "archive_errors": [],
+  "checked_archives": 103,
+  "part_manifests": [
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-hopebringer/MANIFEST.json",
+      "sha256": "e6f6065db9938548aaa3d4d1fc59aec4bcda341dab5f52b01ec5207e2f29eded",
+      "bytes": 5563720
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-thaumaturgist/MANIFEST.json",
+      "sha256": "3b0bf9c4e03f9d4163035800777f2997aedca3c83612386363694c2e78baf46d",
+      "bytes": 3837008
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T1656Z-mama-bear-v2/MANIFEST.json",
+      "sha256": "17749257f4fcb802fb58f71e7dff03495b4dd41a05b518aea4eae4145aee7179",
+      "bytes": 1439312
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-kibble/MANIFEST.json",
+      "sha256": "0aa7b0381519cd34cb09458be5778bbcc704bf45bf9293b8c0813975c849a5a2",
+      "bytes": 5770352
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-vibrant-bubble/MANIFEST.json",
+      "sha256": "a231249f3f609733879cc2f83c9e69b312f67a67aae9f1e06ffb5099a3e6eb7f",
+      "bytes": 6349788
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105-secret-schematic/MANIFEST.json",
+      "sha256": "74f224fba027b41cf1f5af8dfe8e2cf638b13d15fedae5b1630f5d44932fc734",
+      "bytes": 1136572
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-powder-courier/MANIFEST.json",
+      "sha256": "fbb723c54968bb8faee232a9b2e4f5578c5d46f849b21164cf0e65f50a4a2005",
+      "bytes": 1183568
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T1804Z-mama-recruit-failed/MANIFEST.json",
+      "sha256": "9a99419a12a556351a64d6efaf83f5b8528a62460825be04b13305fde17d42f0",
+      "bytes": 1043572
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105-packed-wallet/MANIFEST.json",
+      "sha256": "15b0ae6fce7025ff73f0bdf193e8919fd4e63e352309273980852aa12bf69f08",
+      "bytes": 1123656
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-thaumaturgist-portrait/MANIFEST.json",
+      "sha256": "558ca2aa60ad140fcf62a001e2e648a7b6965a2e9b01ffbb195ad65eb50d05ce",
+      "bytes": 6265708
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105-maw-portrait/MANIFEST.json",
+      "sha256": "1db75fb0b6edff152f19e2622305fb5744570bb1ea3b0ad86d72495645bf9378",
+      "bytes": 1132536
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-leviathan/MANIFEST.json",
+      "sha256": "c87f1706c640f5ad13cfe77b777923614208724142fbe9e29fcdfca08bb4a324",
+      "bytes": 1890524
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T2130Z-mama-blessing-composition/MANIFEST.json",
+      "sha256": "f78c1fd2413264c89c3d99fc38540257fa2c8212da75c92f45796a217fec04b7",
+      "bytes": 1048292
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T1327Z-escapee-source/MANIFEST.json",
+      "sha256": "fe1db768cebae214deff9d63c9569778246eff622d5c52ca1c051a69cf2109c1",
+      "bytes": 1256172
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-fandral-fortune-v2/MANIFEST.json",
+      "sha256": "9980d69758d7199de051db569902499b2246cbd5a61228f34494c17f16de6346",
+      "bytes": 7233344
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-wand-divination/MANIFEST.json",
+      "sha256": "b9cd13683941ffcd9466c41ef5cf70d77cf3bf1ca1b4124a66226154dd6a3662",
+      "bytes": 1151604
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T2116Z-active-failures-promotion-draft/MANIFEST.json",
+      "sha256": "724d2681928669199a2e6bb6c5eaf421e237f0832ccfc0d52cfd17b9b2fa337a",
+      "bytes": 2513552
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T2116Z-active-failures-promotion-draft/MANIFEST.json",
+      "sha256": "ac1210d291ef5e99a468049e1605aa3bb23dee77974463cda0d0d885df3be38f",
+      "bytes": 14192
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-hyena-executed/MANIFEST.json",
+      "sha256": "719f658fa7041bfdfecb6f5f746a3e8a90979c7e3775a2a46d752e77203f5196",
+      "bytes": 2401732
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-weighted-gauntlet/MANIFEST.json",
+      "sha256": "aa0d8d2ca52bbd76aed256fedbdfc75e73dc89f82fa66aa09172e74fbeb5c971",
+      "bytes": 1139356
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105-crowbar/MANIFEST.json",
+      "sha256": "a3e10e6d28f95ff2c216589c4512b83d1b7d49b79e9075fa1ba34a63eb111d29",
+      "bytes": 1135192
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-beetle-band/MANIFEST.json",
+      "sha256": "f874fb3488756d24050edeb9fbd2c6cb990820fe49a4baaa94793bb59e11f53c",
+      "bytes": 1255476
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-lobster/MANIFEST.json",
+      "sha256": "f5400c097df9a466791a4bf7139675603ce9ef9d82ee951e4bdd6d6985adc847",
+      "bytes": 3632856
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T1425Z-glambot-lazy/MANIFEST.json",
+      "sha256": "fa9e88460503e9200ad8ae7745960a54cc4eae53485a846c1d2cf6bb6d7e7fc7",
+      "bytes": 3006412
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T1917Z-combat-lifetime-source/MANIFEST.json",
+      "sha256": "114ea40a0d65e736143df59c08c60bd57495815edaccf12dbc7597adffa26a8f",
+      "bytes": 1309312
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T2034Z-lifetime-fourspell/MANIFEST.json",
+      "sha256": "5b6dfb2387f4746e86ccd128a839ee6a824e5807d91bf17694f3a8eea08b3d24",
+      "bytes": 1472784
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-jailbird-juggernaut/MANIFEST.json",
+      "sha256": "35965f1d3408565714d4e52d9868a0cc7b6bb94e29c50e8c2067d2a0b7edb744",
+      "bytes": 1250448
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T1150Z-glambot-public/MANIFEST.json",
+      "sha256": "8bfbaa6770971316b38ce1325db555a11fe416930397bf9950a17fecbcc0faad",
+      "bytes": 2563644
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T1259Z-glambot-public-v2/MANIFEST.json",
+      "sha256": "e8d75e7aec615765a6b49ea72ea4786b913a9df95826611bf106c13d9fa2cc36",
+      "bytes": 2479824
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105-forest-heart-v2/MANIFEST.json",
+      "sha256": "735d3ebdd8855b52cde303bad024b1c3311bf1c1b604c87b09bd4860de636748",
+      "bytes": 1346196
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T2002Z-lifetime-native-mama/MANIFEST.json",
+      "sha256": "ec8de317ce00509b5dc2b033d5e8d0bdb9d5c1a172ef8df2b16d0886c34b1050",
+      "bytes": 2662948
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-bazaar-sticker/MANIFEST.json",
+      "sha256": "fa75e15179cc70aea99d6c313668a939dc6800e58931c81e2ac9513f2900971a",
+      "bytes": 1328840
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T1648Z-escapee-catalog/MANIFEST.json",
+      "sha256": "2efc2c06541b011bd505e57ad0176f9063f38530147f1037e69efa4f4bcd77e5",
+      "bytes": 152876
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-sushi-roll/MANIFEST.json",
+      "sha256": "005b57bf0d668c3da6b870882f2b5a38a29cec572a1c9789e5623886b83568b2",
+      "bytes": 7800328
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-portable-factory/MANIFEST.json",
+      "sha256": "41666399f88a62f491e463c313fafacea26c3599490dc944b94a44cd49ea05d3",
+      "bytes": 2210804
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T2200Z-mama-blessing-multicast/MANIFEST.json",
+      "sha256": "ffaed8c06ab2a058bd324aba2bba2be762d1ad132d014846c45f708916afcabe",
+      "bytes": 1026252
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105-lesser-booty-brew/MANIFEST.json",
+      "sha256": "b5043558ef4ce23d148ab405ebbf9232774d87f9e44ad37a10a7f5960b6c9909",
+      "bytes": 1129944
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-rockin-music-box/MANIFEST.json",
+      "sha256": "78ee01562ba911406b8fd2720db22192620478f7367505d9a17efbef451a6c3f",
+      "bytes": 1141968
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T1513Z-glambot-lazy-v2/MANIFEST.json",
+      "sha256": "fa72650233e1895ddbcec0899bba15fa96c3f638a054925ffeddebe0bb2e4616",
+      "bytes": 2278252
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-hyena-prepared/MANIFEST.json",
+      "sha256": "fa93d079622ea4ab1fce400d68c84c636e822e202abd97304b07244dda20c9fe",
+      "bytes": 1392332
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-lucky-tabby/MANIFEST.json",
+      "sha256": "887f5136957411919d289343445cc52c47c640c3e70c0618854a92a0d8d0d61d",
+      "bytes": 2267912
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-sky-golem-portrait/MANIFEST.json",
+      "sha256": "1712c4193666d793e98a5dbaf625336d587e3308483247329381d937e2d7f850",
+      "bytes": 1157676
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105-greater-booty-brew/MANIFEST.json",
+      "sha256": "bee267aaad8c48c6fa3ffe2336e0dcad36b4beb1fc8968f6dfacf14fd3ad8d87",
+      "bytes": 1132948
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261105T1402Z-escapee/MANIFEST.json",
+      "sha256": "72b46bc72091447f908624d9be8aaab62e2f51dbad2ca4dc437cabdb67dd6576",
+      "bytes": 1329320
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/pending/20261106-stormcoil-sticker/MANIFEST.json",
+      "sha256": "179f2677f83cc43d595c07ed6626580c7233d3cfc0d2ba64c0792a1d9d0d06af",
+      "bytes": 2272820
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/rescue/20261104T1028Z-runner/MANIFEST.json",
+      "sha256": "d8089c51301180dc53fce78edeb4965a66e4ba764d05da74e09b13b29b23d8cb",
+      "bytes": 2465600
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261104T053326Z/CHECKPOINT.json",
+      "sha256": "841e4d4cdeec1bfc6c08e2090a701fe8bc4abdfa3ea55acc7d296d1bf7cbe2fb",
+      "bytes": 24182480
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261105T1559Z-glambot-bounded/MANIFEST.json",
+      "sha256": "26885c734cac0dc5053bc88b8b3427e53da0cc8424c52a1a2af3f2fba66880c9",
+      "bytes": 4610908
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261104T1106Z/MANIFEST.json",
+      "sha256": "fc08b555988f0ff94ae6d9dfa66218d49c23c29b81c3095c85454441c32fca36",
+      "bytes": 1390080
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261104T1106Z/MANIFEST.json",
+      "sha256": "acce037a4d8800dcda101fa1792f3ee0ec70da667b0d39271362d11bbb5ebd62",
+      "bytes": 604160
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261104T022213Z/CHECKPOINT.json",
+      "sha256": "015a73db17df85b0cf3cb0c470e14aab9068bd8af5c3097808c7567606cf152b",
+      "bytes": 12169144
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261104T1229Z-azerite/MANIFEST.json",
+      "sha256": "6bf96f3ec66857f0a6468dd420b62816cdd7bba50ab3b851eb2f50c1d4d868b1",
+      "bytes": 1242728
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261104T1229Z-azerite/MANIFEST.json",
+      "sha256": "5eaae3277fcd6f364ab26d93557eb38ebd72737ae650f876446bd136507770ab",
+      "bytes": 23744
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261104T1229Z-azerite/MANIFEST.json",
+      "sha256": "cf18689eb30544328955cdc4eadc781e82b8d706bf3b8b4b989da0a07083c298",
+      "bytes": 193264
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261104T1229Z-azerite/MANIFEST.json",
+      "sha256": "8fecde500958215a3fbb27749f4824622249f4ef8304ee1c18ee10f0d9af3d75",
+      "bytes": 54064
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261104T040124Z/CHECKPOINT.json",
+      "sha256": "0bad7315033e4f06cecbdadf836ea58ec63c1347ac68ef1723e879ef1d355da5",
+      "bytes": 19584152
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261104T040124Z/CHECKPOINT.json",
+      "sha256": "3f59f35e20d66beebeb91407f510165a3d48a51291ce3ce8d3538fd1b4c5b492",
+      "bytes": 2785124
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261105T0344Z-miniature-ship/MANIFEST.json",
+      "sha256": "70372b3954d7b21bd2416784ca05163cb518f04ad8753618f9b637238ffaf397",
+      "bytes": 3003892
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261105T0640Z-crystal-public/MANIFEST.json",
+      "sha256": "abf4cbf4d071628daf0ec92caf183b4b72885fb9d4f8d564be2b219d5b8dc53e",
+      "bytes": 3170760
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/development/20261105T0822Z-bobble-public/MANIFEST.json",
+      "sha256": "7384380d3edc12feddde36b1b5cc7611a6072739b4593087015f12217d3a8847",
+      "bytes": 2492964
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/source-recovery/20261104T1139Z-azerite-v3/MANIFEST.json",
+      "sha256": "516e8d2b290ff80048ab1ab7e9bc01c2b860353cfae51d60ae4fceede0e92c9c",
+      "bytes": 2632095
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/source-recovery/20261104T1327Z-phrasebooks/MANIFEST.json",
+      "sha256": "822eb9cca80d99dfc3a24691bff9e6de7d5c76259fc490169c31fc0033255e5a",
+      "bytes": 2533184
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/source-recovery/20261104T1327Z-phrasebooks/MANIFEST.json",
+      "sha256": "07530292ebd301ecf5080c55da7b5f66d0ee1c812488495ec8151205e9638b56",
+      "bytes": 2510582
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/checkpoints/20261103T163418Z/battlegrounds_overlay_20261103T163418Z.parts.json",
+      "sha256": "db5b24e8f2764804f0793680e5ff7c923d765c74fd8c8494c066109245d107b3",
+      "bytes": 85222976
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/checkpoints/20261103T144448Z/battlegrounds_overlay_20261103T144448Z.parts.json",
+      "sha256": "4f7827ed425939a08e6c83a99dc05c1c2abc829dabf58d781efb51c2db053724",
+      "bytes": 78993768
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/checkpoints/20261103T051713Z/battlegrounds_overlay_20261103T051713Z.parts.json",
+      "sha256": "3fbc73ac1862e45749f2eb6ca74dbbcfd72d51465af9a8827f514214b07f0665",
+      "bytes": 35099798
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/checkpoints/20261103T082900Z/battlegrounds_overlay_20261103T082900Z.parts.json",
+      "sha256": "fa195fe8c596627b429cec56887841eb22e3d12cd51417fde0400ae99106ca32",
+      "bytes": 20154116
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/checkpoints/20261103T064223Z/battlegrounds_overlay_20261103T064223Z.parts.json",
+      "sha256": "130d07a9a79318dd307eae422312389f7d6aa73d131af32d5fef02a41829f2cc",
+      "bytes": 15868140
+    },
+    {
+      "manifest": "repository/battlegrounds-backup/checkpoints/20261103T123009Z/battlegrounds_overlay_20261103T123009Z.parts.json",
+      "sha256": "7eb28789e9819291741dc223c274a260d6eefade422a4d75472af3ec6b1a6772",
+      "bytes": 50226232
+    },
+    {
+      "manifest": "bloodbound/battlegrounds-backup/pending/20261106-bloodbound-earrings/MANIFEST.json",
+      "sha256": "79e518052ef139e2e3f29b9f5c7af20a038a17d41240391aac3852de11c667cb",
+      "bytes": 1343972
+    }
+  ],
+  "source_map_sha256": "9a517b7c2e0ba0c14308248884696b008e5a6f0b500a1d1d97bcd53c4b7a9c71"
+}
