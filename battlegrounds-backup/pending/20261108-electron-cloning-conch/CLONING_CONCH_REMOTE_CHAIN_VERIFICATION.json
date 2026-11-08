@@ -1,0 +1,59 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "cloning_conch",
+      "commit": "730a84f6e10bd6debdb3cc144ca46fa527bdbce2",
+      "repository_path": "battlegrounds-backup/pending/20261108-electron-cloning-conch",
+      "manifest_sha256": "556662eeb2f38d275853da2cfb2ff4fdc562461930f81b4cbc6894f672242b65",
+      "archive": "electron_cloning_conch_20261108.tar.xz",
+      "archive_sha256": "20427fe9c99003c39932cf902669651703e936b6b24d99c9f0cc9bb297968f77",
+      "archive_bytes": 1077228,
+      "parts_verified": 5,
+      "members_verified": 56,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "deathrattle_discover": "64db47233c38a84eae77365374b1f834172c21b5cdafd2ec6c596a38c2cd0a5f",
+    "cloning_conch": "4af4961f1d1b1f67ab9981f92bcd202553c8a35a9f2faa9a1f69bd47627883dd"
+  },
+  "baseline_files_rehashed": 27701,
+  "baseline_unchanged_after_restore": true,
+  "baseline_composition": "Recruitment runtime plus Deathrattle delta; no pre-existing Deathrattle runtime directory",
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "change_lists": {
+    "added": [
+      "research/electron_cloning_conch/BG28_601.native.xml",
+      "research/electron_cloning_conch/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "changes_companion_sha256": "38fb2c5f50783b82ad17c513447a316da61bef1e309b42f6b566de4be9fc78a6",
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "restored_files": 27703,
+  "restored_bytes": 1548057670,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "supporting_deathrattle_receipt_sha256": "0d0a749024680d5e855fcc906bc445a7469dc484a84329dd4f6ecec72ef821d1",
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "47f9232e818c42246c1932cebfdb71dce791bb42b0b82cf5beb9614655bdd5b7",
+  "prior_whole_chain_to_cloning_conch_map_continuity": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "historical_baseline_provenance": "Prior fresh full-chain proof through Deathrattle is reused. Only Cloning Conch is freshly downloaded this round; every composed baseline byte is rehashed.",
+  "gameplay_test_run": false,
+  "no_deletion_performed": true,
+  "all_prior_backups_preserved": true,
+  "verified_at_utc": "2026-11-08T01:11:46.668823+00:00"
+}
