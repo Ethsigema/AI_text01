@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_lullabot_20261108.tar.xz",
+  "bytes": 1573176,
+  "sha256": "e247a55168f1bdcea2a4d1593a38ea143cef7dc6fe07f034389cc086c6a0d4af",
+  "files": {
+    "hopebringer_lullabot_20261108/BASE_MAP.json": {
+      "bytes": 4590043,
+      "sha256": "f05abac1c5b185aab5ea1b68643f9a2e7447008203f3dd515e459b4d8498cbcf"
+    },
+    "hopebringer_lullabot_20261108/EXPECTED_ROWS.json": {
+      "bytes": 33093,
+      "sha256": "585af529df580e65e0e0b4d7879c1821e20c08e7d296fbb8859caabc32c5c8c6"
+    },
+    "hopebringer_lullabot_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_lullabot_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4886,
+      "sha256": "ae76e4325ca94d7586105ec7e054cce40d6be4486a578bef67fa5682b4828671"
+    },
+    "hopebringer_lullabot_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 305683,
+      "sha256": "9e68b13c7160ba67f6279cd0aafecb2fd5b5a8b00998290c3e987c5e3766fce4"
+    },
+    "hopebringer_lullabot_20261108/README.md": {
+      "bytes": 1332,
+      "sha256": "8ab97e7452cbadb1160fbf5a90f0806980d01619d0c737507c5943ecdb47bcff"
+    },
+    "hopebringer_lullabot_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_lullabot_20261108/SOURCE_DELTA.json": {
+      "bytes": 1286,
+      "sha256": "d4c4eef107fc1f878d087bed5678bd77b29b25447735c845d7f529d5fda68805"
+    },
+    "hopebringer_lullabot_20261108/SOURCE_MAP.json": {
+      "bytes": 4590360,
+      "sha256": "0416cdda6d96751509c39dc3dcfe60983fede6130615ba68df1eefa1dea4eb9e"
+    },
+    "hopebringer_lullabot_20261108/VALIDATION.json": {
+      "bytes": 913,
+      "sha256": "c8abadb3c4d1b596ab0f27149021b6a55b416195e5fc4f1a70e29e081c51b4f0"
+    },
+    "hopebringer_lullabot_20261108/build.py": {
+      "bytes": 3837,
+      "sha256": "790cf4045af6560c34788c0b198d4d6c916fcfac1a9386c835cff15f07620c83"
+    },
+    "hopebringer_lullabot_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 14335,
+      "sha256": "867757d6413eea9f4532ae7c41493eb3dbf79bac62c2b3fa089c1bb872b92d64"
+    },
+    "hopebringer_lullabot_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 51106,
+      "sha256": "31e6ae2ea8b4ef77f3697f8fd1d7fdd568f46674ddaee946ad5ab9fb189d7bd6"
+    },
+    "hopebringer_lullabot_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 50528,
+      "sha256": "e5d16e253a1fd7f711b1f35c6bcf302152b79eadb93fb2df8beab1d0be1abe3a"
+    },
+    "hopebringer_lullabot_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 25760,
+      "sha256": "ed3af8721ab4f52056c52c7aba8bf283c6c2e5926f6e7a758e17e9b3f45544db"
+    },
+    "hopebringer_lullabot_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 25525,
+      "sha256": "337a1cf8df3cf3a1806b9090c057e7d111ca82fafeaa57e06e4da19347eb5ecf"
+    },
+    "hopebringer_lullabot_20261108/delta/research/hopebringer_lullabot/BG26_146.native.xml": {
+      "bytes": 2831,
+      "sha256": "6341a03b493d054e93566c2143f1bdc11b5ce728b0a92ccb84d51ce1767e110d"
+    },
+    "hopebringer_lullabot_20261108/delta/research/hopebringer_lullabot/evidence.json": {
+      "bytes": 487,
+      "sha256": "6f85b79cd2a8ec3ca2247d45ad91b965dde26da361a204e9104d7b212381cc88"
+    },
+    "hopebringer_lullabot_20261108/gate.gd": {
+      "bytes": 18578,
+      "sha256": "f33f105d442e81f85fcb79320b7f28b729808043efae4cb40f7f2e0a2bce7afe"
+    },
+    "hopebringer_lullabot_20261108/materialize.py": {
+      "bytes": 1681,
+      "sha256": "8971dfb428b1c0b99e73b92369a427e5be8d91ac8b8434a902dea7e54a10bed6"
+    },
+    "hopebringer_lullabot_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1171,
+      "sha256": "46e7a6ae158c8ba50692db333ea4da4328b3ca8c9414852e94e7fa6344807447"
+    },
+    "hopebringer_lullabot_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_lullabot_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 33093,
+      "sha256": "585af529df580e65e0e0b4d7879c1821e20c08e7d296fbb8859caabc32c5c8c6"
+    },
+    "hopebringer_lullabot_20261108/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "81e418484acea74a34df806aef7ca59693a1ac8e003043112f9dbb1446ac9cce"
+    },
+    "hopebringer_lullabot_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 305683,
+      "sha256": "9e68b13c7160ba67f6279cd0aafecb2fd5b5a8b00998290c3e987c5e3766fce4"
+    },
+    "hopebringer_lullabot_20261108/run_1/PROCESS.json": {
+      "bytes": 601,
+      "sha256": "8bea7a98f8e9cadfa97f52f7b3f080ceebe76d0fc0e302a1be38f618cbef9e85"
+    },
+    "hopebringer_lullabot_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1286,
+      "sha256": "d4c4eef107fc1f878d087bed5678bd77b29b25447735c845d7f529d5fda68805"
+    },
+    "hopebringer_lullabot_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 14656,
+      "sha256": "cb3c95e44bb0ec94a0be58e2d1666a83c40ca7d31c2766341116f5b87f3cec73"
+    },
+    "hopebringer_lullabot_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4590360,
+      "sha256": "0416cdda6d96751509c39dc3dcfe60983fede6130615ba68df1eefa1dea4eb9e"
+    },
+    "hopebringer_lullabot_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 71070,
+      "sha256": "c15e81c3c0a53a978a88ac1b5195a81345114eb83910f9790aa4fc01c2d00e65"
+    },
+    "hopebringer_lullabot_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 36649,
+      "sha256": "c43ff82790c1750e05432503a45de28bbe80331d2bc14253ff27f5e83a5a63c3"
+    },
+    "hopebringer_lullabot_20261108/run_1/data/report.json": {
+      "bytes": 6757124,
+      "sha256": "4161aab2ad104436260c913f57f881c0381e3154827d9d1f92a8adb4486d7906"
+    },
+    "hopebringer_lullabot_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 736577,
+      "sha256": "7ec07e2f6c3af0c1f736477250bfe2a12eef55d4ccaab5afc2e6aec7fe7b9365"
+    },
+    "hopebringer_lullabot_20261108/run_1/gate_executed.gd": {
+      "bytes": 18578,
+      "sha256": "f33f105d442e81f85fcb79320b7f28b729808043efae4cb40f7f2e0a2bce7afe"
+    },
+    "hopebringer_lullabot_20261108/run_1/native.log": {
+      "bytes": 397,
+      "sha256": "15aecfbc8305f7387901ca8e53c9bffe27ff6f04383a7a67d02e17a5a8af40e7"
+    },
+    "hopebringer_lullabot_20261108/seal.py": {
+      "bytes": 3934,
+      "sha256": "82c715ba05d0e9f930a7776a74b89a4e70e7a547762f8cc7d926974058646df0"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_lullabot_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "77b929e785b2de93ba4e16a738819ed20746ea1a3adde6d05a781e265601ef51"
+    },
+    {
+      "name": "hopebringer_lullabot_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "80bac4a437d257174b2d056f6685be00040fe21a2b035e37d1a231e4721f92c4"
+    },
+    {
+      "name": "hopebringer_lullabot_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "6159f1aedc2a3928f0f10877392b15e13e61297e6bf60811944c1d1aeb54c626"
+    },
+    {
+      "name": "hopebringer_lullabot_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "cc86c49e76d624cd803b63652e711b8bfec4fb9260df6afdf5d09a88fdec97a0"
+    },
+    {
+      "name": "hopebringer_lullabot_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "10f2568588e455d2f2282938d189178e95856cd9cf2921c24fb4831507ff771c"
+    },
+    {
+      "name": "hopebringer_lullabot_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "472a5bca64a47167df9e26dfd3fe858be4b0ebcc91ebfa8d2aed3deeafc0ad9d"
+    },
+    {
+      "name": "hopebringer_lullabot_20261108.tar.xz.part006",
+      "bytes": 73176,
+      "sha256": "495e1e78556e2abca4b8ac777a2b9b8a10aa87a726f99fca6b79cb3be7762b5b"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_lullabot_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 402,
+      "sha256": "2d066b133085cbdfca8cb2666b46aa3d6ebdb7ab3101a25a39be3b58256c2c80"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_geomancer_commit": "ec2ed8220e11d89649c01b29b12ef0d2525568dc",
+    "hopebringer_geomancer_source_map_sha256": "f05abac1c5b185aab5ea1b68643f9a2e7447008203f3dd515e459b4d8498cbcf"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Lullabot standalone end of turn combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
