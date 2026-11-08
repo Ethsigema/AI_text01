@@ -1,0 +1,67 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_forsaken",
+      "commit": "3ab642882c9ed65e62e1aadb4a35ce543db969ba",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-forsaken",
+      "manifest_sha256": "bc3eca1e4c8c61bdb49d71a9a45fe2fd1c69bdb33def85379c0144a7a0ac5089",
+      "archive": "hopebringer_forsaken_20261108.tar.xz",
+      "archive_sha256": "ad4ae5e962e671775262cfd563d3b8120d341d52dc036227954cb38eed5a4323",
+      "archive_bytes": 1565968,
+      "parts_verified": 7,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_rat_leader": "131d581364ab21c0faa390ff33160d2652f8cd99475552195b704cb67b47e4a7",
+    "hopebringer_forsaken": "57a47c0f18da92d854dcfa8460c76668b93ea778c831d8ad0fac0ada329b7051"
+  },
+  "hopebringer_rat_leader_source_byte_equals_hopebringer_forsaken_base": true,
+  "baseline_files_rehashed": 27758,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "be12f383375eb417795c048bfe39e0b587e6db3cbb17b5224b3e7107095f1698",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_forsaken/BG25_010.native.xml",
+      "research/hopebringer_forsaken/BG25_010t.native.xml",
+      "research/hopebringer_forsaken/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 8,
+  "new_files": 3,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 8,
+  "removed_files": 0,
+  "restored_files": 27761,
+  "restored_bytes": 1548252047,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "fd25b27e3113830b7d692beab0f02d85568bc579c5b995e663fe3fa1feb2a319",
+  "prior_whole_chain_via_hopebringer_rat_leader_to_hopebringer_forsaken_map_continuity": true,
+  "supporting_hopebringer_rat_leader_chain_receipt_sha256": "f07464f20a9beec5fb7ee5e86ea8e05d113ba228a8f3b8c3686916a00c09af1e",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Rat Leader baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Forsaken increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T07:42:37.183010+00:00"
+}
