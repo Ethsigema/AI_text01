@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_hoarder_20261108.tar.xz",
+  "bytes": 1581820,
+  "sha256": "e4271a74f442eaccf807e2cc0130a915eb352f233e2f8aa6113489620606d7a9",
+  "files": {
+    "hopebringer_hoarder_20261108/BASE_MAP.json": {
+      "bytes": 4592423,
+      "sha256": "31ff2f5b844400593f57f8dce4423ea64ea9f9a6c9cba986b1110de20aab04a7"
+    },
+    "hopebringer_hoarder_20261108/EXPECTED_ROWS.json": {
+      "bytes": 36777,
+      "sha256": "1df77550e8a94470a5bbdb3c2256cd01af9358d5a9c7bc191b113afa00285b3c"
+    },
+    "hopebringer_hoarder_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_hoarder_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4884,
+      "sha256": "eb727faa6a2192296eceed2234130b109e8c5879e541abdaa41b04a6ffbb254f"
+    },
+    "hopebringer_hoarder_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 309476,
+      "sha256": "1deca83b41a1ebce919e1d18586b0895b48e75eab17ddc7cbde2243de3a2f833"
+    },
+    "hopebringer_hoarder_20261108/README.md": {
+      "bytes": 1190,
+      "sha256": "307a811a9987cc8e9b5b0f7748f7b818ed8f43b249b15777503fd37633c0a7d2"
+    },
+    "hopebringer_hoarder_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_hoarder_20261108/SOURCE_DELTA.json": {
+      "bytes": 1283,
+      "sha256": "fd6f457aec468c3e127801badbf08a648686e7d8091e762b5823a4ae3dce82aa"
+    },
+    "hopebringer_hoarder_20261108/SOURCE_MAP.json": {
+      "bytes": 4592738,
+      "sha256": "4f5ca51d64dfdc38e5d86c685b345a6eb45d133ab4b29c027b5df841de01394b"
+    },
+    "hopebringer_hoarder_20261108/VALIDATION.json": {
+      "bytes": 918,
+      "sha256": "dd6cfbec7c96a25f469c18630f1a35ed08e803a9011854a7cf8b4d2ddb72858e"
+    },
+    "hopebringer_hoarder_20261108/build.py": {
+      "bytes": 3648,
+      "sha256": "795fcdf75f6bfe9e6b686de9edfb57df77ca35aa893ca3831f2c36dd7e80ddad"
+    },
+    "hopebringer_hoarder_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 15527,
+      "sha256": "276a60a51fcde6a207f776797f92e4fe2dd5cf3574e671afc2997cf79ab540c9"
+    },
+    "hopebringer_hoarder_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 57263,
+      "sha256": "b0256a9fa6f3ecd127d636485efa52431925a44ace408a5b4feecccf822629a6"
+    },
+    "hopebringer_hoarder_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 56685,
+      "sha256": "b07014669535feb113dea62728050435a25069814dcd5656b344967ebe4e30da"
+    },
+    "hopebringer_hoarder_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 27602,
+      "sha256": "47d3a2770d3c4cace8359d2507c9c7003c070ad14d12482bd1936fdce8879e90"
+    },
+    "hopebringer_hoarder_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 27367,
+      "sha256": "f66f1e986ee9f06b21664475623a6bdbbdc92ae4fd8ccc77d0a11aeaaa8c23c9"
+    },
+    "hopebringer_hoarder_20261108/delta/research/hopebringer_hoarder/BG32_820.native.xml": {
+      "bytes": 3300,
+      "sha256": "fd2429748a6eecbb1c08192aeda82a808e68d8c99693841a700e623c7a9ef9d0"
+    },
+    "hopebringer_hoarder_20261108/delta/research/hopebringer_hoarder/evidence.json": {
+      "bytes": 607,
+      "sha256": "6c26f73403dd52d5eba15573907fe9d5d0e9f8a2c5862c08eadf00e6c6be7794"
+    },
+    "hopebringer_hoarder_20261108/gate.gd": {
+      "bytes": 18867,
+      "sha256": "a39eca7492edafda5a54b7f7f313d1595fabbf9d657c6ce1de6bcb5c56291bb9"
+    },
+    "hopebringer_hoarder_20261108/materialize.py": {
+      "bytes": 1679,
+      "sha256": "ab53087ca28f2e38f4ff2b3c7d3faa7b6a3607f266070369af18c86d4dd87b08"
+    },
+    "hopebringer_hoarder_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "64b3f92dca7333a9d5caac6067ca3ce2f36ca1896ccabaf5fcf5f52f68aacf22"
+    },
+    "hopebringer_hoarder_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_hoarder_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 36777,
+      "sha256": "1df77550e8a94470a5bbdb3c2256cd01af9358d5a9c7bc191b113afa00285b3c"
+    },
+    "hopebringer_hoarder_20261108/run_1/LAUNCH.json": {
+      "bytes": 525,
+      "sha256": "412995b5059e8ffae0d805f34a1918360550badb6282755e0c1b50c380e49e66"
+    },
+    "hopebringer_hoarder_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 309476,
+      "sha256": "1deca83b41a1ebce919e1d18586b0895b48e75eab17ddc7cbde2243de3a2f833"
+    },
+    "hopebringer_hoarder_20261108/run_1/PROCESS.json": {
+      "bytes": 598,
+      "sha256": "41f66bfc251fdb9e08909c5a1382c29b624c2a80b77151d5cfc1a6df1dc80095"
+    },
+    "hopebringer_hoarder_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1283,
+      "sha256": "fd6f457aec468c3e127801badbf08a648686e7d8091e762b5823a4ae3dce82aa"
+    },
+    "hopebringer_hoarder_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 16084,
+      "sha256": "3dbcf24fe9fff70bacb55abc1598def87902e9ebc5d086f6af6ec81666be42e3"
+    },
+    "hopebringer_hoarder_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4592738,
+      "sha256": "4f5ca51d64dfdc38e5d86c685b345a6eb45d133ab4b29c027b5df841de01394b"
+    },
+    "hopebringer_hoarder_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 77859,
+      "sha256": "3b29ea5ff4ff4223fc061c81ada2f8524ae02d8b24332848e000c78fa27d2a45"
+    },
+    "hopebringer_hoarder_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 36773,
+      "sha256": "d9980663fda6ee22b11ffe365307aeb750fd3f551f81aabf4b3e8542d4a1ffbc"
+    },
+    "hopebringer_hoarder_20261108/run_1/data/report.json": {
+      "bytes": 7034600,
+      "sha256": "b5d2dbf7e92660ed5dced9c5c4b95d605637f05e26f37f721f8520a2ffd5b99b"
+    },
+    "hopebringer_hoarder_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 753085,
+      "sha256": "849b2f3c808c762d3609ec56cc260a9089828fd36222e218a5d1fc49ce1ee759"
+    },
+    "hopebringer_hoarder_20261108/run_1/gate_executed.gd": {
+      "bytes": 18867,
+      "sha256": "a39eca7492edafda5a54b7f7f313d1595fabbf9d657c6ce1de6bcb5c56291bb9"
+    },
+    "hopebringer_hoarder_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "b7e2d08d9969cba0e8ef9bf352f2818ab6a7b89f0bf4489670393a21ece10292"
+    },
+    "hopebringer_hoarder_20261108/seal.py": {
+      "bytes": 4014,
+      "sha256": "ba5864b3f24e2d79434f7665c2ac71629821d91173d5c4dfe24ef1ac553aa298"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_hoarder_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "15110233d93fefc0a3255721e567fc601f8091e2f61d59cc44e2861141e280ea"
+    },
+    {
+      "name": "hopebringer_hoarder_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "3516b06db51b3797f3264d95e50c0cab804303fadbdcae9f88cdf0c1d85b40bc"
+    },
+    {
+      "name": "hopebringer_hoarder_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "6ef4328efbf2a2f4e27ea12b3083c3cf36b188f17a7d2f51cee10d5ba383c15f"
+    },
+    {
+      "name": "hopebringer_hoarder_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "7729fc0f77955010b674b714e6d235e88348c1d5f36e116594bafb0164758d28"
+    },
+    {
+      "name": "hopebringer_hoarder_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "d7d8700072abc33bf93686c3d2eca946a58b8522c002d0a83b62ea1dc8af6e3f"
+    },
+    {
+      "name": "hopebringer_hoarder_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "0cef1b8b905cb27ab93ad63e7080fd7f830a5f31380eb832bd483f0744d7a39f"
+    },
+    {
+      "name": "hopebringer_hoarder_20261108.tar.xz.part006",
+      "bytes": 81820,
+      "sha256": "9e1c7307e16fa2c4276c23337de8b1de6e3374b5654ec28e434d2c76c4b0692e"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_hoarder_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 400,
+      "sha256": "37e9d9b46fef940eca771b9a5a04a403243c78989f8bf126e7351ed0c78e89e6"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_hooktail_commit": "f20826d2b537d76f2658c256616bb8348a48f988",
+    "hopebringer_hooktail_source_map_sha256": "31ff2f5b844400593f57f8dce4423ea64ea9f9a6c9cba986b1110de20aab04a7"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Hoarder Battlecry Deathrattle Ring combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
