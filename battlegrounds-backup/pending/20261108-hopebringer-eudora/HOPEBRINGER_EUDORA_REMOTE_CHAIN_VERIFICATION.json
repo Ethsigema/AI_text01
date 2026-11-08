@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_eudora",
+      "commit": "9f5721df03f45b20926e8e6c5e097f90348cdb39",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-eudora",
+      "manifest_sha256": "d6b5535b63b57929888b424547a802c8acca0478e35883e90efaf234e7f415be",
+      "archive": "hopebringer_eudora_20261108.tar.xz",
+      "archive_sha256": "c65a461ad8f8636cfe77c704bfbcf1ce997abc1a3f879b47d4e6a15a3338807d",
+      "archive_bytes": 2591092,
+      "parts_verified": 11,
+      "members_verified": 48,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_forsaken": "57a47c0f18da92d854dcfa8460c76668b93ea778c831d8ad0fac0ada329b7051",
+    "hopebringer_eudora": "423e2cf3e18e4edef0949ce180fb7145e7e8b765d01eb5feeefb4f455ac6df1e"
+  },
+  "hopebringer_forsaken_source_byte_equals_hopebringer_eudora_base": true,
+  "baseline_files_rehashed": 27761,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "0df4673c17f733acf12d43320d085a2d7b46eff5257505d3451329f4e6f4b21e",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_eudora/BG33_828.native.xml",
+      "research/hopebringer_eudora/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27763,
+  "restored_bytes": 1548258743,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "fd25b27e3113830b7d692beab0f02d85568bc579c5b995e663fe3fa1feb2a319",
+  "prior_whole_chain_via_hopebringer_forsaken_to_hopebringer_eudora_map_continuity": true,
+  "supporting_hopebringer_forsaken_chain_receipt_sha256": "298433f323a99a234700f059b5eed51217be76c371399092f33172c9ddc95fc7",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Forsaken baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Eudora increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T08:07:18.063562+00:00"
+}
