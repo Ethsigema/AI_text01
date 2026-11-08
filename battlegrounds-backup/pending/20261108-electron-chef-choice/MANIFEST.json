@@ -1,0 +1,207 @@
+{
+  "archive": "electron_chef_choice_20261108.tar.xz",
+  "bytes": 1085872,
+  "sha256": "a16af8dc107c44fa558df23beef080198b08931b5d86abcee88b391d86bf9a20",
+  "files": {
+    "electron_chef_choice_20261108/BASE_MAP.json": {
+      "bytes": 4575829,
+      "sha256": "125e50eccf1f9d59cb4e16f83d6fd1994cb56a423f9370690dca9502b7f02ab3"
+    },
+    "electron_chef_choice_20261108/EXPECTED_ROWS.json": {
+      "bytes": 29719,
+      "sha256": "e69face3b40587157896e0f05dec44c6bf1b46fafdb14e2c89f7f6460bc15e4e"
+    },
+    "electron_chef_choice_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_chef_choice_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5188,
+      "sha256": "3901f8d61d80afc9383cd16889eabcc9c8d7efe08f24f4b8d4a00544d9bb2794"
+    },
+    "electron_chef_choice_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 282676,
+      "sha256": "05468aefb5369bd38634592790c15d8733dde1442a635a110a4c0dece7cce06d"
+    },
+    "electron_chef_choice_20261108/README.md": {
+      "bytes": 1966,
+      "sha256": "1dda565ab42b168f04a8543e8bf6bd247ce558e2086cbbf4141dbb3147e0658f"
+    },
+    "electron_chef_choice_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "1273b28e774d0a0e816eecee4f77eef47b4eb5fd94d6b4e401406ab217efc072"
+    },
+    "electron_chef_choice_20261108/SOURCE_DELTA.json": {
+      "bytes": 1466,
+      "sha256": "b47eb7fa5f56ba3954df0cb288ac0b7d7ad6d707d8d1e67cf696772cfabb0431"
+    },
+    "electron_chef_choice_20261108/SOURCE_MAP.json": {
+      "bytes": 4576146,
+      "sha256": "e1a0a8cec47f9e58612f5e0e1533ea8ff01710b0487d09689a21509821f666bc"
+    },
+    "electron_chef_choice_20261108/VALIDATION.json": {
+      "bytes": 890,
+      "sha256": "b95c8cfa20fecb90998f8581423d11cbdd48c206e33daaa8abd6c631b4f3c5a4"
+    },
+    "electron_chef_choice_20261108/build.py": {
+      "bytes": 4537,
+      "sha256": "1252e1aa4d8088907daa54d96211b55b18f6c8125145a587e0dbeff77248e86f"
+    },
+    "electron_chef_choice_20261108/delta/core/chef_choice_recruit.gd": {
+      "bytes": 15759,
+      "sha256": "45a8657b8260839d4914bdfa297c9a642e01e410923af7f8035a5e7e24af1bb5"
+    },
+    "electron_chef_choice_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 54995,
+      "sha256": "0d5aabd7526f48d8e731738d43a3bc0699cadbe28c3c53fd1c8e0216df9ae637"
+    },
+    "electron_chef_choice_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 53048,
+      "sha256": "015b02f2e99f9f3686146011d281d18852be1da6856c39fb3081e3f0d88f6487"
+    },
+    "electron_chef_choice_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 21322,
+      "sha256": "ed3a3e88a92bbf92dad70113703dea51c97a5660175a45106dd9f68e78371862"
+    },
+    "electron_chef_choice_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 27902,
+      "sha256": "e3cb97217af42a6e5259647739f8ddbaaa13ae5e8b64bbd7d89cc1b766facab9"
+    },
+    "electron_chef_choice_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 26692,
+      "sha256": "277f9cc36599a2eca8152082719988721d64054da3b676ec5751e712a31cee15"
+    },
+    "electron_chef_choice_20261108/delta/research/electron_chef_choice/BG28_518.native.xml": {
+      "bytes": 3554,
+      "sha256": "28b927cd34bc17ec556004773747ba77fe5d88a9a7f9449e72f00832583daa83"
+    },
+    "electron_chef_choice_20261108/delta/research/electron_chef_choice/evidence.json": {
+      "bytes": 552,
+      "sha256": "f23a5f7f4fb245aa9dc2b16ba0ef4e02bf6137732ff0e3b4089f256ff29d1fd6"
+    },
+    "electron_chef_choice_20261108/gate.gd": {
+      "bytes": 19981,
+      "sha256": "a47e213c2148894becc0f46eb369b09314282cfc1efef4221857708e34cd14a6"
+    },
+    "electron_chef_choice_20261108/materialize.py": {
+      "bytes": 1691,
+      "sha256": "2e270ca27711f4a2447915aa27857acd5c3b06daf7277a884e065d1e83626b9e"
+    },
+    "electron_chef_choice_20261108/prepare_gate.py": {
+      "bytes": 4639,
+      "sha256": "4885c87efbc112fdce5fd2db2ee3ad2b306931b62a295b99b325dcfa302712aa"
+    },
+    "electron_chef_choice_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1177,
+      "sha256": "ae7d3054d9d9b8a226065ef496b9009fb88f2ce02993d418d204534649df4502"
+    },
+    "electron_chef_choice_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_chef_choice_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 29719,
+      "sha256": "e69face3b40587157896e0f05dec44c6bf1b46fafdb14e2c89f7f6460bc15e4e"
+    },
+    "electron_chef_choice_20261108/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "76aba5505560a1ccd335e815f9856405976a12070c299906d706799a9b540252"
+    },
+    "electron_chef_choice_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 282676,
+      "sha256": "05468aefb5369bd38634592790c15d8733dde1442a635a110a4c0dece7cce06d"
+    },
+    "electron_chef_choice_20261108/run_1/PROCESS.json": {
+      "bytes": 600,
+      "sha256": "213d299bb7f46f70e2ca435533831f42a8ab14db67644121e0b9d990e4f5ed7b"
+    },
+    "electron_chef_choice_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1466,
+      "sha256": "b47eb7fa5f56ba3954df0cb288ac0b7d7ad6d707d8d1e67cf696772cfabb0431"
+    },
+    "electron_chef_choice_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 21284,
+      "sha256": "84f44504b5f629862aa9b77074358eccf3148227ee71fa4a0c512eb32f35d19f"
+    },
+    "electron_chef_choice_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4576146,
+      "sha256": "e1a0a8cec47f9e58612f5e0e1533ea8ff01710b0487d09689a21509821f666bc"
+    },
+    "electron_chef_choice_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 35972,
+      "sha256": "a3c7215c4455699bc4867327c87179c04d8ce84c26206bbbc0103ac2b74a3be8"
+    },
+    "electron_chef_choice_20261108/run_1/data/recruited_card.native_save.json": {
+      "bytes": 59830,
+      "sha256": "ad5912bff0467caf90f5116bebb96a7d304361e861adbc30354617af48cb321f"
+    },
+    "electron_chef_choice_20261108/run_1/data/report.json": {
+      "bytes": 1525160,
+      "sha256": "bd6887228247894a7b02ef388b32c3f323454d7caef146e852868b7970a8e183"
+    },
+    "electron_chef_choice_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 73343,
+      "sha256": "16e899dbd424924316807a7050c73e3a36680efa37858dc492caefb29329e485"
+    },
+    "electron_chef_choice_20261108/run_1/gate_executed.gd": {
+      "bytes": 19981,
+      "sha256": "a47e213c2148894becc0f46eb369b09314282cfc1efef4221857708e34cd14a6"
+    },
+    "electron_chef_choice_20261108/run_1/native.log": {
+      "bytes": 321,
+      "sha256": "b32c4ad7f496ecd2cf04549706099487f9d1ee7249512b4c33b17e13c074f573"
+    },
+    "electron_chef_choice_20261108/seal.py": {
+      "bytes": 4639,
+      "sha256": "13547b17aca6b63fe1c48b3f3e42f467d796d0cf45e8b86052dfc953477e6323"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_chef_choice_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "e615d95e8e4e20ce9e09e69b008db7f78197fb0e3e9760afc6c77f9fd66f465b"
+    },
+    {
+      "name": "electron_chef_choice_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "a12df2ed0a6525f4c27b6671ecf33beb6e71b10c8b048e8efee6393d2e629543"
+    },
+    {
+      "name": "electron_chef_choice_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "e6fe944abc6be90d5d00535073faf1a70da99a6025a01340a3d8f77f4ccdc449"
+    },
+    {
+      "name": "electron_chef_choice_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "17fb41577c13fb2b79f96eb4d81732ab56c0095403acdb43acbf557e7d07487a"
+    },
+    {
+      "name": "electron_chef_choice_20261108.tar.xz.part004",
+      "bytes": 85872,
+      "sha256": "001ae5878d333d3f840998111e3168f734c1236253933dc872e4824b0fa932ee"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_chef_choice_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 464,
+      "sha256": "970dd0129bb3412885c73a06688ef76a2941ed603d7b9b53b084249edfd0bf0e"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "methodical_madness_commit": "9b0f4fb28f0009cf95e0778339b1f0c4e9627b8e",
+    "methodical_madness_source_map_sha256": "125e50eccf1f9d59cb4e16f83d6fd1994cb56a423f9370690dca9502b7f02ab3"
+  },
+  "status": "Electron Chef Choice partial first-of-pair bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 38,
+    "credential_pattern_flags": []
+  }
+}
