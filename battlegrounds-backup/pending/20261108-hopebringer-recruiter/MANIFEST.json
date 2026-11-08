@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_recruiter_20261108.tar.xz",
+  "bytes": 1566940,
+  "sha256": "2a83566e0db3621ada041eee32dfdf98c68d513fab928ab60cba21e92108ad8c",
+  "files": {
+    "hopebringer_recruiter_20261108/BASE_MAP.json": {
+      "bytes": 4585621,
+      "sha256": "75ab1ea4ff1dcd8e57495841c0f1e17c7ace505645eea9d0b8abd4b9f8becdc6"
+    },
+    "hopebringer_recruiter_20261108/EXPECTED_ROWS.json": {
+      "bytes": 25673,
+      "sha256": "c117241d581c1c7aa1f1dfee00903845fc5b70c81f2a17809897c72f4412b99b"
+    },
+    "hopebringer_recruiter_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_recruiter_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4888,
+      "sha256": "64bb09faffbce4e48a15b294f2bb72e0e301fdf590c0dd4085a6b4d448456d03"
+    },
+    "hopebringer_recruiter_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 298643,
+      "sha256": "3bf657c5d5d2419ee088b10cd7753637984a8e2ebb50cc488dd7d482d7899090"
+    },
+    "hopebringer_recruiter_20261108/README.md": {
+      "bytes": 1039,
+      "sha256": "f733eb31f02dc22f5827e7db27dffd35128eadae67786240cc14e2f11362dd29"
+    },
+    "hopebringer_recruiter_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_recruiter_20261108/SOURCE_DELTA.json": {
+      "bytes": 1286,
+      "sha256": "5dcb6d05e081208a799d781c50a83bc9df11dafd206f78e19de5f3e11b9034ef"
+    },
+    "hopebringer_recruiter_20261108/SOURCE_MAP.json": {
+      "bytes": 4585940,
+      "sha256": "708c6bc362cee806ec1932409db9da7f08ccf1430f9b0562a201d653e2027205"
+    },
+    "hopebringer_recruiter_20261108/VALIDATION.json": {
+      "bytes": 941,
+      "sha256": "381729a4351456c4dcf9bdebc7b7ca63e4e6a16141c75b9928e92a1a4f0085e7"
+    },
+    "hopebringer_recruiter_20261108/build.py": {
+      "bytes": 3556,
+      "sha256": "a64a98b775b68c252a623277f7bc5e8d01d872f5c795af86dbf4666bfbfc0ade"
+    },
+    "hopebringer_recruiter_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 10249,
+      "sha256": "7c39f0bbcdfa5c69a0bbc120abe9daa47fc3de67ef55fcfcaf4ebc1fbda76f73"
+    },
+    "hopebringer_recruiter_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 39110,
+      "sha256": "a98e84b11b0fc1d24c8477471298ce90b7ea293673cd9d70a38c427e83a6258d"
+    },
+    "hopebringer_recruiter_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 38532,
+      "sha256": "2e5abc0dd8e3496dd5b681f01963707c1daec110a3dcf2f6ecf496ed5062041d"
+    },
+    "hopebringer_recruiter_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 22050,
+      "sha256": "cccc3092c485d809669e8721239a1744a204e2d8c68ce6052f3ee3ab82cde422"
+    },
+    "hopebringer_recruiter_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 21815,
+      "sha256": "8377e2e90aa2379d2613164548aeac1371a6d3e24690ab93af077630f52c99d0"
+    },
+    "hopebringer_recruiter_20261108/delta/research/hopebringer_recruiter/BG29_816.native.xml": {
+      "bytes": 2872,
+      "sha256": "68c73623f4b9d179be66cdc20a5f5012bad924efe71e09eb8a105a1c96d5d68f"
+    },
+    "hopebringer_recruiter_20261108/delta/research/hopebringer_recruiter/evidence.json": {
+      "bytes": 627,
+      "sha256": "cb31f26e468fce8f0553877d1db8dade65fa2087a8fb2699fa0a367d02a54015"
+    },
+    "hopebringer_recruiter_20261108/gate.gd": {
+      "bytes": 18857,
+      "sha256": "73e7e44f3d42a99e643be7866c287fa63a190878e851cfb6beec9aa6065c1a68"
+    },
+    "hopebringer_recruiter_20261108/materialize.py": {
+      "bytes": 1677,
+      "sha256": "f40be8d94ce39e5afc7a9d83d3550a8adf4da49524fea431a3bdbdfba65a8cae"
+    },
+    "hopebringer_recruiter_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1169,
+      "sha256": "965520b9d4ac1558e81b15a8b069b3a9e38e8bbb13e67f82f09711110cc283e5"
+    },
+    "hopebringer_recruiter_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_recruiter_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 25673,
+      "sha256": "c117241d581c1c7aa1f1dfee00903845fc5b70c81f2a17809897c72f4412b99b"
+    },
+    "hopebringer_recruiter_20261108/run_1/LAUNCH.json": {
+      "bytes": 529,
+      "sha256": "94424822bcdb9bbc36eba163e00c35266b11fd4496e974827ac3c092e3ee7991"
+    },
+    "hopebringer_recruiter_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 298643,
+      "sha256": "3bf657c5d5d2419ee088b10cd7753637984a8e2ebb50cc488dd7d482d7899090"
+    },
+    "hopebringer_recruiter_20261108/run_1/PROCESS.json": {
+      "bytes": 603,
+      "sha256": "407c6604a4b3db7e43cbed8d4d7e643e38263ec699386dc9fd777ee176449a8b"
+    },
+    "hopebringer_recruiter_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1286,
+      "sha256": "5dcb6d05e081208a799d781c50a83bc9df11dafd206f78e19de5f3e11b9034ef"
+    },
+    "hopebringer_recruiter_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 12608,
+      "sha256": "89cbd8333fa067d5d6482d57a42f2709fe08a96215b7babdc671b214d760c603"
+    },
+    "hopebringer_recruiter_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4585940,
+      "sha256": "708c6bc362cee806ec1932409db9da7f08ccf1430f9b0562a201d653e2027205"
+    },
+    "hopebringer_recruiter_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 71574,
+      "sha256": "5959ad40e888bf508df63def0b32cffb3a66e303d9b5cbb40ed476652d3b2c1f"
+    },
+    "hopebringer_recruiter_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 36817,
+      "sha256": "3eb77e580e59437452d4de294253ded0fae2404a57acd5e8feac6c959343b69b"
+    },
+    "hopebringer_recruiter_20261108/run_1/data/report.json": {
+      "bytes": 6750924,
+      "sha256": "c3982b98ef1f649b1cb292e6b929e1f2fddd2477e6ad1d7430d6d4d393f0d571"
+    },
+    "hopebringer_recruiter_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 735730,
+      "sha256": "bc6eb607eea8175c73bfcd97b6fcab64fac0a8c70a12ae6ddd2c0554f0bfa78d"
+    },
+    "hopebringer_recruiter_20261108/run_1/gate_executed.gd": {
+      "bytes": 18857,
+      "sha256": "73e7e44f3d42a99e643be7866c287fa63a190878e851cfb6beec9aa6065c1a68"
+    },
+    "hopebringer_recruiter_20261108/run_1/native.log": {
+      "bytes": 397,
+      "sha256": "7fce4caabc5fe5334ec010b38242fe8cd138c215300bee2405fdd4e7f35fb81f"
+    },
+    "hopebringer_recruiter_20261108/seal.py": {
+      "bytes": 3948,
+      "sha256": "165402db9673f3c5ef2d05e5609c05ff9e11b6e24b503311da2cab2f9159f49a"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_recruiter_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "8f2696692dcff48090bb7161bb74e8302e556c60ffa9c837410f5dec330a4dad"
+    },
+    {
+      "name": "hopebringer_recruiter_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "272f57906a1c2c70a37a9a7cc99c1a195d1875d2e769b47fb944ed2ffcae99d0"
+    },
+    {
+      "name": "hopebringer_recruiter_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "4b921edc9e8c643bba1b5d42356079b8396249e23badfd60ccbff7e76aea12ff"
+    },
+    {
+      "name": "hopebringer_recruiter_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "943a2a106b6fa604288ed8213f8391013ce0a056120e9aa5153c51815e726615"
+    },
+    {
+      "name": "hopebringer_recruiter_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "91bfff521688b297a66e5bb5976ab575b4ae33894b377e6eac3e9fe199cc8c3c"
+    },
+    {
+      "name": "hopebringer_recruiter_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "a6dfd22345965d9f8c13f0a048fd25633abfc8c0776bab9f13d7103534635626"
+    },
+    {
+      "name": "hopebringer_recruiter_20261108.tar.xz.part006",
+      "bytes": 66940,
+      "sha256": "650d89469067796d28c5aa05ba76d64acf7542368cbc63ee1509cc748a6bbd68"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_recruiter_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 404,
+      "sha256": "5a507734ce1cd33c0c33cf79d9a6f921651c9a1eb4cb34833c06fe088e6eceed"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_humming_commit": "fbbb88d9b902e8d607aeede29cf9833f0674a91b",
+    "hopebringer_humming_source_map_sha256": "75ab1ea4ff1dcd8e57495841c0f1e17c7ace505645eea9d0b8abd4b9f8becdc6"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Roaring Rallier combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
