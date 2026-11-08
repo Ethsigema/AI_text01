@@ -1,0 +1,67 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_summoner",
+      "commit": "1904961b8460197b6292ef4b3b1e63f1b8397e73",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-summoner",
+      "manifest_sha256": "0fe21f4559ba4ec7ee62eae8ab4dc7154a0fdfe8d03088327b23da3597bf579a",
+      "archive": "hopebringer_summoner_20261108.tar.xz",
+      "archive_sha256": "3eed301ed728988735f7e376e878ee3e7422c9d8882becacb5fbde1dc62a5fdd",
+      "archive_bytes": 1619676,
+      "parts_verified": 7,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_strider": "3abb943757c53ed71ccec8b444fdcd7a458d6c96802086c1fa92190ed0ffcdc4",
+    "hopebringer_summoner": "a69c018df9169a5f71670d4e88fa164038ae8a92b53f2ac9b4975c7c86aaf7a6"
+  },
+  "hopebringer_strider_source_byte_equals_hopebringer_summoner_base": true,
+  "baseline_files_rehashed": 27875,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "430c9b35656682b24d1751379693f8a236c4a8bd9b0290a1dcf58aef51e551d1",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_summoner/BG25_008.native.xml",
+      "research/hopebringer_summoner/BG25_009.native.xml",
+      "research/hopebringer_summoner/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 8,
+  "new_files": 3,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 8,
+  "removed_files": 0,
+  "restored_files": 27878,
+  "restored_bytes": 1548645996,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "0d8a735b6656ec5fa63fc1a0696b1b8a14d8ea4ce40b50e2640fb6eaf5cb285f",
+  "prior_whole_chain_via_hopebringer_strider_to_hopebringer_summoner_map_continuity": true,
+  "supporting_hopebringer_strider_chain_receipt_sha256": "9ce81daf319ee4c8b0c045e2985cf8f92af1cb279a394d646ea8c14f42ae2ac6",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Strider baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Summoner increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T22:00:53.218247+00:00"
+}

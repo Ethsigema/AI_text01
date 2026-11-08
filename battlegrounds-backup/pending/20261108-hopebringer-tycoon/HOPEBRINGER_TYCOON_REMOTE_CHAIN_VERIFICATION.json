@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_tycoon",
+      "commit": "40ee9b3883b19226d252f9fc7b1c7f8e38fa5643",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-tycoon",
+      "manifest_sha256": "39e4ed13912f06af461b4731c124cb8db2430a478a1a5b939384b81311829650",
+      "archive": "hopebringer_tycoon_20261108.tar.xz",
+      "archive_sha256": "032055ad0dfad78ad88ee3270efd2a78b18c8d99f6c6bd43e4e147c878933e41",
+      "archive_bytes": 1632412,
+      "parts_verified": 7,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_summoner": "a69c018df9169a5f71670d4e88fa164038ae8a92b53f2ac9b4975c7c86aaf7a6",
+    "hopebringer_tycoon": "1ae20915de380fa09051261af4e1aae1abe07f7d9f682dbbca00c3da04619135"
+  },
+  "hopebringer_summoner_source_byte_equals_hopebringer_tycoon_base": true,
+  "baseline_files_rehashed": 27878,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "bfbaf955ab92e1f7cddbfee1949b7c5ca786a5e7bdfa0d640ba3aaec1b61b3a3",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_tycoon/BG34_403.native.xml",
+      "research/hopebringer_tycoon/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27880,
+  "restored_bytes": 1548652434,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "0d8a735b6656ec5fa63fc1a0696b1b8a14d8ea4ce40b50e2640fb6eaf5cb285f",
+  "prior_whole_chain_via_hopebringer_summoner_to_hopebringer_tycoon_map_continuity": true,
+  "supporting_hopebringer_summoner_chain_receipt_sha256": "407b7d0b7de6e60f44befcf4fdcd2684d59a9b327cf45ba9ff91037f3113383e",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Summoner baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Tycoon increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T22:14:57.661815+00:00"
+}
