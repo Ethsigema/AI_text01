@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_wolf_20261108.tar.xz",
+  "bytes": 1567076,
+  "sha256": "16c5f41ce17164a46f2d6c0e077bb53380d45b4e7f843d61f029ce7f705dc15a",
+  "files": {
+    "hopebringer_wolf_20261108/BASE_MAP.json": {
+      "bytes": 4586740,
+      "sha256": "5d116ed6a31bcc512f6dbefeb2db194cc1bd56dfe321f8759bcb2afc85d0417d"
+    },
+    "hopebringer_wolf_20261108/EXPECTED_ROWS.json": {
+      "bytes": 27513,
+      "sha256": "ab6c4cb67f27e38741623930a2072ffc4558736712634ba8b29e8fa04d1319b7"
+    },
+    "hopebringer_wolf_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_wolf_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4878,
+      "sha256": "720ac230f153107e179d3a09eaf9019169baa88d0e653264bf79b2f9737b0793"
+    },
+    "hopebringer_wolf_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 300412,
+      "sha256": "0cbc36277e81d06be0f9e37b60f7462f5b4f2dcf14c336a0ff0cadf261ecde71"
+    },
+    "hopebringer_wolf_20261108/README.md": {
+      "bytes": 1114,
+      "sha256": "765f712c9ab95a054549de8b78131017112e9e14b475e4e76694edbc6abc4519"
+    },
+    "hopebringer_wolf_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_wolf_20261108/SOURCE_DELTA.json": {
+      "bytes": 1278,
+      "sha256": "507ee9a2de395a5f19db7b66d2836ded714547026430a8846d0434aedef39ff4"
+    },
+    "hopebringer_wolf_20261108/SOURCE_MAP.json": {
+      "bytes": 4587049,
+      "sha256": "ebb7c3b356e7f04caecdd0839354579d1c98d6a38bed50be642c3a1e91d33282"
+    },
+    "hopebringer_wolf_20261108/VALIDATION.json": {
+      "bytes": 929,
+      "sha256": "4c5f606696b35f03277b0d47e179883df1a077b722bf05eb8eb62d4db8a1db00"
+    },
+    "hopebringer_wolf_20261108/build.py": {
+      "bytes": 3728,
+      "sha256": "c955dfa15477f851b5aea1693ff2390cc97b3a38265c87cd3a50a9943e8d6831"
+    },
+    "hopebringer_wolf_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 11170,
+      "sha256": "52c67d7d86fb9515f4d4ab8c7f353b28d80fa4ea56832b32b6b46fb883cfa03d"
+    },
+    "hopebringer_wolf_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 42103,
+      "sha256": "5c520f39563c32e574c842229c9ecc386a8c7002b3e357d1cfb2748f7ff59f19"
+    },
+    "hopebringer_wolf_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 41525,
+      "sha256": "f5c5dfdbaf0bcd5a01b15b64bd359e85ffe47b33bdbeefaf54c87dfd8222c251"
+    },
+    "hopebringer_wolf_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 22970,
+      "sha256": "670e56d7a77ad6641d1eba46106ecbcb5dad67cd75976f1dae09288749dcfe6e"
+    },
+    "hopebringer_wolf_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 22735,
+      "sha256": "35c94feeb2a2bde6bec20072427b66e8d3aacf4e33a7b1dfe021e15cd4c35517"
+    },
+    "hopebringer_wolf_20261108/delta/research/hopebringer_wolf/BG36_207.native.xml": {
+      "bytes": 2851,
+      "sha256": "699225470155f7bd5e627f57122fe909e73e5f97e659250864a23610a77eb934"
+    },
+    "hopebringer_wolf_20261108/delta/research/hopebringer_wolf/evidence.json": {
+      "bytes": 599,
+      "sha256": "e3798e950e8e5598f2eeefe05f74dd3100765714f466db88d5f04d6c5d382e06"
+    },
+    "hopebringer_wolf_20261108/gate.gd": {
+      "bytes": 19127,
+      "sha256": "a037027d3abbca0932c64ec7f5a0130ac3b4f4b6916fd9ad8d29147422016350"
+    },
+    "hopebringer_wolf_20261108/materialize.py": {
+      "bytes": 1681,
+      "sha256": "c6731755aa5dfc13ef15daf5983cbb906ccc1fea81867f0bed65564ae10e0c20"
+    },
+    "hopebringer_wolf_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1171,
+      "sha256": "6a147dcc9bb460972523af8362fb2a3cfa82c39183e8a2a4ca24e6112bf3461a"
+    },
+    "hopebringer_wolf_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_wolf_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 27513,
+      "sha256": "ab6c4cb67f27e38741623930a2072ffc4558736712634ba8b29e8fa04d1319b7"
+    },
+    "hopebringer_wolf_20261108/run_1/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "9f74f4c622252211126368c28ade20b9a894aaab361fd99c363906baa7aad656"
+    },
+    "hopebringer_wolf_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 300412,
+      "sha256": "0cbc36277e81d06be0f9e37b60f7462f5b4f2dcf14c336a0ff0cadf261ecde71"
+    },
+    "hopebringer_wolf_20261108/run_1/PROCESS.json": {
+      "bytes": 593,
+      "sha256": "672f28d0d71ee4d08157280eabbcfe5bbb9d89d590661287826f210b555a97c2"
+    },
+    "hopebringer_wolf_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1278,
+      "sha256": "507ee9a2de395a5f19db7b66d2836ded714547026430a8846d0434aedef39ff4"
+    },
+    "hopebringer_wolf_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 13032,
+      "sha256": "8f94dcad68b1f46b7be2169f5514464a933d26a986dbd44dbdc03bdc3e679f2b"
+    },
+    "hopebringer_wolf_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4587049,
+      "sha256": "ebb7c3b356e7f04caecdd0839354579d1c98d6a38bed50be642c3a1e91d33282"
+    },
+    "hopebringer_wolf_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 74411,
+      "sha256": "8356f3d6f3e6e88246e40d4cf23bad1d7b01003f82489ea08958df0e8ec65317"
+    },
+    "hopebringer_wolf_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 36819,
+      "sha256": "68c1155c7a8e3e4aa45451a1e4191e84eecd5a1c4544d8b714f7b559de631648"
+    },
+    "hopebringer_wolf_20261108/run_1/data/report.json": {
+      "bytes": 6788887,
+      "sha256": "c135fba50bc33336bbd9bdee189ca49c9eb0fcdbb6c39845cd3c0f92719ff9b9"
+    },
+    "hopebringer_wolf_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 736499,
+      "sha256": "f201bb14b012103e15ef47a0083c8fa06e262785d15bea67465099ad42fc028b"
+    },
+    "hopebringer_wolf_20261108/run_1/gate_executed.gd": {
+      "bytes": 19127,
+      "sha256": "a037027d3abbca0932c64ec7f5a0130ac3b4f4b6916fd9ad8d29147422016350"
+    },
+    "hopebringer_wolf_20261108/run_1/native.log": {
+      "bytes": 397,
+      "sha256": "f09c6d24b9f9fab6faea365b71040b3784c24eb3f402c035ff03682fd5613740"
+    },
+    "hopebringer_wolf_20261108/seal.py": {
+      "bytes": 3938,
+      "sha256": "4f55658d351e6f6152ff48a1b82d5420f13189225d7c8c4095d93e79dd37722d"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_wolf_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "242dae1ff81e0cf0c6cb30ec622ee7e94546b02aa22a6f81a3fcf530e6aaf60b"
+    },
+    {
+      "name": "hopebringer_wolf_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "33e46ce5cc8f3a8fdefc232c39f8dfed1970a00e4db401b5db36c43d7ec86f81"
+    },
+    {
+      "name": "hopebringer_wolf_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "b1b6d2ac84d3eff71537e429e78682d0ae6cae103f29934b14406be351be5e43"
+    },
+    {
+      "name": "hopebringer_wolf_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "0955dca8720e6e4ce81202f28d45417346537919ab14f54253b82b1cb87e6e4d"
+    },
+    {
+      "name": "hopebringer_wolf_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "47eb5920d8e83eaa5e86425d7102ada61d1dfa5347fe48b870f6b80238a7c3a4"
+    },
+    {
+      "name": "hopebringer_wolf_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "995c592a6d62028c1f602f39cd397fcad42cda37e2530df33e222e2f2020b53f"
+    },
+    {
+      "name": "hopebringer_wolf_20261108.tar.xz.part006",
+      "bytes": 67076,
+      "sha256": "45c752a19bb6154dda9e71c45e9c8c368eb986d3820efcb4ffc6e4b270576248"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_wolf_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 394,
+      "sha256": "0251ba228bd9a8aacd9aee9b5ed5b84173310ede8a9a6a583fb51c276a02cb1b"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_caretaker_commit": "5fe5758c78e3b894c8454c2354ad2310da55da73",
+    "hopebringer_caretaker_source_map_sha256": "5d116ed6a31bcc512f6dbefeb2db194cc1bd56dfe321f8759bcb2afc85d0417d"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Wolf Pup Rally combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
