@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_microbot",
+      "commit": "c76147ebcce76c78e58a93612a927571307d6f68",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-microbot",
+      "manifest_sha256": "ca8d3d0cb78623953d822b66b04a3d0df77b9c582662c9f033749dc0a81746f2",
+      "archive": "hopebringer_microbot_20261108.tar.xz",
+      "archive_sha256": "937b8ec1050b57df2b4517768b28584a61da026d6e78893be744eddd4b305e87",
+      "archive_bytes": 1566588,
+      "parts_verified": 7,
+      "members_verified": 55,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "privateer_majority": "8d7ebfc803f3f410b8cffea9de3710c5bba7ad6173ad706bc5018a855618b6d0",
+    "hopebringer_microbot": "90e3daeb7358b1764b0871fb7b4ee9982609f502dbe985012bc27bd6bec94ae3"
+  },
+  "privateer_majority_source_byte_equals_hopebringer_microbot_base": true,
+  "baseline_files_rehashed": 27750,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "3ebe6c2bb6c24c08927ed3b285721e0aaacc7328d1f54462f2c38413cca5ade0",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_microbot/BG29_611.native.xml",
+      "research/hopebringer_microbot/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27752,
+  "restored_bytes": 1548222414,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "fd25b27e3113830b7d692beab0f02d85568bc579c5b995e663fe3fa1feb2a319",
+  "prior_whole_chain_via_privateer_majority_to_hopebringer_microbot_map_continuity": true,
+  "supporting_privateer_majority_chain_receipt_sha256": "fd00d5ce155c729422d1a1748e825bf7aa85248110f982f3e77676ce836d32b6",
+  "historical_baseline_provenance": "The baseline is the verified Electron Privateer Majority baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Microbot increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T06:57:39.637891+00:00"
+}
