@@ -1,0 +1,203 @@
+{
+  "archive": "electron_earth_mother_20261108.tar.xz",
+  "bytes": 1075876,
+  "sha256": "26b44068ca393b359000a8677aa4c3e8d415482aea4163ee5cb8c712bd012225",
+  "files": {
+    "electron_earth_mother_20261108/BASE_MAP.json": {
+      "bytes": 4574206,
+      "sha256": "3d185d5cfdc669d2400d683609b64237749e8eac4612741f36b6d23120e62dc0"
+    },
+    "electron_earth_mother_20261108/EXPECTED_ROWS.json": {
+      "bytes": 28481,
+      "sha256": "a370ef7026c240f3ce8aa62e90677a2d278f5472fbcee6cf3fc8e84f77065a81"
+    },
+    "electron_earth_mother_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_earth_mother_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5057,
+      "sha256": "398b4c9917415fc785a6e91506efce4545649136a61bc77d7365dfca97b8a385"
+    },
+    "electron_earth_mother_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 279964,
+      "sha256": "125ad21b329beebd6482674dbd746bb7e84a3e3e3be45ced7053f26b2a4b2a3c"
+    },
+    "electron_earth_mother_20261108/README.md": {
+      "bytes": 1497,
+      "sha256": "df6ff2aa25272e68853b16a5222a5485f9106c4c425daf6814a4c5f70dccdd5c"
+    },
+    "electron_earth_mother_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_earth_mother_20261108/SOURCE_DELTA.json": {
+      "bytes": 1328,
+      "sha256": "d0952eeb4bb9009438a3d58e6abe3c9db1dad1cb3f6adde1f227942bd5f6c169"
+    },
+    "electron_earth_mother_20261108/SOURCE_MAP.json": {
+      "bytes": 4574530,
+      "sha256": "05dbcc97097782b408b73e9cb2e55e018739a6063dd82ef66efdf92ba3c61b3f"
+    },
+    "electron_earth_mother_20261108/VALIDATION.json": {
+      "bytes": 857,
+      "sha256": "5e2c2e0f79e0616140138507d14ecccca3b96b08479505f275171c24b963e3e5"
+    },
+    "electron_earth_mother_20261108/build.py": {
+      "bytes": 3604,
+      "sha256": "8d2be988c325f09a9ac1e1f61dc3d3f4d5f304a1519a8f2cc90d6af1f56efc61"
+    },
+    "electron_earth_mother_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 52045,
+      "sha256": "005e5a6a5f01babb13f38d2d898d32a6913e786807f970cf7f00651bfb1afb19"
+    },
+    "electron_earth_mother_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 50098,
+      "sha256": "600f897240afa830592c1d7d3eca6e02962cc8978fce9f3aa99696822369f8f5"
+    },
+    "electron_earth_mother_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 19320,
+      "sha256": "af91ccc887d3499053cfe7699e5ca893da75b1736bd85f2343305103c09c8ed1"
+    },
+    "electron_earth_mother_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 27283,
+      "sha256": "c47200c64fcf1475d668a7a9a60087f3219efd33b5a8ed6c3d3a09a941dee4b3"
+    },
+    "electron_earth_mother_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 26073,
+      "sha256": "5ab5b0fa39f641c5f0019d79e0aaeed7e2ea47c6e935edaea5960aeef6375d2f"
+    },
+    "electron_earth_mother_20261108/delta/research/electron_earth_mother/EBG_Spell_017.native.xml": {
+      "bytes": 3754,
+      "sha256": "56a801250d401c02457ba931813b329f47bf732dd5d698d69fd4a9d10529ed6e"
+    },
+    "electron_earth_mother_20261108/delta/research/electron_earth_mother/evidence.json": {
+      "bytes": 531,
+      "sha256": "bbeb3c24d9038fdb10911ee9ec5855bc213d197ccc1a4b7bb42b0b6192907032"
+    },
+    "electron_earth_mother_20261108/gate.gd": {
+      "bytes": 19804,
+      "sha256": "7022edff656e94f40b91b5a1c138ae1ce52775d705561adf3224dfc3a1e615b0"
+    },
+    "electron_earth_mother_20261108/materialize.py": {
+      "bytes": 1692,
+      "sha256": "88bf86a416553f74882f12e78411203dd9a584f99227396a15328c96ddd8d002"
+    },
+    "electron_earth_mother_20261108/prepare_gate.py": {
+      "bytes": 4168,
+      "sha256": "2b8435d358ae48ab6b8e9b2d5d757749b7fc0e4b82610423393bd79f77caaa0c"
+    },
+    "electron_earth_mother_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1174,
+      "sha256": "932e18e3b0c8c22db7294332301a477c12bacc0bcda07be6572ca42b7bb019b6"
+    },
+    "electron_earth_mother_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_earth_mother_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 28481,
+      "sha256": "a370ef7026c240f3ce8aa62e90677a2d278f5472fbcee6cf3fc8e84f77065a81"
+    },
+    "electron_earth_mother_20261108/run_1/LAUNCH.json": {
+      "bytes": 529,
+      "sha256": "b1a6675cfc696cc4fa9cde25096ac94cc6df2776e411ae3674d0f0cd219d8158"
+    },
+    "electron_earth_mother_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 279964,
+      "sha256": "125ad21b329beebd6482674dbd746bb7e84a3e3e3be45ced7053f26b2a4b2a3c"
+    },
+    "electron_earth_mother_20261108/run_1/PROCESS.json": {
+      "bytes": 603,
+      "sha256": "ac9182ea1ea7d8729dab1ca23cb3a9888612acfb7ff4ad350210a72bc17fb8a5"
+    },
+    "electron_earth_mother_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1328,
+      "sha256": "d0952eeb4bb9009438a3d58e6abe3c9db1dad1cb3f6adde1f227942bd5f6c169"
+    },
+    "electron_earth_mother_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 16972,
+      "sha256": "59027df65720a1585ba9a7b90bbf77cd1855de52da7ed00ee7156d95bf9e32d7"
+    },
+    "electron_earth_mother_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4574530,
+      "sha256": "05dbcc97097782b408b73e9cb2e55e018739a6063dd82ef66efdf92ba3c61b3f"
+    },
+    "electron_earth_mother_20261108/run_1/data/buffed_evolution_target.native_save.json": {
+      "bytes": 55772,
+      "sha256": "ef02bf5fee767c21f3a70c8c4f5d414588d3d8757ed74cec43891abe676fe02c"
+    },
+    "electron_earth_mother_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 34270,
+      "sha256": "5ce29cec9567b860c47a270b6b8a3d4265bbbfd0f86477d7a55a788ebce30f3f"
+    },
+    "electron_earth_mother_20261108/run_1/data/report.json": {
+      "bytes": 1411837,
+      "sha256": "18dafaccc6caa530448f9eb67dd6d4787c092cb3c630aa13389dbb5fe01063d8"
+    },
+    "electron_earth_mother_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 69741,
+      "sha256": "a1f0eb96079f93001a46420dbe9149abc52e5753e485073c4e2e22c16e88d449"
+    },
+    "electron_earth_mother_20261108/run_1/gate_executed.gd": {
+      "bytes": 19804,
+      "sha256": "7022edff656e94f40b91b5a1c138ae1ce52775d705561adf3224dfc3a1e615b0"
+    },
+    "electron_earth_mother_20261108/run_1/native.log": {
+      "bytes": 321,
+      "sha256": "689b92864cc369fcd0086ba9684de5b1795c033fadd269ee627277955d030d5b"
+    },
+    "electron_earth_mother_20261108/seal.py": {
+      "bytes": 4610,
+      "sha256": "b35add894bb8d49040f652139177ad8fa6775e5f16d7256c30e7727545642a5b"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_earth_mother_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "edb16dcd0434b27d1f046a6ab035c65eb3fb5cfd232b0b7fd8c740beeb8bfe87"
+    },
+    {
+      "name": "electron_earth_mother_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "de66375a48e044a0a3d5ff3d2172db1b9af5496cc8e5eeca10e213df9c1faba6"
+    },
+    {
+      "name": "electron_earth_mother_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "653be07f0109a6b9cf9c6b84d28a8a3ad2470240c378aae0bd150b725e724575"
+    },
+    {
+      "name": "electron_earth_mother_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "03cd0d29c54ce4addccbb6b83ea73f59738812ff78fe6678b86a1f84034ad09a"
+    },
+    {
+      "name": "electron_earth_mother_20261108.tar.xz.part004",
+      "bytes": 75876,
+      "sha256": "54ee71c0b933f1a95b2fa354d72453b945e1a2cbb302ffdb10b5950ab8ac6663"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_earth_mother_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 436,
+      "sha256": "1fa0e092de88bff0337b24f7ae75dd3c6a8dd6481310a53710eaabb93060d647"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "choose_discover_commit": "fc8abc7268715470cc040d1a5849220143f36da0",
+    "choose_discover_source_map_sha256": "3d185d5cfdc669d2400d683609b64237749e8eac4612741f36b6d23120e62dc0"
+  },
+  "status": "Electron Earth Mother Golden conversion bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
