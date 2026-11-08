@@ -1,0 +1,67 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_bat",
+      "commit": "928b9a0ff682eff9239c3479b3da4ede26d4532b",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-bat",
+      "manifest_sha256": "1f45a1505dc5c2d602326c8120a911e6342a7b2b26477ba29700acac3d2c23b6",
+      "archive": "hopebringer_bat_20261108.tar.xz",
+      "archive_sha256": "8c68e495e707797731b720d8e16287cb8a06f0fb8a0e5602de6357008e7e34e0",
+      "archive_bytes": 1570588,
+      "parts_verified": 7,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_wolf": "ebb7c3b356e7f04caecdd0839354579d1c98d6a38bed50be642c3a1e91d33282",
+    "hopebringer_bat": "55bfec869fd2b4c1868b7d61028118375ae2eac626f8624b2c8ebee640e2dd80"
+  },
+  "hopebringer_wolf_source_byte_equals_hopebringer_bat_base": true,
+  "baseline_files_rehashed": 27793,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "adb56876c0fd192fabe12dfbcba0c7a5a54e9ec91b176da0c53bb7dbc42d87ff",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_bat/BG36_200.native.xml",
+      "research/hopebringer_bat/BG36_200t.native.xml",
+      "research/hopebringer_bat/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 8,
+  "new_files": 3,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 8,
+  "removed_files": 0,
+  "restored_files": 27796,
+  "restored_bytes": 1548361228,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "18f89636d4c2aa8750e54178454711ccda2c153fd745d808abd5c502aeacf98d",
+  "prior_whole_chain_via_hopebringer_wolf_to_hopebringer_bat_map_continuity": true,
+  "supporting_hopebringer_wolf_chain_receipt_sha256": "0b6b8a5ad77d69f61684fc06852707301c71cded25fd52d76e41fffe1f9f544e",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Wolf baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Bat increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T12:01:56.442719+00:00"
+}
