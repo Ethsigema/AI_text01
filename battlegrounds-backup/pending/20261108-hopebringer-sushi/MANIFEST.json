@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_sushi_20261108.tar.xz",
+  "bytes": 1592560,
+  "sha256": "c9434ded0c92ecc03c5f89bdc2a37e16b95be2568c73772b35013598f2a26c6e",
+  "files": {
+    "hopebringer_sushi_20261108/BASE_MAP.json": {
+      "bytes": 4594803,
+      "sha256": "c7b7e6e47b59346f7c2e1f9799ad631c2e074c802f46b21a1ba444abcb645c71"
+    },
+    "hopebringer_sushi_20261108/EXPECTED_ROWS.json": {
+      "bytes": 40421,
+      "sha256": "a0bd43df8be38cbfaae418d7eafbb9c55e30574486fdd5cbcb5896229176f7e2"
+    },
+    "hopebringer_sushi_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_sushi_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4880,
+      "sha256": "adcb22f04dfbf5121d7941b2a975a5869fe49104e0cd9998a6f86830c20c4841"
+    },
+    "hopebringer_sushi_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 313259,
+      "sha256": "303d03cf14254edf6de310596076b343f4a3f07fb86e11cb6782bf534fd32ab9"
+    },
+    "hopebringer_sushi_20261108/README.md": {
+      "bytes": 1018,
+      "sha256": "5e14bdd0e10e7c26cff0bfd7b6d4fcd3f296c8b3c0b1f5658559c575d6bd5a82"
+    },
+    "hopebringer_sushi_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_sushi_20261108/SOURCE_DELTA.json": {
+      "bytes": 1279,
+      "sha256": "b7f7e4cf45ca9cdf154dbc9de59af9884e5666581a1f8552f31d1a47767d4e27"
+    },
+    "hopebringer_sushi_20261108/SOURCE_MAP.json": {
+      "bytes": 4595114,
+      "sha256": "79affdba332bb0ab59d6cfc4a56a86b2b8a08ae42e2e2efe860db26a0d81bad7"
+    },
+    "hopebringer_sushi_20261108/VALIDATION.json": {
+      "bytes": 913,
+      "sha256": "dc71aa47546ea99f010e516095d0b56bb15da048ed1cec6569f45d8c272e7242"
+    },
+    "hopebringer_sushi_20261108/build.py": {
+      "bytes": 3598,
+      "sha256": "462aec0fb19ad563335aa19a3cc0e8c1c7352029c1ff0936bd43dd2f770ad61a"
+    },
+    "hopebringer_sushi_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 17089,
+      "sha256": "c6ee95bdd97cded694b641f3418e65aef0ea4580ec85b66851486338bea0ae54"
+    },
+    "hopebringer_sushi_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 63370,
+      "sha256": "0b7ae75fc63e04a8ddd00886ef8daee3f2349afc7e58b67547f0b3e7ed1d082a"
+    },
+    "hopebringer_sushi_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 62792,
+      "sha256": "403561a4b109475f3394261f8f4a62eac86216444a78daa7e51fda6d6070b2f5"
+    },
+    "hopebringer_sushi_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 29424,
+      "sha256": "bfd52511e68d95801fe558fd97053820b3ef8a9ffe697972252a6023545a8758"
+    },
+    "hopebringer_sushi_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 29189,
+      "sha256": "78f361d7c0f380628e782f53ac9402a5d7459678e6eb8abf31d4ee4e1548ce29"
+    },
+    "hopebringer_sushi_20261108/delta/research/hopebringer_sushi/BG26_137.native.xml": {
+      "bytes": 3167,
+      "sha256": "c000a83bb0283f8624c039a61f3f0069cd015aa780da9b502c2de38ff50f5bc8"
+    },
+    "hopebringer_sushi_20261108/delta/research/hopebringer_sushi/evidence.json": {
+      "bytes": 610,
+      "sha256": "ffc8a0069b965ed14f6b87efeb15eb1b5e0310c8bea4780d5cbc72f7a6fff725"
+    },
+    "hopebringer_sushi_20261108/gate.gd": {
+      "bytes": 19156,
+      "sha256": "65cd96a2dbf93eedb0c84a213ccf68a224c91cd0931016b536d62dbc38366b9d"
+    },
+    "hopebringer_sushi_20261108/materialize.py": {
+      "bytes": 1679,
+      "sha256": "68e2526f2708b95b9d0744e605843d312b8d0cb9b71dcefce0e1f3cb33286ea3"
+    },
+    "hopebringer_sushi_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "6f2a68ad2a3d1eb9674f72a6fa49a87cda636889fdcbf93b9312ce35ef5b16d3"
+    },
+    "hopebringer_sushi_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_sushi_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 40421,
+      "sha256": "a0bd43df8be38cbfaae418d7eafbb9c55e30574486fdd5cbcb5896229176f7e2"
+    },
+    "hopebringer_sushi_20261108/run_1/LAUNCH.json": {
+      "bytes": 521,
+      "sha256": "2860667b3c7e1025e2e4c77217ac0e121cbaf7d262266d4d380230ae1397fde0"
+    },
+    "hopebringer_sushi_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 313259,
+      "sha256": "303d03cf14254edf6de310596076b343f4a3f07fb86e11cb6782bf534fd32ab9"
+    },
+    "hopebringer_sushi_20261108/run_1/PROCESS.json": {
+      "bytes": 595,
+      "sha256": "e3e652c67d40286fc2b67dc0c6830c993b894c1096f7aa6f12893e19a79118a8"
+    },
+    "hopebringer_sushi_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1279,
+      "sha256": "b7f7e4cf45ca9cdf154dbc9de59af9884e5666581a1f8552f31d1a47767d4e27"
+    },
+    "hopebringer_sushi_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 17288,
+      "sha256": "d4b309fa412ded90445ba0950975ab3e81a1633f1c3490a0b33f49816a0fbcbf"
+    },
+    "hopebringer_sushi_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4595114,
+      "sha256": "79affdba332bb0ab59d6cfc4a56a86b2b8a08ae42e2e2efe860db26a0d81bad7"
+    },
+    "hopebringer_sushi_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 76490,
+      "sha256": "ecd9d552f67f1fac808bc7f6a578eff9ba534ee8470797031757335883ef88d8"
+    },
+    "hopebringer_sushi_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 38049,
+      "sha256": "5661a0528e46ce488afabdc189243176f4b6639e8ec917c5e0b62036a3d0062b"
+    },
+    "hopebringer_sushi_20261108/run_1/data/report.json": {
+      "bytes": 7078893,
+      "sha256": "a048a45adc6d4ae3f3b0c6d70f7dfe7a34b74746b36552a85101bae50120a78c"
+    },
+    "hopebringer_sushi_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 759589,
+      "sha256": "2ed76a29af181f081844ade0d6ae66924a862276d45326a932fbba7a960170ae"
+    },
+    "hopebringer_sushi_20261108/run_1/gate_executed.gd": {
+      "bytes": 19156,
+      "sha256": "65cd96a2dbf93eedb0c84a213ccf68a224c91cd0931016b536d62dbc38366b9d"
+    },
+    "hopebringer_sushi_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "da5b3fbbebe2c3e52aef4dc57f04af4854f6a79a958492c027ec7713977b4d35"
+    },
+    "hopebringer_sushi_20261108/seal.py": {
+      "bytes": 3956,
+      "sha256": "ad2d9931ddaf7f74811b65a8e1c8e47d0b89cd50826cbe050964470cebbf8b5c"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_sushi_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "d080ebade413b17bed27276c3b5192730bdbe060cffefdddf3a6768f970675ff"
+    },
+    {
+      "name": "hopebringer_sushi_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "7af4700d1e306f2ed2ff269b36df91b5c0b6e8da40b95e7357d5d6b56010a540"
+    },
+    {
+      "name": "hopebringer_sushi_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "9c23a4d9f49ba02e970fa7e0324c539444c2d6147a1786899098f1e65d958207"
+    },
+    {
+      "name": "hopebringer_sushi_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "282c37fd090a7ccf5f3c9253b9133446cece7c0dded9efd88b1be2230bd4d4d6"
+    },
+    {
+      "name": "hopebringer_sushi_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "67e6ae61b8076f81f3377eac346887e0cc5af9b9e2f1f0f2edd4c24bc66edc4d"
+    },
+    {
+      "name": "hopebringer_sushi_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "47ac0674b981616c4ad8d12f2c32afad83a3d605958e3c9838e96180120d67f6"
+    },
+    {
+      "name": "hopebringer_sushi_20261108.tar.xz.part006",
+      "bytes": 92560,
+      "sha256": "1e3598000e198f955e00fb29083996533b7ea860456f6c5368e00ee8cc3f9219"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_sushi_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 396,
+      "sha256": "aa9b2b0038b653d3d4818329d0736b17bec91c58979bd5b292eb280ec35a14ec"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_kalecgos_commit": "c169e598ee03c7b069a9f9ba6bc314b37250701c",
+    "hopebringer_kalecgos_source_map_sha256": "c7b7e6e47b59346f7c2e1f9799ad631c2e074c802f46b21a1ba444abcb645c71"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Sushi hand growth combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
