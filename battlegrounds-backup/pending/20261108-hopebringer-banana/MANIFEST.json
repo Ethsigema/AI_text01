@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_banana_20261108.tar.xz",
+  "bytes": 1573252,
+  "sha256": "96e9468cb6914ee1d6e2af7616d24c313a25e8932fbf96446ffb23eb619fa5ac",
+  "files": {
+    "hopebringer_banana_20261108/BASE_MAP.json": {
+      "bytes": 4584992,
+      "sha256": "b561cff2dc05128e28ccdd6363c9116b0275ab3c3428b48e5f4db9979559ffc7"
+    },
+    "hopebringer_banana_20261108/EXPECTED_ROWS.json": {
+      "bytes": 24399,
+      "sha256": "14501f32ef6cb0560b21f308c574b0ba91d3767fb9a6491aadb2763b82237dba"
+    },
+    "hopebringer_banana_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_banana_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4881,
+      "sha256": "3599cd0543a24cae89385f6e99083d360a2cdc0cb4d6ca075bd66df1cce2a569"
+    },
+    "hopebringer_banana_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 297631,
+      "sha256": "b18c11edc6bdcf9d0de5b845087b426fd94a1db1139be6414d2c71fb911c7b9e"
+    },
+    "hopebringer_banana_20261108/README.md": {
+      "bytes": 1068,
+      "sha256": "2a66e56d8d637e673349a6261d1f5472b56efd8bb31a8c761c0f26de469ddc9d"
+    },
+    "hopebringer_banana_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_banana_20261108/SOURCE_DELTA.json": {
+      "bytes": 1277,
+      "sha256": "6e8d3ae8448911ecb644a81276b1bcddfa52c34f4bcd9cf9271a4acc10c2b5ab"
+    },
+    "hopebringer_banana_20261108/SOURCE_MAP.json": {
+      "bytes": 4585305,
+      "sha256": "801ee9d585dbf6b6bc51b57f89ec3dc769c644d23799867cd600db71f1791d28"
+    },
+    "hopebringer_banana_20261108/VALIDATION.json": {
+      "bytes": 940,
+      "sha256": "12c9d08eb2a974fbab8d9de7d3a479d1df0fe69826898729d220e8261450dec5"
+    },
+    "hopebringer_banana_20261108/build.py": {
+      "bytes": 3559,
+      "sha256": "11eedc67be1c41992fdcc60131fc71c1e68dbb4501d51d16dcebecf9afcc81a0"
+    },
+    "hopebringer_banana_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 9852,
+      "sha256": "466147243ab4c53d3de850cf19826ea57feca2c3ff263720da0e62a6f6d62c11"
+    },
+    "hopebringer_banana_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 37176,
+      "sha256": "c012cf7d243f214568ff1d17605c2e686b7d3e86e7b28ac32eff8ee4cb173bc2"
+    },
+    "hopebringer_banana_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 36598,
+      "sha256": "5d6b82aa47ee8f4b7c753030d10a3f47a5b9b7d1e0a03a6c2b490c6649180f36"
+    },
+    "hopebringer_banana_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 21413,
+      "sha256": "45245dbb43a6a761d2aca4e8a6e374084ca12c3b454516fede4da1d1b2273f8e"
+    },
+    "hopebringer_banana_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 21178,
+      "sha256": "a95d7ffd02e5e84e635f774e3b1100e5499eac4679135d35b3416fc8ef624fb0"
+    },
+    "hopebringer_banana_20261108/delta/research/hopebringer_banana/BG26_802.native.xml": {
+      "bytes": 2855,
+      "sha256": "c86bd97924ecdaf8a607f3ff2bf5b5915e643c9f9251da4f9924f392e46c325f"
+    },
+    "hopebringer_banana_20261108/delta/research/hopebringer_banana/evidence.json": {
+      "bytes": 601,
+      "sha256": "35f85b2601a3e1d390d9678f6b0fa035b6556a1ac3c031263cf5d1c1bcb044f8"
+    },
+    "hopebringer_banana_20261108/gate.gd": {
+      "bytes": 18946,
+      "sha256": "c4af23668b545267fb5bbc59593e6ccce0aa88a9e7b097e766beeeddda48cf54"
+    },
+    "hopebringer_banana_20261108/materialize.py": {
+      "bytes": 1673,
+      "sha256": "1f1c655a8f4428589ba52692db54b41a577dfed133449684473d0185bc4c4b35"
+    },
+    "hopebringer_banana_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1167,
+      "sha256": "4639b7cbec1270df2c430485c9184007c2bdc781b69bd3ffa58167f29d24a2eb"
+    },
+    "hopebringer_banana_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_banana_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 24399,
+      "sha256": "14501f32ef6cb0560b21f308c574b0ba91d3767fb9a6491aadb2763b82237dba"
+    },
+    "hopebringer_banana_20261108/run_1/LAUNCH.json": {
+      "bytes": 523,
+      "sha256": "b496bb6c3adf9310ca0fe423e2f1c9780eda627e9ea0129ce14a602dab50c76a"
+    },
+    "hopebringer_banana_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 297631,
+      "sha256": "b18c11edc6bdcf9d0de5b845087b426fd94a1db1139be6414d2c71fb911c7b9e"
+    },
+    "hopebringer_banana_20261108/run_1/PROCESS.json": {
+      "bytes": 597,
+      "sha256": "0b8c8572bc32b3ac676d0b7987ec115da4f97b518453a2618a61b92053c037e5"
+    },
+    "hopebringer_banana_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1277,
+      "sha256": "6e8d3ae8448911ecb644a81276b1bcddfa52c34f4bcd9cf9271a4acc10c2b5ab"
+    },
+    "hopebringer_banana_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 12356,
+      "sha256": "e9a7056c63e349fd2b29ebdc570cf115d7b928f1c29fcd3c8ad801e5c1c6122d"
+    },
+    "hopebringer_banana_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4585305,
+      "sha256": "801ee9d585dbf6b6bc51b57f89ec3dc769c644d23799867cd600db71f1791d28"
+    },
+    "hopebringer_banana_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 84540,
+      "sha256": "5979347f18a23e354252039c01c2d6d8fb51fc756fffb54139ecaaf53d90dda4"
+    },
+    "hopebringer_banana_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 38872,
+      "sha256": "65512138385cad2dc69bda7d40cc7f129c7f4ed62185b7706236db089ff5dff4"
+    },
+    "hopebringer_banana_20261108/run_1/data/report.json": {
+      "bytes": 7208527,
+      "sha256": "8bc0547fcde5920d239f82e78bd4dc73de4dd25a0916f4dc496256535b0b1c4b"
+    },
+    "hopebringer_banana_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 768941,
+      "sha256": "8c5f1989fb4addcbcdb440b3620add2a34bd6bc1a167d9e4c90c015e88ee30d8"
+    },
+    "hopebringer_banana_20261108/run_1/gate_executed.gd": {
+      "bytes": 18946,
+      "sha256": "c4af23668b545267fb5bbc59593e6ccce0aa88a9e7b097e766beeeddda48cf54"
+    },
+    "hopebringer_banana_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "3a3c901c1aa3f2f1bb2ef1e225d9446d52d942dc0d30a0bb3f1c2eab2da58d24"
+    },
+    "hopebringer_banana_20261108/seal.py": {
+      "bytes": 3967,
+      "sha256": "4584db4b17bbac2aa90774f47e83bda4aa99b598c3064d67343d0ee52e47a280"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_banana_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "eea041f966120bf10d87617d3a086396c0c00b8353f3a5e339a9d7756634929b"
+    },
+    {
+      "name": "hopebringer_banana_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "c240a6d3ab4021b30e75e1e8171a6b5107c867d8c95aa9b72654b027adc1a4e8"
+    },
+    {
+      "name": "hopebringer_banana_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "b0eb89e6da05df81eeae8d76d1922ac3a70e2da1701f931c9c85adf4e96ae693"
+    },
+    {
+      "name": "hopebringer_banana_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "d950fa8bba33b9efd8b1968a9f11cbaae503026d237c49e8790df3dbd1846c22"
+    },
+    {
+      "name": "hopebringer_banana_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "fb87f979a65d73bbe59cb028b2f34f7b1604b2e8e44e0b467faaf16014c21f0f"
+    },
+    {
+      "name": "hopebringer_banana_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "4df52fc89e822d6163e14ff045749a519e1b681ced3abff865cfe8fa302a763e"
+    },
+    {
+      "name": "hopebringer_banana_20261108.tar.xz.part006",
+      "bytes": 73252,
+      "sha256": "546b08b34ee342704376573fbc369669e15384608c30813934c84e86dceb64e3"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_banana_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 398,
+      "sha256": "4b9ca94f0c4da25ebf4a2263e9f63bf2eb92b71217e6c3d6fcf0e0755bbc6985"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_amber_commit": "ce32d27a35fcd141af0b417423fd337efd92f657",
+    "hopebringer_amber_source_map_sha256": "b561cff2dc05128e28ccdd6363c9116b0275ab3c3428b48e5f4db9979559ffc7"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Banana combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
