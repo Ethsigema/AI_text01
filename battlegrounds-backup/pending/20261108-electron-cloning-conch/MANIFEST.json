@@ -1,0 +1,279 @@
+{
+  "archive": "electron_cloning_conch_20261108.tar.xz",
+  "bytes": 1077228,
+  "sha256": "20427fe9c99003c39932cf902669651703e936b6b24d99c9f0cc9bb297968f77",
+  "files": {
+    "electron_cloning_conch_20261108/BASE_MAP.json": {
+      "bytes": 4572235,
+      "sha256": "64db47233c38a84eae77365374b1f834172c21b5cdafd2ec6c596a38c2cd0a5f"
+    },
+    "electron_cloning_conch_20261108/EXPECTED_ROWS.json": {
+      "bytes": 26865,
+      "sha256": "dde7a78501cd942817705f1f2c77e372da2ca442864a2caf690a2a84ea80bc36"
+    },
+    "electron_cloning_conch_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_cloning_conch_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 7644,
+      "sha256": "d13b1b556420eb7727fa4006c5584a238a3a7724f28f2fbc3d774746dc71e888"
+    },
+    "electron_cloning_conch_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 276644,
+      "sha256": "cc36082238448bd201055e9dbe576678cd0a26b1e5a0b106fc3e565da12d8f21"
+    },
+    "electron_cloning_conch_20261108/README.md": {
+      "bytes": 2037,
+      "sha256": "ceb0cdd3162b3c2d5767d010f3b067967e73f8939e4cdb7786992ffa820e5af6"
+    },
+    "electron_cloning_conch_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "ea7e9bbca63cc10b67344f344bc06e5f4741970ec87fe414c24b9a34e50a6387"
+    },
+    "electron_cloning_conch_20261108/SOURCE_DELTA.json": {
+      "bytes": 1327,
+      "sha256": "8cb31fb17cb12db745b0060d3fec4f3a6e907a1f55127bf606574bae8658d04a"
+    },
+    "electron_cloning_conch_20261108/SOURCE_MAP.json": {
+      "bytes": 4572556,
+      "sha256": "4af4961f1d1b1f67ab9981f92bcd202553c8a35a9f2faa9a1f69bd47627883dd"
+    },
+    "electron_cloning_conch_20261108/VALIDATION.json": {
+      "bytes": 830,
+      "sha256": "854f34d88c91827290788b05345d479e5d2cb7e8e88b15d9f6fbf3d6ec48fe92"
+    },
+    "electron_cloning_conch_20261108/build.py": {
+      "bytes": 3585,
+      "sha256": "45777e0ffd2a18f75eb7f64cfb3105de537f73c6881da7591ab06be290f55e4a"
+    },
+    "electron_cloning_conch_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 48309,
+      "sha256": "7ccaa1cf2a4e497871bdcd68569a4b8a051b82884294258ac93127036a07da21"
+    },
+    "electron_cloning_conch_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 46362,
+      "sha256": "c144358a4d0d8b91d4f7fe3b9d948ad502d0e5b7ca162eb2a5c8c5dc6dbdf9d8"
+    },
+    "electron_cloning_conch_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 17118,
+      "sha256": "2113884ee8d5907ec3f52aead34736831100e58b0c2e72436cc372c757488168"
+    },
+    "electron_cloning_conch_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 26475,
+      "sha256": "dd335c0c43806583d8ad4de30b62ee6469cde28499b938f674af26fb4165ef4b"
+    },
+    "electron_cloning_conch_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 25265,
+      "sha256": "5202efb98ea4117887203f02694252a8a27af887d1b203b76ee6d83e652f2d1b"
+    },
+    "electron_cloning_conch_20261108/delta/research/electron_cloning_conch/BG28_601.native.xml": {
+      "bytes": 2295,
+      "sha256": "577732bed4289427053f269830f1e8beee0154fe1c262f512f09631936143c71"
+    },
+    "electron_cloning_conch_20261108/delta/research/electron_cloning_conch/evidence.json": {
+      "bytes": 652,
+      "sha256": "49004ba2e6000508a3938dfe4f3dcc82039f516e0bd58ed407fff0010cbb2f1c"
+    },
+    "electron_cloning_conch_20261108/gate.gd": {
+      "bytes": 19660,
+      "sha256": "b5c77b4037fdd9a0e7ab3afec6b27b7c3ce6af9ae6140b36d1eab3d1ee62f4df"
+    },
+    "electron_cloning_conch_20261108/materialize.py": {
+      "bytes": 1699,
+      "sha256": "4fccfa15c766fab3255c34dcad82af24a65b383654436abbc9f662829ef23a03"
+    },
+    "electron_cloning_conch_20261108/prepare_gate.py": {
+      "bytes": 3608,
+      "sha256": "c651e805386737331858549f5164e7347743ed51d6d94a3c1ed83c952f404f52"
+    },
+    "electron_cloning_conch_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1179,
+      "sha256": "9fe16c5d8d30a9bd33ebb8ef42b5fdc9f3526512d0ae0d3a17cd0576dab122bf"
+    },
+    "electron_cloning_conch_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_cloning_conch_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 26865,
+      "sha256": "dde7a78501cd942817705f1f2c77e372da2ca442864a2caf690a2a84ea80bc36"
+    },
+    "electron_cloning_conch_20261108/run_1/INTERRUPTED.json": {
+      "bytes": 169,
+      "sha256": "2f240262a7f788d96124de0fabfacd1913188fa26356a45c9468cc82f675ff7d"
+    },
+    "electron_cloning_conch_20261108/run_1/LAUNCH.json": {
+      "bytes": 531,
+      "sha256": "64277f15a0f882273d3f1c456b7c00b01c5daa9fc68046c3fa4d955d270d3cc8"
+    },
+    "electron_cloning_conch_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 276644,
+      "sha256": "cc36082238448bd201055e9dbe576678cd0a26b1e5a0b106fc3e565da12d8f21"
+    },
+    "electron_cloning_conch_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1327,
+      "sha256": "8cb31fb17cb12db745b0060d3fec4f3a6e907a1f55127bf606574bae8658d04a"
+    },
+    "electron_cloning_conch_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 15588,
+      "sha256": "b117667c645c95e4ee62693eaf9cb0d74a6339fbc3d288c23205a8c87d66837e"
+    },
+    "electron_cloning_conch_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4572556,
+      "sha256": "4af4961f1d1b1f67ab9981f92bcd202553c8a35a9f2faa9a1f69bd47627883dd"
+    },
+    "electron_cloning_conch_20261108/run_1/gate_executed.gd": {
+      "bytes": 19660,
+      "sha256": "696186b1994cbd8912391e6900f39993c4007acffba4b09f8a813f551ca100e5"
+    },
+    "electron_cloning_conch_20261108/run_1/native.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "electron_cloning_conch_20261108/run_2/EXPECTED_ROWS.json": {
+      "bytes": 26865,
+      "sha256": "dde7a78501cd942817705f1f2c77e372da2ca442864a2caf690a2a84ea80bc36"
+    },
+    "electron_cloning_conch_20261108/run_2/LAUNCH.json": {
+      "bytes": 531,
+      "sha256": "243d9070f8629a801522d61731df67fc9ecee977f8bd0580e091a40af28bc020"
+    },
+    "electron_cloning_conch_20261108/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 276644,
+      "sha256": "cc36082238448bd201055e9dbe576678cd0a26b1e5a0b106fc3e565da12d8f21"
+    },
+    "electron_cloning_conch_20261108/run_2/PROCESS.json": {
+      "bytes": 605,
+      "sha256": "efdffe13fca8b4583b86302c780b9eaf0fd148949e71373010c4c1d3a50eb74a"
+    },
+    "electron_cloning_conch_20261108/run_2/SOURCE_DELTA.json": {
+      "bytes": 1327,
+      "sha256": "8cb31fb17cb12db745b0060d3fec4f3a6e907a1f55127bf606574bae8658d04a"
+    },
+    "electron_cloning_conch_20261108/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 15588,
+      "sha256": "b117667c645c95e4ee62693eaf9cb0d74a6339fbc3d288c23205a8c87d66837e"
+    },
+    "electron_cloning_conch_20261108/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4572556,
+      "sha256": "4af4961f1d1b1f67ab9981f92bcd202553c8a35a9f2faa9a1f69bd47627883dd"
+    },
+    "electron_cloning_conch_20261108/run_2/data/report.json": {
+      "bytes": 63083,
+      "sha256": "070353ca47b7b63740ed13cc6d17744a3100c7aa40511df0c39c0b9d00616383"
+    },
+    "electron_cloning_conch_20261108/run_2/gate_executed.gd": {
+      "bytes": 19660,
+      "sha256": "696186b1994cbd8912391e6900f39993c4007acffba4b09f8a813f551ca100e5"
+    },
+    "electron_cloning_conch_20261108/run_2/native.log": {
+      "bytes": 151,
+      "sha256": "6f4ca5bc2471c462392f3845dbe85b63bfe886cf0b92c1f10132bc69fc9aa5e8"
+    },
+    "electron_cloning_conch_20261108/run_3/EXPECTED_ROWS.json": {
+      "bytes": 26865,
+      "sha256": "dde7a78501cd942817705f1f2c77e372da2ca442864a2caf690a2a84ea80bc36"
+    },
+    "electron_cloning_conch_20261108/run_3/LAUNCH.json": {
+      "bytes": 531,
+      "sha256": "4bf79493f4956c0f276e150b604b162c40935ed3ab63cdabaee149b7c60e8165"
+    },
+    "electron_cloning_conch_20261108/run_3/PIN_PREFLIGHT.json": {
+      "bytes": 276644,
+      "sha256": "cc36082238448bd201055e9dbe576678cd0a26b1e5a0b106fc3e565da12d8f21"
+    },
+    "electron_cloning_conch_20261108/run_3/PROCESS.json": {
+      "bytes": 605,
+      "sha256": "1086c3243979e66f021ebe8ae5e20ccc46da0ac3c284ba1a9c9bf8b01be2a06f"
+    },
+    "electron_cloning_conch_20261108/run_3/SOURCE_DELTA.json": {
+      "bytes": 1327,
+      "sha256": "8cb31fb17cb12db745b0060d3fec4f3a6e907a1f55127bf606574bae8658d04a"
+    },
+    "electron_cloning_conch_20261108/run_3/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 15588,
+      "sha256": "b117667c645c95e4ee62693eaf9cb0d74a6339fbc3d288c23205a8c87d66837e"
+    },
+    "electron_cloning_conch_20261108/run_3/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4572556,
+      "sha256": "4af4961f1d1b1f67ab9981f92bcd202553c8a35a9f2faa9a1f69bd47627883dd"
+    },
+    "electron_cloning_conch_20261108/run_3/data/initial_fixture.native_save.json": {
+      "bytes": 34630,
+      "sha256": "e230a48cfe37125a8938c2ce12321fda69539bab23cf0ed2bfa33721d12db2c2"
+    },
+    "electron_cloning_conch_20261108/run_3/data/recruited_card.native_save.json": {
+      "bytes": 58962,
+      "sha256": "a619fe4785d1c175cc5442377b42591b4b1d985cea840e94f437d3f18f0b3e1f"
+    },
+    "electron_cloning_conch_20261108/run_3/data/report.json": {
+      "bytes": 1448452,
+      "sha256": "006defd6a4470ca8b941e912d60c8838210871dcc7fdf40770a2387550193452"
+    },
+    "electron_cloning_conch_20261108/run_3/data/terminal.native_save.json": {
+      "bytes": 72475,
+      "sha256": "11aee858a6b6e9649078e5367e6d70a2721b5d259a9fa20822ca88730f33712b"
+    },
+    "electron_cloning_conch_20261108/run_3/gate_executed.gd": {
+      "bytes": 19660,
+      "sha256": "b5c77b4037fdd9a0e7ab3afec6b27b7c3ce6af9ae6140b36d1eab3d1ee62f4df"
+    },
+    "electron_cloning_conch_20261108/run_3/native.log": {
+      "bytes": 321,
+      "sha256": "3a552d88b4cf3c19e546bd560b0ed2d6a5783505c4a475a5796be012edce0217"
+    },
+    "electron_cloning_conch_20261108/seal.py": {
+      "bytes": 4645,
+      "sha256": "5ca20966aaa2b56891228f4f1a11dcba3c7893d115cfa2dec05e021514f1f8ba"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_cloning_conch_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "1542d62ff8914c6f2f28904d215dd67b92de2b312db904163df421df0b8d2b25"
+    },
+    {
+      "name": "electron_cloning_conch_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "272d6f0ad8ff3799e270bf5871f4a8ad0ff122d9f0183174af9d3b6d19aa9fee"
+    },
+    {
+      "name": "electron_cloning_conch_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "a2a97110a08aeb4dc60264f57e59d889853c91afdbb72082639b003d52dca524"
+    },
+    {
+      "name": "electron_cloning_conch_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "c21179a971a4272897a208abd90cd2b755a62121aa71bc3eb2592f93acbe7813"
+    },
+    {
+      "name": "electron_cloning_conch_20261108.tar.xz.part004",
+      "bytes": 77228,
+      "sha256": "04c0565968931aa6fdc151dd33f9817379d60f604a80976e37b1585663081313"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_cloning_conch_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 433,
+      "sha256": "38fb2c5f50783b82ad17c513447a316da61bef1e309b42f6b566de4be9fc78a6"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "deathrattle_discover_commit": "7447a788957f620a490bf8dc89a5ec30a470b111",
+    "deathrattle_discover_source_map_sha256": "64db47233c38a84eae77365374b1f834172c21b5cdafd2ec6c596a38c2cd0a5f"
+  },
+  "status": "Electron Cloning Conch bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 56,
+    "credential_pattern_flags": []
+  }
+}
