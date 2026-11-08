@@ -1,0 +1,257 @@
+{
+  "archive": "hopebringer_geomancer_20261108.tar.xz",
+  "bytes": 1597916,
+  "sha256": "a4654dcee8225c0c35126279c1855d4146a4dc793a388f1fbc7b3f0d6431914d",
+  "files": {
+    "hopebringer_geomancer_20261108/BASE_MAP.json": {
+      "bytes": 4589724,
+      "sha256": "b8eb523573635a49b49f81f0d8b2cecb33f221b77896d5aa53fca04909a066f2"
+    },
+    "hopebringer_geomancer_20261108/EXPECTED_ROWS.json": {
+      "bytes": 32373,
+      "sha256": "4e5349268d907a05e32f03d9e9edd979154898604f48a5612e5a3d215e0e2699"
+    },
+    "hopebringer_geomancer_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_geomancer_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 6568,
+      "sha256": "eba626f3f96a641b94793e7a7764bdb20d14bd63d546a21e26303fb68de8a28f"
+    },
+    "hopebringer_geomancer_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 305177,
+      "sha256": "4f7be540173e810dbb6d8616a19140b477be6fc261fb642b64d76f0f74052ecf"
+    },
+    "hopebringer_geomancer_20261108/README.md": {
+      "bytes": 1295,
+      "sha256": "1aaed2212c51ddc03628a1a9de4725809e3688ec457234d1325bc82490a9e8de"
+    },
+    "hopebringer_geomancer_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "02e124e19b7f7fe814da51844215b2f9b50d202ef9aed09c23a368110c52b026"
+    },
+    "hopebringer_geomancer_20261108/SOURCE_DELTA.json": {
+      "bytes": 1284,
+      "sha256": "71555528fd6fa66338cc2d26b9a4cbbfdb89baa57ba63a045335e95fd307f5aa"
+    },
+    "hopebringer_geomancer_20261108/SOURCE_MAP.json": {
+      "bytes": 4590043,
+      "sha256": "f05abac1c5b185aab5ea1b68643f9a2e7447008203f3dd515e459b4d8498cbcf"
+    },
+    "hopebringer_geomancer_20261108/VALIDATION.json": {
+      "bytes": 942,
+      "sha256": "96b56c6f75ba8170b7de42026246dbecb88a3573857f746c7447f61e76950808"
+    },
+    "hopebringer_geomancer_20261108/build.py": {
+      "bytes": 3550,
+      "sha256": "56ee5534a3402e58b3dcb85c44f2a1f34e391df45e0a34f5dfadb15bc97db722"
+    },
+    "hopebringer_geomancer_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 14034,
+      "sha256": "f688c38842191fdb123575290979bb7af29a2f23689f30cfad8014fe62fa57c7"
+    },
+    "hopebringer_geomancer_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 50056,
+      "sha256": "8a6be1a406ae5d029dec0de601392adaa43bf0df671005ffae02564f4d1ac7d1"
+    },
+    "hopebringer_geomancer_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 49478,
+      "sha256": "43a64aa2675da82596293d6963f07f10253bf8e63a3ee6750239689eba25409c"
+    },
+    "hopebringer_geomancer_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 25400,
+      "sha256": "ea4ca46f2dca53e000cc7e977d243e8c30546110da62cd909b4def8c692b8458"
+    },
+    "hopebringer_geomancer_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 25165,
+      "sha256": "6c828330f088dd9cb74b8cb6107697d30d462620409e72eb438725b4096c520e"
+    },
+    "hopebringer_geomancer_20261108/delta/research/hopebringer_geomancer/BG20_100.native.xml": {
+      "bytes": 2976,
+      "sha256": "de6a98f66593612a6b01ded06de5d5b4af736452c60a7e62fd5ddf43a4ccb729"
+    },
+    "hopebringer_geomancer_20261108/delta/research/hopebringer_geomancer/evidence.json": {
+      "bytes": 456,
+      "sha256": "8761920b65133f130b77bc9defb0d01fa5abdb205c091f9883b2a90bc8b9d79d"
+    },
+    "hopebringer_geomancer_20261108/gate.gd": {
+      "bytes": 19215,
+      "sha256": "907b80ebd880f8a2c1e534f2a4a7901e7765d28833caaee72542763360860b0d"
+    },
+    "hopebringer_geomancer_20261108/materialize.py": {
+      "bytes": 1673,
+      "sha256": "d687f2c161573432e35162c995e22fd7450308392a9d77ff55140fb66530aa3d"
+    },
+    "hopebringer_geomancer_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1167,
+      "sha256": "53d0e352c505e27e218867d13c8c48a54cbcc1d2f76ab154e9d924ce8c61b308"
+    },
+    "hopebringer_geomancer_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_geomancer_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 32373,
+      "sha256": "4e5349268d907a05e32f03d9e9edd979154898604f48a5612e5a3d215e0e2699"
+    },
+    "hopebringer_geomancer_20261108/run_1/LAUNCH.json": {
+      "bytes": 529,
+      "sha256": "90fa7d87fc710c93da9275115065d5a5834f891ed2ce78fee36c56c7cedff2f4"
+    },
+    "hopebringer_geomancer_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 305177,
+      "sha256": "4f7be540173e810dbb6d8616a19140b477be6fc261fb642b64d76f0f74052ecf"
+    },
+    "hopebringer_geomancer_20261108/run_1/PROCESS.json": {
+      "bytes": 603,
+      "sha256": "74942267e323e0a904c5c9fe898d6c2a88b3b5c1dfec9a4df5003d72096f13a4"
+    },
+    "hopebringer_geomancer_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1284,
+      "sha256": "71555528fd6fa66338cc2d26b9a4cbbfdb89baa57ba63a045335e95fd307f5aa"
+    },
+    "hopebringer_geomancer_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 14488,
+      "sha256": "4d0145f5b357e3b3f847b02c943cc4f65f240cc8acfa190710501edaa4eaef2a"
+    },
+    "hopebringer_geomancer_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4590043,
+      "sha256": "f05abac1c5b185aab5ea1b68643f9a2e7447008203f3dd515e459b4d8498cbcf"
+    },
+    "hopebringer_geomancer_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 86749,
+      "sha256": "f376ace985010c5d5527a7a784030ee930627665b1b4e31f2b27b977eb93e3ad"
+    },
+    "hopebringer_geomancer_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 37891,
+      "sha256": "db7c01895ebc382f57ca91baf331a94fce84fe1209afb0de246b2e32c111b498"
+    },
+    "hopebringer_geomancer_20261108/run_1/data/report.json": {
+      "bytes": 2895027,
+      "sha256": "f4dd5de0886125257e948b323c2d3a5aa8a2e0cccac8fdf595c77659b4664a1b"
+    },
+    "hopebringer_geomancer_20261108/run_1/gate_executed.gd": {
+      "bytes": 19132,
+      "sha256": "6a74769e6df520034ecf21a732ea2c958ed4d61acff12e45251d8667a0d59755"
+    },
+    "hopebringer_geomancer_20261108/run_1/native.log": {
+      "bytes": 454,
+      "sha256": "8544b2d964c2d2ae666e0dc6a0109636b0f4aed0350f233e0fb11ddedde6badc"
+    },
+    "hopebringer_geomancer_20261108/run_2/EXPECTED_ROWS.json": {
+      "bytes": 32373,
+      "sha256": "4e5349268d907a05e32f03d9e9edd979154898604f48a5612e5a3d215e0e2699"
+    },
+    "hopebringer_geomancer_20261108/run_2/LAUNCH.json": {
+      "bytes": 529,
+      "sha256": "a443f4aa8d4e3d696607637049de7949f9694bed6c8d3f2214dc54ec89d43da2"
+    },
+    "hopebringer_geomancer_20261108/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 305177,
+      "sha256": "4f7be540173e810dbb6d8616a19140b477be6fc261fb642b64d76f0f74052ecf"
+    },
+    "hopebringer_geomancer_20261108/run_2/PROCESS.json": {
+      "bytes": 602,
+      "sha256": "959df63263ec6dba5985004ea227547dde551a118f9d394c69fc1409251d4766"
+    },
+    "hopebringer_geomancer_20261108/run_2/SOURCE_DELTA.json": {
+      "bytes": 1284,
+      "sha256": "71555528fd6fa66338cc2d26b9a4cbbfdb89baa57ba63a045335e95fd307f5aa"
+    },
+    "hopebringer_geomancer_20261108/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 14488,
+      "sha256": "4d0145f5b357e3b3f847b02c943cc4f65f240cc8acfa190710501edaa4eaef2a"
+    },
+    "hopebringer_geomancer_20261108/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4590043,
+      "sha256": "f05abac1c5b185aab5ea1b68643f9a2e7447008203f3dd515e459b4d8498cbcf"
+    },
+    "hopebringer_geomancer_20261108/run_2/data/before_combat.native_save.json": {
+      "bytes": 86749,
+      "sha256": "f376ace985010c5d5527a7a784030ee930627665b1b4e31f2b27b977eb93e3ad"
+    },
+    "hopebringer_geomancer_20261108/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 37891,
+      "sha256": "db7c01895ebc382f57ca91baf331a94fce84fe1209afb0de246b2e32c111b498"
+    },
+    "hopebringer_geomancer_20261108/run_2/data/report.json": {
+      "bytes": 7394391,
+      "sha256": "ec654db10926b0ac9baf21bff7cfa1190a3926a68f73eb34a1fc86c298ee56cc"
+    },
+    "hopebringer_geomancer_20261108/run_2/data/terminal.native_save.json": {
+      "bytes": 775130,
+      "sha256": "3a3cca114011f51fa2577dec6264b3d3b37f65a8384103f6e904704a910a1379"
+    },
+    "hopebringer_geomancer_20261108/run_2/gate_executed.gd": {
+      "bytes": 19215,
+      "sha256": "907b80ebd880f8a2c1e534f2a4a7901e7765d28833caaee72542763360860b0d"
+    },
+    "hopebringer_geomancer_20261108/run_2/native.log": {
+      "bytes": 454,
+      "sha256": "23c9ffb5eca95cbff3aeeb2309a911e443852390cb57f18fc6e6f3d70c2853e6"
+    },
+    "hopebringer_geomancer_20261108/seal.py": {
+      "bytes": 4035,
+      "sha256": "31cd834f28057c6eb55d0042e6fb0495bf17944efe0f12a87376b17b28cbe942"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_geomancer_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "55e679bab93ec79f52c85c7d4a31fcf7079d1cfbca057504c5b7c1834dcd5646"
+    },
+    {
+      "name": "hopebringer_geomancer_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "d2379ed2b4de83e95a32c3881124a24a68aaf77b6e7fad50581bb5baf4e53d59"
+    },
+    {
+      "name": "hopebringer_geomancer_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "8129f498b7ad9befd841fac58918d66c11b7835e4c516485ef724e9dc4500a82"
+    },
+    {
+      "name": "hopebringer_geomancer_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "60285ed6a241927593d0a6637c985deece3c8407e2fcbf9cc65f0b1695224092"
+    },
+    {
+      "name": "hopebringer_geomancer_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "bd6e4ee63fb8978314af2d4cc51b9cde25c173080521f97848ace96ab55ed533"
+    },
+    {
+      "name": "hopebringer_geomancer_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "1e3d302b73f53afcac76d50c5718663a82b542b774bd4542a61eff2b4c34d938"
+    },
+    {
+      "name": "hopebringer_geomancer_20261108.tar.xz.part006",
+      "bytes": 97916,
+      "sha256": "32bffad594887d998bfeecd591a790f760c816b66976ff5f08bcc14a5ee2dc0d"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_geomancer_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 404,
+      "sha256": "e85cbd1c04c637f5aad7cd7b60482675467eb5d16b8e5ca1ccdcc986c3faab86"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_brann_commit": "cb2391a6f872b895a39975b3e77b21e9c6a3166a",
+    "hopebringer_brann_source_map_sha256": "b8eb523573635a49b49f81f0d8b2cecb33f221b77896d5aa53fca04909a066f2"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Brann Geomancer Blood Gem combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 48,
+    "credential_pattern_flags": []
+  }
+}
