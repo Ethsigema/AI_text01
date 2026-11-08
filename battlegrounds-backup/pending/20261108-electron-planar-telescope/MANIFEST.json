@@ -1,0 +1,203 @@
+{
+  "archive": "electron_planar_telescope_20261108.tar.xz",
+  "bytes": 1079076,
+  "sha256": "46c5b8a89d88f1f6ddfa3319ee886f48fb818687789eee0bbd9332937c2613d2",
+  "files": {
+    "electron_planar_telescope_20261108/BASE_MAP.json": {
+      "bytes": 4574854,
+      "sha256": "7d11fbb5e4f8f090bfb2592444e1e773434fe1a3ed08f4d6b3e90ad6a8c2036f"
+    },
+    "electron_planar_telescope_20261108/EXPECTED_ROWS.json": {
+      "bytes": 28941,
+      "sha256": "2ffbaf7d78b75fae407be2db916a8cc6cf6b2342f6c858e79ebfcd46c974ec2c"
+    },
+    "electron_planar_telescope_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_planar_telescope_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5053,
+      "sha256": "dd324a1f9659059a8573e900c34b0fce46dcac372b7bedfe175e7c8be74ac0fd"
+    },
+    "electron_planar_telescope_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 281058,
+      "sha256": "a56708c80e88d2904a56e6f510e36cde8fb689c93c4764340fd4eaff26554ac6"
+    },
+    "electron_planar_telescope_20261108/README.md": {
+      "bytes": 1579,
+      "sha256": "d27ec13615a68895c8f5e000ef1305ee75171ba184c281804f40b2ace5ed0adc"
+    },
+    "electron_planar_telescope_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_planar_telescope_20261108/SOURCE_DELTA.json": {
+      "bytes": 1327,
+      "sha256": "deab36499c458c8d6cba7ed2a00ada615153ccb0ccec7e375befb0ed120ec4c9"
+    },
+    "electron_planar_telescope_20261108/SOURCE_MAP.json": {
+      "bytes": 4575181,
+      "sha256": "8924681eebd90ccafc2b0ab1c9e6dac974a5a947936a3a7f12750e22d0464a2d"
+    },
+    "electron_planar_telescope_20261108/VALIDATION.json": {
+      "bytes": 820,
+      "sha256": "1911995ff24686062992fd5eb483f7be9e45d0e3c77c11b756c54a2288a86851"
+    },
+    "electron_planar_telescope_20261108/build.py": {
+      "bytes": 3580,
+      "sha256": "d135b7be87058847a62dd41ba525669914877e8e926f90c9aa0a2e249257155b"
+    },
+    "electron_planar_telescope_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 53199,
+      "sha256": "6e87601d4bb1282651e04b62a8c155f28e7b8c4bf6eec584f35845a8d160da40"
+    },
+    "electron_planar_telescope_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 51252,
+      "sha256": "5c471b76dd0cbd40a804ee95875858717e5ed0cc52b20f454d5ea57be04b2dcd"
+    },
+    "electron_planar_telescope_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 20126,
+      "sha256": "06f5698be8cf9b04d172eb02a801dc115a9b7ef06bf7424cf1009d1d0ef3a917"
+    },
+    "electron_planar_telescope_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 27513,
+      "sha256": "a79a2988437a688c1e9e8559b32e58374ae8e941ac47c639db109116beb3f261"
+    },
+    "electron_planar_telescope_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 26303,
+      "sha256": "0b1f7399014983d8b6d967ccae911d88220f17dcc3e6810003ed12f1b8784c95"
+    },
+    "electron_planar_telescope_20261108/delta/research/electron_planar_telescope/BG28_521.native.xml": {
+      "bytes": 2692,
+      "sha256": "cecfbe453269a921973e7cd5f9d9b44f1fce6f4683225ceb8e49a739770d5a88"
+    },
+    "electron_planar_telescope_20261108/delta/research/electron_planar_telescope/evidence.json": {
+      "bytes": 537,
+      "sha256": "5ec0b09839c497ac95b10331d211078e497dda4c7fb99c0238dadc450d52f56f"
+    },
+    "electron_planar_telescope_20261108/gate.gd": {
+      "bytes": 19985,
+      "sha256": "92eff961799d3d047ca782dbcff66b2c5e2667e27f23e1c2f6a8d0562522fa0c"
+    },
+    "electron_planar_telescope_20261108/materialize.py": {
+      "bytes": 1685,
+      "sha256": "60227d32a989731907a74136a0718429cf40f3300ca30977409b597969fb88b4"
+    },
+    "electron_planar_telescope_20261108/prepare_gate.py": {
+      "bytes": 2893,
+      "sha256": "aa0746d1d84d3885486b0a407ec4c04c2528938e4992154d8d7eb0981906debc"
+    },
+    "electron_planar_telescope_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1171,
+      "sha256": "c46584305f0edb4a576399c7e591702eca4f3c482cb4850ec4786f7091322afc"
+    },
+    "electron_planar_telescope_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_planar_telescope_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 28941,
+      "sha256": "2ffbaf7d78b75fae407be2db916a8cc6cf6b2342f6c858e79ebfcd46c974ec2c"
+    },
+    "electron_planar_telescope_20261108/run_1/LAUNCH.json": {
+      "bytes": 537,
+      "sha256": "09f0709b7c806bba7886528062396c120f912dc54ec2d0f658f5a32f09ab5d09"
+    },
+    "electron_planar_telescope_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 281058,
+      "sha256": "a56708c80e88d2904a56e6f510e36cde8fb689c93c4764340fd4eaff26554ac6"
+    },
+    "electron_planar_telescope_20261108/run_1/PROCESS.json": {
+      "bytes": 611,
+      "sha256": "33482b7e0c0582f32e56d186fe3ebb5533a8e6e0c2245ea345a20de70cc72d00"
+    },
+    "electron_planar_telescope_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1327,
+      "sha256": "deab36499c458c8d6cba7ed2a00ada615153ccb0ccec7e375befb0ed120ec4c9"
+    },
+    "electron_planar_telescope_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 16996,
+      "sha256": "934ab21692b06b14c55190935a938c0c65edb6aa004ba55ad5247cee7897b34e"
+    },
+    "electron_planar_telescope_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4575181,
+      "sha256": "8924681eebd90ccafc2b0ab1c9e6dac974a5a947936a3a7f12750e22d0464a2d"
+    },
+    "electron_planar_telescope_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 31214,
+      "sha256": "2705a53c3957d013b45b3f669493ba68e787099089801a8da62b1c6a9d86f143"
+    },
+    "electron_planar_telescope_20261108/run_1/data/pending_discover.native_save.json": {
+      "bytes": 63821,
+      "sha256": "95c29b0c2de1fce458fc78c35f32c8974413b99281c5f5f6314b63c7f3021e3b"
+    },
+    "electron_planar_telescope_20261108/run_1/data/report.json": {
+      "bytes": 1519696,
+      "sha256": "815ef4e1dffd75041f6a4778b414decf91cd0ef6c99409303f91aa05869e5165"
+    },
+    "electron_planar_telescope_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 71624,
+      "sha256": "e771dd41974a3d274c2f22aec03c5cd4b32b26ba57babcaaaab907b9bc82f238"
+    },
+    "electron_planar_telescope_20261108/run_1/gate_executed.gd": {
+      "bytes": 19985,
+      "sha256": "92eff961799d3d047ca782dbcff66b2c5e2667e27f23e1c2f6a8d0562522fa0c"
+    },
+    "electron_planar_telescope_20261108/run_1/native.log": {
+      "bytes": 367,
+      "sha256": "a194e252a7a34839cd2f350a675f631f3678bad7709d0f2d4f7f385ca848f1ba"
+    },
+    "electron_planar_telescope_20261108/seal.py": {
+      "bytes": 4636,
+      "sha256": "248f9246c5cec1c94b944d56bc8ad07446127078349e6a58576f2d12871bf6c3"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_planar_telescope_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "989f3a2250ef31ba92f870f6892872ed83ae26a8581c2bbe3737ecfca0c81433"
+    },
+    {
+      "name": "electron_planar_telescope_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "0fa6b1700a68a6676d7485134fcceecabe3f37a69d871b9b808df4860660a51a"
+    },
+    {
+      "name": "electron_planar_telescope_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "a5a9cc3d7287011083db56d65a240fcd1580156f3df3b9d59c347e44b8daee86"
+    },
+    {
+      "name": "electron_planar_telescope_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "4781cc5d535074de3766eac6738f086e3c9a59eab8e0d1be49173d65b9b03306"
+    },
+    {
+      "name": "electron_planar_telescope_20261108.tar.xz.part004",
+      "bytes": 79076,
+      "sha256": "fe27de225118a1a4e2b265a7278592d4a82dd39a3070c341b652eb25d37a70e2"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_planar_telescope_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 439,
+      "sha256": "cacf9182bafa99099aac19d19629307f1be33885819f23fa77b3e831b78e1be2"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "type_refresh_commit": "7e97a154096c21bd8c5b7d2ab9c889ebc9ac5aa8",
+    "type_refresh_source_map_sha256": "7d11fbb5e4f8f090bfb2592444e1e773434fe1a3ed08f4d6b3e90ad6a8c2036f"
+  },
+  "status": "Electron Planar Telescope majority Discover bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
