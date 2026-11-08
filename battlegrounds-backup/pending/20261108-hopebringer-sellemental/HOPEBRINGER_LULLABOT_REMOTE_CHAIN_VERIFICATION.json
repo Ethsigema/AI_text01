@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_lullabot",
+      "commit": "45d8a587913024e1b6e697ddccaa70083ba51e3f",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-lullabot",
+      "manifest_sha256": "7cf978c5986690c609f8d087414ac069ea9d44b651c963415714c0d65279c160",
+      "archive": "hopebringer_lullabot_20261108.tar.xz",
+      "archive_sha256": "e247a55168f1bdcea2a4d1593a38ea143cef7dc6fe07f034389cc086c6a0d4af",
+      "archive_bytes": 1573176,
+      "parts_verified": 7,
+      "members_verified": 36,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_geomancer": "f05abac1c5b185aab5ea1b68643f9a2e7447008203f3dd515e459b4d8498cbcf",
+    "hopebringer_lullabot": "0416cdda6d96751509c39dc3dcfe60983fede6130615ba68df1eefa1dea4eb9e"
+  },
+  "hopebringer_geomancer_source_byte_equals_hopebringer_lullabot_base": true,
+  "baseline_files_rehashed": 27812,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "2d066b133085cbdfca8cb2666b46aa3d6ebdb7ab3101a25a39be3b58256c2c80",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_lullabot/BG26_146.native.xml",
+      "research/hopebringer_lullabot/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27814,
+  "restored_bytes": 1548421793,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "18f89636d4c2aa8750e54178454711ccda2c153fd745d808abd5c502aeacf98d",
+  "prior_whole_chain_via_hopebringer_geomancer_to_hopebringer_lullabot_map_continuity": true,
+  "supporting_hopebringer_geomancer_chain_receipt_sha256": "354514ec8b9b84a4ece33c1d64c4bb911df1b15d31a9ba2f88e76bdd6aced54d",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Geomancer baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Lullabot increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T14:11:00.140862+00:00"
+}
