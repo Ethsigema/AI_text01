@@ -1,0 +1,263 @@
+{
+  "archive": "electron_privateer_four_20261108.tar.xz",
+  "bytes": 1131480,
+  "sha256": "0fcb1dca43e0f7565365f3911d25afd1d55317463655e461cddb24f4debbeff5",
+  "files": {
+    "electron_privateer_four_20261108/BASE_MAP.json": {
+      "bytes": 4578758,
+      "sha256": "86a0b68f46f7cfb9ee7680324cc510074e8f794257291851788ea94f1a70ff4e"
+    },
+    "electron_privateer_four_20261108/EXPECTED_ROWS.json": {
+      "bytes": 33121,
+      "sha256": "6ce7148d8c7fb7193a52fdac7d11328874f977476b044b18522b6632a9d83dda"
+    },
+    "electron_privateer_four_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_privateer_four_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 7172,
+      "sha256": "9d4c374ffe645d3a8cbfb11f320ba6c48074c88e6b60fd8b4d818284ade57bb3"
+    },
+    "electron_privateer_four_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 287883,
+      "sha256": "fc024ddb06f1be593f15d4b8b3aa5263545b1bd236651e77b5604679216aab09"
+    },
+    "electron_privateer_four_20261108/README.md": {
+      "bytes": 2372,
+      "sha256": "9f43ab08c270492f0ed13895d48d3611491726514d5175249a38bc9857be7615"
+    },
+    "electron_privateer_four_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "716ad55cbc7d392cd9f8e4290fc459279ec7dceb2bf89366a0fe6df84d358800"
+    },
+    "electron_privateer_four_20261108/SOURCE_DELTA.json": {
+      "bytes": 1816,
+      "sha256": "74a868e2aec89f3a7645f9fc1663459dd63b38be0ece150e492d75dc3b036062"
+    },
+    "electron_privateer_four_20261108/SOURCE_MAP.json": {
+      "bytes": 4579246,
+      "sha256": "dbde059ed38c6620e3c693d323bdd403bdf8f499546c0d5b04dc29108625d36e"
+    },
+    "electron_privateer_four_20261108/VALIDATION.json": {
+      "bytes": 824,
+      "sha256": "b030431fd100bb38daa4dda5a7cb63f148592b0e4e976381ec0f001b2a46ea59"
+    },
+    "electron_privateer_four_20261108/bridge_full_group.py": {
+      "bytes": 2738,
+      "sha256": "62fd2a007ed262a6b0fa5d90b4d90e305797d061b8c29121f3978a66c4fddf70"
+    },
+    "electron_privateer_four_20261108/build.py": {
+      "bytes": 4507,
+      "sha256": "9d073ccdd2dcd8cc6b428b3528cf9e84a599a026aa89b679b905236e9e43a527"
+    },
+    "electron_privateer_four_20261108/delta/core/bubble_crown_host.gd": {
+      "bytes": 19751,
+      "sha256": "0d0667f326339175764ad185b6bc23662e076b70d09d4e188821cc4353da3438"
+    },
+    "electron_privateer_four_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 61704,
+      "sha256": "166e07f5dbb0e3195a62e8c8ec02b156d7cb1e08b3c7c579ceace3875382170d"
+    },
+    "electron_privateer_four_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 59757,
+      "sha256": "ac26a84b09fa1f1e5cd563f81d250a0e3244a7fb7e898c0e71a5682fd67b55ea"
+    },
+    "electron_privateer_four_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 27097,
+      "sha256": "bdd95ae7f9a17ce9086fba3d61c03ededc97ce2e6207acee2fe52b6a9131b5a3"
+    },
+    "electron_privateer_four_20261108/delta/core/yogg_start_cast_host.gd": {
+      "bytes": 41562,
+      "sha256": "bc82400196eae35030437d518ec8e0afc212c1297651e9983a8bffa6c7f4ad04"
+    },
+    "electron_privateer_four_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 29603,
+      "sha256": "7c72a6e3ffd8b97153d83f9f32d9628f35afc83ca434e676541727082b017ed5"
+    },
+    "electron_privateer_four_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 28393,
+      "sha256": "2f7fe17008529a30934bede033708fc4f34175761f813212fa53df82321f66e8"
+    },
+    "electron_privateer_four_20261108/delta/research/electron_privateer_four/BG33_811.native.xml": {
+      "bytes": 3283,
+      "sha256": "f50b90d9e81fd4d8449b855dd9d93b3011d10a97c914f9d56889cb327ba815dd"
+    },
+    "electron_privateer_four_20261108/delta/research/electron_privateer_four/BG33_812.native.xml": {
+      "bytes": 3277,
+      "sha256": "ac7196d48bb26b1289a340db4644d8bcaec0723a5c4133b6c92af5254e7d843b"
+    },
+    "electron_privateer_four_20261108/delta/research/electron_privateer_four/evidence.json": {
+      "bytes": 944,
+      "sha256": "47e00104cf058a47ffd98848ac1af657a72dfb76e7e847321e5387f572330a8a"
+    },
+    "electron_privateer_four_20261108/gate.gd": {
+      "bytes": 18902,
+      "sha256": "865e9fb4db5cbae23cc64ddee932ef441303063b66d42892de7059d1cf70c064"
+    },
+    "electron_privateer_four_20261108/materialize.py": {
+      "bytes": 1693,
+      "sha256": "0f12410ca509fa0a550e47912d349d58dd069dd5346fc79a85451ac590cf33f5"
+    },
+    "electron_privateer_four_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1177,
+      "sha256": "aae005229226d3cd31c3f8b994b2204938cf5dd710f86fb74a7c9a3e8942044b"
+    },
+    "electron_privateer_four_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_privateer_four_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 33121,
+      "sha256": "6ce7148d8c7fb7193a52fdac7d11328874f977476b044b18522b6632a9d83dda"
+    },
+    "electron_privateer_four_20261108/run_1/LAUNCH.json": {
+      "bytes": 533,
+      "sha256": "297875316365aa9b243cb68fc7ac18c190c3ab94153f8924b131cdba1db5bad5"
+    },
+    "electron_privateer_four_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 287883,
+      "sha256": "fc024ddb06f1be593f15d4b8b3aa5263545b1bd236651e77b5604679216aab09"
+    },
+    "electron_privateer_four_20261108/run_1/PROCESS.json": {
+      "bytes": 607,
+      "sha256": "28a9a72e736b6efafe4be0894a7b64b60a9e40f7c1c8848f6cb1ce09f2566528"
+    },
+    "electron_privateer_four_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1507,
+      "sha256": "cd66186a36b5263c8e2f1a11793f29e5f786846911f10353fb91835c3e5e2a92"
+    },
+    "electron_privateer_four_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 20160,
+      "sha256": "ed093733f587ab137fd8b28960be65ed89476f8a561dc5f961a763b70d38854b"
+    },
+    "electron_privateer_four_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4579246,
+      "sha256": "5c310f0ff5b646984eb8b827e3c4dd007d4697a16b23798c8dbd8ea88e1621d2"
+    },
+    "electron_privateer_four_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 35658,
+      "sha256": "396a873ba4b5ccc8d5398ca81b7767a7788c039510440473e94d284264a6c022"
+    },
+    "electron_privateer_four_20261108/run_1/data/report.json": {
+      "bytes": 858003,
+      "sha256": "651ed49b2c9f5be8add3c841e3c0ca93940753e29ec54035ba441dd33f334bac"
+    },
+    "electron_privateer_four_20261108/run_1/gate_executed.gd": {
+      "bytes": 18902,
+      "sha256": "865e9fb4db5cbae23cc64ddee932ef441303063b66d42892de7059d1cf70c064"
+    },
+    "electron_privateer_four_20261108/run_1/native.log": {
+      "bytes": 321,
+      "sha256": "415d5e34b663e5e6d9f149b1488e7779dce81dbb2dd2e0f5c19d59ab576a1103"
+    },
+    "electron_privateer_four_20261108/run_2/EXPECTED_ROWS.json": {
+      "bytes": 33121,
+      "sha256": "6ce7148d8c7fb7193a52fdac7d11328874f977476b044b18522b6632a9d83dda"
+    },
+    "electron_privateer_four_20261108/run_2/LAUNCH.json": {
+      "bytes": 533,
+      "sha256": "0ec9770838be624acfb8d209a447911695b6a0263af9504d9b183a7f3f98c8be"
+    },
+    "electron_privateer_four_20261108/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 287883,
+      "sha256": "fc024ddb06f1be593f15d4b8b3aa5263545b1bd236651e77b5604679216aab09"
+    },
+    "electron_privateer_four_20261108/run_2/PROCESS.json": {
+      "bytes": 607,
+      "sha256": "c6a3d57249848009a0cc5b949f4a8f7d65526b571f829347b9bbd3bee8bc3752"
+    },
+    "electron_privateer_four_20261108/run_2/SOURCE_DELTA.json": {
+      "bytes": 1699,
+      "sha256": "401ffa0accfc3111f29e663cc39bdca905b689f173270f188b8d5488b4a6db3b"
+    },
+    "electron_privateer_four_20261108/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 30988,
+      "sha256": "7f9518040a48eef1a7a34e94c9d2a58f014e36babfade1a2118e3be72f3b995a"
+    },
+    "electron_privateer_four_20261108/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4579246,
+      "sha256": "dbde059ed38c6620e3c693d323bdd403bdf8f499546c0d5b04dc29108625d36e"
+    },
+    "electron_privateer_four_20261108/run_2/data/after_first_four.native_save.json": {
+      "bytes": 81304,
+      "sha256": "6ad4a95f707b3b6c8b5e3257cdf522a3ed0d2f9f5d18c5a44f262e69fccd3ad2"
+    },
+    "electron_privateer_four_20261108/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 35658,
+      "sha256": "dd59dd475fa3dd7aa839faf046c65043c8ecef7f07346d87334e6087ed60ab2b"
+    },
+    "electron_privateer_four_20261108/run_2/data/report.json": {
+      "bytes": 1936333,
+      "sha256": "7dbcac73ed9dfdca34f1477fef7d81a834d76465b95e974d43ed53ae555b7275"
+    },
+    "electron_privateer_four_20261108/run_2/data/terminal.native_save.json": {
+      "bytes": 100624,
+      "sha256": "58578585a05fdeb9bdb15baa5dfe943fb48655beff0483fff4a45545e6ec9eab"
+    },
+    "electron_privateer_four_20261108/run_2/gate_executed.gd": {
+      "bytes": 18902,
+      "sha256": "865e9fb4db5cbae23cc64ddee932ef441303063b66d42892de7059d1cf70c064"
+    },
+    "electron_privateer_four_20261108/run_2/native.log": {
+      "bytes": 349,
+      "sha256": "1415251e56a424a8233cd7a815991cbb1322c6d3a8395a35b7e7923d5f7aeec0"
+    },
+    "electron_privateer_four_20261108/seal.py": {
+      "bytes": 4999,
+      "sha256": "6cd28e63227a21c95bd27269da642cc455a3db5ad63bc2a01d539bb5521d2201"
+    },
+    "electron_privateer_four_20261108/update_runtime.py": {
+      "bytes": 751,
+      "sha256": "df60d2c937d4676775c9ba01fe6886886d09158bc3fc219e233775c6b9454a26"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_privateer_four_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "13754fa14b0c3a95364869bd52cadb39d72c148e8d7907249e57d7a3e8ffe2d0"
+    },
+    {
+      "name": "electron_privateer_four_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "2112e3caffc2d9d04ca20e7cefa605c6e267aff9a9d9882dd7e4f73d6dfb75a6"
+    },
+    {
+      "name": "electron_privateer_four_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "e8074c578bfc6e265b9e93ba810568c1fc9aa4b701cc0209b21db0d45c6f45e4"
+    },
+    {
+      "name": "electron_privateer_four_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "23c69d7fdc333182b89ce2bdcab415956c44f948061f342a777345f150d64d91"
+    },
+    {
+      "name": "electron_privateer_four_20261108.tar.xz.part004",
+      "bytes": 131480,
+      "sha256": "da3116b82bb61622ac972c516d9d66f0b7ae5e9153dc5154a67c16c4ca37fbd7"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_privateer_four_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 564,
+      "sha256": "266fd4bef531fc1807d87b5a67682fca79372dd762f07642e5b7a2eb5215ebc3"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "privateer_leftmost_commit": "60099bcf2be4fdee4ad9a7b1deba69a720d7c0fa",
+    "privateer_leftmost_source_map_sha256": "86a0b68f46f7cfb9ee7680324cc510074e8f794257291851788ea94f1a70ff4e"
+  },
+  "status": "Source recovery increment only. Bounded Privateer four-friendly repeat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 52,
+    "credential_pattern_flags": []
+  }
+}
