@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "battlecry_discover",
+      "commit": "f0653df584e12d274ca689f6384b3a45f1efe060",
+      "repository_path": "battlegrounds-backup/pending/20261108-electron-battlecry-discover",
+      "manifest_sha256": "291b86f2aa5280ece37fd245988785c91bbccb9f4d449529c19d8c93ee26c48f",
+      "archive": "electron_battlecry_discover_20261108.tar.xz",
+      "archive_sha256": "d8de842db29100276342e4fbc0a9c9c29e4d8b6a31423eb77c642ef165489ba7",
+      "archive_bytes": 1076612,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "cloning_conch": "4af4961f1d1b1f67ab9981f92bcd202553c8a35a9f2faa9a1f69bd47627883dd",
+    "battlecry_discover": "7e1eea7ffc224727525fef214a08ad6056563b332b95837910c423e7ca666787"
+  },
+  "cloning_conch_source_byte_equals_battlecry_discover_base": true,
+  "baseline_files_rehashed": 27703,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "84aa743a66ac20b958a00412cc6339a58874110733598cd6269eb37ba02b39cf",
+  "change_lists": {
+    "added": [
+      "research/electron_battlecry_discover/BG28_GIL_836.native.xml",
+      "research/electron_battlecry_discover/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27705,
+  "restored_bytes": 1548063185,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "47f9232e818c42246c1932cebfdb71dce791bb42b0b82cf5beb9614655bdd5b7",
+  "prior_whole_chain_via_cloning_conch_to_battlecry_discover_map_continuity": true,
+  "supporting_cloning_conch_chain_receipt_sha256": "01bf6488c25a1170c8b09331485e3f85c98f7bae0f0bfff6a584b259a6a56606",
+  "historical_baseline_provenance": "The baseline is the verified Electron Cloning Conch baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Battlecry Discover increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T01:22:33.579276+00:00"
+}
