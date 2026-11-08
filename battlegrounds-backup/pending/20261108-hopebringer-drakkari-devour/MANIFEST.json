@@ -1,0 +1,257 @@
+{
+  "archive": "hopebringer_drakkari_devour_20261108.tar.xz",
+  "bytes": 1621712,
+  "sha256": "932a6a77d0baa98fe16edc1987e25f23fa310cc89d0c42d0b225b3d58531a491",
+  "files": {
+    "hopebringer_drakkari_devour_20261108/BASE_MAP.json": {
+      "bytes": 4596059,
+      "sha256": "40e55a22bbd70f972c6c8b0e7e61e880dbbf6c39f73d2f677f2964080ee51985"
+    },
+    "hopebringer_drakkari_devour_20261108/EXPECTED_ROWS.json": {
+      "bytes": 42843,
+      "sha256": "6628e7afc5711a93bfd1329603cfc234715a50c856ea1f9521c23c8489590efa"
+    },
+    "hopebringer_drakkari_devour_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_drakkari_devour_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 6584,
+      "sha256": "c501ecb6ec12f35ccba55f50b58710c1f5e2f234295e60da6cfecd8cf897cc03"
+    },
+    "hopebringer_drakkari_devour_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 315307,
+      "sha256": "d2572539a6cbf40a1c0a5dba0fb473953e5e5a07c3c590b9cae87dfe2a18da0f"
+    },
+    "hopebringer_drakkari_devour_20261108/README.md": {
+      "bytes": 1358,
+      "sha256": "83734b51ea0872bc7390e39509a615f1505b61aeb899a1e78c0c7e2e0e0d25f7"
+    },
+    "hopebringer_drakkari_devour_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "02e124e19b7f7fe814da51844215b2f9b50d202ef9aed09c23a368110c52b026"
+    },
+    "hopebringer_drakkari_devour_20261108/SOURCE_DELTA.json": {
+      "bytes": 1303,
+      "sha256": "d6cd8ccdc1ea305b897b75ce4435b13748426453a897ed05bcb846ed4b584610"
+    },
+    "hopebringer_drakkari_devour_20261108/SOURCE_MAP.json": {
+      "bytes": 4596394,
+      "sha256": "2130f84b455c534c421306136727ca097327f4f9ccb08af6dfd914d4eca28def"
+    },
+    "hopebringer_drakkari_devour_20261108/VALIDATION.json": {
+      "bytes": 910,
+      "sha256": "78bd32d851c34c3a38ec7cdeb2750870ff13d3bee7065d690c6428844ec01b5f"
+    },
+    "hopebringer_drakkari_devour_20261108/build.py": {
+      "bytes": 3638,
+      "sha256": "0ad943568e0ea3a5a42c0f89b68d69f5a4c11766d10d3863f69ab6ebc96b5397"
+    },
+    "hopebringer_drakkari_devour_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 17712,
+      "sha256": "9112a8ba4e7b8af902f74c288bb99602d65d88715e53ad996978536a56d31d9c"
+    },
+    "hopebringer_drakkari_devour_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 67136,
+      "sha256": "c7156c456a5b0f63669e2b6f6cd6d481f6aca3302a9c3e03b2161490cfd398c9"
+    },
+    "hopebringer_drakkari_devour_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 66558,
+      "sha256": "511a1259244c5525d8746660bef2fa10dc07e4f69bc8131d3465c0059291b72f"
+    },
+    "hopebringer_drakkari_devour_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 30635,
+      "sha256": "0b05105dbaaff0007a898ec79dd030ab2ea43e9ed4f6f0ae63611b71c36d6b84"
+    },
+    "hopebringer_drakkari_devour_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 30400,
+      "sha256": "d46490e53b1226a1cf412f9b1027ef7bd78f786d0b58035d8f72115fca9073e9"
+    },
+    "hopebringer_drakkari_devour_20261108/delta/research/hopebringer_drakkari_devour/BG26_ICC_901.native.xml": {
+      "bytes": 4488,
+      "sha256": "417e4721c28530a3b1f56c41c8a215e973fabba993d6e63deae132ecc27806bf"
+    },
+    "hopebringer_drakkari_devour_20261108/delta/research/hopebringer_drakkari_devour/evidence.json": {
+      "bytes": 484,
+      "sha256": "71a33c20dc68bc89af6b69e2f239692878f925b4948101a0f17e52d250cae018"
+    },
+    "hopebringer_drakkari_devour_20261108/gate.gd": {
+      "bytes": 19174,
+      "sha256": "32b6a4285bbbb0edce92e5714c599bfab68af5861e6210e51dfa8b7520913714"
+    },
+    "hopebringer_drakkari_devour_20261108/materialize.py": {
+      "bytes": 1679,
+      "sha256": "54b4243a38ec4e3f2ede576a6187efe293475226abddd261d906d12e37b27d20"
+    },
+    "hopebringer_drakkari_devour_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "07b33b55780b35e47b6f6e5ab9078c88ed2f5f3b425bdd6cc3b116fa2b93c7a7"
+    },
+    "hopebringer_drakkari_devour_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_drakkari_devour_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 42843,
+      "sha256": "6628e7afc5711a93bfd1329603cfc234715a50c856ea1f9521c23c8489590efa"
+    },
+    "hopebringer_drakkari_devour_20261108/run_1/LAUNCH.json": {
+      "bytes": 541,
+      "sha256": "29be377fb4ba690c742ef14d0535531d9ac0481563e123c60f750ccb1648148f"
+    },
+    "hopebringer_drakkari_devour_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 315307,
+      "sha256": "d2572539a6cbf40a1c0a5dba0fb473953e5e5a07c3c590b9cae87dfe2a18da0f"
+    },
+    "hopebringer_drakkari_devour_20261108/run_1/PROCESS.json": {
+      "bytes": 614,
+      "sha256": "be7da8562b2537391575fb84afd0e75ec3129d3b92d9b760e34c810be498b6ee"
+    },
+    "hopebringer_drakkari_devour_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1303,
+      "sha256": "d6cd8ccdc1ea305b897b75ce4435b13748426453a897ed05bcb846ed4b584610"
+    },
+    "hopebringer_drakkari_devour_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 18492,
+      "sha256": "6050137674a17082af0dd266903620b0e1cc664d77463fd2daa4e89dd3e2b29b"
+    },
+    "hopebringer_drakkari_devour_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4596394,
+      "sha256": "2130f84b455c534c421306136727ca097327f4f9ccb08af6dfd914d4eca28def"
+    },
+    "hopebringer_drakkari_devour_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 77276,
+      "sha256": "e4814b1e36cfebee85e00a6d872316b8e5e3c5c23f3ebae459504df7ffe083f3"
+    },
+    "hopebringer_drakkari_devour_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 35772,
+      "sha256": "41184b1ca42ac3f79bc2d404ab6be6b7fe2f737b603153f2f290a1aaa3c5c7ad"
+    },
+    "hopebringer_drakkari_devour_20261108/run_1/data/report.json": {
+      "bytes": 2718589,
+      "sha256": "f2f54afb2554f790362d836e4771e78af0650a5440b3f2c6c145ae8fead445c2"
+    },
+    "hopebringer_drakkari_devour_20261108/run_1/gate_executed.gd": {
+      "bytes": 19086,
+      "sha256": "7381c049de195bd1ab9bf18329ea47e2777b5f9fd304fa0e64cbe26a299727dd"
+    },
+    "hopebringer_drakkari_devour_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "4ce35dc9a1ac02538bd1e9ed26b21cf27913dce4335497d6d60f9d7a5a14b7b4"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/EXPECTED_ROWS.json": {
+      "bytes": 42843,
+      "sha256": "6628e7afc5711a93bfd1329603cfc234715a50c856ea1f9521c23c8489590efa"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/LAUNCH.json": {
+      "bytes": 541,
+      "sha256": "1484118d1b5865cd41eb6ff924352d0bdb22f1b0104c09f94affe8ef78ec821f"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 315307,
+      "sha256": "d2572539a6cbf40a1c0a5dba0fb473953e5e5a07c3c590b9cae87dfe2a18da0f"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/PROCESS.json": {
+      "bytes": 610,
+      "sha256": "87e865e1164be69160519c3b7829a1e06361994a19194eb48e892c0fe9f49ea2"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/SOURCE_DELTA.json": {
+      "bytes": 1303,
+      "sha256": "d6cd8ccdc1ea305b897b75ce4435b13748426453a897ed05bcb846ed4b584610"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 18492,
+      "sha256": "6050137674a17082af0dd266903620b0e1cc664d77463fd2daa4e89dd3e2b29b"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4596394,
+      "sha256": "2130f84b455c534c421306136727ca097327f4f9ccb08af6dfd914d4eca28def"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/data/before_combat.native_save.json": {
+      "bytes": 77276,
+      "sha256": "e4814b1e36cfebee85e00a6d872316b8e5e3c5c23f3ebae459504df7ffe083f3"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 35772,
+      "sha256": "41184b1ca42ac3f79bc2d404ab6be6b7fe2f737b603153f2f290a1aaa3c5c7ad"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/data/report.json": {
+      "bytes": 7278142,
+      "sha256": "03d09e88f5a10e255d442bbc6f053ab6ebc38598266ef5f0db29643651df971a"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/data/terminal.native_save.json": {
+      "bytes": 781922,
+      "sha256": "51b4deaeeeea62cfe8fdd560b6b87f2edba9de684f0cd5d41c9b73665740d3ec"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/gate_executed.gd": {
+      "bytes": 19174,
+      "sha256": "32b6a4285bbbb0edce92e5714c599bfab68af5861e6210e51dfa8b7520913714"
+    },
+    "hopebringer_drakkari_devour_20261108/run_2/native.log": {
+      "bytes": 425,
+      "sha256": "a00bf28bb45eb7be2cd4c618be2150afde4caf8eb954fddce24eb81b5440d66c"
+    },
+    "hopebringer_drakkari_devour_20261108/seal.py": {
+      "bytes": 4020,
+      "sha256": "b88501c4dd70fe0a1e66bb602daf6250048c4ad9d91c9ed0d4f328ba0f7ab4ad"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_drakkari_devour_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "878b100d516f226aa0352fa4c81bf885e18c68bb2876184987bdd8785e32e8e7"
+    },
+    {
+      "name": "hopebringer_drakkari_devour_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "2384c3818a65e79e77c768aaf365f46d34d6b4d29000f3fc7daf841e79abc148"
+    },
+    {
+      "name": "hopebringer_drakkari_devour_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "19107faca523da13185b071d9591402cdd9fbb9f904c0435d358813389b8f764"
+    },
+    {
+      "name": "hopebringer_drakkari_devour_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "ace6244dfe3d7b17b7f6041e063a7ade7f691f27dfd4f23fbd2fb7d3f120bfdc"
+    },
+    {
+      "name": "hopebringer_drakkari_devour_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "17ab9d3f3e9f10800c0c4868f44da50b740c480927b5245dcda928971a0c9c4c"
+    },
+    {
+      "name": "hopebringer_drakkari_devour_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "cb731da8a704eced1ce85da810b026764b561cdb5166ebf9dceed9c7c01746f7"
+    },
+    {
+      "name": "hopebringer_drakkari_devour_20261108.tar.xz.part006",
+      "bytes": 121712,
+      "sha256": "c6042b4aedea8292c887f0cbe05aae2499acc88678ea5dba5f6ee55791984c65"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_drakkari_devour_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 420,
+      "sha256": "a8451bd170bcd6332aa32aa90033fdf3e9239d92dff3a4c5f6c23886d7625024"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_executor_commit": "927b729762c1733787a658f8e4eaa893d441a94d",
+    "hopebringer_executor_source_map_sha256": "40e55a22bbd70f972c6c8b0e7e61e880dbbf6c39f73d2f677f2964080ee51985"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Drakkari Executor double devour combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 48,
+    "credential_pattern_flags": []
+  }
+}
