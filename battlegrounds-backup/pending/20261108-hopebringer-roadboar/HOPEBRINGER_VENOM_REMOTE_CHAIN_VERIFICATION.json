@@ -1,0 +1,67 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_venom",
+      "commit": "d9a6ceb1526e96f6a15acb3e854e0ad3feb73f6b",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-venom",
+      "manifest_sha256": "a067f306f1fd394ab0726f6262c1e8cb8f04f27376b0fa28341715aa8bed7768",
+      "archive": "hopebringer_venom_20261108.tar.xz",
+      "archive_sha256": "7c52cf4bcadac9d739d894e275e8854544ab8ec32137e5e1fe0d099417404095",
+      "archive_bytes": 1579900,
+      "parts_verified": 7,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_sindorei": "ba4a83a9e17a7721676468613b7f66415ff3a9835851752b68ecee8fe50fcfa9",
+    "hopebringer_venom": "942a26eeed2777253701d2aa30acc53a488945514aec151dc32127b8ec767527"
+  },
+  "hopebringer_sindorei_source_byte_equals_hopebringer_venom_base": true,
+  "baseline_files_rehashed": 27800,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "81ac1716b1620879ebcaa5d0376370daa071920b07a70d7fc4963d7e33848336",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_venom/BG22_202.native.xml",
+      "research/hopebringer_venom/BG33_318.native.xml",
+      "research/hopebringer_venom/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 8,
+  "new_files": 3,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 8,
+  "removed_files": 0,
+  "restored_files": 27803,
+  "restored_bytes": 1548385518,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "18f89636d4c2aa8750e54178454711ccda2c153fd745d808abd5c502aeacf98d",
+  "prior_whole_chain_via_hopebringer_sindorei_to_hopebringer_venom_map_continuity": true,
+  "supporting_hopebringer_sindorei_chain_receipt_sha256": "0ea6e37101e9898a00dc647d17cbcfd9dc5ae0b4c9eb42fbc4c9537f83ab2228",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Sindorei baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Venom increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T12:44:10.437849+00:00"
+}
