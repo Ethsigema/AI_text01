@@ -1,0 +1,59 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_amber",
+      "commit": "8059a186387cf938481b9a7a7cf251865d524d03",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-amber",
+      "manifest_sha256": "54b9404f1c868850e3876f9bc688f331c493c800b0607d909ccad55b16fcc8f5",
+      "archive": "hopebringer_amber_20261108.tar.xz",
+      "archive_sha256": "91986da71c66574c87f87a2b119344610fb2743c4ea2f4095a44ca6df1335e93",
+      "archive_bytes": 1569900,
+      "parts_verified": 7,
+      "members_verified": 48,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_mummifier": "467c0fb627a95430f5c8bee36b81e9170f8700b9860e8d3ae244840173445cf3",
+    "hopebringer_amber": "b561cff2dc05128e28ccdd6363c9116b0275ab3c3428b48e5f4db9979559ffc7"
+  },
+  "baseline_files_rehashed": 27778,
+  "baseline_unchanged_after_restore": true,
+  "baseline_composition": "Blade runtime plus Mummifier delta; no pre-existing Mummifier runtime directory",
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "change_lists": {
+    "added": [
+      "research/hopebringer_amber/BG24_500.native.xml",
+      "research/hopebringer_amber/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "changes_companion_sha256": "44167dfd18e7883ecf6c270c940ca5100608ed53b5e488c4a6421a5180cf8342",
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "restored_files": 27780,
+  "restored_bytes": 1548313647,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "supporting_mummifier_receipt_sha256": "c136e2ceb44ecc0a206822a947d68f2ea672e1b337f11e327667287db64bb8e3",
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "18f89636d4c2aa8750e54178454711ccda2c153fd745d808abd5c502aeacf98d",
+  "prior_whole_chain_to_hopebringer_amber_map_continuity": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "historical_baseline_provenance": "Prior fresh full-chain proof through Mummifier is reused. Only Hopebringer Amber is freshly downloaded this round; every composed baseline byte is rehashed.",
+  "gameplay_test_run": false,
+  "no_deletion_performed": true,
+  "all_prior_backups_preserved": true,
+  "verified_at_utc": "2026-11-08T10:28:05.451240+00:00"
+}
