@@ -1,0 +1,207 @@
+{
+  "archive": "electron_chef_magnetic_20261108.tar.xz",
+  "bytes": 1085628,
+  "sha256": "42cc923b5a7b2fc6c950a2f3b410ced70a984ce118dddb4875cf3b9a6fea3dba",
+  "files": {
+    "electron_chef_magnetic_20261108/BASE_MAP.json": {
+      "bytes": 4576146,
+      "sha256": "e1a0a8cec47f9e58612f5e0e1533ea8ff01710b0487d09689a21509821f666bc"
+    },
+    "electron_chef_magnetic_20261108/EXPECTED_ROWS.json": {
+      "bytes": 30051,
+      "sha256": "b4a3107a26737d7cf5f08d2288b102dc91bdaa8c4edaf8ab60cf49df88434b74"
+    },
+    "electron_chef_magnetic_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_chef_magnetic_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5188,
+      "sha256": "ca7ea656dab0f4588f7b9940478ec6bb7140fb74b6187fdd50f2f65669f6e02c"
+    },
+    "electron_chef_magnetic_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 282676,
+      "sha256": "05468aefb5369bd38634592790c15d8733dde1442a635a110a4c0dece7cce06d"
+    },
+    "electron_chef_magnetic_20261108/README.md": {
+      "bytes": 2085,
+      "sha256": "f7d50e24023eea4d7e7d37aed52b8c33dc80edea0c7b1c064d5d865d63878f97"
+    },
+    "electron_chef_magnetic_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "1273b28e774d0a0e816eecee4f77eef47b4eb5fd94d6b4e401406ab217efc072"
+    },
+    "electron_chef_magnetic_20261108/SOURCE_DELTA.json": {
+      "bytes": 1462,
+      "sha256": "b412d8ac594f53c2ab19e9c4a37d031fecc81b9ea3c8f4b6589f90c7a7317ad1"
+    },
+    "electron_chef_magnetic_20261108/SOURCE_MAP.json": {
+      "bytes": 4576146,
+      "sha256": "696b48e489f4ed384fd2a65bad4e56436cc35b239bf55d5eacd2a920dcdde7af"
+    },
+    "electron_chef_magnetic_20261108/VALIDATION.json": {
+      "bytes": 881,
+      "sha256": "c55358bf1f94fdec8ed4a294517bd11eeaf058e69ae8d880c26e72ad3b7110c5"
+    },
+    "electron_chef_magnetic_20261108/build.py": {
+      "bytes": 4867,
+      "sha256": "a999451a5588020680b0937dd862631447c5d73b92f1327ffa52fb4aa75ce898"
+    },
+    "electron_chef_magnetic_20261108/delta/core/chef_choice_recruit.gd": {
+      "bytes": 15470,
+      "sha256": "e20235190bbd4e02e37e9bc10b79e8d9a3d28451ff2407c2ae8b930244f03090"
+    },
+    "electron_chef_magnetic_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 55327,
+      "sha256": "3aa77d6a3b50abd44cc29547a2a0f073156ed17d99c9309968ffe11e222c1d2f"
+    },
+    "electron_chef_magnetic_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 53380,
+      "sha256": "06a7cfc00108b55fc8d4c2f056bc852e7d701040a3db89dc7874674e393c9c43"
+    },
+    "electron_chef_magnetic_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 22111,
+      "sha256": "cbafeac10b15053cedcd83d1422665f477aebd144b7396f2cde8591c3c0b0bd3"
+    },
+    "electron_chef_magnetic_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 28068,
+      "sha256": "555087a12278517bd85bac93a9db01082edb0bd9f47b973bcdd910cd45f9cd48"
+    },
+    "electron_chef_magnetic_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 26858,
+      "sha256": "37f9dcf47ea978b389f83ae40029fa24a17250fb70969147f6a2474d78cc8123"
+    },
+    "electron_chef_magnetic_20261108/delta/research/electron_chef_choice/BG28_518.native.xml": {
+      "bytes": 3554,
+      "sha256": "28b927cd34bc17ec556004773747ba77fe5d88a9a7f9449e72f00832583daa83"
+    },
+    "electron_chef_magnetic_20261108/delta/research/electron_chef_choice/evidence.json": {
+      "bytes": 552,
+      "sha256": "f23a5f7f4fb245aa9dc2b16ba0ef4e02bf6137732ff0e3b4089f256ff29d1fd6"
+    },
+    "electron_chef_magnetic_20261108/gate.gd": {
+      "bytes": 20153,
+      "sha256": "460b54d35ba9b7086e5bac7f91af98bf794fcee56312bdb84afc525fbea3bced"
+    },
+    "electron_chef_magnetic_20261108/materialize.py": {
+      "bytes": 1680,
+      "sha256": "b10d37597e663da698c93d80bd174877879361c28d15290af0d3d5a7dc14a977"
+    },
+    "electron_chef_magnetic_20261108/prepare_gate.py": {
+      "bytes": 5417,
+      "sha256": "829d3fd83fe20c6ff902dfbf6cb929506608278544814750a54a39a3d75f7b2c"
+    },
+    "electron_chef_magnetic_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "e1355fc622d8a7f9810b6b3c5b886e9863351fb7fd1f06248deb97a97e069b93"
+    },
+    "electron_chef_magnetic_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_chef_magnetic_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 30051,
+      "sha256": "b4a3107a26737d7cf5f08d2288b102dc91bdaa8c4edaf8ab60cf49df88434b74"
+    },
+    "electron_chef_magnetic_20261108/run_1/LAUNCH.json": {
+      "bytes": 531,
+      "sha256": "1e74e5af7b12d9f41c8f44393058a7879e3fc590a2e3341789693bbce6986688"
+    },
+    "electron_chef_magnetic_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 282676,
+      "sha256": "05468aefb5369bd38634592790c15d8733dde1442a635a110a4c0dece7cce06d"
+    },
+    "electron_chef_magnetic_20261108/run_1/PROCESS.json": {
+      "bytes": 605,
+      "sha256": "9507c8cf32e3b3f7c4ca3feead8af0cec5ae6cdc80c52eaed530774dad7d551e"
+    },
+    "electron_chef_magnetic_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1462,
+      "sha256": "b412d8ac594f53c2ab19e9c4a37d031fecc81b9ea3c8f4b6589f90c7a7317ad1"
+    },
+    "electron_chef_magnetic_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 21424,
+      "sha256": "028b594bd564b3961360a1876cd4c99e71c45dd8cd503613f3d3978c5b44ebb0"
+    },
+    "electron_chef_magnetic_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4576146,
+      "sha256": "696b48e489f4ed384fd2a65bad4e56436cc35b239bf55d5eacd2a920dcdde7af"
+    },
+    "electron_chef_magnetic_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 34515,
+      "sha256": "b742060077dd515938e157de88e0b783f3405673cbe61c9c3ab30c62516d9823"
+    },
+    "electron_chef_magnetic_20261108/run_1/data/recruited_card.native_save.json": {
+      "bytes": 58373,
+      "sha256": "d6cf3cd1168b8ee87dfb4009985427fb1d866b2bb0b06848dc6b2fc9a6268ae6"
+    },
+    "electron_chef_magnetic_20261108/run_1/data/report.json": {
+      "bytes": 1460140,
+      "sha256": "2ca3a7f83f4a8734def79b9ba96543f1a69666b0b5272902a450059e6be09c35"
+    },
+    "electron_chef_magnetic_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 74248,
+      "sha256": "5470f3c83feb96f01e4d9799325894f4f8062f0cb142fece0b9545c116976423"
+    },
+    "electron_chef_magnetic_20261108/run_1/gate_executed.gd": {
+      "bytes": 20153,
+      "sha256": "460b54d35ba9b7086e5bac7f91af98bf794fcee56312bdb84afc525fbea3bced"
+    },
+    "electron_chef_magnetic_20261108/run_1/native.log": {
+      "bytes": 321,
+      "sha256": "6e9287d6f921022c783400d2b689809d09149e9a1f3deb07eff5bda965545cff"
+    },
+    "electron_chef_magnetic_20261108/seal.py": {
+      "bytes": 4634,
+      "sha256": "374808f7946c0207682862f29f9f15e944ec65cd34a296e0ed49eb80d0c86e3d"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_chef_magnetic_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "da05ad459df9b6cd6f6fc74c2f2d7ea89fe5f34abe8e79ed793963f08eace909"
+    },
+    {
+      "name": "electron_chef_magnetic_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "b3182d1599b88e5c2cb5be1a386e78efd3b2bf72bad487eb7e400a2a49ba1e0a"
+    },
+    {
+      "name": "electron_chef_magnetic_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "2af70b49930ad9f6dd7d1ba43c6b90db4a6625d317724fe580365b6bf458f085"
+    },
+    {
+      "name": "electron_chef_magnetic_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "1d84037a4847952874c830cfb7f2ad6840971c4ffb571a8d021a733ba97800ef"
+    },
+    {
+      "name": "electron_chef_magnetic_20261108.tar.xz.part004",
+      "bytes": 85628,
+      "sha256": "13e93aeef288b7c4ec73682debd11287df48691df27d138c0c1657de5699a255"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_chef_magnetic_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 354,
+      "sha256": "a905131c3afcea9a7e891b12bbe3ee4008707e1d1ab12db773166135b09fc972"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "chef_choice_commit": "e4b93d79e3889e39de4584d8e173f2cd580335d7",
+    "chef_choice_source_map_sha256": "e1a0a8cec47f9e58612f5e0e1533ea8ff01710b0487d09689a21509821f666bc"
+  },
+  "status": "Source recovery increment only. Bounded Chef Magnetic suffix; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 38,
+    "credential_pattern_flags": []
+  }
+}
