@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "choose_discover",
+      "commit": "d199425ff60960d3da30c47d13e8ac6dae971a8a",
+      "repository_path": "battlegrounds-backup/pending/20261108-electron-choose-discover",
+      "manifest_sha256": "6bf869a32814d344e6e96b5417e7443b2eed1f0122eb880bc57fe7a3a0eb058f",
+      "archive": "electron_choose_discover_20261108.tar.xz",
+      "archive_sha256": "b4cda8f85bfc6f2f2ab0c034a8e10e0c5456af659ab3970f6ca26e6d8d214ed1",
+      "archive_bytes": 1083080,
+      "parts_verified": 5,
+      "members_verified": 48,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "majority_resource": "cb3b14d327715c5654d9fedc6b3e97b1fb7b3759946d338909631d0a701fb2ac",
+    "choose_discover": "3d185d5cfdc669d2400d683609b64237749e8eac4612741f36b6d23120e62dc0"
+  },
+  "majority_resource_source_byte_equals_choose_discover_base": true,
+  "baseline_files_rehashed": 27709,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "9dd1becc47e3e2268e005d69cfa512ba59381d4ff45e7115220dddcf2526286f",
+  "change_lists": {
+    "added": [
+      "research/electron_choose_discover/BG31_890.native.xml",
+      "research/electron_choose_discover/BG31_890t.native.xml",
+      "research/electron_choose_discover/BG31_890t2.native.xml",
+      "research/electron_choose_discover/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 9,
+  "new_files": 4,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27713,
+  "restored_bytes": 1548087620,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "47f9232e818c42246c1932cebfdb71dce791bb42b0b82cf5beb9614655bdd5b7",
+  "prior_whole_chain_via_majority_resource_to_choose_discover_map_continuity": true,
+  "supporting_majority_resource_chain_receipt_sha256": "1a376d074f9c7c9d3fdfa10df573e38ad88b4e49a98119ab43323af77228df78",
+  "historical_baseline_provenance": "The baseline is the verified Electron Majority Resource baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Choose Discover increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T01:57:19.773796+00:00"
+}
