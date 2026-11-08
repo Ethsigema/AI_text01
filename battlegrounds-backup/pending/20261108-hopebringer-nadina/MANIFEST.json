@@ -1,0 +1,340 @@
+{
+  "archive": "hopebringer_nadina_20261108.tar.xz",
+  "bytes": 3464724,
+  "sha256": "259444bad147d818ae228aad515b05c4e106e2c927692da928bae89c5ea4c7e2",
+  "files": {
+    "hopebringer_nadina_20261108/BASE_MAP.json": {
+      "bytes": 4583115,
+      "sha256": "8ca7c76e406b9900fec5c8f1e8fa9512d1809e8259b6a6829a989b079a3824be"
+    },
+    "hopebringer_nadina_20261108/EXPECTED_ROWS.json": {
+      "bytes": 20675,
+      "sha256": "ac2c9376353fcb6f0fb15196ecf190b8ee0eb4e1dfb3b693739e7b88e9009c20"
+    },
+    "hopebringer_nadina_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_nadina_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 8241,
+      "sha256": "569bac456048f73a6e56b99e31d2ee04bb863f3af0e3c77d6a0cbe6c83063ee0"
+    },
+    "hopebringer_nadina_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 294643,
+      "sha256": "a2835084edf84ea1755bc44394b1492bdaa0b3f4f70a4804659ce66930acc088"
+    },
+    "hopebringer_nadina_20261108/README.md": {
+      "bytes": 1283,
+      "sha256": "f7895d69043321abf4b9a8dd3a2ba081f2677820debc6129266004517a92a64b"
+    },
+    "hopebringer_nadina_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "28b5e897f2035f662cfac5d51917cc4e3ffef8fcacea9d07d8c602b549a4b317"
+    },
+    "hopebringer_nadina_20261108/SOURCE_DELTA.json": {
+      "bytes": 1276,
+      "sha256": "b1e9d490b4abba1b9dfaec650698e9db28f61ac39fa1310f0edad2bc5ba23774"
+    },
+    "hopebringer_nadina_20261108/SOURCE_MAP.json": {
+      "bytes": 4583427,
+      "sha256": "09e4acb1b56ca75044ced6b677807a2f5299c47f098f38c3dadd9efb0e362e75"
+    },
+    "hopebringer_nadina_20261108/VALIDATION.json": {
+      "bytes": 939,
+      "sha256": "5c10eea755190c291d17fc11867b32d55f188fca320fab3b35b4c9c6227b3471"
+    },
+    "hopebringer_nadina_20261108/build.py": {
+      "bytes": 3536,
+      "sha256": "56b9822b8a004ca925d24d73711f7dae895317b97e47b7b2ddcc2b723a8a343f"
+    },
+    "hopebringer_nadina_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 8925,
+      "sha256": "624b3f69877a28ca124cdf651f5e32e35c7b12e0e76a4108ce1c0eb6820b608f"
+    },
+    "hopebringer_nadina_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 31520,
+      "sha256": "12c6ce21c56f6e7384f84c9b0a89b4620b575590b9418a3be7cae64500f3afc2"
+    },
+    "hopebringer_nadina_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 30942,
+      "sha256": "217af2bee7ad56b866edc17f0d091d4c3293dafb7fa4812a244888d269e5ccb8"
+    },
+    "hopebringer_nadina_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 19551,
+      "sha256": "3a44bc20b4a18df0b63f1bdd318c8f4c30e6b089fc366262b35610aa99d3b10d"
+    },
+    "hopebringer_nadina_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 19316,
+      "sha256": "966acb45f52547d7a4fbf20000994fbf6a27a228b5b12e23fccfc7aab817221e"
+    },
+    "hopebringer_nadina_20261108/delta/research/hopebringer_nadina/BGS_040.native.xml": {
+      "bytes": 3162,
+      "sha256": "907074a2db5439e2b30bb5d97b08d34b4f9e7621967d359b4dcfd9444418c778"
+    },
+    "hopebringer_nadina_20261108/delta/research/hopebringer_nadina/evidence.json": {
+      "bytes": 509,
+      "sha256": "0c3f68849425eeffe097c25750b454bf4e1ee2a92df9dc85c2633d727d1fe671"
+    },
+    "hopebringer_nadina_20261108/gate.gd": {
+      "bytes": 18346,
+      "sha256": "36b5485fede950a672e01fe5fec631b6ac217b201f3eef990c0049928f28dd1b"
+    },
+    "hopebringer_nadina_20261108/materialize.py": {
+      "bytes": 1673,
+      "sha256": "947b183ad7e7296263d9408d0943df45eaad390a61f10cfb8ff1366528aa37ac"
+    },
+    "hopebringer_nadina_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1167,
+      "sha256": "b8792e48bbd88409792037283f197bab490cd6a5531052dd90468447a07490a1"
+    },
+    "hopebringer_nadina_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_nadina_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 20675,
+      "sha256": "ac2c9376353fcb6f0fb15196ecf190b8ee0eb4e1dfb3b693739e7b88e9009c20"
+    },
+    "hopebringer_nadina_20261108/run_1/LAUNCH.json": {
+      "bytes": 523,
+      "sha256": "005240c6ccb4baa5e3585eadda37ca2ad16b6bb49ff4b06d9c0e721b7ea769e7"
+    },
+    "hopebringer_nadina_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 294643,
+      "sha256": "a2835084edf84ea1755bc44394b1492bdaa0b3f4f70a4804659ce66930acc088"
+    },
+    "hopebringer_nadina_20261108/run_1/PROCESS.json": {
+      "bytes": 597,
+      "sha256": "02b0829f4fd8a3ea72997965c5f2823de4ea203433fbd42022708844693377b0"
+    },
+    "hopebringer_nadina_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1276,
+      "sha256": "b1e9d490b4abba1b9dfaec650698e9db28f61ac39fa1310f0edad2bc5ba23774"
+    },
+    "hopebringer_nadina_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 11328,
+      "sha256": "e5902c40a17e6673ae719acc3bc874e005f104bf85adac6c8c73ed3e7264de5d"
+    },
+    "hopebringer_nadina_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4583427,
+      "sha256": "09e4acb1b56ca75044ced6b677807a2f5299c47f098f38c3dadd9efb0e362e75"
+    },
+    "hopebringer_nadina_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 105389,
+      "sha256": "5ccac5e37081fa22e4876bdec9580b1bf346e243d4271c15aa21558473e3118c"
+    },
+    "hopebringer_nadina_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 42556,
+      "sha256": "9f6eeeb93d98ad2152059b08e5c1250656c84f7956583876724e9ce4a1675a73"
+    },
+    "hopebringer_nadina_20261108/run_1/data/report.json": {
+      "bytes": 3295925,
+      "sha256": "226c7f8a55f5d15c608f2167465de66f52c9a240b14270a0c85cabcb9662b89c"
+    },
+    "hopebringer_nadina_20261108/run_1/gate_executed.gd": {
+      "bytes": 18395,
+      "sha256": "5d61e8ea5682a7620bb1e4339af0937393f2a4d6c46ed6393f15291f73c5b9f8"
+    },
+    "hopebringer_nadina_20261108/run_1/native.log": {
+      "bytes": 532,
+      "sha256": "ac7f80b2ea657a0eb4c4e9233ddb533d90468dcc396b8b423fe4ce1d909f2921"
+    },
+    "hopebringer_nadina_20261108/run_2/EXPECTED_ROWS.json": {
+      "bytes": 20675,
+      "sha256": "ac2c9376353fcb6f0fb15196ecf190b8ee0eb4e1dfb3b693739e7b88e9009c20"
+    },
+    "hopebringer_nadina_20261108/run_2/LAUNCH.json": {
+      "bytes": 523,
+      "sha256": "72fef3466bbd10be9dca76b7edb5821688419ef2240aa59ba89ccd7f90521e7c"
+    },
+    "hopebringer_nadina_20261108/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 294643,
+      "sha256": "a2835084edf84ea1755bc44394b1492bdaa0b3f4f70a4804659ce66930acc088"
+    },
+    "hopebringer_nadina_20261108/run_2/PROCESS.json": {
+      "bytes": 597,
+      "sha256": "b7525725e42758ec685feb7eab9cb33602ea2865ff779a7ad3d148fd5cc69766"
+    },
+    "hopebringer_nadina_20261108/run_2/SOURCE_DELTA.json": {
+      "bytes": 1276,
+      "sha256": "b1e9d490b4abba1b9dfaec650698e9db28f61ac39fa1310f0edad2bc5ba23774"
+    },
+    "hopebringer_nadina_20261108/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 11328,
+      "sha256": "e5902c40a17e6673ae719acc3bc874e005f104bf85adac6c8c73ed3e7264de5d"
+    },
+    "hopebringer_nadina_20261108/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4583427,
+      "sha256": "09e4acb1b56ca75044ced6b677807a2f5299c47f098f38c3dadd9efb0e362e75"
+    },
+    "hopebringer_nadina_20261108/run_2/data/before_combat.native_save.json": {
+      "bytes": 72299,
+      "sha256": "92dfd6aa7d11a4264b43f240af3644cb06eb9d541351c8d0c8b7aa0e9d5a129f"
+    },
+    "hopebringer_nadina_20261108/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 37048,
+      "sha256": "0d702dad6862bc612ac64ab2fabf11008517c9e2c5244b7264ec1aa59fd3135d"
+    },
+    "hopebringer_nadina_20261108/run_2/data/report.json": {
+      "bytes": 2448033,
+      "sha256": "20933e731ecdd20ea6126a19309870b5fca5ad10a9c30fedafb48bfd8c34b082"
+    },
+    "hopebringer_nadina_20261108/run_2/gate_executed.gd": {
+      "bytes": 18342,
+      "sha256": "c6ee5865ff59050a1f4f48f9bf988bb126e15a303e2882dd234de0a4d9bc03a9"
+    },
+    "hopebringer_nadina_20261108/run_2/native.log": {
+      "bytes": 397,
+      "sha256": "f1f17172df65d4ca9842b4048e533f808a30936718cbbe93bf43224f71ef1d17"
+    },
+    "hopebringer_nadina_20261108/run_3/EXPECTED_ROWS.json": {
+      "bytes": 20675,
+      "sha256": "ac2c9376353fcb6f0fb15196ecf190b8ee0eb4e1dfb3b693739e7b88e9009c20"
+    },
+    "hopebringer_nadina_20261108/run_3/LAUNCH.json": {
+      "bytes": 523,
+      "sha256": "750f1a5148a23d7e1225e26b58c5793398254f1899e9911e8fe71377bb570383"
+    },
+    "hopebringer_nadina_20261108/run_3/PIN_PREFLIGHT.json": {
+      "bytes": 294643,
+      "sha256": "a2835084edf84ea1755bc44394b1492bdaa0b3f4f70a4804659ce66930acc088"
+    },
+    "hopebringer_nadina_20261108/run_3/PROCESS.json": {
+      "bytes": 596,
+      "sha256": "48b326d50326f3363c1a3edf42fa06ff9182a20b322df8d76536950f7fc93b0f"
+    },
+    "hopebringer_nadina_20261108/run_3/SOURCE_DELTA.json": {
+      "bytes": 1276,
+      "sha256": "b1e9d490b4abba1b9dfaec650698e9db28f61ac39fa1310f0edad2bc5ba23774"
+    },
+    "hopebringer_nadina_20261108/run_3/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 11328,
+      "sha256": "e5902c40a17e6673ae719acc3bc874e005f104bf85adac6c8c73ed3e7264de5d"
+    },
+    "hopebringer_nadina_20261108/run_3/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4583427,
+      "sha256": "09e4acb1b56ca75044ced6b677807a2f5299c47f098f38c3dadd9efb0e362e75"
+    },
+    "hopebringer_nadina_20261108/run_3/data/before_combat.native_save.json": {
+      "bytes": 70197,
+      "sha256": "0f22c6b3e6b274ce7506752a0ed2b11f6dbe87d7ed7050a30c34dd08b16b8f0c"
+    },
+    "hopebringer_nadina_20261108/run_3/data/initial_fixture.native_save.json": {
+      "bytes": 36391,
+      "sha256": "3d1987a946c49e7c8b21b9743583ab49432552925c269bb7d55f0c6783907277"
+    },
+    "hopebringer_nadina_20261108/run_3/data/report.json": {
+      "bytes": 6679250,
+      "sha256": "5ad8f81e59d74612c821922f7c7976f595419f966b1edad356d5f671eb80da1a"
+    },
+    "hopebringer_nadina_20261108/run_3/data/terminal.native_save.json": {
+      "bytes": 729354,
+      "sha256": "be3057ce3c72aec442ec11b20091d5230d7babaa16b0802664831152ba1b66a1"
+    },
+    "hopebringer_nadina_20261108/run_3/gate_executed.gd": {
+      "bytes": 18346,
+      "sha256": "36b5485fede950a672e01fe5fec631b6ac217b201f3eef990c0049928f28dd1b"
+    },
+    "hopebringer_nadina_20261108/run_3/native.log": {
+      "bytes": 397,
+      "sha256": "9870dd500fbfbb99cab7c66ae8313f23eebf82d49604e6aff579bf498f30dddd"
+    },
+    "hopebringer_nadina_20261108/seal.py": {
+      "bytes": 3955,
+      "sha256": "ac3dce30f4073d39d05939c81540e75a4d6611d6b520ccb7037972d5aa0d9ba7"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "edd42d43c10ce2bdab4a4c3bb06c4e3d727750606ac08752b47ce21b7560dcb4"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "cd1f987dc785598f38b6edd13538c0098bbdb1826be14228a5746054649df325"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "f1d0ead580ca096fd6dcd24e69f3cb2d81359b12937087ff68d5e54d4b7da6d1"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "229c3142a59bd01caea5ea65d8082fc6b4738b60fba251094e5351397bc684c5"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "60a9aba4054a3c41709e83454411b883b84bad0cb2711ee9bee645b1e029c7e5"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "c276c1cd38d250df8fba2fb4d8676d312c5d2f45135d6bef1911407c330f6f69"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "cacc19beb2710dfe6f71b2d349170f401240c6b6bf42139b7eefd6fbafab1800"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "2037e0f82743ed8ffaba4d2904293f371011c127323040c73302469c7845f4b2"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "c4966e100cc709b1261986a2a042390fcd9cc10228db0d8831c544a8320f5bb7"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "6c1dca8fe949dab0b57b9f2664ac927a5e3f11a2d3ed4ee6e6a73cf632a602dc"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "a7f43aea95913abeb3897809d76bf1fe6109319752794f9e9c46fe3947fb63bf"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "d2add01a45435cc4168321bde8b5e479e2c883c31f75c4689b7727b62aa3e636"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part012",
+      "bytes": 250000,
+      "sha256": "5ae392e31bad6b80c42946c51cd47b327ecaed679986d8fa19fcd08b4af6240f"
+    },
+    {
+      "name": "hopebringer_nadina_20261108.tar.xz.part013",
+      "bytes": 214724,
+      "sha256": "024edbeb15f3d07e67b7f586f5a4e5eda23696d3589e8d9bfaf0c5ecf017cb4b"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_nadina_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 397,
+      "sha256": "46daa0a808ee863392fefeb1b32ff73f09b331a233109db27831856482d6984b"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_skull_commit": "bf4d3265c9fad9bab79432ef795682a7dc9f2df3",
+    "hopebringer_skull_source_map_sha256": "8ca7c76e406b9900fec5c8f1e8fa9512d1809e8259b6a6829a989b079a3824be"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Nadina combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 60,
+    "credential_pattern_flags": []
+  }
+}
