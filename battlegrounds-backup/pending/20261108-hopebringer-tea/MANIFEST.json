@@ -1,0 +1,249 @@
+{
+  "archive": "hopebringer_tea_20261108.tar.xz",
+  "bytes": 1588620,
+  "sha256": "a8a947451982dd052171960dd3afa3e9b0cef2b3749c7fa19540fc0f0869b906",
+  "files": {
+    "hopebringer_tea_20261108/BASE_MAP.json": {
+      "bytes": 4593233,
+      "sha256": "e95f0659426776c1484f3f317b5404b247e74c30b3ce747f47008bd00e48901b"
+    },
+    "hopebringer_tea_20261108/EXPECTED_ROWS.json": {
+      "bytes": 38033,
+      "sha256": "bb5d9059b5698b381040959431384ce77a0cd6b6a4222a75618872a3bf8c7d69"
+    },
+    "hopebringer_tea_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_tea_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 6271,
+      "sha256": "056f389321cd9473a9993e1f63ac17230cf0741bbbcbc9d844b564f95d37b812"
+    },
+    "hopebringer_tea_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 311006,
+      "sha256": "14d221903f1580d20f84d6d60d3efaa18ebb1b4ae52b664e46450de593b9ca9c"
+    },
+    "hopebringer_tea_20261108/README.md": {
+      "bytes": 1395,
+      "sha256": "674c3fab45b065dd224da50a58897075e52cd2a806cac356030197814b4c59b7"
+    },
+    "hopebringer_tea_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "00d5eaa7cf7e42992ef9656ae4e295346b3eb394f5e7310e9445d92932edf326"
+    },
+    "hopebringer_tea_20261108/SOURCE_DELTA.json": {
+      "bytes": 1446,
+      "sha256": "15248fd5a7bdab10010628706a3b5a57405d3afc24b8a45927cebd1d395f4b2f"
+    },
+    "hopebringer_tea_20261108/SOURCE_MAP.json": {
+      "bytes": 4593698,
+      "sha256": "f5208371d1d9a1eab19abdfab5e50756821236b7d3fece64ca223f11c80921ce"
+    },
+    "hopebringer_tea_20261108/VALIDATION.json": {
+      "bytes": 903,
+      "sha256": "2294b4f9a2dc819c4331d92eabeda820cd10a6fc193d29b733ab93d9c3127ff3"
+    },
+    "hopebringer_tea_20261108/build.py": {
+      "bytes": 3836,
+      "sha256": "c04edfcd743e8b274476c6e7da9e625d4aaed1575301d1aff212eb7770fd8a8a"
+    },
+    "hopebringer_tea_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 16255,
+      "sha256": "9a538b4c7078db56f4e8f33f6d3eb8030e6ec06580cb4b9c960baea3a5fdea6a"
+    },
+    "hopebringer_tea_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 59521,
+      "sha256": "7e9a8512feb97a34ddc06b51d28eb9a929965180a68e009cb92c325802694bcd"
+    },
+    "hopebringer_tea_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 58943,
+      "sha256": "30e342cfb9561605984bf67344cc9d929e764afaa277e6f75c8aa7a01e0822cc"
+    },
+    "hopebringer_tea_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 28230,
+      "sha256": "15fdda0b6b8f5de205a05aa8069a3cdcad7a7329f686f69befbc35c284122a89"
+    },
+    "hopebringer_tea_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 27995,
+      "sha256": "2c7a533d1e9b28d7e7881b091e4fa88f856d1f6d823c9a88a35b7118eeae8100"
+    },
+    "hopebringer_tea_20261108/delta/research/hopebringer_tea/BG28_888.native.xml": {
+      "bytes": 2692,
+      "sha256": "9edc89ff08131339231de5a188390815bcaefa14fafb011a544ec1f351cd9d70"
+    },
+    "hopebringer_tea_20261108/delta/research/hopebringer_tea/BG32_111.native.xml": {
+      "bytes": 3307,
+      "sha256": "d3cfa8377ac4571de55acc21ff9dd8e92205deb2bd34bcf6f6afa5d4751f8f91"
+    },
+    "hopebringer_tea_20261108/delta/research/hopebringer_tea/evidence.json": {
+      "bytes": 1068,
+      "sha256": "06f7e2dc908060fd9a7f028f3abbe6685336b8fe93116b0bf7baed2a9e77859f"
+    },
+    "hopebringer_tea_20261108/gate.gd": {
+      "bytes": 18899,
+      "sha256": "f38b6631b71c3c09c19790479654bdf0cf6cbe38e413ade24dd373911ec63152"
+    },
+    "hopebringer_tea_20261108/materialize.py": {
+      "bytes": 1689,
+      "sha256": "fccfa51e2fb14cf3c6999ab88dd62e7b86f45c3c4f0e966d719519709795327b"
+    },
+    "hopebringer_tea_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1175,
+      "sha256": "96996cf7e7907a13ab9b3751f8114224e391605d35318b3b96bf9464df96d3da"
+    },
+    "hopebringer_tea_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_tea_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 38033,
+      "sha256": "bb5d9059b5698b381040959431384ce77a0cd6b6a4222a75618872a3bf8c7d69"
+    },
+    "hopebringer_tea_20261108/run_1/LAUNCH.json": {
+      "bytes": 517,
+      "sha256": "ffeab84b095a2a45624579f20adc40b0ee70f894450aa8adf9b8d738790a8923"
+    },
+    "hopebringer_tea_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 311006,
+      "sha256": "14d221903f1580d20f84d6d60d3efaa18ebb1b4ae52b664e46450de593b9ca9c"
+    },
+    "hopebringer_tea_20261108/run_1/PROCESS.json": {
+      "bytes": 591,
+      "sha256": "445d3dffe59226c550caf77a7ef898b8c98baa0b6a9207dd5625f00ee6b22a3d"
+    },
+    "hopebringer_tea_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1446,
+      "sha256": "15248fd5a7bdab10010628706a3b5a57405d3afc24b8a45927cebd1d395f4b2f"
+    },
+    "hopebringer_tea_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 17440,
+      "sha256": "7427c24396335fb03b864cee0c3ad5f32ef61c76ea914b3e316231afe5ede5bc"
+    },
+    "hopebringer_tea_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4593698,
+      "sha256": "f5208371d1d9a1eab19abdfab5e50756821236b7d3fece64ca223f11c80921ce"
+    },
+    "hopebringer_tea_20261108/run_1/gate_executed.gd": {
+      "bytes": 19037,
+      "sha256": "7ec4f04b0b6ff397c8f898ace10fc09444a2d4d65689b0c8c2c959cc529477ec"
+    },
+    "hopebringer_tea_20261108/run_1/native.log": {
+      "bytes": 6846,
+      "sha256": "6c005b2beabbcb638483393f7cbad650c033559e0d92a6dc10f8e021ff4706dd"
+    },
+    "hopebringer_tea_20261108/run_2/EXPECTED_ROWS.json": {
+      "bytes": 38033,
+      "sha256": "bb5d9059b5698b381040959431384ce77a0cd6b6a4222a75618872a3bf8c7d69"
+    },
+    "hopebringer_tea_20261108/run_2/LAUNCH.json": {
+      "bytes": 517,
+      "sha256": "5a0f77e347808a396336531ea9b82e1e47bc58cf871332241ef1797306e2d206"
+    },
+    "hopebringer_tea_20261108/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 311006,
+      "sha256": "14d221903f1580d20f84d6d60d3efaa18ebb1b4ae52b664e46450de593b9ca9c"
+    },
+    "hopebringer_tea_20261108/run_2/PROCESS.json": {
+      "bytes": 590,
+      "sha256": "8589155932cf4666931f8cbd6ab7c99155bbd4465f15926ee7668df21cb567c9"
+    },
+    "hopebringer_tea_20261108/run_2/SOURCE_DELTA.json": {
+      "bytes": 1446,
+      "sha256": "15248fd5a7bdab10010628706a3b5a57405d3afc24b8a45927cebd1d395f4b2f"
+    },
+    "hopebringer_tea_20261108/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 17440,
+      "sha256": "7427c24396335fb03b864cee0c3ad5f32ef61c76ea914b3e316231afe5ede5bc"
+    },
+    "hopebringer_tea_20261108/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4593698,
+      "sha256": "f5208371d1d9a1eab19abdfab5e50756821236b7d3fece64ca223f11c80921ce"
+    },
+    "hopebringer_tea_20261108/run_2/data/before_combat.native_save.json": {
+      "bytes": 81795,
+      "sha256": "c4843e08935f33428790209e03440861aa59449e6cae1fdb47c86711d4ee45db"
+    },
+    "hopebringer_tea_20261108/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 36739,
+      "sha256": "ead16eead91c87252ae6f76cbe55c7bf7f9a4103ab2a9f78065857cd06e61e13"
+    },
+    "hopebringer_tea_20261108/run_2/data/report.json": {
+      "bytes": 7133683,
+      "sha256": "114a3a0e7f72eaa8788d14436d976d49f69dfe9cab5eae77525005391f49a51d"
+    },
+    "hopebringer_tea_20261108/run_2/data/terminal.native_save.json": {
+      "bytes": 759351,
+      "sha256": "250bb6d99351172459057f7d5606f14d5952333d99000a964f99215ca787db9a"
+    },
+    "hopebringer_tea_20261108/run_2/gate_executed.gd": {
+      "bytes": 18899,
+      "sha256": "f38b6631b71c3c09c19790479654bdf0cf6cbe38e413ade24dd373911ec63152"
+    },
+    "hopebringer_tea_20261108/run_2/native.log": {
+      "bytes": 425,
+      "sha256": "53b160ea6634e9e995f49fbca2e3312123e6234e159f4ece67f22cf1f6224408"
+    },
+    "hopebringer_tea_20261108/seal.py": {
+      "bytes": 4023,
+      "sha256": "686b39bd9baac1d481a3a554f54c5eba380c122c15651c6b6cd2f2b32a54d2b5"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_tea_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "bfa2cb7d3bd98a08a2786ff50b6871a4d9ca22f1b61f9e560b2de8d763b1588b"
+    },
+    {
+      "name": "hopebringer_tea_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "87e7d1743cb403381a5b16cba1c41fc66ea7fa3470b33a211fa0f2c14ac881ea"
+    },
+    {
+      "name": "hopebringer_tea_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "d9310af232e11e6b73f7efd5fa964f82751d215e7a5d3d4b8a38b1b2477639e8"
+    },
+    {
+      "name": "hopebringer_tea_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "bf8b9b346e19538ed191a78e6f5f825bda67019c9eda7865265979af2b199db2"
+    },
+    {
+      "name": "hopebringer_tea_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "b86925bb21f490b79671e5c4446b7b55094674af1ade902ce5a02e905b73955d"
+    },
+    {
+      "name": "hopebringer_tea_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "5fe70d306fadae893bfedcf43cb730acc00e16ec338ca86ba0d50a62f11da07e"
+    },
+    {
+      "name": "hopebringer_tea_20261108.tar.xz.part006",
+      "bytes": 88620,
+      "sha256": "3e70275de8cb1eb863c8f8bd5ffe03707d36405f2fd4ccbd5f411552a9fb966a"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_tea_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 444,
+      "sha256": "7a89782bf6170215e62584e9a36c2b2b42434ec08a85fe7403225a966efbb8ce"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_groundskeeper_commit": "8accb546d9a178470914a723d48ca1578a8687b6",
+    "hopebringer_groundskeeper_source_map_sha256": "e95f0659426776c1484f3f317b5404b247e74c30b3ce747f47008bd00e48901b"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Tea and Tableware integration combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 46,
+    "credential_pattern_flags": []
+  }
+}
