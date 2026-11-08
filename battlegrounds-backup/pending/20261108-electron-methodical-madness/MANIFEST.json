@@ -1,0 +1,203 @@
+{
+  "archive": "electron_methodical_madness_20261108.tar.xz",
+  "bytes": 1081156,
+  "sha256": "afab517f4b0390f0e89fa0f00a3489f0f8f06691ced6d582d9c7f7848b878943",
+  "files": {
+    "electron_methodical_madness_20261108/BASE_MAP.json": {
+      "bytes": 4575498,
+      "sha256": "ab70bb0cf113fae82e898b4acb910b218453aad8a3a5981dcd06625b6a818941"
+    },
+    "electron_methodical_madness_20261108/EXPECTED_ROWS.json": {
+      "bytes": 29423,
+      "sha256": "0d34c418d8e1d760c44db0cbb37ffde8dd9846b9f7aeae11223dd43b1f51b3e1"
+    },
+    "electron_methodical_madness_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_methodical_madness_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5054,
+      "sha256": "e0c6129b8a19acb8356ba669c67067021d2177829e8c3fcd8a24a75d63b7a5da"
+    },
+    "electron_methodical_madness_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 282146,
+      "sha256": "9224b4acae74d9445e36990a7283886206c9f21abf46d530244605594fe5d3fc"
+    },
+    "electron_methodical_madness_20261108/README.md": {
+      "bytes": 1537,
+      "sha256": "ebdd84a2d16ef97f29d2e3d93bec2ad95d8d08b9e3e47b57993625ed8e87e519"
+    },
+    "electron_methodical_madness_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_methodical_madness_20261108/SOURCE_DELTA.json": {
+      "bytes": 1335,
+      "sha256": "997282a90a8ec81f1100651d45653b7bb80135c81015693b0438ffb86404cb09"
+    },
+    "electron_methodical_madness_20261108/SOURCE_MAP.json": {
+      "bytes": 4575829,
+      "sha256": "125e50eccf1f9d59cb4e16f83d6fd1994cb56a423f9370690dca9502b7f02ab3"
+    },
+    "electron_methodical_madness_20261108/VALIDATION.json": {
+      "bytes": 846,
+      "sha256": "50fdd367ac8ac34186c8a4895e94579ea39d70b2de80a7e63a2a9ae63ce3cce7"
+    },
+    "electron_methodical_madness_20261108/build.py": {
+      "bytes": 3603,
+      "sha256": "07ebd2d87ead1ba3b1ad271ac0d3b7131de46b17af4969b0981a61ab83b92842"
+    },
+    "electron_methodical_madness_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 54369,
+      "sha256": "fbf36679f8091f70cdd90e25a9f3c827d5d22e87cc53a5dfaf3354b2c7569be6"
+    },
+    "electron_methodical_madness_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 52422,
+      "sha256": "65999e162f8bc7b60ff24ebfd48b5675c85a03dfd8b2f99f825eba9c9066d99a"
+    },
+    "electron_methodical_madness_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 20939,
+      "sha256": "eefa500ce21c071b67e70bf94dc8e02b6a8b2e69d45e36de11cb26856e827ce8"
+    },
+    "electron_methodical_madness_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 27754,
+      "sha256": "c43699ae2c40ecffb99b39b34e6b055e3a3b9c910d8e104d4e4905ffb1170965"
+    },
+    "electron_methodical_madness_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 26544,
+      "sha256": "85f0f9cf86d598e54b2fda76b79e5ccc456c752002f88f7eaa008ab78ffc773b"
+    },
+    "electron_methodical_madness_20261108/delta/research/electron_methodical_madness/BG36_880.native.xml": {
+      "bytes": 5334,
+      "sha256": "d57f348990db026462b44fe045e11bd4cf98ea53ff169d0343c41c88b27efa7e"
+    },
+    "electron_methodical_madness_20261108/delta/research/electron_methodical_madness/evidence.json": {
+      "bytes": 649,
+      "sha256": "5328624a2f198c2cd945ae0290f649e42776bf8443d4b78d2d3aa4df258b2169"
+    },
+    "electron_methodical_madness_20261108/gate.gd": {
+      "bytes": 20641,
+      "sha256": "3f5b9f71c2f95a2eb6d2f5342338ff2970714d37d4e1d13ab7ebe39744eeefd0"
+    },
+    "electron_methodical_madness_20261108/materialize.py": {
+      "bytes": 1688,
+      "sha256": "68c5c9d6d80571b1912f19061be898b17e1da7c939de2043871f06301511e604"
+    },
+    "electron_methodical_madness_20261108/prepare_gate.py": {
+      "bytes": 3618,
+      "sha256": "b2a28157b64ae43a152666986bd5cb65a89cbd7882b524648428bffdd4a10fdd"
+    },
+    "electron_methodical_madness_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1170,
+      "sha256": "56ba324a3e83b68b2a2d23b77b00aaea91bed52d51bc4608c4d657eddebcf97d"
+    },
+    "electron_methodical_madness_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_methodical_madness_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 29423,
+      "sha256": "0d34c418d8e1d760c44db0cbb37ffde8dd9846b9f7aeae11223dd43b1f51b3e1"
+    },
+    "electron_methodical_madness_20261108/run_1/LAUNCH.json": {
+      "bytes": 541,
+      "sha256": "f82495185fe85d4433a14c0e36bfcb3341f01498d223a4bb4f0a66a7f1ec3dc2"
+    },
+    "electron_methodical_madness_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 282146,
+      "sha256": "9224b4acae74d9445e36990a7283886206c9f21abf46d530244605594fe5d3fc"
+    },
+    "electron_methodical_madness_20261108/run_1/PROCESS.json": {
+      "bytes": 615,
+      "sha256": "60b60acbdd7713d8c7529b8b02d9bbf250d029188ae05f3ab60cdb704236ad9b"
+    },
+    "electron_methodical_madness_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1335,
+      "sha256": "997282a90a8ec81f1100651d45653b7bb80135c81015693b0438ffb86404cb09"
+    },
+    "electron_methodical_madness_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 18388,
+      "sha256": "e7a6cf7020d49ca9f955ff993e00de2f4b01b959f9c4268f36a640bf9b2df432"
+    },
+    "electron_methodical_madness_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4575829,
+      "sha256": "125e50eccf1f9d59cb4e16f83d6fd1994cb56a423f9370690dca9502b7f02ab3"
+    },
+    "electron_methodical_madness_20261108/run_1/data/after_consume.native_save.json": {
+      "bytes": 66095,
+      "sha256": "d4855edc3399be0087f53ff1e0330be0f04adb96f2e21a5e164b6c455fcf5349"
+    },
+    "electron_methodical_madness_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 36228,
+      "sha256": "df4be309fb0528c35b647bfdc2d7f648d81dca17394ec7827db185c21fef6667"
+    },
+    "electron_methodical_madness_20261108/run_1/data/report.json": {
+      "bytes": 1804062,
+      "sha256": "6c426f7b53d7dbc165bfc998faf83d85cb3aee1b3117ae7adfb0233693e3fe2f"
+    },
+    "electron_methodical_madness_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 79604,
+      "sha256": "692ffd9448169235566c86213e9379048d2ce61f0222eb01c2405c2e0d5fcfc8"
+    },
+    "electron_methodical_madness_20261108/run_1/gate_executed.gd": {
+      "bytes": 20641,
+      "sha256": "3f5b9f71c2f95a2eb6d2f5342338ff2970714d37d4e1d13ab7ebe39744eeefd0"
+    },
+    "electron_methodical_madness_20261108/run_1/native.log": {
+      "bytes": 392,
+      "sha256": "50b6975f7f2b059d57fcee89e814da5b89375c15637a16e4ed21dce695610977"
+    },
+    "electron_methodical_madness_20261108/seal.py": {
+      "bytes": 4690,
+      "sha256": "fac9c256c2e14d3a5ef0747e52c73cf82c37a57fcb6bb26f72242aba7f1d9744"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_methodical_madness_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "dfe79f193deec59cf903dd0c78779f6522203a65ba22a87c67ceb5e3f3d96633"
+    },
+    {
+      "name": "electron_methodical_madness_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "f11be45092311cd955eb64795722f4f92bc2b711b4a533e916ff539ea14ebdfc"
+    },
+    {
+      "name": "electron_methodical_madness_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "037315d31ea878285e8b0457db7d804991032d64f3d919e3d40038365f474e8d"
+    },
+    {
+      "name": "electron_methodical_madness_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "0348fa2d7de4bb85957362189a2d9542a651b3a360d5637cf39049eedacc1309"
+    },
+    {
+      "name": "electron_methodical_madness_20261108.tar.xz.part004",
+      "bytes": 81156,
+      "sha256": "af024e550a041a5d73da6839af578680757300b5c10a2d0a38278c029e9abcf6"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_methodical_madness_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 443,
+      "sha256": "d4ee058012357e627c6cf85d1da68d1a98a98951d55fb543ce422ceca2aae88f"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "gem_barrage_commit": "26e652062295c3b7be334efbbbd02a65c744f5a1",
+    "gem_barrage_source_map_sha256": "ab70bb0cf113fae82e898b4acb910b218453aad8a3a5981dcd06625b6a818941"
+  },
+  "status": "Electron Methodical Madness bridge; source recovery only, not full gameplay acceptance",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
