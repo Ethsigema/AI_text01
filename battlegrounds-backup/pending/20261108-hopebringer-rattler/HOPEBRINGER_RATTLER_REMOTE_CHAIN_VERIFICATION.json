@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_rattler",
+      "commit": "fcf9ebbfff0086613ecf417d621831da5b8ba107",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-rattler",
+      "manifest_sha256": "232e0fa719abc5309c75a0d42cdd9a7a237847f8fe27edb64b6aa6b5f342542b",
+      "archive": "hopebringer_rattler_20261108.tar.xz",
+      "archive_sha256": "ed340e38a54deb732a5b320ea2e964cbdab826d16d6998a717a9e1f5fb9f8d1d",
+      "archive_bytes": 1572072,
+      "parts_verified": 7,
+      "members_verified": 36,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_recruiter": "708c6bc362cee806ec1932409db9da7f08ccf1430f9b0562a201d653e2027205",
+    "hopebringer_rattler": "a5463a3bbad74c00b03aecde9ac7f60deee30caf3c6ba6c311229237357d911b"
+  },
+  "hopebringer_recruiter_source_byte_equals_hopebringer_rattler_base": true,
+  "baseline_files_rehashed": 27786,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "f990fdb8e03f9d988eadc7ece79489bc97e2048231544af76b33b900e7874fa1",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_rattler/BG36_211.native.xml",
+      "research/hopebringer_rattler/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27788,
+  "restored_bytes": 1548339020,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "18f89636d4c2aa8750e54178454711ccda2c153fd745d808abd5c502aeacf98d",
+  "prior_whole_chain_via_hopebringer_recruiter_to_hopebringer_rattler_map_continuity": true,
+  "supporting_hopebringer_recruiter_chain_receipt_sha256": "2aa3d707953cda9e4280bec408f0d1bc80dd8be3f1f9d3791eb569f3ce5def5c",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Recruiter baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Rattler increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T11:20:22.606889+00:00"
+}
