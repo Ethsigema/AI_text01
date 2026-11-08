@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_skull",
+      "commit": "a188379c97a9827f0fe1d71b048c889d7229a00e",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-skull",
+      "manifest_sha256": "3024347bd05b7c69a2095341101e1a7d88d616f9c1acef0e2de35ba6a9d2f51e",
+      "archive": "hopebringer_skull_20261108.tar.xz",
+      "archive_sha256": "40f4dfad032026457ce06ffc7d10ef707b3c81fef4096a17722c33ecfa16be39",
+      "archive_bytes": 5066124,
+      "parts_verified": 21,
+      "members_verified": 72,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_beetle": "bfc7e02d881286df6d3db5000ef53245e0dc304422c6aab1cb19847828b65c76",
+    "hopebringer_skull": "8ca7c76e406b9900fec5c8f1e8fa9512d1809e8259b6a6829a989b079a3824be"
+  },
+  "hopebringer_beetle_source_byte_equals_hopebringer_skull_base": true,
+  "baseline_files_rehashed": 27766,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "c443a5aa3386805b929e183d9e3aceac0f53441b302c23b4fe3f1a433f6dc832",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_skull/BG25_022.native.xml",
+      "research/hopebringer_skull/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27768,
+  "restored_bytes": 1548273482,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "fd25b27e3113830b7d692beab0f02d85568bc579c5b995e663fe3fa1feb2a319",
+  "prior_whole_chain_via_hopebringer_beetle_to_hopebringer_skull_map_continuity": true,
+  "supporting_hopebringer_beetle_chain_receipt_sha256": "b08bd88b991803cda2342245909cb9b092dd566559daabb09c8fce2a9393429c",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Beetle baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Skull increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T08:49:07.468460+00:00"
+}
