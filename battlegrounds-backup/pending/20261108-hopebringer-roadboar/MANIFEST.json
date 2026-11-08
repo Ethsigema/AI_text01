@@ -1,0 +1,321 @@
+{
+  "archive": "hopebringer_roadboar_20261108.tar.xz",
+  "bytes": 1635880,
+  "sha256": "9ea0965aa5495c614d7cb8f221b9ce72b0d6282e3ebea2f517f2c69ef73fd8cd",
+  "files": {
+    "hopebringer_roadboar_20261108/BASE_MAP.json": {
+      "bytes": 4588612,
+      "sha256": "942a26eeed2777253701d2aa30acc53a488945514aec151dc32127b8ec767527"
+    },
+    "hopebringer_roadboar_20261108/EXPECTED_ROWS.json": {
+      "bytes": 30483,
+      "sha256": "02d222dad216870a3b79d07d41b85ceae4d29cd7a10271e75357b2dcd7086beb"
+    },
+    "hopebringer_roadboar_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_roadboar_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 8839,
+      "sha256": "8e4e8e3c630644e1b999d3d6543d82fa1f02d72667644c5b1f81e612a4447164"
+    },
+    "hopebringer_roadboar_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 303657,
+      "sha256": "7c4ca18053808f57ba39317fac8c0b6aec80f044e5e2fb16f9e37dcc6db829c6"
+    },
+    "hopebringer_roadboar_20261108/README.md": {
+      "bytes": 1827,
+      "sha256": "a9de38f4decee55ed0bb6ac281b755bf007c93079ada5983644cd820576f661e"
+    },
+    "hopebringer_roadboar_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "8f5740b27512b067bd8cc150cac160923cadbf643c443eda489256447c19dc86"
+    },
+    "hopebringer_roadboar_20261108/SOURCE_DELTA.json": {
+      "bytes": 1683,
+      "sha256": "f12f4203564a60100ec46f802ae14ab7cd1352934c2a99b89a0239313a7010c6"
+    },
+    "hopebringer_roadboar_20261108/SOURCE_MAP.json": {
+      "bytes": 4589091,
+      "sha256": "b71cabdcc391dff896e08ca9207f6dd667ed7bee71dac789fea1967cf5b0e8df"
+    },
+    "hopebringer_roadboar_20261108/VALIDATION.json": {
+      "bytes": 935,
+      "sha256": "0d43a1d321653da55cb1933435961adb879a63df7afb65188996beaeab9eec7e"
+    },
+    "hopebringer_roadboar_20261108/build.py": {
+      "bytes": 3906,
+      "sha256": "e99093e434e9786174646b945516832aba86d8d3eb621ec43aa18b6d311be267"
+    },
+    "hopebringer_roadboar_20261108/delta/core/hopebringer_host.gd": {
+      "bytes": 15641,
+      "sha256": "68f540e96a80332e3a8788816c29361f29e4083b4b46aab307bc232c5ce26d7f"
+    },
+    "hopebringer_roadboar_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 13664,
+      "sha256": "0765eaa354d165bb45acc47c4d35784c78fdf1a2635457c8d3b9d768c0135b46"
+    },
+    "hopebringer_roadboar_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 47174,
+      "sha256": "2654033a069dce16df892a31ce535a64cabd4e9e2c28c88f49110703c5fa3423"
+    },
+    "hopebringer_roadboar_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 46596,
+      "sha256": "142bafacebba6a902dcd580377ab5daeb821199582c7915368d48ea8b43b54ab"
+    },
+    "hopebringer_roadboar_20261108/delta/core/rally_fixed_hand_rewards.gd": {
+      "bytes": 13782,
+      "sha256": "13bcdcc5d7681e630e58bf9c8bf35792449d90f0ae81903c34eb9d847d851ed2"
+    },
+    "hopebringer_roadboar_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 24455,
+      "sha256": "33b5adb8179fa052cabae4056f08649150ca8d7f4a39567df1832257adae8c7b"
+    },
+    "hopebringer_roadboar_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 24220,
+      "sha256": "b660bff1514291812c4479497f5373c0aa36307336d17dbde5a8b41b57e736e3"
+    },
+    "hopebringer_roadboar_20261108/delta/research/hopebringer_roadboar/BG20_101.native.xml": {
+      "bytes": 2748,
+      "sha256": "44ec45d0a687882c6c364e426ed3822ab22360ce67605ef9d39c1a087d01585c"
+    },
+    "hopebringer_roadboar_20261108/delta/research/hopebringer_roadboar/BG20_GEM.native.xml": {
+      "bytes": 2316,
+      "sha256": "bea210fd6ef398afde7cfd2eeeaa38d88b2f7275f6e5f872931bfbbdc0db98d1"
+    },
+    "hopebringer_roadboar_20261108/delta/research/hopebringer_roadboar/evidence.json": {
+      "bytes": 929,
+      "sha256": "ea7f30baab639cf1c250fdd4c1108778a139beeb7b1b89ec30b678370f30580b"
+    },
+    "hopebringer_roadboar_20261108/gate.gd": {
+      "bytes": 18858,
+      "sha256": "1fe83036a32b419ffffa56c7bec11e72cf353b85bf16a101b997773b0066e8bf"
+    },
+    "hopebringer_roadboar_20261108/materialize.py": {
+      "bytes": 1673,
+      "sha256": "84767a708d824b8775800eed04a11c6460977222893b4fc3bdbb44b4d95adcc8"
+    },
+    "hopebringer_roadboar_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1167,
+      "sha256": "197adbfece83e11d15c4ccd91a827b7598cb5193b59e55ba24005de0beaf47ec"
+    },
+    "hopebringer_roadboar_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_roadboar_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 30483,
+      "sha256": "02d222dad216870a3b79d07d41b85ceae4d29cd7a10271e75357b2dcd7086beb"
+    },
+    "hopebringer_roadboar_20261108/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "494d952c7ccb065c9dea437acef70525cb8d0d58883dc8d390eeabc962651e56"
+    },
+    "hopebringer_roadboar_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 303657,
+      "sha256": "7c4ca18053808f57ba39317fac8c0b6aec80f044e5e2fb16f9e37dcc6db829c6"
+    },
+    "hopebringer_roadboar_20261108/run_1/PROCESS.json": {
+      "bytes": 601,
+      "sha256": "a5bc03b9e9a32794bcbe40ca8d3b5a893b939a029ddf2d1b4319a5574ae4bccf"
+    },
+    "hopebringer_roadboar_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1452,
+      "sha256": "767a4afbf5e67b0d958210a50492ccef5f79489bf56a0989259f26ec39047c22"
+    },
+    "hopebringer_roadboar_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 14476,
+      "sha256": "5605c4d8fe3631e59eb378f56c5141f55740c4e1ebc0c7b75745f795c0fd94c7"
+    },
+    "hopebringer_roadboar_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4589091,
+      "sha256": "f52f818cacdf56544669b68e87ed1e8e92a656f3a449dabb82430be759cd1e77"
+    },
+    "hopebringer_roadboar_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 71280,
+      "sha256": "1947819ae57309a6a12cbe2d7210f35a0a3f828bca650f530637b45a81a4eb5f"
+    },
+    "hopebringer_roadboar_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 36723,
+      "sha256": "8f7e84554ff6e45cd29c529bdc1fbb3522a523c5920cd882c198ff34254d74d8"
+    },
+    "hopebringer_roadboar_20261108/run_1/data/report.json": {
+      "bytes": 1133413,
+      "sha256": "d8591b030bfbed07dd654b609e0b26da6c049d034f7b1959b9ea928fcec2bb82"
+    },
+    "hopebringer_roadboar_20261108/run_1/gate_executed.gd": {
+      "bytes": 18858,
+      "sha256": "1fe83036a32b419ffffa56c7bec11e72cf353b85bf16a101b997773b0066e8bf"
+    },
+    "hopebringer_roadboar_20261108/run_1/native.log": {
+      "bytes": 397,
+      "sha256": "53d1b504b88d02518049d0330be4003347090fa1fee707fb701c25a570ff1436"
+    },
+    "hopebringer_roadboar_20261108/run_2/EXPECTED_ROWS.json": {
+      "bytes": 30483,
+      "sha256": "02d222dad216870a3b79d07d41b85ceae4d29cd7a10271e75357b2dcd7086beb"
+    },
+    "hopebringer_roadboar_20261108/run_2/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "35a689932477440a11bead0b3b882791c69d43bc7fe7da9da7931e6d41f3363b"
+    },
+    "hopebringer_roadboar_20261108/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 303657,
+      "sha256": "7c4ca18053808f57ba39317fac8c0b6aec80f044e5e2fb16f9e37dcc6db829c6"
+    },
+    "hopebringer_roadboar_20261108/run_2/PROCESS.json": {
+      "bytes": 601,
+      "sha256": "900a93885680e95640b323317c5e6f07dcf5a6132c9a113f7193919216d764eb"
+    },
+    "hopebringer_roadboar_20261108/run_2/SOURCE_DELTA.json": {
+      "bytes": 1529,
+      "sha256": "f5ec31dca9a6770112263cb73dec02df83a9200bb1a07003dfc191d0b1848b84"
+    },
+    "hopebringer_roadboar_20261108/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 18184,
+      "sha256": "6268e476c8f55eae6933eec7c9a48859a76df9fffaadb5a1904446d386234736"
+    },
+    "hopebringer_roadboar_20261108/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4589091,
+      "sha256": "8851e241ce0e46e153d97bb2e0e7b4f6797576e203a3908ec6a9b3ee33e5c2c4"
+    },
+    "hopebringer_roadboar_20261108/run_2/data/before_combat.native_save.json": {
+      "bytes": 71280,
+      "sha256": "15a9b4c1b64a52e962d1631c126155e3bfd923fddf76e8309ced2e060dda1885"
+    },
+    "hopebringer_roadboar_20261108/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 36723,
+      "sha256": "e232c237b83e4eba9d24aeaaf385e2bd6f37ddba9d4b0f2836916a3672d903eb"
+    },
+    "hopebringer_roadboar_20261108/run_2/data/report.json": {
+      "bytes": 1133513,
+      "sha256": "8b856b4cc43c36f655b98af4017dd52c2711bbf6513e51d8727e216cf8d0d95a"
+    },
+    "hopebringer_roadboar_20261108/run_2/gate_executed.gd": {
+      "bytes": 18858,
+      "sha256": "1fe83036a32b419ffffa56c7bec11e72cf353b85bf16a101b997773b0066e8bf"
+    },
+    "hopebringer_roadboar_20261108/run_2/native.log": {
+      "bytes": 397,
+      "sha256": "18280dc5a6fbdbab85a56b609e2588e77d5d7c17352e5e8331b73920aea7ae2d"
+    },
+    "hopebringer_roadboar_20261108/run_3/EXPECTED_ROWS.json": {
+      "bytes": 30483,
+      "sha256": "02d222dad216870a3b79d07d41b85ceae4d29cd7a10271e75357b2dcd7086beb"
+    },
+    "hopebringer_roadboar_20261108/run_3/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "723c3cb221f77f79625d11d971de85c5dcc4c28e46d29082762a9546a10d6d85"
+    },
+    "hopebringer_roadboar_20261108/run_3/PIN_PREFLIGHT.json": {
+      "bytes": 303657,
+      "sha256": "7c4ca18053808f57ba39317fac8c0b6aec80f044e5e2fb16f9e37dcc6db829c6"
+    },
+    "hopebringer_roadboar_20261108/run_3/PROCESS.json": {
+      "bytes": 601,
+      "sha256": "54a83b7ff2c70feff1c710e93e24b254e189549d563bae4dd277b068cb57206c"
+    },
+    "hopebringer_roadboar_20261108/run_3/SOURCE_DELTA.json": {
+      "bytes": 1683,
+      "sha256": "f12f4203564a60100ec46f802ae14ab7cd1352934c2a99b89a0239313a7010c6"
+    },
+    "hopebringer_roadboar_20261108/run_3/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 21300,
+      "sha256": "e31cede434026d5ba194964732bdaf3a914cd521d14d4ea485067a241b92704c"
+    },
+    "hopebringer_roadboar_20261108/run_3/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4589091,
+      "sha256": "b71cabdcc391dff896e08ca9207f6dd667ed7bee71dac789fea1967cf5b0e8df"
+    },
+    "hopebringer_roadboar_20261108/run_3/data/before_combat.native_save.json": {
+      "bytes": 71280,
+      "sha256": "06f2d79232e9790551256e326d12eefc0660e1e58bf6daf6c76478fda83df353"
+    },
+    "hopebringer_roadboar_20261108/run_3/data/initial_fixture.native_save.json": {
+      "bytes": 36723,
+      "sha256": "297bbbffef234a349ff4118c99763ea37a1f3ed7a74def3be80e108fd72826dc"
+    },
+    "hopebringer_roadboar_20261108/run_3/data/report.json": {
+      "bytes": 6824479,
+      "sha256": "ffa59eb196ca3a3129a81f1da7dabf71deb52209b81039693c98a1a198b32446"
+    },
+    "hopebringer_roadboar_20261108/run_3/data/terminal.native_save.json": {
+      "bytes": 745790,
+      "sha256": "c638fac58a7f37d9930944a34b8ee901a9a6372c3c3837cf421dcd2c83c183f4"
+    },
+    "hopebringer_roadboar_20261108/run_3/gate_executed.gd": {
+      "bytes": 18858,
+      "sha256": "1fe83036a32b419ffffa56c7bec11e72cf353b85bf16a101b997773b0066e8bf"
+    },
+    "hopebringer_roadboar_20261108/run_3/native.log": {
+      "bytes": 397,
+      "sha256": "40e3747caba46e4d23aeb2fc4d85086abac970f0e7cf1cfe9ad537d7aa4a84db"
+    },
+    "hopebringer_roadboar_20261108/seal.py": {
+      "bytes": 4058,
+      "sha256": "a88cc9efbcedd9381819786205307898492324f588a157440b35ca1bbe405ec2"
+    },
+    "hopebringer_roadboar_20261108/update_runtime.py": {
+      "bytes": 768,
+      "sha256": "4279c9f850f75da90170ea52559b98cb507aa1ec99b3dbca327ede1b9ea67b8d"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_roadboar_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "1f6aa9f7d1ce65bf5bff9b65f640996267e98155e84c6d4f18aaabafca73d247"
+    },
+    {
+      "name": "hopebringer_roadboar_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "d54f64bc84791dbf165136ca097e6daa0cc23cd762260809aada07b18b97cc5c"
+    },
+    {
+      "name": "hopebringer_roadboar_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "67c7fde1955621f432c88a64a0dab53f65dd97d3b9997e6e1e81d7d39e1d54a1"
+    },
+    {
+      "name": "hopebringer_roadboar_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "6ceebb5d28eb7d24de36ecc465aa3cead655ba563ff01b5b4ccecc38555cb866"
+    },
+    {
+      "name": "hopebringer_roadboar_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "4ac65325850bb43c4908cd861a7ed9195062c7d61d5eb8daf0c65cb6e0a7ea3e"
+    },
+    {
+      "name": "hopebringer_roadboar_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "10e6772144a7fbd4f1dc84acfb1898af11c76fcbc854ec92dca525881d9c53dc"
+    },
+    {
+      "name": "hopebringer_roadboar_20261108.tar.xz.part006",
+      "bytes": 135880,
+      "sha256": "89bc08aa1cba17454633b2a86e77c8c4daa3608bff9f29fee447fae8c05763b2"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_roadboar_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 531,
+      "sha256": "f0bf2d5fcc3943b69b78b1e1dca6d131abf029c3b2d040ef22ed6374d732cd8e"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_venom_commit": "c27eb91f37d114351200b546c3c3205f06eae587",
+    "hopebringer_venom_source_map_sha256": "942a26eeed2777253701d2aa30acc53a488945514aec151dc32127b8ec767527"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Roadboar Rally Blood Gem delivery combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 64,
+    "credential_pattern_flags": []
+  }
+}
