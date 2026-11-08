@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "privateer_leftmost",
+      "commit": "7b5370f9df09d0d78cce56a475779499bd888e11",
+      "repository_path": "battlegrounds-backup/pending/20261108-electron-privateer-leftmost",
+      "manifest_sha256": "5bddc7712d1d7f03b29750be00c4542e876084f6a06cb28205b411dd53353f1f",
+      "archive": "electron_privateer_leftmost_20261108.tar.xz",
+      "archive_sha256": "f618937b1f4428b65f7c136e6647563e1ce41451f666d123b4c9f02307796536",
+      "archive_bytes": 1083320,
+      "parts_verified": 5,
+      "members_verified": 36,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "privateer_wealth": "170be091073bebc2381da4f748262098c1093008f5f35f9ae97971f557817c5b",
+    "privateer_leftmost": "86a0b68f46f7cfb9ee7680324cc510074e8f794257291851788ea94f1a70ff4e"
+  },
+  "privateer_wealth_source_byte_equals_privateer_leftmost_base": true,
+  "baseline_files_rehashed": 27739,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "5682268d7acce330844f06e5c2623288eb9ce351203ded608c9c593cb77afd26",
+  "change_lists": {
+    "added": [
+      "research/electron_privateer_leftmost/BG33_813.native.xml",
+      "research/electron_privateer_leftmost/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27741,
+  "restored_bytes": 1548179617,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "fd25b27e3113830b7d692beab0f02d85568bc579c5b995e663fe3fa1feb2a319",
+  "prior_whole_chain_via_privateer_wealth_to_privateer_leftmost_map_continuity": true,
+  "supporting_privateer_wealth_chain_receipt_sha256": "685375738ba465c91a89392f8e5a4b7b86e91539fb6c5a4774eec451c3b0e966",
+  "historical_baseline_provenance": "The baseline is the verified Electron Privateer Wealth baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Privateer Leftmost increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T05:40:11.122707+00:00"
+}
