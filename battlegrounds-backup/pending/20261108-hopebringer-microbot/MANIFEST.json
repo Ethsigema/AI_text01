@@ -1,0 +1,285 @@
+{
+  "archive": "hopebringer_microbot_20261108.tar.xz",
+  "bytes": 1566588,
+  "sha256": "937b8ec1050b57df2b4517768b28584a61da026d6e78893be744eddd4b305e87",
+  "files": {
+    "hopebringer_microbot_20261108/BASE_MAP.json": {
+      "bytes": 4580251,
+      "sha256": "8d7ebfc803f3f410b8cffea9de3710c5bba7ad6173ad706bc5018a855618b6d0"
+    },
+    "hopebringer_microbot_20261108/EXPECTED_ROWS.json": {
+      "bytes": 16689,
+      "sha256": "dce48a86f97e9a8201020f4811f1ef541413149262751cfcacf754704b088511"
+    },
+    "hopebringer_microbot_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_microbot_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 7475,
+      "sha256": "5f3d9cccacd303b8007607f12c0ed2d8a6692e76e34e14d7b211411dc0a36a43"
+    },
+    "hopebringer_microbot_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 290085,
+      "sha256": "6c0e03b718016453fd91f2bc76f85653b4e8eeca21d663603b1f1bdad6357925"
+    },
+    "hopebringer_microbot_20261108/README.md": {
+      "bytes": 2417,
+      "sha256": "b472d2864716a083e36d4df74b3a4fa06491670482a7ad36046ff46b72ae5988"
+    },
+    "hopebringer_microbot_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "9362497f3c7651079b23b3c18524e804f59b681b71fe0ccf55304ec0ca4d4915"
+    },
+    "hopebringer_microbot_20261108/SOURCE_DELTA.json": {
+      "bytes": 1298,
+      "sha256": "7711516bce4b2a29621c4734124ea26c210000496e247cecc63969e4c0998b01"
+    },
+    "hopebringer_microbot_20261108/SOURCE_MAP.json": {
+      "bytes": 4580568,
+      "sha256": "90e3daeb7358b1764b0871fb7b4ee9982609f502dbe985012bc27bd6bec94ae3"
+    },
+    "hopebringer_microbot_20261108/VALIDATION.json": {
+      "bytes": 839,
+      "sha256": "684b48016cde3452059721f8417c47314984e1d0c20f68e049cdf3045e7a86cb"
+    },
+    "hopebringer_microbot_20261108/build.py": {
+      "bytes": 3549,
+      "sha256": "bb4d2dfa50d39f20fa573810d5069cc97060a62accc2a9aed360c40c017a2960"
+    },
+    "hopebringer_microbot_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 6895,
+      "sha256": "4654b8ed8c39c2a945b515c4f47897d6748e4fd4f8cfe93cf1def953dd02996e"
+    },
+    "hopebringer_microbot_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 24560,
+      "sha256": "805f431c3f15ad6f681875e94f104c6a505d8613cfa85e75d987b6a091962309"
+    },
+    "hopebringer_microbot_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 23982,
+      "sha256": "b5d7ad54a924c638d608624d435d8888f4799fee68620ab850619c483592e219"
+    },
+    "hopebringer_microbot_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 17558,
+      "sha256": "a73566ae735e034a1763072258771b916f2ea58fec4f8a2085ce127d6b05aeb7"
+    },
+    "hopebringer_microbot_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 17323,
+      "sha256": "9ed686d7b581ff7b9af1e7cf999965487357088693a83b31d81c770359d8cb06"
+    },
+    "hopebringer_microbot_20261108/delta/research/hopebringer_microbot/BG29_611.native.xml": {
+      "bytes": 3159,
+      "sha256": "c9ac1e339a89110e62fa7c8472299dd6103a699fa3b844d907c532dabf4efaa9"
+    },
+    "hopebringer_microbot_20261108/delta/research/hopebringer_microbot/evidence.json": {
+      "bytes": 806,
+      "sha256": "44afaf260b46fc9c82a5f1e37b4c4390f3725753c2104326aa3024a362349a58"
+    },
+    "hopebringer_microbot_20261108/gate.gd": {
+      "bytes": 17289,
+      "sha256": "ffc04c4f65c526d4efe7606400c4aa839274becb9fe45f6a52c0e60d75ddfa1c"
+    },
+    "hopebringer_microbot_20261108/materialize.py": {
+      "bytes": 1693,
+      "sha256": "1f6a6ee66ca68e1d043bf346392e9f3202f290956cf40b886966e10e1858a86a"
+    },
+    "hopebringer_microbot_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1177,
+      "sha256": "9348ad76ca76ce16e49dfcb1ae2173973270270173d627a284055c0c4d55f43d"
+    },
+    "hopebringer_microbot_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_microbot_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 16689,
+      "sha256": "dce48a86f97e9a8201020f4811f1ef541413149262751cfcacf754704b088511"
+    },
+    "hopebringer_microbot_20261108/run_1/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "49ac53e8d8eed378cb0ea06c6e4034d9912b6717c79682796223ed89e8e12b60"
+    },
+    "hopebringer_microbot_20261108/run_1/PROCESS.json": {
+      "bytes": 601,
+      "sha256": "da42f53d7ed5b38be21d49f05fad8ebec6a56137684248b0cd87fa8c63d67328"
+    },
+    "hopebringer_microbot_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1298,
+      "sha256": "7711516bce4b2a29621c4734124ea26c210000496e247cecc63969e4c0998b01"
+    },
+    "hopebringer_microbot_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 9748,
+      "sha256": "3a4c4e4de776292c6cf47a306d3de1deea4a74e3fc267c0e928e2467ca8c530e"
+    },
+    "hopebringer_microbot_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4580568,
+      "sha256": "90e3daeb7358b1764b0871fb7b4ee9982609f502dbe985012bc27bd6bec94ae3"
+    },
+    "hopebringer_microbot_20261108/run_1/data/report.json": {
+      "bytes": 48528,
+      "sha256": "75406b5c8635c89182c42b392096ceed24cd5802df6efd76e57d2e9661b01912"
+    },
+    "hopebringer_microbot_20261108/run_1/gate_executed.gd": {
+      "bytes": 17306,
+      "sha256": "30d6229423784945f3e1f91a26a1be30721c435682388fbab6a0745241d1bf91"
+    },
+    "hopebringer_microbot_20261108/run_1/native.log": {
+      "bytes": 151,
+      "sha256": "8f2d7244870d965d2ff218ab4929dc0134af9d5776e4fc0735acb8589bda575e"
+    },
+    "hopebringer_microbot_20261108/run_2/EXPECTED_ROWS.json": {
+      "bytes": 16689,
+      "sha256": "dce48a86f97e9a8201020f4811f1ef541413149262751cfcacf754704b088511"
+    },
+    "hopebringer_microbot_20261108/run_2/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "e92b7b05eb7dfec8adc3afcd2a930bcc678829a4cda5029db73e6f096e871a10"
+    },
+    "hopebringer_microbot_20261108/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 290085,
+      "sha256": "6c0e03b718016453fd91f2bc76f85653b4e8eeca21d663603b1f1bdad6357925"
+    },
+    "hopebringer_microbot_20261108/run_2/PROCESS.json": {
+      "bytes": 601,
+      "sha256": "b64afb7296127cef554f581e3b0734dae388bbe34c317e5f38eb34f2799be7df"
+    },
+    "hopebringer_microbot_20261108/run_2/SOURCE_DELTA.json": {
+      "bytes": 1298,
+      "sha256": "7711516bce4b2a29621c4734124ea26c210000496e247cecc63969e4c0998b01"
+    },
+    "hopebringer_microbot_20261108/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 9748,
+      "sha256": "3a4c4e4de776292c6cf47a306d3de1deea4a74e3fc267c0e928e2467ca8c530e"
+    },
+    "hopebringer_microbot_20261108/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4580568,
+      "sha256": "90e3daeb7358b1764b0871fb7b4ee9982609f502dbe985012bc27bd6bec94ae3"
+    },
+    "hopebringer_microbot_20261108/run_2/data/report.json": {
+      "bytes": 48320,
+      "sha256": "8b645eb1d1b693db835fb612ef7b4ce49b0abe06b013a0a168c0f278ff2b8799"
+    },
+    "hopebringer_microbot_20261108/run_2/gate_executed.gd": {
+      "bytes": 17288,
+      "sha256": "092a1d2a3ab155aaa8aa44e612d742ac46b7fe64997e360889eb1db608282725"
+    },
+    "hopebringer_microbot_20261108/run_2/native.log": {
+      "bytes": 151,
+      "sha256": "391f2a49d2f3637f83e8ae52d319ec3bdc9bfeaf8b868ba984c304d2d4b1917f"
+    },
+    "hopebringer_microbot_20261108/run_3/EXPECTED_ROWS.json": {
+      "bytes": 16689,
+      "sha256": "dce48a86f97e9a8201020f4811f1ef541413149262751cfcacf754704b088511"
+    },
+    "hopebringer_microbot_20261108/run_3/LAUNCH.json": {
+      "bytes": 527,
+      "sha256": "d1b844b7d518abdb37bdca74587753d56cf67ffc24e9e217d5486556358cd4bf"
+    },
+    "hopebringer_microbot_20261108/run_3/PIN_PREFLIGHT.json": {
+      "bytes": 290085,
+      "sha256": "6c0e03b718016453fd91f2bc76f85653b4e8eeca21d663603b1f1bdad6357925"
+    },
+    "hopebringer_microbot_20261108/run_3/PROCESS.json": {
+      "bytes": 601,
+      "sha256": "3fc02ac678bd13f694bc678061f7324a10de9e4040c5d974affc4bb91e330ca7"
+    },
+    "hopebringer_microbot_20261108/run_3/SOURCE_DELTA.json": {
+      "bytes": 1298,
+      "sha256": "7711516bce4b2a29621c4734124ea26c210000496e247cecc63969e4c0998b01"
+    },
+    "hopebringer_microbot_20261108/run_3/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 9748,
+      "sha256": "3a4c4e4de776292c6cf47a306d3de1deea4a74e3fc267c0e928e2467ca8c530e"
+    },
+    "hopebringer_microbot_20261108/run_3/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4580568,
+      "sha256": "90e3daeb7358b1764b0871fb7b4ee9982609f502dbe985012bc27bd6bec94ae3"
+    },
+    "hopebringer_microbot_20261108/run_3/data/before_combat.native_save.json": {
+      "bytes": 99745,
+      "sha256": "4b7d8f82434a7d8ac8b677d574267b7eea32a7ad6cc0db3afca1a4eaca5fd4cc"
+    },
+    "hopebringer_microbot_20261108/run_3/data/initial_fixture.native_save.json": {
+      "bytes": 41072,
+      "sha256": "3d7ac615fdf407143681c86690f8a3bd050caefe28c8b1182cfb24fd567aa3bd"
+    },
+    "hopebringer_microbot_20261108/run_3/data/report.json": {
+      "bytes": 7414264,
+      "sha256": "930db21ba13c71a39c7c9680f75e770652bd8ad8d15b53482995b7de523e003a"
+    },
+    "hopebringer_microbot_20261108/run_3/data/terminal.native_save.json": {
+      "bytes": 751630,
+      "sha256": "d8267d9d3f470b16ac156e54886facbbfab762be41aa3f796455c25ba655eaca"
+    },
+    "hopebringer_microbot_20261108/run_3/gate_executed.gd": {
+      "bytes": 17289,
+      "sha256": "ffc04c4f65c526d4efe7606400c4aa839274becb9fe45f6a52c0e60d75ddfa1c"
+    },
+    "hopebringer_microbot_20261108/run_3/native.log": {
+      "bytes": 503,
+      "sha256": "419a2b23858ac2c9edc67c90cca9a9bdfc402c43a2b67cd7c4680443762e2e9f"
+    },
+    "hopebringer_microbot_20261108/seal.py": {
+      "bytes": 3892,
+      "sha256": "37ce4d307499244f61c344b95a3f28cc8471bb7cf4b30eafb395737ae33f3f37"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_microbot_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "855943086887b3e75d33172f10ef44167e02be210e45e874ee89d6865a41a7ed"
+    },
+    {
+      "name": "hopebringer_microbot_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "a9a7d97fe09ca9cf2e518dd9396ce23ca31e7d68b7b53d1aa18319fcc7b8f9cc"
+    },
+    {
+      "name": "hopebringer_microbot_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "e1a66cd5e412f6d557000ea6fddfe218589deb30ee65799e849a1ed93dc3ca0b"
+    },
+    {
+      "name": "hopebringer_microbot_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "7e2c67c3574d3d6af0d0b8b86a2c3684b68dab4b2774dea2570143373e464730"
+    },
+    {
+      "name": "hopebringer_microbot_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "5a7dc96e0ee52155840b52718e4a8d51ce22e25ed7ad76f4c9922fa3c1138c22"
+    },
+    {
+      "name": "hopebringer_microbot_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "c44d8b089728aa2e993bbd0683366c410ce594ddcdca59eb961e01aad72bad6b"
+    },
+    {
+      "name": "hopebringer_microbot_20261108.tar.xz.part006",
+      "bytes": 66588,
+      "sha256": "8036633d16984e2965cb1df74dc6c0dcca9a118e7e8386f92877833c7674d2e4"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_microbot_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 402,
+      "sha256": "3ebe6c2bb6c24c08927ed3b285721e0aaacc7328d1f54462f2c38413cca5ade0"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "privateer_majority_commit": "7fc9fbbba750a0c9852291954ba8554801749943",
+    "privateer_majority_source_map_sha256": "8d7ebfc803f3f410b8cffea9de3710c5bba7ad6173ad706bc5018a855618b6d0"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Microbot combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 55,
+    "credential_pattern_flags": []
+  }
+}
