@@ -1,0 +1,263 @@
+{
+  "archive": "electron_gem_confiscation_20261108.tar.xz",
+  "bytes": 1119340,
+  "sha256": "7455e9dec32cdcb55a1824e271f7c3be02b0c11b57ea185bcb218cbab20211df",
+  "files": {
+    "electron_gem_confiscation_20261108/BASE_MAP.json": {
+      "bytes": 4576146,
+      "sha256": "696b48e489f4ed384fd2a65bad4e56436cc35b239bf55d5eacd2a920dcdde7af"
+    },
+    "electron_gem_confiscation_20261108/EXPECTED_ROWS.json": {
+      "bytes": 30305,
+      "sha256": "732e219cefaf478320169746c1090d21d607eb437cbb3e8229f49a995c8be3d0"
+    },
+    "electron_gem_confiscation_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_gem_confiscation_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 7095,
+      "sha256": "2012c4256a6e62ca1d0ef4fde14e02447ccbed59a5bec664b74905f6014a7dea"
+    },
+    "electron_gem_confiscation_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 283226,
+      "sha256": "c0a5b15ea25346a41c969a18244ffa1855390fb414317a72ff4f48bfc3b7a9c2"
+    },
+    "electron_gem_confiscation_20261108/README.md": {
+      "bytes": 2940,
+      "sha256": "a6a1fc27181b09026aa68f7a9d07c568a47ba4ecca2927c32a21f4c96373cd66"
+    },
+    "electron_gem_confiscation_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "716ad55cbc7d392cd9f8e4290fc459279ec7dceb2bf89366a0fe6df84d358800"
+    },
+    "electron_gem_confiscation_20261108/SOURCE_DELTA.json": {
+      "bytes": 1638,
+      "sha256": "22716d1f4a56cbe360713a8d59f95879bbfe4cdff59febac95aa16bf5fa1637f"
+    },
+    "electron_gem_confiscation_20261108/SOURCE_MAP.json": {
+      "bytes": 4576473,
+      "sha256": "d08421c3d32fd5f07e583b10e64a85b56ef39b596944fc0023ffaa617d05f93a"
+    },
+    "electron_gem_confiscation_20261108/VALIDATION.json": {
+      "bytes": 880,
+      "sha256": "214ee8d1e67bf55e0f47599d482954016f25328ad1334505b45291342b9b6532"
+    },
+    "electron_gem_confiscation_20261108/build.py": {
+      "bytes": 4296,
+      "sha256": "d0ad62d215e16684b60f1f091dc50ecd3450d4d8b06edd0d28111182c446f454"
+    },
+    "electron_gem_confiscation_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 55931,
+      "sha256": "5ce1b34b5f4511e7fea040c450c12c5b995e9d51ba56b726622ff954d9dadec5"
+    },
+    "electron_gem_confiscation_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 53984,
+      "sha256": "2ca8cf6f2c8f7a3c428f60902251a2f085106732a08f59cd176e54627b346fb9"
+    },
+    "electron_gem_confiscation_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 22493,
+      "sha256": "a7031e79f63494a70e731d0f9ced47aa326d28ea8f8033bc509088a4de4b7638"
+    },
+    "electron_gem_confiscation_20261108/delta/core/trench_gem_host.gd": {
+      "bytes": 14496,
+      "sha256": "90ceace6d7c33a414e107b754c6403384289a0c57b60cca4934438b2afd2bfda"
+    },
+    "electron_gem_confiscation_20261108/delta/core/trench_gem_sources.gd": {
+      "bytes": 27053,
+      "sha256": "94c10058a301e247368185bec5bcd9dbec1c0cb513044f274e7f9f7630b2b405"
+    },
+    "electron_gem_confiscation_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 28195,
+      "sha256": "df4e922b04f28b5106cf919f50be2df9887879632cab844628fac1584e7eddd1"
+    },
+    "electron_gem_confiscation_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 26985,
+      "sha256": "24c5b9ebcb985db546fa27632ee2f842335eac68cc702ddbfa66c7fe3d40b84e"
+    },
+    "electron_gem_confiscation_20261108/delta/research/electron_gem_confiscation/BG28_698.native.xml": {
+      "bytes": 3890,
+      "sha256": "4b1b34e015e05aa5affccc20bcb2e1979df172269e5e226010be4ce0be84119a"
+    },
+    "electron_gem_confiscation_20261108/delta/research/electron_gem_confiscation/evidence.json": {
+      "bytes": 557,
+      "sha256": "4c54d34d5b56ae492203664d8569b5a8bece0eae326945cc5bd7516c2172dfbd"
+    },
+    "electron_gem_confiscation_20261108/diagnose.gd": {
+      "bytes": 829,
+      "sha256": "84f316ddd01d1bc7060ea4b534ca7abc435aeca3474ac0f9dfa05402c6aeff33"
+    },
+    "electron_gem_confiscation_20261108/fix_base_serialization.py": {
+      "bytes": 1005,
+      "sha256": "bef0b43da5fc8017e90df5c1709be4d3bc54a156c97af535159f94ae59d14829"
+    },
+    "electron_gem_confiscation_20261108/gate.gd": {
+      "bytes": 20582,
+      "sha256": "c48159e2415616aefc826e72512dafd925ed5113970e10e76c74f1a864c565e0"
+    },
+    "electron_gem_confiscation_20261108/materialize.py": {
+      "bytes": 1689,
+      "sha256": "157fa94c97fbd02ed73a6b370508f1bb1b30d2853bfeac64e948b95ce676766f"
+    },
+    "electron_gem_confiscation_20261108/prepare_gate.py": {
+      "bytes": 6304,
+      "sha256": "79b93ca7aae40bff609223baed161c4d5b1a77d40f8690b84958262b8d722ab2"
+    },
+    "electron_gem_confiscation_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1172,
+      "sha256": "c2754fb1e579916b2a2d17851d3241b027e190b2439ddbc270f14c6ffef55eea"
+    },
+    "electron_gem_confiscation_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_gem_confiscation_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 30305,
+      "sha256": "732e219cefaf478320169746c1090d21d607eb437cbb3e8229f49a995c8be3d0"
+    },
+    "electron_gem_confiscation_20261108/run_1/LAUNCH.json": {
+      "bytes": 537,
+      "sha256": "1e3154be2714202ea9005b20acf052c362831e22076068194885ca49095dcb5f"
+    },
+    "electron_gem_confiscation_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 283226,
+      "sha256": "c0a5b15ea25346a41c969a18244ffa1855390fb414317a72ff4f48bfc3b7a9c2"
+    },
+    "electron_gem_confiscation_20261108/run_1/PROCESS.json": {
+      "bytes": 611,
+      "sha256": "7e1ffa43f28a4ae764f3b9e78815767c18580212de57c1731a742f6f23751747"
+    },
+    "electron_gem_confiscation_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1475,
+      "sha256": "995505b1e75597592c127c90b69484ffc3cc93164c6b4039ac083630667df759"
+    },
+    "electron_gem_confiscation_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 21492,
+      "sha256": "33ff8dfe1025c72e8b174dbf22cd3c3898ade9cd3c1fe163a81d19a808a4bd7d"
+    },
+    "electron_gem_confiscation_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4576473,
+      "sha256": "27f4e1e4e2125f7939c26b88a0bf5d7b7b2cd7cebebae06d7bb977ca31d5b777"
+    },
+    "electron_gem_confiscation_20261108/run_1/data/report.json": {
+      "bytes": 326313,
+      "sha256": "d06d3a8dabfd713ba26a074d932ff9db32a7ff76f5db5de6ce280b22a2ed83d5"
+    },
+    "electron_gem_confiscation_20261108/run_1/gate_executed.gd": {
+      "bytes": 20005,
+      "sha256": "13fad37fb167240adffda852fb79edba49b523bd09b1151c40fee24c51256080"
+    },
+    "electron_gem_confiscation_20261108/run_1/native.log": {
+      "bytes": 151,
+      "sha256": "6c8825a8995e2ba1006dddd4da0eeb5bbf1518d530a36f3702f1bc45e2a6847c"
+    },
+    "electron_gem_confiscation_20261108/run_2/EXPECTED_ROWS.json": {
+      "bytes": 30305,
+      "sha256": "732e219cefaf478320169746c1090d21d607eb437cbb3e8229f49a995c8be3d0"
+    },
+    "electron_gem_confiscation_20261108/run_2/LAUNCH.json": {
+      "bytes": 537,
+      "sha256": "903541c5a5395f5d56104f2b6787e5899a15068ded67fe75b4cd8b3d8a2d7bf4"
+    },
+    "electron_gem_confiscation_20261108/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 283226,
+      "sha256": "c0a5b15ea25346a41c969a18244ffa1855390fb414317a72ff4f48bfc3b7a9c2"
+    },
+    "electron_gem_confiscation_20261108/run_2/PROCESS.json": {
+      "bytes": 611,
+      "sha256": "7ef920476c1d956a2f3541eaa728426dd25357cfa0b6353c186c4cf45cbf6341"
+    },
+    "electron_gem_confiscation_20261108/run_2/SOURCE_DELTA.json": {
+      "bytes": 1638,
+      "sha256": "22716d1f4a56cbe360713a8d59f95879bbfe4cdff59febac95aa16bf5fa1637f"
+    },
+    "electron_gem_confiscation_20261108/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 24572,
+      "sha256": "d4c424d64665134a6740699e27a76c0dd51e87cec3cac3aae45af8925050e819"
+    },
+    "electron_gem_confiscation_20261108/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4576473,
+      "sha256": "d08421c3d32fd5f07e583b10e64a85b56ef39b596944fc0023ffaa617d05f93a"
+    },
+    "electron_gem_confiscation_20261108/run_2/data/gemmed_donor.native_save.json": {
+      "bytes": 60726,
+      "sha256": "0ae5c802ad322db7d0981f0cff930a2acf7d9cc967774610460532ae48c98edc"
+    },
+    "electron_gem_confiscation_20261108/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 34379,
+      "sha256": "0bc380b846a499d20dc855b969a28ba89cf99e4c691cf469d5a795b036f68844"
+    },
+    "electron_gem_confiscation_20261108/run_2/data/report.json": {
+      "bytes": 1595628,
+      "sha256": "e458259df340ea4e277d8b41b4162afe8517f9b0239cf36995f3ed9f25399a2e"
+    },
+    "electron_gem_confiscation_20261108/run_2/data/terminal.native_save.json": {
+      "bytes": 75664,
+      "sha256": "ebe64b96cd08f99e35abc4578b8a97b902de921fb6f3f5e182325be88f7f9a6a"
+    },
+    "electron_gem_confiscation_20261108/run_2/gate_executed.gd": {
+      "bytes": 20582,
+      "sha256": "c48159e2415616aefc826e72512dafd925ed5113970e10e76c74f1a864c565e0"
+    },
+    "electron_gem_confiscation_20261108/run_2/native.log": {
+      "bytes": 366,
+      "sha256": "08db2d0c66af121c8325c1a09b263c05acf130db044cf696807666065ad6763e"
+    },
+    "electron_gem_confiscation_20261108/seal.py": {
+      "bytes": 4647,
+      "sha256": "33b1572e6cae367d9a5b214ab7255423f46f93c3919ffa632a461503c55f4f3e"
+    },
+    "electron_gem_confiscation_20261108/update_runtime.py": {
+      "bytes": 751,
+      "sha256": "df60d2c937d4676775c9ba01fe6886886d09158bc3fc219e233775c6b9454a26"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_gem_confiscation_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "48cce65802ddbfb1b86af355214a84ffca4692bc4757ecdfc71f24dd3734e46a"
+    },
+    {
+      "name": "electron_gem_confiscation_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "f0a4edd1ad43a7456fafc3f2a3ab98f1ed43eb61477ee5752a1af6f2231037ce"
+    },
+    {
+      "name": "electron_gem_confiscation_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "d7ee45c1f4d6ab38d7cbf88c78265f2efd9a1a22fb9711756f9c3e01decd2b65"
+    },
+    {
+      "name": "electron_gem_confiscation_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "d601585b45bb484517b407d1bd9ae161c134dd2d0408c4dda041957c9f01b93b"
+    },
+    {
+      "name": "electron_gem_confiscation_20261108.tar.xz.part004",
+      "bytes": 119340,
+      "sha256": "d475e20bb529f0c6b3abd130943a79af868c6a01b2068337b40746403c1b042c"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_gem_confiscation_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 504,
+      "sha256": "6cc0894d887110dd92b134bcd39dde34f90d34c1ba9136201979c884fdc1faee"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "chef_magnetic_commit": "a56f5199e2892c4f8299afeeb34c43121e97901d",
+    "chef_magnetic_source_map_sha256": "696b48e489f4ed384fd2a65bad4e56436cc35b239bf55d5eacd2a920dcdde7af"
+  },
+  "status": "Source recovery increment only. Bounded Gem Confiscation interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 52,
+    "credential_pattern_flags": []
+  }
+}
