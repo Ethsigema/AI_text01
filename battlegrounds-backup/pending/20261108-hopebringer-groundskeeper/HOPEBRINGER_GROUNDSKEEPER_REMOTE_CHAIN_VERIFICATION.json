@@ -1,0 +1,67 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_groundskeeper",
+      "commit": "3edd9d3870863a80bd4b5bebb96710ccc99c0029",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-groundskeeper",
+      "manifest_sha256": "f42a0bef6b10adcda1c47e00c0ff8f09c0c9048fa4733759d665007b9888d235",
+      "archive": "hopebringer_groundskeeper_20261108.tar.xz",
+      "archive_sha256": "bfdc4dfd995abbe0f21c28b9b53f74a0786075aab175d4d26d3a63c45e3a8743",
+      "archive_bytes": 1588648,
+      "parts_verified": 7,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_hoarder": "4f5ca51d64dfdc38e5d86c685b345a6eb45d133ab4b29c027b5df841de01394b",
+    "hopebringer_groundskeeper": "e95f0659426776c1484f3f317b5404b247e74c30b3ce747f47008bd00e48901b"
+  },
+  "hopebringer_hoarder_source_byte_equals_hopebringer_groundskeeper_base": true,
+  "baseline_files_rehashed": 27829,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "83dbd0363833b1fe538118574991f8270538387a3e23b629cd9f56d515920ff2",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_groundskeeper/BG27_000.native.xml",
+      "research/hopebringer_groundskeeper/BG28_503.native.xml",
+      "research/hopebringer_groundskeeper/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 8,
+  "new_files": 3,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 8,
+  "removed_files": 0,
+  "restored_files": 27832,
+  "restored_bytes": 1548482938,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "0d8a735b6656ec5fa63fc1a0696b1b8a14d8ea4ce40b50e2640fb6eaf5cb285f",
+  "prior_whole_chain_via_hopebringer_hoarder_to_hopebringer_groundskeeper_map_continuity": true,
+  "supporting_hopebringer_hoarder_chain_receipt_sha256": "70906205fd4767b90a5d45b399d525708ce85ea49c86cb4f796557ba75ef5c76",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Hoarder baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Groundskeeper increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T16:33:27.294279+00:00"
+}

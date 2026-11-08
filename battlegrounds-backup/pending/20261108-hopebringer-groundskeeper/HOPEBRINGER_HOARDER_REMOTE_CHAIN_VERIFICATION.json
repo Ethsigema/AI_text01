@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_hoarder",
+      "commit": "035ed1f9416e1fc2317e95dda62ca4193c425f78",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-hoarder",
+      "manifest_sha256": "5b05f723111b5e573f54b9c8c32e17245e54b8f6ca48ec41bf906f610f2842f7",
+      "archive": "hopebringer_hoarder_20261108.tar.xz",
+      "archive_sha256": "e4271a74f442eaccf807e2cc0130a915eb352f233e2f8aa6113489620606d7a9",
+      "archive_bytes": 1581820,
+      "parts_verified": 7,
+      "members_verified": 36,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_hooktail": "31ff2f5b844400593f57f8dce4423ea64ea9f9a6c9cba986b1110de20aab04a7",
+    "hopebringer_hoarder": "4f5ca51d64dfdc38e5d86c685b345a6eb45d133ab4b29c027b5df841de01394b"
+  },
+  "hopebringer_hooktail_source_byte_equals_hopebringer_hoarder_base": true,
+  "baseline_files_rehashed": 27827,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "37e9d9b46fef940eca771b9a5a04a403243c78989f8bf126e7351ed0c78e89e6",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_hoarder/BG32_820.native.xml",
+      "research/hopebringer_hoarder/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27829,
+  "restored_bytes": 1548470700,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "0d8a735b6656ec5fa63fc1a0696b1b8a14d8ea4ce40b50e2640fb6eaf5cb285f",
+  "prior_whole_chain_via_hopebringer_hooktail_to_hopebringer_hoarder_map_continuity": true,
+  "supporting_hopebringer_hooktail_chain_receipt_sha256": "7ab0cc2546c8cb6c6eb6fb6f0b8173f9fa120add91d087a73fe06507476a5c82",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Hooktail baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Hoarder increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T16:19:38.834866+00:00"
+}
