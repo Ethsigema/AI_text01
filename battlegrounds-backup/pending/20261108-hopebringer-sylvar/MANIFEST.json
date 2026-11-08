@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_sylvar_20261108.tar.xz",
+  "bytes": 1583432,
+  "sha256": "1b33f25fff556a0a6b33b1e3929822780fd340bdbbd7962cd28194f57cc2dfb4",
+  "files": {
+    "hopebringer_sylvar_20261108/BASE_MAP.json": {
+      "bytes": 4590847,
+      "sha256": "7d5e3a682dc9dcaeab6de97d84d11769cbc13996c47b3b9b0f3e47fe91ef2d1c"
+    },
+    "hopebringer_sylvar_20261108/EXPECTED_ROWS.json": {
+      "bytes": 34303,
+      "sha256": "a3d62ebec73f74b2663f337c08889ce1f1245889c1473c04554c282e03cb1c91"
+    },
+    "hopebringer_sylvar_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_sylvar_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4882,
+      "sha256": "852bd61b9dfac3c2eaedcd02986801aef4ec04ad318afef47f0d132d9bec1943"
+    },
+    "hopebringer_sylvar_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 306962,
+      "sha256": "5f92f3a033c705bd24e012a6ed322a6d997979098d4fb45e235bea87d0581fc4"
+    },
+    "hopebringer_sylvar_20261108/README.md": {
+      "bytes": 1437,
+      "sha256": "5d474c9e429efa99f87e1f5b0b7ae07546eeb4aa9ca8a3a082cafab1d9507ca5"
+    },
+    "hopebringer_sylvar_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_sylvar_20261108/SOURCE_DELTA.json": {
+      "bytes": 1284,
+      "sha256": "5f5ae4280fe0854203f03f52d8ba598e0e8498113c72ad43e3f27a92b60fa484"
+    },
+    "hopebringer_sylvar_20261108/SOURCE_MAP.json": {
+      "bytes": 4591160,
+      "sha256": "4342a26be4032b422da1599de730f3b4634ef902954cc3eea82556fbfa8df88a"
+    },
+    "hopebringer_sylvar_20261108/VALIDATION.json": {
+      "bytes": 918,
+      "sha256": "59325a175ea5520549eab40cde896664460916f582fa70b635acfe0505856c17"
+    },
+    "hopebringer_sylvar_20261108/build.py": {
+      "bytes": 3647,
+      "sha256": "f92cb5926b5eae7b3023070883f2d1d0f47dd4318d33d2d24819cda98955926c"
+    },
+    "hopebringer_sylvar_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 14640,
+      "sha256": "63640bdf6e20a42ba2a3fb6a85493c0179e8014db7e65f54820cbc998ce5389c"
+    },
+    "hopebringer_sylvar_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 53155,
+      "sha256": "8721bd724f16d69aa4f3b2c45e5bf9dfac63abdd7ad2cae4067f70a0bc5f32c4"
+    },
+    "hopebringer_sylvar_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 52577,
+      "sha256": "3497540123b52176f6b756ba8a461ddaf1d6348f818b970ee114a2af4ac8cd10"
+    },
+    "hopebringer_sylvar_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 26365,
+      "sha256": "f7fa88ecf43fbbdbf8b8ffa588aa779ef6230b0a9076804b3c1cf86f2d1c59d7"
+    },
+    "hopebringer_sylvar_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 26130,
+      "sha256": "48c688a767cd18ba114c06ac42eda92b0ba29bd2a17dd365596647e500db426a"
+    },
+    "hopebringer_sylvar_20261108/delta/research/hopebringer_sylvar/BG32_235.native.xml": {
+      "bytes": 5592,
+      "sha256": "a599f536a205f912f464f9d8e41049c35574adb7c6d7e0ea6108ca8183002787"
+    },
+    "hopebringer_sylvar_20261108/delta/research/hopebringer_sylvar/evidence.json": {
+      "bytes": 754,
+      "sha256": "152b49f793edd688b4891c26265864375856aa9b583d87fcf84d77f2506bb321"
+    },
+    "hopebringer_sylvar_20261108/gate.gd": {
+      "bytes": 18576,
+      "sha256": "edff379b51973d9ee0cc11cef0cbe64a6f4d8507dc378d38e508dff6efa64c51"
+    },
+    "hopebringer_sylvar_20261108/materialize.py": {
+      "bytes": 1685,
+      "sha256": "0259e4847123d3d03dd977062170e88c4c91c7549caf42e4aea914859703e2ed"
+    },
+    "hopebringer_sylvar_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1173,
+      "sha256": "a92a374a89bc6c49650d6492e46209dec3b1f8d3543ffa895f07952424ca3486"
+    },
+    "hopebringer_sylvar_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_sylvar_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 34303,
+      "sha256": "a3d62ebec73f74b2663f337c08889ce1f1245889c1473c04554c282e03cb1c91"
+    },
+    "hopebringer_sylvar_20261108/run_1/LAUNCH.json": {
+      "bytes": 523,
+      "sha256": "ac542c7577933a1e01d7c0b9382bd6b5c876d4327409d6ad73094953d4dc2bb7"
+    },
+    "hopebringer_sylvar_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 306962,
+      "sha256": "5f92f3a033c705bd24e012a6ed322a6d997979098d4fb45e235bea87d0581fc4"
+    },
+    "hopebringer_sylvar_20261108/run_1/PROCESS.json": {
+      "bytes": 596,
+      "sha256": "76cee4bcfe5c29fcc48aaa0fc71a8299f1af154876d61259f1e2b554d3c328bb"
+    },
+    "hopebringer_sylvar_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1284,
+      "sha256": "5f5ae4280fe0854203f03f52d8ba598e0e8498113c72ad43e3f27a92b60fa484"
+    },
+    "hopebringer_sylvar_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 15736,
+      "sha256": "cfe8d43f411aa515f8328ff445ddfe87e3a4ac2a6e57399597a677ff1420eb1a"
+    },
+    "hopebringer_sylvar_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4591160,
+      "sha256": "4342a26be4032b422da1599de730f3b4634ef902954cc3eea82556fbfa8df88a"
+    },
+    "hopebringer_sylvar_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 81878,
+      "sha256": "2adb39f51dbe8ccc0179f12d3ba37425775e8fa1570d443c8b1210802a378b33"
+    },
+    "hopebringer_sylvar_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 37913,
+      "sha256": "ad7d1d5042d53d987ce786238c436abcddad984724501b8e0e0edc7198c82ef5"
+    },
+    "hopebringer_sylvar_20261108/run_1/data/report.json": {
+      "bytes": 7121085,
+      "sha256": "b216ad2e98aa5d72d37a41d75f9bf7ce5e426f7aa598c8264abb84fa374e19f9"
+    },
+    "hopebringer_sylvar_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 756792,
+      "sha256": "add5200b913d6a17c1010f23086c60142e5a327d3583aadb3a8295417f80cccb"
+    },
+    "hopebringer_sylvar_20261108/run_1/gate_executed.gd": {
+      "bytes": 18576,
+      "sha256": "edff379b51973d9ee0cc11cef0cbe64a6f4d8507dc378d38e508dff6efa64c51"
+    },
+    "hopebringer_sylvar_20261108/run_1/native.log": {
+      "bytes": 425,
+      "sha256": "d662737a298b0c12204058262bf3a2a6221834ef685e41500062d069a38157fa"
+    },
+    "hopebringer_sylvar_20261108/seal.py": {
+      "bytes": 3942,
+      "sha256": "8095b958c4267a846aa50bdc63d1f722f985aba20d550e477e0c420bb665f39c"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_sylvar_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "b0faff9c26c05325282bdc44f038a4689b1c9e38a896b385eeebe1ec53f1180a"
+    },
+    {
+      "name": "hopebringer_sylvar_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "08cae97957192f3ec17520174af58e97404ddefe180271a7d92c97ccf9ce451f"
+    },
+    {
+      "name": "hopebringer_sylvar_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "4f16a2eaa5695d9f9e3553f9707e6a880bdf13dfec8dc1d826b32895f3020881"
+    },
+    {
+      "name": "hopebringer_sylvar_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "6bb01e6ba68de6f475ada6f3ba0c0b1fd87eb78025e380c9f564e05c405e228a"
+    },
+    {
+      "name": "hopebringer_sylvar_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "d28922f7315587d6862101338ec28860a6b3af26cdc10d98ff4703152921b94b"
+    },
+    {
+      "name": "hopebringer_sylvar_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "5295a5c7d0084f8f3c89ef7e07613f3e97469a1151f87dfcbd9598a47ec09f3a"
+    },
+    {
+      "name": "hopebringer_sylvar_20261108.tar.xz.part006",
+      "bytes": 83432,
+      "sha256": "0969bcaff344abdff88d4ba12d13a3fe4f2003751688822c950236964204aa88"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_sylvar_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 398,
+      "sha256": "6c4e8e324718d1c1de6805a205701b98fb5438acda7b8982e7b5f4b698915ee3"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_sellemental_commit": "7a128751a4c424400983a6b8fee2ae7e585c3fcb",
+    "hopebringer_sellemental_source_map_sha256": "7d5e3a682dc9dcaeab6de97d84d11769cbc13996c47b3b9b0f3e47fe91ef2d1c"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Sylvar adjacency end of turn combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
