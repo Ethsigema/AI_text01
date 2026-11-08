@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "sludge_hand",
+      "commit": "0479d2585fbd6132bbc47c16fee77e578308d76f",
+      "repository_path": "battlegrounds-backup/pending/20261108-electron-sludge-hand",
+      "manifest_sha256": "27df1c1b4045b3da3149bab87f5328bda7ec561209615b4c821e54fca6a10855",
+      "archive": "electron_sludge_hand_20261108.tar.xz",
+      "archive_sha256": "d9b490f000fd675332dcabd9ed6effa826a47d9ca379b1dfc31ae01a95ab46a9",
+      "archive_bytes": 1080420,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "corrupted_coin": "acfd9e487224daf05eb93e343f099fb26de584f3296c051a510fbb902736dce4",
+    "sludge_hand": "c17a48a665b20e1c65ed4dcd771f0d04e4d4686a12d595d3db1295d8c2a917e9"
+  },
+  "corrupted_coin_source_byte_equals_sludge_hand_base": true,
+  "baseline_files_rehashed": 27731,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "b3eb2e2b70f4735953faf3514510ff8dc5122ce3caf57bec24363c93cd1307aa",
+  "change_lists": {
+    "added": [
+      "research/electron_sludge_hand/BG36_301t.native.xml",
+      "research/electron_sludge_hand/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27733,
+  "restored_bytes": 1548153891,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "47f9232e818c42246c1932cebfdb71dce791bb42b0b82cf5beb9614655bdd5b7",
+  "prior_whole_chain_via_corrupted_coin_to_sludge_hand_map_continuity": true,
+  "supporting_corrupted_coin_chain_receipt_sha256": "f13b7832136e98f1e2b56bf46b204992d30e42a97093635d190fe04eb60a7c99",
+  "historical_baseline_provenance": "The baseline is the verified Electron Corrupted Coin baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Sludge Hand increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T04:22:23.709694+00:00"
+}
