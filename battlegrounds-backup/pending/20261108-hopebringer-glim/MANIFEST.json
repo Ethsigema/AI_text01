@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_glim_20261108.tar.xz",
+  "bytes": 1566272,
+  "sha256": "23d9b34f6db77f0bbf928ed7cd53f9b7cc80cd64586d4c889969de253103dcb7",
+  "files": {
+    "hopebringer_glim_20261108/BASE_MAP.json": {
+      "bytes": 4587515,
+      "sha256": "55bfec869fd2b4c1868b7d61028118375ae2eac626f8624b2c8ebee640e2dd80"
+    },
+    "hopebringer_glim_20261108/EXPECTED_ROWS.json": {
+      "bytes": 28647,
+      "sha256": "d10ae090ac7a180ad67f6ec6524df9289cbd46c60edb7b6e1ca344733dc8ff1d"
+    },
+    "hopebringer_glim_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_glim_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4878,
+      "sha256": "a100c3892f138504687acf64fe2b488ceb59461e0e19e6a3d62950c699cd957a"
+    },
+    "hopebringer_glim_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 301639,
+      "sha256": "507e5c030378895723fac3d126ee8c40f0ffaed011db65349c6cf4729f80b1c8"
+    },
+    "hopebringer_glim_20261108/README.md": {
+      "bytes": 1021,
+      "sha256": "5e5e348c026843b50839a99e22848da4dd7b4a4cfdfcb6d9e3dc356b3929fcde"
+    },
+    "hopebringer_glim_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_glim_20261108/SOURCE_DELTA.json": {
+      "bytes": 1272,
+      "sha256": "0f72f9899a9f1a204a16a73536d993cc3a19bd0f94338dfeb13f766d1d899b01"
+    },
+    "hopebringer_glim_20261108/SOURCE_MAP.json": {
+      "bytes": 4587824,
+      "sha256": "6317c4fa555653bb258ce726b19dbfd2881980bc082e5f406bee60921357af90"
+    },
+    "hopebringer_glim_20261108/VALIDATION.json": {
+      "bytes": 934,
+      "sha256": "673c2fd6e779ca2e967c982329b9cffa30b662a5ca499751f7f7bde8e407e28d"
+    },
+    "hopebringer_glim_20261108/build.py": {
+      "bytes": 3696,
+      "sha256": "238e8eaf44d1e26ccfdfd1a5b65a361b64f04e05ea5fb3d4c65f0c821284544a"
+    },
+    "hopebringer_glim_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 12146,
+      "sha256": "c6b0ae6255bdcf37b858cddf6dc64940308fe47e9df7e42de00c1a202c177734"
+    },
+    "hopebringer_glim_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 44024,
+      "sha256": "8fadc91ad5cef0b641b00c5290bf6cae0d7719e7f06998cd40ef5da17b9d07e9"
+    },
+    "hopebringer_glim_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 43446,
+      "sha256": "75f81cf56715a6d00d772841049bcc9c508abb9a444f88e9407265cd774c31f5"
+    },
+    "hopebringer_glim_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 23537,
+      "sha256": "67567930e9ccb846f38fdd4f17e032864575b3d19ba456d45acc8a2bd0e217cf"
+    },
+    "hopebringer_glim_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 23302,
+      "sha256": "54bdb7897f031bebd8d38fcaf2df5d9754e26be2936eda38ca57426bc82fdb3e"
+    },
+    "hopebringer_glim_20261108/delta/research/hopebringer_glim/BG29_888.native.xml": {
+      "bytes": 2450,
+      "sha256": "a98c9c4c1e0f22d8e1b4ff960aa20de19e7450ec6328c70d1c4640190ec22e57"
+    },
+    "hopebringer_glim_20261108/delta/research/hopebringer_glim/evidence.json": {
+      "bytes": 540,
+      "sha256": "ff059bbe972bc625479c37fcf3036cd15fed64751603d1e25fb245067768bf78"
+    },
+    "hopebringer_glim_20261108/gate.gd": {
+      "bytes": 19056,
+      "sha256": "e101e23643bf217fad48b78caa7338c6991b45d261583bf78a39ce96816fa652"
+    },
+    "hopebringer_glim_20261108/materialize.py": {
+      "bytes": 1669,
+      "sha256": "b5d70b90e5697e20b5d006b219598e3095f429100a04d70d8b2a2047eaa6b9fd"
+    },
+    "hopebringer_glim_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1165,
+      "sha256": "f98ab5c09a185e78610f9b560edd16cd20cb9087fef741cf96f0665045273e12"
+    },
+    "hopebringer_glim_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_glim_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 28647,
+      "sha256": "d10ae090ac7a180ad67f6ec6524df9289cbd46c60edb7b6e1ca344733dc8ff1d"
+    },
+    "hopebringer_glim_20261108/run_1/LAUNCH.json": {
+      "bytes": 519,
+      "sha256": "ad8ef8ef37f9049d3cdf8673415d56c5b6554ba918a4a444bc8f339f25e29a4d"
+    },
+    "hopebringer_glim_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 301639,
+      "sha256": "507e5c030378895723fac3d126ee8c40f0ffaed011db65349c6cf4729f80b1c8"
+    },
+    "hopebringer_glim_20261108/run_1/PROCESS.json": {
+      "bytes": 592,
+      "sha256": "9d483220b684992f6a80fc99c58e4c0f4ce38bb2871383849487e1f3d11e7516"
+    },
+    "hopebringer_glim_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1272,
+      "sha256": "0f72f9899a9f1a204a16a73536d993cc3a19bd0f94338dfeb13f766d1d899b01"
+    },
+    "hopebringer_glim_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 13180,
+      "sha256": "9dc29b5fb5b61039c8620055cfa5fab8601970425b0e2c499aadfd44190f04fc"
+    },
+    "hopebringer_glim_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4587824,
+      "sha256": "6317c4fa555653bb258ce726b19dbfd2881980bc082e5f406bee60921357af90"
+    },
+    "hopebringer_glim_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 71298,
+      "sha256": "209f7324bc97965930452a2e07a6ce3ef9779d2d79dba261abb57eeca4125e6b"
+    },
+    "hopebringer_glim_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 36731,
+      "sha256": "526f1dcbd5e152990ff230d825d7ded0605e05c7c1bde5049cbba29c8ed39a95"
+    },
+    "hopebringer_glim_20261108/run_1/data/report.json": {
+      "bytes": 6731169,
+      "sha256": "c73337f93342ad62a60233bdabf7fddbac970172455d7e1fb6e9b9d6cbca1ef1"
+    },
+    "hopebringer_glim_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 734219,
+      "sha256": "d5c94d5c4c3779002b258e53027338a1d9d4039fab00f312680a9bfe1f05f8d4"
+    },
+    "hopebringer_glim_20261108/run_1/gate_executed.gd": {
+      "bytes": 19056,
+      "sha256": "e101e23643bf217fad48b78caa7338c6991b45d261583bf78a39ce96816fa652"
+    },
+    "hopebringer_glim_20261108/run_1/native.log": {
+      "bytes": 397,
+      "sha256": "3f8f2e9838a5a59ad4daba5f4a185776f028b0993c85c54cc80a9607925f8500"
+    },
+    "hopebringer_glim_20261108/seal.py": {
+      "bytes": 4050,
+      "sha256": "7fe93b3eccbf6d81f9cc6eb8ba81c85c2309ca633910173eb9b3c931e09e65b0"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_glim_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "096ddd0e4425cca942e1f17f3a5da273136f5fe9c7c73c41c7ade8500e43262c"
+    },
+    {
+      "name": "hopebringer_glim_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "69aacf2a309b1d2eb225b9f64b8eb0497b528e33d140fa4935ab3c06cb0e1a30"
+    },
+    {
+      "name": "hopebringer_glim_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "944791625016aa18962f1a0af93ba94d1f301e7dcf66524cc0b9e7610955917b"
+    },
+    {
+      "name": "hopebringer_glim_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "877a32648cd00f75a7a12fa80c4ad6cc4b771b110012808a29c8197691f47694"
+    },
+    {
+      "name": "hopebringer_glim_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "46ed00e9c3a2d4ddea3ab126209bb5081525c714a788e0c87fa6f74194cd17fc"
+    },
+    {
+      "name": "hopebringer_glim_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "8fad84efe17e00e368e7564f61da5dff46f2838233f6c04441756378d911b12c"
+    },
+    {
+      "name": "hopebringer_glim_20261108.tar.xz.part006",
+      "bytes": 66272,
+      "sha256": "46e739ed570e0132b57ae4b5bddb48fe543f97a04171987a55179ca768eb72b3"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_glim_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 394,
+      "sha256": "467f285294b7466f25cbb940cbfd003fba2d7f79b546bbd143a47726629ccf2f"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_bat_commit": "4fbdf47d48edb978e29785565619309e78de8c2a",
+    "hopebringer_bat_source_map_sha256": "55bfec869fd2b4c1868b7d61028118375ae2eac626f8624b2c8ebee640e2dd80"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Glim Guardian Rally combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
