@@ -1,0 +1,519 @@
+{
+  "archive": "hopebringer_banshee_golden_candidate_20261109.tar.xz",
+  "bytes": 1182008,
+  "sha256": "a20b6c427a1219903df1d4a927693d3e553a337236f509408eff651318297433",
+  "files": {
+    "hopebringer_banshee_golden_20261109/BASELINE_BOUNDARY.json": {
+      "bytes": 1126,
+      "sha256": "90726f37c78772cf394a04fb7cb9f848d8ac4c402ab28fa5c43a4a838e7673ba"
+    },
+    "hopebringer_banshee_golden_20261109/BASELINE_BOUNDARY.log": {
+      "bytes": 512,
+      "sha256": "090fa8530ab7b44a77d9cfe90093f93da4636ae12ac0e45932e51b2739cd49b9"
+    },
+    "hopebringer_banshee_golden_20261109/BASE_MAP.json": {
+      "bytes": 4602320,
+      "sha256": "32cd814943a82a4ee79fb05de8a3f4d24d7f74d7b609dd6247aebcd5a4cc7449"
+    },
+    "hopebringer_banshee_golden_20261109/CHANGES.json": {
+      "bytes": 2996,
+      "sha256": "0e4ce0238a4018b342a16fa8872f961621192973e97fb4f64e45a35b4ca24676"
+    },
+    "hopebringer_banshee_golden_20261109/EXPECTED_ROWS.json": {
+      "bytes": 53099,
+      "sha256": "34400e8b47bba414d5fc655c241051136944749fb0c3107f34c14e3a666cee6c"
+    },
+    "hopebringer_banshee_golden_20261109/FAILED_FULL_SOURCE_MAP.json": {
+      "bytes": 4602820,
+      "sha256": "7ddb9bfd2e663b43689ffa3fe2b0f7be7b40eab5ee5011fdfca257f1d9e43f5d"
+    },
+    "hopebringer_banshee_golden_20261109/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_banshee_golden_20261109/INTEGRATION_SCOPE_CHECK.json": {
+      "bytes": 299,
+      "sha256": "32e87d0baa73f8f9bc8a54b84e92251744c247a015829e9e3d58bcce67efcb6b"
+    },
+    "hopebringer_banshee_golden_20261109/ISOLATED_EVENT_AUDIT.json": {
+      "bytes": 856,
+      "sha256": "8f107512cf796c4eaa3bb28c2328e7777a70a92ddb898b7d5a41b301d05169c5"
+    },
+    "hopebringer_banshee_golden_20261109/ISOLATED_FIXTURE.json": {
+      "bytes": 5186,
+      "sha256": "3cc8542ab0a1d6e75e3ffaffa14bbc0b6d839d78ea352d3e7a870d3916db42ce"
+    },
+    "hopebringer_banshee_golden_20261109/PACKAGE_MANIFEST.json": {
+      "bytes": 14952,
+      "sha256": "896d987cf9211e4c2015d77edfdcc77db375a119645f3612820f52969607b1bf"
+    },
+    "hopebringer_banshee_golden_20261109/PIN_PREFLIGHT.json": {
+      "bytes": 325579,
+      "sha256": "35f5dc2f21fab46d6d24ae0fe5df7c4d2a5a2cdd9777190a3df3f00228be8229"
+    },
+    "hopebringer_banshee_golden_20261109/PRESERVED_SOURCE_CHECK.json": {
+      "bytes": 1186,
+      "sha256": "97adcb63967313a3c4025b9e23805dd2ce6261d7207a2af1030a145ea88bcf49"
+    },
+    "hopebringer_banshee_golden_20261109/PRE_STAGED_SOURCE_MAP.json": {
+      "bytes": 4602820,
+      "sha256": "26e8cb557271561508d4db87feb4f69019599e7cdbfb2e3b384f702b65eeca16"
+    },
+    "hopebringer_banshee_golden_20261109/PROGRESS.json": {
+      "bytes": 6305,
+      "sha256": "c254908df70c2ca8765686ab35a4978dc32ea38c789825b8c54409df13ce4c8b"
+    },
+    "hopebringer_banshee_golden_20261109/README.md": {
+      "bytes": 2908,
+      "sha256": "a225155015adef0b8371aaf53d8eb4cdd083441961b91c87da9c1c4d4652a10f"
+    },
+    "hopebringer_banshee_golden_20261109/REMOVALS.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_banshee_golden_20261109/REVIEW.json": {
+      "bytes": 709,
+      "sha256": "3d29d733b07472ac7e0caaf1dadcb4ab0457957954da20aabd1e92e90211f2ef"
+    },
+    "hopebringer_banshee_golden_20261109/SECRET_SCAN.json": {
+      "bytes": 136,
+      "sha256": "820e8c303fef31ca79d9df6d9f7ce23bb902ccb861ff22d2f42a1f1125febb84"
+    },
+    "hopebringer_banshee_golden_20261109/SOURCE_DELTA.json": {
+      "bytes": 1598,
+      "sha256": "8dd4e6ced79521874b23854ced6b229833fb8f3b2d7fbffefc743acd7b355ae0"
+    },
+    "hopebringer_banshee_golden_20261109/SOURCE_MAP.json": {
+      "bytes": 4602820,
+      "sha256": "45dcd76fe50c5e2e03cea65032189b15cca35894cac08b2e704c17139b7fd6a8"
+    },
+    "hopebringer_banshee_golden_20261109/VALIDATION.json": {
+      "bytes": 5213,
+      "sha256": "a26f2d11e1b2e50970fef3496f02aeae1680e4cb2faa93baea713071cfd0a91f"
+    },
+    "hopebringer_banshee_golden_20261109/baseline_boundary.gd": {
+      "bytes": 600,
+      "sha256": "fe518a2e2d14c0f42e6ef88db9a13ee1ed608884a50104f859293918ff61a588"
+    },
+    "hopebringer_banshee_golden_20261109/build.py": {
+      "bytes": 8680,
+      "sha256": "4edfe3698e7320cca8f2f80349a17589564b853afe381bcdf795727ee4fe48e5"
+    },
+    "hopebringer_banshee_golden_20261109/check_baseline_boundary.py": {
+      "bytes": 1196,
+      "sha256": "ffa4590def6df132710378e222dbdf779c7490587b16b73a7323d5335167da07"
+    },
+    "hopebringer_banshee_golden_20261109/delta/core/hopebringer_sources.gd": {
+      "bytes": 21918,
+      "sha256": "e68785a5a36c2557ed75aea95f36cad18a5c09cb48ac2ec52c180e4e41bea3fa"
+    },
+    "hopebringer_banshee_golden_20261109/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 84144,
+      "sha256": "d9da7affce20fd1498205a635f888c8be4f072b628078579cfc77ac29f348a41"
+    },
+    "hopebringer_banshee_golden_20261109/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 83566,
+      "sha256": "318d48b6e6af701be9e290bedbbed33ab30f870e4aa7b71247da2f8e98b21d3e"
+    },
+    "hopebringer_banshee_golden_20261109/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 35763,
+      "sha256": "68a3425b7f297f3767d8b9f016715b772c16f6897e7e378b6d3c56fe0f42d87e"
+    },
+    "hopebringer_banshee_golden_20261109/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 35528,
+      "sha256": "fcdd8a2d21272c1f9f502f46d3700a78db1fd4cb8bfc4020d0fd0e5ee37b8647"
+    },
+    "hopebringer_banshee_golden_20261109/delta/research/hopebringer_banshee_golden/BG36_514.native.xml": {
+      "bytes": 3743,
+      "sha256": "203053f38d596db48057225203f565a8c2424f6b1f15948aec494b2a62faaad6"
+    },
+    "hopebringer_banshee_golden_20261109/delta/research/hopebringer_banshee_golden/BG36_514_G.native.xml": {
+      "bytes": 3695,
+      "sha256": "c0f020a18d681e803a51d7380ee0e3c1eb1d03cebca543f6ff44125bbfbb5869"
+    },
+    "hopebringer_banshee_golden_20261109/delta/research/hopebringer_banshee_golden/evidence.json": {
+      "bytes": 4341,
+      "sha256": "c346ec510d6329ea60023e603b7fbc9d6835353bc614e752b1fe592d7650d231"
+    },
+    "hopebringer_banshee_golden_20261109/gate.gd": {
+      "bytes": 20285,
+      "sha256": "4d10f47a82ddc64ec50ad839f5d4e95772152e186c4ff3bee3f98b098414a245"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_1/EXPECTED_ROWS.json": {
+      "bytes": 53225,
+      "sha256": "b4fefca1dd9f25290ea847ffddb33c62c6153d75612c41acf8f049a9ce365f9f"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_1/ISOLATED_FIXTURE.json": {
+      "bytes": 5186,
+      "sha256": "3cc8542ab0a1d6e75e3ffaffa14bbc0b6d839d78ea352d3e7a870d3916db42ce"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_1/LAUNCH.json": {
+      "bytes": 610,
+      "sha256": "9d9ce80d26da69d7b38501ea4b6d66481ae76c568bfcba6270e471cbd84d4687"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_1/MEMORY_SAMPLES.jsonl": {
+      "bytes": 4824,
+      "sha256": "fbc133626b497dc2e1682dd93589ba439c68a90d7f3fcd0feacb34a0573ac8c1"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_1/PIN_PREFLIGHT.json": {
+      "bytes": 325579,
+      "sha256": "35f5dc2f21fab46d6d24ae0fe5df7c4d2a5a2cdd9777190a3df3f00228be8229"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_1/PROCESS.json": {
+      "bytes": 773,
+      "sha256": "7b329ea292108740f7e170f63a0764812457decee065bbb781784f695eeb6187"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_1/SOURCE_DELTA.json": {
+      "bytes": 1597,
+      "sha256": "c361e838bf977f2ca6aa36259d0c3f4b077e011e966926db842496605320a7c3"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 21692,
+      "sha256": "bc66072cdf4bc76eb86b055b4ea3ca3458c5836ec70921992793d67ad8aac96a"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4602820,
+      "sha256": "26e8cb557271561508d4db87feb4f69019599e7cdbfb2e3b384f702b65eeca16"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_1/data/isolated_report.json": {
+      "bytes": 34017,
+      "sha256": "670c6a046cc71cbfa4776c9300ba0155e20d647b2fafe0785b25b8b12135bdee"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_1/gate_executed.gd": {
+      "bytes": 4541,
+      "sha256": "7a98aa36d1c744721b0a705cea412d1347e49293acb16dc6d0d0c6168b4be4b7"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_1/native.log": {
+      "bytes": 167,
+      "sha256": "c2c3a6369c88ffe711b9d2fe01dc45571731049c06bed82d051fa307a05adfcb"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_2/EXPECTED_ROWS.json": {
+      "bytes": 53099,
+      "sha256": "34400e8b47bba414d5fc655c241051136944749fb0c3107f34c14e3a666cee6c"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_2/ISOLATED_FIXTURE.json": {
+      "bytes": 5186,
+      "sha256": "3cc8542ab0a1d6e75e3ffaffa14bbc0b6d839d78ea352d3e7a870d3916db42ce"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_2/LAUNCH.json": {
+      "bytes": 610,
+      "sha256": "76f6d50c8dcce58c766f300be3b12100582e46ef33d196669dde6cb9595460ed"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_2/MEMORY_SAMPLES.jsonl": {
+      "bytes": 5264,
+      "sha256": "c3754b7bcba0650d91394920e783e3043b6ce8703146adca3c66814df5f7015d"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_2/PIN_PREFLIGHT.json": {
+      "bytes": 325579,
+      "sha256": "35f5dc2f21fab46d6d24ae0fe5df7c4d2a5a2cdd9777190a3df3f00228be8229"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_2/PROCESS.json": {
+      "bytes": 774,
+      "sha256": "4dd908ce05e7f349b97a6fa9ba5c737d87f9ad8450626767dc760c8b9c879b4a"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_2/SOURCE_DELTA.json": {
+      "bytes": 1598,
+      "sha256": "8dd4e6ced79521874b23854ced6b229833fb8f3b2d7fbffefc743acd7b355ae0"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 21632,
+      "sha256": "8930bbb991273e7328a5e4ce3597324754a1e9a84f9c5edd584b296a4a08a197"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4602820,
+      "sha256": "45dcd76fe50c5e2e03cea65032189b15cca35894cac08b2e704c17139b7fd6a8"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_2/data/isolated_report.json": {
+      "bytes": 34017,
+      "sha256": "670c6a046cc71cbfa4776c9300ba0155e20d647b2fafe0785b25b8b12135bdee"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_2/gate_executed.gd": {
+      "bytes": 4541,
+      "sha256": "7a98aa36d1c744721b0a705cea412d1347e49293acb16dc6d0d0c6168b4be4b7"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_2/native.log": {
+      "bytes": 167,
+      "sha256": "c2c3a6369c88ffe711b9d2fe01dc45571731049c06bed82d051fa307a05adfcb"
+    },
+    "hopebringer_banshee_golden_20261109/isolated_gate.gd": {
+      "bytes": 4541,
+      "sha256": "7a98aa36d1c744721b0a705cea412d1347e49293acb16dc6d0d0c6168b4be4b7"
+    },
+    "hopebringer_banshee_golden_20261109/materialize.py": {
+      "bytes": 1706,
+      "sha256": "a5ec355c5a7a13c544b08540b1a7ab1c6cd19393178d900df5380b5f7db89240"
+    },
+    "hopebringer_banshee_golden_20261109/narrow_validation_scope.py": {
+      "bytes": 3150,
+      "sha256": "ed80ad9679f36019110b8a732ada172e1822757ecaa5340f53ac0d0c8e7c13d5"
+    },
+    "hopebringer_banshee_golden_20261109/recovery_rehearsal.py": {
+      "bytes": 2124,
+      "sha256": "665b71eb68cdde03db4c6ae32d8d7a2a73a3c2fdca5c3d7a150f569676b526c9"
+    },
+    "hopebringer_banshee_golden_20261109/refresh_virtual_bindings.py": {
+      "bytes": 1177,
+      "sha256": "bfa04adf6615f3b70aef9db39d62a49b8b979f1a33674fe95a3249554f4b5fee"
+    },
+    "hopebringer_banshee_golden_20261109/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_banshee_golden_20261109/run_1/EXPECTED_ROWS.json": {
+      "bytes": 52829,
+      "sha256": "3064ffb5c975be16a379020ae42ef4a0a5689ca785f4e4b5c8757635d2cc5c2a"
+    },
+    "hopebringer_banshee_golden_20261109/run_1/LAUNCH.json": {
+      "bytes": 539,
+      "sha256": "becb750d85c8d86ca92f53c48d59dc3f16b9e25e37d314119d213636fa0cb6a8"
+    },
+    "hopebringer_banshee_golden_20261109/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 325579,
+      "sha256": "35f5dc2f21fab46d6d24ae0fe5df7c4d2a5a2cdd9777190a3df3f00228be8229"
+    },
+    "hopebringer_banshee_golden_20261109/run_1/PROCESS.json": {
+      "bytes": 614,
+      "sha256": "affd37ab42723f9203847c08b9c9cd7f974ba24ddd6b9b78c7fdfb0a9477fcd3"
+    },
+    "hopebringer_banshee_golden_20261109/run_1/SOURCE_DELTA.json": {
+      "bytes": 1496,
+      "sha256": "ed6bd97520fa6f03a090ad6b5c374715f911121d75f49b5064a6e0228bdeba58"
+    },
+    "hopebringer_banshee_golden_20261109/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 21540,
+      "sha256": "087e5e3d067ce955f6bfaa30255ec204726ed87c49ccd49f3e3dce71e59bda1f"
+    },
+    "hopebringer_banshee_golden_20261109/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4602820,
+      "sha256": "7ddb9bfd2e663b43689ffa3fe2b0f7be7b40eab5ee5011fdfca257f1d9e43f5d"
+    },
+    "hopebringer_banshee_golden_20261109/run_1/gate_executed.gd": {
+      "bytes": 20285,
+      "sha256": "4d10f47a82ddc64ec50ad839f5d4e95772152e186c4ff3bee3f98b098414a245"
+    },
+    "hopebringer_banshee_golden_20261109/run_1/native.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "hopebringer_banshee_golden_20261109/run_2/EXPECTED_ROWS.json": {
+      "bytes": 52829,
+      "sha256": "3064ffb5c975be16a379020ae42ef4a0a5689ca785f4e4b5c8757635d2cc5c2a"
+    },
+    "hopebringer_banshee_golden_20261109/run_2/LAUNCH.json": {
+      "bytes": 539,
+      "sha256": "9ef7182548ff3dcc6ad923905dd2320e684b6ccaf0fd76c333dc7ba3d6890c04"
+    },
+    "hopebringer_banshee_golden_20261109/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 325579,
+      "sha256": "35f5dc2f21fab46d6d24ae0fe5df7c4d2a5a2cdd9777190a3df3f00228be8229"
+    },
+    "hopebringer_banshee_golden_20261109/run_2/PROCESS.json": {
+      "bytes": 614,
+      "sha256": "9959f98d05b10cb1abb48df32cc18ff1924e7243e809a724fba6df4e8bb0a71f"
+    },
+    "hopebringer_banshee_golden_20261109/run_2/SOURCE_DELTA.json": {
+      "bytes": 1496,
+      "sha256": "ed6bd97520fa6f03a090ad6b5c374715f911121d75f49b5064a6e0228bdeba58"
+    },
+    "hopebringer_banshee_golden_20261109/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 21540,
+      "sha256": "087e5e3d067ce955f6bfaa30255ec204726ed87c49ccd49f3e3dce71e59bda1f"
+    },
+    "hopebringer_banshee_golden_20261109/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4602820,
+      "sha256": "7ddb9bfd2e663b43689ffa3fe2b0f7be7b40eab5ee5011fdfca257f1d9e43f5d"
+    },
+    "hopebringer_banshee_golden_20261109/run_2/gate_executed.gd": {
+      "bytes": 20285,
+      "sha256": "4d10f47a82ddc64ec50ad839f5d4e95772152e186c4ff3bee3f98b098414a245"
+    },
+    "hopebringer_banshee_golden_20261109/run_2/native.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "hopebringer_banshee_golden_20261109/run_3/EXPECTED_ROWS.json": {
+      "bytes": 52829,
+      "sha256": "3064ffb5c975be16a379020ae42ef4a0a5689ca785f4e4b5c8757635d2cc5c2a"
+    },
+    "hopebringer_banshee_golden_20261109/run_3/LAUNCH.json": {
+      "bytes": 605,
+      "sha256": "9cb2451335e2474943aafed0e9a4046a5861a416e67469bacb2f8f5d66b19149"
+    },
+    "hopebringer_banshee_golden_20261109/run_3/MEMORY_SAMPLES.jsonl": {
+      "bytes": 11000,
+      "sha256": "626b98bc1de3ba0476a33a1ecbdc66c368c4f25898bc2235e9f9eec50acd0289"
+    },
+    "hopebringer_banshee_golden_20261109/run_3/PIN_PREFLIGHT.json": {
+      "bytes": 325579,
+      "sha256": "35f5dc2f21fab46d6d24ae0fe5df7c4d2a5a2cdd9777190a3df3f00228be8229"
+    },
+    "hopebringer_banshee_golden_20261109/run_3/PROCESS.json": {
+      "bytes": 770,
+      "sha256": "3664f55e4a70f2f9bc45a713193bd6198c2b808a93df831e66173b2942873c5b"
+    },
+    "hopebringer_banshee_golden_20261109/run_3/SOURCE_DELTA.json": {
+      "bytes": 1496,
+      "sha256": "ed6bd97520fa6f03a090ad6b5c374715f911121d75f49b5064a6e0228bdeba58"
+    },
+    "hopebringer_banshee_golden_20261109/run_3/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 21540,
+      "sha256": "087e5e3d067ce955f6bfaa30255ec204726ed87c49ccd49f3e3dce71e59bda1f"
+    },
+    "hopebringer_banshee_golden_20261109/run_3/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4602820,
+      "sha256": "7ddb9bfd2e663b43689ffa3fe2b0f7be7b40eab5ee5011fdfca257f1d9e43f5d"
+    },
+    "hopebringer_banshee_golden_20261109/run_3/gate_executed.gd": {
+      "bytes": 20285,
+      "sha256": "4d10f47a82ddc64ec50ad839f5d4e95772152e186c4ff3bee3f98b098414a245"
+    },
+    "hopebringer_banshee_golden_20261109/run_3/native.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "hopebringer_banshee_golden_20261109/run_4/EXPECTED_ROWS.json": {
+      "bytes": 53099,
+      "sha256": "34400e8b47bba414d5fc655c241051136944749fb0c3107f34c14e3a666cee6c"
+    },
+    "hopebringer_banshee_golden_20261109/run_4/LAUNCH.json": {
+      "bytes": 605,
+      "sha256": "84e8426e39c3ffbc4487fb90604a1f9ccc2b3823100402d6905ff0bb9ae615d6"
+    },
+    "hopebringer_banshee_golden_20261109/run_4/MEMORY_SAMPLES.jsonl": {
+      "bytes": 13860,
+      "sha256": "60a02c400682ab0b54efa2f709b07c218b142d7e1e31c6c04488d4a0bd72a740"
+    },
+    "hopebringer_banshee_golden_20261109/run_4/PIN_PREFLIGHT.json": {
+      "bytes": 325579,
+      "sha256": "35f5dc2f21fab46d6d24ae0fe5df7c4d2a5a2cdd9777190a3df3f00228be8229"
+    },
+    "hopebringer_banshee_golden_20261109/run_4/PROCESS.json": {
+      "bytes": 768,
+      "sha256": "82d9fee6da6daead3ca2db0fcc0fa1a434a6b3a0081f1e561b830fb455962c83"
+    },
+    "hopebringer_banshee_golden_20261109/run_4/SOURCE_DELTA.json": {
+      "bytes": 1598,
+      "sha256": "8dd4e6ced79521874b23854ced6b229833fb8f3b2d7fbffefc743acd7b355ae0"
+    },
+    "hopebringer_banshee_golden_20261109/run_4/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 21632,
+      "sha256": "8930bbb991273e7328a5e4ce3597324754a1e9a84f9c5edd584b296a4a08a197"
+    },
+    "hopebringer_banshee_golden_20261109/run_4/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4602820,
+      "sha256": "45dcd76fe50c5e2e03cea65032189b15cca35894cac08b2e704c17139b7fd6a8"
+    },
+    "hopebringer_banshee_golden_20261109/run_4/gate_executed.gd": {
+      "bytes": 20541,
+      "sha256": "b3893ef4a95e729fc6342c441e5f5a6d80afb5fc47688c6ec49fb604520ae8e9"
+    },
+    "hopebringer_banshee_golden_20261109/run_4/native.log": {
+      "bytes": 174,
+      "sha256": "9f6dfc66787709d8a054d67d6f75b7160d4e26de94114e80a1baf44370c339c3"
+    },
+    "hopebringer_banshee_golden_20261109/run_isolated.py": {
+      "bytes": 2818,
+      "sha256": "55540830dbf27d24c44998057558a598241cd36bcfb038ff78d4c8cf0cf62ef9"
+    },
+    "hopebringer_banshee_golden_20261109/run_low_concurrency.py": {
+      "bytes": 2780,
+      "sha256": "7a633ff6e3acd7ab60c0188cb74b0f241d5ac82bcaa0dfc92e09aca3cadbc775"
+    },
+    "hopebringer_banshee_golden_20261109/run_staged.py": {
+      "bytes": 2787,
+      "sha256": "c46910cb038ef38d22e3ce4a20f9f1665cb27c46212eaede84290216c6a3f4f9"
+    },
+    "hopebringer_banshee_golden_20261109/seal_candidate.py": {
+      "bytes": 7792,
+      "sha256": "9dad1526cfbdc461d85d63ededa43cf3aedfd29d7ec2c9dc16f0270597eccb8f"
+    },
+    "hopebringer_banshee_golden_20261109/seal_full_acceptance_not_run.py": {
+      "bytes": 8915,
+      "sha256": "b38dbc0666d44a5c0204c1e9013ec839ab2126ec03b5c80ffc4d0815ae5cb6fb"
+    },
+    "hopebringer_banshee_golden_20261109/staged_gate.gd": {
+      "bytes": 20541,
+      "sha256": "b3893ef4a95e729fc6342c441e5f5a6d80afb5fc47688c6ec49fb604520ae8e9"
+    },
+    "hopebringer_banshee_golden_20261109/staged_validation_scope.py": {
+      "bytes": 3285,
+      "sha256": "d6a25eaaa82f8d9ae9328d9ed18557e73a7cb4e799e33d64617e0bcd12a61067"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_banshee_golden_candidate_20261109.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "232358888bf7513627599f5ee696e93f6494e28815b1dcd6c02306a5fc00eb93"
+    },
+    {
+      "name": "hopebringer_banshee_golden_candidate_20261109.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "2146437070f2d9880faf240e7177b582085ef498192be20b27bad5b8d18c7f11"
+    },
+    {
+      "name": "hopebringer_banshee_golden_candidate_20261109.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "06d4ba30f4772b7ba10fbdcf68c317805ddeb1e98537ef8df441559dd8d045d1"
+    },
+    {
+      "name": "hopebringer_banshee_golden_candidate_20261109.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "d63ae57da86e7e801b3f4739358062131ad9a3b874b20e8e84fb6974a9ddbb6c"
+    },
+    {
+      "name": "hopebringer_banshee_golden_candidate_20261109.tar.xz.part004",
+      "bytes": 182008,
+      "sha256": "6042760c84710300615093eb7f013020847fe2b4cfb0d16cd45bdab961a20166"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_banshee_golden_20261109/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 479,
+      "sha256": "bbf8a70ea6b9a201019cc8fb853559043b16b0ee668ebbe56b9f0a49630bd386"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "SHA256SUMS.txt": {
+      "bytes": 119,
+      "sha256": "e564971f12591a5d8e141cc417f797e6766a883aa19022399b2adfc511f637a2"
+    },
+    "README.md": {
+      "bytes": 3199,
+      "sha256": "b5d0d597d9bedd62143fb12a648b59de26771288c96bffd417df77c0282761cc"
+    },
+    "RECOVERY.md": {
+      "bytes": 3271,
+      "sha256": "2ee754c42f8a994033498f3b5237492b68633e70a43d8be2a50e6b076b909f54"
+    }
+  },
+  "depends_on": {
+    "archive_commit": "9cab53df735383aa7469dab71451dfcc283c3231",
+    "archive_sha256": "b5da7d7e86a59b6ae2dce39ff071feaedef80d6c10947f72cca6bd55ea418522",
+    "source_map_sha256": "32cd814943a82a4ee79fb05de8a3f4d24d7f74d7b609dd6247aebcd5a4cc7449",
+    "recovery_commit": "a71d3e4ea64dc52264a3f789a48ddae2e4a043cd",
+    "receipt_sha256": "95a9eea6be3b1e309e535aabd3936705d7f4d69a27569ab1f357a5a4dea3880d",
+    "recovery_url": "https://github.com/Ethsigema/AI_text01/blob/a71d3e4ea64dc52264a3f789a48ddae2e4a043cd/battlegrounds-backup/pending/20261109-hopebringer-summoner-golden/RECOVERY_VERIFIED.md"
+  },
+  "status": "candidate_pending_full_game_validation",
+  "promote_over_verified_baseline": false,
+  "validation_summary": {
+    "full_game_attempts_sigkill_without_gameplay_result": 4,
+    "source_and_isolated_combat_checks_passed": 20,
+    "actual_isolated_combat_resolutions": 2,
+    "full_game_validation_passed": false
+  },
+  "audit": {
+    "archive_members": 109,
+    "internal_manifest_members": 108,
+    "delta_files": 8,
+    "new_files": 3,
+    "modified_files": 5,
+    "deleted_files": 0,
+    "all_prior_backups_retained": true
+  }
+}

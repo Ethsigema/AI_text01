@@ -1,0 +1,37 @@
+# 金色障蔽女妖候选增量恢复说明
+
+状态：candidate_pending_full_game_validation。这是候选源码备份，不能替代上一已验收的金色永恒召唤者基线。完整Game加载4次SIGKILL，均没有玩法报告；独立战斗与来源契约20项检查通过、实际战斗2次。源码恢复完整不等于完整玩法验收。
+
+保留所有旧备份。源码新增3个文件、修改5个文件、删除0个文件。完整目标树为27,892个文件、1,548,713,672字节。
+
+## 固定依赖
+
+先按金色永恒召唤者固定版本恢复说明恢复基线及历史链：
+https://github.com/Ethsigema/AI_text01/blob/a71d3e4ea64dc52264a3f789a48ddae2e4a043cd/battlegrounds-backup/pending/20261109-hopebringer-summoner-golden/RECOVERY_VERIFIED.md
+
+基线归档固定位置：
+https://github.com/Ethsigema/AI_text01/tree/9cab53df735383aa7469dab71451dfcc283c3231/battlegrounds-backup/pending/20261109-hopebringer-summoner-golden
+
+基线归档SHA256：b5da7d7e86a59b6ae2dce39ff071feaedef80d6c10947f72cca6bd55ea418522。
+基线SOURCE_MAP SHA256：32cd814943a82a4ee79fb05de8a3f4d24d7f74d7b609dd6247aebcd5a4cc7449。
+基线回执SHA256：95a9eea6be3b1e309e535aabd3936705d7f4d69a27569ab1f357a5a4dea3880d。
+
+历史全链下载配方：
+https://github.com/Ethsigema/AI_text01/blob/c76196558a0f5c6ce41420b1782b95f6590ff94e/battlegrounds-backup/pending/20261108-dune-fresh-chain/RECOVERY.md
+
+## 恢复候选
+
+从本目录同一提交下载MANIFEST.json、CHANGES.json、REMOVALS.json、SHA256SUMS.txt、README.md、RECOVERY.md及全部5个分片part000至part004。按MANIFEST.json parts数组顺序拼接为hopebringer_banshee_golden_candidate_20261109.tar.xz。
+
+归档大小1,182,008字节，SHA256：a20b6c427a1219903df1d4a927693d3e553a337236f509408eff651318297433。
+解压后根目录为hopebringer_banshee_golden_20261109，名称不含candidate；候选状态由归档名及VALIDATION.json、PROGRESS.json共同声明。
+
+逐片及整包核对大小与SHA256；安全解压到新目录，拒绝绝对路径、上层跳转、链接、特殊文件和重复成员。核对外部MANIFEST.json全部109个归档成员及包内PACKAGE_MANIFEST.json的108项。内部清单本身由外部清单覆盖。
+
+严格逐文件核对基线与BASE_MAP.json。独立复制到新目录，不使用硬链接，不在基线启动Godot；覆盖delta/内8个文件，删除清单为空。结果必须精确符合SOURCE_MAP.json，不能缺失、多余或哈希不符；完成后再次完整哈希基线证明未改写。
+
+目标SOURCE_MAP SHA256：45dcd76fe50c5e2e03cea65032189b15cca35894cac08b2e704c17139b7fd6a8。
+
+包内materialize.py绑定开发目录且使用硬链接。请用本目录追加的verify_and_restore_hopebringer_banshee_golden_candidate.py及RECOVERY_VERIFIED.md安全独立恢复。已有输出和所有旧包保留，使用全新输出目录。
+
+本轮真实重新下载本次候选，历史依赖复用上一轮独立恢复的金色召唤者基线并完整重新哈希，不声称本轮重下历史全链。完整Game初始化、希望信使公开招募/出牌/结算、永久成长、原生存读档和完整命令重放仍未通过。自然金色获取/三连、多次复生、已有圣盾、满场、额外观察者、完整房间及UI未验收。
