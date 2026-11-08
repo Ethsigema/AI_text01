@@ -1,0 +1,64 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "planar_telescope",
+      "commit": "2bfd33d26a82c894ed5552d3b75f1dd7b5dd9f1a",
+      "repository_path": "battlegrounds-backup/pending/20261108-electron-planar-telescope",
+      "manifest_sha256": "e8f1fd96e81bbc999c9efa89941c28d7692492af90c31d13146ea24735755b33",
+      "archive": "electron_planar_telescope_20261108.tar.xz",
+      "archive_sha256": "46c5b8a89d88f1f6ddfa3319ee886f48fb818687789eee0bbd9332937c2613d2",
+      "archive_bytes": 1079076,
+      "parts_verified": 5,
+      "members_verified": 37,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "type_refresh": "7d11fbb5e4f8f090bfb2592444e1e773434fe1a3ed08f4d6b3e90ad6a8c2036f",
+    "planar_telescope": "8924681eebd90ccafc2b0ab1c9e6dac974a5a947936a3a7f12750e22d0464a2d"
+  },
+  "type_refresh_source_byte_equals_planar_telescope_base": true,
+  "baseline_files_rehashed": 27717,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "cacf9182bafa99099aac19d19629307f1be33885819f23fa77b3e831b78e1be2",
+  "change_lists": {
+    "added": [
+      "research/electron_planar_telescope/BG28_521.native.xml",
+      "research/electron_planar_telescope/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "removed_files": 0,
+  "restored_files": 27719,
+  "restored_bytes": 1548105700,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "47f9232e818c42246c1932cebfdb71dce791bb42b0b82cf5beb9614655bdd5b7",
+  "prior_whole_chain_via_type_refresh_to_planar_telescope_map_continuity": true,
+  "supporting_type_refresh_chain_receipt_sha256": "f8d1a9a90d2671c7165a074cdd1e2e25c8e636050bdc9e89d98b4b11b68c5ec2",
+  "historical_baseline_provenance": "The baseline is the verified Electron Type Refresh baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Planar Telescope increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T02:34:07.691908+00:00"
+}
