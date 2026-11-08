@@ -1,0 +1,20 @@
+{
+  "added": [
+    "research/hopebringer_summoner_golden/BG25_008.native.xml",
+    "research/hopebringer_summoner_golden/BG25_008_G.native.xml",
+    "research/hopebringer_summoner_golden/BG25_009.native.xml",
+    "research/hopebringer_summoner_golden/BG25_009_G.native.xml",
+    "research/hopebringer_summoner_golden/evidence.json",
+    "research/hopebringer_summoner_golden/expected_compiled.json"
+  ],
+  "modified": [
+    "core/hopebringer_sources.gd",
+    "core/knight_summon_sources.gd",
+    "core/patch_3702_hopebringer_golden_sources.gd",
+    "core/patch_3702_hopebringer_sources.gd",
+    "data/catalog.json",
+    "data/patch_3702_hopebringer_golden_overlay.json",
+    "data/patch_3702_hopebringer_overlay.json"
+  ],
+  "removed": []
+}

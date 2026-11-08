@@ -1,0 +1,410 @@
+{
+  "archive": "hopebringer_summoner_golden_20261109.tar.xz",
+  "bytes": 3686500,
+  "sha256": "b5da7d7e86a59b6ae2dce39ff071feaedef80d6c10947f72cca6bd55ea418522",
+  "files": {
+    "hopebringer_summoner_golden_20261109/BASELINE_BOUNDARY.json": {
+      "bytes": 1106,
+      "sha256": "c49e9a477701b0d2da281a4b3e2226a8b2f38296992369f670c4fd3ecd121de8"
+    },
+    "hopebringer_summoner_golden_20261109/BASELINE_BOUNDARY.log": {
+      "bytes": 501,
+      "sha256": "c3de2be47c61cc2f7e5f96f6df04c8c1f1d7dc65ab2435ee47d52ee9e31eb6bb"
+    },
+    "hopebringer_summoner_golden_20261109/BASE_MAP.json": {
+      "bytes": 4601304,
+      "sha256": "84b6a30eb6f82121013e45cd75faab7492803b57efba48fe404a25a5c3c022a2"
+    },
+    "hopebringer_summoner_golden_20261109/CHANGES.json": {
+      "bytes": 4519,
+      "sha256": "4846f668793160fda47c182ecbc2fa93dc347ed548ff8177ab986a28c7fe8fa0"
+    },
+    "hopebringer_summoner_golden_20261109/COMBAT_EVENT_AUDIT.json": {
+      "bytes": 1458,
+      "sha256": "b57e2af2ac6a55170905ccf2625566b3b5da03e0a8d58a069974a903db4c4cc5"
+    },
+    "hopebringer_summoner_golden_20261109/EXPECTED_ROWS.json": {
+      "bytes": 52195,
+      "sha256": "8b39c5586fe6f8221ee7847865f8a4e30e7ceb89a6295c2f46f9bd2600953e2c"
+    },
+    "hopebringer_summoner_golden_20261109/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_summoner_golden_20261109/INTEGRATION_SCOPE_CHECK.json": {
+      "bytes": 281,
+      "sha256": "4818e120d1561a90e1f5089fc5cfcab1255c0ea0f712afcebfa4ef0d25bfc311"
+    },
+    "hopebringer_summoner_golden_20261109/PACKAGE_MANIFEST.json": {
+      "bytes": 9922,
+      "sha256": "f1cf522062ee64d2564ad0ac877bbb6663f9bb68423756f5e10793c456cb569c"
+    },
+    "hopebringer_summoner_golden_20261109/PIN_PREFLIGHT.json": {
+      "bytes": 324774,
+      "sha256": "b28cb467c4351477b550d0b552d791681e3fc1683ea36f211c151ad62548a1e9"
+    },
+    "hopebringer_summoner_golden_20261109/PROGRESS.json": {
+      "bytes": 3586,
+      "sha256": "d54a1ed26c5f9de93bb3a202155c3499e63cb5ac8a920c7fc98d1159a11d0a14"
+    },
+    "hopebringer_summoner_golden_20261109/RAW_PROVENANCE_CHECK.json": {
+      "bytes": 776,
+      "sha256": "0c239c1dff34021f44c46ed4963f6368234a25ec2522f80c59e577e0ee5666d9"
+    },
+    "hopebringer_summoner_golden_20261109/README.md": {
+      "bytes": 2508,
+      "sha256": "b124e65ecba990dd7e46d1962b3785761f2ca4f6da63d19584fdf74f46e4a94d"
+    },
+    "hopebringer_summoner_golden_20261109/REMOVALS.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_summoner_golden_20261109/REVIEW.json": {
+      "bytes": 460,
+      "sha256": "af94dbaed1fd5a0be589f8216730157d84dc79ecf5cc46ca69dfd9a17ec2622d"
+    },
+    "hopebringer_summoner_golden_20261109/SECRET_SCAN.json": {
+      "bytes": 149,
+      "sha256": "a4f70d27b15b5897fd47f506828025caf258a37d97bd1873f369883638737920"
+    },
+    "hopebringer_summoner_golden_20261109/SOURCE_CONTRACT.json": {
+      "bytes": 1560,
+      "sha256": "c5455caa0ee4f0e7b9f2f9b4f78575fdee3180575d8df1df3700932991600de8"
+    },
+    "hopebringer_summoner_golden_20261109/SOURCE_CONTRACT.log": {
+      "bytes": 876,
+      "sha256": "5e6ff01db7ad8dc3a4730a23db74d1b5577219c5f0d30890e4dd536a4fdb9fa5"
+    },
+    "hopebringer_summoner_golden_20261109/SOURCE_DELTA.json": {
+      "bytes": 2344,
+      "sha256": "b4321af75fbc877709d91836a3f079be7109e0b32e2309873b11aaebdc4a597d"
+    },
+    "hopebringer_summoner_golden_20261109/SOURCE_MAP.json": {
+      "bytes": 4602320,
+      "sha256": "32cd814943a82a4ee79fb05de8a3f4d24d7f74d7b609dd6247aebcd5a4cc7449"
+    },
+    "hopebringer_summoner_golden_20261109/VALIDATION.json": {
+      "bytes": 2403,
+      "sha256": "0b87347a8422a18f0106e1d0b598debb91acf35c8fbf23bb6410e62c71f7be50"
+    },
+    "hopebringer_summoner_golden_20261109/baseline_boundary.gd": {
+      "bytes": 589,
+      "sha256": "18d6635c05da7390598407854c003d2cf5326be98344235c1eec02fb1fda9342"
+    },
+    "hopebringer_summoner_golden_20261109/build.py": {
+      "bytes": 11150,
+      "sha256": "4c6b625007e635fdb8bcee627acb4bdf2737e0421d12aa8de05495b80a1167dc"
+    },
+    "hopebringer_summoner_golden_20261109/build_failures/NOTE.json": {
+      "bytes": 512,
+      "sha256": "911622bb868b0af99ff2eabdf49cd1d7d5064353c460e1c17f485f7fd0649fc1"
+    },
+    "hopebringer_summoner_golden_20261109/build_failures/hopebringer_summoner_golden_20261109_build_source_assert_failed_2_build.py": {
+      "bytes": 8825,
+      "sha256": "3f217d102d2f4843094cd1e4941f4a5638fdc6769abc95b2cbe6514151322fc4"
+    },
+    "hopebringer_summoner_golden_20261109/build_failures/hopebringer_summoner_golden_20261109_build_source_assert_failed_build.py": {
+      "bytes": 8765,
+      "sha256": "4381a93ede4130d0555aca0e05eab13f479280af853d03e3b831ce0b307c0fe9"
+    },
+    "hopebringer_summoner_golden_20261109/check_baseline_boundary.py": {
+      "bytes": 1194,
+      "sha256": "3185fc92cf6fe55630c0d2ef1dc15fae72fa29f234c989b3c7300abc08f8bee5"
+    },
+    "hopebringer_summoner_golden_20261109/check_source_contract.py": {
+      "bytes": 895,
+      "sha256": "60d9ebb9dc1c9145088fc983c2aa4e4d4c81db65a7b2d395d077dd775af635ea"
+    },
+    "hopebringer_summoner_golden_20261109/delta/core/hopebringer_sources.gd": {
+      "bytes": 21701,
+      "sha256": "1f6df2abd968bdebd86d82f0fcd3e998b4eb7ecbf32bb281101bbde4f70f4b58"
+    },
+    "hopebringer_summoner_golden_20261109/delta/core/knight_summon_sources.gd": {
+      "bytes": 46987,
+      "sha256": "eb8e0ead04a30f64d648a9c2df78a3207c4d76bb87f565fc2b6a959b064facc4"
+    },
+    "hopebringer_summoner_golden_20261109/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 82699,
+      "sha256": "3476c796cf8172c0c99898387d111d076810de6fa984548b825d60926804ab89"
+    },
+    "hopebringer_summoner_golden_20261109/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 82121,
+      "sha256": "61098943dad124021766d50b3b01489b723fd4ac2e1c8f1cd9059ade643d1d0c"
+    },
+    "hopebringer_summoner_golden_20261109/delta/data/catalog.json": {
+      "bytes": 4861565,
+      "sha256": "caae174bb5ecbfdaa7ff78065c38d473908d651fd1bdb2c94c5abf83193a87b8"
+    },
+    "hopebringer_summoner_golden_20261109/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 35311,
+      "sha256": "5202c19e63da631c3036dd00c112585450ceacd7ffb28a8957678fcb91303e70"
+    },
+    "hopebringer_summoner_golden_20261109/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 35076,
+      "sha256": "a88a6a91d02b1acffe6b32859446dffb827993c57b8b5cc1019549def9b4e001"
+    },
+    "hopebringer_summoner_golden_20261109/delta/research/hopebringer_summoner_golden/BG25_008.native.xml": {
+      "bytes": 3674,
+      "sha256": "c8a5635947e60f2748b9854604139a9bb2a84348ab354e8e0ff7b2a1e08ba031"
+    },
+    "hopebringer_summoner_golden_20261109/delta/research/hopebringer_summoner_golden/BG25_008_G.native.xml": {
+      "bytes": 3693,
+      "sha256": "6bed0e4f941c76c5a8489ef8610347c39c6f12722673fab309e6440fada9c83d"
+    },
+    "hopebringer_summoner_golden_20261109/delta/research/hopebringer_summoner_golden/BG25_009.native.xml": {
+      "bytes": 3424,
+      "sha256": "3183838c488623de09c7c67a3d002cf17fa570de67ee34e9e58bc7a8202c8e5f"
+    },
+    "hopebringer_summoner_golden_20261109/delta/research/hopebringer_summoner_golden/BG25_009_G.native.xml": {
+      "bytes": 3214,
+      "sha256": "28f4d05eaad0ca7e9834efe654f1e0ce48372be7f2352f1f01f4671219a7c6de"
+    },
+    "hopebringer_summoner_golden_20261109/delta/research/hopebringer_summoner_golden/evidence.json": {
+      "bytes": 10258,
+      "sha256": "1c626f0387edc84d7dbc916fdf16d6e932e2419435051870217e02affd552941"
+    },
+    "hopebringer_summoner_golden_20261109/delta/research/hopebringer_summoner_golden/expected_compiled.json": {
+      "bytes": 1080,
+      "sha256": "5a40312859a0a7fb4f885ab39aed0a3c4fa9ed074e96fcc333a79e533a667a4f"
+    },
+    "hopebringer_summoner_golden_20261109/finalize_native_metadata.py": {
+      "bytes": 1985,
+      "sha256": "7ee665b14c84ad1ec4256a87a288ceaad18081bab820dbcec68a73ce7abb56d0"
+    },
+    "hopebringer_summoner_golden_20261109/gate.gd": {
+      "bytes": 22352,
+      "sha256": "cd2c6beda56704b9f385a6302f4d14319c7a578c13a120c6dee8dcc347fd2720"
+    },
+    "hopebringer_summoner_golden_20261109/materialize.py": {
+      "bytes": 1720,
+      "sha256": "b843d2446b4451bf94c72d1499a490d065d02dec73aa2970a33cb7ca2be68820"
+    },
+    "hopebringer_summoner_golden_20261109/recovery_rehearsal.py": {
+      "bytes": 2116,
+      "sha256": "71db4ee7ceb365538cb675fe84b0352fd230a0de5a433a69e9aadc934cc06546"
+    },
+    "hopebringer_summoner_golden_20261109/refresh_virtual_bindings.py": {
+      "bytes": 1175,
+      "sha256": "41082d9623577ff267c10f0da23493c47440cf0615275193466f9fe6023a7ec9"
+    },
+    "hopebringer_summoner_golden_20261109/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_summoner_golden_20261109/run_1/EXPECTED_ROWS.json": {
+      "bytes": 52195,
+      "sha256": "8b39c5586fe6f8221ee7847865f8a4e30e7ceb89a6295c2f46f9bd2600953e2c"
+    },
+    "hopebringer_summoner_golden_20261109/run_1/LAUNCH.json": {
+      "bytes": 541,
+      "sha256": "7af9246f7a2f984c1b3b1d59644a84b79c315b908311968a01ad948cc3072470"
+    },
+    "hopebringer_summoner_golden_20261109/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 324774,
+      "sha256": "b28cb467c4351477b550d0b552d791681e3fc1683ea36f211c151ad62548a1e9"
+    },
+    "hopebringer_summoner_golden_20261109/run_1/PROCESS.json": {
+      "bytes": 616,
+      "sha256": "5908a50ef90101982df8834acf25c46cf05efd0eeca2cf64346d76bc2a43a375"
+    },
+    "hopebringer_summoner_golden_20261109/run_1/SOURCE_DELTA.json": {
+      "bytes": 2344,
+      "sha256": "b4321af75fbc877709d91836a3f079be7109e0b32e2309873b11aaebdc4a597d"
+    },
+    "hopebringer_summoner_golden_20261109/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 541280,
+      "sha256": "b755e2e793b3c592a96e870acbcfc5059ee383a54619f95a921b27c539061d1f"
+    },
+    "hopebringer_summoner_golden_20261109/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4602320,
+      "sha256": "32cd814943a82a4ee79fb05de8a3f4d24d7f74d7b609dd6247aebcd5a4cc7449"
+    },
+    "hopebringer_summoner_golden_20261109/run_1/gate_executed.gd": {
+      "bytes": 22352,
+      "sha256": "cd2c6beda56704b9f385a6302f4d14319c7a578c13a120c6dee8dcc347fd2720"
+    },
+    "hopebringer_summoner_golden_20261109/run_1/native.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/EXPECTED_ROWS.json": {
+      "bytes": 52195,
+      "sha256": "8b39c5586fe6f8221ee7847865f8a4e30e7ceb89a6295c2f46f9bd2600953e2c"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/LAUNCH.json": {
+      "bytes": 541,
+      "sha256": "95c028de30dd0204cb72d551faaa033bcf8d5e8cb3b037e01c71956956dacdaf"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/PIN_PREFLIGHT.json": {
+      "bytes": 324774,
+      "sha256": "b28cb467c4351477b550d0b552d791681e3fc1683ea36f211c151ad62548a1e9"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/PROCESS.json": {
+      "bytes": 615,
+      "sha256": "e68beea07ab7f713f82de095836bbfee1e08ba45e07a316deef8ead683419bbd"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/SOURCE_DELTA.json": {
+      "bytes": 2344,
+      "sha256": "b4321af75fbc877709d91836a3f079be7109e0b32e2309873b11aaebdc4a597d"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 541280,
+      "sha256": "b755e2e793b3c592a96e870acbcfc5059ee383a54619f95a921b27c539061d1f"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4602320,
+      "sha256": "32cd814943a82a4ee79fb05de8a3f4d24d7f74d7b609dd6247aebcd5a4cc7449"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/data/before_combat.native_save.json": {
+      "bytes": 92398,
+      "sha256": "21312e1e23f6c8489782a387904cf488f2172416074ad602970a0e8587c43004"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/data/initial_fixture.native_save.json": {
+      "bytes": 41098,
+      "sha256": "a6bf325c65d84e7234b9b4a0473be2080b6fd2a156f614769dc0711e1d9f4e8c"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/data/report.json": {
+      "bytes": 7975237,
+      "sha256": "f0996ea2c775754fb544f820613d7abccb8f8951125680d3a4ebb460e7857091"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/data/terminal.native_save.json": {
+      "bytes": 838701,
+      "sha256": "15540b1a94f8deba21b14a2094f3fd7a8660f4ba0dac5d796fb3482533edfb39"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/gate_executed.gd": {
+      "bytes": 22352,
+      "sha256": "cd2c6beda56704b9f385a6302f4d14319c7a578c13a120c6dee8dcc347fd2720"
+    },
+    "hopebringer_summoner_golden_20261109/run_2/native.log": {
+      "bytes": 454,
+      "sha256": "4e916913f9ebe61562bff8b514fb8bf6a8d8fcd0cb899e3d3ebe61bbab363a4f"
+    },
+    "hopebringer_summoner_golden_20261109/seal.py": {
+      "bytes": 9136,
+      "sha256": "ec271b362b3037a2e2e3dea541f460a7921057f6bc60fe8bef422abc122dd493"
+    },
+    "hopebringer_summoner_golden_20261109/source_contract.gd": {
+      "bytes": 2513,
+      "sha256": "21286e52bd4a5801899f89c8eaf24b1affb33bfe88e72ac8a66dfa06ae37e8e9"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "d5c33205450da7282c32ce12b4c2641de2799e74a04ff6ad2692e647679e55b5"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "c383c0c114ab4f8926a966665a6ba64f3b25afa214797ce92fef08822a1dfea6"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "0466fd9fb92ed124a7a164957a0cf97c7436feee652576cbdac1a3563aaaf3c2"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "e00baefb8a65b2ab04a63f7ec68ee5c15fb21a2713a39fcdaa1e495e55fb95af"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "997ba95bf0005a1f7476ce1b46ca30e4cac2e264729639a82482bea6e02766cf"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "7661ef2257c5daa2fedf052e733301c4c8f048606865fa9ac49a199123b793a2"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "f95feed26f1862ad85f8a6428046ba701cbad41ca5fc5337a3bc3e32ffeeb4a0"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "7b31ab476e5cb299401340094a08be92f4ed4e68e16326377bdae91e94034dd0"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "a2bffd504f4cb826ae9a4a7fe7db0ff242fea3514133aae55c909238629ecf8c"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "7b49e4da6ff5d920cbe98777763827e414ce0a7864300e3c992669a606e1ef99"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "56ad1f11beffce368d52b47e2975d660f09221db8fbb6296202a2cf5e33d1199"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "2929af5159426a7693ee61616de38ec3c37b8142905a12e076dba40329869608"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part012",
+      "bytes": 250000,
+      "sha256": "74075f0b68c042c504ca8b3696229b1bc577a3f902c8df679a4efa916d285a33"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part013",
+      "bytes": 250000,
+      "sha256": "5ddf3f4e5c4e1b384623a0cd07d9527a879a0cc16cce8d16151b26a3e54a52f5"
+    },
+    {
+      "name": "hopebringer_summoner_golden_20261109.tar.xz.part014",
+      "bytes": 186500,
+      "sha256": "53b388a035de68fb7c1767d67396d4a50200db9cb92588583f7ef4141a8ddf3a"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_summoner_golden_20261109/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 741,
+      "sha256": "aa4f01afa41d4544685c5feda50ee2fc11478a78a15bc0e1681c8e21a475ab4a"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "SHA256SUMS.txt": {
+      "bytes": 110,
+      "sha256": "b1811ec8a62d2cd1b1a97cdd3497c02deb7c6d6fdae30c8bb2f8443147970618"
+    },
+    "README.md": {
+      "bytes": 2846,
+      "sha256": "18fe781d84243fd5e6f5eeb69b9cc221af091648c7c9f6dc2c3102906be98e30"
+    },
+    "RECOVERY.md": {
+      "bytes": 3019,
+      "sha256": "1758ca0f6b2a99f285046c8124358755d3b547df3c06e616bd9a45d8cce61d6c"
+    }
+  },
+  "depends_on": {
+    "archive_commit": "893662b9ee76a37e60695c52cbc0fb8cb09379bb",
+    "archive_sha256": "b7e400d6f2a9ffc6812029503a79765934c22f9c38368fd1dc2d7483d71771f3",
+    "source_map_sha256": "84b6a30eb6f82121013e45cd75faab7492803b57efba48fe404a25a5c3c022a2",
+    "recovery_commit": "ddae092130aa47ef311d2d616bd489e769477452",
+    "receipt_sha256": "974151e300525abebb03bf91d957e30f7798ac10634ca10f97cf7c50f53437e2",
+    "recovery_url": "https://github.com/Ethsigema/AI_text01/blob/ddae092130aa47ef311d2d616bd489e769477452/battlegrounds-backup/pending/20261109-hopebringer-tycoon-golden/RECOVERY_VERIFIED.md"
+  },
+  "status": "Exact source recovery increment. Bounded Golden Eternal Summoner native correction, Reborn and Hopebringer interoperability; not broad gameplay acceptance. Historical baseline reused.",
+  "audit": {
+    "archive_members": 71,
+    "internal_manifest_members": 70,
+    "delta_files": 13,
+    "new_files": 6,
+    "modified_files": 7,
+    "deleted_files": 0,
+    "all_prior_backups_retained": true
+  }
+}
