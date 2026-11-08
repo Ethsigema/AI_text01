@@ -1,0 +1,78 @@
+{
+  "FRESH_WHOLE_CHAIN_VERIFICATION.json": {
+    "bytes": 85347,
+    "sha256": "0d8a735b6656ec5fa63fc1a0696b1b8a14d8ea4ce40b50e2640fb6eaf5cb285f"
+  },
+  "DUNE_REMOTE_CHAIN_VERIFICATION.json": {
+    "bytes": 1815,
+    "sha256": "8d0a21b2d4020984a99775bedab369d9953d1031195032fd1f2fd69ac1c3e9b5"
+  },
+  "RECOVERY.md": {
+    "bytes": 5942,
+    "sha256": "9abc756f5560750336081019c415ccb30b32c74d6a3ef7f15aa795f628533f30"
+  },
+  "RUN_FRESH_CHAIN.sh": {
+    "bytes": 944,
+    "sha256": "1438f56d80767594532af34b6d2ac369f79d1e78620f1b75b99324fa495132d3"
+  },
+  "verify_historical_bytes.py": {
+    "bytes": 5454,
+    "sha256": "0dfbe697961ae3f6ce869132ba91853506f11584f5eeef865d24b79355592e9b"
+  },
+  "verify_fresh_increment_chain.py": {
+    "bytes": 6310,
+    "sha256": "f2b9cf2bd7cebb07d94b75a58a2fe992c0ca82af02cc5282927394dc11e42a49"
+  },
+  "create_dune_receipt.py": {
+    "bytes": 3162,
+    "sha256": "5a8a2aef8fddc4af296ba4fc81da609d12919c046168a78753a4931326c7fe7d"
+  },
+  "PINNED_INCREMENT_CHAIN.json": {
+    "bytes": 22404,
+    "sha256": "1d5ebd14185e544e1c2569fe1f98d0d900d8f447295e27d44d309913a0ec6b65"
+  },
+  "RESTORE_RESULT.json": {
+    "bytes": 16009,
+    "sha256": "8ed982c41a22255ad173a7158607a09586d91866d5c01ae37a5ed763daaf8b5a"
+  },
+  "ARCHIVE_SCANS.json": {
+    "bytes": 21948,
+    "sha256": "3b2c2cf620c0ff0b19868188b183956359b4c5d9ad41a802b9dae2b2b65a1984"
+  },
+  "GIT_FSCK.log": {
+    "bytes": 57,
+    "sha256": "097f8b716bb9c435166e0e52990cebff5a16acc6fb92ca2ff7882a9cf231ea0b"
+  },
+  "HISTORICAL.log": {
+    "bytes": 7949,
+    "sha256": "802130bce38176b5ebd1b74eecc729950d45ad08dfe2b8c8725a6a56604cd907"
+  },
+  "INCREMENTS.log": {
+    "bytes": 57881,
+    "sha256": "65124bf74b32f07488456e32193b5883ebc6863c72981198bd1893a212730fa6"
+  },
+  "FINAL_AUDIT.log": {
+    "bytes": 1815,
+    "sha256": "8d0a21b2d4020984a99775bedab369d9953d1031195032fd1f2fd69ac1c3e9b5"
+  },
+  "RUN.log": {
+    "bytes": 998,
+    "sha256": "16ed560b621a1dafb7044779ffd5f66f51bd4ce31c8a05192b2ebe5cee306fac"
+  },
+  "RESUME.log": {
+    "bytes": 2114,
+    "sha256": "33cc143d6f4146619f6e80eaeae2613147e9b5f8319cee31f63279dd5461d06f"
+  },
+  "GIT_DOWNLOAD.log": {
+    "bytes": 3648,
+    "sha256": "3f60b3228cfd5843501b3038b5476676530e5af0b925b6d2c1b04198cff7286a"
+  },
+  "DOWNLOAD_PINNED_GIT.sh": {
+    "bytes": 565,
+    "sha256": "f0ed76a24383d368c576e1813186703824ad7848d72558c892bae12e21ec843d"
+  },
+  "RESUME_AFTER_RATE_RESET.sh": {
+    "bytes": 617,
+    "sha256": "3757ed8ff8c1ad354a6db1f4b6c4c430879727dbd5e819246c245c8d1f2d5dff"
+  }
+}

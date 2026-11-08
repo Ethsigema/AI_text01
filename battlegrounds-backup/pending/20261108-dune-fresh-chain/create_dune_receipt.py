@@ -1,0 +1,15 @@
+from pathlib import Path
+import json,hashlib,tarfile,io
+r=Path(__file__).resolve().parent;H=lambda b:hashlib.sha256(b).hexdigest()
+w=r/'FRESH_WHOLE_CHAIN_VERIFICATION.json';v=json.loads(w.read_text());pinned=json.loads((r/'PINNED_INCREMENT_CHAIN.json').read_text());rows=[json.loads(s) for s in (r/'INCREMENTS.log').read_text().splitlines()]
+assert rows==v['increments'] and len(rows)==len(pinned)==114
+for p,x in zip(pinned,rows):assert p[0]==x['label'] and p[1]==x['commit'] and p[3]==x['archive_sha256'] and p[4]==x['members'] and x['fresh_download']
+h=v['historical_provenance']['historical_result'];assert h['files']==27463 and not h['missing'] and not h['mismatch'] and not h['archive_errors'];assert v['final_files']==27821 and v['final_bytes']==1548444623 and not v['fresh_full_runtime_directory_created']
+d=r/'increments/hopebringer_dune';m=json.loads((d/'MANIFEST.json').read_text());blocks=[]
+for p in m['parts']:
+ b=(d/p['name']).read_bytes();assert len(b)==p['bytes'] and H(b)==p['sha256'];blocks.append(b)
+b=b''.join(blocks);assert H(b)==m['sha256']=='e09b9a16e325b39fffdc3359543d527ff364737f247191407915b984c57ba073'
+with tarfile.open(fileobj=io.BytesIO(b)) as t:members={x.name:t.extractfile(x).read() for x in t if x.isfile()}
+prefix='hopebringer_dune_20261108/';base=members[prefix+'BASE_MAP.json'];target=members[prefix+'SOURCE_MAP.json'];assert H(base)==rows[-2]['source_map_sha256']=='4342a26be4032b422da1599de730f3b4634ef902954cc3eea82556fbfa8df88a';assert H(target)==v['final_source_map_sha256']
+receipt={'status':'PASS_FRESH_FULL_CHAIN_SOURCE_BYTES','content_commit':rows[-1]['commit'],'archive_sha256':m['sha256'],'archive_bytes':len(b),'parts_verified':len(blocks),'members_verified':len(members),'source_map_sha256':{'hopebringer_sylvar':H(base),'hopebringer_dune':H(target)},'final_files':v['final_files'],'final_bytes':v['final_bytes'],'delta_files':7,'modified_files':5,'new_files':2,'removed_files':0,'missing_files':[],'mismatched_files':[],'unexpected_files':[],'fresh_historical_baseline_downloaded':True,'fresh_increment_count':114,'fresh_increment_parts':sum(x['parts'] for x in rows),'fresh_increment_members':sum(x['members'] for x in rows),'supporting_fresh_whole_chain_receipt_sha256':H(w.read_bytes()),'historical_evidence_reused':False,'fresh_full_runtime_directory_created':False,'verification_method':'Complete source-byte hash composition from freshly downloaded original ZIP, pinned Git trees, and all 114 increments. Ordered validation rehashes this invocation’s parallel-download bytes. No prior-run archive bytes or receipts substitute for source evidence.','download_exception':'Initial API request returned HTTP 403, explicitly GitHub unauthenticated rate limit with remaining 0 and reset epoch 1794151439; zero ZIP bytes received. After waiting until the documented reset, the same official asset API supplied the original ZIP. No old ZIP bytes reused.','gameplay_test_run':False,'all_prior_backups_preserved':True,'no_deletion_performed':True,'verified_at_utc':v['verified_at_utc']}
+(r/'DUNE_REMOTE_CHAIN_VERIFICATION.json').write_text(json.dumps(receipt,indent=2)+'\n');print(json.dumps(receipt,indent=2))
