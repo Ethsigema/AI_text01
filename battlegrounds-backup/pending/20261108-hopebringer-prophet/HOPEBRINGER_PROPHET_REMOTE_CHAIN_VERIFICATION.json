@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_prophet",
+      "commit": "1b5f4754faa7d68500e950d0ac3d3f3bcbabe686",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-prophet",
+      "manifest_sha256": "9aba01c1bb33c79eff823fdb449c3160db14b9522f39af5937ae2c772c19d76e",
+      "archive": "hopebringer_prophet_20261108.tar.xz",
+      "archive_sha256": "c661b638dd4e1247b0fee0ccb88205bb5060a1ad59f47b744acbc04ab3e8433e",
+      "archive_bytes": 1590368,
+      "parts_verified": 7,
+      "members_verified": 36,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_rescue": "979a05605467202a36d51225807fa162cdd53fb1c449c1573bc5347fadd6aec2",
+    "hopebringer_prophet": "8d101d811bb61f6dfdb7ede936562fdacfb142e567d69316a1f477037f7bc190"
+  },
+  "hopebringer_rescue_source_byte_equals_hopebringer_prophet_base": true,
+  "baseline_files_rehashed": 27838,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "73f8007eb8c8f14f23682cb4ffb8c98c2d53bd512caf70046a175587fef6d7c9",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_prophet/BG31_330.native.xml",
+      "research/hopebringer_prophet/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27840,
+  "restored_bytes": 1548509804,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "0d8a735b6656ec5fa63fc1a0696b1b8a14d8ea4ce40b50e2640fb6eaf5cb285f",
+  "prior_whole_chain_via_hopebringer_rescue_to_hopebringer_prophet_map_continuity": true,
+  "supporting_hopebringer_rescue_chain_receipt_sha256": "80c51e52b66726d2158cef04b6813c8225d528397cc31d54c43d067d627731cb",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Rescue baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Prophet increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T17:16:06.082385+00:00"
+}
