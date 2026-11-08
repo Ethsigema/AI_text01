@@ -1,0 +1,84 @@
+from pathlib import Path,PurePosixPath
+import json,hashlib,urllib.request,tarfile,concurrent.futures,datetime,shutil
+root=Path(__file__).resolve().parent;workspace=root
+sha=lambda b:hashlib.sha256(b).hexdigest()
+def safe(s):
+ p=PurePosixPath(s);return bool(s)and not p.is_absolute()and'..'not in p.parts and'\\'not in s
+
+def get(url,path):
+ with urllib.request.urlopen(url,timeout=90)as r:b=r.read()
+ with path.open('xb')as f:f.write(b)
+ return b
+packages=[('hopebringer_humming','f7919f28d466cb2cf3b4ac463659937351b01777','20261108-hopebringer-humming','8e1b9fd84a1b144c551b07f633e6c2fd02d91773786389399240895522373d54',36)]
+import argparse
+parser=argparse.ArgumentParser()
+parser.add_argument('--hopebringer-banana-recovery',type=Path,required=True,help='Directory containing the verified Hopebringer Banana baseline')
+args=parser.parse_args()
+baseline_root=args.hopebringer_banana_recovery.resolve()
+receipts=[]
+for label,commit,folder,expected,count in packages:
+ d=root/label;d.mkdir();url=f'https://raw.githubusercontent.com/Ethsigema/AI_text01/{commit}/battlegrounds-backup/pending/{folder}/'
+ mb=get(url+'MANIFEST.json',d/'MANIFEST.json');m=json.loads(mb);assert m['sha256']==expected and len(m['files'])==count
+ rb=get(url+'REMOVALS.json',d/'REMOVALS.json');rm=m['companion_files']['REMOVALS.json'];assert len(rb)==rm['bytes'] and sha(rb)==rm['sha256'];removals=json.loads(rb);assert removals==m['removed_source_files']==[]
+ cb=get(url+'CHANGES.json',d/'CHANGES.json');cm=m['companion_files']['CHANGES.json'];assert len(cb)==cm['bytes'] and sha(cb)==cm['sha256'];change_manifest=json.loads(cb)
+ def part(p):
+  assert safe(p['name'])and'/'not in p['name'];b=get(url+p['name'],d/p['name']);assert len(b)==p['bytes']and sha(b)==p['sha256'];return b
+ with concurrent.futures.ThreadPoolExecutor(max_workers=4)as ex:blocks=list(ex.map(part,m['parts']))
+ b=b''.join(blocks);assert len(b)==m['bytes']and sha(b)==expected
+ assert safe(m['archive']) and '/' not in m['archive']
+ archive=d/m['archive'];archive.write_bytes(b);dest=d/'extracted';dest.mkdir();seen={}
+ with tarfile.open(archive)as t:
+  for x in t:
+   assert safe(x.name),x.name
+   if x.isdir():continue
+   assert x.isfile()and x.name not in seen,x.name
+   v=t.extractfile(x).read();assert x.name in m['files'];meta=m['files'][x.name];assert len(v)==meta['bytes']and sha(v)==meta['sha256'],x.name
+   p=dest/x.name;p.parent.mkdir(parents=True,exist_ok=True);p.write_bytes(v);seen[x.name]=meta
+ assert seen==m['files']
+ receipt={'package':label,'commit':commit,'repository_path':'battlegrounds-backup/pending/'+folder,'manifest_sha256':sha(mb),'archive':m['archive'],'archive_sha256':expected,'archive_bytes':len(b),'parts_verified':len(blocks),'members_verified':len(seen),'status':'FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED'};receipts.append(receipt)
+ (d/'REMOTE_VERIFICATION.json').write_text(json.dumps(receipt,indent=2)+'\n');print(json.dumps(receipt),flush=True)
+b=baseline_root/'restored_hopebringer_banana_runtime'
+bp=baseline_root/'hopebringer_banana/extracted/hopebringer_banana_20261108/SOURCE_MAP.json'
+e=root/'hopebringer_humming/extracted/hopebringer_humming_20261108'
+read=lambda p:json.loads(p.read_text())
+bm=read(bp);eb=read(e/'BASE_MAP.json');em=read(e/'SOURCE_MAP.json')
+assert bp.read_bytes()==(e/'BASE_MAP.json').read_bytes()
+assert sha(bp.read_bytes())=='801ee9d585dbf6b6bc51b57f89ec3dc769c644d23799867cd600db71f1791d28'
+assert sha((e/'SOURCE_MAP.json').read_bytes())=='75ab1ea4ff1dcd8e57495841c0f1e17c7ace505645eea9d0b8abd4b9f8becdc6'
+def inv(d):
+ out={}
+ for p in d.rglob('*'):
+  assert not p.is_symlink(),str(p)
+  if p.is_file():out[p.relative_to(d).as_posix()]={'bytes':p.stat().st_size,'sha256':sha(p.read_bytes())}
+ return out
+actual=inv(b);assert actual==bm
+ed=inv(e/'delta');assert ed==read(e/'SOURCE_DELTA.json')['changes']
+actual_changes={n:v for n,v in em.items() if bm.get(n)!=v}
+redundant={n:v for n,v in ed.items() if bm.get(n)==v}
+assert redundant=={}
+assert all(em.get(n)==v for n,v in redundant.items())
+assert ed=={**actual_changes,**redundant}
+assert sorted(set(bm)-set(em))==removals
+assert change_manifest['added']==sorted(set(em)-set(bm))
+assert change_manifest['modified']==sorted(n for n in set(bm)&set(em) if bm[n]!=em[n])
+assert change_manifest['removed']==removals
+assert {**{n:v for n,v in bm.items() if n not in removals},**ed}==em
+out=root/'restored_hopebringer_humming_runtime';assert not out.exists();out.mkdir();provenance={}
+for n,v in em.items():
+ assert safe(n);src=e/'delta'/n if n in ed else b/n;target=out/n;target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(src,target);provenance[n]='hopebringer_humming_remote_delta' if n in ed else 'verified_hopebringer_banana_baseline'
+assert inv(out)==em;assert inv(b)==actual
+assert all(p.stat().st_nlink==1 for p in out.rglob('*') if p.is_file())
+support=baseline_root/'HOPEBRINGER_BANANA_REMOTE_CHAIN_VERIFICATION.json'
+whole=root/'FRESH_WHOLE_CHAIN_VERIFICATION.json'
+assert sha(whole.read_bytes())=='18f89636d4c2aa8750e54178454711ccda2c153fd745d808abd5c502aeacf98d'
+wr=read(whole);prior=read(support);assert sha(support.read_bytes())=='435bd80d14d81a27e7cae4e8cbf3e8be8dc046a02c59de9c82008c3239db609a'
+assert prior['source_map_sha256']['hopebringer_banana']==sha(bp.read_bytes())
+assert prior['prior_whole_chain_via_hopebringer_amber_to_hopebringer_banana_map_continuity'] is True
+assert wr['final_source_map_sha256']=='467c0fb627a95430f5c8bee36b81e9170f8700b9860e8d3ae244840173445cf3'
+assert wr['status']=='PASS_FRESH_FULL_CHAIN_SOURCE_BYTES' and wr['final_files']==27778 and wr['final_bytes']==1548305970
+assert prior['source_map_sha256']['hopebringer_amber']=='b561cff2dc05128e28ccdd6363c9116b0275ab3c3428b48e5f4db9979559ffc7'
+assert prior['supporting_prior_fresh_whole_chain_receipt_sha256']==sha(whole.read_bytes())
+receipt={'status':'PASS_EXACT_SOURCE_ONLY','remote_packages':receipts,'source_map_sha256':{'hopebringer_banana':sha(bp.read_bytes()),'hopebringer_humming':sha((e/'SOURCE_MAP.json').read_bytes())},'hopebringer_banana_source_byte_equals_hopebringer_humming_base':True,'baseline_files_rehashed':len(bm),'baseline_unchanged_after_restore':True,'changes_companion_verified':True,'changes_companion_sha256':sha(cb),'change_lists':change_manifest,'removals_companion_verified':True,'removals_companion_sha256':sha(rb),'removed_source_files':removals,'delta_files':len(ed),'new_files':len(set(em)-set(bm)),'modified_files':len(set(actual_changes)&set(bm)),'redundant_unchanged_delta_files':sorted(redundant),'actual_changed_files':len(actual_changes),'removed_files':len(set(bm)-set(em)),'restored_files':len(em),'restored_bytes':sum(v['bytes'] for v in em.values()),'missing_files':[],'mismatched_files':[],'unexpected_files':[],'independent_copy_no_hardlinks':True,'historical_baseline_freshly_downloaded_by_this_helper':False,'supporting_prior_fresh_whole_chain_receipt_sha256':sha(whole.read_bytes()),'prior_whole_chain_via_hopebringer_banana_to_hopebringer_humming_map_continuity':True,'supporting_hopebringer_banana_chain_receipt_sha256':sha(support.read_bytes()) if support.exists() else None,'historical_baseline_provenance':'The baseline is the verified Hopebringer Banana baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Humming increment and rehashes every supplied baseline file.','implementation_scope':'Source-byte verification only; Full gameplay acceptance is not claimed.','gameplay_test_run':False,'lost_november6_work_recovered':False,'all_prior_backups_preserved':True,'no_deletion_performed':True,'verified_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat()}
+(root/'HOPEBRINGER_HUMMING_REMOTE_CHAIN_VERIFICATION.json').write_text(json.dumps(receipt,indent=2)+'\n')
+(root/'RESTORE_PROVENANCE.json').write_text(json.dumps(provenance,indent=2)+'\n')
+print(json.dumps(receipt),flush=True)
