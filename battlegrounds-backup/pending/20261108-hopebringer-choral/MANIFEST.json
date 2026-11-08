@@ -1,0 +1,209 @@
+{
+  "archive": "hopebringer_choral_20261108.tar.xz",
+  "bytes": 1592864,
+  "sha256": "77fb35c87ee9cad8038ced9012c8798b43d4a53ebfa9e528d3569e0333678bd4",
+  "files": {
+    "hopebringer_choral_20261108/BASE_MAP.json": {
+      "bytes": 4595114,
+      "sha256": "79affdba332bb0ab59d6cfc4a56a86b2b8a08ae42e2e2efe860db26a0d81bad7"
+    },
+    "hopebringer_choral_20261108/EXPECTED_ROWS.json": {
+      "bytes": 41021,
+      "sha256": "e45886b6c740625235d6a6a13a455f4a2ae2d91bf74e728759e2a4e2dacd9120"
+    },
+    "hopebringer_choral_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_choral_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 4882,
+      "sha256": "cb7b5466309b5f1ea2b4562a18e68b462e006ad9a2a188517ac62dbd784454ce"
+    },
+    "hopebringer_choral_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 313757,
+      "sha256": "93f167fee23a071c3b0c57cd74e55177a0616fe3bed3f93c0d10cad1e5e89767"
+    },
+    "hopebringer_choral_20261108/README.md": {
+      "bytes": 1052,
+      "sha256": "354cc566e381a7f9f1c4222b51d3eade6ca218df118a08d551ff100c5c103b86"
+    },
+    "hopebringer_choral_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "c0c822a1a5a3c294c7c13eb8a3cb6bd68b643b7208d8751cc64aa9ac25989d4b"
+    },
+    "hopebringer_choral_20261108/SOURCE_DELTA.json": {
+      "bytes": 1278,
+      "sha256": "522398a2b9f5b967f9ccb37878c4c5ab378a31bdcd1cd655a954b788f7b84458"
+    },
+    "hopebringer_choral_20261108/SOURCE_MAP.json": {
+      "bytes": 4595427,
+      "sha256": "514c88f919c33e4b533233745a36ff0521a85848eebc27e9e05d0d1012d15cd1"
+    },
+    "hopebringer_choral_20261108/VALIDATION.json": {
+      "bytes": 910,
+      "sha256": "22b9902161b0bb90376d9a4c15ef4b13e190fb5680c73a52eda0ecc89d0cf08a"
+    },
+    "hopebringer_choral_20261108/build.py": {
+      "bytes": 3615,
+      "sha256": "aedbfab37e0ad2c40744d20d35dbc99c998280d22599bc6d6f87adaabf3c1027"
+    },
+    "hopebringer_choral_20261108/delta/core/hopebringer_sources.gd": {
+      "bytes": 17247,
+      "sha256": "794d69b1c5afdc0b1ab352a1664cfa4f05ce9e4d0e25884a4b857287d42184b1"
+    },
+    "hopebringer_choral_20261108/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 64292,
+      "sha256": "3f5c6776bd572e18bcdc71fa030cf96e946c87475e5d359159bddd6d84815787"
+    },
+    "hopebringer_choral_20261108/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 63714,
+      "sha256": "7085a7a8ca8482db28ff6e990918202666faff28cb77494e991b113446783061"
+    },
+    "hopebringer_choral_20261108/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 29724,
+      "sha256": "0b8449248ed2479f463a1e59a3d42d859cacd13ff6d99ae1ff848539948d4089"
+    },
+    "hopebringer_choral_20261108/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 29489,
+      "sha256": "895925fce686de6a4c490c68650253d2f5615fe93ce364c957a84d2710b62c96"
+    },
+    "hopebringer_choral_20261108/delta/research/hopebringer_choral/BG26_354.native.xml": {
+      "bytes": 3244,
+      "sha256": "27521b45fd13c72752821a0bf9ba6c11634cee74dcc2a0b8a4c50a2e29ab0131"
+    },
+    "hopebringer_choral_20261108/delta/research/hopebringer_choral/evidence.json": {
+      "bytes": 549,
+      "sha256": "c7d1bd90bb768616a40c9e56de5b6a78da6d2e29902ee214049d6dd423012580"
+    },
+    "hopebringer_choral_20261108/gate.gd": {
+      "bytes": 19206,
+      "sha256": "bd66f645ea4a065046c3e12b561de49594e2128b1bea05812fe52f7cb8f22aef"
+    },
+    "hopebringer_choral_20261108/materialize.py": {
+      "bytes": 1673,
+      "sha256": "6331c4e08a1d95d4bd8dfeb8eb7582b8071ed9b1ac3beef30ec9aa27f85c3ce6"
+    },
+    "hopebringer_choral_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1167,
+      "sha256": "59ab63b1ac60083a84592902863c2ac8a47d59e93d497ec5814b9b7c386f9dc2"
+    },
+    "hopebringer_choral_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_choral_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 41021,
+      "sha256": "e45886b6c740625235d6a6a13a455f4a2ae2d91bf74e728759e2a4e2dacd9120"
+    },
+    "hopebringer_choral_20261108/run_1/LAUNCH.json": {
+      "bytes": 523,
+      "sha256": "67ab6d5b6e87b713f52156ab0b437119eb0e9e91cea7055319f3e274905b176d"
+    },
+    "hopebringer_choral_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 313757,
+      "sha256": "93f167fee23a071c3b0c57cd74e55177a0616fe3bed3f93c0d10cad1e5e89767"
+    },
+    "hopebringer_choral_20261108/run_1/PROCESS.json": {
+      "bytes": 597,
+      "sha256": "0a87cfdabbf094be9c1aa1d21437330e7cde307411ccd966da0da68efd3c14f5"
+    },
+    "hopebringer_choral_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1278,
+      "sha256": "522398a2b9f5b967f9ccb37878c4c5ab378a31bdcd1cd655a954b788f7b84458"
+    },
+    "hopebringer_choral_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 17464,
+      "sha256": "a4c7c56e1e1af63e2bf98b216a34502aad631117055873ef1b1862a92db0282e"
+    },
+    "hopebringer_choral_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4595427,
+      "sha256": "514c88f919c33e4b533233745a36ff0521a85848eebc27e9e05d0d1012d15cd1"
+    },
+    "hopebringer_choral_20261108/run_1/data/before_combat.native_save.json": {
+      "bytes": 76114,
+      "sha256": "47e24cc329f781c0f9306a631cf7dea13e3eb36dd492760f4bac74c48d9ea938"
+    },
+    "hopebringer_choral_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 41763,
+      "sha256": "a44c09896f7e3f5fd0627db385a67a61439c799243756fb8861d376c6c7e5faa"
+    },
+    "hopebringer_choral_20261108/run_1/data/report.json": {
+      "bytes": 7102921,
+      "sha256": "476bf29c2ef322637332827e8ac41a24aacab4eb30575a9ef63ecf68ce907d37"
+    },
+    "hopebringer_choral_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 768825,
+      "sha256": "caf32f1f19b69d51cd1eb54ac9de694bc0b47b9784ae769bf7b8b6277675e922"
+    },
+    "hopebringer_choral_20261108/run_1/gate_executed.gd": {
+      "bytes": 19206,
+      "sha256": "bd66f645ea4a065046c3e12b561de49594e2128b1bea05812fe52f7cb8f22aef"
+    },
+    "hopebringer_choral_20261108/run_1/native.log": {
+      "bytes": 397,
+      "sha256": "11b8c4193b971852e4b4c7aa1c29995f3da4e1e632c25db02def3eaa43aac867"
+    },
+    "hopebringer_choral_20261108/seal.py": {
+      "bytes": 3927,
+      "sha256": "5de8dc6a3428f26ef63e6b3e1dbb203af91bbaa7b21ef8f6e31027d3309a3976"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_choral_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "fc92fcac927f15c27b87f06168236262a13800eea89793dea4984563f20200fc"
+    },
+    {
+      "name": "hopebringer_choral_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "194348ec3b8e9759b49a027456a3b3492540cdb0282cfddcc84e576b03f1ee12"
+    },
+    {
+      "name": "hopebringer_choral_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "61c418938ffdeaf9393f599a891dc3dc184b59702884021a2d93dfc350823a8b"
+    },
+    {
+      "name": "hopebringer_choral_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "bd736190bf83a86b7d82c57bdd2dacc7473782c00fabfa00dd6a212af0c3bdf2"
+    },
+    {
+      "name": "hopebringer_choral_20261108.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "df7b95256c9b581286fecbd5a1ef95376ebc01dcc37dcf97064f1c0258013965"
+    },
+    {
+      "name": "hopebringer_choral_20261108.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "887dd822b455987160d0eff75a7cb652e2aa031061c019b11bc64aa48b873287"
+    },
+    {
+      "name": "hopebringer_choral_20261108.tar.xz.part006",
+      "bytes": 92864,
+      "sha256": "d68f01231f2dd0d73f9c4b49a7aaa3f19b765e7e80a4f0ab23d80ac67a464996"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_choral_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 398,
+      "sha256": "c5a93cd422360c0195b505bddc04307d3510f0fa48314b65e3652e645d823e01"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_sushi_commit": "4008acad359b6a6fb8143de0a2489490d086bc4a",
+    "hopebringer_sushi_source_map_sha256": "79affdba332bb0ab59d6cfc4a56a86b2b8a08ae42e2e2efe860db26a0d81bad7"
+  },
+  "status": "Source recovery increment only. Bounded Hopebringer Choral combat hand-stat combat interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 36,
+    "credential_pattern_flags": []
+  }
+}
