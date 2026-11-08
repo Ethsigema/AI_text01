@@ -1,0 +1,284 @@
+{
+  "archive": "hopebringer_tycoon_golden_20261109.tar.xz",
+  "bytes": 1659404,
+  "sha256": "b7e400d6f2a9ffc6812029503a79765934c22f9c38368fd1dc2d7483d71771f3",
+  "files": {
+    "hopebringer_tycoon_golden_20261109/BASELINE_BOUNDARY.json": {
+      "bytes": 1582,
+      "sha256": "0881a00a95a34674b8310cb04074d698c64f6e9136a57358bcbee2c84cf5ccab"
+    },
+    "hopebringer_tycoon_golden_20261109/BASELINE_BOUNDARY.log": {
+      "bytes": 769,
+      "sha256": "28e5f2b4322d4d2045247ea21e8b8d2656ecd7105d2bcf52cd4a29d6644f0fda"
+    },
+    "hopebringer_tycoon_golden_20261109/BASELINE_BOUNDARY_env_failed.log": {
+      "bytes": 1333,
+      "sha256": "8e03b6d1fd6dade4410e8ac4f33074e8842221af3d3ff61d4d09c8864ab46f11"
+    },
+    "hopebringer_tycoon_golden_20261109/BASE_MAP.json": {
+      "bytes": 4600805,
+      "sha256": "1ae20915de380fa09051261af4e1aae1abe07f7d9f682dbbca00c3da04619135"
+    },
+    "hopebringer_tycoon_golden_20261109/EXPECTED_ROWS.json": {
+      "bytes": 51295,
+      "sha256": "fc2015dc19330a47f3d17d2a5beb47018b94568ce40ed85cae7be24abf450314"
+    },
+    "hopebringer_tycoon_golden_20261109/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "hopebringer_tycoon_golden_20261109/IMMEDIATE_ATTACK_CHECK.json": {
+      "bytes": 587,
+      "sha256": "3c0eeb91c4213c2fe18631ce596d6a57ead29d090ec36f24e4f86e8b6829c942"
+    },
+    "hopebringer_tycoon_golden_20261109/INTEGRATION_SCOPE_CHECK.json": {
+      "bytes": 254,
+      "sha256": "a01d5eed36ae825498e70c89b86d5626cca1c6650605e0dbbc3a9479683b15bd"
+    },
+    "hopebringer_tycoon_golden_20261109/PACKAGE_MANIFEST.json": {
+      "bytes": 7488,
+      "sha256": "cb1b8f485f455b4b6b8fb50c0a573a0d3e1fbc6c7062218165c23c3b47a47e3b"
+    },
+    "hopebringer_tycoon_golden_20261109/PIN_PREFLIGHT.json": {
+      "bytes": 323134,
+      "sha256": "89822f1856924c442997b590d12f413d93ad6849b93eafda89d41844564e0b8f"
+    },
+    "hopebringer_tycoon_golden_20261109/PROGRESS.json": {
+      "bytes": 2697,
+      "sha256": "d79c8e1195ae5eb6ef4df66a7523403ea49c5afe94b73a237dc6f0f1c44a23c1"
+    },
+    "hopebringer_tycoon_golden_20261109/README.md": {
+      "bytes": 1777,
+      "sha256": "c6641ee108c436617be1ee096c51e59b732ece96f057ae914d50d22bbd719b1e"
+    },
+    "hopebringer_tycoon_golden_20261109/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "b731999385142be5ee5a4bd10764c04e7d7bda19f6eada29aa40bbb7ef822343"
+    },
+    "hopebringer_tycoon_golden_20261109/SOURCE_DELTA.json": {
+      "bytes": 1482,
+      "sha256": "7b4de09a03910f3f6e4364e58173a9442020a8ff907bf24fed711d82d8a27191"
+    },
+    "hopebringer_tycoon_golden_20261109/SOURCE_MAP.json": {
+      "bytes": 4601304,
+      "sha256": "84b6a30eb6f82121013e45cd75faab7492803b57efba48fe404a25a5c3c022a2"
+    },
+    "hopebringer_tycoon_golden_20261109/VALIDATION.json": {
+      "bytes": 1237,
+      "sha256": "906671306fc6f69c0d67036c0c07360f327d63155370376cc18890c0e4ade551"
+    },
+    "hopebringer_tycoon_golden_20261109/baseline.py": {
+      "bytes": 2155,
+      "sha256": "73a81bd224ae9a4c0d1372e06c5a8ae09578da0e528b615c60297cd2ee61d534"
+    },
+    "hopebringer_tycoon_golden_20261109/baseline_boundary.gd": {
+      "bytes": 853,
+      "sha256": "5aa398c02e4794b2bf2297245a9c0776cfcb8482fc0ab76db645345446d6a593"
+    },
+    "hopebringer_tycoon_golden_20261109/baseline_rejection/LAUNCH.json": {
+      "bytes": 543,
+      "sha256": "a3504267fdb01763780ba53e47b6d841ca7790220a28bf3a67f8abf963cb15c3"
+    },
+    "hopebringer_tycoon_golden_20261109/baseline_rejection/NOTE.json": {
+      "bytes": 341,
+      "sha256": "3e5386fbd89c50129c91077216a655420db1c1699c25ff1de91e0875169e64e1"
+    },
+    "hopebringer_tycoon_golden_20261109/baseline_rejection/PROCESS.json": {
+      "bytes": 618,
+      "sha256": "78d8f7bd8ef147c9c92e5df3d33a9e06def39fa13c92b59a8aaa58df5bc0ae92"
+    },
+    "hopebringer_tycoon_golden_20261109/baseline_rejection/PROPOSED_DELTA_NOT_EXECUTED.tar.xz": {
+      "bytes": 21984,
+      "sha256": "1be9b4aeebee54eea273d22c8e5a74b24f2cb641caf5bb661a9203591b600277"
+    },
+    "hopebringer_tycoon_golden_20261109/baseline_rejection/PROPOSED_EXPECTED_ROWS.json": {
+      "bytes": 51295,
+      "sha256": "fc2015dc19330a47f3d17d2a5beb47018b94568ce40ed85cae7be24abf450314"
+    },
+    "hopebringer_tycoon_golden_20261109/baseline_rejection/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4600805,
+      "sha256": "1ae20915de380fa09051261af4e1aae1abe07f7d9f682dbbca00c3da04619135"
+    },
+    "hopebringer_tycoon_golden_20261109/baseline_rejection/gate_executed.gd": {
+      "bytes": 21203,
+      "sha256": "c8ef65774beb84ca7cea3035f5c264f8a2e998cc0f12fdd248c3daf5057bd9e7"
+    },
+    "hopebringer_tycoon_golden_20261109/baseline_rejection/native.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "hopebringer_tycoon_golden_20261109/build.py": {
+      "bytes": 6788,
+      "sha256": "de1f2f64c30c663929fd337792bfb811e047419dc16b93b2db00eb7e0b698c89"
+    },
+    "hopebringer_tycoon_golden_20261109/check_baseline_boundary.py": {
+      "bytes": 1187,
+      "sha256": "a9b900170d52c54796596920ce8939bf2c1b99c3dd4957b995d27a3b1750b19a"
+    },
+    "hopebringer_tycoon_golden_20261109/delta/core/hopebringer_sources.gd": {
+      "bytes": 21278,
+      "sha256": "9ea275dabfb49934dcec00a8d9b00ae0b5eb38b686976219fa62f11ba1ef61ff"
+    },
+    "hopebringer_tycoon_golden_20261109/delta/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 80687,
+      "sha256": "a04f6d7d645943bfcbb9df70487906232893e6439e14ff47f77a96f1037f5e19"
+    },
+    "hopebringer_tycoon_golden_20261109/delta/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 80109,
+      "sha256": "72a70bfa38ef6ee626c5d7a9beb0814e799196dd2d0dc41096e5f729ab73ddbd"
+    },
+    "hopebringer_tycoon_golden_20261109/delta/data/patch_3702_hopebringer_golden_overlay.json": {
+      "bytes": 34861,
+      "sha256": "4846c716e11e228db07c5b5a291910d27fb65f778842acb73d6797c884228939"
+    },
+    "hopebringer_tycoon_golden_20261109/delta/data/patch_3702_hopebringer_overlay.json": {
+      "bytes": 34626,
+      "sha256": "00a7c4f09b4ec579286a95befff8ceb9f75ed5d8c78ae35ded3e0f608f590077"
+    },
+    "hopebringer_tycoon_golden_20261109/delta/research/hopebringer_tycoon_golden/BG25_008_G.native.xml": {
+      "bytes": 3693,
+      "sha256": "6bed0e4f941c76c5a8489ef8610347c39c6f12722673fab309e6440fada9c83d"
+    },
+    "hopebringer_tycoon_golden_20261109/delta/research/hopebringer_tycoon_golden/BG34_403_G.native.xml": {
+      "bytes": 3256,
+      "sha256": "d52d67a897122a9dde4b3baa2094b7901e44677a79f8e29e873d419f06d58ae3"
+    },
+    "hopebringer_tycoon_golden_20261109/delta/research/hopebringer_tycoon_golden/evidence.json": {
+      "bytes": 4196,
+      "sha256": "f1d89d575024ac4cd7c86dd265dc13cb052a8b4626645297bbf7fcc6ebadcb36"
+    },
+    "hopebringer_tycoon_golden_20261109/gate.gd": {
+      "bytes": 21203,
+      "sha256": "c8ef65774beb84ca7cea3035f5c264f8a2e998cc0f12fdd248c3daf5057bd9e7"
+    },
+    "hopebringer_tycoon_golden_20261109/materialize.py": {
+      "bytes": 1684,
+      "sha256": "dfb234415f7a0f6cd5862dcc10e67c09ea529cf951523df8dd9729cc5bcfe4b2"
+    },
+    "hopebringer_tycoon_golden_20261109/refresh_virtual_bindings.py": {
+      "bytes": 1168,
+      "sha256": "476221f4790811423fabfbd4dee3b62648365603d27264e5a77150d204878715"
+    },
+    "hopebringer_tycoon_golden_20261109/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/EXPECTED_ROWS.json": {
+      "bytes": 51295,
+      "sha256": "fc2015dc19330a47f3d17d2a5beb47018b94568ce40ed85cae7be24abf450314"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/LAUNCH.json": {
+      "bytes": 537,
+      "sha256": "d8c1bd36b36fe115295cfe64229740e42951f9cdf091ab1431a045bfdc00d3f3"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 323134,
+      "sha256": "89822f1856924c442997b590d12f413d93ad6849b93eafda89d41844564e0b8f"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/PROCESS.json": {
+      "bytes": 611,
+      "sha256": "1deded1d43777f30971c553729b62659cb34d2a5955e67db42ea5c201d7adeb8"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/SOURCE_DELTA.json": {
+      "bytes": 1482,
+      "sha256": "7b4de09a03910f3f6e4364e58173a9442020a8ff907bf24fed711d82d8a27191"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 21984,
+      "sha256": "1be9b4aeebee54eea273d22c8e5a74b24f2cb641caf5bb661a9203591b600277"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4601304,
+      "sha256": "84b6a30eb6f82121013e45cd75faab7492803b57efba48fe404a25a5c3c022a2"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/data/before_combat.native_save.json": {
+      "bytes": 89464,
+      "sha256": "2ccc057204a92ba67b8625c485f0db7f03a485d73398372b9d1d7cb5b52ce308"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 41073,
+      "sha256": "aea23fe90a521e480b48a93919a914a2d0ba22f1ab7a6fae853f92c60b69a5dd"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/data/report.json": {
+      "bytes": 7884336,
+      "sha256": "a2c5882d8300beaa26a980d708088380b0a7c16b8c1b131fd63e8eb7f940553b"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/data/terminal.native_save.json": {
+      "bytes": 833511,
+      "sha256": "873ddb1b54b106557813fe3fa241f352a40f97c4e7d4c3ce812dd293821e79e5"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/gate_executed.gd": {
+      "bytes": 21203,
+      "sha256": "c8ef65774beb84ca7cea3035f5c264f8a2e998cc0f12fdd248c3daf5057bd9e7"
+    },
+    "hopebringer_tycoon_golden_20261109/run_1/native.log": {
+      "bytes": 454,
+      "sha256": "250eab99b32dd5fde7e212fbf00084c146daf2087dedbf33a2355b6b7fd7a04f"
+    },
+    "hopebringer_tycoon_golden_20261109/seal.py": {
+      "bytes": 6492,
+      "sha256": "5d0e57bb5aaeada33e7842b49af0c64eef5b42270fd00ca9e1015444a28e4cf3"
+    }
+  },
+  "parts": [
+    {
+      "name": "hopebringer_tycoon_golden_20261109.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "856bc1bef98fff19fdd25d005561fd4fcfcfa07720968a9187129325ffd719de"
+    },
+    {
+      "name": "hopebringer_tycoon_golden_20261109.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "11734dd0d3f29a691fc26ccb532421d72cb18225491f957d7344e540069625d7"
+    },
+    {
+      "name": "hopebringer_tycoon_golden_20261109.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "9594f0686728f402c73da9f7abc937a4d84f3364296f1b39f7a21d0ca30f1145"
+    },
+    {
+      "name": "hopebringer_tycoon_golden_20261109.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "be50a00438a7650ab3d9ccb66fb66b8c183e842f2a6c7d6c05b95a20f3761ad8"
+    },
+    {
+      "name": "hopebringer_tycoon_golden_20261109.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "f98db1cb14f7192dfe24d6385c0a4a033ce3ae096752e7b1cdf213666b8c650b"
+    },
+    {
+      "name": "hopebringer_tycoon_golden_20261109.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "10fb182c191e4428368fdb38219d4440a56cf10a1d313ff1a1d87cbb7c520b94"
+    },
+    {
+      "name": "hopebringer_tycoon_golden_20261109.tar.xz.part006",
+      "bytes": 159404,
+      "sha256": "c3a6a35620505be41b008e7f977a5be6a84ad29b743acee68d1d3373052bd972"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "hopebringer_tycoon_golden_20261109/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 478,
+      "sha256": "4b1ce15acde2d4e7a367513bc08bc4fc1b4592f4b83eac8fbc8cb3e6509d5783"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "hopebringer_tycoon_archive_commit": "40ee9b3883b19226d252f9fc7b1c7f8e38fa5643",
+    "hopebringer_tycoon_archive_sha256": "032055ad0dfad78ad88ee3270efd2a78b18c8d99f6c6bd43e4e147c878933e41",
+    "hopebringer_tycoon_source_map_sha256": "1ae20915de380fa09051261af4e1aae1abe07f7d9f682dbbca00c3da04619135",
+    "hopebringer_tycoon_recovery_commit": "819c10f12cade5f2ed67b20cc6e42ad0e3fd0a0b",
+    "hopebringer_tycoon_recovery_url": "https://github.com/Ethsigema/AI_text01/blob/819c10f12cade5f2ed67b20cc6e42ad0e3fd0a0b/battlegrounds-backup/pending/20261108-hopebringer-tycoon/RECOVERY.md"
+  },
+  "status": "Source recovery increment only. Bounded Golden Eternal Tycoon interoperability using existing Avenge/summon algorithms. Not broad gameplay acceptance. Historical baseline reused.",
+  "audit": {
+    "archive_members": 54,
+    "credential_pattern_flags": []
+  }
+}
