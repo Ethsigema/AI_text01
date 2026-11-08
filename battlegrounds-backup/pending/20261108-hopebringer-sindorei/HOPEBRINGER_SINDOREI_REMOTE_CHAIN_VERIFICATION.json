@@ -1,0 +1,66 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "hopebringer_sindorei",
+      "commit": "ccd190d55787bb0a4943c48a9163ce65e79c2600",
+      "repository_path": "battlegrounds-backup/pending/20261108-hopebringer-sindorei",
+      "manifest_sha256": "39d2d7560c7be906bbd56cb992dadf385e00ba8ccf70c097dce25f68173c116c",
+      "archive": "hopebringer_sindorei_20261108.tar.xz",
+      "archive_sha256": "b7b4f91ca93dfc673f1a6a3c45b2597456e2de376d6651d835e88c75898eddb3",
+      "archive_bytes": 1576640,
+      "parts_verified": 7,
+      "members_verified": 36,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "hopebringer_glim": "6317c4fa555653bb258ce726b19dbfd2881980bc082e5f406bee60921357af90",
+    "hopebringer_sindorei": "ba4a83a9e17a7721676468613b7f66415ff3a9835851752b68ecee8fe50fcfa9"
+  },
+  "hopebringer_glim_source_byte_equals_hopebringer_sindorei_base": true,
+  "baseline_files_rehashed": 27798,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "ffec99e3e619470d6cc9c0a92860dfcae66bad2ddc9e2004accbd9b22f7b003c",
+  "change_lists": {
+    "added": [
+      "research/hopebringer_sindorei/BG25_016.native.xml",
+      "research/hopebringer_sindorei/evidence.json"
+    ],
+    "modified": [
+      "core/hopebringer_sources.gd",
+      "core/patch_3702_hopebringer_golden_sources.gd",
+      "core/patch_3702_hopebringer_sources.gd",
+      "data/patch_3702_hopebringer_golden_overlay.json",
+      "data/patch_3702_hopebringer_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 7,
+  "new_files": 2,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 7,
+  "removed_files": 0,
+  "restored_files": 27800,
+  "restored_bytes": 1548375078,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "18f89636d4c2aa8750e54178454711ccda2c153fd745d808abd5c502aeacf98d",
+  "prior_whole_chain_via_hopebringer_glim_to_hopebringer_sindorei_map_continuity": true,
+  "supporting_hopebringer_glim_chain_receipt_sha256": "ccfcbed48586158788bcef413786b4119e47dede25b8b508e8be20a5227d559a",
+  "historical_baseline_provenance": "The baseline is the verified Hopebringer Glim baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Hopebringer Sindorei increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T12:28:53.738960+00:00"
+}
