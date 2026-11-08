@@ -1,0 +1,67 @@
+{
+  "status": "PASS_EXACT_SOURCE_ONLY",
+  "remote_packages": [
+    {
+      "package": "privateer_majority",
+      "commit": "8ffc8d09705f00f14702d9f0958b26d3fc0a91dc",
+      "repository_path": "battlegrounds-backup/pending/20261108-electron-privateer-majority",
+      "manifest_sha256": "ef8c7a5bbe073bd30cee72651da941eb841c600635303cd98fdcd4fd22957e56",
+      "archive": "electron_privateer_majority_20261108.tar.xz",
+      "archive_sha256": "fb9636147cc301bdd2a987fd38bb4ab25b36187883fd14b35f94c0616831f136",
+      "archive_bytes": 1121216,
+      "parts_verified": 5,
+      "members_verified": 63,
+      "status": "FRESH_REMOTE_DOWNLOAD_AND_ALL_MEMBER_HASHES_VERIFIED"
+    }
+  ],
+  "source_map_sha256": {
+    "privateer_fullboard": "50e8c47af2573ca524bcdf96d8b654b6776f1659a0893ff8bcb6eeee96c25017",
+    "privateer_majority": "8d7ebfc803f3f410b8cffea9de3710c5bba7ad6173ad706bc5018a855618b6d0"
+  },
+  "privateer_fullboard_source_byte_equals_privateer_majority_base": true,
+  "baseline_files_rehashed": 27747,
+  "baseline_unchanged_after_restore": true,
+  "changes_companion_verified": true,
+  "changes_companion_sha256": "1844072b779274e4653cdf247122bc7f7d1c6681467c3517f68e21b5086a2742",
+  "change_lists": {
+    "added": [
+      "research/electron_privateer_majority/BG33_814.native.xml",
+      "research/electron_privateer_majority/BG_BOT_911.native.xml",
+      "research/electron_privateer_majority/evidence.json"
+    ],
+    "modified": [
+      "core/patch_3702_timewarp_electron_golden_sources.gd",
+      "core/patch_3702_timewarp_electron_sources.gd",
+      "core/timewarp_electron_host.gd",
+      "data/patch_3702_timewarp_electron_golden_overlay.json",
+      "data/patch_3702_timewarp_electron_overlay.json"
+    ],
+    "removed": []
+  },
+  "removals_companion_verified": true,
+  "removals_companion_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "removed_source_files": [],
+  "delta_files": 8,
+  "new_files": 3,
+  "modified_files": 5,
+  "redundant_unchanged_delta_files": [],
+  "actual_changed_files": 8,
+  "removed_files": 0,
+  "restored_files": 27750,
+  "restored_bytes": 1548215949,
+  "missing_files": [],
+  "mismatched_files": [],
+  "unexpected_files": [],
+  "independent_copy_no_hardlinks": true,
+  "historical_baseline_freshly_downloaded_by_this_helper": false,
+  "supporting_prior_fresh_whole_chain_receipt_sha256": "fd25b27e3113830b7d692beab0f02d85568bc579c5b995e663fe3fa1feb2a319",
+  "prior_whole_chain_via_privateer_fullboard_to_privateer_majority_map_continuity": true,
+  "supporting_privateer_fullboard_chain_receipt_sha256": "d162891b1a799f192a78efac24e09fa69502d309d7a84d35d2863e438ab32a90",
+  "historical_baseline_provenance": "The baseline is the verified Electron Privateer Fullboard baseline restored using the pinned recovery recipe referenced in RECOVERY.md. This helper freshly downloads the Electron Privateer Majority increment and rehashes every supplied baseline file.",
+  "implementation_scope": "Source-byte verification only; Full gameplay acceptance is not claimed.",
+  "gameplay_test_run": false,
+  "lost_november6_work_recovered": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "verified_at_utc": "2026-11-08T06:33:13.850724+00:00"
+}
