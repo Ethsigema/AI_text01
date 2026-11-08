@@ -1,0 +1,203 @@
+{
+  "archive": "electron_corrupted_coin_20261108.tar.xz",
+  "bytes": 1078292,
+  "sha256": "03750aee5b546752f8d80456545b31afb7c367caf3815031b584b11d47269912",
+  "files": {
+    "electron_corrupted_coin_20261108/BASE_MAP.json": {
+      "bytes": 4576798,
+      "sha256": "c91bbad9c9d37b2c27a6a2ab774b374c2ba5dafb60a331a94f7fe0b29f3952e7"
+    },
+    "electron_corrupted_coin_20261108/EXPECTED_ROWS.json": {
+      "bytes": 30935,
+      "sha256": "f3c85a47192fbfd8bc1718bec6fc5180b11a6eaec83b4c356a9cbcbb2c69387e"
+    },
+    "electron_corrupted_coin_20261108/IGNORED_GENERATED_BASELINE_FILES.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "electron_corrupted_coin_20261108/PACKAGE_MANIFEST.json": {
+      "bytes": 5049,
+      "sha256": "6661c8e6eb959533b61d198330270f33e923c754fcc18f19f4de9dbbff5c2fbd"
+    },
+    "electron_corrupted_coin_20261108/PIN_PREFLIGHT.json": {
+      "bytes": 284314,
+      "sha256": "81963f92bc9ebaaf77d6b4c13ad4ba6dbdb12cd62e8242533fa9a946767398f4"
+    },
+    "electron_corrupted_coin_20261108/README.md": {
+      "bytes": 1345,
+      "sha256": "050933ad88684a88c0fb9278adfa01175f78a0e2f69d104707ab7067e5bcd57a"
+    },
+    "electron_corrupted_coin_20261108/SECRET_SCAN.json": {
+      "bytes": 146,
+      "sha256": "d7f30ef91a4bf8703351e2ff296d261c36a1330b4906effed39b75c7365c1056"
+    },
+    "electron_corrupted_coin_20261108/SOURCE_DELTA.json": {
+      "bytes": 1320,
+      "sha256": "a1483042a9868bad4bf9a74c9e4b64ea911c394227548a2d20b09dd24cc85fa6"
+    },
+    "electron_corrupted_coin_20261108/SOURCE_MAP.json": {
+      "bytes": 4577121,
+      "sha256": "acfd9e487224daf05eb93e343f099fb26de584f3296c051a510fbb902736dce4"
+    },
+    "electron_corrupted_coin_20261108/VALIDATION.json": {
+      "bytes": 842,
+      "sha256": "fce7fc38ed043252222f76517bec10f0d19ec06a705f402441b309a8fdcf4bee"
+    },
+    "electron_corrupted_coin_20261108/build.py": {
+      "bytes": 3634,
+      "sha256": "374908847c90441814d45095b158821e5fd03b6aaef087665f1048c760540b2c"
+    },
+    "electron_corrupted_coin_20261108/delta/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 57249,
+      "sha256": "38872724cf1c731ac0d002a0cc772d8e0996eaf7aa3605679635651295d3f0b8"
+    },
+    "electron_corrupted_coin_20261108/delta/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 55302,
+      "sha256": "21e6e27c5ccc13888e5594e2371d528adf6514a5e03bae73736d0798103f8f14"
+    },
+    "electron_corrupted_coin_20261108/delta/core/timewarp_electron_host.gd": {
+      "bytes": 23313,
+      "sha256": "1dc457851cd3a28ec4568c1bb74e8f173fe967a67e84a354871d50cca1778cfc"
+    },
+    "electron_corrupted_coin_20261108/delta/data/patch_3702_timewarp_electron_golden_overlay.json": {
+      "bytes": 28510,
+      "sha256": "99f6af7d77317215bde2a9ea69fd054e81cb1585fe492b35b9496c0429a07e04"
+    },
+    "electron_corrupted_coin_20261108/delta/data/patch_3702_timewarp_electron_overlay.json": {
+      "bytes": 27300,
+      "sha256": "92bbd1d147bb57cf4353c01329dfa1293f9d7a9ce0475d2686e8d77b4d483839"
+    },
+    "electron_corrupted_coin_20261108/delta/research/electron_corrupted_coin/BG36_303.native.xml": {
+      "bytes": 2862,
+      "sha256": "77e85b592790bd363f85eb01ced01b0816e3c7d987bb17adf19f501c5f92d7ec"
+    },
+    "electron_corrupted_coin_20261108/delta/research/electron_corrupted_coin/evidence.json": {
+      "bytes": 571,
+      "sha256": "9e55cad46ee75af795e9b6c29dbc549a17a788fcfe520b7b16b622c01b01c72d"
+    },
+    "electron_corrupted_coin_20261108/gate.gd": {
+      "bytes": 18690,
+      "sha256": "44e6a8a9c08eb7cfb0cfafb67bd3c7ef789dc9d3fbc18f21c2afbd709aa4db43"
+    },
+    "electron_corrupted_coin_20261108/materialize.py": {
+      "bytes": 1685,
+      "sha256": "a760fa4d1a8079dfe40d4711b9bd062905bd65d6330fca037c1d1781f3ba0fd2"
+    },
+    "electron_corrupted_coin_20261108/prepare_gate.py": {
+      "bytes": 4575,
+      "sha256": "311d6af6a17650c97b19849fc65a2c4a41e020aab35b0ab9d4b60f6eb9eec82e"
+    },
+    "electron_corrupted_coin_20261108/refresh_virtual_bindings.py": {
+      "bytes": 1174,
+      "sha256": "d2fac6e19847f32fcc8b7c5181af5ab2afdf596b3e68b1e38d907a6aff06a0a2"
+    },
+    "electron_corrupted_coin_20261108/run.py": {
+      "bytes": 2046,
+      "sha256": "3bfa773496e3e5e3004a4ec77b106a7bd5d8f63abb761ec5f1b7393f3dfd699e"
+    },
+    "electron_corrupted_coin_20261108/run_1/EXPECTED_ROWS.json": {
+      "bytes": 30935,
+      "sha256": "f3c85a47192fbfd8bc1718bec6fc5180b11a6eaec83b4c356a9cbcbb2c69387e"
+    },
+    "electron_corrupted_coin_20261108/run_1/LAUNCH.json": {
+      "bytes": 533,
+      "sha256": "b1520badb4816eee51a7b5fa7d7a491dbadcee4c2fb6bd1d2c02ab7553784453"
+    },
+    "electron_corrupted_coin_20261108/run_1/PIN_PREFLIGHT.json": {
+      "bytes": 284314,
+      "sha256": "81963f92bc9ebaaf77d6b4c13ad4ba6dbdb12cd62e8242533fa9a946767398f4"
+    },
+    "electron_corrupted_coin_20261108/run_1/PROCESS.json": {
+      "bytes": 605,
+      "sha256": "f73a2c54b9ac3dbe19543756b9654f810abb2fb153294938ca712fc323238589"
+    },
+    "electron_corrupted_coin_20261108/run_1/SOURCE_DELTA.json": {
+      "bytes": 1320,
+      "sha256": "a1483042a9868bad4bf9a74c9e4b64ea911c394227548a2d20b09dd24cc85fa6"
+    },
+    "electron_corrupted_coin_20261108/run_1/SOURCE_DELTA_EXECUTED.tar.xz": {
+      "bytes": 18484,
+      "sha256": "938a7fa90800f318f9f04a1a294fa5bf517cbcebdfd7f56b135a68ddb9315873"
+    },
+    "electron_corrupted_coin_20261108/run_1/SOURCE_MAP_EXECUTED.json": {
+      "bytes": 4577121,
+      "sha256": "acfd9e487224daf05eb93e343f099fb26de584f3296c051a510fbb902736dce4"
+    },
+    "electron_corrupted_coin_20261108/run_1/data/after_first_coin.native_save.json": {
+      "bytes": 55820,
+      "sha256": "12bc11c5593591335e157c3ddaad96059178d3d1157fe2f6e447e6d549c8eb1d"
+    },
+    "electron_corrupted_coin_20261108/run_1/data/initial_fixture.native_save.json": {
+      "bytes": 34438,
+      "sha256": "f0ed1a3d17b166480fad87df76399a5e0ece635c34d9e489f28c71fe6e60b205"
+    },
+    "electron_corrupted_coin_20261108/run_1/data/report.json": {
+      "bytes": 1405035,
+      "sha256": "7c2c1c921f65c7df00651317d3bf4b92ca9e5b51061237693f87e85c46025a97"
+    },
+    "electron_corrupted_coin_20261108/run_1/data/terminal.native_save.json": {
+      "bytes": 69212,
+      "sha256": "f9fa2fa390afc05982789e80c91211d2a5b766b2d4a0977aeb68a2f8837f95ad"
+    },
+    "electron_corrupted_coin_20261108/run_1/gate_executed.gd": {
+      "bytes": 18690,
+      "sha256": "44e6a8a9c08eb7cfb0cfafb67bd3c7ef789dc9d3fbc18f21c2afbd709aa4db43"
+    },
+    "electron_corrupted_coin_20261108/run_1/native.log": {
+      "bytes": 321,
+      "sha256": "4ff28df91072c6bc3224de4beb6cb0dd7e9edfd812e7a95d69b532535658993e"
+    },
+    "electron_corrupted_coin_20261108/seal.py": {
+      "bytes": 4699,
+      "sha256": "1ae8757328d27ba356b40e25e81dee64327caec4254fc22104bc46e409d3cbcf"
+    }
+  },
+  "parts": [
+    {
+      "name": "electron_corrupted_coin_20261108.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "92048cf8c68dd6dba22773050dfa15859c29c1a4993c608eca657b759c8ba1ef"
+    },
+    {
+      "name": "electron_corrupted_coin_20261108.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "0dd0a86965d6c9038843a59bbf114b7e7424f72da50cd45f4095fb44a1ae3a12"
+    },
+    {
+      "name": "electron_corrupted_coin_20261108.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "da26d0192efed60c7e1574e5fd9321e67a0fe319dbfb9402790a833662f6eaf3"
+    },
+    {
+      "name": "electron_corrupted_coin_20261108.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "656ddb5de743d8357521375c91012a51129d79513a6b9f29c5da0fa84071d0f3"
+    },
+    {
+      "name": "electron_corrupted_coin_20261108.tar.xz.part004",
+      "bytes": 78292,
+      "sha256": "4c6ba6fe362bad71bfc67be2c288f7b7665a31ad64625264b79771289d039cfc"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "electron_corrupted_coin_20261108/SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 435,
+      "sha256": "e9a65fddc8f148ece528952eca5fc8d2674a6df24093f0f76d23394dd3898a57"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  },
+  "depends_on": {
+    "beetle_blessing_commit": "be4ae90d64b63ec460030330f83cf7bff2c6f4a7",
+    "beetle_blessing_source_map_sha256": "c91bbad9c9d37b2c27a6a2ab774b374c2ba5dafb60a331a94f7fe0b29f3952e7"
+  },
+  "status": "Source recovery increment only. Bounded Corrupted Coin interaction; not broad gameplay acceptance. Historical chain evidence reused.",
+  "audit": {
+    "archive_members": 37,
+    "credential_pattern_flags": []
+  }
+}
