@@ -1,0 +1,12 @@
+{
+  "whitelist_files": 75,
+  "cache_credentials_private_chat_payloads_excluded": true,
+  "scan_limit": "Bounded excluded-path and common credential-signature checks; not a guarantee against every possible secret.",
+  "technical_path_names_do_not_upload_referenced_payloads": true,
+  "all_prior_backups_retained": true,
+  "force_push": false,
+  "source_tree_modified": false,
+  "old_dependencies_reverified": false,
+  "cancelled_dependency_download_retried": false,
+  "upstream_redistribution_license_confirmed": false
+}
