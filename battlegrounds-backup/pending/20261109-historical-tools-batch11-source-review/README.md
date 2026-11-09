@@ -1,0 +1,61 @@
+# 第十一批：新增历史载荷与验证依赖审查
+
+状态：REVIEW_ONLY_NO_RUNTIME_SOURCE_CHANGE。输入固定备份提交1266c9d1c78bf3f388d2f695467d60af9807ac75。
+
+本批发现六份原清单遗漏的历史生成载荷，其中四份输出可与独立历史SHA对上，但行为或调用契约仍有差异，全部暂缓。独立完整工作副本没有新增、修改或删除源码，原367项范围缺口仍为349，不能以历史字节一致替代准入验收。
+
+## 新发现的真实历史材料
+
+从固定原始ZIP中的脚本、字面模板及历史JSON恢复生成表达式，没有执行历史生成器，也没有从当前GD编造代码。ZIP完整SHA仍为33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65。所用45份输入再次逐项核对当前固定SOURCE_MAP。
+
+- native_bolvar_shield_patterns.py：10,524字节，重建SHA为68c4b12f8940d0458c151a638f3597538225d99bebd22ffffbb34a2d3d6d4a4c。与独立manifest中历史输出SHA精确相同。
+- native_enforcer_shield_patterns.py：1,891字节，重建SHA为9a431e54a1738fd816cac6ce4b40ff3a801d58da316dd45a31bd1d7dfb05e399。同样匹配独立历史输出pin。
+- hand_murloc_gain_patterns.py与piranha_vacancy_patterns.py：在内存中重现的结果分别匹配fc9393a3dfc7adbc862858176b0cb755449f9bc6058a8abeda2459134fc39028及de8a0592e5a606d619e17e2823e3cad0a6b30be2fd657974a8e247d1e9aa3026。只保留静态审查，没有执行候选。
+- master_realities_patterns.py与tier_four_transform_native_patterns.py：有固定历史载荷和输入，但限定搜索没有找到独立输出SHA；不得将生成结果称为已证实原件。
+
+前两份文件仅存放于审查证据目录和测试目录，不在完整runtime/tools中。它们是“与历史输出pin相符的生成器重建文件”，不是找到的独立完整原件，也未证明最新版。
+
+## 两个实际反例，继续暂缓
+
+Bolvar的19项证据、来源/有效来源、EXPECTED及允许ID均匹配当前GD，但Python采用类型完全一致的递归比较，当前GD允许等值int/float。用原Python模块和已核实选中行的隔离夹具，正常与金色基线输出均通过，金色始终保持不支持；将正常卡tier从4变为4.0后，历史compile_card拒绝，而实际当前GD比较器及source_error接受。
+
+Enforcer的七项历史证据均一致。将普通卡is_golden从false变为整数0，历史compile_card仍接受，实际当前GD的raw_source_error与source_error拒绝。
+
+这些是已执行的不同准入结果，不是只看代码推测。没有改写原件来掩盖差异。Bolvar还读取原catalog、数值override及原始minions表，当前缺失完整编译器，无法凭旧调用语句保证现行输入类型与全调用契约。它的金色种族/运行准入限制未解除。其余四项均有普通相等问题；Hand Murloc、Master和Piranha还忽略传入card本体，Tier Four未完整约束cards依赖，继续暂缓。
+
+Python仅执行两个已审阅历史模块的限定入口，使用2条实际raw来源与4条实际canonical行的缩小夹具；它们不是原完整catalog文件。选中行与固定当前数据及历史proof逐字/结构核对。原生成器及完整编译器没有执行。Python每轮37项检查，两轮完成，峰值11,972 KiB；夹具准备峰值56,584 KiB。
+
+实际GD只加载两个来源脚本、phase_undead_army_sources和pool_identity。反例检查每次35项，两次重复，再在新portable目录复现。未触发伤害、护盾消耗、购买、对局或存档。
+
+## 现有验证依赖没有新阻断
+
+先扫描2,123份core脚本的2,587条字面路径/SHA对：2,586条匹配，缺失的activate_minion_rules.md已在现有明确例外中。
+
+进一步追踪全部441处FileAccess.get_sha256调用、相对路径/记录字段/辅助检查器及补充文件文本校验，共3,638条匹配检查、2,949份文件，覆盖字面扫描以外的1,015份文件。122个标量SHA中116个绑定文件且匹配，另6个属于元数据或内存摘要，不冒充文件缺失。五份缺失的人类可读说明文档均由现有packaged_source_evidence明确容许；没有发现新的必需机器可读证据缺失或SHA不符。
+
+以上主要是静态路径与实际字节核查，不证明全部验证器语义或全部游戏行为。另用实际Deft/PackagedEvidence检查器做了独立四态控制：既有说明文档缺失允许且明确报告；说明文档存在但内容错误拒绝；机器证据内容变化拒绝；机器证据缺失拒绝。每态19项，重复及portable重现均通过，未放宽任何例外或pin。
+
+两组实验共20次串行Godot，峰值65,744 KiB。RSS停止阈值192 MiB、地址空间上限2 GiB、45秒超时；启动前要求1 GiB可用内存，低于640 MiB余量则停止。Python限定实验128 MiB地址空间上限。所有校验入口拒绝优化模式，未用-O或非零PYTHONOPTIMIZE运行依赖断言的原件。
+
+## 已有严格候选和搜索边界
+
+22项依赖演示英雄BG32_HERO_001的历史严格工具，再次按固定生成表达式精确重现，仍带该依赖；每项只定位一份完整副本，没有修改它的精确后续Python patch。当前366项GD proof全部匹配，但未pin这些Python工具。14项GD历史链可达当前字节，另8项链缺口明确保留；GD演变不能冒充Python后续补丁。Alchemy及Souvenir的既有依赖差异不变。
+
+ZIP游戏目录外13项均为计划、文档、工作表或清单，没有额外工具/源码归档。嵌入载荷搜索覆盖626份候选文本，另有2项尺寸排除；固定Git c46167a0e3fc6b15f01f7cc4f713f88925d395b0的3,452路径中，检查1,624份限定元数据，另有2项尺寸排除。精确排除项及范围已记录。这不是穷尽所有远端Git历史或全部二进制归档。
+
+原分类A55/B17/C277不被回写。只是C277中新增定位六项材料，另271项在此次限定搜索下仍未定位；349个runtime缺失路径没有减少。不能用“发现材料”替代“恢复工具”。
+
+## 树与备份
+
+第十批原树和全新独立审查树都再次逐文件重哈希：27,916文件、1,549,279,351字节，完全相同，没有硬链接。
+
+SOURCE_MAP SHA256：dc3968e2c02fc646100ad1a1745fe885414ad679250363c732f4ae4fae2920cb。
+实际整树字节流SHA256：f159ef6f456e8cade1b5d8eebc84e8833b95659af2a5ef6f7bd5911d3e95074b。
+
+完整Game、Catalog、离线编译器、真实UI、全部玩法/覆盖率、旧存档及原中断工作树仍未验收，第六批四份原核验文件仍未找回。前十批备份、证据与源码均未覆盖或清理。
+
+本包是审查证据，不含新增runtime delta，也不是独立完整游戏备份。按明确白名单封存，排除测试HOME、字体/编辑器/可重建缓存、.godot、__pycache__、私聊、凭据和无关文件。
+
+先核对FILE_MANIFEST.json。python verify_review.py检查包内限定证据。python reconstruct_review_to_new.py /不存在的新目录可从包内固定输入重现两份历史文件，仅供审查。python replay_review_to_new.py /不存在的新目录重做Python反例与十次Godot限定控制，两条入口均已实际重现。需要Python 3及/usr/local/bin/godot，本次为Godot4.6.3。
+
+python restore_to_new.py /匹配BASE_MAP的完整输入树 /不存在的新树仅复制同一未改变基线，不安装审查候选；此交付入口未额外重跑，实际独立全树复制与核验另有记录。完整静态依赖/版本图的重做仍需上游完整树，不能只靠此小包。

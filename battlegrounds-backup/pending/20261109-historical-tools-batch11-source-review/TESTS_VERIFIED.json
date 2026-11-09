@@ -1,0 +1,134 @@
+{
+  "status": "PASS_DEFERRED_BOUNDARIES_AND_EXISTING_GUARD_CONTROLS",
+  "Godot_runs": [
+    {
+      "path": "guard_probe/before",
+      "checks": 19,
+      "peak_RSS_KiB": 64060,
+      "exit": 0
+    },
+    {
+      "path": "guard_probe/before_repeat",
+      "checks": 19,
+      "peak_RSS_KiB": 63968,
+      "exit": 0
+    },
+    {
+      "path": "guard_probe/after",
+      "checks": 19,
+      "peak_RSS_KiB": 64020,
+      "exit": 0
+    },
+    {
+      "path": "guard_probe/after_repeat",
+      "checks": 19,
+      "peak_RSS_KiB": 63904,
+      "exit": 0
+    },
+    {
+      "path": "guard_probe/tamper",
+      "checks": 19,
+      "peak_RSS_KiB": 63792,
+      "exit": 0
+    },
+    {
+      "path": "guard_probe/tamper_repeat",
+      "checks": 19,
+      "peak_RSS_KiB": 63772,
+      "exit": 0
+    },
+    {
+      "path": "guard_probe/missing",
+      "checks": 19,
+      "peak_RSS_KiB": 63996,
+      "exit": 0
+    },
+    {
+      "path": "guard_probe/missing_repeat",
+      "checks": 19,
+      "peak_RSS_KiB": 64092,
+      "exit": 0
+    },
+    {
+      "path": "counterexamples/before",
+      "checks": 35,
+      "peak_RSS_KiB": 65560,
+      "exit": 0
+    },
+    {
+      "path": "counterexamples/before_repeat",
+      "checks": 35,
+      "peak_RSS_KiB": 65744,
+      "exit": 0
+    },
+    {
+      "path": "portable_replay/guard_probe/before",
+      "checks": 19,
+      "peak_RSS_KiB": 63984,
+      "exit": 0
+    },
+    {
+      "path": "portable_replay/guard_probe/before_repeat",
+      "checks": 19,
+      "peak_RSS_KiB": 63988,
+      "exit": 0
+    },
+    {
+      "path": "portable_replay/guard_probe/after",
+      "checks": 19,
+      "peak_RSS_KiB": 63936,
+      "exit": 0
+    },
+    {
+      "path": "portable_replay/guard_probe/after_repeat",
+      "checks": 19,
+      "peak_RSS_KiB": 63952,
+      "exit": 0
+    },
+    {
+      "path": "portable_replay/guard_probe/tamper",
+      "checks": 19,
+      "peak_RSS_KiB": 63772,
+      "exit": 0
+    },
+    {
+      "path": "portable_replay/guard_probe/tamper_repeat",
+      "checks": 19,
+      "peak_RSS_KiB": 64096,
+      "exit": 0
+    },
+    {
+      "path": "portable_replay/guard_probe/missing",
+      "checks": 19,
+      "peak_RSS_KiB": 63780,
+      "exit": 0
+    },
+    {
+      "path": "portable_replay/guard_probe/missing_repeat",
+      "checks": 19,
+      "peak_RSS_KiB": 63968,
+      "exit": 0
+    },
+    {
+      "path": "portable_replay/counterexamples/before",
+      "checks": 35,
+      "peak_RSS_KiB": 65696,
+      "exit": 0
+    },
+    {
+      "path": "portable_replay/counterexamples/before_repeat",
+      "checks": 35,
+      "peak_RSS_KiB": 65652,
+      "exit": 0
+    }
+  ],
+  "Godot_total_runs": 20,
+  "Godot_maxrss_kib": 65744,
+  "python_complete_runs": 2,
+  "python_checks_per_run": 37,
+  "python_maxrss_kib": 11972,
+  "fixture_preparation_maxrss_kib": 56584,
+  "runtime_files_restored": 0,
+  "generator_executed": false,
+  "full_game_or_save_accepted": false
+}
