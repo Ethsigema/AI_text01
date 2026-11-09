@@ -1,0 +1,241 @@
+{
+  "archive": "imperial_defender_candidate_review_20261109T220940Z.tar.xz",
+  "bytes": 104588,
+  "sha256": "19750c8aa7ad3117befab977d8dd338fbb934d5ed5c958cf373a52e71e54bde0",
+  "files": {
+    "prepare.py": {
+      "bytes": 7124,
+      "sha256": "710a7e3f956b2913662117178e6a31b2260c402148df73924c53299f8abcdd29"
+    },
+    "test_python.py": {
+      "bytes": 5365,
+      "sha256": "96f5e2cb4cbe327918c2eaee58ab0780328e1c6ca79188da803600344ac38647"
+    },
+    "run_godot.py": {
+      "bytes": 2132,
+      "sha256": "fb4d9a0010b7eb650ee95da7a7e4bbddb1feae795a2423ae15c3cf3b60f88dcd"
+    },
+    "run_mapping_probe.py": {
+      "bytes": 3250,
+      "sha256": "08b1a90cb72975c0c7306a203067ef6dd3416fcb45fb7bef7af45ce81892ffd9"
+    },
+    "verify_candidate.py": {
+      "bytes": 5740,
+      "sha256": "c0c00188d981ef01c7e496dd4923cbf25670a4b2e805f0daee9a0f6bd9fb8a6d"
+    },
+    "replay_to_new.py": {
+      "bytes": 2133,
+      "sha256": "fcaa8880b4f1408670a5dc00644e0393ece6efcc4a6014b7ab5545edb00837c4"
+    },
+    "FINAL_REPORT.md": {
+      "bytes": 6153,
+      "sha256": "c360d5ebdc77f0f6c963b0fb69e67036c5a2888ef8f34042ab9cd1a391044e53"
+    },
+    "PREPARATION.json": {
+      "bytes": 556,
+      "sha256": "8c9bd162d3cc46dfc3ab0b4d6675c98ec174d0942e6fc5b200c74287aabce3b1"
+    },
+    "CASES.json": {
+      "bytes": 575232,
+      "sha256": "922c9ad0d9c410db972a1ffcb9f429697c5d96d0602388c99fbc5c7de523532f"
+    },
+    "INPUT_PINS.json": {
+      "bytes": 2237,
+      "sha256": "4808f689491377e92c4418eedb9338a6bccf5010ae650fb5adf878113ec24253"
+    },
+    "CANDIDATE_OUTPUTS.json": {
+      "bytes": 3687,
+      "sha256": "641ed8efc765fbaac0f5b70627c470883d375cae25a4cf1a2cc0f5e3d0ba7b8c"
+    },
+    "PYTHON_REPORT.json": {
+      "bytes": 554607,
+      "sha256": "6962f61d560e81489d4eacc844fd9ee1955cf92836563b820df5a240c4d25b0c"
+    },
+    "GODOT_first.json": {
+      "bytes": 336252,
+      "sha256": "6c4c1092142fe973309d21a8c7df8c558b6560e4966ffa304897bcc1a7c6164f"
+    },
+    "GODOT_repeat.json": {
+      "bytes": 336252,
+      "sha256": "6c4c1092142fe973309d21a8c7df8c558b6560e4966ffa304897bcc1a7c6164f"
+    },
+    "GODOT_RUNS.json": {
+      "bytes": 382,
+      "sha256": "c7107dc679e189779445b714bc1f742307095af2c3245abff4d7a2a1b64ea13f"
+    },
+    "MAPPING_GD.json": {
+      "bytes": 912,
+      "sha256": "8263ab136e6ecc1dfe9eb13ee206cc109fef81ebd02db2c2bb2bc225b6d2d6e8"
+    },
+    "MAPPING_GD_first.json": {
+      "bytes": 864,
+      "sha256": "1d156d62ac9440658dc85ac353eae0c7fd8e49486022a19980d038214b0bb120"
+    },
+    "MAPPING_GD_repeat.json": {
+      "bytes": 864,
+      "sha256": "1d156d62ac9440658dc85ac353eae0c7fd8e49486022a19980d038214b0bb120"
+    },
+    "MAPPING_PYTHON.json": {
+      "bytes": 470,
+      "sha256": "4c72fdb29065ab8ac3a8e66590b042bc05245603499c9a49ec2ba085f6995e8c"
+    },
+    "MAPPING_COMPARISON.json": {
+      "bytes": 461,
+      "sha256": "5ef8ff0f450688e6b76f69b2aaa626e57576d756cabb96a798e7eb1f1cc31e98"
+    },
+    "FINAL_VERIFICATION.json": {
+      "bytes": 917,
+      "sha256": "1b9fe0b6cc8bef6f79245c6a51bbbd230abe767f92a932fdf76205118b8eb8f5"
+    },
+    "DEPENDENCY_SCOPE.json": {
+      "bytes": 3050,
+      "sha256": "b1f16b94379d659dcc582cf5641d7b38220d2690715074e6c026bc51a588d368"
+    },
+    "NUMERIC_DOMAIN.json": {
+      "bytes": 429,
+      "sha256": "e1c5d1cc17b24825c11689740a9fe21ac36ceb174655d9ec4638f8c9154dc3c0"
+    },
+    "REPLAY_INPUTS.json": {
+      "bytes": 1759,
+      "sha256": "24da5b4cfe4c97ab26985648d9b9b88674d390ee1dda8cb73778104b6b93cea9"
+    },
+    "REPLAY_RESULT.json": {
+      "bytes": 518,
+      "sha256": "b2046feaff47fbe0665c4e60e0ead7d7a6c69ad6cc0795cb97b3a354a1bdfc2d"
+    },
+    "REPLAY_GODOT_RUNS.json": {
+      "bytes": 382,
+      "sha256": "9c054438cae0616798fc199247512955e62f8546e55c95f648bef66efaf754e5"
+    },
+    "REPLAY_MAPPING_COMPARISON.json": {
+      "bytes": 460,
+      "sha256": "1ce14f47075a0621e924ef66d8e7317e2e2e35d9cda27ea4b9935c4a540b6a05"
+    },
+    "GODOT_first.stdout.log": {
+      "bytes": 139,
+      "sha256": "2da1397d3ff068bf3cc512a97fd878834f3956283dc63afbbdd62fe65a8b394f"
+    },
+    "GODOT_first.stderr.log": {
+      "bytes": 352,
+      "sha256": "d602b061c0c373b251253343227740e644533ec94beb62c8a05758349c0e0fde"
+    },
+    "GODOT_repeat.stdout.log": {
+      "bytes": 139,
+      "sha256": "2da1397d3ff068bf3cc512a97fd878834f3956283dc63afbbdd62fe65a8b394f"
+    },
+    "GODOT_repeat.stderr.log": {
+      "bytes": 352,
+      "sha256": "d602b061c0c373b251253343227740e644533ec94beb62c8a05758349c0e0fde"
+    },
+    "MAPPING_first.stdout.log": {
+      "bytes": 840,
+      "sha256": "fed8fec52b22050fccc59e3b4a99ab37c04270b361f70624b7627029c829e0cc"
+    },
+    "MAPPING_first.stderr.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "MAPPING_repeat.stdout.log": {
+      "bytes": 840,
+      "sha256": "fed8fec52b22050fccc59e3b4a99ab37c04270b361f70624b7627029c829e0cc"
+    },
+    "MAPPING_repeat.stderr.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "original_inputs/core/imperial_defender_sources.gd": {
+      "bytes": 25322,
+      "sha256": "0df420bfb454fea3b9f0ba07dcc190698c8644762858564349ef03a5cc304065"
+    },
+    "original_inputs/core/phase_undead_army_sources.gd": {
+      "bytes": 17176,
+      "sha256": "69cf2c15d954e082fd37e2b01d37347d1a515aa00d9a43514b5509f5ee9e2af7"
+    },
+    "original_inputs/core/pool_identity.gd": {
+      "bytes": 2004,
+      "sha256": "cf9388a9288d0f3684be277fa91ca6845b6d8945fdd7cd065e9d499c06b7b4af"
+    },
+    "original_inputs/research/imperial_defender_native_recovery/candidates/tools/imperial_defender_patterns.py": {
+      "bytes": 18977,
+      "sha256": "397ce11d0ed60fb99bf6388941067ec71080fdbdd46344c216a2b4abf67cbb56"
+    },
+    "original_inputs/research/imperial_defender_native_recovery/expected_compiled.json": {
+      "bytes": 3687,
+      "sha256": "641ed8efc765fbaac0f5b70627c470883d375cae25a4cf1a2cc0f5e3d0ba7b8c"
+    },
+    "original_inputs/research/imperial_defender_native_recovery/integration_manifest.json": {
+      "bytes": 3703,
+      "sha256": "22df331e88a40ea2c3e7cda5fd7ddbcb1bbaf8d544d43f3b63c8483d1b9e4f43"
+    },
+    "original_inputs/research/imperial_defender_native_recovery/native/BG22_HERO_007_Buddy.xml": {
+      "bytes": 3729,
+      "sha256": "1449fb535cc9962b46479e504f3d4bf3f0c1e999b43c0e18bb31eafe3578ffd9"
+    },
+    "original_inputs/research/imperial_defender_native_recovery/native/BG22_HERO_007_Buddy_G.xml": {
+      "bytes": 3929,
+      "sha256": "421af71ff0810839d7c9a7f2223bae8442f092a5643be8f39fec07e441ead62e"
+    },
+    "original_inputs/research/imperial_defender_native_recovery/native_quantities.json": {
+      "bytes": 1234,
+      "sha256": "a0c6946ff3e6a00b40c1529bc3b58caeb5e2f65e69a325c1d69aff589094b5b6"
+    },
+    "original_inputs/research/imperial_defender_native_recovery/programs.json": {
+      "bytes": 587,
+      "sha256": "d538a2c04a2aa58ab44b6051b8adea775382c7f4ffd6957fe6cdcfdc0cef29f6"
+    },
+    "original_inputs/research/imperial_defender_native_recovery/raw_rows.json": {
+      "bytes": 18847,
+      "sha256": "a9c19eca79e0cabd05b886ee3c178304b66140227147d3633dcdf411bf1d8f38"
+    },
+    "original_inputs/research/imperial_defender_native_recovery/shared_changes.patch": {
+      "bytes": 123630,
+      "sha256": "7cf45ac6ce06c1d162ed8109d7f9d19995a20293345a08862a4f242c6fb3fed2"
+    },
+    "original_inputs/research/imperial_defender_native_recovery/shared_manifest.json": {
+      "bytes": 3403,
+      "sha256": "271568d40dc7f780fd36ff97aaf3a7c61facbd095a50ee932ab10369d769d746"
+    },
+    "candidate/strict_equality_correction.patch": {
+      "bytes": 19663,
+      "sha256": "2571eb5a312a30efa6f51f77ce3b7b17fc2bde55c0bfbaf8adab99024cbbf5be"
+    },
+    "candidate/tools/imperial_defender_patterns.py": {
+      "bytes": 19475,
+      "sha256": "bf3fffeaa2efe948fda69fe88b829f07353713e753de6a7e21cc093748c86a3b"
+    },
+    "gd_minimal/core/imperial_defender_sources.gd": {
+      "bytes": 25322,
+      "sha256": "0df420bfb454fea3b9f0ba07dcc190698c8644762858564349ef03a5cc304065"
+    },
+    "gd_minimal/core/phase_undead_army_sources.gd": {
+      "bytes": 17176,
+      "sha256": "69cf2c15d954e082fd37e2b01d37347d1a515aa00d9a43514b5509f5ee9e2af7"
+    },
+    "gd_minimal/core/pool_identity.gd": {
+      "bytes": 2004,
+      "sha256": "cf9388a9288d0f3684be277fa91ca6845b6d8945fdd7cd065e9d499c06b7b4af"
+    },
+    "gd_minimal/gate.gd": {
+      "bytes": 5659,
+      "sha256": "e896c20a03555ca9f360b5b1ac2ec1b3526d0cb273f899d2c921e7dc08ddb6e4"
+    },
+    "gd_minimal/mapping_probe.gd": {
+      "bytes": 1910,
+      "sha256": "89a563540d45be553db5ee3be08b38ba81db60def4a4f24b7898a7387a724153"
+    },
+    "gd_minimal/project.godot": {
+      "bytes": 119,
+      "sha256": "512f4441223da4646adc7a19094704b3fc0236e90864560ffb599bd806f0152d"
+    },
+    "PACKAGE_FILES_SHA256.json": {
+      "bytes": 8241,
+      "sha256": "04fcc85fa07b70c2d810796b13f9039a97603eefdb4ff1919c6cf6cadda0f003"
+    }
+  },
+  "members": 57,
+  "candidate_not_installed": true,
+  "known_mapping_counterexamples": 3,
+  "remaining_reference_gaps": 345,
+  "game_or_save_accepted": false,
+  "old_dependencies_reverified": false
+}
