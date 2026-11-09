@@ -1,0 +1,128 @@
+PASS: archive historical_tools_batch1_candidate_20261109 199 members
+PASS: archive native_spell_listener_leaf_partial_candidate_20261109 247 members
+PASS: archive earth_mother_helper_leaf_partial_candidate_20261109 79 members
+PASS: archive native_golden_source_leaf_partial_candidate_20261109 71 members
+PASS: archive golden_arrow_tool_patch_reconstruction_candidate_20261109 98 members
+PASS: archive megasaur_tool_fixed_pin_candidate_20261109 143 members
+PASS: historical baseline before 27893 actual files
+PASS: five historical originals/installation records/current literals; 86 unchanged pins; upstream 367-item inventory now has 361 missing paths
+PASS: historical baseline after 27893 actual files
+{
+  "status": "PASS_EXACT_STREAMED_SOURCE_MAP_BYTES_WITH_FIVE_HISTORICAL_TOOL_CANDIDATES",
+  "candidate_status": "FIVE_HISTORICAL_TOOL_CANDIDATE_SCOPED_VALIDATION_PASS",
+  "archive_commit": "1e60aed5d8555d76a0e81704e84ad15dacb737d2",
+  "repository_path": "battlegrounds-backup/pending/20261109-historical-tools-batch1-candidate",
+  "manifest_sha256": "1339271a1dc7d2789e931e1a2c2270d9b45613ed5717a7269332919949c7624d",
+  "archive_sha256": "d4de01b2fa7a530c00b383455e94f1a0da62d81c68b03b4205b90aca1c46aea1",
+  "archive_bytes": 1144624,
+  "parts_verified": 5,
+  "members_verified": 199,
+  "internal_manifest_members_verified": 198,
+  "input_verified_commit": "d26dc87ff20c600c651bcee24b0d3dffa056a79f",
+  "input_manifest_sha256": "b79689ba046d94fc59f08b8c870cde67e0ed46fe1d3dbf32b0f103db7f78b370",
+  "input_receipt_sha256": "58b2679422af16d3d0705f6f6eb7f2791dc42308a4f0c3b0f3a67c56f9d6abf4",
+  "input_source_map_sha256": "28b1d1c523dfc566bc5eacd04ccea1e1787c1b15e0cca8f9e67ecf9229b46bf4",
+  "source_map_sha256": "53da1c13fbebb6eb8c5672ad8828109720efdfab1a8a97b6792a6da3202e6080",
+  "historical_full_tree_files_rehashed_before_and_after": 27893,
+  "historical_tree_source_map_sha256": "e31eb74faca1a774b42a7c8bcef11b1592eae64ad350b08fa930f9a1d7cd64fe",
+  "prior_archive_verifications": [
+    {
+      "archive": "native_spell_listener_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "46ceb12b81c5db0c417933482d6572f3c89693d2ba3ef2d507ccebc5f0ed4ec7",
+      "members_reverified": 247,
+      "source_files": 5,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "earth_mother_helper_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "333aad27ba8ed0d0699c97cd4a33be5494310247a8350993532cd725f26e753c",
+      "members_reverified": 79,
+      "source_files": 4,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "native_golden_source_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "181a6415d954795e0b40286165c39a55d0469745185e7e6d24840eb769025cef",
+      "members_reverified": 71,
+      "source_files": 3,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "golden_arrow_tool_patch_reconstruction_candidate_20261109.tar.xz",
+      "sha256": "3122135a4912a58c361b522e67b946dffbbe29b3618051972a4898e8cac7edd9",
+      "members_reverified": 98,
+      "source_files": 1,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "megasaur_tool_fixed_pin_candidate_20261109.tar.xz",
+      "sha256": "27514275c7204a972de2a5193b93deb35c7d4a72b137d1bc5c9477c2f7e9cf66",
+      "members_reverified": 143,
+      "source_files": 1,
+      "freshly_downloaded_this_round": false
+    }
+  ],
+  "direct_input_files_verified_by_actual_bytes": 27899,
+  "target_files_streamed_and_verified": 27904,
+  "actual_target_bytes_streamed": 1548838936,
+  "stream_source_origins": {
+    "historical_tree": 27885,
+    "native_listener": 5,
+    "earth_mother": 4,
+    "golden_source": 3,
+    "golden_tool": 1,
+    "megasaur_tool": 1,
+    "fresh_batch1_tools": 5
+  },
+  "aggregate_stream_sha256": "03ffe29f1a3a9b1180d48551f129b7896c49946c2c5f37d182d65a968404c385",
+  "aggregate_stream_format": "Sorted UTF-8 target path, NUL, ASCII file byte count, NUL, actual file bytes; repeated for every target file.",
+  "change_lists": {
+    "added": [
+      "tools/amalgadon_native_patterns.py",
+      "tools/hasty_excavation_patterns.py",
+      "tools/sacrificial_altar_patterns.py",
+      "tools/suspicious_stimulant_patterns.py",
+      "tools/toxic_tumbleweed_patterns.py"
+    ],
+    "modified": [],
+    "removed": []
+  },
+  "historical_originals_and_supporting_evidence_match_actual_baseline_bytes": true,
+  "historical_installation_and_shared_manifest_hashes_rechecked": true,
+  "restored_python_ast_parse_passed": true,
+  "current_source_literal_comparisons_passed": 11,
+  "current_source_pins_verified": 86,
+  "five_tools_themselves_are_current_fixed_pins": false,
+  "current_pin_constants_unchanged": true,
+  "latest_installed_versions_proven": false,
+  "prior_inventory_before_items_preserved": 367,
+  "remaining_missing_within_inventory_scope": 361,
+  "remaining_historical_candidates_from_68": 63,
+  "upstream_full_inventory_and_selected_rows_reverified": true,
+  "inventory_scan_repeated_this_round": false,
+  "inventory_scope": "Original 367 pre-restoration targets, not all possible tools gaps. This batch adds five and leaves 361 absent; original inventory records preserved.",
+  "partial_validation_only": true,
+  "full_game_validation_passed": false,
+  "save_compatibility_verified": false,
+  "full_catalog_fingerprint_executed": false,
+  "full_compiler_executed": false,
+  "gameplay_test_run_by_verifier": false,
+  "Godot_proof_error_rerun_by_verifier": false,
+  "candidate_Python_modules_executed_by_verifier": false,
+  "whole_game_memory_improvement_verified": false,
+  "complete_runtime_directory_created": false,
+  "verification_mode": "Actual per-file bytes from reused Harbinger tree and five pinned archive layers, plus freshly downloaded five-file batch delta; not merely map comparison.",
+  "historical_chain_freshly_downloaded_this_round": false,
+  "increment_downloaded_by_this_helper": false,
+  "increment_input_mode": "Separately fetched pinned bytes; see FETCH_PROVENANCE.json proving all five part objects absent before fetch.",
+  "historical_baseline_and_prior_archives_unchanged": true,
+  "missing_files_relative_to_source_map": [],
+  "mismatched_files_relative_to_source_map": [],
+  "unexpected_files_relative_to_source_map": [],
+  "source_map_equality_does_not_establish_complete_game_recovery": true,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "free_disk_bytes_before": 3450126336,
+  "free_disk_bytes_after": 3432697856,
+  "verified_at_utc": "2026-11-09T07:12:53.271460+00:00"
+}

@@ -1,0 +1,666 @@
+{
+  "archive": "megasaur_tool_fixed_pin_candidate_20261109.tar.xz",
+  "bytes": 1490252,
+  "sha256": "27514275c7204a972de2a5193b93deb35c7d4a72b137d1bc5c9477c2f7e9cf66",
+  "files": {
+    "megasaur_tool_fixed_pin_candidate_20261109/BASE_MAP.json": {
+      "bytes": 4603717,
+      "sha256": "bfd5d82ede8559200aed89547e4584ac091873a9392079af5ee20c41ea764a0a"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/CHANGES.json": {
+      "bytes": 267,
+      "sha256": "3a24469909355f4501fef4798fe2d9876006caef02ea17b3889b11f9d776ed56"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/PACKAGE_MANIFEST.json": {
+      "bytes": 22988,
+      "sha256": "58d9a3eb1cd8b01fe0cb1f24f9699f1790f572173d37f4a42c8a78496ae2dccc"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/PLAN.json": {
+      "bytes": 729,
+      "sha256": "90b128a60d54388a505cb3b3f75afbd5c4010ec934eef78de90de1478f104fb5"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/PORTABILITY.json": {
+      "bytes": 575,
+      "sha256": "0c015eb8ebc6b14ecbaacfc2cdc92165013c80bc070980e77ef30921ddd2b167"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/PROVENANCE.json": {
+      "bytes": 2543,
+      "sha256": "ca785e6c1417bc64afe619d58073f4020db8f04a491b05d66862cd91da9e65e5"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/README.md": {
+      "bytes": 5010,
+      "sha256": "6ebb1a7e7e38ab68cee2429cafd0d2ad020e423e78675cf6e643f8a937416149"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/RESULT.json": {
+      "bytes": 4324,
+      "sha256": "7296123963f70902ffe223d3017d014f2c3ebbefe5953c91d7df02645014a3ea"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/SOURCE.patch": {
+      "bytes": 32486,
+      "sha256": "0ee6e72e77fac35dc402289de67ec12bfed081ac387244dc934db7520b0273fd"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/SOURCE_MAP.json": {
+      "bytes": 4603863,
+      "sha256": "28b1d1c523dfc566bc5eacd04ccea1e1787c1b15e0cca8f9e67ecf9229b46bf4"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/STATIC_AND_CROSS_CHECKS.json": {
+      "bytes": 5247,
+      "sha256": "e6df1dda51783d9dfbfd090195141abc3176609b3992608010134e1d4bb524c1"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/STATIC_PIN_COMPARISON.json": {
+      "bytes": 24785,
+      "sha256": "0239034b6b8903cb49d5d745c7f9f6a16243e44486ffa78b127430ad706fc347"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/after/LAUNCH.json": {
+      "bytes": 1430,
+      "sha256": "504028e128ada7e75b9c312c669d939b760606675c4ea25d9874d9806d80be9a"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/after/PROCESS.json": {
+      "bytes": 1611,
+      "sha256": "5fb457cd0b25627ec6525bf9835428ef042070444e0d8d0314c75d0652b049a5"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/after/gate_executed.gd": {
+      "bytes": 3600,
+      "sha256": "1b4ad5871688adef79b1225bc0dde466a42d0805b1c7f90cc4e86a3a91315c04"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/after/native.log": {
+      "bytes": 132,
+      "sha256": "613a9dcc7b5945d612d6be60c05c62d0a8b9360a918c78a5448aebe93614fcf3"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/after/report.json": {
+      "bytes": 34001,
+      "sha256": "47ab12df378f062d886e9fcef62285b8a0b3b15c2889e9b2c12aea48ae119437"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/after/samples.jsonl": {
+      "bytes": 19992,
+      "sha256": "b0041351e0013482924ff669b27e258865f868d85a5bd933bddd5fd1e8c07362"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/after_INPUT_MAP.json": {
+      "bytes": 8447,
+      "sha256": "0d44f76f760ad81ce2cf15c688c8b9f36934e8ade872196db6d9ccc3684b223c"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/before/LAUNCH.json": {
+      "bytes": 1432,
+      "sha256": "1b15f63d651afbf37847182e5b1163a10d76b047404c64305ddbfdf5599956af"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/before/PROCESS.json": {
+      "bytes": 1613,
+      "sha256": "7eb6636faed2cd07935dee72769ce36caa251619e39d30eda89b48908d88931a"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/before/gate_executed.gd": {
+      "bytes": 3600,
+      "sha256": "1b4ad5871688adef79b1225bc0dde466a42d0805b1c7f90cc4e86a3a91315c04"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/before/native.log": {
+      "bytes": 133,
+      "sha256": "9934679e6903547c25c19ad7a3245b7f74cd85540c8f949530f6ad762bfdb8b4"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/before/report.json": {
+      "bytes": 33992,
+      "sha256": "667b60431239db5ec2989dbe4d27f8e9590b4d2808817ff3914422e2bd21fbd1"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/before/samples.jsonl": {
+      "bytes": 23663,
+      "sha256": "6961a642996fb3aeb7974ce572573791b74cf293378941053953e4fa0a293d5e"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/before_INPUT_MAP.json": {
+      "bytes": 8301,
+      "sha256": "19ba457a5404f91b4113e8e7ed181a803da76c2c5fb0861ae3f9caaa2717e604"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/build.py": {
+      "bytes": 7564,
+      "sha256": "5edec44fc4d673bfffd2b44dd4a06408390f26fc0ff1ac11be1521e49eb79414"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/delta/tools/megasaur_adapt_patterns.py": {
+      "bytes": 32296,
+      "sha256": "adf31c928468bb9be4dcca89bda2dd0096626dbbbc926dae639ce24bea23b1a2"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/CATALOG_FINGERPRINT_EXCERPTS.json": {
+      "bytes": 523,
+      "sha256": "0bf2257d2ef3fe79bb07179a579321825d97c101a45c9f9a9488c94e2282144d"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/FINAL_REMOTE_PUBLICATION_RECEIPT.json": {
+      "bytes": 590,
+      "sha256": "d723fac774b1d1ada18feb0a605e5f53f921fb603cbde6180e6f26354873d608"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/FINAL_REMOTE_READBACK.json": {
+      "bytes": 1905,
+      "sha256": "f2be172c7ba37f2bc166050887c343331dcf8ccbf4be22464784183ae49a0f31"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/INVENTORY_SNAPSHOT_MAP.json": {
+      "bytes": 3018,
+      "sha256": "eef77db7c38ec608efabae8a947323d22b2e676b48d7463043d8d03ecd5e2ec1"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/PRIOR_INVENTORY_TARGET.json": {
+      "bytes": 5039,
+      "sha256": "d131e4156935ebe6386973dc983f68941e354bd7f02b336c8515e32b6930b82a"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/historical/research/megasaur_adapt_native_recovery/candidates/research/megasaur_adapt_native_recovery/source_candidates_manifest.json": {
+      "bytes": 8072,
+      "sha256": "f8408947288fb0318d2b38f156a77ca30e4c449065a95fccf7c8cee56773be42"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/historical/research/megasaur_adapt_native_recovery/candidates/tools/megasaur_adapt_patterns.py": {
+      "bytes": 32296,
+      "sha256": "adf31c928468bb9be4dcca89bda2dd0096626dbbbc926dae639ce24bea23b1a2"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/historical/research/megasaur_adapt_native_recovery/megasaur_adapt_candidates.patch": {
+      "bytes": 520516,
+      "sha256": "bb48b402c964ea5e1a49a81e1a5d6e9e097152219f05daf6b5eb9874f5402f4c"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/historical/research/megasaur_adapt_native_recovery/source_candidates_manifest.json": {
+      "bytes": 8072,
+      "sha256": "f8408947288fb0318d2b38f156a77ca30e4c449065a95fccf7c8cee56773be42"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/historical_original.py": {
+      "bytes": 32296,
+      "sha256": "adf31c928468bb9be4dcca89bda2dd0096626dbbbc926dae639ce24bea23b1a2"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/ALL_LITERAL_REFERENCES.json": {
+      "bytes": 382500,
+      "sha256": "bdc66568bf0bcf15a980c28620625ce66b32d2bab2efd8b56328c0125ed16476"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/ARCHIVES_CHECKED.json": {
+      "bytes": 20150,
+      "sha256": "d30e5340f410ad76494ca6a760ee40f7af228158b8afb6704cbf5a760168209e"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/ARCHIVE_PATCH_RECORDS.json": {
+      "bytes": 56988,
+      "sha256": "141f26e8c302aebed8464044032a02a836383e1982a299c93ab528774cc9757c"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/ARCHIVE_SCAN_SUMMARY.json": {
+      "bytes": 389,
+      "sha256": "7c94dc0e8e443c4791306c72467fc32f55bbcfba376f08ec662434381fe41148"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/ARCHIVE_WHOLE_COPIES.json": {
+      "bytes": 132689,
+      "sha256": "1448acfe085e3c793c405e1e612de2a558674ccf4281746fa83f285dfe6d8953"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/BATCH_CANDIDATE_SHORTLIST.json": {
+      "bytes": 53623,
+      "sha256": "27bf5443ee97d2b87ad7b96eebc46b4a50790b1fb1f52801d6662242d5923c9e"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/CODE_PIN_REFERENCES.json": {
+      "bytes": 204,
+      "sha256": "f678723fc8b7f1190bc4c43baf4a0ee236fd6d3d07a7b9731d827780dda968a1"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/CURRENT_TREE_INVENTORY.json": {
+      "bytes": 489801,
+      "sha256": "13963e9836262aef2654f8fdef35c7c3eb83397526b5005ff10b5e79ad3d495d"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/FINAL_INVENTORY.json": {
+      "bytes": 911019,
+      "sha256": "7effa94593dc29bd4e1e91fa9f141f13bb6db0c62b4ba65ae18dd92cf63c08a1"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/FINAL_SUMMARY.json": {
+      "bytes": 1854,
+      "sha256": "0a285cda908b317b3b2fa0e6018750ce5f24326e51611a4bf25986f0393533c4"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/HISTORICAL_PYTHON_IMPORT_USES.json": {
+      "bytes": 14402771,
+      "sha256": "9839fcaa6d150cb02d9f234e5c4447d9affc24b35caac8a3a251f96fe6487cb1"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/MEGASAUR_FIXED_PIN_AUDIT.json": {
+      "bytes": 445,
+      "sha256": "8355a5b35850352ab1264910006023d303296b0f4c3de32ebac176c18de0d465"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/NON_CATALOG_NON_RUNTIME_PATH_USES.json": {
+      "bytes": 652,
+      "sha256": "ea175a4b053533d60df48113d07e333b728d3c01f1eaba30c1288830c564041f"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/PRELIMINARY_SUMMARY.json": {
+      "bytes": 877,
+      "sha256": "2fd866cff08c0d8c9bc7e652439fb4086b35bbb84a3847702cb072ddb46f5eba"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/README.md": {
+      "bytes": 5755,
+      "sha256": "357db9b795a7bceab614f53b25355163452dfc2079f3c87a2010db40b0d3dc17"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/REFINED_CURRENT_TREE_INVENTORY.json": {
+      "bytes": 737465,
+      "sha256": "cc983da910e76da6a707b4594ca7ea995ba125b1151f1ba7017a398e78ec8136"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/REFINED_CURRENT_TREE_SUMMARY.json": {
+      "bytes": 656,
+      "sha256": "6a021fe63ca8b739e2dc70c1b2243cce035926896f510f0afa2487b468b103ac"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/ROLE_ANALYSIS.json": {
+      "bytes": 1074,
+      "sha256": "87ae4062845db0751a3d68ae9fb41e7b5ecfbaed9fb57fcd054bf5ead81ac99f"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/finalize_report.py": {
+      "bytes": 4451,
+      "sha256": "efd6e665ce72b19df98192a6513d39f0bd54e3b6aceebb6f75287cb757370003"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/inventory.py": {
+      "bytes": 5756,
+      "sha256": "07d57cc7e744ca2f76c617ce16bbb70be5e9db279438022673363ede14d7a89d"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/refine.py": {
+      "bytes": 6342,
+      "sha256": "7d5b4cce0718b892d4ff3f6ceeeffacc6989e93e8a5cc6698a5bc7c8b2db5cee"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/evidence/tools_reference_inventory_20261109/scan_archives.py": {
+      "bytes": 3209,
+      "sha256": "74c6b7ed5fd8679a1df5cccd10fdcf04568161face7cfff621a301fb413f0149"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/finalize.py": {
+      "bytes": 8209,
+      "sha256": "1b2ba0c52d30cd340f1510f776790026f9a97b31a82919bde5d43ddc45ba88ba"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/gate.gd": {
+      "bytes": 3600,
+      "sha256": "1b4ad5871688adef79b1225bc0dde466a42d0805b1c7f90cc4e86a3a91315c04"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/package.py": {
+      "bytes": 2280,
+      "sha256": "6887e3083039435a8bcb2b94d11d08c8b099963566b6cf3de3efd8280a91ac45"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/after/LAUNCH.json": {
+      "bytes": 1472,
+      "sha256": "63976f90440a6f8f12efaf4c2c482b24fcd1a15df0d723438722268f1c7a657a"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/after/PROCESS.json": {
+      "bytes": 1653,
+      "sha256": "9083aa89e310cae88f33841148cc9dd81e26e1517bb4a7f3ece8c098f72ec837"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/after/gate_executed.gd": {
+      "bytes": 3600,
+      "sha256": "1b4ad5871688adef79b1225bc0dde466a42d0805b1c7f90cc4e86a3a91315c04"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/after/native.log": {
+      "bytes": 132,
+      "sha256": "613a9dcc7b5945d612d6be60c05c62d0a8b9360a918c78a5448aebe93614fcf3"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/after/report.json": {
+      "bytes": 34001,
+      "sha256": "47ab12df378f062d886e9fcef62285b8a0b3b15c2889e9b2c12aea48ae119437"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/after/samples.jsonl": {
+      "bytes": 19902,
+      "sha256": "8a5324a302d8e1a551e0caf99c1e1093c1c554430e7793c08c9e0eb392513463"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/before/LAUNCH.json": {
+      "bytes": 1474,
+      "sha256": "c444d926a4f1476658d7c6bf7222a0a9a6450ae72c6feb9839a572c1220a1260"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/before/PROCESS.json": {
+      "bytes": 1655,
+      "sha256": "c1c2806516158a37823b2317edbe67bb108c11afe731e4ed0c02318bf25b3349"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/before/gate_executed.gd": {
+      "bytes": 3600,
+      "sha256": "1b4ad5871688adef79b1225bc0dde466a42d0805b1c7f90cc4e86a3a91315c04"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/before/native.log": {
+      "bytes": 133,
+      "sha256": "9934679e6903547c25c19ad7a3245b7f74cd85540c8f949530f6ad762bfdb8b4"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/before/report.json": {
+      "bytes": 33992,
+      "sha256": "667b60431239db5ec2989dbe4d27f8e9590b4d2808817ff3914422e2bd21fbd1"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/before/samples.jsonl": {
+      "bytes": 21569,
+      "sha256": "dee40de3a0062a9c71d88fe1a0d521e7ce9bc440f9dd83193c2cfa1ba21bc15b"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/tamper/LAUNCH.json": {
+      "bytes": 1474,
+      "sha256": "61c22c560b60fd9d6cea238d8574fb9cb3d0fa67d19b19ebb94fedac6f290ade"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/tamper/PROCESS.json": {
+      "bytes": 1654,
+      "sha256": "3c063900eae5577fe47777953c5a78dbf508e006348353813ce582bceec6fc90"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/tamper/gate_executed.gd": {
+      "bytes": 3600,
+      "sha256": "1b4ad5871688adef79b1225bc0dde466a42d0805b1c7f90cc4e86a3a91315c04"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/tamper/native.log": {
+      "bytes": 133,
+      "sha256": "ada00f34ea132df2906f9508afca0287fac91a91ee304700de50c02abf7f68ed"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/tamper/report.json": {
+      "bytes": 34054,
+      "sha256": "dfedcb973b52be61997056d5fce23b9d13ee9ce0fbfbed3cff6ca73b65f97f1f"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/portable_reports/tamper/samples.jsonl": {
+      "bytes": 21033,
+      "sha256": "497c0e0b5c1362601e5bc4929210ea93bfcbcea0c7bd8c9774bb4693cdaae225"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/prepare_probes.py": {
+      "bytes": 1067,
+      "sha256": "6e5602e20bf004f02a3e86c9ddef124a7bd735944589a3089c4836ff8a38834f"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/core/amalgadon_host.gd": {
+      "bytes": 18372,
+      "sha256": "1ce8c8186e001b8cbb1d997563e5947c86128ce831654d1a70836362c5dbba8b"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/core/amalgadon_sources.gd": {
+      "bytes": 32860,
+      "sha256": "7345fd98a09f8e04cf669e4b2dd11ac876df0621ca05dd1b0bb659f270515fe8"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/core/amalgadon_state.gd": {
+      "bytes": 4253,
+      "sha256": "f58c4487c402275ab7b1eb9095646ca5bef5ff301987409135cc081c9bd0e2e4"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/core/megasaur_adapt_grants.gd": {
+      "bytes": 10054,
+      "sha256": "6b401fb7d58ef8a0cb8eec00ad06a26f55e0d9636aaffae3984b485e5297502a"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/core/megasaur_adapt_host.gd": {
+      "bytes": 28608,
+      "sha256": "9caf350b0a82c473957dae4b4046fcaa3a67d1b9b3f2853cedf7328a87eca10d"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/core/megasaur_adapt_sources.gd": {
+      "bytes": 35843,
+      "sha256": "0f0b7a928a105601d793763bf9fc8ebb4475f951b291efa5dee85fede71c3653"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/core/pool_identity.gd": {
+      "bytes": 2004,
+      "sha256": "cf9388a9288d0f3684be277fa91ca6845b6d8945fdd7cd065e9d499c06b7b4af"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/data/native_megasaur_adapt_token.json": {
+      "bytes": 1508,
+      "sha256": "046ec7a225298243b3d92a2eb66c25bbab9918b506803c7216e0c1a7047ba11b"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/project.godot": {
+      "bytes": 131,
+      "sha256": "7de5267398cf5655341afec076f9df33e79b963c7a5619b4d0c0d561bd800bd7"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/amalgadon_native_recovery/expected_compiled.json": {
+      "bytes": 3553,
+      "sha256": "6e7a1182f299e5445c1e149fd14d51b6f78e5ac5c8f55257251904e20227a46d"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/amalgadon_native_recovery/local_policy.json": {
+      "bytes": 1359,
+      "sha256": "a1ee8f86e53dc2cf85f660922f6d5692a70e97d14463d61b571c1c4474e48fe8"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/amalgadon_native_recovery/native/BGS_069.xml": {
+      "bytes": 3267,
+      "sha256": "6f92cca144fa85166afbca7378620172d33cd8e8ad76303a00424231a0d7b46d"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/amalgadon_native_recovery/native/TB_BaconUps_121.xml": {
+      "bytes": 3436,
+      "sha256": "fca37403c5f27413a507bc4bcad1c1f6e8f121527aba3c57f035edb1f21227f2"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/amalgadon_native_recovery/native_quantities.json": {
+      "bytes": 2040,
+      "sha256": "33372b06f42e183109e8912ead8067fd03d5b01e6f8dba72dd9b6fda0b9d40b6"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/amalgadon_native_recovery/native_source_manifest.json": {
+      "bytes": 9863,
+      "sha256": "0f9048e014e5b5227fba089bd0bc4f69f87561a0a62206bc716ff8a228d22f31"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/amalgadon_native_recovery/pending_catalog_overlay.json": {
+      "bytes": 3624,
+      "sha256": "79913eadf23ad6a712c1678e1f53442ec6373f72cbb71100905a273116010431"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/amalgadon_native_recovery/programs.json": {
+      "bytes": 277,
+      "sha256": "40d361f9298be4de7763dab0e51e44447e3641349a25bf1e23e0824ab6f87f26"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/amalgadon_native_recovery/raw_rows.json": {
+      "bytes": 13248,
+      "sha256": "73b79ab202d5658d90832ccc6b2642a99d092aa684b7e1458c510c1500db83c3"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/BGS_031.253932.native.xml": {
+      "bytes": 2731,
+      "sha256": "b66efda5fff1fac86fb20561b9ec1153ecd489678f946201f41afd9900a32f0a"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/TB_BaconUps_084.253932.native.xml": {
+      "bytes": 2964,
+      "sha256": "5476faacbb49d656c07aa1459928dd5f21f4ea2337deef832034ce2dad4463ca"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t10.253932.native.xml": {
+      "bytes": 2166,
+      "sha256": "83a64c9ac86c2341163986a977514bd7eff7811b5352d02a4ae158f3686c714d"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t10e.253932.native.xml": {
+      "bytes": 1735,
+      "sha256": "71ce1d297da442cfb40c4ceaddf6d2d7591712ce488f220b978f58f3e956b751"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t13.253932.native.xml": {
+      "bytes": 1654,
+      "sha256": "cd0432b63c3a6a006acce9ec9da797e259c06105f8fd29ea67e246495907f8ad"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t13e.253932.native.xml": {
+      "bytes": 1485,
+      "sha256": "5299e7a73c692764c13a046467c2efd08b432016b040980c6dfc8e6847d1b36a"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t14.253932.native.xml": {
+      "bytes": 1326,
+      "sha256": "508c4e1c55a7fba72bf6928cb783dd30342f74a5ce76234b4470fd707e7b2a93"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t14e.253932.native.xml": {
+      "bytes": 1201,
+      "sha256": "f4e73c0fbf25084e958e36cfcb18b8cc7417905e79bf4de8ba53ee18b41fc9e7"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t2.253932.native.xml": {
+      "bytes": 2212,
+      "sha256": "85424761e8285d305bbb2f35eba8450c81ad5048cad70039b878e0f5a4b9cda7"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t2e.253932.native.xml": {
+      "bytes": 2024,
+      "sha256": "728d7cec765ef9471172e234b84f236b328f4d57504c317a1f495dc6ecb52448"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t2t1.253932.native.xml": {
+      "bytes": 923,
+      "sha256": "7b1cdf803bdfac9167fab33373658d4abe7d54051d55800967e434ee3b039aef"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t3.253932.native.xml": {
+      "bytes": 1418,
+      "sha256": "8fa19cdb5549f8c9ae87b45097f740acf1f1843acc30e3c6af050441ac1718b8"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t3e.253932.native.xml": {
+      "bytes": 1315,
+      "sha256": "60ccac4c827773f35b2c7ed12b3728fb548a3e90f4b22a914305e0c34dc440bf"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t4.253932.native.xml": {
+      "bytes": 1417,
+      "sha256": "f09dbd10ed47c939e664a476b1075fbcc2a9447e1962c9a08c251cfa867676ef"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t4e.253932.native.xml": {
+      "bytes": 1316,
+      "sha256": "3d779d63befd0d0a501b5ed5a8f0f1725929c002ee1e4f4aa027cbd06c3ca95b"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t5.253932.native.xml": {
+      "bytes": 1714,
+      "sha256": "549a3aa89fcef6afa562446ec3f1bf55ef48ac71d31297d810fc373cdd6c8b20"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t5e.253932.native.xml": {
+      "bytes": 1548,
+      "sha256": "dfcb00de00469fc6a74c8d148acbc7ea164ecdeb5f44a8717fcc17b3d0353251"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t6.253932.native.xml": {
+      "bytes": 1611,
+      "sha256": "db821cff00cba3430e7b5a3e9073737e6cb2e19b480154b72f17782c59cb5e94"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t6e.253932.native.xml": {
+      "bytes": 1446,
+      "sha256": "49c683a71928f62daf4e8d9cf3a0b3d91e2070a06db434cdc6b1f3290c169ca4"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t7.253932.native.xml": {
+      "bytes": 1758,
+      "sha256": "910cd5fb062488de24d63a4bd7b05fc60eef78c01864016bba6b9bcd143e42f5"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t7e.253932.native.xml": {
+      "bytes": 1590,
+      "sha256": "a1f2a81b1e4ce37c3841e61ed946fc097d5e52c359796fe34165659021d168c7"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t8.253932.native.xml": {
+      "bytes": 1802,
+      "sha256": "04e3cea5f41bece1466cc58a9dbd300886131f0319b0090da41a231d0a28af62"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/UNG_999t8e.253932.native.xml": {
+      "bytes": 1629,
+      "sha256": "b1df4c7582b56f9febf3727cced63b3e0565a2caeb4baf4a4d6a277f300f08fc"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/expected_compiled.json": {
+      "bytes": 5109,
+      "sha256": "ff238dac50e3192d7d760392de20df29a2c03a9445b176ef892ef5966dfa6c32"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/full_native_receipt.json": {
+      "bytes": 36171,
+      "sha256": "7c864151fa4bb2f86273c1626684c5d3702f0562ab27b09137cc0ccd60e60163"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/official_adapt_rules.json": {
+      "bytes": 614,
+      "sha256": "79a62184ad42836944ba85f5d57e3ab527329bdd32aaf5cc4f191f72a7ef6427"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/options.json": {
+      "bytes": 3019,
+      "sha256": "3da2c9b8227d13f48fa72aa0effa179d56962e551e3bd4735dea323795254176"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/programs.json": {
+      "bytes": 311,
+      "sha256": "e80f863018994fb1eac154ffcc6d9254b1a1af5530f6c9e83fdbacf3bd576578"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/raw_source_rows.json": {
+      "bytes": 13676,
+      "sha256": "c7a84f663094637256638d7fa4160f6577aa2ff968e05a05d1465f463c5e5a4e"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/source_contract.json": {
+      "bytes": 61985,
+      "sha256": "da5f4ff234bc55539d1cd72108e1f421f45eb48e0b49e348592d09a4c579bd05"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/probe_inputs/research/megasaur_adapt_native_recovery/token.json": {
+      "bytes": 1620,
+      "sha256": "72e4a3be15fbd5af21fbb1109988d2a48f7c123759d581e35b8ed22afa4f5667"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/restore_leaf_to_new.py": {
+      "bytes": 1047,
+      "sha256": "dc5ef5f4d878c45d3cd2b9332c2bfa755f5d7b29d476a4ef0131206c02d6733a"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/restore_to_new.py": {
+      "bytes": 1367,
+      "sha256": "d01588b47a6992ad9c83bd772657796d88319986e357e80a9e0c8d1e8570f1a2"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/run.py": {
+      "bytes": 3929,
+      "sha256": "d9e8edd6f7e0f9184adf446670f1fae8c3118f06afa7bcb69aa56eb216731cb9"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/tamper/LAUNCH.json": {
+      "bytes": 1432,
+      "sha256": "f3f3d2bfc4415430a057e2c183e2819c4b7e31c9ffed57ba089a507f29a993e6"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/tamper/PROCESS.json": {
+      "bytes": 1613,
+      "sha256": "fb99b10a59b68a2815dc0b7ac538c93682f38f25fcb731b7026b26580d000d31"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/tamper/gate_executed.gd": {
+      "bytes": 3600,
+      "sha256": "1b4ad5871688adef79b1225bc0dde466a42d0805b1c7f90cc4e86a3a91315c04"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/tamper/native.log": {
+      "bytes": 133,
+      "sha256": "ada00f34ea132df2906f9508afca0287fac91a91ee304700de50c02abf7f68ed"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/tamper/report.json": {
+      "bytes": 34054,
+      "sha256": "dfedcb973b52be61997056d5fce23b9d13ee9ce0fbfbed3cff6ca73b65f97f1f"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/tamper/samples.jsonl": {
+      "bytes": 20344,
+      "sha256": "f1c606eb95f7501495b60842cbb2c728c6329fe2648a278ae3da573fa5946e29"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/tamper_INPUT_MAP.json": {
+      "bytes": 8447,
+      "sha256": "0d8830cfd7b6e9130101bd31a7b72e8f28a6a301a0cf24065d083af0d5d5537f"
+    },
+    "megasaur_tool_fixed_pin_candidate_20261109/verify_candidate.py": {
+      "bytes": 4365,
+      "sha256": "d247b6444a8cfb4daaf603171f8acb93c0f79e41c39b2b676ecc549afaf22211"
+    }
+  },
+  "parts": [
+    {
+      "name": "megasaur_tool_fixed_pin_candidate_20261109.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "55a9127889762a947ee147dc2cc75382d8d010bf5b04bfdca12c11651ffc3655"
+    },
+    {
+      "name": "megasaur_tool_fixed_pin_candidate_20261109.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "b78a66e532f06385180bf5f84dc541c08b1ab2fbb8d95973c3b325c3f4e61b2d"
+    },
+    {
+      "name": "megasaur_tool_fixed_pin_candidate_20261109.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "0a38efdd4ad2a7b03eeaad70a96a9e964a6b3c8e23920569633d1687d2d7e54c"
+    },
+    {
+      "name": "megasaur_tool_fixed_pin_candidate_20261109.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "04c77a1f61663b6749a2175e738485e87c63bad6833e74c278439e175d15fb8c"
+    },
+    {
+      "name": "megasaur_tool_fixed_pin_candidate_20261109.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "7a4f3e7831305dfd2118b05913d2b8413a476df7c7ec315184ef11ff3f8c20c8"
+    },
+    {
+      "name": "megasaur_tool_fixed_pin_candidate_20261109.tar.xz.part005",
+      "bytes": 240252,
+      "sha256": "ef5c7767c2bb504cf28a71e347538d20efa1e07d82806bd984f8e4b3d4500323"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "megasaur_tool_fixed_pin_candidate_20261109/SOURCE_MAP.json",
+  "patch_directory": "delta",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 95,
+      "sha256": "4ce01871003684dd9d230ee0b0e6b2955b1eb7280f3b577ec61bf510bf489fc8"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "SHA256SUMS.txt": {
+      "bytes": 116,
+      "sha256": "8a2a36eadb6f7f11c2cd7599400677c14d0f655d8cfe4f7c9aaea65351178b97"
+    },
+    "README.md": {
+      "bytes": 5479,
+      "sha256": "23282d980b72a63dfc684c4f9079f079c014c62f42c5d2418e4362ddf0d96595"
+    },
+    "RECOVERY.md": {
+      "bytes": 3197,
+      "sha256": "f3637fd2030bcf4c0602e556a5fadaacfcf4c879d9d705823669d57aef5def83"
+    }
+  },
+  "depends_on": {
+    "archive_commit": "edf067470abc889b166ea39d1cec97c3dcf7c528",
+    "archive_sha256": "3122135a4912a58c361b522e67b946dffbbe29b3618051972a4898e8cac7edd9",
+    "source_map_sha256": "bfd5d82ede8559200aed89547e4584ac091873a9392079af5ee20c41ea764a0a",
+    "recovery_commit": "9b60cad21ed6dc06d2b4c8f67a36f8c88ab92290",
+    "receipt_sha256": "088ba4a90cda426adf92be1af7516689511e08f6ce3c1d40f5225589022ba862",
+    "manifest_sha256": "a5016309666174b5a84523f5760f50b530110d8ce6f6dcdb1012c0f614af1a94"
+  },
+  "status": "SCOPED_SINGLE_FILE_FIXED_PIN_RESTORATION_CANDIDATE_VERIFIED",
+  "partial_validation_only": true,
+  "promote_over_verified_baseline": false,
+  "full_game_verified": false,
+  "save_compatibility_verified": false,
+  "whole_game_memory_improvement_verified": false,
+  "historical_original_matches_current_fixed_pin": true,
+  "remaining_tools_reference_gaps_within_original_367": 366,
+  "inventory_snapshot_files": 22,
+  "audit": {
+    "archive_members": 143,
+    "internal_manifest_members": 142,
+    "source_files_added": 1,
+    "source_files_modified": 0,
+    "source_files_deleted": 0,
+    "net_runtime_bytes": 32296,
+    "producer_delta_bytes_match": true,
+    "secret_pattern_findings": [],
+    "all_prior_backups_retained": true,
+    "planned_verification": "actual file-byte streaming with four prior archive layers; no full tree",
+    "free_disk_bytes_at_preparation": 3564740608
+  }
+}
