@@ -1,0 +1,299 @@
+{
+  "archive": "historical_tools_batch16_xml_original_candidate_20261109.tar.xz",
+  "bytes": 1804348,
+  "sha256": "3d37a9d1a0ee2d61939e88f8ced995622ca22fd84ba7f9dabe8c4f2df6bafa7d",
+  "parts": [
+    {
+      "name": "historical_tools_batch16_xml_original_candidate_20261109.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "fdd8ca39240f189195b2bbb65716a1ddb7e84675d3ffea9fc39acc87de4e21cb"
+    },
+    {
+      "name": "historical_tools_batch16_xml_original_candidate_20261109.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "07b783ac5714723f276b42d23d89517d2ba886b6d4db10c19513bdbb5baf814f"
+    },
+    {
+      "name": "historical_tools_batch16_xml_original_candidate_20261109.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "ef579ac5ed844529386cc8021d8a73fdec6fedc8f80e5081c6317ae35bf2eb68"
+    },
+    {
+      "name": "historical_tools_batch16_xml_original_candidate_20261109.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "eb22bec6b2f897d52fe6778a4f3b940234aea493d20c0dee688ce5965c029d11"
+    },
+    {
+      "name": "historical_tools_batch16_xml_original_candidate_20261109.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "329505768321287e65b7ac0e4789f48c7512807b6136e740a68c8f5501bb3923"
+    },
+    {
+      "name": "historical_tools_batch16_xml_original_candidate_20261109.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "b856075dde2cdd38fbcebc23906151a4ba6099142619ee3824937a6aeb4c5248"
+    },
+    {
+      "name": "historical_tools_batch16_xml_original_candidate_20261109.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "6b2dec10a31e9723b67a63bea1558117cc19bcf8e6609dbcc53b0edcf57b27f2"
+    },
+    {
+      "name": "historical_tools_batch16_xml_original_candidate_20261109.tar.xz.part007",
+      "bytes": 54348,
+      "sha256": "ff51148b31667dc63fbaa6a2a41a89600c6bfd7941573dd914b01fe2ce1b0600"
+    }
+  ],
+  "files": {
+    "historical_tools_batch16_xml_original_candidate_20261109/CANDIDATE_MANIFEST.json": {
+      "bytes": 1818,
+      "sha256": "a9f7598775e1590edfa35878dac31a2601be1956daeb612bd067cfb8e927257c"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/FILES_SHA256.json": {
+      "bytes": 8586,
+      "sha256": "0dcf3c7f6f9ea7f1b7ebbf3ade35a2bdc63922aa38e793d4967dd306948146c1"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/RECOVERY.md": {
+      "bytes": 3362,
+      "sha256": "80a30fc2a008d3c2f8665251ceef72706a50be2c1bd5483385389de630c4ed8b"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/RUNTIME_DEPENDENCIES.json": {
+      "bytes": 39322,
+      "sha256": "68f059df81e6f61b9574a8a91e87c246ecc204432ebd1f496f9ae26cad7f01ca"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/TREE_VERIFIED_base.json": {
+      "bytes": 536,
+      "sha256": "959b8383a9ecddeddb127db9f2e0113316b2f0b54b7bfdb16a2867560c68f026"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/TREE_VERIFIED_candidate.json": {
+      "bytes": 536,
+      "sha256": "3df7668e298618910dd3b06708b3d69279012042ad396c39de705f9b7ce8ea91"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/XML_CANDIDATE_VERIFIED.json": {
+      "bytes": 3822,
+      "sha256": "5cee725a2dd98f59ab3f15a482e6c4f233ef7539b56f44f997cb59e1134dbe31"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/CURRENT_DIRECT_IMPORT_GAPS.json": {
+      "bytes": 2932376,
+      "sha256": "a5b5ee464abbfcf5d3fbee8f1667831206200ebe50da3a17ec079708621de77c"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/CURRENT_VERSIONS.json": {
+      "bytes": 54636,
+      "sha256": "8cfedc6ddb8a9fff1c4881f9bdadca8508931b377487a010f20022022728ce52"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/DIRECT_CONSUMERS.json": {
+      "bytes": 70620,
+      "sha256": "10243eed7ce30dcce518e2c18d9830d2d1babb25f55ace33f700edcd103c3a5b"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/FILE_HASHES.txt": {
+      "bytes": 1339,
+      "sha256": "e20e506e05f292224a0ed493e2c36ad44fcd693c9b50570cbc17202b9d0959f5"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/HOOK_VERSION_COUNTS.json": {
+      "bytes": 14094,
+      "sha256": "c87a580ee670479a37e732d04ad68eeb80d42dc71d01473a243488298894007c"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/INDEX_COMPILER_MEMBERS.json": {
+      "bytes": 222462,
+      "sha256": "f1185cd2cf313d781c1b0cd4786b406848fe99034a970784b002c6afda02527e"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/INDEX_SCOPE_SUPPLEMENT.json": {
+      "bytes": 2301,
+      "sha256": "0cea613c567094537d83f65494b56cc0a0eb19dc3a94f1c3b57c4fb97ee6f666"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/INDEX_SCOPE_SUPPLEMENT.md": {
+      "bytes": 1388,
+      "sha256": "2480e437690ecef26fb1fb012f795fcb127ded6ef2f96dd65fa7ab72e2ea0cb3"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/INDEX_SCOPE_SUPPLEMENT_HASHES.txt": {
+      "bytes": 461,
+      "sha256": "e4408ae425b3f3e1597edc8c98ddf15cec06d639d173689b67ee5941ce94fdf8"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/ISOLATED_PREIMAGE_INDEX_CHECK.json": {
+      "bytes": 296,
+      "sha256": "b32ee321eec56e3d3147005a1e9d81986e1f721cb847aa4901609864c9b38845"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/REPORT.md": {
+      "bytes": 5422,
+      "sha256": "b9bc3c576a231559b08e6d867d45e5c362ee99dd02182aa466525530368492c7"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/SUMMARY.json": {
+      "bytes": 659,
+      "sha256": "d1f8c4c3437c896866e05844d7d489dfdead0d805808580c51f934bf794d5500"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/audit.py": {
+      "bytes": 3115,
+      "sha256": "2f547858aa4db0dd22bc53788cd1aeb088f6be541fc699f7b3ba0605c9f9f570"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver/index_scope_supplement.py": {
+      "bytes": 2357,
+      "sha256": "85aaf5fe4d7792f4316e6a6433f3a4fb88e2691b9df458e8ccd207d80c1bbfc0"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver_prior/README.md": {
+      "bytes": 6834,
+      "sha256": "ba5cacbf0ed25366d3be039373ed013fea8979c4909cc9631d383c1967c7b705"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver_prior/RECONCILED_GRAPH.json": {
+      "bytes": 8727,
+      "sha256": "9070604b6a7346ac2db2e3aa087dd8589d1b51a0a58d241de232532c5d9e8f7e"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver_prior/UNASSOCIATED_PATCH_CHECKS.json": {
+      "bytes": 6935,
+      "sha256": "87239b64b758f06a6075f4e730596f33fc7d919dbe1c198a6308bd6738c2dde3"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver_prior/build_effect_catalog.json": {
+      "bytes": 26500659,
+      "sha256": "0df95b962ea7fb084fc826699b4789ef056db0e19fb90cd24e6b5cbd5fca2ec9"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/inspect_runtime_dependencies.py": {
+      "bytes": 4691,
+      "sha256": "f6111762e94add243d9fb5f7dbd89fed3e272908bb1274075bb5329d9b9287fa"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/native_identity/research/hand_murloc_gain_recovery/native/BG34_Giant_801.xml": {
+      "bytes": 3753,
+      "sha256": "6221998e0e78a847705c7cd0e506964fb3e98ccf9b5e48e12b8aee3306e984b3"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/native_identity/research/hand_murloc_gain_recovery/native/BG34_Giant_801_G.xml": {
+      "bytes": 3741,
+      "sha256": "a155f54b6fe4b45bc48b6538b0dcb3340bed2b2901e340f9a4a0a68e71eced0b"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/native_identity/research/piranha_immediate_attack_recovery/native/BG32_201.xml": {
+      "bytes": 3159,
+      "sha256": "d2b75ad8c72b4fab092218383daf2f4188aa86eb15be9ae3c7e1ff810fa1643a"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/native_identity/research/piranha_immediate_attack_recovery/native/BG32_201_G.xml": {
+      "bytes": 3218,
+      "sha256": "0d7465cf34a379cb565a2f6b80393f17fb19f8629e0dbeedfe9614636e664601"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/native_identity/research/piranha_immediate_attack_recovery/native/BG32_201t.xml": {
+      "bytes": 967,
+      "sha256": "da3543bf1c3f4d5078fc49ae8b6e74b6954be73000235bc7a153691d154e2e23"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/prepare_xml_candidate.py": {
+      "bytes": 4789,
+      "sha256": "bb2b3caa2966aa53a96dc4afcea76d09a57b8b0ac81d9f04aa7e7370632551c4"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/source_identity/core/kerrigan_zerg_sources.gd": {
+      "bytes": 89302,
+      "sha256": "c22d4b230a6379230a5fe251c9911140494c0469b49699380183566bb93a81e6"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/source_identity/research/bulk_deity_hand_gain_sources/SOURCE_INPUTS.sha256": {
+      "bytes": 343,
+      "sha256": "91ddf68f86ed30053c374987732c3171dccdb3487a37ddb1392ed19718369e25"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/source_identity/research/kerrigan_native/component_auxiliary_inventory.json": {
+      "bytes": 37052,
+      "sha256": "6eb185a72e5ecced01d8e9f6dd2ff53fac765d23e970248a267fa8e1e7d082b9"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/source_identity/research/supplemental/aggem_latest_evidence.json": {
+      "bytes": 18647,
+      "sha256": "d45352cdb989b1abe95c7936a61b72c9f074b3edb9c0f5cc0cdf01efe20e5026"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/source_identity/research/supplemental/latest_bacon_commit.json": {
+      "bytes": 3869,
+      "sha256": "6dba4212bd24d8c3429d4c33ab37195e0b93443553df227f57727724a8bd7bd7"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/verify_existing_runtime_trees.py": {
+      "bytes": 1885,
+      "sha256": "a3d059a42d74975f29e894ba5f7e14f7b9d24d5c6c4e3068215fab806fccf4b8"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/xml/CARDDEFS_INDEX.json": {
+      "bytes": 1527,
+      "sha256": "775208019872123bbc9a3b1186f6dc84209148d08601ffee2440cc2dcdee2587"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/xml/CHECKS.json": {
+      "bytes": 5222,
+      "sha256": "916e87d935d2836c344f7d37effea70fdef1c74e21eff2897f2f8a62c0704319"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/xml/LICENSE_SOURCE_SUPPLEMENT.json": {
+      "bytes": 1918,
+      "sha256": "00586c0480b1520c96ee62745c489d691adc7506f1249d40828b72618f3c7282"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/xml/MANIFEST.sha256": {
+      "bytes": 603,
+      "sha256": "b53b49c325da1870684cfe2beb89f55479b82e1ad321a511f129982ae1115b39"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/xml/RECOVERED_ORIGINAL_SUPPLEMENT.json": {
+      "bytes": 898,
+      "sha256": "d9b92d28477f6fa75a3504abeaaf46d24f5a6e7343ffd9ba20c910e734dcb2ee"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/xml/REFERENCES.json": {
+      "bytes": 42267,
+      "sha256": "800f891f697b38e6aa1b72f549d32c2bc638bfcd4540c9d932e89f4d5440e09e"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/xml/REMOTE_READ_SUPPLEMENT.json": {
+      "bytes": 1470,
+      "sha256": "c6ab21c8c3bf39698bd86ef6288c1b1f9e636d351bae6de3d0c638b2927d125a"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/xml/REPORT.md": {
+      "bytes": 4683,
+      "sha256": "548f81210693e06f923f4978254deff5520f7e39ee92c169009de06180d4b89a"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/xml/STREAMED_XML_HASHES.json": {
+      "bytes": 2121,
+      "sha256": "71ad82e159131262100ea82480fbd2db151b17b147a6a687b4694e549ea06ce4"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/xml/UPSTREAM_FIXED_README.md": {
+      "bytes": 291,
+      "sha256": "fe2e470a83b638dc4ad5368337b6c441500b2749f86accd5bab9ca229d12a4ab"
+    },
+    "historical_tools_batch16_xml_original_candidate_20261109/candidate/evidence/portable_legacy/CardDefs.Bacon_latest.xml": {
+      "bytes": 15824602,
+      "sha256": "c385e3d67bfc2c52408059fbb0399b41164c8d1b78d3dd1619a6fb1882116690"
+    }
+  },
+  "directories": [
+    "historical_tools_batch16_xml_original_candidate_20261109",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/driver_prior",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/native_identity",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/native_identity/research",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/native_identity/research/hand_murloc_gain_recovery",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/native_identity/research/hand_murloc_gain_recovery/native",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/native_identity/research/piranha_immediate_attack_recovery",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/native_identity/research/piranha_immediate_attack_recovery/native",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/source_identity",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/source_identity/core",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/source_identity/research",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/source_identity/research/bulk_deity_hand_gain_sources",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/source_identity/research/kerrigan_native",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/source_identity/research/supplemental",
+    "historical_tools_batch16_xml_original_candidate_20261109/audit/xml",
+    "historical_tools_batch16_xml_original_candidate_20261109/candidate",
+    "historical_tools_batch16_xml_original_candidate_20261109/candidate/evidence",
+    "historical_tools_batch16_xml_original_candidate_20261109/candidate/evidence/portable_legacy"
+  ],
+  "archive_members": 49,
+  "status": "ORIGINAL_XML_ONLY_ISOLATED_CANDIDATE_BACKUP_NOT_GAME_ACCEPTANCE",
+  "original_archive_unchanged": true,
+  "dependencies": {
+    "fixed_source_candidate": {
+      "commit": "3b0061fcf3a55850eeda689818f7cc1700700750",
+      "folder": "battlegrounds-backup/pending/20261109-historical-tools-batch14-murloc-piranha-corrections",
+      "manifest_sha256": "1a8c1eca5dcea9fd1426442b5b759c5736ae105c49e95e4a71fae100a6830bcc",
+      "archive_sha256": "7b5f337521162460d87b984be77f66b99c43666407198938e52925e8b295d154",
+      "source_map_sha256": "7fec8d69e82de8bfcb7373549951f9456671b5c3980135d6ec6f983a3daf5ed7"
+    },
+    "pinned_batch13": {
+      "commit": "c2338eec7c0fc95a01614bdfdb85e7efe6a16602",
+      "folder": "battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction",
+      "archive_sha256": "69688097600dcdf79f754d065848ddff6f194366c611c78241fb4cff26d2769b",
+      "manifest_sha256": "be62ced6784ab18d54c0849c5662f7ed6914b03629af4606e3de09b65641e561",
+      "source_map_sha256": "de45de078a3b334eff7b901085deb8140561f21af3013b8af31b266628cacc6f"
+    },
+    "previous_full_chain_audit": {
+      "commit": "8e168c0c67b185a885c4e9251f728e3bde140cab",
+      "folder": "battlegrounds-backup/pending/20261109-night-fresh-chain"
+    },
+    "preceding_readonly_audit_commit": "758e26e1ecefaebfbcc7166912da412eb7197994",
+    "verification_policy": "Freshly download batch16, batch14 and batch13 and hash every archive member. Reuse and rehash the existing batch13 tree; restore into a new isolated verification tree with the freshly downloaded batch14 and XML bytes. Earlier history and its receipts are reused, not freshly downloaded or rerun."
+  },
+  "existing_runtime_installed": false,
+  "upstream_redistribution_license_confirmed": false,
+  "full_game_verified": false,
+  "old_save_compatibility_verified": false,
+  "remaining_original_tool_reference_gaps": 345,
+  "missing_source_contracts": 2,
+  "all_prior_backups_retained": true
+}

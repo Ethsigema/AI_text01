@@ -1,0 +1,22 @@
+{
+  "fixed_source_candidate": {
+    "commit": "3b0061fcf3a55850eeda689818f7cc1700700750",
+    "folder": "battlegrounds-backup/pending/20261109-historical-tools-batch14-murloc-piranha-corrections",
+    "manifest_sha256": "1a8c1eca5dcea9fd1426442b5b759c5736ae105c49e95e4a71fae100a6830bcc",
+    "archive_sha256": "7b5f337521162460d87b984be77f66b99c43666407198938e52925e8b295d154",
+    "source_map_sha256": "7fec8d69e82de8bfcb7373549951f9456671b5c3980135d6ec6f983a3daf5ed7"
+  },
+  "pinned_batch13": {
+    "commit": "c2338eec7c0fc95a01614bdfdb85e7efe6a16602",
+    "folder": "battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction",
+    "archive_sha256": "69688097600dcdf79f754d065848ddff6f194366c611c78241fb4cff26d2769b",
+    "manifest_sha256": "be62ced6784ab18d54c0849c5662f7ed6914b03629af4606e3de09b65641e561",
+    "source_map_sha256": "de45de078a3b334eff7b901085deb8140561f21af3013b8af31b266628cacc6f"
+  },
+  "previous_full_chain_audit": {
+    "commit": "8e168c0c67b185a885c4e9251f728e3bde140cab",
+    "folder": "battlegrounds-backup/pending/20261109-night-fresh-chain"
+  },
+  "preceding_readonly_audit_commit": "758e26e1ecefaebfbcc7166912da412eb7197994",
+  "verification_policy": "Freshly download batch16, batch14 and batch13 and hash every archive member. Reuse and rehash the existing batch13 tree; restore into a new isolated verification tree with the freshly downloaded batch14 and XML bytes. Earlier history and its receipts are reused, not freshly downloaded or rerun."
+}

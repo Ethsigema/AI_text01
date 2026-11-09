@@ -1,0 +1,12 @@
+{
+  "selection": "The exact SHA256-pinned 49-file original candidate archive, split without recompression; external documentation and a standalone verifier only.",
+  "private_conversation_or_credential_payloads_included": false,
+  "cache_or_environment_payloads_included": false,
+  "technical_reference_policy": "Audit records retain technical filenames, source hashes, bounded code excerpts and excluded path names; naming an excluded cache or environment path does not include its payload.",
+  "signature_scan": "Every archived file checked for common private-key/token signatures; a bounded screen is not proof against every possible secret.",
+  "existing_runtime_installation": false,
+  "upstream_license_or_redistribution_grant_confirmed": false,
+  "publication_purpose": "User-authorized isolated recovery material in the user-designated Ethsigema/AI_text01 repository. Publication does not establish third-party redistribution rights.",
+  "all_prior_backups_retained": true,
+  "force_push": false
+}
