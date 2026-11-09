@@ -1,0 +1,94 @@
+{
+  "status": "PASS_THIS_EXACT_COMPILER_PIN_CONTRACT_PACKAGE_ONLY",
+  "bytes": 770616,
+  "sha256": "c92e371e0dbb447093d9348f558dc7bfd2b75056eba36a38e99d3a738901be87",
+  "archive_files": 73,
+  "parts": 4,
+  "all_members_match": true,
+  "credential_signature_findings": [],
+  "excluded_path_findings": [],
+  "dependencies_freshly_downloaded_or_reverified": false,
+  "prior_cancelled_dependency_download_retried": false,
+  "source_modified": false,
+  "historical_modules_executed": false,
+  "game_rerun": false,
+  "remaining_gaps": 345,
+  "current_complete_driver_confirmed": false,
+  "publication": {
+    "commit": "2606df902e73db13462034df641debda58adf4d7",
+    "folder": "battlegrounds-backup/pending/20261109-compiler-pin-contract-audit",
+    "branch": "battlegrounds-recovery-20261103",
+    "remote_head_verified": true,
+    "tree_check": {
+      "old_blobs_preserved": 3755,
+      "added_files": 10,
+      "old_changes": 0,
+      "force_push": false
+    },
+    "folder_url": "https://github.com/Ethsigema/AI_text01/tree/2606df902e73db13462034df641debda58adf4d7/battlegrounds-backup/pending/20261109-compiler-pin-contract-audit"
+  },
+  "readback_files": [
+    {
+      "name": "MANIFEST.json",
+      "sha": "eb6d63c2389b6f4bff2d74669d149f88b9021cb9",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/2606df902e73db13462034df641debda58adf4d7/battlegrounds-backup/pending/20261109-compiler-pin-contract-audit/MANIFEST.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "PRIVACY_AND_SCOPE.json",
+      "sha": "7cec304b441ca7097f0ecd600fc2d376743f61da",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/2606df902e73db13462034df641debda58adf4d7/battlegrounds-backup/pending/20261109-compiler-pin-contract-audit/PRIVACY_AND_SCOPE.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "README.md",
+      "sha": "30e60b93c12a3a9e930487f6ba8fceb07655463a",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/2606df902e73db13462034df641debda58adf4d7/battlegrounds-backup/pending/20261109-compiler-pin-contract-audit/README.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "RECOVERY.md",
+      "sha": "45e10a6e4497b491e292fcf08dadd32749979ec5",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/2606df902e73db13462034df641debda58adf4d7/battlegrounds-backup/pending/20261109-compiler-pin-contract-audit/RECOVERY.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha": "d0f014288f1a4a5697a54aee04826fbd7c5cf55a",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/2606df902e73db13462034df641debda58adf4d7/battlegrounds-backup/pending/20261109-compiler-pin-contract-audit/SHA256SUMS.txt",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "compiler_pin_contract_audit_20261109T230342Z.tar.xz.part000",
+      "sha": "1f9d0af5f0ade5074ae8fca1080ae6011b5ab2ca",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/2606df902e73db13462034df641debda58adf4d7/battlegrounds-backup/pending/20261109-compiler-pin-contract-audit/compiler_pin_contract_audit_20261109T230342Z.tar.xz.part000",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "compiler_pin_contract_audit_20261109T230342Z.tar.xz.part001",
+      "sha": "5f3c1b855e1ca30f78f1bb8f4a586595d24f2750",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/2606df902e73db13462034df641debda58adf4d7/battlegrounds-backup/pending/20261109-compiler-pin-contract-audit/compiler_pin_contract_audit_20261109T230342Z.tar.xz.part001",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "compiler_pin_contract_audit_20261109T230342Z.tar.xz.part002",
+      "sha": "fe3d84385272983808f27a8085da7d00f76c60e5",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/2606df902e73db13462034df641debda58adf4d7/battlegrounds-backup/pending/20261109-compiler-pin-contract-audit/compiler_pin_contract_audit_20261109T230342Z.tar.xz.part002",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "compiler_pin_contract_audit_20261109T230342Z.tar.xz.part003",
+      "sha": "ce5f65e90f3a28c5aa6c18b93c48c7c0eaada722",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/2606df902e73db13462034df641debda58adf4d7/battlegrounds-backup/pending/20261109-compiler-pin-contract-audit/compiler_pin_contract_audit_20261109T230342Z.tar.xz.part003",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "verify_package.py",
+      "sha": "823b7c54e0fb9f450d756419e4ff3e77ae9941b7",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/2606df902e73db13462034df641debda58adf4d7/battlegrounds-backup/pending/20261109-compiler-pin-contract-audit/verify_package.py",
+      "fresh_remote_readback": true
+    }
+  ],
+  "verification_scope": "Only this exact new package; no older dependency or previously cancelled operation downloaded, retried or reverified.",
+  "game_or_save_accepted": false
+}
