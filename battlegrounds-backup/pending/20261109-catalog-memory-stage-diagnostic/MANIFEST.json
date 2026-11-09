@@ -1,0 +1,348 @@
+{
+  "archive": "catalog_memory_stage_diagnostic_20261109.tar.xz",
+  "bytes": 1101148,
+  "sha256": "b5b03999c2cee2e995c56267cf2327786e3585187c061cf944a0088664a603a6",
+  "files": {
+    "catalog_memory_stage_diagnostic_20261109/BASELINE_INTEGRITY.json": {
+      "bytes": 297,
+      "sha256": "1356b151e22fff0c8722cd8f6bbaffc1c84510e9499120a010d09f413fc0d6a2"
+    },
+    "catalog_memory_stage_diagnostic_20261109/DEPENDENCY_GRAPH.json": {
+      "bytes": 523724,
+      "sha256": "e1df1224eff89c06f72d1bc1c8b73b92644d438ee33b177b07dc47a51c9b99e2"
+    },
+    "catalog_memory_stage_diagnostic_20261109/HASH_INPUT.json": {
+      "bytes": 369,
+      "sha256": "0a919e2b8ef574fe52c117f0d82f813ab8718825957f1bcc7b2e7349a64ff80c"
+    },
+    "catalog_memory_stage_diagnostic_20261109/INPUT_SOURCE_MAP.json": {
+      "bytes": 4602821,
+      "sha256": "e52121d24d2b21f75af73521362928a2da449f7f42915fb692cfcb3d425ab0a0"
+    },
+    "catalog_memory_stage_diagnostic_20261109/PACKAGE_MANIFEST.json": {
+      "bytes": 8830,
+      "sha256": "08796a29262d7e0a33d3204d13f8222e354dd25996b626ae5a56eb29f53d25c7"
+    },
+    "catalog_memory_stage_diagnostic_20261109/PLAN.json": {
+      "bytes": 1062,
+      "sha256": "eb2e11f612af06f42e7214268f7530a13ac9c7d659821c5ef69283a6d9a4136a"
+    },
+    "catalog_memory_stage_diagnostic_20261109/PRELOADS.json": {
+      "bytes": 36964,
+      "sha256": "f263d8872ae41109558b2350a84dc636b00754e45c138bcc2fa8d44e585625b0"
+    },
+    "catalog_memory_stage_diagnostic_20261109/PRELOAD_PHASE_RESULTS.json": {
+      "bytes": 169428,
+      "sha256": "757bfe8c635f66420d6cb68b0a54ede262db261db1e935802780f6c4ac6e3672"
+    },
+    "catalog_memory_stage_diagnostic_20261109/README.md": {
+      "bytes": 5163,
+      "sha256": "5ec7695c2f87208a0cee7faeb0c7a72356289242fe281c5d3d9dd03c7e936178"
+    },
+    "catalog_memory_stage_diagnostic_20261109/RESULT.json": {
+      "bytes": 6765,
+      "sha256": "994d28e4b718dbe3b6bbdaac72644374cac5fe6301c617887aedfb4413a397a2"
+    },
+    "catalog_memory_stage_diagnostic_20261109/SCOPE_RECONCILIATION.json": {
+      "bytes": 891,
+      "sha256": "cbecda121f615e3334df7c1e53e34f505e35ab5956e8102b138fa131795ff4c3"
+    },
+    "catalog_memory_stage_diagnostic_20261109/SMALL_PLAN.json": {
+      "bytes": 893,
+      "sha256": "98ffe647c8ff272a18f964232edc1f21d9ae4ff58ae1b81aa86d59531f3ad1c9"
+    },
+    "catalog_memory_stage_diagnostic_20261109/dependency_graph.py": {
+      "bytes": 2392,
+      "sha256": "69080d2587a6d86f9ca24a6449800b501fcd7004c2dc6de22d2ddd36ea91576c"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_fixtures/bom": {
+      "bytes": 8,
+      "sha256": "7489ebbcc2a00056ddaaaac190bce473e5c03696ea1bd8ed83cf59a174283862"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_fixtures/crlf": {
+      "bytes": 6,
+      "sha256": "58055bdcc73787eb88c78d36f0b4939e9c5dc1c3ad17e25cc85a6833cf1a0cab"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_fixtures/empty": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_fixtures/invalid": {
+      "bytes": 8,
+      "sha256": "18f3051d8c36965e09ed7661734163aaed50e07a1ce6af58520b66683543d28d"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_fixtures/nul": {
+      "bytes": 3,
+      "sha256": "59b271ae1bbcb1d31d41929817f4b16fb439eb4f31520b5ad1d5ce98920a7138"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_fixtures/utf8": {
+      "bytes": 7,
+      "sha256": "d124acc04c3b253d0da532c1a41ef2250cdccf6ba24baaf1c6597971a0e15f75"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_probe.gd": {
+      "bytes": 740,
+      "sha256": "04a13f81977eca4870487a60b5acbb2447356a822560567aa6718e8842def0b6"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_run/LAUNCH.json": {
+      "bytes": 1495,
+      "sha256": "68e978f16a0e12c92ff1a60d2929a2271f85ee4acb5d8c8fb0d34b34bb9baea7"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_run/PROCESS.json": {
+      "bytes": 1676,
+      "sha256": "fbe1958fa1832d4a1a669d48415ac2c22059f3742c4743bc3bc2dc455ff72185"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_run/gate_executed.gd": {
+      "bytes": 740,
+      "sha256": "04a13f81977eca4870487a60b5acbb2447356a822560567aa6718e8842def0b6"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_run/native.log": {
+      "bytes": 385,
+      "sha256": "49811a2212e0b57c2d3264f598f1337c3adcac64031a4238b5da6a0d75a56032"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_run/report.json": {
+      "bytes": 1385,
+      "sha256": "8d72758854e782cd7b2ec669fa8e4e47cb648e7e5fb2b22bc79d214e2b0b73b4"
+    },
+    "catalog_memory_stage_diagnostic_20261109/encoding_run/samples.jsonl": {
+      "bytes": 5576,
+      "sha256": "2fc67266f87ec969216f70e6b1d7e635c80d3874808ba5312bb9199ff762b081"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_bytes/LAUNCH.json": {
+      "bytes": 1491,
+      "sha256": "f6bb7bccc7e86f6d7ea8048e7d07781ad15eff595479d539d0461a34d48aa14d"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_bytes/PROCESS.json": {
+      "bytes": 1672,
+      "sha256": "d18fe6139e480e07f23a074d681bb072dc1a9474c246932ebabc298b5254e57a"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_bytes/gate_executed.gd": {
+      "bytes": 941,
+      "sha256": "335468acf6410bf68b5f08740fe0bd9c175c62576c9e7cfa49da77d138c9fdc3"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_bytes/native.log": {
+      "bytes": 449,
+      "sha256": "8e26261f4154179735a59621d444c0695a5308534c217801abb75501db4f8c9e"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_bytes/report.json": {
+      "bytes": 364,
+      "sha256": "46c9b80813a6094890428d9519d1ff6cb8d0fbc145b668f9a968f1a007823da9"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_bytes/samples.jsonl": {
+      "bytes": 4898,
+      "sha256": "1358be43879d178f45dce558dcdb013fe48f4416c2c722055c6119ebf34984e4"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_probe.gd": {
+      "bytes": 941,
+      "sha256": "335468acf6410bf68b5f08740fe0bd9c175c62576c9e7cfa49da77d138c9fdc3"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_text/LAUNCH.json": {
+      "bytes": 1491,
+      "sha256": "94ee201ecf68e225301786fa8294f82e8b0848108ce9f52e524d31a27843d57e"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_text/PROCESS.json": {
+      "bytes": 1674,
+      "sha256": "d734fe195159890c6265285e4e823801c4153d32f76efa6603da475f7f550ee4"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_text/gate_executed.gd": {
+      "bytes": 941,
+      "sha256": "335468acf6410bf68b5f08740fe0bd9c175c62576c9e7cfa49da77d138c9fdc3"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_text/native.log": {
+      "bytes": 450,
+      "sha256": "882418355ae7d35ff29832525a4bbac2b8337c92c441fbf5178b4dc1d05eb3ff"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_text/report.json": {
+      "bytes": 365,
+      "sha256": "fc8b6f0e9ccc26eeb7d500d493df7fb715a5ba8cf812b47c3fce3c9e7aa64269"
+    },
+    "catalog_memory_stage_diagnostic_20261109/hash_text/samples.jsonl": {
+      "bytes": 8278,
+      "sha256": "6b026c35d47a590f2f4d0242fa043926d78998b0ac858ed50e63262fbfca8981"
+    },
+    "catalog_memory_stage_diagnostic_20261109/package.py": {
+      "bytes": 1721,
+      "sha256": "0d53fa840c09a0c578de818c4666346f5fd8dc2e9daf7820b69d8ae11117c5bf"
+    },
+    "catalog_memory_stage_diagnostic_20261109/preload_probe.gd": {
+      "bytes": 1555,
+      "sha256": "027ed3689a96c9f7a639170358ca211c637142f99e9160fc3d46b4b7892ba19a"
+    },
+    "catalog_memory_stage_diagnostic_20261109/preload_run_1/LAUNCH.json": {
+      "bytes": 1663,
+      "sha256": "4332963e87e210970c3de8cc4f92370c85636135d909146416eed933371bb7ce"
+    },
+    "catalog_memory_stage_diagnostic_20261109/preload_run_1/PROCESS.json": {
+      "bytes": 1847,
+      "sha256": "57aef0bb41ac3be02f5e05e087ea25d8a0fa9161f3b456aec7896f23a84537b6"
+    },
+    "catalog_memory_stage_diagnostic_20261109/preload_run_1/gate_executed.gd": {
+      "bytes": 1555,
+      "sha256": "027ed3689a96c9f7a639170358ca211c637142f99e9160fc3d46b4b7892ba19a"
+    },
+    "catalog_memory_stage_diagnostic_20261109/preload_run_1/native.log": {
+      "bytes": 304713,
+      "sha256": "75d7421f09606e1b4bcae6a8fb5a827941134fb1a70d68245b2bf5aaac7c43f3"
+    },
+    "catalog_memory_stage_diagnostic_20261109/preload_run_1/samples.jsonl": {
+      "bytes": 233464,
+      "sha256": "c7b3b73bed3ef8f73d9fe135a86cbd1b89b4bb7153c008258de18e279db34c28"
+    },
+    "catalog_memory_stage_diagnostic_20261109/prepare.py": {
+      "bytes": 1472,
+      "sha256": "b4e4a14aa8b39778ce5577798fe33d4aa822f94bc9d1c6dbc54b0dd856a3cf8c"
+    },
+    "catalog_memory_stage_diagnostic_20261109/prepare_scope.py": {
+      "bytes": 2233,
+      "sha256": "ac2e442d88b127107b4eaee92f842824fee6046c6240b84d7122e386e8d586ff"
+    },
+    "catalog_memory_stage_diagnostic_20261109/run_encoding_probe.py": {
+      "bytes": 3470,
+      "sha256": "bd2f994fc30237e6d49b0bf5e314c87f8f3840c9c255bb7d5890fe2d2488ff0e"
+    },
+    "catalog_memory_stage_diagnostic_20261109/run_probe.py": {
+      "bytes": 3427,
+      "sha256": "6b1352564db8e106e98ccf52678c6b1f19bc45544c21ae66db75cf6218cf1067"
+    },
+    "catalog_memory_stage_diagnostic_20261109/run_scope_probe.py": {
+      "bytes": 3509,
+      "sha256": "bac9c5c38dcc8af81d8ddb6b98b4a7707f2fa998e7150f20dbd1f87f81a59eb9"
+    },
+    "catalog_memory_stage_diagnostic_20261109/run_small_probe.py": {
+      "bytes": 3499,
+      "sha256": "749a44a530e6d9904b527b07253667ef839c84dcd43e73b1d37ccdf573fb8f94"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_helper.gd": {
+      "bytes": 1363,
+      "sha256": "f4c95b1e43ec8775f7990db9242e2707aef1d8b0e6060ff2a6473a432bcbf816"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_helper/LAUNCH.json": {
+      "bytes": 1493,
+      "sha256": "8215b17dd6b14b0530d817f9a806b349c3640b61c0ab5427d80704d0038fe13b"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_helper/PROCESS.json": {
+      "bytes": 1676,
+      "sha256": "090e21f9e839a54e011be66ae42b0a1d68da6654f38ffa930061c7e99316d767"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_helper/gate_executed.gd": {
+      "bytes": 1363,
+      "sha256": "f4c95b1e43ec8775f7990db9242e2707aef1d8b0e6060ff2a6473a432bcbf816"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_helper/native.log": {
+      "bytes": 883,
+      "sha256": "398c8ed439259c8fb5697da83e138b140e7d39b8ad097bc6ac1fd566bea51725"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_helper/report.json": {
+      "bytes": 1359,
+      "sha256": "01ca68445acf6bb1bfc8d211dee83e50fc7af4ec9e6db3dbfafb79522396bde5"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_helper/samples.jsonl": {
+      "bytes": 7051,
+      "sha256": "876a3ebd5f42f7b55353c3a7ef6dcaf132e2e651721d0ae03edb0a98e54d6c50"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_inline.gd": {
+      "bytes": 1441,
+      "sha256": "924288efcb91b5d070a1d0c34d7cde8291b4e569c998c2cb654c9c6a6e163957"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_inline/LAUNCH.json": {
+      "bytes": 1493,
+      "sha256": "7d4e77c1adee0134980b185352bb83dfdab36c19ef832a5c694898bd95fbda5a"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_inline/PROCESS.json": {
+      "bytes": 1676,
+      "sha256": "ac66f668f2473a112144fdd9358eb5dc0bf758f37b1b196b45bbfd6e8df108b2"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_inline/gate_executed.gd": {
+      "bytes": 1441,
+      "sha256": "924288efcb91b5d070a1d0c34d7cde8291b4e569c998c2cb654c9c6a6e163957"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_inline/native.log": {
+      "bytes": 884,
+      "sha256": "831f3107ec3bd788e12048d9b3a502a50b5b1ebfebfd84e99b3d6e76b92adddc"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_inline/report.json": {
+      "bytes": 1360,
+      "sha256": "782160faf6906c72499ea69b864ca90f214b63f04cb26a16a115f35dfbd07c6f"
+    },
+    "catalog_memory_stage_diagnostic_20261109/scope_inline/samples.jsonl": {
+      "bytes": 6974,
+      "sha256": "8f04884a50198bee86c871b42c5ee06c25b5d410c6da04bf924f1d77be368397"
+    },
+    "catalog_memory_stage_diagnostic_20261109/summarize.py": {
+      "bytes": 2854,
+      "sha256": "51cc3e92176a408d9af1aa92825a22fb6cde7c6c95f19823c12e87ae33558ea0"
+    }
+  },
+  "parts": [
+    {
+      "name": "catalog_memory_stage_diagnostic_20261109.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "0f94fad7b2bfe7bdd738f127d29b81bd82ff0b92e5e7a2d3cb8f6ffcb6e76b30"
+    },
+    {
+      "name": "catalog_memory_stage_diagnostic_20261109.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "5b542381274f15024a37a78fa303d5da05c79de57dfe78d5a796a63a33292446"
+    },
+    {
+      "name": "catalog_memory_stage_diagnostic_20261109.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "4757f1d196b6d3842531a546b3954101a9c34cf3c1c85dc38b361f84ce27a8ab"
+    },
+    {
+      "name": "catalog_memory_stage_diagnostic_20261109.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "b689fe977cd4bba4535a458973d1b71fef350d30141e5ece8c751695b1c98dce"
+    },
+    {
+      "name": "catalog_memory_stage_diagnostic_20261109.tar.xz.part004",
+      "bytes": 101148,
+      "sha256": "40e592076b08c8ff4fe17a42912e05f88701c680518462c8ec5a2877f7f38609"
+    }
+  ],
+  "kind": "diagnostic-evidence-only",
+  "is_runtime_increment": false,
+  "status": "DIAGNOSTIC_ONLY_PRELOAD_BLOCKED_SMALL_PROBES_PASSED",
+  "runtime_changes": {
+    "added": [],
+    "modified": [],
+    "removed": []
+  },
+  "removed_source_files": [],
+  "input_source_map_member": "catalog_memory_stage_diagnostic_20261109/INPUT_SOURCE_MAP.json",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 53,
+      "sha256": "27223135250f2a76068e8147ec88a9d2b8fce0cf65d8e5fc4c7b09d179185a91"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "SHA256SUMS.txt": {
+      "bytes": 114,
+      "sha256": "2284e3ee53f41b5948a816e177bbdc596aafac81bfea68c34c4b5149d710e6b4"
+    },
+    "README.md": {
+      "bytes": 5426,
+      "sha256": "b7e4ce54b5f6b3253f3c059e63a88d960a6e6d3f32805a50690ae0de0b09bdd1"
+    },
+    "RECOVERY.md": {
+      "bytes": 2861,
+      "sha256": "d92e63e8bb370928f77517b9b5add9d3f4e0f9539e0412618583cb6d2035df68"
+    }
+  },
+  "depends_on": {
+    "verified_commit": "4ebbc2e1276f678c8a9e91e45d0fe24f036f66c1",
+    "archive_commit": "60883b1d19faf947134db07e7ba3f9fdeacc2de6",
+    "archive_sha256": "e5272cc3556bf626d353993b142a75d40ea26c4522eb94bcb2f5a55994f7f7d6",
+    "source_map_sha256": "e52121d24d2b21f75af73521362928a2da449f7f42915fb692cfcb3d425ab0a0",
+    "manifest_sha256": "2218f998a299ee221fb31ee06c123737d8cc53c07d6a2c3eb6e122c744c87ad6",
+    "receipt_sha256": "45d53273107a8411727d9d2e1462810ac6e685c4e1f62727eb55fdfd81a4d384"
+  },
+  "audit": {
+    "archive_members": 67,
+    "internal_manifest_members": 66,
+    "secret_pattern_findings": [],
+    "all_prior_backups_retained": true
+  }
+}

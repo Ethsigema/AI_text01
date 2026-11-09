@@ -1,0 +1,28 @@
+# 分阶段内存诊断档案恢复
+
+类型：diagnostic-evidence-only。不是运行源码增量，不提升任何玩法验收。输入工程固定于catalog memory实验候选提交4ebbc2e1276f678c8a9e91e45d0fe24f036f66c1，仍为完整Game未测的实验状态。运行源码新增0、修改0、删除0，所有旧备份保留。
+
+## 固定依赖
+
+输入候选恢复说明：
+https://github.com/Ethsigema/AI_text01/blob/4ebbc2e1276f678c8a9e91e45d0fe24f036f66c1/battlegrounds-backup/pending/20261109-catalog-memory-candidate/RECOVERY_VERIFIED.md
+
+输入归档提交60883b1d19faf947134db07e7ba3f9fdeacc2de6，归档catalog_memory_candidate_20261109.tar.xz，SHA256 e5272cc3556bf626d353993b142a75d40ea26c4522eb94bcb2f5a55994f7f7d6。
+输入SOURCE_MAP SHA256 e52121d24d2b21f75af73521362928a2da449f7f42915fb692cfcb3d425ab0a0，与本诊断包INPUT_SOURCE_MAP.json逐字一致。
+输入归档MANIFEST SHA256 2218f998a299ee221fb31ee06c123737d8cc53c07d6a2c3eb6e122c744c87ad6。
+输入恢复回执SHA256 45d53273107a8411727d9d2e1462810ac6e685c4e1f62727eb55fdfd81a4d384。
+
+## 恢复本诊断证据
+
+从本目录同一固定提交下载MANIFEST.json、CHANGES.json、REMOVALS.json、SHA256SUMS.txt、README.md、RECOVERY.md及5个分片part000至part004，按MANIFEST parts顺序拼接为catalog_memory_stage_diagnostic_20261109.tar.xz。
+大小1,101,148字节，SHA256 b5b03999c2cee2e995c56267cf2327786e3585187c061cf944a0088664a603a6。
+
+检查每片及整包大小、SHA256。安全解压到新目录，拒绝绝对路径、上层跳转、链接、特殊文件及重复成员。逐项核对外部清单67个归档成员和内部PACKAGE_MANIFEST的66项，内部清单自身由外部清单覆盖。编码夹具包含故意无效UTF-8及NUL，必须按原字节保存，不能转为普通文本重写。
+
+本包没有delta、patch或新的运行树，不要覆盖任何工程文件。INPUT_SOURCE_MAP是输入依赖清单，不是新的游戏版本。若需要运行树，先按上述固定候选说明恢复；再独立核对全部27,892文件、1,548,714,104字节与INPUT_SOURCE_MAP完全相符。
+
+追加的verify_stage_diagnostic.py仅下载、解压证据并核对输入依赖，绝不运行包内探针、load_catalog或Game。它会核对固定远端依赖清单和回执、全部输入文件哈希及不变性。历史运行树明确复用，不声称本轮重下历史全链。
+
+## 边界
+
+保留预载SIGKILL原始失败与小探针结果。已完成848个顶层预载，combat预载前失败；不能据此声称完整catalog或Game验收。不同编码的文本哈希与原始字节哈希并不等价，没有替换运行源码。短函数作用域没有证明RSS峰值下降。终止的内核/cgroup原因未知，不断言OOM或固定平台限额。回读不重跑高内存诊断。最后已验收基线仍是a71d3e4ea64dc52264a3f789a48ddae2e4a043cd。
