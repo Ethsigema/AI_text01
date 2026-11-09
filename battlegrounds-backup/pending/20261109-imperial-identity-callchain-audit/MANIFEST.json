@@ -1,0 +1,101 @@
+{
+  "archive": "imperial_identity_callchain_audit_20261109T222624Z.tar.xz",
+  "bytes": 265036,
+  "sha256": "f77e2a104017e743ee7c529feeef9bd4137367cacfcee65e2c34252139e9f846",
+  "members": 22,
+  "files": {
+    "CURRENT_INPUT_ROWS.json": {
+      "bytes": 32080,
+      "sha256": "5de20582daeda4b4552c88e33c3a15983d7bc3684d6871716187ce80ea69b093"
+    },
+    "EXTERNAL_CARDS_WRITE_CANDIDATES.json": {
+      "bytes": 1849,
+      "sha256": "a7ace2bffcccd43f37dbaeabff8038d94c6c69d82498dc9682da1f1b5120c7bf"
+    },
+    "FINAL_RECHECK.json": {
+      "bytes": 586,
+      "sha256": "2c76d48c0148bae1bb3c2c0f37897042d07255d4a8ec39f6a934f54acfb1df11"
+    },
+    "FINAL_REPORT.md": {
+      "bytes": 7750,
+      "sha256": "d709bd3c26830d43a48de235fe9d5991e6e694ef79e8c24870bee648012a6218"
+    },
+    "HISTORICAL_DRIVER_SUMMARY.json": {
+      "bytes": 803,
+      "sha256": "a02cd5bfedd70e6f1bb277b73a5046f4bb9c9ecef87336558a6425aedf300067"
+    },
+    "HISTORICAL_DRIVER_TRACE.json": {
+      "bytes": 2103956,
+      "sha256": "dbd811a153611da37a2774f60d17b6daa490e7b1e8af4b3ee32ab9a3fc31cb05"
+    },
+    "PYTHON_PREPROCESSOR_BOUNDARIES.json": {
+      "bytes": 5420,
+      "sha256": "45cef7f94aec514e8ab1fdf5b077bfb2ad43c4bc264a467f9065b932cd50b0eb"
+    },
+    "SELECTED_INPUT_PINS.json": {
+      "bytes": 903,
+      "sha256": "db9f26799cdeaa8acabfa8b75fbf149ae1211204312315a44d13bb5d4ef74d5b"
+    },
+    "catalog_identity_excerpts.txt": {
+      "bytes": 44820,
+      "sha256": "11f761e1ced25ab23d80a05b47b32a51f983ff32977d8c48028f87c0221a65a1"
+    },
+    "mutator_direct_implementations.md": {
+      "bytes": 120923,
+      "sha256": "e0f615931a3d1b03830fa1ac2a61ccb68c728838d7d2d014b16f1860da92360f"
+    },
+    "mutator_inventory.json": {
+      "bytes": 105341,
+      "sha256": "c41995a6c574158d3ff0a2ceb50070522446dc48dd9c132ee5e1df118e7fbbae"
+    },
+    "mutator_source_sha256.json": {
+      "bytes": 12778,
+      "sha256": "86d34e7bb2b29cdfd4b770f8eced9b541c567b403528fd9bb27b259f055d912b"
+    },
+    "mutator_supplement_report.md": {
+      "bytes": 4786,
+      "sha256": "221b17f1daa4ef97750f3ceb9062761504dd739283860c7c11cbeae3a191dde4"
+    },
+    "selected_inputs/core/catalog.gd": {
+      "bytes": 1854233,
+      "sha256": "5ba81a78d4924e4596dada5cb8f1a9ad5877d7bed6c7d350ca370d8bff955a72"
+    },
+    "selected_inputs/core/custom_shop.gd": {
+      "bytes": 11749,
+      "sha256": "9fbffe4d3d54d20cb0fa4378836119de37b58c8e144f4f5528cb41d8df28f9c2"
+    },
+    "selected_inputs/core/imperial_defender_sources.gd": {
+      "bytes": 25322,
+      "sha256": "0df420bfb454fea3b9f0ba07dcc190698c8644762858564349ef03a5cc304065"
+    },
+    "selected_inputs/data/catalog_value_overrides.json": {
+      "bytes": 57466,
+      "sha256": "21b239bfb83e63390cc3b936f19f6e6ffdc4b7f56628231e5486973f68af5c9c"
+    },
+    "selected_inputs/research/imperial_defender_native_recovery/candidates/tools/build_effect_catalog.py": {
+      "bytes": 516894,
+      "sha256": "43d33ce0360f207b91683d21d8e9df9482e509b1a729fbff8a5ad0c2db5dd567"
+    },
+    "selected_inputs/tools/final_source_overrides.py": {
+      "bytes": 3984,
+      "sha256": "f05bd591950b6267db19458936fa29fe3cbbd70a8dff745160aa8cf971a2a810"
+    },
+    "trace_current_rows.py": {
+      "bytes": 3401,
+      "sha256": "ef7a27fae97e64919d84242493fbd488d57f95d6871a6b3e9cef9e97b60e5a94"
+    },
+    "trace_historical_drivers.py": {
+      "bytes": 4947,
+      "sha256": "b08983aa56f69809b3d45309f161cedec220ac607e8bd9f72e4ce1fc7c8524df"
+    },
+    "PACKAGE_FILES_SHA256.json": {
+      "bytes": 3096,
+      "sha256": "d533db536c228cdcd4de93485329ba9960286666e88604730a447d1d0d622623"
+    }
+  },
+  "candidate_installation_deferred": true,
+  "remaining_reference_gaps": 345,
+  "source_tree_modified": false,
+  "game_or_save_accepted": false,
+  "old_dependencies_reverified": false
+}
