@@ -1,0 +1,41 @@
+# Native spell listener来源校验叶：部分验证候选恢复
+
+状态：PARTIAL_PURE_VALIDATION_AND_CANDIDATE_STOCK_PASS_ORIGINAL_HOST_BLOCKED。只部分验证，原真实stock入口被SIGKILL中断，原因未知，没有完整入口内存A/B结论。完整宿主与Game未验收，不提升已验证基线。a71d3e4ea64dc52264a3f789a48ddae2e4a043cd的验收仅指原限定范围，不代表全机制回归。
+
+## 固定依赖
+
+直接依赖Harbinger身份叶候选固定提交26679da39e12f73907a9d15c325ca4028daf8474：
+https://github.com/Ethsigema/AI_text01/blob/26679da39e12f73907a9d15c325ca4028daf8474/battlegrounds-backup/pending/20261109-harbinger-identity-leaf-candidate/RECOVERY_VERIFIED.md
+
+输入归档提交9c6255899ed6fffc853c274c8f302d1af10c9764，SHA256 b666e972100a402ae3b9fa92ab2126e5324f4327842ac88fecebcc204c6f4ee4。
+输入SOURCE_MAP SHA256 e31eb74faca1a774b42a7c8bcef11b1592eae64ad350b08fa930f9a1d7cd64fe。
+输入恢复回执SHA256 a6d29ead3af28eb40c81bcc7b7a23a56ea5fb0f85c38125262e5b717c2bd14dc。
+输入MANIFEST SHA256 180d5ebba796ffa9cde4a4afe2814604cba823a9bd5856f09bbf45cc8ca8ce1c。
+
+必须保留输入自身依赖的catalog memory、女妖及所有更早运行增量，不能跳过。诊断档案不改变运行源码，不作为运行补丁。
+
+较早的独立全链重下审计仅覆盖到女妖：
+https://github.com/Ethsigema/AI_text01/blob/0d47d1b6bf8c2943647fbc59ba8448cd6dde0ab9/battlegrounds-backup/pending/20261109-banshee-golden-fresh-chain/RECOVERY.md
+
+本轮重新下载本次新包，历史链不重下，复用以前独立恢复的Harbinger运行树并前后重新逐文件哈希。
+
+## 下载与检查
+
+从同一固定提交下载MANIFEST.json、CHANGES.json、REMOVALS.json、SHA256SUMS.txt、README.md、RECOVERY.md及5个part000至part004分片。按MANIFEST顺序拼接为native_spell_listener_leaf_partial_candidate_20261109.tar.xz。
+大小1,155,064字节，SHA256 46ceb12b81c5db0c417933482d6572f3c89693d2ba3ef2d507ccebc5f0ed4ec7。
+
+核对每片和整包大小/SHA256。安全解压到新目录，拒绝绝对路径、上层跳转、链接、特殊文件及重复成员。外部清单覆盖全部247个成员，内部PACKAGE_MANIFEST覆盖其余246项。
+
+只有delta/五文件是有效运行增量。新增2、修改3、删除0，净增4533字节；完整路径见CHANGES.json。tamper_*_runtime及其他测试证据不能作为运行补丁。原source_evidence字节不变；新增provider_revision记录实现变更，不能把历史旧provider描述当作当前实现未改。
+
+## 本轮低磁盘核验与完整目录恢复
+
+开始可用空间约2.6GiB，完整目录要约1.55GB且另需目录及缓存余量。本轮采用流式重建核验：先核对完整基线，然后为每个目标路径从新下载delta或基线读取实际字节、按块重新计算SHA256，与SOURCE_MAP逐项严格比较；确认覆盖全部27,895文件、1,548,719,055字节。不是只比较清单，但不写第二个完整运行目录。最后再次检查基线未变。可复现脚本verify_native_listener_stream.py与具体回执将在核验后追加。
+
+目标SOURCE_MAP SHA256 9c1faebcbc9c2edae3fbacd3de2d13e454c219bb4b9ad1938dd69496bdb5d111。
+
+若以后空间充足并需可运行完整目录，按包内restore_to_new.py说明恢复到全新目录，先完整核对BASE_MAP，独立复制基线、应用delta并逐文件核对SOURCE_MAP，再复查基线未变。不要用硬链接、覆盖原基线或删除旧备份。完整目录恢复与启动游戏是另外步骤，本轮不声称执行。
+
+## 未验收范围
+
+原文oracle仅提取六个纯函数，不是原完整宿主；薄代理不是完整宿主。候选stock使用轻量来源适配器，不是完整Catalog自然获取。旧入口SIGKILL不表示其功能失败，也不能计算正式内存降幅。完整宿主编译、真实事件接线/触发效果、完整来源链、catalog/Game、存档、回放、UI、全局内存收益均未验收。本次备份不重跑Godot或扩大验证结论。
