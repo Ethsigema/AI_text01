@@ -1,0 +1,74 @@
+{
+  "status": "PASS_THIS_EXACT_CALLCHAIN_EVIDENCE_ONLY",
+  "archive": "imperial_identity_callchain_audit_20261109T222624Z.tar.xz",
+  "bytes": 265036,
+  "sha256": "f77e2a104017e743ee7c529feeef9bd4137367cacfcee65e2c34252139e9f846",
+  "members_verified": 22,
+  "candidate_installation_deferred": true,
+  "remaining_reference_gaps": 345,
+  "source_tree_modified": false,
+  "archived_code_executed_in_backup": false,
+  "game_or_save_accepted": false,
+  "dependencies_reverified": false,
+  "cancelled_dependency_download_retried": false,
+  "excluded_path_findings": [],
+  "common_credential_signature_findings": [],
+  "publication": {
+    "commit": "1d2c7ba0e116e36907df7d0fe504092ef7b6cea7",
+    "folder": "battlegrounds-backup/pending/20261109-imperial-identity-callchain-audit",
+    "branch": "battlegrounds-recovery-20261103",
+    "remote_head_verified": true,
+    "tree_check": {
+      "preserved_old_blobs": 3737,
+      "added_files": 7,
+      "old_files_changed": 0,
+      "force_push": false
+    },
+    "folder_url": "https://github.com/Ethsigema/AI_text01/tree/1d2c7ba0e116e36907df7d0fe504092ef7b6cea7/battlegrounds-backup/pending/20261109-imperial-identity-callchain-audit"
+  },
+  "readback_files": [
+    {
+      "name": "MANIFEST.json",
+      "sha": "f630f189c07ad05f89a76cd3e376dd50c4285e54",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1d2c7ba0e116e36907df7d0fe504092ef7b6cea7/battlegrounds-backup/pending/20261109-imperial-identity-callchain-audit/MANIFEST.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "PRIVACY_AND_SCOPE.json",
+      "sha": "9447404d4d70ed53d94d65a8de5bc0892bda430e",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1d2c7ba0e116e36907df7d0fe504092ef7b6cea7/battlegrounds-backup/pending/20261109-imperial-identity-callchain-audit/PRIVACY_AND_SCOPE.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "README.md",
+      "sha": "98bc89dd781d0924e0dde1c5626b501f44c305f4",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1d2c7ba0e116e36907df7d0fe504092ef7b6cea7/battlegrounds-backup/pending/20261109-imperial-identity-callchain-audit/README.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "RECOVERY.md",
+      "sha": "e600eb55b40bf1cd80d4061892825d26a15d6950",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1d2c7ba0e116e36907df7d0fe504092ef7b6cea7/battlegrounds-backup/pending/20261109-imperial-identity-callchain-audit/RECOVERY.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha": "c69e38e7bd02b5a8222aa348e6c4855c52f311f0",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1d2c7ba0e116e36907df7d0fe504092ef7b6cea7/battlegrounds-backup/pending/20261109-imperial-identity-callchain-audit/SHA256SUMS.txt",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "imperial_identity_callchain_audit_20261109T222624Z.tar.xz",
+      "sha": "33cbbba53a3b62a58711e7b08205a2a37f18771f",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1d2c7ba0e116e36907df7d0fe504092ef7b6cea7/battlegrounds-backup/pending/20261109-imperial-identity-callchain-audit/imperial_identity_callchain_audit_20261109T222624Z.tar.xz",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "verify_backup.py",
+      "sha": "e3da52d6b31c0451deb04ae05a659f2219a3fa0c",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1d2c7ba0e116e36907df7d0fe504092ef7b6cea7/battlegrounds-backup/pending/20261109-imperial-identity-callchain-audit/verify_backup.py",
+      "fresh_remote_readback": true
+    }
+  ],
+  "verification_scope": "This exact new package only. No older dependency or cancelled operation was downloaded, retried or reverified."
+}
