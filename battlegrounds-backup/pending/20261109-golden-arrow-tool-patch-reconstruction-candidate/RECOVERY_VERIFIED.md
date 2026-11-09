@@ -1,0 +1,69 @@
+# GoldenArrow工具补丁重建候选：封存字节流核验通过
+
+这是一项可信旧候选文件加精确历史补丁重建的候选，不是找回补丁后的已安装原件。唯一新增tools/golden_arrow_patterns.py，32647字节。修改0，删除0，所有旧清单项不变。
+
+仍有367个已检查静态RUNTIME_PATHS中的tools引用缺口。这一数字来自封存研究的355处声明，并非所有潜在引用总数；本次核验保留来源和范围，未重跑全套引用扫描。完整Game、完整Catalog最终执行指纹、旧存档兼容、回放、完整工具编译和整体内存收益均未验证。逐文件清单吻合不等于完整游戏恢复。
+
+## 真实下载与独立核验
+
+新包固定提交edf067470abc889b166ea39d1cec97c3dcf7c528。归档大小1,085,500字节，SHA256 3122135a4912a58c361b522e67b946dffbbe29b3618051972a4898e8cac7edd9。
+
+5个分片Git对象在fetch之前均不存在于本地对象库；从远端固定提交实际下载后读取。辅助文件可能被Git按相同内容去重，不把去重称作全部新传输。证据见BEFORE_FETCH_OBJECTS、FETCH_PROVENANCE、ARCHIVE_PUBLICATION_RECEIPT。上传仅增加11个文件，无覆盖、删除或强推。
+
+核对5片、整包、98个成员、内部97项清单、完整前后清单、唯一增量及零删除记录。固定GoldenArrow输入MANIFEST和流式回执重新通过连接器远端读取并核对哈希。
+
+历史Harbinger完整树27,893文件实际重新哈希；native listener归档247成员、EarthMother归档79成员、GoldenArrow归档71成员分别重新逐成员校验。三层增量按顺序组成输入27,897文件，映射边界完全连续，没有省略中间层。
+
+流式读取全部27,898个目标文件，共1,548,752,837字节，每个文件独立重新计算SHA256。实际来源：历史树27,885文件、native listener 5文件、EarthMother 4文件、GoldenArrow 3文件、本次重建工具1文件。相对于封存SOURCE_MAP，缺失、多余、哈希不符均为0。目标映射SHA256：bfd5d82ede8559200aed89547e4584ac091873a9392079af5ee20c41ea764a0a。
+
+核验末尾再次哈希完整历史树和三份旧归档，内容未变。没有复制第二完整运行目录，没有删旧备份或未验证成果，没有运行Godot、完整目录编译、Game、旧存档或回放。
+
+## 重建来源独立检查
+
+封存evidence/original_candidate.py与实际历史输入research/golden_arrow_native_recovery/candidates/tools/golden_arrow_patterns.py逐字节一致，SHA256 ff0073009c27627cdb4a4065c3a2f56769cd64ced5fd1033b4b5a0586e139025。
+
+封存evidence/original_followup.patch与实际历史输入research/arrow_native_periodic_delivery/tools_golden_arrow_patterns.py.patch逐字节一致，SHA256 b3e586190991034d248a3bb80c4549b235d315a90366524df470ad244c49cd4f。
+
+核验脚本独立检查单个统一差异hunk的目标路径、行号、数量和完整上下文，再精确应用，无模糊匹配。输出与远端包新增文件完全一致，SHA256 886717620eaa0da57b9a8d7f579fb78b08b2f2a54c45f7899e6e3ded10d642d3。原文和重建结果均通过Python AST解析，没有运行其编译函数。
+
+Catalog/Game指纹消费证据的完整源文件哈希、行号片段逐一对照实际历史/增量字节通过。原包69项有限检查和初次元数据预期纠正记录全部保留，但这些不是本次重新执行的玩法检查。补入文件会改变指纹片段，不宣称旧存档兼容，不伪造旧指纹。
+
+## 本轮回执
+
+回执：TOOL_RECONSTRUCTION_STREAM_VERIFICATION.json
+SHA256：088ba4a90cda426adf92be1af7516689511e08f6ce3c1d40f5225589022ba862
+实际目标字节流摘要：6e2860e2121eacc6cf05048dabbefb632819df41b21a248c862f541b9859ba4b
+格式：排序后的UTF-8路径、NUL、ASCII字节数、NUL、实际文件字节，依次覆盖所有目标文件。
+
+首次受限核验即通过，退出0，耗时35.63秒，确切子进程峰值110412KiB。192MiB RSS保护、512MiB地址空间、180秒超时。未提高资源阈值。证据为BOUNDED_PROCESS.json和STREAM_VERIFY.log。采用1MiB分块和逐层释放旧清单，不把小核验进程峰值当作游戏内存收益。
+
+## 固定依赖及复用边界
+
+直接输入839d5dd71e4d0e4bf59f97c1fb6ed50b5807daa6：
+https://github.com/Ethsigema/AI_text01/blob/839d5dd71e4d0e4bf59f97c1fb6ed50b5807daa6/battlegrounds-backup/pending/20261109-native-golden-source-leaf-partial-candidate/RECOVERY_VERIFIED.md
+
+输入归档SHA256 181a6415d954795e0b40286165c39a55d0469745185e7e6d24840eb769025cef。
+输入MANIFEST SHA256 5d967b3a52ac20fa32791171eef32b013e930ceefa3b13481fd602fc9a083a71。
+输入回执SHA256 2f24988e51c5acfc08df4f2417aefad974dd8717b9bbf2673ad4baadf48b66b0。
+输入SOURCE_MAP SHA256 c0454c30ce7eb2a71fb8ea3e513f0db0d2fd684f63129a1b7da2e4a47666603b。
+
+本轮只重下本次新包和固定输入元数据。历史Harbinger树、native listener/EarthMother/GoldenArrow三份旧增量及更早链复用并重哈希，未重新下载历史整链。其他时段的全新历史审计不冒充本次执行，诊断档案不属于运行增量链。
+
+## 可复现流式验证
+
+Python3.9或以上标准库，准备完整Harbinger树及三份旧增量，运行：
+
+```sh
+python3 verify_tool_reconstruction_stream.py \
+  --historical-baseline /path/to/restored_harbinger_identity_leaf_candidate_runtime \
+  --native-archive /path/to/native_spell_listener_leaf_partial_candidate_20261109.tar.xz \
+  --earth-archive /path/to/earth_mother_helper_leaf_partial_candidate_20261109.tar.xz \
+  --golden-archive /path/to/native_golden_source_leaf_partial_candidate_20261109.tar.xz \
+  --output /path/to/a-new-tool-stream-verification-directory
+```
+
+默认从固定提交下载新包和固定输入元数据。也可先下载本目录的MANIFEST、CHANGES、REMOVALS、SHA256SUMS、README、RECOVERY和5片后传入--download-dir，并用--baseline-manifest、--baseline-receipt传入本目录PINNED_INPUT副本。哈希约束不变。本次使用预先Git下载，故脚本increment_downloaded_by_this_helper为false不代表未真实下载，详见FETCH_PROVENANCE。
+
+脚本在新输出目录安全解包并独立流式读取全部目标字节，同时输出STREAM_RECONSTRUCTED_SOURCE_MAP.json与回执。输出不是可运行完整工程。若需完整运行树，应先按输入恢复链生成并验证完整基线，再在足够空间下用封存restore_to_new.py写入不存在的新目录，完整核对前后清单；本轮未执行这种完整复制。
+
+所有旧备份、历史树、测试初版及未验证材料均保留。源码字节精确恢复和游戏行为验收是不同结论。

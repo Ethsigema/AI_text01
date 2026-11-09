@@ -1,0 +1,91 @@
+{
+  "status": "PASS_EXACT_STREAMED_SOURCE_MAP_BYTES_WITH_RECONSTRUCTED_TOOL_AND_REMAINING_REFERENCE_GAPS",
+  "candidate_status": "PATCH_DERIVED_RECONSTRUCTION_BOUNDED_VALIDATION_PASS",
+  "archive_commit": "edf067470abc889b166ea39d1cec97c3dcf7c528",
+  "repository_path": "battlegrounds-backup/pending/20261109-golden-arrow-tool-patch-reconstruction-candidate",
+  "manifest_sha256": "a5016309666174b5a84523f5760f50b530110d8ce6f6dcdb1012c0f614af1a94",
+  "archive_sha256": "3122135a4912a58c361b522e67b946dffbbe29b3618051972a4898e8cac7edd9",
+  "archive_bytes": 1085500,
+  "parts_verified": 5,
+  "members_verified": 98,
+  "internal_manifest_members_verified": 97,
+  "input_verified_commit": "839d5dd71e4d0e4bf59f97c1fb6ed50b5807daa6",
+  "input_manifest_sha256": "5d967b3a52ac20fa32791171eef32b013e930ceefa3b13481fd602fc9a083a71",
+  "input_receipt_sha256": "2f24988e51c5acfc08df4f2417aefad974dd8717b9bbf2673ad4baadf48b66b0",
+  "input_source_map_sha256": "c0454c30ce7eb2a71fb8ea3e513f0db0d2fd684f63129a1b7da2e4a47666603b",
+  "source_map_sha256": "bfd5d82ede8559200aed89547e4584ac091873a9392079af5ee20c41ea764a0a",
+  "historical_full_tree_files_rehashed_before_and_after": 27893,
+  "historical_tree_source_map_sha256": "e31eb74faca1a774b42a7c8bcef11b1592eae64ad350b08fa930f9a1d7cd64fe",
+  "prior_archive_verifications": [
+    {
+      "archive": "native_spell_listener_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "46ceb12b81c5db0c417933482d6572f3c89693d2ba3ef2d507ccebc5f0ed4ec7",
+      "members_reverified": 247,
+      "source_files": 5,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "earth_mother_helper_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "333aad27ba8ed0d0699c97cd4a33be5494310247a8350993532cd725f26e753c",
+      "members_reverified": 79,
+      "source_files": 4,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "native_golden_source_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "181a6415d954795e0b40286165c39a55d0469745185e7e6d24840eb769025cef",
+      "members_reverified": 71,
+      "source_files": 3,
+      "freshly_downloaded_this_round": false
+    }
+  ],
+  "direct_input_files_verified_by_actual_bytes": 27897,
+  "target_files_streamed_and_verified": 27898,
+  "actual_target_bytes_streamed": 1548752837,
+  "stream_source_origins": {
+    "historical_tree": 27885,
+    "native_listener": 5,
+    "earth_mother": 4,
+    "golden_source": 3,
+    "fresh_tool_reconstruction": 1
+  },
+  "aggregate_stream_sha256": "6e2860e2121eacc6cf05048dabbefb632819df41b21a248c862f541b9859ba4b",
+  "aggregate_stream_format": "Sorted UTF-8 target path, NUL, ASCII file byte count, NUL, actual file bytes; repeated for every target file.",
+  "change_lists": {
+    "added": [
+      "tools/golden_arrow_patterns.py"
+    ],
+    "modified": [],
+    "removed": []
+  },
+  "reconstruction_source_and_patch_match_actual_historical_bytes": true,
+  "strict_patch_reconstruction_independently_repeated": true,
+  "original_and_rebuilt_python_ast_parse_passed": true,
+  "fingerprint_consumer_source_and_snippets_reverified": true,
+  "reconstructed_tool_sha256": "886717620eaa0da57b9a8d7f579fb78b08b2f2a54c45f7899e6e3ded10d642d3",
+  "post_patch_installed_original_recovered": false,
+  "remaining_static_runtime_paths_tools_gaps": 367,
+  "gap_count_scope": "Producer sealed research: 355 static RUNTIME_PATHS declarations; not a universal enumeration. This verifier preserves the count/scope and does not rerun that scan.",
+  "partial_validation_only": true,
+  "full_game_validation_passed": false,
+  "save_compatibility_verified": false,
+  "full_catalog_fingerprint_executed": false,
+  "full_compiler_executed": false,
+  "gameplay_test_run_by_verifier": false,
+  "whole_game_memory_improvement_verified": false,
+  "complete_runtime_directory_created": false,
+  "verification_mode": "Actual per-file bytes from reused Harbinger tree and three pinned archive layers, plus freshly downloaded tool reconstruction delta; not merely map comparison.",
+  "historical_chain_freshly_downloaded_this_round": false,
+  "increment_downloaded_by_this_helper": false,
+  "increment_input_mode": "Separately fetched pinned bytes; see FETCH_PROVENANCE.json proving all five part objects absent before fetch.",
+  "historical_baseline_and_prior_archives_unchanged": true,
+  "missing_files_relative_to_source_map": [],
+  "mismatched_files_relative_to_source_map": [],
+  "unexpected_files_relative_to_source_map": [],
+  "source_map_equality_does_not_establish_complete_game_recovery": true,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "free_disk_bytes_before": 3654471680,
+  "free_disk_bytes_after": 3638587392,
+  "verified_at_utc": "2026-11-09T06:22:16.326860+00:00"
+}
