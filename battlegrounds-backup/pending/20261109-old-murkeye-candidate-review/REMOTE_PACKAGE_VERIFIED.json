@@ -1,0 +1,75 @@
+{
+  "status": "PASS_THIS_EXACT_OLD_MURKEYE_REVIEW_ONLY",
+  "archive": "old_murkeye_candidate_review_20261109T224622Z.tar.xz",
+  "bytes": 278120,
+  "sha256": "d88441dae609ab923b743b15fc4d32f37b25996012b7217888e5a99c4babb9ef",
+  "members_verified": 98,
+  "candidate_installation_deferred": true,
+  "remaining_reference_gaps": 345,
+  "source_tree_modified": false,
+  "archived_code_executed_in_backup": false,
+  "game_or_save_accepted": false,
+  "dependencies_reverified": false,
+  "cancelled_dependency_download_retried": false,
+  "excluded_path_findings": [],
+  "common_credential_signature_findings": [],
+  "publication": {
+    "commit": "1f261535b3550100e4bb44ea94bfd714da4ccd9a",
+    "folder": "battlegrounds-backup/pending/20261109-old-murkeye-candidate-review",
+    "branch": "battlegrounds-recovery-20261103",
+    "remote_head_verified": true,
+    "tree_check": {
+      "old_blobs_preserved": 3746,
+      "added_files": 7,
+      "old_changes": 0,
+      "force_push": false
+    },
+    "folder_url": "https://github.com/Ethsigema/AI_text01/tree/1f261535b3550100e4bb44ea94bfd714da4ccd9a/battlegrounds-backup/pending/20261109-old-murkeye-candidate-review"
+  },
+  "readback_files": [
+    {
+      "name": "MANIFEST.json",
+      "sha": "286cb23eef1390e4b094589536177299326e2d7b",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1f261535b3550100e4bb44ea94bfd714da4ccd9a/battlegrounds-backup/pending/20261109-old-murkeye-candidate-review/MANIFEST.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "PRIVACY_AND_SCOPE.json",
+      "sha": "2d33ea75ec2698256f054be23955228373259824",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1f261535b3550100e4bb44ea94bfd714da4ccd9a/battlegrounds-backup/pending/20261109-old-murkeye-candidate-review/PRIVACY_AND_SCOPE.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "README.md",
+      "sha": "baa34953224dd8d3318505e9f35c16332a88047d",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1f261535b3550100e4bb44ea94bfd714da4ccd9a/battlegrounds-backup/pending/20261109-old-murkeye-candidate-review/README.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "RECOVERY.md",
+      "sha": "ba6b85472f7e14a1a9a0ce4d2b90bf0d033bd3af",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1f261535b3550100e4bb44ea94bfd714da4ccd9a/battlegrounds-backup/pending/20261109-old-murkeye-candidate-review/RECOVERY.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha": "91e3f0b39f94b9dabf66472e66970b98960cd451",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1f261535b3550100e4bb44ea94bfd714da4ccd9a/battlegrounds-backup/pending/20261109-old-murkeye-candidate-review/SHA256SUMS.txt",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "old_murkeye_candidate_review_20261109T224622Z.tar.xz",
+      "sha": "17f0a692a786a0247c64f10ec931971fedad5a61",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1f261535b3550100e4bb44ea94bfd714da4ccd9a/battlegrounds-backup/pending/20261109-old-murkeye-candidate-review/old_murkeye_candidate_review_20261109T224622Z.tar.xz",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "verify_backup.py",
+      "sha": "b3e339fb24d742679c302568806730fcc9563c14",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/1f261535b3550100e4bb44ea94bfd714da4ccd9a/battlegrounds-backup/pending/20261109-old-murkeye-candidate-review/verify_backup.py",
+      "fresh_remote_readback": true
+    }
+  ],
+  "verification_scope": "Only this exact newly uploaded review package. No old dependency or previously cancelled operation downloaded, retried or reverified.",
+  "historical_exact_restore_or_verified_latest_version": false
+}
