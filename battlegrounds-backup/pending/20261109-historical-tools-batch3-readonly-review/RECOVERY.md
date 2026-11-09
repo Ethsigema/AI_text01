@@ -1,0 +1,22 @@
+# 第3批历史工具只读审查证据恢复
+
+状态：REVIEW_SEALED_NO_NEW_RECOVERY_CANDIDATE。五项暂缓，无delta、候选SOURCE_MAP或源码补丁，源码新增/修改/删除均为0。当前源码仍为输入27908文件、1548971251字节，BASE_MAP SHA256 3581d683af1a208f00c3dd853e268d799abc5e2811847954a339cad2a68434ea。357路径缺口不变，历史版本未证实最新版，完整Game和旧存档兼容未验收。
+
+四项是历史工具与当前来源边界差异，Partner的312脚本闭包未运行；不能把差异探针通过称作恢复候选通过或新游戏回归。初始before为不完整隔离输入，after为补齐输入，都未安装五工具。所有原报告和输入纠正证据保留。
+
+## 固定依赖
+
+输入提交8a675dc886b8686e6bdd9a47463366cafb9c020f：
+https://github.com/Ethsigema/AI_text01/blob/8a675dc886b8686e6bdd9a47463366cafb9c020f/battlegrounds-backup/pending/20261109-historical-tools-batch2-four-candidate/RECOVERY_VERIFIED.md
+
+输入归档提交5d17cb79f7f7b6abdddb68e3b9e420e0167184b3，SHA256 51263c49a09a0a735a417e147e4f64f0529be4d5fa12529807653da7187693eb。
+输入MANIFEST SHA256 26e1d37470f663358cc246c5a860d0d563b1eae60a3729f466f2080546ed678b。
+输入流式回执SHA256 45c8d5c2837861e93d92c59df791c967a226d072decbaa34f59b6f5672f35b97。
+
+## 下载与证据恢复
+
+下载同一固定提交MANIFEST、CHANGES、REMOVALS、SHA256SUMS、README、RECOVERY和6片part000至part005，按MANIFEST.parts拼接historical_tools_batch3_review_20261109.tar.xz，1258348字节，SHA256 fa8ac41ae7131166487aebeecbd1d1b541ea259ebf8b2f00f438209ad1178663。核对每片、整包、118成员和内部117项清单。安全解包到新证据目录，拒绝路径穿越、链接、特殊文件和重复项。
+
+本包不应用到运行树。外部CHANGES和REMOVALS为空，仅用于明确零源码变动。依赖验证将重新读取固定远端MANIFEST和回执，重哈希复用的第2批归档及成员，并核对其SOURCE_MAP同本包BASE_MAP；嵌入历史证据与输入源码哈希对照。不会重新运行Godot、完整工程或历史整链，也不把旧回执当作本次整链验收。
+
+原40项Python证据检查、两个完整输入探针和初次失败试验仅作为封存证据。复跑应使用新解包副本，遵守README的边界，不能用before初始失败推断游戏源码缺失。所有旧备份、候选和失败材料保留，不删除、不强推。完成后追加可复现归档/依赖核验脚本与回执。
