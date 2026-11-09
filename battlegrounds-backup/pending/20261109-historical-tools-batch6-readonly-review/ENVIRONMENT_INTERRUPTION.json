@@ -1,0 +1,83 @@
+{
+  "status": "PRESERVE_PRE_INTERRUPTION_VERIFIED_EVIDENCE_WITH_MISSING_PUBLICATION_FILES",
+  "archive_commit": "8097e8aec613f3d2c606a299f2cb7c505cff16ab",
+  "archive_sha256": "297778bcc5e851bb3e3a0f306be05e7cd7e96e632871ed2e46a4d5b11f658e8d",
+  "verification_completed_before_interruption_at_utc": "2026-11-09T09:08:15.751608+00:00",
+  "original_verification_receipt_sha256": "03ba2e85367764f7faf9750f23a789cfa86565c1c494e2ed50c3e5a7db12d3ab",
+  "original_files_recovered_from_previously_created_GitHub_blobs": [
+    {
+      "name": "ARCHIVE_PUBLICATION_RECEIPT.json",
+      "bytes": 402,
+      "git_sha": "e16bbc8c8c59bb6977d8709b34857f48902a8384"
+    },
+    {
+      "name": "BATCH6_REVIEW_REMOTE_VERIFICATION.json",
+      "bytes": 3278,
+      "git_sha": "9a01aea3c4c2993fdb2144e66cab15927350a941"
+    },
+    {
+      "name": "BEFORE_FETCH_OBJECTS.json",
+      "bytes": 1813,
+      "git_sha": "784d4d7b45ddd446b9f851305502f0a43610eb31"
+    },
+    {
+      "name": "BOUNDED_PROCESS.json",
+      "bytes": 280,
+      "git_sha": "8b2b803f082b6c7f8d29dde445932659ebf73392"
+    },
+    {
+      "name": "EMBEDDED_SOURCE_FILES_VERIFIED.json",
+      "bytes": 21927,
+      "git_sha": "39f3373beb425d046df8b6ce8540b4fe283f399d"
+    },
+    {
+      "name": "FETCH_PROVENANCE.json",
+      "bytes": 7652,
+      "git_sha": "b1dfbffb3e36032812e233e54b77e2becb3cb6f4"
+    },
+    {
+      "name": "PINNED_INPUT_MANIFEST.json",
+      "bytes": 33081,
+      "git_sha": "086000bc2c9c55536366f7465b1fe282ca55ba72"
+    },
+    {
+      "name": "PINNED_INPUT_RECEIPT.json",
+      "bytes": 7668,
+      "git_sha": "e15f736072aef9f0b4296abffa7c2697782719b3"
+    }
+  ],
+  "each_recovered_file_original_bytes_and_git_sha_reverified": true,
+  "last_four_planned_files_not_published_and_not_recovered": [
+    {
+      "name": "RECOVERY_VERIFIED.md",
+      "bytes": 5826,
+      "git_sha": "e62ee5988300d70decc1824241bb2cb7a07e8ace"
+    },
+    {
+      "name": "VERIFICATION_SHA256SUMS.txt",
+      "bytes": 1012,
+      "git_sha": "6019cd964f0f5e1917a01c14d8d60e6a8caa2321"
+    },
+    {
+      "name": "VERIFY.log",
+      "bytes": 3552,
+      "git_sha": "9fc2bbc26a68e94e694fa171ee68c67e5fce92ad"
+    },
+    {
+      "name": "verify_batch6_review.py",
+      "bytes": 19122,
+      "git_sha": "dcd1ef2337836b46465a66edf443b04ff2203ac0"
+    }
+  ],
+  "four_blob_reads_after_transport_error": "GitHub 404 Not Found",
+  "workspace_after_reconnection": "The same selected cloud environment reports connected, but the work directory contained only read-only configuration directories. Original work files were absent.",
+  "cause_of_environment_change": "unknown",
+  "any_files_deleted_by_this_backup_worker": false,
+  "previous_backup_commits_and_published_archive_preserved": true,
+  "success_receipt_recreated_or_inferred": false,
+  "historical_tree_present_in_current_workspace": false,
+  "verification_rerun_in_empty_reconnected_workspace": false,
+  "full_chain_or_Game_or_save_validation_claimed": false,
+  "current_note_created_after_interruption": true,
+  "note_created_at_utc": "2026-11-09T09:14:57.246289+00:00"
+}
