@@ -1,0 +1,70 @@
+{
+  "FRESH_WHOLE_CHAIN_VERIFICATION.json": {
+    "bytes": 105826,
+    "sha256": "64eb3e1637d8993dfcd39f787ea514c8c88dfd443b76569a5869404527d46630"
+  },
+  "RESTORE_RESULT.json": {
+    "bytes": 16009,
+    "sha256": "8ed982c41a22255ad173a7158607a09586d91866d5c01ae37a5ed763daaf8b5a"
+  },
+  "ARCHIVE_SCANS.json": {
+    "bytes": 21951,
+    "sha256": "2d19d7f55115fc421c68277aec24e1fb58897353e1fb2a38656edf14fdcff206"
+  },
+  "PROVENANCE.json": {
+    "bytes": 7396138,
+    "sha256": "ac34ff64da527f50eb07514ea4eae0b013f0ea7a5be7b09fde69ab24b21d6d87"
+  },
+  "PINNED_INCREMENT_CHAIN.json": {
+    "bytes": 29099,
+    "sha256": "07a0dc841cc0494ab984bbc61aee4643ecf41456fe3bca242de214cf9f64bdb3"
+  },
+  "SCHEDULED_PROGRESS_AUDIT.json": {
+    "bytes": 1913,
+    "sha256": "a1532b5217ef6243d1bb1c38d110aa92806e1c237b5ea2faef5359708dc6edff"
+  },
+  "RECOVERY.md": {
+    "bytes": 3851,
+    "sha256": "cbd4e8d38909704b1c9b449d098e8e8a576f2790194a50139d26995d91389015"
+  },
+  "RUN_FRESH_CHAIN.sh": {
+    "bytes": 560,
+    "sha256": "58fbd1303016258df273c1fb9bda08fb177b7a65895d2f190ed6ab5fc4b5c0be"
+  },
+  "DOWNLOAD_PINNED_GIT.sh": {
+    "bytes": 521,
+    "sha256": "d873b2ac8e00e6598e85a03028e5bc38e1f9c6b3915f7eb09f68b307653ee4dc"
+  },
+  "verify_historical_bytes.py": {
+    "bytes": 5557,
+    "sha256": "521f987679452e695e0e3a105be4699494fe60a01d7c61985ea7a67c43622f16"
+  },
+  "verify_fresh_increment_chain.py": {
+    "bytes": 5388,
+    "sha256": "6f80d2688a8867e8c888d96e052382ac05b5f374c63d631e66d2373edcde11b1"
+  },
+  "prefetch.py": {
+    "bytes": 1749,
+    "sha256": "03ac8dcf3f9b684b2e648b6dab84285abdc2429b53bcce7324ba2dcf3c54ef03"
+  },
+  "HISTORICAL.log": {
+    "bytes": 7952,
+    "sha256": "fd857408e17ef45eb3a7d1c2000ca96812833d1108de70db89589535c836d453"
+  },
+  "INCREMENTS.log": {
+    "bytes": 74803,
+    "sha256": "c4724e27b57e50387b24dfe6f3e82231840d4fe77a53424ff20e82518dd9313f"
+  },
+  "PREFETCH.log": {
+    "bytes": 2276,
+    "sha256": "dbf64ac0cbd5c8cce75146d6e2d705848796db9e40201e5dda1ff463b4b83d68"
+  },
+  "EXTENSION_PREFETCH.log": {
+    "bytes": 64,
+    "sha256": "632e8989b3024f0a527e06a6f0019ec561d4c62fb95d3ecc157b6651379a4ba7"
+  },
+  "GIT_FSCK.log": {
+    "bytes": 57,
+    "sha256": "097f8b716bb9c435166e0e52990cebff5a16acc6fb92ca2ff7882a9cf231ea0b"
+  }
+}

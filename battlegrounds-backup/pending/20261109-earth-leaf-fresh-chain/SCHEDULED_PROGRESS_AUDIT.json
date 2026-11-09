@@ -1,0 +1,44 @@
+{
+  "scope": "Pinned37.0.2 minions, Tavern Spells, latest fully released trinkets; retain Naga, exclude explicit Aberrations and hero/extra-system development.",
+  "accepted_checkpoint": "a71d3e4ea64dc52264a3f789a48ddae2e4a043cd",
+  "candidate_archive_commit": "851466e4964562e8cf172bd40d37a389386fcfdf",
+  "candidate_status": "PARTIAL_PURE_HELPER_AND_LIGHT_ENTRY_PASS_FULL_HOST_UNVERIFIED",
+  "new_runtime_files": 1,
+  "modified_runtime_files": 3,
+  "deleted_runtime_files": 0,
+  "fresh_successful_small_processes": 6,
+  "small_checks": 1439,
+  "highest_probe_rss_kib": 89700,
+  "full_game_test_run_this_audit": false,
+  "prior_full_game_sigkill_cause": "Unconfirmed",
+  "old_save_compatibility": "Not tested; execution fingerprint changes.",
+  "categories": {
+    "minions": {
+      "completed": null,
+      "denominator": null,
+      "percentage": null,
+      "reason": "No authoritative current acceptance ledger and scoped denominator found. Bounded tests are not exhaustive content acceptance."
+    },
+    "tavern_spells": {
+      "completed": null,
+      "denominator": null,
+      "percentage": null,
+      "reason": "No authoritative current acceptance ledger and scoped denominator found. Bounded tests are not exhaustive content acceptance."
+    },
+    "latest_fully_released_trinkets": {
+      "completed": null,
+      "denominator": null,
+      "percentage": null,
+      "reason": "No authoritative current acceptance ledger and scoped denominator found. Bounded tests are not exhaustive content acceptance."
+    }
+  },
+  "sources": [
+    "earth_mother_helper_leaf_20261109/README.md",
+    "earth_mother_helper_leaf_20261109/RESULT.json",
+    "combined_leaf_diagnostic_20261109/README.md",
+    "harbinger_identity_leaf_20261109/README.md",
+    "native_listener_leaf_20261109/README.md",
+    "hopebringer_banshee_golden_20261109/PROGRESS.json",
+    "full_theotar_snapshot_20261107/PROGRESS.json"
+  ]
+}
