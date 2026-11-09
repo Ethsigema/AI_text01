@@ -1,0 +1,63 @@
+{
+  "status": "PASS_READONLY_REVIEW_ARCHIVE_AND_PINNED_DEPENDENCY",
+  "review_status": "REVIEW_SEALED_NO_NEW_RECOVERY_CANDIDATE",
+  "archive_commit": "b78e979c5a64f79daa265196b50105b535953f27",
+  "repository_path": "battlegrounds-backup/pending/20261109-historical-tools-batch3-readonly-review",
+  "archive_sha256": "fa8ac41ae7131166487aebeecbd1d1b541ea259ebf8b2f00f438209ad1178663",
+  "archive_bytes": 1258348,
+  "manifest_sha256": "1a1fbd4339a32ecd3c93f804d99b2f121eb20acbe7958114708fb6595cfd98d3",
+  "parts_verified": 6,
+  "members_verified": 118,
+  "internal_manifest_members_verified": 117,
+  "input_verified_commit": "8a675dc886b8686e6bdd9a47463366cafb9c020f",
+  "input_archive_sha256": "51263c49a09a0a735a417e147e4f64f0529be4d5fa12529807653da7187693eb",
+  "input_archive_members_reverified": 282,
+  "input_manifest_sha256": "26e1d37470f663358cc246c5a860d0d563b1eae60a3729f466f2080546ed678b",
+  "input_receipt_sha256": "45c8d5c2837861e93d92c59df791c967a226d072decbaa34f59b6f5672f35b97",
+  "unchanged_source_map_sha256": "3581d683af1a208f00c3dd853e268d799abc5e2811847954a339cad2a68434ea",
+  "input_source_map_files": 27908,
+  "input_source_map_bytes": 1548971251,
+  "input_source_map_counts_are_not_a_fresh_full_tree_byte_verification": true,
+  "embedded_historical_and_current_source_files_rehashed_against_pinned_map": 69,
+  "embedded_source_file_bytes_checked": 1613292,
+  "probe_input_files_verified": 56,
+  "probe_source_files_matching_base_map": 53,
+  "isolated_harness_inputs_not_game_source": {
+    "project.godot": {
+      "bytes": 136,
+      "sha256": "efee3e87caf41e3a1f227252c53dd071fd9a5fc2e599e316f85c24b7ff6161c5"
+    },
+    "review_config.json": {
+      "bytes": 70863,
+      "sha256": "0b055b076bec16f47c843dd9f5c5fd661f2ae67b944d1204c11cf37020cb9627"
+    },
+    "review_fixtures.json": {
+      "bytes": 220385,
+      "sha256": "65d89aa02e0114fdb4885730b5e7f209fbfbc08174b3afbab3b4a255aadc487a"
+    }
+  },
+  "retry_after_initial_harness_role_misclassification": true,
+  "declared_preload_paths_compared_as_metadata_only": 317,
+  "source_changes": 0,
+  "runtime_delta_created": false,
+  "new_candidate_created": false,
+  "reviewed_and_deferred_targets": 5,
+  "remaining_missing_in_original_367_scope": 357,
+  "initial_incomplete_probe_failure_preserved": true,
+  "complete_saved_evidence_reports_match": true,
+  "saved_reports_are_observations_not_new_gameplay_acceptance": true,
+  "Partner_312_script_closure_not_loaded": true,
+  "candidate_Python_or_Godot_executed_by_verifier": false,
+  "whole_runtime_rehashed_or_reconstructed_this_round": false,
+  "complete_runtime_directory_created": false,
+  "historical_full_chain_downloaded_or_replayed_this_round": false,
+  "input_archive_reused_and_rehashed": true,
+  "increment_downloaded_by_this_helper": false,
+  "increment_input_mode": "Pre-fetched pinned Git bytes; six archive-part objects absent before fetch, see FETCH_PROVENANCE.json",
+  "full_game_verified": false,
+  "old_save_compatibility_verified": false,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "input_archive_unchanged": true,
+  "verified_at_utc": "2026-11-09T07:51:31.871078+00:00"
+}

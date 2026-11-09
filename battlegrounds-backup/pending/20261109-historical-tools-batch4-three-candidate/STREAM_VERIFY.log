@@ -1,0 +1,160 @@
+PASS: archive historical_tools_batch4_three_candidate_20261109 155 members
+PASS: archive native_spell_listener_leaf_partial_candidate_20261109 247 members
+PASS: archive earth_mother_helper_leaf_partial_candidate_20261109 79 members
+PASS: archive native_golden_source_leaf_partial_candidate_20261109 71 members
+PASS: archive golden_arrow_tool_patch_reconstruction_candidate_20261109 98 members
+PASS: archive megasaur_tool_fixed_pin_candidate_20261109 143 members
+PASS: archive historical_tools_batch1_candidate_20261109 199 members
+PASS: archive historical_tools_batch2_four_candidate_20261109 282 members
+PASS: historical baseline before 27893 actual files
+PASS: three historical originals/installations/FROZEN; 50 current pins; 16 raw/compiled dependency entries/6 IDs; 354 missing; six prior deferrals remain
+PASS: historical baseline after 27893 actual files
+{
+  "status": "PASS_EXACT_STREAMED_SOURCE_MAP_BYTES_WITH_THREE_HISTORICAL_TOOLS",
+  "candidate_status": "THREE_HISTORICAL_TOOL_CANDIDATE_SCOPED_VALIDATION_PASS",
+  "archive_commit": "e4b9f301a494c0623daebfd17d7b60fd933c4c6f",
+  "repository_path": "battlegrounds-backup/pending/20261109-historical-tools-batch4-three-candidate",
+  "manifest_sha256": "c5711e27d97ab3a82a8339112d80aaa6e9d4ba045a776fbe2e44f849de801cce",
+  "archive_sha256": "85e5b08ccafa5dde8ecc02bdd24ecb740a5eb20baf2a81329e8c52b61773cc20",
+  "archive_bytes": 1095004,
+  "parts_verified": 5,
+  "members_verified": 155,
+  "internal_manifest_members_verified": 154,
+  "input_verified_commit": "8a675dc886b8686e6bdd9a47463366cafb9c020f",
+  "input_manifest_sha256": "26e1d37470f663358cc246c5a860d0d563b1eae60a3729f466f2080546ed678b",
+  "input_receipt_sha256": "45c8d5c2837861e93d92c59df791c967a226d072decbaa34f59b6f5672f35b97",
+  "input_source_map_sha256": "3581d683af1a208f00c3dd853e268d799abc5e2811847954a339cad2a68434ea",
+  "source_map_sha256": "608a981c9b82b255c37fefb004a4bfe98bcf95d9717cfa3a5ee2917961ff2d00",
+  "historical_full_tree_files_rehashed_before_and_after": 27893,
+  "historical_tree_source_map_sha256": "e31eb74faca1a774b42a7c8bcef11b1592eae64ad350b08fa930f9a1d7cd64fe",
+  "prior_archive_verifications": [
+    {
+      "archive": "native_spell_listener_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "46ceb12b81c5db0c417933482d6572f3c89693d2ba3ef2d507ccebc5f0ed4ec7",
+      "members_reverified": 247,
+      "source_files": 5,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "earth_mother_helper_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "333aad27ba8ed0d0699c97cd4a33be5494310247a8350993532cd725f26e753c",
+      "members_reverified": 79,
+      "source_files": 4,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "native_golden_source_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "181a6415d954795e0b40286165c39a55d0469745185e7e6d24840eb769025cef",
+      "members_reverified": 71,
+      "source_files": 3,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "golden_arrow_tool_patch_reconstruction_candidate_20261109.tar.xz",
+      "sha256": "3122135a4912a58c361b522e67b946dffbbe29b3618051972a4898e8cac7edd9",
+      "members_reverified": 98,
+      "source_files": 1,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "megasaur_tool_fixed_pin_candidate_20261109.tar.xz",
+      "sha256": "27514275c7204a972de2a5193b93deb35c7d4a72b137d1bc5c9477c2f7e9cf66",
+      "members_reverified": 143,
+      "source_files": 1,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "historical_tools_batch1_candidate_20261109.tar.xz",
+      "sha256": "d4de01b2fa7a530c00b383455e94f1a0da62d81c68b03b4205b90aca1c46aea1",
+      "members_reverified": 199,
+      "source_files": 5,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "historical_tools_batch2_four_candidate_20261109.tar.xz",
+      "sha256": "51263c49a09a0a735a417e147e4f64f0529be4d5fa12529807653da7187693eb",
+      "members_reverified": 282,
+      "source_files": 4,
+      "freshly_downloaded_this_round": false
+    }
+  ],
+  "direct_input_files_verified_by_actual_bytes": 27908,
+  "target_files_streamed_and_verified": 27911,
+  "actual_target_bytes_streamed": 1549091079,
+  "stream_source_origins": {
+    "historical_tree": 27885,
+    "native_listener": 5,
+    "earth_mother": 4,
+    "golden_source": 3,
+    "golden_tool": 1,
+    "megasaur_tool": 1,
+    "batch1_tools": 5,
+    "batch2_tools": 4,
+    "fresh_batch4_tools": 3
+  },
+  "aggregate_stream_sha256": "540314029d35100030257837829f0f3cdff60e37bb3a5e0503902675952a9349",
+  "aggregate_stream_format": "Sorted UTF-8 target path, NUL, ASCII file byte count, NUL, actual file bytes; repeated for every target file.",
+  "change_lists": {
+    "added": [
+      "tools/boom_controller_patterns.py",
+      "tools/soul_fermenter_patterns.py",
+      "tools/twin_lanterns_patterns.py"
+    ],
+    "modified": [],
+    "removed": []
+  },
+  "historical_originals_and_supporting_evidence_match_actual_baseline_bytes": true,
+  "historical_installation_and_shared_manifest_hashes_rechecked": true,
+  "restored_python_ast_parse_passed": true,
+  "current_source_literal_comparisons_passed": 6,
+  "current_source_pins_verified": 50,
+  "three_tools_themselves_are_current_fixed_pins": false,
+  "current_pin_constants_unchanged": true,
+  "latest_installed_versions_proven": false,
+  "prior_inventory_before_items_preserved": 367,
+  "remaining_missing_within_inventory_scope": 354,
+  "remaining_historical_candidates_from_68": 56,
+  "upstream_full_inventory_and_selected_rows_reverified": true,
+  "inventory_scan_repeated_this_round": false,
+  "inventory_scope": "Original 367 pre-restoration targets, not all possible tools gaps. This batch adds three and leaves 354 absent; original inventory records preserved.",
+  "current_dependency_raw_entries_verified": 16,
+  "unique_dependency_card_ids": 6,
+  "previously_deferred_six_targets_still_absent": [
+    "tools/sinstone_sticker_patterns.py",
+    "tools/ancient_wishbone_patterns.py",
+    "tools/factory_line_patterns.py",
+    "tools/balinda_spell_patterns.py",
+    "tools/boogie_monster_patterns.py",
+    "tools/partner_in_crime_patterns.py"
+  ],
+  "raw_and_compiled_dependency_data_separately_checked_against_current_pins": true,
+  "dependency_native_fields_unchanged": true,
+  "FROZEN_shared_manifest_hashes_verified": 3,
+  "producer_checkpoint": "92710e8471cd9353b2393ddf6f55c1a9454a760f",
+  "readonly_checkpoint_source_changes": 0,
+  "readonly_checkpoint_receipt_verified": true,
+  "partial_validation_only": true,
+  "full_game_validation_passed": false,
+  "save_compatibility_verified": false,
+  "full_catalog_fingerprint_executed": false,
+  "full_compiler_executed": false,
+  "gameplay_test_run_by_verifier": false,
+  "Godot_proof_error_rerun_by_verifier": false,
+  "candidate_Python_modules_executed_by_verifier": false,
+  "whole_game_memory_improvement_verified": false,
+  "complete_runtime_directory_created": false,
+  "verification_mode": "Actual per-file bytes from reused Harbinger tree and seven pinned archive layers, plus freshly downloaded three-file batch delta; not merely map comparison.",
+  "historical_chain_freshly_downloaded_this_round": false,
+  "increment_downloaded_by_this_helper": false,
+  "increment_input_mode": "Separately fetched pinned bytes; see FETCH_PROVENANCE.json proving all five part objects absent before fetch.",
+  "historical_baseline_and_prior_archives_unchanged": true,
+  "missing_files_relative_to_source_map": [],
+  "mismatched_files_relative_to_source_map": [],
+  "unexpected_files_relative_to_source_map": [],
+  "source_map_equality_does_not_establish_complete_game_recovery": true,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "free_disk_bytes_before": 3176677376,
+  "free_disk_bytes_after": 3158773760,
+  "verified_at_utc": "2026-11-09T08:11:38.188132+00:00"
+}
