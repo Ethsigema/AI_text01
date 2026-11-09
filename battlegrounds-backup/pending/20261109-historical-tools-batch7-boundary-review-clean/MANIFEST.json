@@ -1,0 +1,981 @@
+{
+  "archive": "historical_tools_batch7_boundary_review_nocache_20261109.tar.xz",
+  "bytes": 1639148,
+  "sha256": "11158be04088b7b681d0c43dbeca9cb33d2333a51bc0d6412c920a0ac2212aa8",
+  "parts": [
+    {
+      "name": "historical_tools_batch7_boundary_review_nocache_20261109.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "2db2ca7c38506cb628bcfb60b929a6b69ee7522232009ce0cda656ea42375a1d"
+    },
+    {
+      "name": "historical_tools_batch7_boundary_review_nocache_20261109.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "9245a8a24162b3239a8d7178d2ad142a125c2cf27eba9e201a4d2fc163174e95"
+    },
+    {
+      "name": "historical_tools_batch7_boundary_review_nocache_20261109.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "94caa8635f34804623bdfb277cd4c5a5620fc9cd82e78d118a167bbdb4f87b89"
+    },
+    {
+      "name": "historical_tools_batch7_boundary_review_nocache_20261109.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "56e40db477945162d01bbe35d35d9ae7951238c73d0554352c451a09fea4e876"
+    },
+    {
+      "name": "historical_tools_batch7_boundary_review_nocache_20261109.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "6a0edafd0ef7fc6d7e103d3cadd0d79218d2e6e33ce17caeb7c5b603feeffa94"
+    },
+    {
+      "name": "historical_tools_batch7_boundary_review_nocache_20261109.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "b2099149b2b60d3216acc4427bb3541f754f61ca5ef1c3a0c2b3bc7d3b286c49"
+    },
+    {
+      "name": "historical_tools_batch7_boundary_review_nocache_20261109.tar.xz.part006",
+      "bytes": 139148,
+      "sha256": "a7d1cfa7c279d7d2f0dbb7b575cb57657fb8fc40eb8c3e4ab4321d77a5b653e8"
+    }
+  ],
+  "files": {
+    "historical_tools_batch7_boundary_review_nocache_20261109/BASELINE_MEMBER_VERIFICATION.json": {
+      "bytes": 911,
+      "sha256": "7b991e2139972a2444ce6853438038f9d7b55c6b1da3a59fc84964c4335143da"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/BASE_MAP.json": {
+      "bytes": 4605770,
+      "sha256": "9baabc104b5f2f93087dfec0e385d6cb9fceffbf3b1d4441ec91da463a727260"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/CHANGES.json": {
+      "bytes": 53,
+      "sha256": "27223135250f2a76068e8147ec88a9d2b8fce0cf65d8e5fc4c7b09d179185a91"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/COPY_VERIFIED.json": {
+      "bytes": 797,
+      "sha256": "8e7802ec706eeb4906843552fe4655b5a3243c4ca7a9412c2b9893564a76c344"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/FINAL_TREES_UNCHANGED.json": {
+      "bytes": 796,
+      "sha256": "aeddf0b1c95ab4e062d4085c65d0c337478af7abc193fedad511b675c1b9aa54"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/PORTABLE_REPLAY.log": {
+      "bytes": 464,
+      "sha256": "7a9301c00ea9c56dd06d17ca99213c23416ac3435232a5825cefba383156ad4c"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/PRIOR_REMAINING_SCOPE.json": {
+      "bytes": 16110,
+      "sha256": "197e906dcf1148775403d6f26e2fafd99d15393c964d675d4e5aaea975936c73"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/README.md": {
+      "bytes": 4759,
+      "sha256": "399c3592a63fa33698fd15e6882f7c0e48632ab029c6561e08f134bd7e6074c5"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/REMAINING_SCOPE.json": {
+      "bytes": 16281,
+      "sha256": "4d7b4075ee9772b945af3632177444b78f627d81e179c8748e82829b00291847"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/SCREEN_INPUT_MAP.json": {
+      "bytes": 14922,
+      "sha256": "5472fff97729f5446608339cc8298d7e8a505e7a60de4f2f3c41ed83b0dd9b08"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/STATIC_VERIFICATION.json": {
+      "bytes": 8436,
+      "sha256": "256714e73265fddf6e82cfedc3c80be654b34469887ca91454540933b6987be9"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/STATIC_VERIFICATION_FINAL.json": {
+      "bytes": 19044,
+      "sha256": "19fa2fa706ecf1f55b1969f57e3d8e421bc3a661c0bd2e8c8a845165c2fb7649"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/STATIC_VERIFICATION_REPEAT.json": {
+      "bytes": 8436,
+      "sha256": "256714e73265fddf6e82cfedc3c80be654b34469887ca91454540933b6987be9"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/STRICT_CANDIDATE_SCREEN.json": {
+      "bytes": 40048,
+      "sha256": "781a1ee74dd42069d896250c3c5d9d7becaf654cb1acf37fba848ea5e8efdc93"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/CONFIG.json": {
+      "bytes": 96224,
+      "sha256": "59c3b3609e28e080cfbb187bc9343ca911b24f84a7f14dc8823c7a2ed0969bc1"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/PLAN.json": {
+      "bytes": 532,
+      "sha256": "ffe3c2423a6c3af549cd9bffd768a3403d9731a1e941fe124d50fffd7fe47e78"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/PYTHON_REPORT.json": {
+      "bytes": 6822,
+      "sha256": "1c4a927bc170dd5e516a6138d9e662e4fa94661001a4398644abd33ac454d995"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/SOURCE_INPUT_MAP.json": {
+      "bytes": 4957,
+      "sha256": "a6dcb3146a687e3720f2d55641de3343603d8d0609cf290276f5dfd2720e5fd6"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before/LAUNCH.json": {
+      "bytes": 1238,
+      "sha256": "ab24af559c9d8d0e770c45eca7cb07c23f1fb0e457b5bb3ba7b170de5842d506"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before/PROCESS.json": {
+      "bytes": 1419,
+      "sha256": "a9bd545faf2f52500b737a48871b61e9bf8592cdb4a89adf7341813c5c9195c5"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before/gate_executed.gd": {
+      "bytes": 3258,
+      "sha256": "2a285aced82e1aad2bb0f8549c89b53151230a0df17ccf151c53a71fa9748e62"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before/native.log": {
+      "bytes": 141,
+      "sha256": "b2a369962c963ecf5c36eff666a9274f3da76f01b96436db229ce751c1473a74"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before/report.json": {
+      "bytes": 7815,
+      "sha256": "f1c539a2b19f615dc8fcb0ae054900be3d51670aeb9050461e90f028e030aca3"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before/samples.jsonl": {
+      "bytes": 21385,
+      "sha256": "e7d63a60e5799825074edbdbd5fc65f894057733d02b0f2e976ee1f8568598a6"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before_INPUT_MAP.json": {
+      "bytes": 5335,
+      "sha256": "db27736f120ba760643178f65234301c789c7bd8641c9f405b8f8d5c46f77d16"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before_repeat/LAUNCH.json": {
+      "bytes": 1245,
+      "sha256": "a719503284c0b6492850bf2a6791e52e4821beae6f9739b0c0893bcf6aaca3b6"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before_repeat/PROCESS.json": {
+      "bytes": 1426,
+      "sha256": "621064ace6c09465fadcb5b6d4a5d7ca7ba530903bd0942e02c8d0fa53577354"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before_repeat/gate_executed.gd": {
+      "bytes": 3258,
+      "sha256": "2a285aced82e1aad2bb0f8549c89b53151230a0df17ccf151c53a71fa9748e62"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before_repeat/native.log": {
+      "bytes": 141,
+      "sha256": "b2a369962c963ecf5c36eff666a9274f3da76f01b96436db229ce751c1473a74"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before_repeat/report.json": {
+      "bytes": 7815,
+      "sha256": "f1c539a2b19f615dc8fcb0ae054900be3d51670aeb9050461e90f028e030aca3"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/before_repeat/samples.jsonl": {
+      "bytes": 20954,
+      "sha256": "8c4c8685845e423ef655af2dc5e2213ae632d8e124e33d7b07ed4b6390f05f2b"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/gate.gd": {
+      "bytes": 3258,
+      "sha256": "2a285aced82e1aad2bb0f8549c89b53151230a0df17ccf151c53a71fa9748e62"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/config.json": {
+      "bytes": 96224,
+      "sha256": "59c3b3609e28e080cfbb187bc9343ca911b24f84a7f14dc8823c7a2ed0969bc1"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/core/necrolyte_host.gd": {
+      "bytes": 17894,
+      "sha256": "df2367db4389749bf33b2f7a5112d373f3d5b1d58daddd4b05f8d79732a1a4e8"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/core/necrolyte_sources.gd": {
+      "bytes": 32696,
+      "sha256": "084b4aae3d9d9a02ea7703670ecff3704a8fad8f23818d26ea0213ee36f25399"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/core/pool_identity.gd": {
+      "bytes": 2004,
+      "sha256": "cf9388a9288d0f3684be277fa91ca6845b6d8945fdd7cd065e9d499c06b7b4af"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/core/taverngoer_host.gd": {
+      "bytes": 23039,
+      "sha256": "41af2002c88cef20f35fc49b5a86bc4df81b304b5914b40dd1e89ade898169bf"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/core/taverngoer_sources.gd": {
+      "bytes": 59084,
+      "sha256": "4eac1bcac88ccbdea5484d0db7dbf0ac5f5d5309103295d892c6839a54163dcd"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/fixtures.json": {
+      "bytes": 116187,
+      "sha256": "ca11c14fd896659d3874e19d04a6adb29349ade7f49fd5fc725666ec2acfb3f0"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/project.godot": {
+      "bytes": 138,
+      "sha256": "c78c09d92a02160dcdddbc445440fdadc572b0209274339f451fc6df6d84d119"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/necrolyte_native_recovery/candidates/tools/necrolyte_patterns.py": {
+      "bytes": 14936,
+      "sha256": "acec01cd401653fdde84ef84d4b542bd56b32afa8e399a94404ba0a6f71e4714"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/necrolyte_native_recovery/expected_compiled.json": {
+      "bytes": 4099,
+      "sha256": "7a2409e7597860fb30438f1fa2bc5385e6cac841629fddac2ec88bc0dc706dc0"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/necrolyte_native_recovery/integration_manifest.json": {
+      "bytes": 4379,
+      "sha256": "2928f22a64e208dc4b208ea9aa29370f6bf7d3871f8615456c81674897eeee7a"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/necrolyte_native_recovery/native/BG20_202.xml": {
+      "bytes": 6070,
+      "sha256": "a5867fcf15f267b1dafc426ad34537fd3836c74999424a44e768118828caacf7"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/necrolyte_native_recovery/native/BG20_202_G.xml": {
+      "bytes": 6080,
+      "sha256": "2772d0ff9347a3d93a0f0e048ea98f89d0631770de9ec5b0d564980027e591f3"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/necrolyte_native_recovery/native_quantities.json": {
+      "bytes": 2931,
+      "sha256": "f5d1bc71778c7fd847d7f604ae8fc9063644ec3394886c56a69351718c8cb844"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/necrolyte_native_recovery/native_source_manifest.json": {
+      "bytes": 938,
+      "sha256": "159907b30df4946e9ed8225b56dc05edf9d4300d0b69c1799abe3fbb4b4b2342"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/necrolyte_native_recovery/programs.json": {
+      "bytes": 513,
+      "sha256": "5e7b64921d5b0929875e7bb29c8def129425817a17344b486a95e1648f612d04"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/necrolyte_native_recovery/raw_rows.json": {
+      "bytes": 13472,
+      "sha256": "3cfc1573399e9d989989bcc0269b373cf65ea7918e74184bac513d1ecd09fafe"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/necrolyte_native_recovery/shared_manifest.json": {
+      "bytes": 5426,
+      "sha256": "5614312e6aabf906633190b844c47045cf7dd1caed331a3d1de289f22f384262"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/candidates/tools/taverngoer_patterns.py": {
+      "bytes": 15017,
+      "sha256": "068d6e8582965c3e79d80e705fa008742345e3d20eb193d067ef3b395a91fc35"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/expected_compiled.json": {
+      "bytes": 3624,
+      "sha256": "34b22f89524f5e023840ae60103924dbfacbe7683806b6e20a8a81a9251290fe"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/integration_manifest.json": {
+      "bytes": 5079,
+      "sha256": "dd69cef3b2b38c938efd647f74a9ea2a5c692d2c705acf4b276a6ff486fcdb5f"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/native/BGS_113.xml": {
+      "bytes": 3322,
+      "sha256": "375cfb0cef84a7b703c7928a61ece496d74e2314f973977bb519a61cf8419e4f"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/native/BG_CS2_127.xml": {
+      "bytes": 4029,
+      "sha256": "274b5ee94bd36712f8c768bb23e0e38892ccec73f859c21d22ce11553a65440a"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/native/BG_CS2_127_G.xml": {
+      "bytes": 4033,
+      "sha256": "66502f605c358233be24fc5094f03a6ff677c4a4267e48111b40e947bfdf7278"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/native/BG_GVG_085.xml": {
+      "bytes": 5314,
+      "sha256": "3853072772eca8f70f253ae64495b3bdd74d261e63e12c96b0e013f741c8b003"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/native/BG_GVG_085_G.xml": {
+      "bytes": 5318,
+      "sha256": "fbd6aa100731bfaa6f72dabec0f54d7a5014ea6383e08faa7f752600e0875766"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/native/TB_BaconUps_305.xml": {
+      "bytes": 3351,
+      "sha256": "31541d2c919eac8fc5cc08ec9028d942922090d7be80faa69a47220dee54cc8b"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/native_quantities.json": {
+      "bytes": 8731,
+      "sha256": "c1cdf0ef59e43f61a7d002a9e5d5c8e8ac3d44649f3414fe3774f18816d580cf"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/native_source_manifest.json": {
+      "bytes": 408,
+      "sha256": "d1eb94aa928339cc15417f009cd8b6e5d640970dbe9811f62e0292b1d085db17"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/programs.json": {
+      "bytes": 468,
+      "sha256": "2629a00f96d44b1fd2f57e0f4f75d573cd9028ce5eac3d6434d114c1c57b589b"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/raw_rows.json": {
+      "bytes": 14000,
+      "sha256": "3d15966e02cbef1e246e9913bc12a61d1df5afd972d8b5b531abb6e8c9e3a98d"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/shared_manifest.json": {
+      "bytes": 8026,
+      "sha256": "2bc5ea0ebe81b8ef997ec0be26d3f80464f3ad2566b43837ee9495d2c95b15d9"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/probe_inputs/research/taverngoer_native_recovery/target_sources.json": {
+      "bytes": 29445,
+      "sha256": "0dd16b5aeeb3ac36e322efdb651c8197a17286a300b2f61ce722b42584271d45"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/run.py": {
+      "bytes": 3900,
+      "sha256": "93a3018a1094737c0ddb0acebf3378bfe977d7ee52d00b5a54583ddcbd8a078c"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/run_repeat.py": {
+      "bytes": 3885,
+      "sha256": "b6f140992e549899c7281b16a10e99fc83ef38ea6d29332bb4cacff8480c5bcd"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/portable_replay/test_python.py": {
+      "bytes": 3997,
+      "sha256": "7da57a1d344c09fdd931f6c6fd6f089a1fbae576f27ed03e18fe4941e734418e"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/reference_evidence/megasaur_tool/evidence/tools_reference_inventory_20261109/BATCH_CANDIDATE_SHORTLIST.json": {
+      "bytes": 53623,
+      "sha256": "27bf5443ee97d2b87ad7b96eebc46b4a50790b1fb1f52801d6662242d5923c9e"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/reference_evidence/megasaur_tool/evidence/tools_reference_inventory_20261109/FINAL_INVENTORY.json": {
+      "bytes": 911019,
+      "sha256": "7effa94593dc29bd4e1e91fa9f141f13bb6db0c62b4ba65ae18dd92cf63c08a1"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/reference_evidence/megasaur_tool/evidence/tools_reference_inventory_20261109/FINAL_SUMMARY.json": {
+      "bytes": 1854,
+      "sha256": "0a285cda908b317b3b2fa0e6018750ce5f24326e51611a4bf25986f0393533c4"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/CONFIG.json": {
+      "bytes": 96224,
+      "sha256": "59c3b3609e28e080cfbb187bc9343ca911b24f84a7f14dc8823c7a2ed0969bc1"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/INITIAL_CHECKER_NOTE.json": {
+      "bytes": 380,
+      "sha256": "56a65847d4747919030c670f0c92d8b1f4465ccda031ef292842b60e2cb6d2a3"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/PLAN.json": {
+      "bytes": 532,
+      "sha256": "ffe3c2423a6c3af549cd9bffd768a3403d9731a1e941fe124d50fffd7fe47e78"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/PYTHON_REPORT.json": {
+      "bytes": 6822,
+      "sha256": "1c4a927bc170dd5e516a6138d9e662e4fa94661001a4398644abd33ac454d995"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/SOURCE_INPUT_MAP.json": {
+      "bytes": 4957,
+      "sha256": "a6dcb3146a687e3720f2d55641de3343603d8d0609cf290276f5dfd2720e5fd6"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before/LAUNCH.json": {
+      "bytes": 1252,
+      "sha256": "62ccd4281ce7f6413f0e42a8033791c7b89946b140c97aa59135d90bce965f4b"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before/PROCESS.json": {
+      "bytes": 1433,
+      "sha256": "3cad4230224093a63689c1a7881a60d1b077930b6b31352946a243ab9a79a17d"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before/gate_executed.gd": {
+      "bytes": 3258,
+      "sha256": "2a285aced82e1aad2bb0f8549c89b53151230a0df17ccf151c53a71fa9748e62"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before/native.log": {
+      "bytes": 141,
+      "sha256": "b2a369962c963ecf5c36eff666a9274f3da76f01b96436db229ce751c1473a74"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before/report.json": {
+      "bytes": 7815,
+      "sha256": "f1c539a2b19f615dc8fcb0ae054900be3d51670aeb9050461e90f028e030aca3"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before/samples.jsonl": {
+      "bytes": 27374,
+      "sha256": "70f213a7323cba481307acb51e7aa89de1a127596d006bc364d96bd6fbb24212"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before_INPUT_MAP.json": {
+      "bytes": 5335,
+      "sha256": "db27736f120ba760643178f65234301c789c7bd8641c9f405b8f8d5c46f77d16"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before_repeat/LAUNCH.json": {
+      "bytes": 1259,
+      "sha256": "acdceb6bc627aa5c6b7cea4cf88d754b3de7c1a8d5965fef81b14575db72078f"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before_repeat/PROCESS.json": {
+      "bytes": 1440,
+      "sha256": "7636d0cfae0829e10aa7464a7d4b7377f46661abd9b0802d233d90a0be1c359a"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before_repeat/gate_executed.gd": {
+      "bytes": 3258,
+      "sha256": "2a285aced82e1aad2bb0f8549c89b53151230a0df17ccf151c53a71fa9748e62"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before_repeat/native.log": {
+      "bytes": 141,
+      "sha256": "b2a369962c963ecf5c36eff666a9274f3da76f01b96436db229ce751c1473a74"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before_repeat/report.json": {
+      "bytes": 7815,
+      "sha256": "f1c539a2b19f615dc8fcb0ae054900be3d51670aeb9050461e90f028e030aca3"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/before_repeat/samples.jsonl": {
+      "bytes": 20084,
+      "sha256": "e821095802b68ebb25fe9eef14bdf71121a6149329b193c32d895ad9596c8f5e"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/gate.gd": {
+      "bytes": 3258,
+      "sha256": "2a285aced82e1aad2bb0f8549c89b53151230a0df17ccf151c53a71fa9748e62"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/prepare.py": {
+      "bytes": 2206,
+      "sha256": "dd5b300a720bff36e932fc7552598a58a4067759f349a89ca9a89ed1fa54a00b"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/config.json": {
+      "bytes": 96224,
+      "sha256": "59c3b3609e28e080cfbb187bc9343ca911b24f84a7f14dc8823c7a2ed0969bc1"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/core/necrolyte_host.gd": {
+      "bytes": 17894,
+      "sha256": "df2367db4389749bf33b2f7a5112d373f3d5b1d58daddd4b05f8d79732a1a4e8"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/core/necrolyte_sources.gd": {
+      "bytes": 32696,
+      "sha256": "084b4aae3d9d9a02ea7703670ecff3704a8fad8f23818d26ea0213ee36f25399"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/core/pool_identity.gd": {
+      "bytes": 2004,
+      "sha256": "cf9388a9288d0f3684be277fa91ca6845b6d8945fdd7cd065e9d499c06b7b4af"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/core/taverngoer_host.gd": {
+      "bytes": 23039,
+      "sha256": "41af2002c88cef20f35fc49b5a86bc4df81b304b5914b40dd1e89ade898169bf"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/core/taverngoer_sources.gd": {
+      "bytes": 59084,
+      "sha256": "4eac1bcac88ccbdea5484d0db7dbf0ac5f5d5309103295d892c6839a54163dcd"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/fixtures.json": {
+      "bytes": 116187,
+      "sha256": "ca11c14fd896659d3874e19d04a6adb29349ade7f49fd5fc725666ec2acfb3f0"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/project.godot": {
+      "bytes": 138,
+      "sha256": "c78c09d92a02160dcdddbc445440fdadc572b0209274339f451fc6df6d84d119"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/necrolyte_native_recovery/candidates/tools/necrolyte_patterns.py": {
+      "bytes": 14936,
+      "sha256": "acec01cd401653fdde84ef84d4b542bd56b32afa8e399a94404ba0a6f71e4714"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/necrolyte_native_recovery/expected_compiled.json": {
+      "bytes": 4099,
+      "sha256": "7a2409e7597860fb30438f1fa2bc5385e6cac841629fddac2ec88bc0dc706dc0"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/necrolyte_native_recovery/integration_manifest.json": {
+      "bytes": 4379,
+      "sha256": "2928f22a64e208dc4b208ea9aa29370f6bf7d3871f8615456c81674897eeee7a"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/necrolyte_native_recovery/native/BG20_202.xml": {
+      "bytes": 6070,
+      "sha256": "a5867fcf15f267b1dafc426ad34537fd3836c74999424a44e768118828caacf7"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/necrolyte_native_recovery/native/BG20_202_G.xml": {
+      "bytes": 6080,
+      "sha256": "2772d0ff9347a3d93a0f0e048ea98f89d0631770de9ec5b0d564980027e591f3"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/necrolyte_native_recovery/native_quantities.json": {
+      "bytes": 2931,
+      "sha256": "f5d1bc71778c7fd847d7f604ae8fc9063644ec3394886c56a69351718c8cb844"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/necrolyte_native_recovery/native_source_manifest.json": {
+      "bytes": 938,
+      "sha256": "159907b30df4946e9ed8225b56dc05edf9d4300d0b69c1799abe3fbb4b4b2342"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/necrolyte_native_recovery/programs.json": {
+      "bytes": 513,
+      "sha256": "5e7b64921d5b0929875e7bb29c8def129425817a17344b486a95e1648f612d04"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/necrolyte_native_recovery/raw_rows.json": {
+      "bytes": 13472,
+      "sha256": "3cfc1573399e9d989989bcc0269b373cf65ea7918e74184bac513d1ecd09fafe"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/necrolyte_native_recovery/shared_manifest.json": {
+      "bytes": 5426,
+      "sha256": "5614312e6aabf906633190b844c47045cf7dd1caed331a3d1de289f22f384262"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/candidates/tools/taverngoer_patterns.py": {
+      "bytes": 15017,
+      "sha256": "068d6e8582965c3e79d80e705fa008742345e3d20eb193d067ef3b395a91fc35"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/expected_compiled.json": {
+      "bytes": 3624,
+      "sha256": "34b22f89524f5e023840ae60103924dbfacbe7683806b6e20a8a81a9251290fe"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/integration_manifest.json": {
+      "bytes": 5079,
+      "sha256": "dd69cef3b2b38c938efd647f74a9ea2a5c692d2c705acf4b276a6ff486fcdb5f"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/native/BGS_113.xml": {
+      "bytes": 3322,
+      "sha256": "375cfb0cef84a7b703c7928a61ece496d74e2314f973977bb519a61cf8419e4f"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/native/BG_CS2_127.xml": {
+      "bytes": 4029,
+      "sha256": "274b5ee94bd36712f8c768bb23e0e38892ccec73f859c21d22ce11553a65440a"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/native/BG_CS2_127_G.xml": {
+      "bytes": 4033,
+      "sha256": "66502f605c358233be24fc5094f03a6ff677c4a4267e48111b40e947bfdf7278"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/native/BG_GVG_085.xml": {
+      "bytes": 5314,
+      "sha256": "3853072772eca8f70f253ae64495b3bdd74d261e63e12c96b0e013f741c8b003"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/native/BG_GVG_085_G.xml": {
+      "bytes": 5318,
+      "sha256": "fbd6aa100731bfaa6f72dabec0f54d7a5014ea6383e08faa7f752600e0875766"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/native/TB_BaconUps_305.xml": {
+      "bytes": 3351,
+      "sha256": "31541d2c919eac8fc5cc08ec9028d942922090d7be80faa69a47220dee54cc8b"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/native_quantities.json": {
+      "bytes": 8731,
+      "sha256": "c1cdf0ef59e43f61a7d002a9e5d5c8e8ac3d44649f3414fe3774f18816d580cf"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/native_source_manifest.json": {
+      "bytes": 408,
+      "sha256": "d1eb94aa928339cc15417f009cd8b6e5d640970dbe9811f62e0292b1d085db17"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/programs.json": {
+      "bytes": 468,
+      "sha256": "2629a00f96d44b1fd2f57e0f4f75d573cd9028ce5eac3d6434d114c1c57b589b"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/raw_rows.json": {
+      "bytes": 14000,
+      "sha256": "3d15966e02cbef1e246e9913bc12a61d1df5afd972d8b5b531abb6e8c9e3a98d"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/shared_manifest.json": {
+      "bytes": 8026,
+      "sha256": "2bc5ea0ebe81b8ef997ec0be26d3f80464f3ad2566b43837ee9495d2c95b15d9"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/probe_inputs/research/taverngoer_native_recovery/target_sources.json": {
+      "bytes": 29445,
+      "sha256": "0dd16b5aeeb3ac36e322efdb651c8197a17286a300b2f61ce722b42584271d45"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/replay_to_new.py": {
+      "bytes": 1389,
+      "sha256": "701752e9df5a13419b2cbf39d555800b626e4256843db3c8c4b4db9a8e80031b"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/run.py": {
+      "bytes": 3900,
+      "sha256": "93a3018a1094737c0ddb0acebf3378bfe977d7ee52d00b5a54583ddcbd8a078c"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/run_repeat.py": {
+      "bytes": 3885,
+      "sha256": "b6f140992e549899c7281b16a10e99fc83ef38ea6d29332bb4cacff8480c5bcd"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/test_python.py": {
+      "bytes": 3997,
+      "sha256": "7da57a1d344c09fdd931f6c6fd6f089a1fbae576f27ed03e18fe4941e734418e"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/review_loose_compilers/test_python_initial_literal_only.py": {
+      "bytes": 3677,
+      "sha256": "fff355216e8a0347c645697a98f3e3a5e741d08f8a9d7a285868600e001e13b6"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/alter_ego_sources.gd": {
+      "bytes": 47250,
+      "sha256": "9c976332846628cfcf8898dc26ae5f6eb8390706d510089709077566c7e1fda6"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/bloodbinder_sources.gd": {
+      "bytes": 70172,
+      "sha256": "b5f88fc640905fb20f87a940dbf0bb21a1e2f0c54d4e6675996f44774cb4081d"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/bomb_squad_sources.gd": {
+      "bytes": 41171,
+      "sha256": "f54a06dd4e61b01f7166da4d1c895ff6d95a6ed849796410d497a0f8ae8de95c"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/bonerender_sources.gd": {
+      "bytes": 55808,
+      "sha256": "3d5cba97b0c2736553211dc16c3ebfb1188f6044bdcf151df1bfbf1cfc1b94ab"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/brinescale_transfer_sources.gd": {
+      "bytes": 18579,
+      "sha256": "e2ef029d7c1e0e6485b1a18eda3635debc8c1ecdc351f82949a6f094e3b8bbaf"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/deaths_head_sage_sources.gd": {
+      "bytes": 59403,
+      "sha256": "4db79b45a97c48ecaa243d0474c4582d78b2b363bb080fd76194a5d49b10611c"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/ditch_guardian_sources.gd": {
+      "bytes": 20759,
+      "sha256": "2661a33cd946de4cdf1788d038b66dad0e2da7d9a66bb211738bd751e30955ce"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/double_header_sources.gd": {
+      "bytes": 41183,
+      "sha256": "ed5d4c7f8d484b57bea9ce3cc42702e72f0175a8b91aad7e07c54d18f2b1d053"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/echoes_argus_sources.gd": {
+      "bytes": 77517,
+      "sha256": "723ece09304b368a882db0d8a76221ce88482abadb38fb63d60a7c0b71c087bb"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/eleventh_hour_sources.gd": {
+      "bytes": 39539,
+      "sha256": "d4a311d8bf99f3d8adf0f3cbbd62d461a93aad78859dc43bd07c1929038b5d64"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/enhanced_spawn_sources.gd": {
+      "bytes": 24854,
+      "sha256": "789c3913bc345c43dfd013679d33a039be504c29d7cb014c4fc36a76aa982e10"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/evil_twin_sources.gd": {
+      "bytes": 41103,
+      "sha256": "2f945b0f06a6ac0fdac23d3d41002ff79474f1be00f995dad1e03ff5e07f892c"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/exquisite_conch_sources.gd": {
+      "bytes": 55335,
+      "sha256": "2e0bf6a64e0fb00c323c635803218758fd53593c13895e2fbc2eb29e0af355c7"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/false_idols_sources.gd": {
+      "bytes": 52210,
+      "sha256": "e82cd71d6738d742b379b099b710f9e53eb9999b2f4ad1408a378f1cec08b357"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/fandral_sources.gd": {
+      "bytes": 34113,
+      "sha256": "8bac62883153c3ef28a106ce89784c47dc080eeec3accd07b828695751ef96f2"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/golden_hammer_sources.gd": {
+      "bytes": 58643,
+      "sha256": "3f5a8a077024e11d7124fdb06a81cd1935265e38affb7d22c8ea201bf4a53460"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/golganneth_tempest_sources.gd": {
+      "bytes": 39515,
+      "sha256": "30e48e766eb474f6df739e2cdf091cc0c1b81a9b79afc14b1f4c0bf5fb5acf8d"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/greta_sources.gd": {
+      "bytes": 70602,
+      "sha256": "0b977d29a794c8b511fb600fdafc843670ea4d39eac893357a45cd335bde7809"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/grim_freshener_sources.gd": {
+      "bytes": 46843,
+      "sha256": "ec81fd88039957fb40d007a88d84151a3a63d4affd3ddbe8c79959d2e992cb67"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/imperial_defender_sources.gd": {
+      "bytes": 25322,
+      "sha256": "0df420bfb454fea3b9f0ba07dcc190698c8644762858564349ef03a5cc304065"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/kidnap_sack_sources.gd": {
+      "bytes": 55901,
+      "sha256": "6550fdac5859ab8bc8f9b8a15a774dd3ac21753709a5fd317b6a620c213c68ac"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/necrolyte_sources.gd": {
+      "bytes": 32696,
+      "sha256": "084b4aae3d9d9a02ea7703670ecff3704a8fad8f23818d26ea0213ee36f25399"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/nightmare_ectoplasm_sources.gd": {
+      "bytes": 41858,
+      "sha256": "a929b89f3eb0114f1ac7689221f94e41953deb5a4fc523be35f4a80869ff9f9e"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/pilfered_lamps_sources.gd": {
+      "bytes": 53215,
+      "sha256": "bd03fca51e6ce76953088210b681520aef4a5f498e3433a606ea0472f53827f6"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/radiant_ember_sources.gd": {
+      "bytes": 20844,
+      "sha256": "4fc05b093d129cd582553e2314bf8988802fb9b518a32efc29737d5d64115292"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/reckless_enhancement_sources.gd": {
+      "bytes": 39872,
+      "sha256": "9e15d613228034a0c6dfd3734f1b09f6e329dc44f10aab636fb744fa601562f3"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/recurring_nightmare_sources.gd": {
+      "bytes": 27832,
+      "sha256": "6cfc011dc47677835969545d5db2e0652cf706521d9dc84920d10b09ae5a9f2d"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/rickety_repairbot_sources.gd": {
+      "bytes": 62311,
+      "sha256": "31b6dacfa3f9a7cc3804e16f925fea203d0d2a864263c32cee3ffa208a532b88"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/seaside_gain_sources.gd": {
+      "bytes": 20926,
+      "sha256": "6a87d08d7bff94960bcb2b6c6e2a841dcd45b1d94d41d50645f46d4aff97093f"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/secret_sinstone_sources.gd": {
+      "bytes": 56526,
+      "sha256": "50e012d9457cf5cf475f649845f023051b3af3a317627af75b715f27c629e514"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/shackles_primus_sources.gd": {
+      "bytes": 39821,
+      "sha256": "7a26cc4dff19d2457b89bc1cb9cb196bf47e61856c1a375ad7226e6bb5aa3abb"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/snarky_shark_sources.gd": {
+      "bytes": 35696,
+      "sha256": "c0e5bb2d0c44698c3b07c0a5f1a50f6b2861e5410faa12df9efb6100ec91b538"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/snicker_snacks_sources.gd": {
+      "bytes": 57310,
+      "sha256": "51de4134ede1ad70047238cd87a9b4ed69082a1ac308d9dcf15a5dcb4eedebe5"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/stolen_gold_sources.gd": {
+      "bytes": 40734,
+      "sha256": "b69776a37d3c383751887d2492cfd27d57f27390095cff7af709d9ce993fbff3"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/stormscale_siren_sources.gd": {
+      "bytes": 93715,
+      "sha256": "7acf7e2c5f500803490044168257b15892e2a1c8f847a6d843735ed482bd697f"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/taverngoer_sources.gd": {
+      "bytes": 59084,
+      "sha256": "4eac1bcac88ccbdea5484d0db7dbf0ac5f5d5309103295d892c6839a54163dcd"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/theotar_parasol_sources.gd": {
+      "bytes": 48634,
+      "sha256": "917a1776c33015cd6ddc5ed5f82bf18a42ef503cecc5371f7585f5f8362ee3e1"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/timewarped_lava_sources.gd": {
+      "bytes": 69352,
+      "sha256": "ed5d9288914ff5eb8e3b3641545a5e854fc66fcbf27a59237a838a802a8374e7"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/token_old_gods_sources.gd": {
+      "bytes": 46980,
+      "sha256": "cd482d49cce24da433679d6a8e5d47effc800937de8eb698a9e57fbf1dde249c"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/tony_sources.gd": {
+      "bytes": 57075,
+      "sha256": "e6e8610b2bf0ee86527f2ed34558bb997dd1744ecf6fbc54f15fde16074f42b7"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/uncompensated_upset_sources.gd": {
+      "bytes": 37721,
+      "sha256": "52909ede4e3cafe03cedcfea689d25d3c001fe2cc1df1c51ed24525610f94310"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/valithria_entry_sources.gd": {
+      "bytes": 27045,
+      "sha256": "cf69ee00821e14f56c2a8cfa5c3c176104ffba3220e9cecbd8a0645bae71b882"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/victim_specter_sources.gd": {
+      "bytes": 47235,
+      "sha256": "2490a4e2d753ea0c7c804391123e427368d083fdfe09c06582d2bd224c9b5194"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/core/volatile_venom_sources.gd": {
+      "bytes": 45709,
+      "sha256": "559dc0c110ceaf4c34afffaf5885552d2bf874728823a167c16a58360369fee0"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/alter_ego_native_recovery/candidates/tools/alter_ego_patterns.py": {
+      "bytes": 31199,
+      "sha256": "78f6603f8e7857255f86c534819e22fef50514a48a6e753d2f6053c3bbe4ffda"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/bloodbinder_native_recovery/candidates/tools/bloodbinder_patterns.py": {
+      "bytes": 56656,
+      "sha256": "09e248578807a72b53137d17ee38e713fc4d717b766be1f97e4e5b9e4cd22624"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/bomb_squad_native_recovery/candidates/tools/bomb_squad_patterns.py": {
+      "bytes": 32573,
+      "sha256": "5e1d7639422ff36b08c6be86ec3f538f6d618413a859ff43b64d2c1aca54e84e"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/bonerender_native_recovery/candidates/tools/bonerender_patterns.py": {
+      "bytes": 36374,
+      "sha256": "2dd2c13320d042272ca5fbd51ad14e0bd10f23c18bf0f037d059987e3de984bd"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/brinescale_transfer_recovery/candidates/tools/brinescale_transfer_patterns.py": {
+      "bytes": 16301,
+      "sha256": "2f3210117b59cf8dd68cb1c1c7f1d53a3bb9967c886432e06f3104ac88044afa"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/deaths_head_sage_native_recovery/candidates/tools/deaths_head_sage_patterns.py": {
+      "bytes": 21491,
+      "sha256": "4259bf97d831f5d234a7f7a67cdd569b215617e3e433559a96468e32a499c3bd"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/ditch_guardian_native_recovery/candidates/tools/ditch_guardian_patterns.py": {
+      "bytes": 15444,
+      "sha256": "5a23e9a0b5e85b4a7a195bfbcfa7e12ea87dd1bb0cfb73ac9d983c4ba84b96ac"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/double_header_native_recovery/candidates/tools/double_header_patterns.py": {
+      "bytes": 32483,
+      "sha256": "cce1b9585aff0059dc8914067514ac2c6ebed7cec940766a4496b87b43cbbc9c"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/echoes_argus_native_recovery/candidates/tools/echoes_argus_patterns.py": {
+      "bytes": 67369,
+      "sha256": "a0ff7356b690553d191d26b75baf7bf54928fa7bb353533ac331258222f6a1be"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/eleventh_hour_native_recovery/candidates/tools/eleventh_hour_patterns.py": {
+      "bytes": 25617,
+      "sha256": "51621b00f729b4c918f1456edb37a7f05a84d63146b6b1dacab9ed68d1439a65"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/enhanced_spawn_native_recovery/candidates/tools/enhanced_spawn_patterns.py": {
+      "bytes": 19742,
+      "sha256": "e8ac7f308a4faf77c41094f6f0f94d189f10d075bd47ba40729534de69651273"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/evil_twin_native_recovery/candidates/tools/evil_twin_patterns.py": {
+      "bytes": 31912,
+      "sha256": "4814c2c72e9afa6c91ccbb3dd658fc06ab14e7a02b7bc9353d97a0a2b33dcbd6"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/exquisite_conch_native_recovery/candidates/tools/exquisite_conch_patterns.py": {
+      "bytes": 41790,
+      "sha256": "1c55fb7cfa7012cd67b4f291105e1f190ccb8617efe7408f848470ac71891706"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/false_idols_native_recovery/candidates/tools/false_idols_patterns.py": {
+      "bytes": 43827,
+      "sha256": "556f155b57baa02b46e2fadb0d038d643045b78f42cc632025e5527b652e6307"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/fandral_native_recovery/candidates/tools/fandral_patterns.py": {
+      "bytes": 15282,
+      "sha256": "c283dcffe185cf9c272daeb7a55a7be4e68879233edbb26cacbd2b49bcadfffd"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/golden_hammer_native_recovery/candidates/tools/golden_hammer_patterns.py": {
+      "bytes": 39987,
+      "sha256": "7b05d6aff4a6439a438abbcc673d551de90a7cc39e766f333280f07499e3aab0"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/golganneth_tempest_native_recovery/candidates/tools/golganneth_tempest_patterns.py": {
+      "bytes": 31669,
+      "sha256": "5f1fa4ec4276e73179f5468bcaf7158b712f52caf03782781c68075dafc39896"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/greta_gold_gun_native_recovery/candidates/tools/greta_patterns.py": {
+      "bytes": 55255,
+      "sha256": "1087cf69bd1a9b545d721d95da5703e491c69a843c894ec493b57c07bb04d51b"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/grim_freshener_native_recovery/candidates/tools/grim_freshener_patterns.py": {
+      "bytes": 33963,
+      "sha256": "59722e2af5144ab8618ae60f20c84f9fa470bd6491048bc892278506c0a02fb5"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/imperial_defender_native_recovery/candidates/tools/imperial_defender_patterns.py": {
+      "bytes": 18977,
+      "sha256": "397ce11d0ed60fb99bf6388941067ec71080fdbdd46344c216a2b4abf67cbb56"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/kidnap_sack_native_recovery/candidates/tools/kidnap_sack_patterns.py": {
+      "bytes": 39939,
+      "sha256": "9a7d3275eda9fdd28fcb67dcf9bd47d380f0b93fa47f89bac3f3fc084424b654"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/necrolyte_native_recovery/candidates/tools/necrolyte_patterns.py": {
+      "bytes": 14936,
+      "sha256": "acec01cd401653fdde84ef84d4b542bd56b32afa8e399a94404ba0a6f71e4714"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/nightmare_ectoplasm_native_recovery/candidates/tools/nightmare_ectoplasm_patterns.py": {
+      "bytes": 19302,
+      "sha256": "b3cbf8e1d84e23ee7556e26257babb73d903c653166747b41a42d3b5d398a86e"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/pilfered_lamps_native_recovery/candidates/tools/pilfered_lamps_patterns.py": {
+      "bytes": 42402,
+      "sha256": "d33b4454cff5737cad2e0ad84d0ccb2d7236da415e826899bc9365606973157a"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/radiant_ember_native_recovery/candidates/tools/radiant_ember_patterns.py": {
+      "bytes": 15974,
+      "sha256": "6e5186668a84408a4fec74eba0f27525ebbe7645bf264f4a82523d2fdb631ed5"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/reckless_enhancement_native_recovery/candidates/tools/reckless_enhancement_patterns.py": {
+      "bytes": 26198,
+      "sha256": "1e14d0f4f860ac0f607d290c7b7f889183c708f9d0f59d7bb480868567437acb"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/recurring_nightmare_native_recovery/candidates/tools/recurring_nightmare_patterns.py": {
+      "bytes": 15063,
+      "sha256": "9ad3a73279f9568ab484f077e323e429d94fe9c38ece585f8767092d6bb0126a"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/rickety_repairbot_native_recovery/candidates/tools/rickety_repairbot_patterns.py": {
+      "bytes": 46491,
+      "sha256": "8e46be919c96e0e44c8b79e7efc164203416dac71ded9511e166f08cb37e9827"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/seaside_gain_native_recovery/candidates/tools/seaside_gain_patterns.py": {
+      "bytes": 16094,
+      "sha256": "2a641dc6d71485ffea365dd2d40a69635df7ba47cdc6daaf31cb646cb89518b4"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/secret_sinstone_native_recovery/candidates/tools/secret_sinstone_patterns.py": {
+      "bytes": 43345,
+      "sha256": "b40ac81eb759825ed239c2dee4626e006c14e1829b03cd7860fc062c1e53187a"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/shackles_primus_native_recovery/candidates/tools/shackles_primus_patterns.py": {
+      "bytes": 25338,
+      "sha256": "ce50de2a30f911bcb0aa8533133bbb198f0a91a5eacf7dea27ad57409d09844b"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/snarky_shark_native_recovery/candidates/tools/snarky_shark_patterns.py": {
+      "bytes": 16584,
+      "sha256": "80e33bd0ca64182fd11c667614c6643d27d1dc866848457caf9aa487b4d27588"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/snicker_snacks_native_recovery/candidates/tools/snicker_snacks_patterns.py": {
+      "bytes": 41880,
+      "sha256": "e4227d4189788ea8927951b3c2f469ebe0e34d0b0dd0d4eefeb4630c49cc1d36"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/stolen_gold_native_recovery/candidates/tools/stolen_gold_patterns.py": {
+      "bytes": 31210,
+      "sha256": "3c32c26e218184ba2a3d9cac7881da185fa01e1aca2e3fb484fdb372bdc91381"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/stormscale_siren_native_recovery/candidates/tools/stormscale_siren_patterns.py": {
+      "bytes": 70728,
+      "sha256": "16f756036ec353c45254b306ededd14417333242838627557b0357dfa55cb2e9"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/taverngoer_native_recovery/candidates/tools/taverngoer_patterns.py": {
+      "bytes": 15017,
+      "sha256": "068d6e8582965c3e79d80e705fa008742345e3d20eb193d067ef3b395a91fc35"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/theotar_parasol_native_recovery/candidates/tools/theotar_parasol_patterns.py": {
+      "bytes": 32840,
+      "sha256": "da8285e25e3dd124bbad8789a6ca1b637bfb9776908b8f701b63104ddf05a89a"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/timewarped_lava_native_recovery/candidates/tools/timewarped_lava_patterns.py": {
+      "bytes": 57169,
+      "sha256": "fd1dd1fdb55260037fe24b12e422d3265de126640ed1fa43257e2b69941520a4"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/token_old_gods_native_recovery/candidates/tools/token_old_gods_patterns.py": {
+      "bytes": 38144,
+      "sha256": "b8923f03df8863791724ee2085d08863c16747606da3bea82cc6e786f062edc6"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/tony_native_recovery/candidates/tools/tony_patterns.py": {
+      "bytes": 47133,
+      "sha256": "625784a3ed8b58570912949ad5aa732605d82822f6f0c7bf749371ae4286419c"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/uncompensated_upset_native_recovery/candidates/tools/uncompensated_upset_patterns.py": {
+      "bytes": 31454,
+      "sha256": "f52fbb7d6211c25db29d9f8053e079edcf6eb7f476892cd1bf19af0c8386dd6f"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/valithria_entry_native_recovery/candidates/tools/valithria_entry_patterns.py": {
+      "bytes": 22114,
+      "sha256": "d82f80ac6317e04cb72472e0a2483d17e7fc36894edf3ab31688884e31b6770c"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/victim_specter_native_recovery/candidates/tools/victim_specter_patterns.py": {
+      "bytes": 32280,
+      "sha256": "04c175a9481312714c7b54033568b796d33da2b2a4fabe11c63bc55d1e2e6ba3"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_inputs/research/volatile_venom_native_recovery/candidates/tools/volatile_venom_patterns.py": {
+      "bytes": 30874,
+      "sha256": "3d99f7f02f3d07ff38353ac3725f071a124970ca24f46c668666e02d1bce0933"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/screen_remaining.py": {
+      "bytes": 3206,
+      "sha256": "43b45b11d9e392afc1a261bc6a7d35aa14c0c23e4717d80384c13c8cb22b190c"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/verify_review.py": {
+      "bytes": 3148,
+      "sha256": "716d0641911a7eba5ddd1ae9ad368ee24e0b10a99de7dbcc1e3c9c20e760f6c6"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/DERIVATION.json": {
+      "bytes": 946,
+      "sha256": "0882916128ed8962d287730c76dad8119056acae35a10f9210a96777b69f0703"
+    },
+    "historical_tools_batch7_boundary_review_nocache_20261109/FILE_MANIFEST.json": {
+      "bytes": 38987,
+      "sha256": "124e0f611bb78fc0a2509311685db42ae8c8e53a278d3d6fac339aeba79380e2"
+    }
+  },
+  "archive_members": 222,
+  "internal_manifest_members": 221,
+  "purpose": "Sanitized derived read-only review evidence, not standalone game source.",
+  "source_files_added": 0,
+  "source_files_modified": 0,
+  "source_files_deleted": 0,
+  "remaining_paths_within_original_scope": 353,
+  "newly_deferred_tools": 2,
+  "full_game_verified": false,
+  "old_save_compatibility_verified": false,
+  "dependencies": {
+    "source_candidate": {
+      "commit": "3d41c7f71bdda146ed37930c7591b419b53e36a6",
+      "folder": "battlegrounds-backup/pending/20261109-devourer-tool-historical-candidate",
+      "archive_sha256": "c807dd1229f5c4480631a446c8b7b0aa3f00d48e4602bc91d7d23c1480fa5a44",
+      "manifest_sha256": "5ba05d0f1d95b5c9fb3e8e0bcf5c6a961dcaf5c5fcec5356233b28a468b9e6c7",
+      "source_map_sha256": "9baabc104b5f2f93087dfec0e385d6cb9fceffbf3b1d4441ec91da463a727260"
+    },
+    "previous_whole_chain_audit": {
+      "commit": "8e168c0c67b185a885c4e9251f728e3bde140cab",
+      "folder": "battlegrounds-backup/pending/20261109-night-fresh-chain",
+      "archive_sha256": "1154a1ca2836075de8a09ef2910a2ae26e43e37ce5234c76c593481dc42b7087",
+      "manifest_sha256": "53294debeb641fcdd99a7b940e60e3127d76de2321d62be6636baeb322e45696"
+    }
+  },
+  "derivation": {
+    "status": "SANITIZED_DERIVED_REVIEW_EVIDENCE",
+    "original_archive_sha256": "6fbe417cb7d5a1a4361e915a8b8df65a0da9f4a1ad104dac0ac77be87ddfa51a",
+    "original_archive_bytes": 1299940,
+    "original_archive_preserved_locally": true,
+    "original_archive_published": false,
+    "byte_identical_to_original_archive": false,
+    "removed_file_count": 128,
+    "removed_categories": {
+      "rebuildable_font_cache_files": 124,
+      "duplicate_runtime_home_log_files": 4
+    },
+    "removed_uncompressed_bytes": 4529140,
+    "cache_paths_and_hashes_omitted_from_published_manifests": true,
+    "credential_pattern_findings": [],
+    "private_conversation_files_included": false,
+    "original_non_manifest_files_preserved_byte_exact": 220,
+    "internal_manifest_regenerated": true,
+    "source_game_files_changed": 0,
+    "game_rerun_for_backup": false,
+    "whole_history_chain_rerun_for_backup": false,
+    "full_game_verified": false,
+    "old_save_compatibility_verified": false
+  }
+}
