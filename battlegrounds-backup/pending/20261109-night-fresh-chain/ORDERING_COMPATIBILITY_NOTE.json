@@ -1,0 +1,8 @@
+{
+  "created_at_utc": "2026-11-09T15:13:08.081180+00:00",
+  "first_increment_attempt": "Stopped at batch2_tools CHANGES metadata list ordering after 151 earlier layers; not a source-byte or archive hash mismatch. No successful full-chain receipt was produced.",
+  "original_companion_preserved": true,
+  "correction": "Require exact added/modified/removed sets, no duplicates, preserve and hash original bytes; list ordering is not a semantic source-change difference. All archive, member, map and dependency hash comparisons remain unchanged.",
+  "retry_source": "Copy of same-invocation newly materialized tree through batch1. All 154 increments reapplied in order from fresh downloaded bytes, followed by a full independent per-file SHA256 scan. No previous-run tree or receipts reused.",
+  "first_attempt_tree_and_log_preserved": true
+}

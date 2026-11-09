@@ -1,0 +1,45 @@
+{
+  "archive": "night_backup_verification_evidence_20261109T151348Z.tar.xz",
+  "bytes": 1644396,
+  "sha256": "1154a1ca2836075de8a09ef2910a2ae26e43e37ce5234c76c593481dc42b7087",
+  "parts": [
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "9310abc2fcb733f2b823a74b608c92bbf20b278c9013c93081bda290feb28e69"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "53267fa5f62a2535535a64092bc1514edce1166b8f9ca6ee3a17c5d6ce3bf68d"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "24432e1860a89dfb20e3d23e87f67097abae4f1ff9f101a88ed86418dbaf8b18"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "669990721582d19555cb83ea950805b6d444fb1c01bf3b77f423b59b3bb578df"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "1a569481ce9d0c6ca105c18e8a2d4fc3f0c55bea51885ab1bf33b6cbc435fe14"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "2080cfcf8eb8af638a4fb83b7f246c32b5d3bc53436f018bd281412d752afdea"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part006",
+      "bytes": 144396,
+      "sha256": "b76f39d830205d9e8d0314cecea62ff95ebf0544c3011c5e5fe57636ef017384"
+    }
+  ],
+  "archive_members": 30,
+  "purpose": "Verification evidence only, not a standalone game source backup.",
+  "contents_manifest": "EVIDENCE_MANIFEST.json"
+}
