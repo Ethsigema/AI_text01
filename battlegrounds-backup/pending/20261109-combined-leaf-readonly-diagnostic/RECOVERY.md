@@ -1,0 +1,25 @@
+# 两项来源叶组合只读诊断：证据恢复
+
+这是诊断档案，不是运行增量。运行源码新增0、修改0、删除0，保持原部分验证状态，完整Game未验收。所有旧备份保留。
+
+固定输入候选提交1288c092b970edaa6a75c2be89809354eed19405：
+https://github.com/Ethsigema/AI_text01/blob/1288c092b970edaa6a75c2be89809354eed19405/battlegrounds-backup/pending/20261109-native-spell-listener-leaf-partial-candidate/RECOVERY_VERIFIED.md
+
+输入归档native_spell_listener_leaf_partial_candidate_20261109.tar.xz，SHA256 46ceb12b81c5db0c417933482d6572f3c89693d2ba3ef2d507ccebc5f0ed4ec7；输入源码清单SHA256 9c1faebcbc9c2edae3fbacd3de2d13e454c219bb4b9ad1938dd69496bdb5d111。
+输入MANIFEST SHA256 c10934e5554eec684c1ceb287cea81073a1dae45b7195905bb8211d86d6fd06a。
+输入流式核验回执SHA256 ba73c82db88ceaedbb57f395da246433deb89d55ddd3ff6296a871c9d03b3cda。
+
+## 恢复证据
+
+从同一固定提交下载MANIFEST、CHANGES、REMOVALS、SHA256SUMS、README、RECOVERY及唯一part000分片，将分片复制为combined_leaf_readonly_diagnostic_20261109.tar.xz。
+大小78,984字节，SHA256 41d8059e6a5db3e1c7de4f9acc7396537dc7f9b6a5902dea75cd7988ed5978c3。
+
+核对分片及整包大小/SHA256。安全解压到新证据目录，拒绝绝对路径、上层跳转、链接、特殊文件及重复成员。逐项验证外部清单的38个文件及内部PACKAGE_MANIFEST的37项；内部清单本身由外部清单覆盖。
+
+本包没有delta或完整运行源码，不要覆盖工程，也不要把本档案插入运行补丁链。运行输入来自固定候选的Harbinger完整基线加native listener增量，沿该候选说明恢复。
+
+后续追加的verify_combined_diagnostic.py将检查固定依赖元数据、输入归档及源码映射、41个诊断输入（366,179字节）的实际来源字节，并核对四份原报告与进程记录的一致性。输入字节从以前独立核验的Harbinger树及native listener归档delta读取；不把它们伪称本轮重新下载。不重哈希整套约1.55GB源码，不重跑Godot，也不创建完整运行树。
+
+## 验证边界
+
+原四个小探针合计47项检查通过，支持所测轻入口的组合与顺序一致性，不是完整项目验收。静态引用图不是真实编译/分配顺序或RSS。组合峰值约66–67MiB不是全局收益，不与此前未完成大进程计算整体降幅。完整Catalog、Game、重型宿主、实际EOT/施法事件、存档、回放、UI未验证。此前SIGKILL原因未知，不提高阈值或重跑累计预载。恢复核验只检查封存证据与依赖，不实施README中讨论的未来优化。
