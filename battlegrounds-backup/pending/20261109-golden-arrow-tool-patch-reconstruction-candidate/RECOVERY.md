@@ -1,0 +1,29 @@
+# GoldenArrow 工具补丁重建候选备份
+
+状态：PATCH_DERIVED_RECONSTRUCTION_BOUNDED_VALIDATION_PASS。可信旧候选文件加精确历史补丁重建，不是找回补丁后的已安装原件。只新增tools/golden_arrow_patterns.py，32647字节，SHA256 886717620eaa0da57b9a8d7f579fb78b08b2f2a54c45f7899e6e3ded10d642d3。修改0、删除0，所有旧清单项保持不变。
+
+仍有367个已检查静态RUNTIME_PATHS中的tools引用缺口，不是所有潜在缺口总数。完整Game、完整Catalog最终指纹、旧存档兼容、回放、完整编译工具链及整体内存收益未验证。清单完整匹配只是封存字节范围，不代表完整游戏恢复。原69项有限检查保留，不在备份过程中重跑Godot或目录编译。
+
+## 固定依赖
+
+直接输入GoldenArrow叶候选提交839d5dd71e4d0e4bf59f97c1fb6ed50b5807daa6：
+https://github.com/Ethsigema/AI_text01/blob/839d5dd71e4d0e4bf59f97c1fb6ed50b5807daa6/battlegrounds-backup/pending/20261109-native-golden-source-leaf-partial-candidate/RECOVERY_VERIFIED.md
+
+输入归档提交11e9e8188a23f62542aad8a43a2560aff9e3b402，SHA256 181a6415d954795e0b40286165c39a55d0469745185e7e6d24840eb769025cef。
+输入MANIFEST SHA256 5d967b3a52ac20fa32791171eef32b013e930ceefa3b13481fd602fc9a083a71。
+输入流式回执SHA256 2f24988e51c5acfc08df4f2417aefad974dd8717b9bbf2673ad4baadf48b66b0。
+输入SOURCE_MAP SHA256 c0454c30ce7eb2a71fb8ea3e513f0db0d2fd684f63129a1b7da2e4a47666603b。
+
+依次复原Harbinger完整基线、native listener 5文件增量、EarthMother 4文件增量、GoldenArrow 3文件增量，组成直接输入。不得省略中间层，也不得将诊断档案当作运行增量。
+
+## 下载及恢复
+
+同一固定提交下下载MANIFEST、CHANGES、REMOVALS、SHA256SUMS、README、RECOVERY及part000至part004共5片。按MANIFEST.parts顺序拼接为golden_arrow_tool_patch_reconstruction_candidate_20261109.tar.xz，1085500字节，SHA256 3122135a4912a58c361b522e67b946dffbbe29b3618051972a4898e8cac7edd9。核对每片大小哈希、整包、全部98成员及内部97项清单。安全解包到新目录，拒绝路径穿越、链接、特殊文件、重复或未列成员。
+
+运行增量仅delta/tools/golden_arrow_patterns.py，其他evidence、before/after/tamper测试目录和工具不得混入运行树。本轮计划真实重下新增量，复用并重哈希历史基线与三层归档，逐一实际读取全部目标字节，生成独立流式回执，不写第二完整运行树。
+
+目标27898文件、1548752837字节，SOURCE_MAP SHA256 bfd5d82ede8559200aed89547e4584ac091873a9392079af5ee20c41ea764a0a。逐文件清单缺失、多余、不符应为0，但仍须单独报告上述367个未列入清单的引用缺口。
+
+完整目录恢复仅在足够空间时，从完整验证的输入用封存restore_to_new.py写入不存在的新目录，再核对全目录及输入未变；本轮不执行完整复制，不覆盖旧基线。重建单文件可运行rebuild_to_new.py到新小目录；不得把它称作已安装原件。
+
+本轮保留所有备份，不删除、不强推。完成后追加verify_tool_reconstruction_stream.py、远端下载来源和流式回执。历史来源原文/补丁均纳入封存证据，本轮将核对其与实际输入字节一致并独立严格重放补丁。不会重新下载103个历史归档或伪称历史全链新下载。
