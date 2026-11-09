@@ -1,0 +1,31 @@
+{
+  "original_zip_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "original_zip_whole_rehashed": true,
+  "members_exact_to_restored_tree_and_map": {
+    "research/bouncy_refresh_native_recovery/candidates/tools/final_source_overrides.py": {
+      "bytes": 3639,
+      "sha256": "e40eb11c09569178e741ae2fe131496a69fa261230b5cc3f29febcb64dab5780"
+    },
+    "research/sparring_partner_native_recovery/candidates/tools/final_source_overrides.py": {
+      "bytes": 3984,
+      "sha256": "f05bd591950b6267db19458936fa29fe3cbbd70a8dff745160aa8cf971a2a810"
+    },
+    "research/bouncy_refresh_native_recovery/shared_manifest.json": {
+      "bytes": 8033,
+      "sha256": "c7d07cc05964f4f4248dfa073bd326de0af248b8d3eb09bb866f276b9468a69f"
+    },
+    "research/sparring_partner_native_recovery/shared_manifest.json": {
+      "bytes": 2332,
+      "sha256": "58b604827cccea60093a2d8c76b95b569aef9f8b43493cb5e5a7e32ace8edecb"
+    },
+    "research/bouncy_refresh_native_recovery/bouncy_refresh.patch": {
+      "bytes": 397153,
+      "sha256": "11b57cdc7619929c1565344d2f9ec3b4e6d8a2a6983dd60f5b51bfa77e59a80e"
+    },
+    "research/sparring_partner_native_recovery/shared_changes.patch": {
+      "bytes": 95021,
+      "sha256": "95e99960ec076d48a234efce87af1d188d30f0e84efa4b317176c8cad3209352"
+    }
+  },
+  "candidate_is_existing_historical_original_not_reconstructed_postimage": true
+}
