@@ -1,0 +1,19 @@
+{
+  "archive_whitelist_regular_files": 102,
+  "private_conversation_or_credential_payloads_included": false,
+  "cache_or_environment_payloads_included": false,
+  "scan": "Every selected member checked for excluded paths and common credential signatures. This bounded screen is not proof against all possible secrets.",
+  "technical_reference_policy": "Technical filenames, source hashes, code excerpts, and excluded path names do not upload the referenced private or cache contents.",
+  "source_modified": false,
+  "installed_into_runtime": false,
+  "historical_tools_executed": false,
+  "game_rerun": false,
+  "old_save_compatibility_verified": false,
+  "deferred_tools": 13,
+  "remaining_gaps": 345,
+  "dependencies_freshly_downloaded_or_reverified": false,
+  "prior_cancelled_dependency_download_retried": false,
+  "all_prior_backups_retained": true,
+  "force_push": false,
+  "upstream_redistribution_license_confirmed": false
+}
