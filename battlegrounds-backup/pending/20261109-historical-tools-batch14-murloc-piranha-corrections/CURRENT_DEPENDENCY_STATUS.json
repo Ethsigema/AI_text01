@@ -1,0 +1,20 @@
+{
+  "status": "CONDITIONAL_HELPER_ONLY_WITH_EXPLICIT_EXISTING_GAPS",
+  "new_tools_present": [
+    "tools/hand_murloc_gain_patterns.py",
+    "tools/piranha_vacancy_patterns.py"
+  ],
+  "remaining_missing_Piranha_declared_path": "research/piranha_immediate_attack_recovery/SOURCE_CONTRACT.md",
+  "missing_hand_historical_contract": "research/hand_murloc_gain_recovery/SOURCE_CONTRACT.md",
+  "both_contracts_are_not_allowed_omissions": true,
+  "documents_fabricated_or_new_exemptions": false,
+  "hand_current_host_differs_historical_pin": true,
+  "hosts_executed": false,
+  "aggregate_origin_XML_missing": "evidence/portable_legacy/CardDefs.Bacon_latest.xml",
+  "individual_native_XML_pins_verified": 5,
+  "full_compiler_driver_missing": "tools/build_effect_catalog.py",
+  "full_runtime_dependency_closure_accepted": false,
+  "full_Game_Catalog_driver_save_accepted": false,
+  "existing_Bolvar_golden_hold_unchanged": true,
+  "new_family_golden_and_partial_flags_unchanged": true
+}

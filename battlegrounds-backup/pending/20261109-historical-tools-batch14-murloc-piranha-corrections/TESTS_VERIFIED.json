@@ -1,0 +1,83 @@
+{
+  "status": "PASS_TWO_NEW_CONDITIONAL_RAW_SOURCE_HELPERS",
+  "Godot_runs": [
+    {
+      "path": "gates/before",
+      "maxrss_kib": 69848,
+      "seconds": 1.8443675890011946
+    },
+    {
+      "path": "gates/after",
+      "maxrss_kib": 69208,
+      "seconds": 1.8301559690007707
+    },
+    {
+      "path": "gates/tamper",
+      "maxrss_kib": 69872,
+      "seconds": 1.7099043970010825
+    },
+    {
+      "path": "gates/before_repeat",
+      "maxrss_kib": 69884,
+      "seconds": 1.6935163130001456
+    },
+    {
+      "path": "gates/after_repeat",
+      "maxrss_kib": 69968,
+      "seconds": 1.809660453000106
+    },
+    {
+      "path": "gates/tamper_repeat",
+      "maxrss_kib": 69876,
+      "seconds": 1.9665012219993514
+    },
+    {
+      "path": "gates_portable/before",
+      "maxrss_kib": 69952,
+      "seconds": 1.9026637520000804
+    },
+    {
+      "path": "gates_portable/after",
+      "maxrss_kib": 69840,
+      "seconds": 1.8957012879982358
+    },
+    {
+      "path": "gates_portable/tamper",
+      "maxrss_kib": 69244,
+      "seconds": 2.017615623000893
+    },
+    {
+      "path": "gates_portable/before_repeat",
+      "maxrss_kib": 69828,
+      "seconds": 2.170190183001978
+    },
+    {
+      "path": "gates_portable/after_repeat",
+      "maxrss_kib": 69664,
+      "seconds": 2.0641820800010464
+    },
+    {
+      "path": "gates_portable/tamper_repeat",
+      "maxrss_kib": 69860,
+      "seconds": 1.9326249439982348
+    }
+  ],
+  "Godot_peak_RSS_KiB": 69968,
+  "Godot_cases_per_run": 961,
+  "Godot_checks_per_run": 2015,
+  "Godot_preloaded_files": 4,
+  "hosts_loaded": false,
+  "independent_python_matrix_cases": 961,
+  "independent_python_checks_per_run": 1960,
+  "historical_false_acceptances_rejected": 330,
+  "correction_python_cases_per_run": 2177,
+  "correction_historical_bug_witnesses": 22,
+  "prior_typed_GD_oracle_cases_per_tool": 33,
+  "Python_AS_limit_bytes": 134217728,
+  "Godot_AS_limit_bytes": 2147483648,
+  "Godot_RSS_abort_bytes": 201326592,
+  "source_helper_and_fingerprint_scope_only": true,
+  "Piranha_missing_declared_contract_remains": true,
+  "full_runtime_dependency_closure_accepted": false,
+  "full_Game_Catalog_driver_save_accepted": false
+}
