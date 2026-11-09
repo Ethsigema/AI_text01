@@ -1,0 +1,18 @@
+{
+  "initial_exit": -9,
+  "initial_signal": "SIGKILL",
+  "cause": "unknown; no OOM evidence established",
+  "completed_before_stop": [
+    "fresh lowmem archive 137 members",
+    "historical native listener archive 247 members"
+  ],
+  "incomplete_run_not_accepted": true,
+  "change": "Release candidate BASE_MAP and SOURCE_MAP after delta scope validation, then reload them only after historical-layer verification. Avoid simultaneous candidate and historical map copies. Exact hash, byte, member and limit checks unchanged.",
+  "same_limits": {
+    "rss_guard_bytes": 201326592,
+    "address_space_limit_bytes": 536870912,
+    "timeout_seconds": 180
+  },
+  "original_script_log_and_partial_output_preserved": true,
+  "original_sealed_archive_unchanged": true
+}

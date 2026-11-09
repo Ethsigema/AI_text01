@@ -1,0 +1,24 @@
+PASS: archive devourer_tool_historical_candidate_lowmem_20261109 137 members
+PASS: archive native_spell_listener_leaf_partial_candidate_20261109 247 members
+PASS: archive earth_mother_helper_leaf_partial_candidate_20261109 79 members
+PASS: archive native_golden_source_leaf_partial_candidate_20261109 71 members
+PASS: archive golden_arrow_tool_patch_reconstruction_candidate_20261109 98 members
+PASS: archive megasaur_tool_fixed_pin_candidate_20261109 143 members
+PASS: archive historical_tools_batch1_candidate_20261109 199 members
+PASS: archive historical_tools_batch2_four_candidate_20261109 282 members
+PASS: archive historical_tools_batch4_three_candidate_20261109 155 members
+PASS: historical baseline before 27893 actual files
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/devourer_remote_verify_20261109/verify_devourer_stream.py", line 210, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/devourer_remote_verify_20261109/verify_devourer_stream.py", line 180, in main
+    for rel,record in read_json(pkg/(mode+'_INPUT_MAP.json')).items():require(safe(rel) and file_meta(pkg/(mode+'_runtime')/rel)==record,'Probe input map mismatch')
+                                                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/devourer_remote_verify_20261109/verify_devourer_stream.py", line 40, in file_meta
+    require(path.is_file() and not path.is_symlink(),'Not a regular file: '+str(path));digest=hashlib.sha256();count=0
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/devourer_remote_verify_20261109/verify_devourer_stream.py", line 33, in require
+    if not ok: raise ValueError(message)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Not a regular file: /workspace/scratch/dd4f12b08ec0/devourer_remote_verify_20261109/verified_stream_retry/extracted/devourer_tool_historical_candidate_lowmem_20261109/before_runtime/config.json

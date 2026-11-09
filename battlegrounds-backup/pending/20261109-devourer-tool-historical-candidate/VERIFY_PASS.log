@@ -1,0 +1,174 @@
+PASS: archive devourer_tool_historical_candidate_lowmem_20261109 137 members
+PASS: archive native_spell_listener_leaf_partial_candidate_20261109 247 members
+PASS: archive earth_mother_helper_leaf_partial_candidate_20261109 79 members
+PASS: archive native_golden_source_leaf_partial_candidate_20261109 71 members
+PASS: archive golden_arrow_tool_patch_reconstruction_candidate_20261109 98 members
+PASS: archive megasaur_tool_fixed_pin_candidate_20261109 143 members
+PASS: archive historical_tools_batch1_candidate_20261109 199 members
+PASS: archive historical_tools_batch2_four_candidate_20261109 282 members
+PASS: archive historical_tools_batch4_three_candidate_20261109 155 members
+PASS: historical baseline before 27893 actual files
+PASS: historical original, installation evidence, 15 current pins, native 1/3 existing override, four dependency rows, preserved phase/harness failures, 353 gaps
+PASS: historical baseline after 27893 actual files
+{
+  "status": "PASS_EXACT_STREAMED_SOURCE_MAP_BYTES_WITH_DEVOURER_HISTORICAL_TOOL",
+  "candidate_status": "DEVOURER_HISTORICAL_TOOL_CANDIDATE_PHASE_SCOPED_VALIDATION_PASS",
+  "archive_commit": "cfb226a7f5888740371748b49aeb5ad6eda445cf",
+  "repository_path": "battlegrounds-backup/pending/20261109-devourer-tool-historical-candidate",
+  "manifest_sha256": "5ba05d0f1d95b5c9fb3e8e0bcf5c6a961dcaf5c5fcec5356233b28a468b9e6c7",
+  "archive_sha256": "c807dd1229f5c4480631a446c8b7b0aa3f00d48e4602bc91d7d23c1480fa5a44",
+  "archive_bytes": 2558872,
+  "parts_verified": 11,
+  "members_verified": 137,
+  "internal_manifest_members_verified": 136,
+  "input_verified_commit": "4df40aa115e16fce48e4a17461893d36360613d9",
+  "input_manifest_sha256": "c5711e27d97ab3a82a8339112d80aaa6e9d4ba045a776fbe2e44f849de801cce",
+  "input_receipt_sha256": "1dffa961d83010bc496009434b113690d9a9506932acbb71bcbf1718a55ed80f",
+  "input_source_map_sha256": "608a981c9b82b255c37fefb004a4bfe98bcf95d9717cfa3a5ee2917961ff2d00",
+  "source_map_sha256": "9baabc104b5f2f93087dfec0e385d6cb9fceffbf3b1d4441ec91da463a727260",
+  "historical_full_tree_files_rehashed_before_and_after": 27893,
+  "historical_tree_source_map_sha256": "e31eb74faca1a774b42a7c8bcef11b1592eae64ad350b08fa930f9a1d7cd64fe",
+  "prior_archive_verifications": [
+    {
+      "archive": "native_spell_listener_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "46ceb12b81c5db0c417933482d6572f3c89693d2ba3ef2d507ccebc5f0ed4ec7",
+      "members_reverified": 247,
+      "source_files": 5,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "earth_mother_helper_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "333aad27ba8ed0d0699c97cd4a33be5494310247a8350993532cd725f26e753c",
+      "members_reverified": 79,
+      "source_files": 4,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "native_golden_source_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "181a6415d954795e0b40286165c39a55d0469745185e7e6d24840eb769025cef",
+      "members_reverified": 71,
+      "source_files": 3,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "golden_arrow_tool_patch_reconstruction_candidate_20261109.tar.xz",
+      "sha256": "3122135a4912a58c361b522e67b946dffbbe29b3618051972a4898e8cac7edd9",
+      "members_reverified": 98,
+      "source_files": 1,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "megasaur_tool_fixed_pin_candidate_20261109.tar.xz",
+      "sha256": "27514275c7204a972de2a5193b93deb35c7d4a72b137d1bc5c9477c2f7e9cf66",
+      "members_reverified": 143,
+      "source_files": 1,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "historical_tools_batch1_candidate_20261109.tar.xz",
+      "sha256": "d4de01b2fa7a530c00b383455e94f1a0da62d81c68b03b4205b90aca1c46aea1",
+      "members_reverified": 199,
+      "source_files": 5,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "historical_tools_batch2_four_candidate_20261109.tar.xz",
+      "sha256": "51263c49a09a0a735a417e147e4f64f0529be4d5fa12529807653da7187693eb",
+      "members_reverified": 282,
+      "source_files": 4,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "historical_tools_batch4_three_candidate_20261109.tar.xz",
+      "sha256": "85e5b08ccafa5dde8ecc02bdd24ecb740a5eb20baf2a81329e8c52b61773cc20",
+      "members_reverified": 155,
+      "source_files": 3,
+      "freshly_downloaded_this_round": false
+    }
+  ],
+  "direct_input_files_verified_by_actual_bytes": 27911,
+  "target_files_streamed_and_verified": 27912,
+  "actual_target_bytes_streamed": 1549132284,
+  "stream_source_origins": {
+    "historical_tree": 27885,
+    "native_listener": 5,
+    "earth_mother": 4,
+    "golden_source": 3,
+    "golden_tool": 1,
+    "megasaur_tool": 1,
+    "batch1_tools": 5,
+    "batch2_tools": 4,
+    "batch4_tools": 3,
+    "fresh_devourer_tool": 1
+  },
+  "aggregate_stream_sha256": "930f77dd965da27e5d16f2e29f5b495b99c95b526cf52a1279bad7eb9f42ec0b",
+  "aggregate_stream_format": "Sorted UTF-8 target path, NUL, ASCII file byte count, NUL, actual file bytes; repeated for every target file.",
+  "change_lists": {
+    "added": [
+      "tools/devourer_souls_patterns.py"
+    ],
+    "modified": [],
+    "removed": []
+  },
+  "historical_original_and_supporting_evidence_match_actual_baseline_bytes": true,
+  "historical_installation_and_shared_manifest_hashes_rechecked": true,
+  "restored_python_ast_parse_passed": true,
+  "current_source_literal_comparisons_passed": 3,
+  "current_source_pins_verified": 15,
+  "tool_itself_is_current_fixed_pin": false,
+  "current_pin_constants_unchanged": true,
+  "latest_installed_version_proven": false,
+  "prior_inventory_before_items_preserved": 367,
+  "remaining_missing_within_inventory_scope": 353,
+  "remaining_historical_candidates_from_68": 55,
+  "upstream_inventory_and_selected_row_reverified": true,
+  "inventory_scan_repeated_this_round": false,
+  "inventory_scope": "Original 367 pre-restoration targets, not all possible tools gaps; 354 to 353 after this addition.",
+  "dependency_raw_and_compiled_entries_verified": 4,
+  "previously_deferred_six_targets_still_absent": [
+    "tools/sinstone_sticker_patterns.py",
+    "tools/ancient_wishbone_patterns.py",
+    "tools/factory_line_patterns.py",
+    "tools/balinda_spell_patterns.py",
+    "tools/boogie_monster_patterns.py",
+    "tools/partner_in_crime_patterns.py"
+  ],
+  "raw_and_compiled_dependency_data_separately_checked_against_current_pins": true,
+  "dependency_native_fields_unchanged": true,
+  "existing_global_override_and_native_golden_1_3_verified": true,
+  "new_override_added": false,
+  "current_Catalog_excerpt_exact_bytes_verified": true,
+  "initial_cross_stage_comparison_failure_preserved": true,
+  "initial_three_parse_stops_and_numeric_reference_failure_preserved": true,
+  "sealed_successful_phase_reports_checked_but_not_rerun": true,
+  "probe_input_maps_reconstructed_from_archived_probe_inputs_and_exact_delta_comment": true,
+  "probe_runtime_directories_excluded_by_package_design_and_not_required_for_backup_verification": true,
+  "initial_truncated_archive_uploaded": false,
+  "initial_truncated_archive_preserved": true,
+  "initial_compression_exit": 137,
+  "initial_compression_cause": "unknown",
+  "partial_validation_only": true,
+  "full_game_validation_passed": false,
+  "save_compatibility_verified": false,
+  "full_catalog_fingerprint_executed": false,
+  "full_compiler_executed": false,
+  "gameplay_test_run_by_verifier": false,
+  "Godot_proof_error_rerun_by_verifier": false,
+  "candidate_Python_modules_executed_by_verifier": false,
+  "whole_game_memory_improvement_verified": false,
+  "complete_runtime_directory_created": false,
+  "verification_mode": "Actual per-file bytes from reused Harbinger tree and eight pinned archive layers, plus freshly downloaded single-file Devourer delta; not merely map comparison.",
+  "historical_chain_freshly_downloaded_this_round": false,
+  "increment_downloaded_by_this_helper": false,
+  "increment_input_mode": "Separately fetched pinned bytes; see FETCH_PROVENANCE.json proving all eleven part objects absent before fetch.",
+  "historical_baseline_and_prior_archives_unchanged": true,
+  "missing_files_relative_to_source_map": [],
+  "mismatched_files_relative_to_source_map": [],
+  "unexpected_files_relative_to_source_map": [],
+  "source_map_equality_does_not_establish_complete_game_recovery": true,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "free_disk_bytes_before": 3038007296,
+  "free_disk_bytes_after": 3019702272,
+  "verified_at_utc": "2026-11-09T08:50:19.871396+00:00"
+}

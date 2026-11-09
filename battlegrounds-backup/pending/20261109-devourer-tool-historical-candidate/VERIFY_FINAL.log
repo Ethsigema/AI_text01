@@ -1,0 +1,20 @@
+PASS: archive devourer_tool_historical_candidate_lowmem_20261109 137 members
+PASS: archive native_spell_listener_leaf_partial_candidate_20261109 247 members
+PASS: archive earth_mother_helper_leaf_partial_candidate_20261109 79 members
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/devourer_remote_verify_20261109/verify_devourer_stream.py", line 212, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/devourer_remote_verify_20261109/verify_devourer_stream.py", line 127, in main
+    oldmembers,keep=archive_verify(path,expected,root,dep if index==7 else None)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/devourer_remote_verify_20261109/verify_devourer_stream.py", line 57, in archive_verify
+    require(file_meta(path)['sha256']==expected_sha,'Archive hash mismatch: '+str(path));members={};keep={};internal=None
+            ^^^^^^^^^^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/devourer_remote_verify_20261109/verify_devourer_stream.py", line 40, in file_meta
+    require(path.is_file() and not path.is_symlink(),'Not a regular file: '+str(path));digest=hashlib.sha256();count=0
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/devourer_remote_verify_20261109/verify_devourer_stream.py", line 33, in require
+    if not ok: raise ValueError(message)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Not a regular file: golden_leaf_remote_verify_20261109/verified_stream_final/native_golden_source_leaf_partial_candidate_20261109.tar.xz

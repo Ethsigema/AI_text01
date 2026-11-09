@@ -1,0 +1,10 @@
+{
+  "attempt_exit": 1,
+  "exact_error": "Controller copied a historical GoldenArrow archive path from verified_stream_retry to nonexistent verified_stream_final when changing its own output directory suffix.",
+  "correct_historical_path": "golden_leaf_remote_verify_20261109/verified_stream_retry/native_golden_source_leaf_partial_candidate_20261109.tar.xz",
+  "historical_archive_unchanged": true,
+  "verifier_unchanged": true,
+  "failed_controller_log_and_process_preserved": true,
+  "new_output": "verified_stream_pass",
+  "no_scope_or_hash_relaxation": true
+}

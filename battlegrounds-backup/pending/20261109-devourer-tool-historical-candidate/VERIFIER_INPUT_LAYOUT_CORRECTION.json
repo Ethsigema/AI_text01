@@ -1,0 +1,11 @@
+{
+  "first_retry_exit": 1,
+  "problem": "Verifier incorrectly expected generated before_runtime/after_runtime/tamper_runtime files inside the archive. Package intentionally excludes generated *_runtime trees and supplies probe_inputs plus prepare_probes.py.",
+  "archive_defect": false,
+  "correction": "Read every archived probe_inputs byte; reconstruct after with the exact delta and tamper with the exact saved newline/comment. Compare all 26 before and 27 after/tamper records against sealed maps, without creating or executing runtimes.",
+  "preflight_all_three_maps_exact": true,
+  "hash_checks_not_relaxed": true,
+  "failed_script_log_process_and_output_preserved": true,
+  "no_archive_change": true,
+  "no_Game_or_Godot_execution": true
+}
