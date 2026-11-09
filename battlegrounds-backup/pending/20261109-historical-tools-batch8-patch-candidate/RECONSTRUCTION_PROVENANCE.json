@@ -1,0 +1,58 @@
+{
+  "baseline_ZIP_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "baseline_rehashed_this_round": true,
+  "records": [
+    {
+      "target": "tools/aggramar_patterns.py",
+      "original_path": "research/aggramar_native_recovery/candidates/tools/aggramar_patterns.py",
+      "original_sha256": "ea6852cd18e8d13070af88bbd2e674c0d2dc20f4f4c43ed90cd24774d90588de",
+      "patch_path": "research/aggramar_native_domain/tools__aggramar_patterns.py.patch",
+      "patch_sha256": "5ca10139351cb4e9257f5af1a553a865c08e8f177694c993bb765c3f2d2ce571",
+      "reconstructed_sha256": "a2275e84f82de72643d7c10c84bc18a8714b6be2ae9acd0671d14b1b6625c855",
+      "reconstructed_bytes": 25578,
+      "exact_hunks": 2,
+      "GNU_patch_fuzz_0_equal": true,
+      "GNU_patch_log": "patching file tools/aggramar_patterns.py\n",
+      "original_and_patch_ZIP_members_exact": true,
+      "current_source": "core/aggramar_sources.gd",
+      "current_source_sha256": "67fd43b29d09def9c03b62d46a33124a9f21d6193f4cdcfc906dd3e458b2f4fa",
+      "independent_historical_postimage_found": false,
+      "latest_installed_version_proven": false
+    },
+    {
+      "target": "tools/mystery_cube_patterns.py",
+      "original_path": "research/mystery_cube_native_recovery/candidates/tools/mystery_cube_patterns.py",
+      "original_sha256": "8d437cd76b5c1163cdf5719f4fd1281cddce58213f5340c83bef8e4c813039d2",
+      "patch_path": "research/cube_native_free_slots/01-mystery-cube-native-slots.patch",
+      "patch_sha256": "0e133aabf6ed1b29f93454fc9b5b72ee372a67ed22d884fa44ee69a46bd55174",
+      "reconstructed_sha256": "8d124fa3697067784ef4fe4383dd36393d22c543bcbe211a1e33b7782cfe2310",
+      "reconstructed_bytes": 58614,
+      "exact_hunks": 1,
+      "GNU_patch_fuzz_0_equal": true,
+      "GNU_patch_log": "patching file tools/mystery_cube_patterns.py\n",
+      "original_and_patch_ZIP_members_exact": true,
+      "current_source": "core/mystery_cube_sources.gd",
+      "current_source_sha256": "63ec1ad40bce81774f41c6f6b0ba0abcb15e9ede5f16466156c0b280bb498021",
+      "independent_historical_postimage_found": false,
+      "latest_installed_version_proven": false
+    },
+    {
+      "target": "tools/perfected_alchemy_patterns.py",
+      "original_path": "research/perfected_alchemy_native_recovery/candidates/tools/perfected_alchemy_patterns.py",
+      "original_sha256": "eee29cbb58d79d6bc229582415158d2a32790cdf7e1f536e22b315e722cde0e7",
+      "patch_path": "research/alchemy_native_goldenizer/tools_perfected_alchemy_patterns.py.patch",
+      "patch_sha256": "69cb6164678fe0291e65dd1fc54ca9bb2cf8ad075376dc0d1426161395c7a9f4",
+      "reconstructed_sha256": "214abbd0931a6bafea38e9e9c1ebb87529bb96ae9c47c75ec834d2c354b0eb6f",
+      "reconstructed_bytes": 32920,
+      "exact_hunks": 1,
+      "GNU_patch_fuzz_0_equal": true,
+      "GNU_patch_log": "patching file tools/perfected_alchemy_patterns.py\n",
+      "original_and_patch_ZIP_members_exact": true,
+      "current_source": "core/perfected_alchemy_sources.gd",
+      "current_source_sha256": "9b4fc1ba4453856ffe85e6f739d8fe926139dc9d94d87f381c2dfcf665f4ba67",
+      "independent_historical_postimage_found": false,
+      "latest_installed_version_proven": false
+    }
+  ],
+  "runtime_modified": false
+}
