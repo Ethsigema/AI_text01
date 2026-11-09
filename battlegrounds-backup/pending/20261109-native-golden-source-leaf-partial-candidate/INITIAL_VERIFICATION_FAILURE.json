@@ -1,0 +1,10 @@
+{
+  "status": "INITIAL_VERIFIER_EXIT_137_SIGKILL_NO_SUCCESS_RECEIPT",
+  "archive_and_all_71_members_verified_before_exit": true,
+  "cause_confirmed": false,
+  "failed_output_retained": "verified_stream",
+  "failed_log": "VERIFY_INITIAL_SIGKILL.log",
+  "original_verifier": "verify_golden_leaf_stream_initial_sigkill.py",
+  "retry_plan": "Lower memory retention and bound retry process; preserve all earlier output and source",
+  "recorded_at_utc": "2026-11-09T05:50:15.921735+00:00"
+}
