@@ -1,0 +1,38 @@
+# GoldenArrow原生来源叶：部分候选备份恢复
+
+状态：PARTIAL_PURE_HELPER_AND_LIGHT_ENTRY_PASS_FULL_HOST_UNVERIFIED。完整PrizeGolden、Catalog、Game、旧存档、回放及整体内存收益未验证。新叶改变执行代码身份，旧存档指纹兼容性未保留或验证，不伪造旧指纹。
+
+## 已知输入缺口
+
+旧RUNTIME_PATHS引用tools/golden_arrow_patterns.py，但输入SOURCE_MAP和实际旧基线均不包含它，新候选也未添加。该缺口在RESUME_AUDIT中明确保留，不能用research下同名文件冒充正式路径。本备份能精确恢复封存清单，但清单内文件无缺失不等于所有运行引用齐全。没有运行包含缺失项的完整Catalog指纹循环，运行后果尚未实测。
+
+## 固定运行依赖
+
+直接输入EarthMother候选27dd08d164f1df0dd9ffe9391b9fcaa751529779：
+https://github.com/Ethsigema/AI_text01/blob/27dd08d164f1df0dd9ffe9391b9fcaa751529779/battlegrounds-backup/pending/20261109-earth-mother-helper-leaf-partial-candidate/RECOVERY_VERIFIED.md
+
+输入归档提交851466e4964562e8cf172bd40d37a389386fcfdf，SHA256 333aad27ba8ed0d0699c97cd4a33be5494310247a8350993532cd725f26e753c。
+输入SOURCE_MAP SHA256 d758490893b35c9fed6ced58a89dc764914a4058bfbb0283eee1d77893fb2960。
+输入MANIFEST SHA256 e6f5562344c7c5ddee0b0cdd6c31684a4b32f570c68e834d9d00145402eb69f7。
+输入流式回执SHA256 9e00b1c2957add5c5cc77fe9fa5ac881030780833b6d6ca9c683b3c1be84a9be。
+
+输入由Harbinger完整树、native listener五文件delta及EarthMother四文件delta组成，不能省略中间增量。诊断档案不属于运行补丁链。
+
+## 下载与逐字节恢复核验
+
+从同一固定提交下载MANIFEST、CHANGES、REMOVALS、SHA256SUMS、README、RECOVERY及5个part000至part004分片，按清单顺序拼接为native_golden_source_leaf_partial_candidate_20261109.tar.xz。
+大小1,065,532字节，SHA256 181a6415d954795e0b40286165c39a55d0469745185e7e6d24840eb769025cef。
+
+逐片及整包核对大小/SHA256，安全解压到全新目录，拒绝绝对路径、上层跳转、链接、特殊文件和重复成员。外部清单覆盖71个成员，内部清单覆盖其余70项。
+
+仅delta/三文件是运行增量：新增core/native_golden_source_validation.gd，修改core/golden_arrow_sources.gd和core/prize_golden_effects.gd，删除0，净增768字节。before/、oracle、测试脚本、篡改证据不可作为运行补丁。
+
+本轮保留空间，使用流式完整字节核验：先核对历史完整树及两层旧增量组成的直接输入，再以新delta优先逐文件实际读取目标并重新计算SHA256。目标应严格符合SOURCE_MAP：27,897文件、1,548,720,190字节，清单SHA256 c0454c30ce7eb2a71fb8ea3e513f0db0d2fd684f63129a1b7da2e4a47666603b。缺失、多余、不符相对于封存清单必须为0，同时单独保留上述已知未列入清单的引用缺口。
+
+本轮新下载本次GoldenArrow包，历史链与运行依赖复用并重哈希，不冒称本轮历史全链重下。可复现脚本verify_golden_leaf_stream.py及回执完成后追加。不写第二个完整运行目录，不运行Godot，不删除旧备份、不强推。
+
+需要可运行完整树时，先完整恢复并核对EarthMother输入，再有足够空间地用本包restore_to_new.py恢复到不存在的新目录，禁止硬链接或覆盖基线，最后核对全部目标及输入未变。本轮不执行该完整复制命令，也不修复既有缺失工具文件。
+
+## 限定验证范围
+
+封存6个小进程1030项有限检查保留，不在备份过程中重跑。oracle不是完整原宿主，薄代理不是完整修改后宿主；TinyCatalog不是完整Catalog。小探针67.4MiB不是整局游戏内存，不计算全局节约或与未完成SIGKILL比较。没有实际施法、购买、EOT、存档、回放或UI验证。原16条证据pin未变，新叶纳入指纹不等于新增固定准入pin。
