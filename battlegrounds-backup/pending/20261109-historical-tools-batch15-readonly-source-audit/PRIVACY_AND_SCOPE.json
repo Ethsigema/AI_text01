@@ -1,0 +1,16 @@
+{
+  "selection": "Exact original 130-file manifest plus its manifest and verification receipt, new packaging documentation, reproducible verifier and byte-integrity report. No recursive workspace/home inclusion.",
+  "evidence_original_manifest_sha256": "123c677612f62b44e831e2bdbcbe74a9c69afa5495bde54cf0def5819dc74e90",
+  "original_evidence_files": 130,
+  "original_evidence_bytes": 120759010,
+  "forbidden_archive_paths": [],
+  "common_secret_signature_findings": [],
+  "private_conversation_or_credential_payloads_included": false,
+  "cached_runtime_or_archive_payloads_included": false,
+  "technical_metadata_policy": "Search records retain relevant source/archive/member names, sizes, hashes, exclusions and bounded code excerpts to make coverage reproducible. Mentioning a previously excluded cache path does not include its payload.",
+  "limitations": "Signature and path screening are bounded checks, not a proof that all possible secrets are detectable.",
+  "old_backups_retained": true,
+  "source_code_modified": false,
+  "directory_names_are_not_chronology": true,
+  "verified_clock_reference_utc": "2026-11-09T20:17:37Z"
+}
