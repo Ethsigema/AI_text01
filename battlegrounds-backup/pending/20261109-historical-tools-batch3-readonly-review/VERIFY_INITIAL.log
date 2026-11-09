@@ -1,0 +1,13 @@
+PASS: archive historical_tools_batch3_review_20261109 118 members
+PASS: archive historical_tools_batch2_four_candidate_20261109 282 members
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/batch3_review_remote_verify_20261109/verify_batch3_review.py", line 122, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/batch3_review_remote_verify_20261109/verify_batch3_review.py", line 111, in main
+    relative=name.removeprefix(prefix);require(relative in base and value==base[relative] and file_meta(pkg/'probe_inputs'/relative)==base[relative],'Embedded probe input differs from pinned source map');checked[relative]=value;probe_count+=1
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/batch3_review_remote_verify_20261109/verify_batch3_review.py", line 19, in require
+    if not ok: raise ValueError(message)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Embedded probe input differs from pinned source map

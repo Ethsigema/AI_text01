@@ -1,0 +1,145 @@
+{
+  "status": "PASS_EXACT_STREAMED_SOURCE_MAP_BYTES_WITH_FOUR_HISTORICAL_TOOLS_AND_SINSTONE_DEFERRED",
+  "candidate_status": "FOUR_HISTORICAL_TOOL_CANDIDATE_SCOPED_VALIDATION_PASS",
+  "archive_commit": "5d17cb79f7f7b6abdddb68e3b9e420e0167184b3",
+  "repository_path": "battlegrounds-backup/pending/20261109-historical-tools-batch2-four-candidate",
+  "manifest_sha256": "26e1d37470f663358cc246c5a860d0d563b1eae60a3729f466f2080546ed678b",
+  "archive_sha256": "51263c49a09a0a735a417e147e4f64f0529be4d5fa12529807653da7187693eb",
+  "archive_bytes": 1145088,
+  "parts_verified": 5,
+  "members_verified": 282,
+  "internal_manifest_members_verified": 281,
+  "input_verified_commit": "cfe5366f7e0a115532e8996549782c635481b97a",
+  "input_manifest_sha256": "1339271a1dc7d2789e931e1a2c2270d9b45613ed5717a7269332919949c7624d",
+  "input_receipt_sha256": "c3e5df6796a973d499533adae754dc3501d26d721f62f9c78f33dd158089af1e",
+  "input_source_map_sha256": "53da1c13fbebb6eb8c5672ad8828109720efdfab1a8a97b6792a6da3202e6080",
+  "source_map_sha256": "3581d683af1a208f00c3dd853e268d799abc5e2811847954a339cad2a68434ea",
+  "historical_full_tree_files_rehashed_before_and_after": 27893,
+  "historical_tree_source_map_sha256": "e31eb74faca1a774b42a7c8bcef11b1592eae64ad350b08fa930f9a1d7cd64fe",
+  "prior_archive_verifications": [
+    {
+      "archive": "native_spell_listener_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "46ceb12b81c5db0c417933482d6572f3c89693d2ba3ef2d507ccebc5f0ed4ec7",
+      "members_reverified": 247,
+      "source_files": 5,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "earth_mother_helper_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "333aad27ba8ed0d0699c97cd4a33be5494310247a8350993532cd725f26e753c",
+      "members_reverified": 79,
+      "source_files": 4,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "native_golden_source_leaf_partial_candidate_20261109.tar.xz",
+      "sha256": "181a6415d954795e0b40286165c39a55d0469745185e7e6d24840eb769025cef",
+      "members_reverified": 71,
+      "source_files": 3,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "golden_arrow_tool_patch_reconstruction_candidate_20261109.tar.xz",
+      "sha256": "3122135a4912a58c361b522e67b946dffbbe29b3618051972a4898e8cac7edd9",
+      "members_reverified": 98,
+      "source_files": 1,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "megasaur_tool_fixed_pin_candidate_20261109.tar.xz",
+      "sha256": "27514275c7204a972de2a5193b93deb35c7d4a72b137d1bc5c9477c2f7e9cf66",
+      "members_reverified": 143,
+      "source_files": 1,
+      "freshly_downloaded_this_round": false
+    },
+    {
+      "archive": "historical_tools_batch1_candidate_20261109.tar.xz",
+      "sha256": "d4de01b2fa7a530c00b383455e94f1a0da62d81c68b03b4205b90aca1c46aea1",
+      "members_reverified": 199,
+      "source_files": 5,
+      "freshly_downloaded_this_round": false
+    }
+  ],
+  "direct_input_files_verified_by_actual_bytes": 27904,
+  "target_files_streamed_and_verified": 27908,
+  "actual_target_bytes_streamed": 1548971251,
+  "stream_source_origins": {
+    "historical_tree": 27885,
+    "native_listener": 5,
+    "earth_mother": 4,
+    "golden_source": 3,
+    "golden_tool": 1,
+    "megasaur_tool": 1,
+    "batch1_tools": 5,
+    "fresh_batch2_tools": 4
+  },
+  "aggregate_stream_sha256": "d411ea819fb5cf6910132c6e8ad90bea8367adf2648d9112992a708bf6cc9fdb",
+  "aggregate_stream_format": "Sorted UTF-8 target path, NUL, ASCII file byte count, NUL, actual file bytes; repeated for every target file.",
+  "change_lists": {
+    "added": [
+      "tools/old_soul_patterns.py",
+      "tools/warband_whistle_patterns.py",
+      "tools/lovely_locket_patterns.py",
+      "tools/replica_cathedral_patterns.py"
+    ],
+    "modified": [],
+    "removed": []
+  },
+  "historical_originals_and_supporting_evidence_match_actual_baseline_bytes": true,
+  "historical_installation_and_shared_manifest_hashes_rechecked": true,
+  "restored_python_ast_parse_passed": true,
+  "current_source_literal_comparisons_passed": 9,
+  "current_source_pins_verified": 55,
+  "four_tools_themselves_are_current_fixed_pins": false,
+  "current_pin_constants_unchanged": true,
+  "latest_installed_versions_proven": false,
+  "prior_inventory_before_items_preserved": 367,
+  "remaining_missing_within_inventory_scope": 357,
+  "remaining_historical_candidates_from_68": 59,
+  "upstream_full_inventory_and_selected_rows_reverified": true,
+  "inventory_scan_repeated_this_round": false,
+  "inventory_scope": "Original 367 pre-restoration targets, not all possible tools gaps. This batch adds four and leaves 357 absent; original inventory records preserved.",
+  "current_dependency_raw_entries_verified": 16,
+  "unique_dependency_card_ids": 9,
+  "deferred_target": "tools/sinstone_sticker_patterns.py",
+  "deferred_target_absent_from_runtime_map": true,
+  "deferred_original_failed_trial_reports": [
+    {
+      "mode": "before",
+      "failed_assertions": 6
+    },
+    {
+      "mode": "after",
+      "failed_assertions": 6
+    },
+    {
+      "mode": "tamper",
+      "failed_assertions": 6
+    }
+  ],
+  "failed_trials_counted_as_passes": false,
+  "partial_validation_only": true,
+  "full_game_validation_passed": false,
+  "save_compatibility_verified": false,
+  "full_catalog_fingerprint_executed": false,
+  "full_compiler_executed": false,
+  "gameplay_test_run_by_verifier": false,
+  "Godot_proof_error_rerun_by_verifier": false,
+  "candidate_Python_modules_executed_by_verifier": false,
+  "whole_game_memory_improvement_verified": false,
+  "complete_runtime_directory_created": false,
+  "verification_mode": "Actual per-file bytes from reused Harbinger tree and six pinned archive layers, plus freshly downloaded four-file batch delta; not merely map comparison.",
+  "historical_chain_freshly_downloaded_this_round": false,
+  "increment_downloaded_by_this_helper": false,
+  "increment_input_mode": "Separately fetched pinned bytes; see FETCH_PROVENANCE.json proving all five part objects absent before fetch.",
+  "historical_baseline_and_prior_archives_unchanged": true,
+  "missing_files_relative_to_source_map": [],
+  "mismatched_files_relative_to_source_map": [],
+  "unexpected_files_relative_to_source_map": [],
+  "source_map_equality_does_not_establish_complete_game_recovery": true,
+  "all_prior_backups_preserved": true,
+  "no_deletion_performed": true,
+  "free_disk_bytes_before": 3346386944,
+  "free_disk_bytes_after": 3326783488,
+  "verified_at_utc": "2026-11-09T07:30:52.888708+00:00"
+}

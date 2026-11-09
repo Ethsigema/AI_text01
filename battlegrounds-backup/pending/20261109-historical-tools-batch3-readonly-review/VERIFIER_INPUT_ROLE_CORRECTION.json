@@ -1,0 +1,14 @@
+{
+  "initial_exit": 1,
+  "initial_failure": "The verifier incorrectly assumed every probe_inputs file was a game source file.",
+  "confirmed_differences": [
+    "review_config.json and review_fixtures.json are isolated review data, not runtime source paths.",
+    "project.godot is the 136-byte minimal probe project, not the 715-byte game project."
+  ],
+  "archive_and_input_archive_member_checks_passed_before_failure": true,
+  "new_verification": "Three exact named/hash-pinned harness files checked separately; 53 real source inputs still require exact source-map match. No general exemption.",
+  "original_verifier_log_and_output_retained": true,
+  "source_archive_or_dependency_modified": false,
+  "new_output_directory": "verified_evidence_retry",
+  "resource_limits_unchanged": true
+}
