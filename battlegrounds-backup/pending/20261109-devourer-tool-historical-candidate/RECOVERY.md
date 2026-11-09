@@ -1,0 +1,26 @@
+# Devourer 历史工具候选备份
+
+状态：DEVOURER_HISTORICAL_TOOL_CANDIDATE_PHASE_SCOPED_VALIDATION_PASS。仅新增tools/devourer_souls_patterns.py，41205字节，修改0、删除0。历史原件未证实最新版，工具本身不是当前固定准入pin。原367范围剩353项，原68历史范围剩55项，此前六项暂缓仍缺失。完整Game、旧存档、真实Catalog/全指纹、全编译器和整体内存收益未验收，清单匹配不等于完整游戏恢复。
+
+## 固定依赖
+
+第4批已核验提交4df40aa115e16fce48e4a17461893d36360613d9：
+https://github.com/Ethsigema/AI_text01/blob/4df40aa115e16fce48e4a17461893d36360613d9/battlegrounds-backup/pending/20261109-historical-tools-batch4-three-candidate/RECOVERY_VERIFIED.md
+归档提交e4b9f301a494c0623daebfd17d7b60fd933c4c6f；归档SHA256 85e5b08ccafa5dde8ecc02bdd24ecb740a5eb20baf2a81329e8c52b61773cc20。
+MANIFEST SHA256 c5711e27d97ab3a82a8339112d80aaa6e9d4ba045a776fbe2e44f849de801cce。
+流式回执SHA256 1dffa961d83010bc496009434b113690d9a9506932acbb71bcbf1718a55ed80f。
+BASE_MAP SHA256 608a981c9b82b255c37fefb004a4bfe98bcf95d9717cfa3a5ee2917961ff2d00。
+
+从Harbinger完整树依次应用native listener、EarthMother、GoldenArrow来源叶、GoldenArrow工具、Megasaur、第1批、第2批、第4批八层；第3批只读证据不是运行补丁。严格按每层映射核对，不跳过。
+
+## 有效归档与失败记录
+
+只下载lowmem包。此前普通压缩退出137，原因未知，截断包983132字节SHA256 af7d0a1a43f34031e12224ab30146ee589f0f3bf63ee6f4f633e58dfc616e737保留本地但不能恢复，不作为有效包上传。PACKAGE_INTERRUPTION_NOTE及初版清单保存问题和重试，未覆盖失败材料。lowmem使用XZ preset1重新封存，未改游戏源码或测试证据。
+
+本次有效devourer_tool_historical_candidate_lowmem_20261109.tar.xz，2558872字节，SHA256 c807dd1229f5c4480631a446c8b7b0aa3f00d48e4602bc91d7d23c1480fa5a44。同一固定提交下载MANIFEST、CHANGES、REMOVALS、SHA256SUMS、README、RECOVERY和11片part000至part010；按MANIFEST顺序拼接，核对各片、整包、137成员及内部136项清单。安全解包新目录，拒绝链接、穿越、重复和特殊文件。
+目标27912文件、1549132284字节，SOURCE_MAP SHA256 9baabc104b5f2f93087dfec0e385d6cb9fceffbf3b1d4441ec91da463a727260。
+
+封存69项Python、414项Godot通过断言、38项静态检查只保留，不在备份中重跑。最初跨阶段比较失败、三次探针缩进错误和一次JSON数值参考方向失败都保留，不算通过。CANONICAL覆盖前元数据不同，现有Catalog覆盖后的比较通过，只是局部证据；未新建覆盖值。独立金色1/3、四项RAW与编译依赖、15固定pin的边界见README。
+
+本次真实下载新包，复用并重哈希历史树和八份旧归档，按目标逐文件实际读字节，不创建完整工程、不执行游戏、不删备份、不强推。完成后追加独立脚本与回执。
+若需完整工程，先按输入链恢复并核验完整基线，再在足够空间下用包内restore_to_new.py写不存在的新目录。restore_delta_to_new.py仅恢复单文件，不能作为独立游戏。
