@@ -1,0 +1,13 @@
+{
+  "mode": "stream actual per-file bytes; no complete runtime directory",
+  "free_bytes_before": 3547947008,
+  "free_bytes_after": 3513430016,
+  "existing_historical_tree_reused": true,
+  "four_prior_archives_reused": true,
+  "no_backups_deleted": true,
+  "no_unverified_work_deleted": true,
+  "memory_method": "1 MiB block hashing; retain one prior archive map layer at a time and required deltas",
+  "rss_guard_bytes": 201326592,
+  "address_space_limit_bytes": 536870912,
+  "timeout_seconds": 180
+}
