@@ -1,0 +1,27 @@
+# 五项历史工具第1批：增量备份
+
+状态：FIVE_HISTORICAL_TOOL_CANDIDATE_SCOPED_VALIDATION_PASS。仅新增5文件，共53803字节，修改0、删除0。历史原文与安装清单匹配，不证明最新已安装版本。五文件不是当前显式准入pin，不能把本批称为修复新准入阻断。原68项历史候选还剩63未恢复；原367范围还剩361缺口，并非整个项目缺口总数。
+
+完整Game、旧存档兼容、完整Catalog指纹、全项目离线编译及整体内存收益未验证。原封存184项有限Python检查、990项Godot断言和73项静态交叉检查保留，不在备份期间重新执行。精确源码清单匹配不等于完整游戏恢复。
+
+## 固定输入
+
+提交d26dc87ff20c600c651bcee24b0d3dffa056a79f：
+https://github.com/Ethsigema/AI_text01/blob/d26dc87ff20c600c651bcee24b0d3dffa056a79f/battlegrounds-backup/pending/20261109-megasaur-tool-fixed-pin-candidate/RECOVERY_VERIFIED.md
+
+输入归档提交a00e227da42ecf4563c324e7994ecf9c5a63dde8，SHA256 27514275c7204a972de2a5193b93deb35c7d4a72b137d1bc5c9477c2f7e9cf66。
+输入MANIFEST SHA256 b79689ba046d94fc59f08b8c870cde67e0ed46fe1d3dbf32b0f103db7f78b370。
+输入回执SHA256 58b2679422af16d3d0705f6f6eb7f2791dc42308a4f0c3b0f3a67c56f9d6abf4。
+输入SOURCE_MAP SHA256 28b1d1c523dfc566bc5eacd04ccea1e1787c1b15e0cca8f9e67ecf9229b46bf4。
+
+Harbinger完整树依次应用native listener、EarthMother、GoldenArrow来源叶、GoldenArrow工具重建、Megasaur工具五层增量组成输入。诊断证据不是运行补丁，不能省略中间运行层。
+
+## 下载和核验
+
+下载同一固定提交的MANIFEST、CHANGES、REMOVALS、SHA256SUMS、README、RECOVERY和5片part000至part004。按清单顺序拼接historical_tools_batch1_candidate_20261109.tar.xz，1144624字节，SHA256 d4de01b2fa7a530c00b383455e94f1a0da62d81c68b03b4205b90aca1c46aea1。逐片、整包及全部199成员和内部198项清单核对。只安全解压到新目录，拒绝路径穿越、链接、特殊文件和重复项。
+
+delta/五文件才是运行增量；证据、探针输入和报告不可混入。目标27904文件、1548838936字节，SOURCE_MAP SHA256 53da1c13fbebb6eb8c5672ad8828109720efdfab1a8a97b6792a6da3202e6080。
+
+本轮真实重下新包，复用并重新哈希历史Harbinger树和五份旧归档，逐文件读取所有目标字节进行独立流式核验。没有第二完整工程目录，不跑完整游戏，所有旧备份保留，不删除、不强推。完成后追加独立脚本与回执。
+
+若需要完整工程，应先恢复并核验完整上游树，在足够空间下用封存restore_to_new.py生成不存在的新目录，并逐文件核对目标及原输入不变。本轮不做完整复制。恢复五个小增量可用restore_delta_to_new.py，但delta不是独立游戏。
