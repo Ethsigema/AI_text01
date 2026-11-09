@@ -1,0 +1,37 @@
+# Harbinger身份共享叶：实验候选增量恢复
+
+状态：EXPERIMENTAL_SCOPED_EQUIVALENCE_AND_ENTRY_MEMORY_PASS_FULL_GAME_UNTESTED。完整catalog/Game未运行及未验收，不提升或替换任何已验证基线。a71d3e4ea64dc52264a3f789a48ddae2e4a043cd仅延续此前限定范围的验收，不能称为全机制回归通过。
+
+## 固定依赖与历史链
+
+直接输入catalog memory候选固定提交4ebbc2e1276f678c8a9e91e45d0fe24f036f66c1：
+https://github.com/Ethsigema/AI_text01/blob/4ebbc2e1276f678c8a9e91e45d0fe24f036f66c1/battlegrounds-backup/pending/20261109-catalog-memory-candidate/RECOVERY_VERIFIED.md
+
+输入归档提交60883b1d19faf947134db07e7ba3f9fdeacc2de6，SHA256 e5272cc3556bf626d353993b142a75d40ea26c4522eb94bcb2f5a55994f7f7d6。
+输入SOURCE_MAP SHA256 e52121d24d2b21f75af73521362928a2da449f7f42915fb692cfcb3d425ab0a0。
+输入恢复回执SHA256 45d53273107a8411727d9d2e1462810ac6e685c4e1f62727eb55fdfd81a4d384。
+输入MANIFEST SHA256 2218f998a299ee221fb31ee06c123737d8cc53c07d6a2c3eb6e122c744c87ad6。
+
+输入候选自身依赖女妖候选及其全部历史链，不能跳过中间增量。最近诊断提交2bd2ce9296a0ad8c397e4efc25301601ed9e5275只有诊断证据，不属于运行增量链。
+
+此前独立全链重下审计只覆盖到女妖候选：
+https://github.com/Ethsigema/AI_text01/blob/0d47d1b6bf8c2943647fbc59ba8448cd6dde0ab9/battlegrounds-backup/pending/20261109-banshee-golden-fresh-chain/RECOVERY.md
+
+本轮将实际重新下载本次Harbinger实验包，复用此前独立恢复的catalog memory运行树并重新逐文件哈希；不重新下载历史全链，不把以前的全链审计当作本次执行。
+
+## 恢复方法
+
+从同一固定提交下载MANIFEST.json、CHANGES.json、REMOVALS.json、SHA256SUMS.txt、README.md、RECOVERY.md及5个part000至part004分片。按MANIFEST parts顺序拼接为harbinger_identity_leaf_candidate_20261109.tar.xz。
+大小1,092,872字节，SHA256 b666e972100a402ae3b9fa92ab2126e5324f4327842ac88fecebcc204c6f4ee4。
+
+逐片与整包核对大小和SHA256。安全解压到新目录，拒绝绝对路径、上层跳转、链接、特殊文件及重复成员。外部清单覆盖全部126个成员，内部PACKAGE_MANIFEST覆盖其余125项。
+
+只应用delta/三文件：新增core/eot_repeat_identity.gd，修改core/end_turn_repeats.gd与core/harbinger_eot_admission.gd，删除0，净增418字节。其他目录为测试或诊断证据，尤其tampered_*不是运行补丁。
+
+逐文件核对完整基线BASE_MAP，独立复制到全新目录后应用delta，禁止硬链接及覆盖基线。最终严格符合SOURCE_MAP：27,893文件、1,548,714,522字节，SOURCE_MAP SHA256 e31eb74faca1a774b42a7c8bcef11b1592eae64ad350b08fa930f9a1d7cd64fe。缺失、多余、哈希不符均应为0。完成后重新完整核对基线未变。
+
+优先使用本目录追加的verify_and_restore_harbinger_leaf_candidate.py及RECOVERY_VERIFIED.md。原包中的restore_to_new.py也是源码恢复工具；不要执行探针脚本或运行Godot作为备份验证步骤。保留全部已有输出与旧备份，输出目录必须全新。
+
+## 验证边界
+
+封存结果记录两组限定A/B的88项检查和585条一致结果。Admission入口的82.72%峰值下降仅限该入口，EndTurn峰值基本不变；完整catalog图仍增加一个脚本，未证明SIGKILL解决。原函数正文相同、畸形错误相同、单份证据篡改拒绝及指纹子列表测试不等于完整来源/完整catalog/Game验收。没有执行实际EOT回调、自然获取、存档、回放或UI验证。本备份恢复检查不重跑这些试验。
