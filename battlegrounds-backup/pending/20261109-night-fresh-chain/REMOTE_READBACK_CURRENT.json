@@ -1,0 +1,206 @@
+{
+  "status": "PASS_REAL_REMOTE_READBACK_ALL_24_PUBLISHED_FILES_AND_30_ARCHIVE_MEMBERS",
+  "commit": "6d89cac6f17b954f19d1921bb71622c3d716b032",
+  "folder": "battlegrounds-backup/pending/20261109-night-fresh-chain",
+  "checked_at_utc": "2026-11-09T15:26:49.273749+00:00",
+  "files": [
+    {
+      "name": "ARCHIVE_MANIFEST.json",
+      "bytes": 1771,
+      "sha256": "53294debeb641fcdd99a7b940e60e3127d76de2321d62be6636baeb322e45696",
+      "git_sha": "b854816a1e782517d0c2d0a06d808f5c6579d0ba",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/ARCHIVE_MANIFEST.json",
+      "checked_at_utc": "2026-11-09T15:26:26.353100+00:00"
+    },
+    {
+      "name": "EVIDENCE_MANIFEST.json",
+      "bytes": 4049,
+      "sha256": "67366c26701e5e6cf182b2768c71a58e8bf4466eb2f28a2dde1df0587b5b0f37",
+      "git_sha": "bb0231703195c0e3256bed080ae8b01e13761adc",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/EVIDENCE_MANIFEST.json",
+      "checked_at_utc": "2026-11-09T15:26:26.354873+00:00"
+    },
+    {
+      "name": "FRESH_WHOLE_CHAIN_VERIFICATION.json",
+      "bytes": 109586,
+      "sha256": "11489ce9af39df40de5025e4481211f9f88976a3d8fd448b7f5ca37fd3c89a23",
+      "git_sha": "9621842b1fd56334c6d4f16fdf8b98d2a365d96d",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/FRESH_WHOLE_CHAIN_VERIFICATION.json",
+      "checked_at_utc": "2026-11-09T15:26:26.356623+00:00"
+    },
+    {
+      "name": "HISTORICAL_CURRENT.log",
+      "bytes": 7957,
+      "sha256": "525d280d52bd258e4b4923f1cd7d3994b7280ce9994303128edf0dbfa3c63b30",
+      "git_sha": "e305e0c331887b6ee1cf443ae71b096788f668ba",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/HISTORICAL_CURRENT.log",
+      "checked_at_utc": "2026-11-09T15:26:26.399340+00:00"
+    },
+    {
+      "name": "INCREMENTS_CURRENT.log",
+      "bytes": 77429,
+      "sha256": "700cdfdb4a53f94e51b9116c1177b79c60390ebed1f50d96e1658d2d77f98497",
+      "git_sha": "d46e5d54e6d973990bba9babbb27d5b5231c7151",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/INCREMENTS_CURRENT.log",
+      "checked_at_utc": "2026-11-09T15:26:33.420070+00:00"
+    },
+    {
+      "name": "INCREMENTS_RETRY_CURRENT.log",
+      "bytes": 78453,
+      "sha256": "af77b06b8ca1a5335aa94a906282e58434a76988a050197ad82319d28559a85a",
+      "git_sha": "c95fffd6b5c33c9a51bc06984af0886964b9ffef",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/INCREMENTS_RETRY_CURRENT.log",
+      "checked_at_utc": "2026-11-09T15:26:33.407508+00:00"
+    },
+    {
+      "name": "INITIAL_MATERIALIZATION_STOP.txt",
+      "bytes": 246,
+      "sha256": "2a0e21a151263e129fcb937c08cb3d3a3dffc0c579f3302f9fb7ecea7eaa06e4",
+      "git_sha": "528a95aa719e32590f527492c75fd8eea6a67ccb",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/INITIAL_MATERIALIZATION_STOP.txt",
+      "checked_at_utc": "2026-11-09T15:26:33.440511+00:00"
+    },
+    {
+      "name": "ORDERING_COMPATIBILITY_NOTE.json",
+      "bytes": 841,
+      "sha256": "3621ea9f7a629495c2eec8c82acf8de4803ae0d0ea3af6f0bc12052e49320ff7",
+      "git_sha": "75034389dcd2bfaf8d44495dc155b4ac2fe7098e",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/ORDERING_COMPATIBILITY_NOTE.json",
+      "checked_at_utc": "2026-11-09T15:26:33.300749+00:00"
+    },
+    {
+      "name": "PINNED_INCREMENT_CHAIN.json",
+      "bytes": 29099,
+      "sha256": "07a0dc841cc0494ab984bbc61aee4643ecf41456fe3bca242de214cf9f64bdb3",
+      "git_sha": "80b5649bb0de41a0ddac00703b80b4bb259c2952",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/PINNED_INCREMENT_CHAIN.json",
+      "checked_at_utc": "2026-11-09T15:26:37.223895+00:00"
+    },
+    {
+      "name": "PINNED_INCREMENT_CHAIN_CURRENT.json",
+      "bytes": 30586,
+      "sha256": "c390dd685469e658ab9b191cb34337aea115dd2f92a1edc5739d43fa76f458b4",
+      "git_sha": "89c975cf3ecd1fd30466401ae9cec1e3fecc75f5",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/PINNED_INCREMENT_CHAIN_CURRENT.json",
+      "checked_at_utc": "2026-11-09T15:26:37.075284+00:00"
+    },
+    {
+      "name": "PUSH_CURRENT.log",
+      "bytes": 83,
+      "sha256": "e7453c6dc500aaaa1021f84f9211ae0f9d8c309ea7dae88221bcde70770438f7",
+      "git_sha": "084537ea4be405f9127c80da098bd5f4b342db1e",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/PUSH_CURRENT.log",
+      "checked_at_utc": "2026-11-09T15:26:36.991490+00:00"
+    },
+    {
+      "name": "README.md",
+      "bytes": 1869,
+      "sha256": "78b7641d65f112c4aaaa0fc8c71df6eb8a3839d1d8ba684bd7789647613d0916",
+      "git_sha": "d05a20d0ba9763716614234f3262e4da3fe16404",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/README.md",
+      "checked_at_utc": "2026-11-09T15:26:37.069348+00:00"
+    },
+    {
+      "name": "REMOTE_HEADS_FINAL.txt",
+      "bytes": 141,
+      "sha256": "93cbcdb0a29aa9f62c761aa29818ffb2a5916a4b7007d9e88e73f0cf7626847e",
+      "git_sha": "4fac926c008f8daf11dea5d3f2529df92d154761",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/REMOTE_HEADS_FINAL.txt",
+      "checked_at_utc": "2026-11-09T15:26:41.536156+00:00"
+    },
+    {
+      "name": "REPRODUCE_CURRENT.sh",
+      "bytes": 1173,
+      "sha256": "e7e6a94f8fe26646e70b8fd7c7dbdbe709117fff8d4e63aee3c08db54bfdf55d",
+      "git_sha": "8739da797f77e47b5949cc0fa13d02c8e41a4ec3",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/REPRODUCE_CURRENT.sh",
+      "checked_at_utc": "2026-11-09T15:26:41.524115+00:00"
+    },
+    {
+      "name": "materialize_and_verify_increment_chain_retry.py",
+      "bytes": 7681,
+      "sha256": "f375ca40f173624bf58fae4d67d0ab622af5085edaddc4b05c26c7047d52e38d",
+      "git_sha": "654bde7a0ed85a8a4c98fdb6249c937049ca9043",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/materialize_and_verify_increment_chain_retry.py",
+      "checked_at_utc": "2026-11-09T15:26:41.599266+00:00"
+    },
+    {
+      "name": "materialize_historical_current.py",
+      "bytes": 5644,
+      "sha256": "9c34d5c66b817e98b401baf7fa85b335f84410197a5a14d84f9a586eb3c15cf6",
+      "git_sha": "6a374b4f53654d802b664714d7e4a66d21ac16c5",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/materialize_historical_current.py",
+      "checked_at_utc": "2026-11-09T15:26:41.565304+00:00"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "9310abc2fcb733f2b823a74b608c92bbf20b278c9013c93081bda290feb28e69",
+      "git_sha": "28ae233d7de888cef82cd204ac889630c4b9e6c4",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/night_backup_verification_evidence_20261109T151348Z.tar.xz.part000",
+      "checked_at_utc": "2026-11-09T15:26:45.372197+00:00"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "53267fa5f62a2535535a64092bc1514edce1166b8f9ca6ee3a17c5d6ce3bf68d",
+      "git_sha": "5782841e5b1153ca31140d28c31cefe922a4523d",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/night_backup_verification_evidence_20261109T151348Z.tar.xz.part001",
+      "checked_at_utc": "2026-11-09T15:26:45.223747+00:00"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "24432e1860a89dfb20e3d23e87f67097abae4f1ff9f101a88ed86418dbaf8b18",
+      "git_sha": "810b0807b4a526801525cee0d44ba449a11f55ee",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/night_backup_verification_evidence_20261109T151348Z.tar.xz.part002",
+      "checked_at_utc": "2026-11-09T15:26:45.235471+00:00"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "669990721582d19555cb83ea950805b6d444fb1c01bf3b77f423b59b3bb578df",
+      "git_sha": "5e6295a83c9f02b855e9a4e9a1f918c12082c4cb",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/night_backup_verification_evidence_20261109T151348Z.tar.xz.part003",
+      "checked_at_utc": "2026-11-09T15:26:45.212225+00:00"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "1a569481ce9d0c6ca105c18e8a2d4fc3f0c55bea51885ab1bf33b6cbc435fe14",
+      "git_sha": "d40bf2a9fd6f078a28f8a5f8fa09540377e7828c",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/night_backup_verification_evidence_20261109T151348Z.tar.xz.part004",
+      "checked_at_utc": "2026-11-09T15:26:49.107755+00:00"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "2080cfcf8eb8af638a4fb83b7f246c32b5d3bc53436f018bd281412d752afdea",
+      "git_sha": "753d6f87d73653e8d321ad747d1745fc47c71ad6",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/night_backup_verification_evidence_20261109T151348Z.tar.xz.part005",
+      "checked_at_utc": "2026-11-09T15:26:49.131526+00:00"
+    },
+    {
+      "name": "night_backup_verification_evidence_20261109T151348Z.tar.xz.part006",
+      "bytes": 144396,
+      "sha256": "b76f39d830205d9e8d0314cecea62ff95ebf0544c3011c5e5fe57636ef017384",
+      "git_sha": "ea5c8dc186632e6e1eff533dcc253331685991bb",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/night_backup_verification_evidence_20261109T151348Z.tar.xz.part006",
+      "checked_at_utc": "2026-11-09T15:26:49.007831+00:00"
+    },
+    {
+      "name": "prefetch_from_fresh_git.py",
+      "bytes": 3290,
+      "sha256": "509a65b81e8b8d318cbd1caa841fe08a857f9fd3e43dbabd817ab588a1710e4c",
+      "git_sha": "805cd1a06fb6094586dd38fd2d3066395a6d9d3b",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/6d89cac6f17b954f19d1921bb71622c3d716b032/battlegrounds-backup/pending/20261109-night-fresh-chain/prefetch_from_fresh_git.py",
+      "checked_at_utc": "2026-11-09T15:26:48.888736+00:00"
+    }
+  ],
+  "archive_sha256": "1154a1ca2836075de8a09ef2910a2ae26e43e37ce5234c76c593481dc42b7087",
+  "archive_bytes": 1644396,
+  "archive_members_verified": 30,
+  "all_remote_bytes_match_local_originals": true,
+  "source_increment_created": false,
+  "gameplay_validation_claimed": false
+}
