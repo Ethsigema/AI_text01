@@ -1,0 +1,74 @@
+{
+  "status": "PASS_THIS_EXACT_TITANIC_PROBE_ONLY",
+  "archive": "titanic_guardian_readonly_probe_20261109T232356Z.tar.xz",
+  "bytes": 171788,
+  "sha256": "b7ea490684bb5b9ef1db93f4ad0c8c5d0c46c8da431ac4e8007fe5c28ecc75ca",
+  "members_verified": 75,
+  "candidate_installation_deferred": true,
+  "remaining_reference_gaps": 345,
+  "source_tree_modified": false,
+  "archived_code_executed_in_backup": false,
+  "game_or_save_accepted": false,
+  "dependencies_reverified": false,
+  "cancelled_dependency_download_retried": false,
+  "excluded_path_findings": [],
+  "common_credential_signature_findings": [],
+  "publication": {
+    "commit": "9f14c011dc1946ba4a5a30ada4e3d63e84136f0c",
+    "folder": "battlegrounds-backup/pending/20261109-titanic-guardian-readonly-probe",
+    "branch": "battlegrounds-recovery-20261103",
+    "remote_head_verified": true,
+    "tree_check": {
+      "old_blobs_preserved": 3767,
+      "added_files": 7,
+      "old_changes": 0,
+      "force_push": false
+    },
+    "folder_url": "https://github.com/Ethsigema/AI_text01/tree/9f14c011dc1946ba4a5a30ada4e3d63e84136f0c/battlegrounds-backup/pending/20261109-titanic-guardian-readonly-probe"
+  },
+  "readback_files": [
+    {
+      "name": "MANIFEST.json",
+      "sha": "4a761954ffd43014b0df7f23aa030cb1e52f5704",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/9f14c011dc1946ba4a5a30ada4e3d63e84136f0c/battlegrounds-backup/pending/20261109-titanic-guardian-readonly-probe/MANIFEST.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "PRIVACY_AND_SCOPE.json",
+      "sha": "711118867dda582930c3025a6543dc7ab1398cde",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/9f14c011dc1946ba4a5a30ada4e3d63e84136f0c/battlegrounds-backup/pending/20261109-titanic-guardian-readonly-probe/PRIVACY_AND_SCOPE.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "README.md",
+      "sha": "9d1af5f75f187d2549a128d1013ec33c76ae551d",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/9f14c011dc1946ba4a5a30ada4e3d63e84136f0c/battlegrounds-backup/pending/20261109-titanic-guardian-readonly-probe/README.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "RECOVERY.md",
+      "sha": "8fb8f83503d9d321255afff7f8d2731a36d32006",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/9f14c011dc1946ba4a5a30ada4e3d63e84136f0c/battlegrounds-backup/pending/20261109-titanic-guardian-readonly-probe/RECOVERY.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha": "34ab3d1aeac37a77ec166df92b92ed5bfe8cb0c0",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/9f14c011dc1946ba4a5a30ada4e3d63e84136f0c/battlegrounds-backup/pending/20261109-titanic-guardian-readonly-probe/SHA256SUMS.txt",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "titanic_guardian_readonly_probe_20261109T232356Z.tar.xz",
+      "sha": "6b2b04d125f8ab9f6333919b91b8d568b777ffa5",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/9f14c011dc1946ba4a5a30ada4e3d63e84136f0c/battlegrounds-backup/pending/20261109-titanic-guardian-readonly-probe/titanic_guardian_readonly_probe_20261109T232356Z.tar.xz",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "verify_backup.py",
+      "sha": "be11dd260005e6f885b51ada245823a52d27440d",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/9f14c011dc1946ba4a5a30ada4e3d63e84136f0c/battlegrounds-backup/pending/20261109-titanic-guardian-readonly-probe/verify_backup.py",
+      "fresh_remote_readback": true
+    }
+  ],
+  "verification_scope": "Only this new exact probe archive. No old dependency or previously cancelled operation downloaded, retried or reverified."
+}
