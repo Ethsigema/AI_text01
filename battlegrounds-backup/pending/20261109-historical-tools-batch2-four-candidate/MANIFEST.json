@@ -1,0 +1,1220 @@
+{
+  "archive": "historical_tools_batch2_four_candidate_20261109.tar.xz",
+  "bytes": 1145088,
+  "sha256": "51263c49a09a0a735a417e147e4f64f0529be4d5fa12529807653da7187693eb",
+  "files": {
+    "historical_tools_batch2_four_candidate_20261109/BASE_MAP.json": {
+      "bytes": 4604605,
+      "sha256": "53da1c13fbebb6eb8c5672ad8828109720efdfab1a8a97b6792a6da3202e6080"
+    },
+    "historical_tools_batch2_four_candidate_20261109/BATCH_CONFIG.json": {
+      "bytes": 1088,
+      "sha256": "d6ce71bdef9bdf7ab3c970c05f60bafae751c7cab86bc609641f53d70980bdf0"
+    },
+    "historical_tools_batch2_four_candidate_20261109/CHANGES.json": {
+      "bytes": 1104,
+      "sha256": "8924a3b19bf43570106c0c370b12d35c5974f818dcb0ec728957eb33094f661a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/COMPILED_FIXTURES.json": {
+      "bytes": 193842,
+      "sha256": "07a65c23c0c739b748ec0b71d5918c10d0311ed119d17ecf64dfd04d196979d5"
+    },
+    "historical_tools_batch2_four_candidate_20261109/COMPILER_TESTS.json": {
+      "bytes": 22043,
+      "sha256": "dfa2b1505d6a30af6fef2f9427be6e648eb1833b15e8169864d518a4098f06b6"
+    },
+    "historical_tools_batch2_four_candidate_20261109/DEFERRED_SINSTONE_REVIEW.json": {
+      "bytes": 1199,
+      "sha256": "aa3a90b9c6158a1776128eaebd45fd96df1d8fd2496a50cc8bb786da2053d61a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/DEPENDENCY_REVIEW.json": {
+      "bytes": 3698,
+      "sha256": "adef4e3064673fc50cb1d8d681119aabe4b9882034b53b89e67833b82435f3cf"
+    },
+    "historical_tools_batch2_four_candidate_20261109/PACKAGE_MANIFEST.json": {
+      "bytes": 50119,
+      "sha256": "1e512b941baf17fe64e4eece7b1e1f99db23ada297ca8445e8aa377163b2ca0b"
+    },
+    "historical_tools_batch2_four_candidate_20261109/PLAN.json": {
+      "bytes": 647,
+      "sha256": "e53a10881fd8b8eaca2f341fbf675fc665390050773e92627cdffbbdb6a1f639"
+    },
+    "historical_tools_batch2_four_candidate_20261109/PORTABILITY.json": {
+      "bytes": 578,
+      "sha256": "45d402f6bf42ae5f5971f2f095e996d74c11562ff28c25644550e122d42300ad"
+    },
+    "historical_tools_batch2_four_candidate_20261109/PROVENANCE.json": {
+      "bytes": 8446,
+      "sha256": "6554c7417c53e0529d83c51bb9d783c51af4dd04e6ac1a660e0a38c1d5e78824"
+    },
+    "historical_tools_batch2_four_candidate_20261109/README.md": {
+      "bytes": 6273,
+      "sha256": "16f3035976ba4081c6591706669bd62f2ade349bdd1a7a1d740102c81ac7e0f4"
+    },
+    "historical_tools_batch2_four_candidate_20261109/REMAINING_SCOPE.json": {
+      "bytes": 596,
+      "sha256": "0342c7b00400350447e804835f6f5ab77d5c15681d2360a96ca596d51a36888d"
+    },
+    "historical_tools_batch2_four_candidate_20261109/REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "historical_tools_batch2_four_candidate_20261109/RESULT.json": {
+      "bytes": 6120,
+      "sha256": "32276938bfbd631dd5d7618c4d899554b77673bae494c79953f86487a6fedb6a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/SOURCE.patch": {
+      "bytes": 132692,
+      "sha256": "ba17f3a30a2e2667d8e11d3500bec263aa4e4b0839c125d1692b753aba980428"
+    },
+    "historical_tools_batch2_four_candidate_20261109/SOURCE_MAP.json": {
+      "bytes": 4605186,
+      "sha256": "3581d683af1a208f00c3dd853e268d799abc5e2811847954a339cad2a68434ea"
+    },
+    "historical_tools_batch2_four_candidate_20261109/STATIC_AND_CROSS_CHECKS.json": {
+      "bytes": 7216,
+      "sha256": "7d22c962a83de6ad78c70aaef15c4b4cd23033c9db8ea041687cb12186599f22"
+    },
+    "historical_tools_batch2_four_candidate_20261109/after/LAUNCH.json": {
+      "bytes": 1344,
+      "sha256": "a18a7b50bc189b05b84d24e308b679ec217621f15628abdf06a07bd796a409ac"
+    },
+    "historical_tools_batch2_four_candidate_20261109/after/PROCESS.json": {
+      "bytes": 1525,
+      "sha256": "5dedb88693aca3050b6a061be85683b629b2dca575f775f0e38b15b0a207bac9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/after/gate_executed.gd": {
+      "bytes": 5061,
+      "sha256": "2da903bd98ce4b891ea58702eb35b468ec496c7ed12342946fa0ac4145ba8d78"
+    },
+    "historical_tools_batch2_four_candidate_20261109/after/native.log": {
+      "bytes": 130,
+      "sha256": "0373b10597e79429d24af2a82e2475b25ef95adbf5504205900d133124dae9ee"
+    },
+    "historical_tools_batch2_four_candidate_20261109/after/report.json": {
+      "bytes": 32458,
+      "sha256": "9e2363401fe408e6e6e747b53ca54e2f678e4c700671de38773091cbf216df99"
+    },
+    "historical_tools_batch2_four_candidate_20261109/after/samples.jsonl": {
+      "bytes": 23925,
+      "sha256": "2879c689c219d26879413faac5b6ee2f6c4ef5395bf4f089ef266571769a8531"
+    },
+    "historical_tools_batch2_four_candidate_20261109/after_INPUT_MAP.json": {
+      "bytes": 11940,
+      "sha256": "c3ce6640155e869d694b327499db6cfb638d13e0ad4505d33db60743c599623b"
+    },
+    "historical_tools_batch2_four_candidate_20261109/before/LAUNCH.json": {
+      "bytes": 1346,
+      "sha256": "965f6f8b92ea015a994c0e52721cffc14ae4fa9482a244be2c08010b7741fe3e"
+    },
+    "historical_tools_batch2_four_candidate_20261109/before/PROCESS.json": {
+      "bytes": 1527,
+      "sha256": "74af145027f421cbedc6e3fbffb061c95aa69bcc8252a8989aa783e0599596f4"
+    },
+    "historical_tools_batch2_four_candidate_20261109/before/gate_executed.gd": {
+      "bytes": 5061,
+      "sha256": "2da903bd98ce4b891ea58702eb35b468ec496c7ed12342946fa0ac4145ba8d78"
+    },
+    "historical_tools_batch2_four_candidate_20261109/before/native.log": {
+      "bytes": 131,
+      "sha256": "e2ef6351640ec64e54e80f6c85dd8d6c711c72b7831926323e8e8cd81f0b9866"
+    },
+    "historical_tools_batch2_four_candidate_20261109/before/report.json": {
+      "bytes": 32455,
+      "sha256": "8aba2e5c8e09f02c0bdaa6aa04946c28e8a1fd83b3bb764b6dd3e73ea9b78f92"
+    },
+    "historical_tools_batch2_four_candidate_20261109/before/samples.jsonl": {
+      "bytes": 31943,
+      "sha256": "2bf7d18686094c54e5c0dcfbd01d6e96c4a2066ab8665c3dbfd712e0ad90f30a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/before_INPUT_MAP.json": {
+      "bytes": 11359,
+      "sha256": "bf4d8e99c955434512a7e81935b4750e65f70658dc62aca3b11dd4ba99ea9275"
+    },
+    "historical_tools_batch2_four_candidate_20261109/build.py": {
+      "bytes": 7448,
+      "sha256": "67408747bb22b0ed38403b3ec354f167cbc67fd55be5747646dca83616feded4"
+    },
+    "historical_tools_batch2_four_candidate_20261109/delta/tools/lovely_locket_patterns.py": {
+      "bytes": 49055,
+      "sha256": "096ef062da3ce6380468d19cebe155258a9f78fb7d4127cc4b6ca7c9c8977f24"
+    },
+    "historical_tools_batch2_four_candidate_20261109/delta/tools/old_soul_patterns.py": {
+      "bytes": 15521,
+      "sha256": "b0d3a90388112f9669ca8191004f86c6908fdf67ec8896b655560877f41b70a1"
+    },
+    "historical_tools_batch2_four_candidate_20261109/delta/tools/replica_cathedral_patterns.py": {
+      "bytes": 48625,
+      "sha256": "2b9f4b6d5c471c6f5bb7ec1b1e675040cee0fe644e4fe4eb64ef6dc53826e703"
+    },
+    "historical_tools_batch2_four_candidate_20261109/delta/tools/warband_whistle_patterns.py": {
+      "bytes": 19114,
+      "sha256": "6ce217d3de494483dd42c1375d71412575ac50a3803c7472ebda21ef31739df8"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/CATALOG_CONSUMER_EXCERPTS.json": {
+      "bytes": 1116,
+      "sha256": "93302c71dcaaa7df8eefad2bf53be9772fac1b533678a837eb01f047a4f1e223"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/FINAL_REMOTE_PUBLICATION_RECEIPT.json": {
+      "bytes": 590,
+      "sha256": "ec26e08712bc50ea5a6a8b6289fa77277f3911985cd682ee0c29f463f7ec0cca"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/FINAL_REMOTE_READBACK.json": {
+      "bytes": 1896,
+      "sha256": "49b015dc3107c88fa3b95ca626f463df4b2fa25ca05658f5f23a288dd230748e"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/PRIOR_367_SUMMARY.json": {
+      "bytes": 1854,
+      "sha256": "0a285cda908b317b3b2fa0e6018750ce5f24326e51611a4bf25986f0393533c4"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/SELECTED_PRIOR_INVENTORY.json": {
+      "bytes": 14805,
+      "sha256": "9bc556f412ebb4e003b386d1362adc7305ea54069d8bedbe08726483718c59fb"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/BATCH_CONFIG.json": {
+      "bytes": 1337,
+      "sha256": "1efe84873d99c8768b7810993c6980a35854688b750643e14627809cd2a2f802"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/COMPILED_FIXTURES.json": {
+      "bytes": 256248,
+      "sha256": "fbd61e36aa7cd89c96cdb8730b8ca175565297a4dfe0cd86530b91116a19aade"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/COMPILER_TESTS.json": {
+      "bytes": 27950,
+      "sha256": "9182abb4937f975e73a2bfb776068dd56168b8dd6660c63e77e096aa1f77a648"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/PLAN.json": {
+      "bytes": 647,
+      "sha256": "6e9832df3b092deaba2769d6537388803f78dd80006bf011fef5157d817ff299"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/PROVENANCE.json": {
+      "bytes": 10548,
+      "sha256": "23e30e4d78bf82b0b7bb383c33171e85aa32b307323e019513dcfc61e02d2f89"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/after/LAUNCH.json": {
+      "bytes": 1334,
+      "sha256": "3af1aa616e310d179a0a6813dd6f09c44655d86406acb5c5b0c75f56ac81dbc8"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/after/PROCESS.json": {
+      "bytes": 1515,
+      "sha256": "2d39eb47833a51f14bf40430602e6403f2dbeb86aed424fd07ed052d8bdbae78"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/after/gate_executed.gd": {
+      "bytes": 5061,
+      "sha256": "2da903bd98ce4b891ea58702eb35b468ec496c7ed12342946fa0ac4145ba8d78"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/after/native.log": {
+      "bytes": 95,
+      "sha256": "ff8a0c96caa07b19fbd39b29cbb25a9559a62d5cacba2086670ff76e752e5005"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/after/report.json": {
+      "bytes": 42630,
+      "sha256": "f1c23212deb19c1ae713d93b9a9be2a8af1c9cf50b4c7cc84d1a98b8d3ff9b4c"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/after/samples.jsonl": {
+      "bytes": 24141,
+      "sha256": "2a24f77460598cbdbecfab079355880bb076580b16c5ff56ef1af838e07ade9f"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/after_INPUT_MAP.json": {
+      "bytes": 15210,
+      "sha256": "3cfd6fafddf156c35c1107ec433d3ccea5b25b66b6c82fb2740dc4de79e34d2f"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/before/LAUNCH.json": {
+      "bytes": 1336,
+      "sha256": "6230a7a85b64c7903b749c5a3c496e1128e24e03c43bbbd05eac57eb41d6c707"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/before/PROCESS.json": {
+      "bytes": 1517,
+      "sha256": "62094400c236870147d4f8737d8860188aa6523bbf747ae7add8a67b922c26f0"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/before/gate_executed.gd": {
+      "bytes": 5061,
+      "sha256": "2da903bd98ce4b891ea58702eb35b468ec496c7ed12342946fa0ac4145ba8d78"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/before/native.log": {
+      "bytes": 96,
+      "sha256": "37a56bce8b27553f078c39a77a2962b6fb64bb50eb66e1ad4e00aa3bcbd437d9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/before/report.json": {
+      "bytes": 42626,
+      "sha256": "ddae0d765cf6ba9b60fc3b19fa53711b3c0e4c22e9e8b903e3028f92eb413d92"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/before/samples.jsonl": {
+      "bytes": 27643,
+      "sha256": "33807af4d247caa796ee99e1e665c90830bc6a09d4d68f7b52fe8f7451802c68"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/before_INPUT_MAP.json": {
+      "bytes": 14481,
+      "sha256": "c1a09dbf6ef6c3e4e42e1b57581c86f8dc1e6b1f17ca3614edd829d09a31d33e"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/build.py": {
+      "bytes": 7467,
+      "sha256": "39dc8166062bdbb37ee50ab6794332a6e73c3dc49ead1f582ac88f1e43129d56"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/build_initial_consumer_match.py": {
+      "bytes": 7438,
+      "sha256": "b1959c04a60ab1bf3c76c8745c4b806a0a187363691076f023cee77e07a45bb0"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/delta/tools/lovely_locket_patterns.py": {
+      "bytes": 49055,
+      "sha256": "096ef062da3ce6380468d19cebe155258a9f78fb7d4127cc4b6ca7c9c8977f24"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/delta/tools/old_soul_patterns.py": {
+      "bytes": 15521,
+      "sha256": "b0d3a90388112f9669ca8191004f86c6908fdf67ec8896b655560877f41b70a1"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/delta/tools/replica_cathedral_patterns.py": {
+      "bytes": 48625,
+      "sha256": "2b9f4b6d5c471c6f5bb7ec1b1e675040cee0fe644e4fe4eb64ef6dc53826e703"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/delta/tools/sinstone_sticker_patterns.py": {
+      "bytes": 41526,
+      "sha256": "fffafc101ab72e11325e4ab8bbd1fac2352d8de49a834e8f7fb18cbeacaa2849"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/delta/tools/warband_whistle_patterns.py": {
+      "bytes": 19114,
+      "sha256": "6ce217d3de494483dd42c1375d71412575ac50a3803c7472ebda21ef31739df8"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/gate.gd": {
+      "bytes": 5061,
+      "sha256": "2da903bd98ce4b891ea58702eb35b468ec496c7ed12342946fa0ac4145ba8d78"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/prepare_probes.py": {
+      "bytes": 1021,
+      "sha256": "820eaa63f71d86d99f89626fb512a8cd8c391522f91f38bfa8d97d50e55e0b8c"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/batch_config.json": {
+      "bytes": 1337,
+      "sha256": "1efe84873d99c8768b7810993c6980a35854688b750643e14627809cd2a2f802"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/compiled_fixtures.json": {
+      "bytes": 256248,
+      "sha256": "fbd61e36aa7cd89c96cdb8730b8ca175565297a4dfe0cd86530b91116a19aade"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/core/lovely_locket_host.gd": {
+      "bytes": 29297,
+      "sha256": "fa24d79914378fef2780c0e0dc67523f4ea66d111cbe3b69fa814c651417e760"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/core/lovely_locket_sources.gd": {
+      "bytes": 58610,
+      "sha256": "a1e2ce95085f3cae6230d1979dcb3bbb09a5c262109c688c462deb97543a8050"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/core/old_soul_host.gd": {
+      "bytes": 14776,
+      "sha256": "e070d01281e28f92e61429d7b22607dfae6b31c7fef5aa9c547df9b7602f531a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/core/old_soul_sources.gd": {
+      "bytes": 22414,
+      "sha256": "d2511703bc538cd95fd2a562049beee8b19bf2f444b00c7e79445bed2a20c7c2"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/core/phase_undead_army_sources.gd": {
+      "bytes": 17176,
+      "sha256": "69cf2c15d954e082fd37e2b01d37347d1a515aa00d9a43514b5509f5ee9e2af7"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/core/pool_identity.gd": {
+      "bytes": 2004,
+      "sha256": "cf9388a9288d0f3684be277fa91ca6845b6d8945fdd7cd065e9d499c06b7b4af"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/core/replica_cathedral_host.gd": {
+      "bytes": 31443,
+      "sha256": "589d169de71d03c405a94ad1794cd584ec7118b70049dff9d66ed02711b8b91e"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/core/replica_cathedral_sources.gd": {
+      "bytes": 60074,
+      "sha256": "2cd976f5d77ecafb19ff1df149c10fb4a99efcc59de5e313470f5cd89f854ca1"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/core/sinstone_sticker_host.gd": {
+      "bytes": 20969,
+      "sha256": "c7f8177faba2ce2f026e471445d88a8f6cf3f64b36e82317b13457ad4bb7762c"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/core/sinstone_sticker_sources.gd": {
+      "bytes": 54615,
+      "sha256": "78ba7c661d5021a93602df8035f2ad90086d6413413f35fd38f929f5c39daac6"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/core/warband_whistle_host.gd": {
+      "bytes": 15085,
+      "sha256": "90147461a9d02abe50920b5b8812af974835f0befbe85d68c9cdea4f509bf11e"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/core/warband_whistle_sources.gd": {
+      "bytes": 30058,
+      "sha256": "11ebe877d5caf4e95ee8558a1b5aa8e1289324390d950f00630962c66e02fa60"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/project.godot": {
+      "bytes": 134,
+      "sha256": "584ff20296267275c79f09add5d232f6a490515c9e87f2df42f0242f2371e029"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/dependency_compiled.json": {
+      "bytes": 3243,
+      "sha256": "fb741c0b9099f3f450d7b453113bd0398fb60baca6e40e8b7d7740c8ca30db29"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/dependency_raw.json": {
+      "bytes": 50237,
+      "sha256": "220ef3f11a34b475375585d32907cfbf6ce4416f2dc9563e0f0b3da22107b67f"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/expected_compiled.json": {
+      "bytes": 2072,
+      "sha256": "b6be827cfafa47ea0211fd49c8fd8533558393fd73209036ccfb83575da7703d"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/native/BG23_000.xml": {
+      "bytes": 3019,
+      "sha256": "6a5365478d6a4cf088c3d5f38a669d78b4207da8a96a57ce4ff3c2b56baee179"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/native/BG23_000_G.xml": {
+      "bytes": 2936,
+      "sha256": "38207976b916e4714627c8176156de7961b58bdf1cce61c8c569fe62c74233eb"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/native/BG23_000_Gt.xml": {
+      "bytes": 2124,
+      "sha256": "0db302a9ea81f25936278ab69c4498f04a1839a9eb589677603d8a5376ea515a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/native/BG23_000t.xml": {
+      "bytes": 2066,
+      "sha256": "8b198f000fdecec65a2ed9d797515c30338fc38b1cef2ccc787a86854409efff"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/native/BG23_010.xml": {
+      "bytes": 2310,
+      "sha256": "6225f4ac412b3717f8219b6e6ccf605e6de5d8863bf6c36a6c058ec0b6f5ac34"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/native/BG23_010_G.xml": {
+      "bytes": 2298,
+      "sha256": "e6c7e6cb132c9d3fba8bde8ca80eb520995695b8ab458c0efc473e928f81b2ce"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/native/BG28_897.xml": {
+      "bytes": 2738,
+      "sha256": "a58d0c64165dc3e1f27143164bcf590c606b320e769954c73d52c202d06e6b88"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/native/BG36_MagicItem_211.xml": {
+      "bytes": 3182,
+      "sha256": "fd6700af0bf4741009e261bc8766351af2b8b4845fe04e373ddda9f121a44ed9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/native_quantities.json": {
+      "bytes": 6258,
+      "sha256": "0f6ecca4b7b0869aa11b4277f150ab8668fe236a81b3e3757a02a6ee982aeca7"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/native_source_manifest.json": {
+      "bytes": 730,
+      "sha256": "df0238fd1f7974f05fbc6f9d5656181372480e422ee8a219804dbd6a44fc570f"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/pending_catalog_overlay.json": {
+      "bytes": 2115,
+      "sha256": "5bbc57f583682e2e87abda1ac655253e960655626a043801978960c865f488c9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/programs.json": {
+      "bytes": 259,
+      "sha256": "8e295aff6fb8bf42747b5d1a8446c42386c60f8faae4baf9e5d2142d12853693"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/raw_rows.json": {
+      "bytes": 6963,
+      "sha256": "31d60c78ea4ecad41aa56a121cd365964d4b87d3fcfe3bf7cac2963be76e1541"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/lovely_locket_native_recovery/selection.json": {
+      "bytes": 383,
+      "sha256": "5e883554c325234608b8a100b57448ac8b10361815c5bdc7e640b194e91d2eb9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/old_soul_native_recovery/expected_compiled.json": {
+      "bytes": 3116,
+      "sha256": "9e4e6c75f53ec642142e0c480d03483175e1a0846ae04beb39c992ceab245ee1"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/old_soul_native_recovery/native/BG34_231.xml": {
+      "bytes": 3827,
+      "sha256": "47a9f9fed962493920f4771a6c181cd3d459c3e701d295ecec4c552abfc64305"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/old_soul_native_recovery/native/BG34_231_G.xml": {
+      "bytes": 3680,
+      "sha256": "6a42fc5164503e618f9216608d8b1f35b0a0f3d979b56842ffbe501f7a864488"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/old_soul_native_recovery/native_quantities.json": {
+      "bytes": 1633,
+      "sha256": "b3ed298216cea2d59702dd039c6390a12afca1fd3d230a4dee0e7476684e989a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/old_soul_native_recovery/native_source_manifest.json": {
+      "bytes": 1970,
+      "sha256": "ce62a9c84f42d714d02b8da104141bc7c93f986ccdff8b573a384302f0959559"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/old_soul_native_recovery/pending_catalog_overlay.json": {
+      "bytes": 3199,
+      "sha256": "65e850c7fb12dbe5a01154c37eb180c39c08e3884ee8e6f7efb078361fd833d0"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/old_soul_native_recovery/programs.json": {
+      "bytes": 392,
+      "sha256": "4094ea8042d61c9114a9dd1942ff6e0a5990b82949d17b78df41f9d90740c7ae"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/old_soul_native_recovery/raw_rows.json": {
+      "bytes": 14060,
+      "sha256": "b309fa99c2f9b2660c0fed6070a0a96c004ee1ceeafae57b5289f48d8df689f7"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/dependency_compiled.json": {
+      "bytes": 3243,
+      "sha256": "fb741c0b9099f3f450d7b453113bd0398fb60baca6e40e8b7d7740c8ca30db29"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/dependency_raw.json": {
+      "bytes": 50237,
+      "sha256": "220ef3f11a34b475375585d32907cfbf6ce4416f2dc9563e0f0b3da22107b67f"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/expected_compiled.json": {
+      "bytes": 1774,
+      "sha256": "ea4cd2f19d30927d9400f1c4b94afa800a071129c1600fd53e0414ecf0be8b02"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/native/BG23_000.xml": {
+      "bytes": 3019,
+      "sha256": "6a5365478d6a4cf088c3d5f38a669d78b4207da8a96a57ce4ff3c2b56baee179"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/native/BG23_000_G.xml": {
+      "bytes": 2936,
+      "sha256": "38207976b916e4714627c8176156de7961b58bdf1cce61c8c569fe62c74233eb"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/native/BG23_000_Gt.xml": {
+      "bytes": 2124,
+      "sha256": "0db302a9ea81f25936278ab69c4498f04a1839a9eb589677603d8a5376ea515a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/native/BG23_000t.xml": {
+      "bytes": 2066,
+      "sha256": "8b198f000fdecec65a2ed9d797515c30338fc38b1cef2ccc787a86854409efff"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/native/BG23_010.xml": {
+      "bytes": 2310,
+      "sha256": "6225f4ac412b3717f8219b6e6ccf605e6de5d8863bf6c36a6c058ec0b6f5ac34"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/native/BG23_010_G.xml": {
+      "bytes": 2298,
+      "sha256": "e6c7e6cb132c9d3fba8bde8ca80eb520995695b8ab458c0efc473e928f81b2ce"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/native/BG28_897.xml": {
+      "bytes": 2738,
+      "sha256": "a58d0c64165dc3e1f27143164bcf590c606b320e769954c73d52c202d06e6b88"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/native/BG30_MagicItem_434.xml": {
+      "bytes": 2699,
+      "sha256": "433346aef51e87a3505d3b95ba835b7e90577f00a48bdb5dd9577298b41d0632"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/native_quantities.json": {
+      "bytes": 6206,
+      "sha256": "014b039bfd93fd46cbdc3d256ca545b514c227cf6ea461dacfbb51560709a5cb"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/native_source_manifest.json": {
+      "bytes": 607,
+      "sha256": "662cdcec754b404a6c0cb89deba1421f25a5c3736b1a1e24807d8d39c6ea5bfa"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/pending_catalog_overlay.json": {
+      "bytes": 1817,
+      "sha256": "919c99a96b45f6f01fd697120e9d6b22bde3e339d877cc56937605e7bc0e0d6c"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/programs.json": {
+      "bytes": 236,
+      "sha256": "2420ae9e75499a6dac48b43a0b383e6cb384a26294d2924dae7d0d92058b768d"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/raw_rows.json": {
+      "bytes": 6831,
+      "sha256": "fd8588499af4205b6b5b1e0f9726bbe9366c2fa0dde6be27cb806dcc362f38dd"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/replica_cathedral_native_recovery/selection.json": {
+      "bytes": 310,
+      "sha256": "5a3b1da33a1b15a5f3e1f7f2724a0a91a3d5dc9db4cb1d5b56292caea405febd"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/dependency_compiled.json": {
+      "bytes": 2991,
+      "sha256": "4b1dfdda6f9eced745fbe81238423829b7f6cceaefe5850d7f7f601ba33379a7"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/dependency_raw.json": {
+      "bytes": 40616,
+      "sha256": "10ff053f3fafbde66132fca6d30c6c989c3dbd4a7690ab549289cb1e79e00cad"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/expected_compiled.json": {
+      "bytes": 2384,
+      "sha256": "09beeb976f67aa25da9eaa877e7b55f2d6052bbbd23a575dae5a43f4f470abfc"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/native/BG30_MagicItem_801.xml": {
+      "bytes": 4214,
+      "sha256": "6df6fcb3e7430ccd5500237c1d4091d324e89d056fe08612d2cfa52b9e3fc47c"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/native/BG_EX1_534.xml": {
+      "bytes": 4168,
+      "sha256": "2abd917664897ff381db0fbcc5201743de7e85863b360121477d9697f8455dc4"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/native/BG_EX1_534t.xml": {
+      "bytes": 1240,
+      "sha256": "774d5728d1707164fe48a47dd4105a838db9baa3da49ea81f1f68bb5457e31aa"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/native/BG_GVG_048.xml": {
+      "bytes": 5042,
+      "sha256": "4fb7ad968090deb6110b6606814f34f24b2cfaaeefa47668af5820c807a0dff5"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/native/TB_BaconUps_049.xml": {
+      "bytes": 2658,
+      "sha256": "1052a1d70380d5cc5e65013e333901cb3b69a0f1bee26ca9a529c1c80ac3c8f1"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/native/TB_BaconUps_049t.xml": {
+      "bytes": 1226,
+      "sha256": "1ebfb4ea09885ae54208c00b84476732359840ce5a1b53cb447207b98973eb9c"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/native/TB_BaconUps_066.xml": {
+      "bytes": 2945,
+      "sha256": "df14b6eff43378bb9519567bb0fbbc513608bffe6c3afaddaad56a7974c76db4"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/native_quantities.json": {
+      "bytes": 4737,
+      "sha256": "97d95295921e80717707e0aaaf6a9aa7560d64ca8dda2b85d2226f1df6c480e0"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/native_source_manifest.json": {
+      "bytes": 1757,
+      "sha256": "7dc9a91a37500a18369b964c9dded7efbdd76101b335b7b0b159832131d567e7"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/pending_catalog_overlay.json": {
+      "bytes": 2427,
+      "sha256": "708cd54a67ba32f6ffdab4feff6584e7d12634f07ca1e72983191579ddfa7649"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/programs.json": {
+      "bytes": 250,
+      "sha256": "3953df03c26feca306c9ade78eb91d78f33b940c0a4a49a5936ea7e2cac9a7e0"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/raw_rows.json": {
+      "bytes": 7395,
+      "sha256": "76d52b2b5e885768a5e2682bc52a49e3eeaae8c83587ecd6083e6e8b723600e4"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/sinstone_sticker_native_recovery/selection.json": {
+      "bytes": 664,
+      "sha256": "bea366bc66cf541c1210806d1f4f6975a7ef6b531cb827ede5f0e360094ff2f1"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/dependency_compiled.json": {
+      "bytes": 689,
+      "sha256": "6f489722001bc9c927f24821bf07f91cbdbdbba2e1509ce00742024f998b3b16"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/dependency_raw.json": {
+      "bytes": 13578,
+      "sha256": "471d62f1a07967286ad14b0e5a1a0b9d7efefa0a50216f1a0035a4bf1a9397a2"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/expected_compiled.json": {
+      "bytes": 1886,
+      "sha256": "d766867be0a53068bc72a39a5862e73e19a20ce6cf3fc6a1f73dffbb30bb2299"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/native/BG35_MagicItem_930.xml": {
+      "bytes": 3318,
+      "sha256": "bf83d11a61b816b3c418f9fafe69630e604914d6ab4156bcd3bd14bc4e0e41af"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/native/BG_GVG_085.xml": {
+      "bytes": 5211,
+      "sha256": "bf79899afc9493abcadd16b2048ddceb07fbe1fff8c7a08fb0c06999a8dcf057"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/native/BG_GVG_085_G.xml": {
+      "bytes": 5199,
+      "sha256": "7270a91a5133a54155ec99deb2cb15f243576807c0966a68292a1a79c72aba6c"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/native_quantities.json": {
+      "bytes": 3274,
+      "sha256": "ad0eb0d64cacfdadaca9efc68ed7f2da23d66cf58d89619ec03e230b4d0315ab"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/native_source_manifest.json": {
+      "bytes": 400,
+      "sha256": "aefe66cf18e55a02eb0c9570438d63815834e97b21ce335d92f2ba9969c87bc0"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/pending_catalog_overlay.json": {
+      "bytes": 1927,
+      "sha256": "d2469c0f4c4f25b65cbfbd4ac5921d793d59263da580b91b8623b34a7d68f573"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/programs.json": {
+      "bytes": 248,
+      "sha256": "a84a806f08ee8d5bf27e49981af5f762b3fd1a326ca4e97cf96229bbcbe310c9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/raw_rows.json": {
+      "bytes": 6915,
+      "sha256": "08e1d7599b83621c3b77a74c688a92bef2477a71687a959a1703cac524e43626"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/refresh_policy.json": {
+      "bytes": 869,
+      "sha256": "9dbd725b81869cf8858e738af0b485819e8cd7eca0c3f632c3b705b4324ab178"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/probe_inputs/research/warband_whistle_native_recovery/selection.json": {
+      "bytes": 403,
+      "sha256": "c65a33a6149bb3b91f0b1d1f210dec3f974b67093bcbc364547a5fe651d5caf6"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/run.py": {
+      "bytes": 3929,
+      "sha256": "d9e8edd6f7e0f9184adf446670f1fae8c3118f06afa7bcb69aa56eb216731cb9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/tamper/LAUNCH.json": {
+      "bytes": 1336,
+      "sha256": "a9e759acd735c1e7f19548cea562fd8c6168e687a9eb3bfc0f5f92a3f0596150"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/tamper/PROCESS.json": {
+      "bytes": 1517,
+      "sha256": "ff6d6601df3125c2a2e5b4ef25620654ad57e9626fbab276ca1433ee69b18ae2"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/tamper/gate_executed.gd": {
+      "bytes": 5061,
+      "sha256": "2da903bd98ce4b891ea58702eb35b468ec496c7ed12342946fa0ac4145ba8d78"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/tamper/native.log": {
+      "bytes": 96,
+      "sha256": "b8b44aadc628f638736c9845b915ce54736e7bedb59a478f1c0e52a191ef6855"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/tamper/report.json": {
+      "bytes": 42636,
+      "sha256": "dffbed66ed03689f650c6d11a636d8842ee4e13c2b60d2d59a6ef131693cc57b"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/tamper/samples.jsonl": {
+      "bytes": 28659,
+      "sha256": "89ad01f9c8217f63b02cf2e4e044ae9b57c2702b80162397d1724b51a90c234c"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/tamper_INPUT_MAP.json": {
+      "bytes": 15210,
+      "sha256": "dd9632a909a1da8d1e464f1b38a82048ae730b3ceec7b654dadba798bc2fee09"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/deferred_sinstone_trial/test_compilers.py": {
+      "bytes": 5256,
+      "sha256": "4e2837ae1cdecec4ec03a15f524d1209013edfce7a10921d71febf22543381b0"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/lovely_locket_native_recovery/FROZEN.json": {
+      "bytes": 1269,
+      "sha256": "11ebba6a79d56b10d0132f68d5220019dc5ebe57b42a6a59f7a17d1d9248064f"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/lovely_locket_native_recovery/candidates/tools/lovely_locket_patterns.py": {
+      "bytes": 49055,
+      "sha256": "096ef062da3ce6380468d19cebe155258a9f78fb7d4127cc4b6ca7c9c8977f24"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/lovely_locket_native_recovery/integration_manifest.json": {
+      "bytes": 6486,
+      "sha256": "3baa2a290bd7e528a8348075b55ac1afcb7a50ff95de0f90bf63805943dec72e"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/lovely_locket_native_recovery/shared_manifest.json": {
+      "bytes": 10272,
+      "sha256": "c22356fcbe8ea5697028b70eb97dfdf838e76f5b9f0135c8086be60d1dd29a6b"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/old_soul_native_recovery/candidates/tools/old_soul_patterns.py": {
+      "bytes": 15521,
+      "sha256": "b0d3a90388112f9669ca8191004f86c6908fdf67ec8896b655560877f41b70a1"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/old_soul_native_recovery/integration_manifest.json": {
+      "bytes": 5699,
+      "sha256": "8ebe09f74ca22a2258fd4d43dc299c0e7f0ccbd70f8577336a983c93d5b1ad2b"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/old_soul_native_recovery/shared_manifest.json": {
+      "bytes": 8766,
+      "sha256": "31e12738954a8a40c264f2ad69737b26b14c0efb5f646c9cbdebd69b7bc40b61"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/replica_cathedral_native_recovery/FROZEN.json": {
+      "bytes": 1179,
+      "sha256": "d3dd4220504e2ca4aac8cc8ea826ad1358b111df27d435081771a86c1f8fd23d"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/replica_cathedral_native_recovery/candidates/tools/replica_cathedral_patterns.py": {
+      "bytes": 48625,
+      "sha256": "2b9f4b6d5c471c6f5bb7ec1b1e675040cee0fe644e4fe4eb64ef6dc53826e703"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/replica_cathedral_native_recovery/integration_manifest.json": {
+      "bytes": 7251,
+      "sha256": "12fedba34fe27851ff7e6bbdc05b35b795a9e13c25ae4671451ca854ccf86b21"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/replica_cathedral_native_recovery/shared_manifest.json": {
+      "bytes": 11636,
+      "sha256": "b8fdc87db27945e0901649d2c93ec5d4847907e454adb7c07a672901b53878ee"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/warband_whistle_native_recovery/FROZEN.json": {
+      "bytes": 1217,
+      "sha256": "415b1531bc5aa819ee3a44f1a56782a8fa91cf0c9e72b8331016f2b3c4c7cc86"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/warband_whistle_native_recovery/candidates/tools/warband_whistle_patterns.py": {
+      "bytes": 19114,
+      "sha256": "6ce217d3de494483dd42c1375d71412575ac50a3803c7472ebda21ef31739df8"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/warband_whistle_native_recovery/integration_manifest.json": {
+      "bytes": 5480,
+      "sha256": "6c3b99e0a87ed8daba044893c65fd760eba3a66bef9a3360a7d42fb302f93f67"
+    },
+    "historical_tools_batch2_four_candidate_20261109/evidence/historical/research/warband_whistle_native_recovery/shared_manifest.json": {
+      "bytes": 8680,
+      "sha256": "339ec6d56ca2572e65761a1b5ea550fab6f216a150ff80897bf0bc4ea6353e10"
+    },
+    "historical_tools_batch2_four_candidate_20261109/finalize.py": {
+      "bytes": 3087,
+      "sha256": "01d21d3693bebf77fe9d186660c1b4378a05307fb8d7e0232ad85b2470e2b3a9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/gate.gd": {
+      "bytes": 5061,
+      "sha256": "2da903bd98ce4b891ea58702eb35b468ec496c7ed12342946fa0ac4145ba8d78"
+    },
+    "historical_tools_batch2_four_candidate_20261109/package.py": {
+      "bytes": 2344,
+      "sha256": "f5ed597f3a3ce816d83c557e22798393654db32efff16bcc6d8537940e8e64ce"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/after/LAUNCH.json": {
+      "bytes": 1386,
+      "sha256": "e20e83d9e249f3561037b5e41602ed9b911feef4d87d9a8a86a150ebc7607dc3"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/after/PROCESS.json": {
+      "bytes": 1566,
+      "sha256": "b67a17ff1fbaaf3e0ff3093489bf02e53441cb5837096e21ce5c1dac20731ca1"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/after/gate_executed.gd": {
+      "bytes": 5061,
+      "sha256": "2da903bd98ce4b891ea58702eb35b468ec496c7ed12342946fa0ac4145ba8d78"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/after/native.log": {
+      "bytes": 130,
+      "sha256": "0373b10597e79429d24af2a82e2475b25ef95adbf5504205900d133124dae9ee"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/after/report.json": {
+      "bytes": 32458,
+      "sha256": "9e2363401fe408e6e6e747b53ca54e2f678e4c700671de38773091cbf216df99"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/after/samples.jsonl": {
+      "bytes": 27804,
+      "sha256": "633649a21c4b91ecedd9aa65d00a964cd74e170b2149988dfcb639c7e4d3432b"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/before/LAUNCH.json": {
+      "bytes": 1388,
+      "sha256": "f57b7bd23da19a9375dee39c5d1c8738155e61bf6e36c5e7e6b6aa3481aee84c"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/before/PROCESS.json": {
+      "bytes": 1569,
+      "sha256": "8036106fb9bf61eb3ec3c5b46dadb7c28feee539dc5f7df531defbe7eeb1c5b7"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/before/gate_executed.gd": {
+      "bytes": 5061,
+      "sha256": "2da903bd98ce4b891ea58702eb35b468ec496c7ed12342946fa0ac4145ba8d78"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/before/native.log": {
+      "bytes": 131,
+      "sha256": "e2ef6351640ec64e54e80f6c85dd8d6c711c72b7831926323e8e8cd81f0b9866"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/before/report.json": {
+      "bytes": 32455,
+      "sha256": "8aba2e5c8e09f02c0bdaa6aa04946c28e8a1fd83b3bb764b6dd3e73ea9b78f92"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/before/samples.jsonl": {
+      "bytes": 23072,
+      "sha256": "1af683b09f3daf0e52377b8cf85832bc134b04ec07779f84a54716cf1f7face9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/tamper/LAUNCH.json": {
+      "bytes": 1388,
+      "sha256": "3f161302620394d50b7214e3850caab37459bd6ae4f2cb5135f9a0c33a4338c5"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/tamper/PROCESS.json": {
+      "bytes": 1569,
+      "sha256": "feadef1a4d4c8e707d63390b5edde57e6d553e0f0621370e163f8996dd9a2015"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/tamper/gate_executed.gd": {
+      "bytes": 5061,
+      "sha256": "2da903bd98ce4b891ea58702eb35b468ec496c7ed12342946fa0ac4145ba8d78"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/tamper/native.log": {
+      "bytes": 131,
+      "sha256": "981b9253fc6f1defd1672c2e5d774eaa1e27347b2c3fcac120c24809a436bbfa"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/tamper/report.json": {
+      "bytes": 32463,
+      "sha256": "46ee629f7970021da0f4091e4afe1c1f31617312d670dd053e7fdb8632565d1b"
+    },
+    "historical_tools_batch2_four_candidate_20261109/portable_reports/tamper/samples.jsonl": {
+      "bytes": 22575,
+      "sha256": "3c78e5a6f2abf2cab12fd5d7c4e7c06a3405bb51eff98676289274a889042881"
+    },
+    "historical_tools_batch2_four_candidate_20261109/prepare_probes.py": {
+      "bytes": 1021,
+      "sha256": "820eaa63f71d86d99f89626fb512a8cd8c391522f91f38bfa8d97d50e55e0b8c"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/batch_config.json": {
+      "bytes": 1088,
+      "sha256": "d6ce71bdef9bdf7ab3c970c05f60bafae751c7cab86bc609641f53d70980bdf0"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/compiled_fixtures.json": {
+      "bytes": 193842,
+      "sha256": "07a65c23c0c739b748ec0b71d5918c10d0311ed119d17ecf64dfd04d196979d5"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/core/lovely_locket_host.gd": {
+      "bytes": 29297,
+      "sha256": "fa24d79914378fef2780c0e0dc67523f4ea66d111cbe3b69fa814c651417e760"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/core/lovely_locket_sources.gd": {
+      "bytes": 58610,
+      "sha256": "a1e2ce95085f3cae6230d1979dcb3bbb09a5c262109c688c462deb97543a8050"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/core/old_soul_host.gd": {
+      "bytes": 14776,
+      "sha256": "e070d01281e28f92e61429d7b22607dfae6b31c7fef5aa9c547df9b7602f531a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/core/old_soul_sources.gd": {
+      "bytes": 22414,
+      "sha256": "d2511703bc538cd95fd2a562049beee8b19bf2f444b00c7e79445bed2a20c7c2"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/core/phase_undead_army_sources.gd": {
+      "bytes": 17176,
+      "sha256": "69cf2c15d954e082fd37e2b01d37347d1a515aa00d9a43514b5509f5ee9e2af7"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/core/pool_identity.gd": {
+      "bytes": 2004,
+      "sha256": "cf9388a9288d0f3684be277fa91ca6845b6d8945fdd7cd065e9d499c06b7b4af"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/core/replica_cathedral_host.gd": {
+      "bytes": 31443,
+      "sha256": "589d169de71d03c405a94ad1794cd584ec7118b70049dff9d66ed02711b8b91e"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/core/replica_cathedral_sources.gd": {
+      "bytes": 60074,
+      "sha256": "2cd976f5d77ecafb19ff1df149c10fb4a99efcc59de5e313470f5cd89f854ca1"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/core/warband_whistle_host.gd": {
+      "bytes": 15085,
+      "sha256": "90147461a9d02abe50920b5b8812af974835f0befbe85d68c9cdea4f509bf11e"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/core/warband_whistle_sources.gd": {
+      "bytes": 30058,
+      "sha256": "11ebe877d5caf4e95ee8558a1b5aa8e1289324390d950f00630962c66e02fa60"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/project.godot": {
+      "bytes": 134,
+      "sha256": "584ff20296267275c79f09add5d232f6a490515c9e87f2df42f0242f2371e029"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/dependency_compiled.json": {
+      "bytes": 3243,
+      "sha256": "fb741c0b9099f3f450d7b453113bd0398fb60baca6e40e8b7d7740c8ca30db29"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/dependency_raw.json": {
+      "bytes": 50237,
+      "sha256": "220ef3f11a34b475375585d32907cfbf6ce4416f2dc9563e0f0b3da22107b67f"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/expected_compiled.json": {
+      "bytes": 2072,
+      "sha256": "b6be827cfafa47ea0211fd49c8fd8533558393fd73209036ccfb83575da7703d"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/native/BG23_000.xml": {
+      "bytes": 3019,
+      "sha256": "6a5365478d6a4cf088c3d5f38a669d78b4207da8a96a57ce4ff3c2b56baee179"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/native/BG23_000_G.xml": {
+      "bytes": 2936,
+      "sha256": "38207976b916e4714627c8176156de7961b58bdf1cce61c8c569fe62c74233eb"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/native/BG23_000_Gt.xml": {
+      "bytes": 2124,
+      "sha256": "0db302a9ea81f25936278ab69c4498f04a1839a9eb589677603d8a5376ea515a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/native/BG23_000t.xml": {
+      "bytes": 2066,
+      "sha256": "8b198f000fdecec65a2ed9d797515c30338fc38b1cef2ccc787a86854409efff"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/native/BG23_010.xml": {
+      "bytes": 2310,
+      "sha256": "6225f4ac412b3717f8219b6e6ccf605e6de5d8863bf6c36a6c058ec0b6f5ac34"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/native/BG23_010_G.xml": {
+      "bytes": 2298,
+      "sha256": "e6c7e6cb132c9d3fba8bde8ca80eb520995695b8ab458c0efc473e928f81b2ce"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/native/BG28_897.xml": {
+      "bytes": 2738,
+      "sha256": "a58d0c64165dc3e1f27143164bcf590c606b320e769954c73d52c202d06e6b88"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/native/BG36_MagicItem_211.xml": {
+      "bytes": 3182,
+      "sha256": "fd6700af0bf4741009e261bc8766351af2b8b4845fe04e373ddda9f121a44ed9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/native_quantities.json": {
+      "bytes": 6258,
+      "sha256": "0f6ecca4b7b0869aa11b4277f150ab8668fe236a81b3e3757a02a6ee982aeca7"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/native_source_manifest.json": {
+      "bytes": 730,
+      "sha256": "df0238fd1f7974f05fbc6f9d5656181372480e422ee8a219804dbd6a44fc570f"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/pending_catalog_overlay.json": {
+      "bytes": 2115,
+      "sha256": "5bbc57f583682e2e87abda1ac655253e960655626a043801978960c865f488c9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/programs.json": {
+      "bytes": 259,
+      "sha256": "8e295aff6fb8bf42747b5d1a8446c42386c60f8faae4baf9e5d2142d12853693"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/raw_rows.json": {
+      "bytes": 6963,
+      "sha256": "31d60c78ea4ecad41aa56a121cd365964d4b87d3fcfe3bf7cac2963be76e1541"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/lovely_locket_native_recovery/selection.json": {
+      "bytes": 383,
+      "sha256": "5e883554c325234608b8a100b57448ac8b10361815c5bdc7e640b194e91d2eb9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/old_soul_native_recovery/expected_compiled.json": {
+      "bytes": 3116,
+      "sha256": "9e4e6c75f53ec642142e0c480d03483175e1a0846ae04beb39c992ceab245ee1"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/old_soul_native_recovery/native/BG34_231.xml": {
+      "bytes": 3827,
+      "sha256": "47a9f9fed962493920f4771a6c181cd3d459c3e701d295ecec4c552abfc64305"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/old_soul_native_recovery/native/BG34_231_G.xml": {
+      "bytes": 3680,
+      "sha256": "6a42fc5164503e618f9216608d8b1f35b0a0f3d979b56842ffbe501f7a864488"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/old_soul_native_recovery/native_quantities.json": {
+      "bytes": 1633,
+      "sha256": "b3ed298216cea2d59702dd039c6390a12afca1fd3d230a4dee0e7476684e989a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/old_soul_native_recovery/native_source_manifest.json": {
+      "bytes": 1970,
+      "sha256": "ce62a9c84f42d714d02b8da104141bc7c93f986ccdff8b573a384302f0959559"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/old_soul_native_recovery/pending_catalog_overlay.json": {
+      "bytes": 3199,
+      "sha256": "65e850c7fb12dbe5a01154c37eb180c39c08e3884ee8e6f7efb078361fd833d0"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/old_soul_native_recovery/programs.json": {
+      "bytes": 392,
+      "sha256": "4094ea8042d61c9114a9dd1942ff6e0a5990b82949d17b78df41f9d90740c7ae"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/old_soul_native_recovery/raw_rows.json": {
+      "bytes": 14060,
+      "sha256": "b309fa99c2f9b2660c0fed6070a0a96c004ee1ceeafae57b5289f48d8df689f7"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/dependency_compiled.json": {
+      "bytes": 3243,
+      "sha256": "fb741c0b9099f3f450d7b453113bd0398fb60baca6e40e8b7d7740c8ca30db29"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/dependency_raw.json": {
+      "bytes": 50237,
+      "sha256": "220ef3f11a34b475375585d32907cfbf6ce4416f2dc9563e0f0b3da22107b67f"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/expected_compiled.json": {
+      "bytes": 1774,
+      "sha256": "ea4cd2f19d30927d9400f1c4b94afa800a071129c1600fd53e0414ecf0be8b02"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/native/BG23_000.xml": {
+      "bytes": 3019,
+      "sha256": "6a5365478d6a4cf088c3d5f38a669d78b4207da8a96a57ce4ff3c2b56baee179"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/native/BG23_000_G.xml": {
+      "bytes": 2936,
+      "sha256": "38207976b916e4714627c8176156de7961b58bdf1cce61c8c569fe62c74233eb"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/native/BG23_000_Gt.xml": {
+      "bytes": 2124,
+      "sha256": "0db302a9ea81f25936278ab69c4498f04a1839a9eb589677603d8a5376ea515a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/native/BG23_000t.xml": {
+      "bytes": 2066,
+      "sha256": "8b198f000fdecec65a2ed9d797515c30338fc38b1cef2ccc787a86854409efff"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/native/BG23_010.xml": {
+      "bytes": 2310,
+      "sha256": "6225f4ac412b3717f8219b6e6ccf605e6de5d8863bf6c36a6c058ec0b6f5ac34"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/native/BG23_010_G.xml": {
+      "bytes": 2298,
+      "sha256": "e6c7e6cb132c9d3fba8bde8ca80eb520995695b8ab458c0efc473e928f81b2ce"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/native/BG28_897.xml": {
+      "bytes": 2738,
+      "sha256": "a58d0c64165dc3e1f27143164bcf590c606b320e769954c73d52c202d06e6b88"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/native/BG30_MagicItem_434.xml": {
+      "bytes": 2699,
+      "sha256": "433346aef51e87a3505d3b95ba835b7e90577f00a48bdb5dd9577298b41d0632"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/native_quantities.json": {
+      "bytes": 6206,
+      "sha256": "014b039bfd93fd46cbdc3d256ca545b514c227cf6ea461dacfbb51560709a5cb"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/native_source_manifest.json": {
+      "bytes": 607,
+      "sha256": "662cdcec754b404a6c0cb89deba1421f25a5c3736b1a1e24807d8d39c6ea5bfa"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/pending_catalog_overlay.json": {
+      "bytes": 1817,
+      "sha256": "919c99a96b45f6f01fd697120e9d6b22bde3e339d877cc56937605e7bc0e0d6c"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/programs.json": {
+      "bytes": 236,
+      "sha256": "2420ae9e75499a6dac48b43a0b383e6cb384a26294d2924dae7d0d92058b768d"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/raw_rows.json": {
+      "bytes": 6831,
+      "sha256": "fd8588499af4205b6b5b1e0f9726bbe9366c2fa0dde6be27cb806dcc362f38dd"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/replica_cathedral_native_recovery/selection.json": {
+      "bytes": 310,
+      "sha256": "5a3b1da33a1b15a5f3e1f7f2724a0a91a3d5dc9db4cb1d5b56292caea405febd"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/dependency_compiled.json": {
+      "bytes": 689,
+      "sha256": "6f489722001bc9c927f24821bf07f91cbdbdbba2e1509ce00742024f998b3b16"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/dependency_raw.json": {
+      "bytes": 13578,
+      "sha256": "471d62f1a07967286ad14b0e5a1a0b9d7efefa0a50216f1a0035a4bf1a9397a2"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/expected_compiled.json": {
+      "bytes": 1886,
+      "sha256": "d766867be0a53068bc72a39a5862e73e19a20ce6cf3fc6a1f73dffbb30bb2299"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/native/BG35_MagicItem_930.xml": {
+      "bytes": 3318,
+      "sha256": "bf83d11a61b816b3c418f9fafe69630e604914d6ab4156bcd3bd14bc4e0e41af"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/native/BG_GVG_085.xml": {
+      "bytes": 5211,
+      "sha256": "bf79899afc9493abcadd16b2048ddceb07fbe1fff8c7a08fb0c06999a8dcf057"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/native/BG_GVG_085_G.xml": {
+      "bytes": 5199,
+      "sha256": "7270a91a5133a54155ec99deb2cb15f243576807c0966a68292a1a79c72aba6c"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/native_quantities.json": {
+      "bytes": 3274,
+      "sha256": "ad0eb0d64cacfdadaca9efc68ed7f2da23d66cf58d89619ec03e230b4d0315ab"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/native_source_manifest.json": {
+      "bytes": 400,
+      "sha256": "aefe66cf18e55a02eb0c9570438d63815834e97b21ce335d92f2ba9969c87bc0"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/pending_catalog_overlay.json": {
+      "bytes": 1927,
+      "sha256": "d2469c0f4c4f25b65cbfbd4ac5921d793d59263da580b91b8623b34a7d68f573"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/programs.json": {
+      "bytes": 248,
+      "sha256": "a84a806f08ee8d5bf27e49981af5f762b3fd1a326ca4e97cf96229bbcbe310c9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/raw_rows.json": {
+      "bytes": 6915,
+      "sha256": "08e1d7599b83621c3b77a74c688a92bef2477a71687a959a1703cac524e43626"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/refresh_policy.json": {
+      "bytes": 869,
+      "sha256": "9dbd725b81869cf8858e738af0b485819e8cd7eca0c3f632c3b705b4324ab178"
+    },
+    "historical_tools_batch2_four_candidate_20261109/probe_inputs/research/warband_whistle_native_recovery/selection.json": {
+      "bytes": 403,
+      "sha256": "c65a33a6149bb3b91f0b1d1f210dec3f974b67093bcbc364547a5fe651d5caf6"
+    },
+    "historical_tools_batch2_four_candidate_20261109/restore_delta_to_new.py": {
+      "bytes": 1143,
+      "sha256": "cb5992560cf6e7c60bf72617a76a049f188d055555204f13dca724a414c2b506"
+    },
+    "historical_tools_batch2_four_candidate_20261109/restore_to_new.py": {
+      "bytes": 1367,
+      "sha256": "d01588b47a6992ad9c83bd772657796d88319986e357e80a9e0c8d1e8570f1a2"
+    },
+    "historical_tools_batch2_four_candidate_20261109/run.py": {
+      "bytes": 3929,
+      "sha256": "d9e8edd6f7e0f9184adf446670f1fae8c3118f06afa7bcb69aa56eb216731cb9"
+    },
+    "historical_tools_batch2_four_candidate_20261109/tamper/LAUNCH.json": {
+      "bytes": 1346,
+      "sha256": "8d8bbd9f1b87c386603e027955fd40cc408e65286665b90fb2a7ca483adac43a"
+    },
+    "historical_tools_batch2_four_candidate_20261109/tamper/PROCESS.json": {
+      "bytes": 1527,
+      "sha256": "0c9923a714b14940691497562be4a19a3be5e23f7a63da5ed479647f2324dc3f"
+    },
+    "historical_tools_batch2_four_candidate_20261109/tamper/gate_executed.gd": {
+      "bytes": 5061,
+      "sha256": "2da903bd98ce4b891ea58702eb35b468ec496c7ed12342946fa0ac4145ba8d78"
+    },
+    "historical_tools_batch2_four_candidate_20261109/tamper/native.log": {
+      "bytes": 131,
+      "sha256": "981b9253fc6f1defd1672c2e5d774eaa1e27347b2c3fcac120c24809a436bbfa"
+    },
+    "historical_tools_batch2_four_candidate_20261109/tamper/report.json": {
+      "bytes": 32463,
+      "sha256": "46ee629f7970021da0f4091e4afe1c1f31617312d670dd053e7fdb8632565d1b"
+    },
+    "historical_tools_batch2_four_candidate_20261109/tamper/samples.jsonl": {
+      "bytes": 28434,
+      "sha256": "3466efb41aa79b521bcfb50145962f2db51596d89e0db855f8220437bc2c50ed"
+    },
+    "historical_tools_batch2_four_candidate_20261109/tamper_INPUT_MAP.json": {
+      "bytes": 11940,
+      "sha256": "fe54b709eca504d949f819a06f07fed4fd31ba47075bd26b6265294d11d280d3"
+    },
+    "historical_tools_batch2_four_candidate_20261109/test_compilers.py": {
+      "bytes": 5256,
+      "sha256": "4e2837ae1cdecec4ec03a15f524d1209013edfce7a10921d71febf22543381b0"
+    },
+    "historical_tools_batch2_four_candidate_20261109/verify_candidate.py": {
+      "bytes": 3856,
+      "sha256": "bc2477d8ef6ed2c1b85c5346b77aa6c7d670a61207c1103831e43301aafc84e8"
+    }
+  },
+  "parts": [
+    {
+      "name": "historical_tools_batch2_four_candidate_20261109.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "34fb60f7b9c2d131d7541d5ea2823de2ea83947b2802a07e8417827f75f58ea6"
+    },
+    {
+      "name": "historical_tools_batch2_four_candidate_20261109.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "a277697a0b9196ebdf0170e9cdadc587c2bd126b42ca19b85a08bcb3b21e1804"
+    },
+    {
+      "name": "historical_tools_batch2_four_candidate_20261109.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "5b87f75422ecff93686d333e8619800dc9397e7318196cef50f0d60814beaaa1"
+    },
+    {
+      "name": "historical_tools_batch2_four_candidate_20261109.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "593427f520d214d0dc5d76c4c39ff87794c1ec626ddc639bafb4a06186a7022a"
+    },
+    {
+      "name": "historical_tools_batch2_four_candidate_20261109.tar.xz.part004",
+      "bytes": 145088,
+      "sha256": "ba0f92aa352396c0137a1742de16959c33ef16dd8b8621023b8423913a4812cd"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "historical_tools_batch2_four_candidate_20261109/SOURCE_MAP.json",
+  "patch_directory": "delta",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 212,
+      "sha256": "c68defe3780b87df41dd2ac8715a8ddb46f20cbe5a25b49315790e98b0a160b3"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "SHA256SUMS.txt": {
+      "bytes": 121,
+      "sha256": "1984168d0e6b31af5f2e233f898fca9d2af10aa75df3436b8838d9ab279f3dc8"
+    },
+    "README.md": {
+      "bytes": 6652,
+      "sha256": "0a644411e1c59b026a77c3ba47f85d06f2dcd19218fb6adf365d41a02a19dca8"
+    },
+    "RECOVERY.md": {
+      "bytes": 2918,
+      "sha256": "de65e5dab57f2f5d4fd6fbe3ef9626fd3d49715fb5f2cb48ec29ce37e193c381"
+    }
+  },
+  "depends_on": {
+    "archive_commit": "1e60aed5d8555d76a0e81704e84ad15dacb737d2",
+    "archive_sha256": "d4de01b2fa7a530c00b383455e94f1a0da62d81c68b03b4205b90aca1c46aea1",
+    "source_map_sha256": "53da1c13fbebb6eb8c5672ad8828109720efdfab1a8a97b6792a6da3202e6080",
+    "recovery_commit": "cfe5366f7e0a115532e8996549782c635481b97a",
+    "receipt_sha256": "c3e5df6796a973d499533adae754dc3501d26d721f62f9c78f33dd158089af1e",
+    "manifest_sha256": "1339271a1dc7d2789e931e1a2c2270d9b45613ed5717a7269332919949c7624d"
+  },
+  "deferred_target": "tools/sinstone_sticker_patterns.py",
+  "deferred_three_state_failed_reports_retained": true,
+  "status": "FOUR_HISTORICAL_TOOL_CANDIDATE_SCOPED_VALIDATION_PASS",
+  "partial_validation_only": true,
+  "latest_installed_versions_proven": false,
+  "tools_fixed_by_current_admission_pins": false,
+  "promote_over_verified_baseline": false,
+  "full_game_verified": false,
+  "save_compatibility_verified": false,
+  "whole_game_memory_improvement_verified": false,
+  "remaining_tools_reference_gaps_within_original_367": 357,
+  "remaining_historical_candidates_from_68": 59,
+  "audit": {
+    "archive_members": 282,
+    "internal_manifest_members": 281,
+    "source_files_added": 4,
+    "source_files_modified": 0,
+    "source_files_deleted": 0,
+    "net_runtime_bytes": 132315,
+    "producer_delta_bytes_match": true,
+    "secret_pattern_findings": [],
+    "all_prior_backups_retained": true,
+    "planned_verification": "actual file-byte streaming with six prior archive layers; no full tree",
+    "free_disk_bytes_at_preparation": 3365273600
+  }
+}

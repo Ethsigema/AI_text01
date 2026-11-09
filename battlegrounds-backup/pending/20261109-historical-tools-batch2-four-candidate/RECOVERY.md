@@ -1,0 +1,27 @@
+# 第2批四文件历史工具候选：增量备份
+
+状态：FOUR_HISTORICAL_TOOL_CANDIDATE_SCOPED_VALIDATION_PASS。仅delta/四文件新增，共132315字节，修改0、删除0。历史原件不证明最新版，四工具本身不是当前固定准入pin，不宣称修复新的准入阻断。Sinstone暂缓，不在运行增量或目标清单中；原五项三态各六个失败断言及输入/脚本完整保存于evidence/deferred_sinstone_trial，仅为研究证据，不冒称通过或新增运行回归。
+
+原367路径范围剩357项，原68历史候选剩59项含Sinstone，均非项目全部缺口总数。完整Game、旧存档兼容、完整Catalog指纹、全项目离线编译及整体内存收益未验证。清单字节一致不等于完整游戏恢复。
+
+## 固定输入
+
+输入提交cfe5366f7e0a115532e8996549782c635481b97a：
+https://github.com/Ethsigema/AI_text01/blob/cfe5366f7e0a115532e8996549782c635481b97a/battlegrounds-backup/pending/20261109-historical-tools-batch1-candidate/RECOVERY_VERIFIED.md
+
+输入归档提交1e60aed5d8555d76a0e81704e84ad15dacb737d2，SHA256 d4de01b2fa7a530c00b383455e94f1a0da62d81c68b03b4205b90aca1c46aea1。
+输入MANIFEST SHA256 1339271a1dc7d2789e931e1a2c2270d9b45613ed5717a7269332919949c7624d。
+输入回执SHA256 c3e5df6796a973d499533adae754dc3501d26d721f62f9c78f33dd158089af1e。
+输入SOURCE_MAP SHA256 53da1c13fbebb6eb8c5672ad8828109720efdfab1a8a97b6792a6da3202e6080。
+
+Harbinger完整树依次应用native listener、EarthMother、GoldenArrow来源叶、GoldenArrow工具、Megasaur工具、第1批历史工具六层增量，组成输入。不能省略运行层或把诊断包当作运行补丁。
+
+## 下载与恢复
+
+从同一固定提交下载MANIFEST、CHANGES、REMOVALS、SHA256SUMS、README、RECOVERY及5片part000至part004。按MANIFEST.parts顺序拼接historical_tools_batch2_four_candidate_20261109.tar.xz，1145088字节，SHA256 51263c49a09a0a735a417e147e4f64f0529be4d5fa12529807653da7187693eb。核对所有分片、整包、282成员及内部281项清单。安全解压到全新目录，拒绝穿越、链接、特殊文件和重复项。
+
+仅delta/四文件是运行新增，证据和探针输入不能混入。目标27908文件、1548971251字节，SOURCE_MAP SHA256 3581d683af1a208f00c3dd853e268d799abc5e2811847954a339cad2a68434ea。
+
+本轮真实重下新包，复用并重哈希历史完整树和六份旧归档，逐文件读取全部目标字节进行流式核验；不写第二完整工程、不运行Godot/完整游戏、不删除备份、不强推。完成后追加脚本与回执。
+
+如需完整工程，先按依赖链复原完整输入并校验，空间足够时用封存restore_to_new.py写入不存在的新目录，再校验目标和输入未变。本轮不执行完整复制。原161项Python检查、1098项Godot断言及69项交叉检查是封存证据，本次不重跑；失败的初始五项不算通过数量。
