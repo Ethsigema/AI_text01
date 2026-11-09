@@ -1,0 +1,1181 @@
+{
+  "archive": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz",
+  "bytes": 1473752,
+  "sha256": "a7ce5385a8eef690c4ca0babfbf2fce1d5afc60882a87dac0803671f0599e3b4",
+  "parts": [
+    {
+      "name": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "84b79a3f6958230f238129a9ca1e9bef446a3b860aee83264aa6e803dbcb5fab"
+    },
+    {
+      "name": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "6e282c191110d65cbd6bf14866a55a6dde561217351e03ef83f2f55e55fbb822"
+    },
+    {
+      "name": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "1319a6d3b5687d81711df04572fdb3dc2a5d7e923a3c086fc02c217dc9620a44"
+    },
+    {
+      "name": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "0e3e7fc9dd4c2aec466afe6872c765680ac07ada2be1db722cbc656ee0244e77"
+    },
+    {
+      "name": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "6774dae643d2a8c49c2a5ab2a472d663961f4cf57e93574d824b93a0cc34481f"
+    },
+    {
+      "name": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part005",
+      "bytes": 223752,
+      "sha256": "bf3a58132dec7c81eb72bd122ed8330a8ab672bc2d6e900ec48ca4994804de52"
+    }
+  ],
+  "files": {
+    "historical_tools_batch12_new_enforcer_correction_20261109/ACTUAL_TREES_VERIFIED.json": {
+      "bytes": 1331,
+      "sha256": "64dc814f7c82ad07225df428730204b0dfb1828fce9076c4be7e30742e43276c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/BASE_MAP.json": {
+      "bytes": 4606343,
+      "sha256": "dc3968e2c02fc646100ad1a1745fe885414ad679250363c732f4ae4fae2920cb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/CHANGES.json": {
+      "bytes": 103,
+      "sha256": "9f96c6dc41006981eee4ac0666e1fdefd3f096f1cd016a8aa7be08ed7a494988"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/COPY_VERIFIED.json": {
+      "bytes": 512,
+      "sha256": "a73a0880ad2de91d6c327e058b1e23d0f2d7ad9605921edf3eeef9f60b8873c3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/CURRENT_DEPENDENCY_STATUS.json": {
+      "bytes": 553,
+      "sha256": "ca25c42afddd8f41923fd971109e98d53a957d4d57b89115df44c5bfc298e78d"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/DEFERRED_BOLVAR.json": {
+      "bytes": 765,
+      "sha256": "0dbf8db492f3e8eb79e70be66e422c7e99ab1d723d44fd9c56373a0a7764b414"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/FILE_MANIFEST.json": {
+      "bytes": 45181,
+      "sha256": "281ed537747913b003fd3fadd58a95374cb6007962ebf7c731f120c4e96001b3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/FILE_WHITELIST.json": {
+      "bytes": 17008,
+      "sha256": "753033c2c95a0f0d36d27cb44ad8ca4c98a4f9b6a0431d9026d08c14b7da27bb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/FULL_SOURCE_HARNESS_NOTE.json": {
+      "bytes": 713,
+      "sha256": "19111f3e0f2c0d89b1297ef1e5ffa4ed17597dae1ae25b828ad7643eff90f19c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/HISTORICAL_INPUT_MAP.json": {
+      "bytes": 848,
+      "sha256": "03c3ef2c40fa504201d2939b45743e65c1fcdb6ed45f71e585754be1d8e67a8c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/HISTORICAL_VERSION_LINKS.json": {
+      "bytes": 1086,
+      "sha256": "15026d14e6ab62e6ff08f2d4fda9f01b66c6a8c61ad7b13b3eee5b7d696bc62b"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/PATCH_REPLAY.log": {
+      "bytes": 700,
+      "sha256": "6ab125963ec76750554fd77cd869ce9f1472d3ec3d02654a94de391c75f5f31a"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/PORTABLE_REPLAY.log": {
+      "bytes": 1360,
+      "sha256": "78b228710120f4d8f43ba2b5d34601daf279997a3ae55a5a4bdf53213502b516"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/PRIOR_REMAINING_SCOPE.json": {
+      "bytes": 15964,
+      "sha256": "f273f5e61d264d402ad412bd512c99995ce1fb2e04560fe2f025163dcadfa5e8"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/PROTECTED_SCOPE_VERIFIED.json": {
+      "bytes": 719,
+      "sha256": "a74cb18ea918c7d4023611780a795e09a6651be6acc88e013565151fe39f406d"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/README.md": {
+      "bytes": 7594,
+      "sha256": "5f5b8668a17c8b0b44c84fecb81712b4e05bf500fdb3f2ffe446a182329d4918"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/REMAINING_SCOPE.json": {
+      "bytes": 15645,
+      "sha256": "b1ac707f9d44e35ea1846fb858de6156ccd2bbc64287cb457c64ccb8735bcd02"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/SOURCE_MAP.json": {
+      "bytes": 4606496,
+      "sha256": "d4b0801f7c69dcb8899149680f8a51979db644fa118b7bafd93b922d248ef3c1"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/START.json": {
+      "bytes": 579,
+      "sha256": "accdc2da1f91f4fcf875495241a0d145eb10fed8e71a26c8034bd3c6ff4b3a68"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/STATIC_CONTRACT_AUDIT.json": {
+      "bytes": 54822,
+      "sha256": "ea8bb9621b388fe95becf59fded85258f6a6dfb211d52b6e4826ba13e1b09689"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/STATIC_VERIFICATION.json": {
+      "bytes": 19705,
+      "sha256": "0c563b3be55c31c4bf0779e24931eed7d86e27acd59a5bf32244d4182f0caa45"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/TESTS_VERIFIED.json": {
+      "bytes": 3550,
+      "sha256": "276c79c8341f6c047a6388464aca6b2beb74ba869173f38c6ae026f3b96def51"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/apply_review_patch_to_new.py": {
+      "bytes": 1511,
+      "sha256": "05b7890b95f70d4479866c4d854a8ec70afff7e0b60a22027fbbe6e1246bec66"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/copy_working_tree.py": {
+      "bytes": 1414,
+      "sha256": "391cb38a320a149180d57718ccab4b433f8487fc2e22e0c3547af0c9dd1dcdab"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/COMBINED_COMPARATOR_CORRECTIONS.patch": {
+      "bytes": 10821,
+      "sha256": "db3a094836672feb2e51c40e63ce7c3bbb6cb527899ee283f00660d801191aea"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/VERSION_LEDGER.json": {
+      "bytes": 1924,
+      "sha256": "5b16e84b4ab5ca409ad056fc5beea216b2ba38f94422af0e2fc782e28a5a1705"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/originals/tools/native_bolvar_shield_patterns.py": {
+      "bytes": 10524,
+      "sha256": "68c4b12f8940d0458c151a638f3597538225d99bebd22ffffbb34a2d3d6d4a4c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/originals/tools/native_enforcer_shield_patterns.py": {
+      "bytes": 1891,
+      "sha256": "9a431e54a1738fd816cac6ce4b40ff3a801d58da316dd45a31bd1d7dfb05e399"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/patches/native_bolvar_shield_patterns.py.patch": {
+      "bytes": 8196,
+      "sha256": "7f6a6c086061aa8fd8356de1ec30d52d3e13380939feeb2c4c341ea62d31ec57"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/patches/native_enforcer_shield_patterns.py.patch": {
+      "bytes": 2625,
+      "sha256": "79e075803e13616ec8d713b4574b26500a1afb28ed9b695ac29ea709beae5976"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/proposed/tools/native_bolvar_shield_patterns.py": {
+      "bytes": 10843,
+      "sha256": "11781f8b74063d52aa777ea630867016f2ce8916bd38337c1b0243667ac716c9"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/proposed/tools/native_enforcer_shield_patterns.py": {
+      "bytes": 2480,
+      "sha256": "9342eea049c95c327803ca8b6374ddcb47f4929b2047df391da3148516d6cc68"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/superseded_initial_proposal/tools/native_bolvar_shield_patterns.py": {
+      "bytes": 10682,
+      "sha256": "f344d201d8b4adbc223a7ee39aba0ad63c8194932090a0d64486d64b762be434"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/superseded_initial_proposal/tools/native_enforcer_shield_patterns.py": {
+      "bytes": 2319,
+      "sha256": "0904645a2b678d3aa5530b3868f0d251a78b069f11651efadad9b20a01e181b4"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/HISTORICAL_EXACT_INPUT_MAP.json": {
+      "bytes": 6168,
+      "sha256": "437b65b39e784c5833e4ab177247526ae8d2d2de3679b0657ebd5bd2fa02606d"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/HISTORICAL_FIXTURE_PROVENANCE.json": {
+      "bytes": 644,
+      "sha256": "8aa2af0593c0f134ed490eca9b2c3c07679723d5b935c2006fd3d92fa6790997"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/PATCH_REPLAY.json": {
+      "bytes": 770,
+      "sha256": "0381d03b63c68fd18182a2f29a3561b281e47fccdc4f82f361fac30459080e87"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/PROVENANCE_CHECK.json": {
+      "bytes": 10451,
+      "sha256": "c4328ffb464e0cc6c13edc6da3ccdc39da21c72348b42e8014cccadf285abce8"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/TEST_REPORT.json": {
+      "bytes": 63001,
+      "sha256": "780677d137551d33b6a6e48086c6e8af172141319f68c6f0ebe4a58fd6550c50"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/TEST_REPORT_REPEAT.json": {
+      "bytes": 63001,
+      "sha256": "4f45e2a8d6070f82c1e1e7f3d1c6d6f09a558594944b323775bedf18a1dddf44"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/core/native_bolvar_shield_sources.gd": {
+      "bytes": 38295,
+      "sha256": "5088cb465028f492b09a7082a1cd50cef4b7f6043d488a5e2ce5cf8dfd39e34c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/core/native_enforcer_shield_sources.gd": {
+      "bytes": 17933,
+      "sha256": "b475d91ac172ca9a66085feeb6b59fe8a79494a344a4a1104e0f6399298cc787"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/core/phase_undead_army_sources.gd": {
+      "bytes": 17176,
+      "sha256": "69cf2c15d954e082fd37e2b01d37347d1a515aa00d9a43514b5509f5ee9e2af7"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/core/pool_identity.gd": {
+      "bytes": 2004,
+      "sha256": "cf9388a9288d0f3684be277fa91ca6845b6d8945fdd7cd065e9d499c06b7b4af"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/data/catalog_raw.json": {
+      "bytes": 16282,
+      "sha256": "abdd7700d7f71d379470fd7f3e30e0b78c0e21b53d014c88f16306c944a091f2"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/data/catalog_value_overrides.json": {
+      "bytes": 57466,
+      "sha256": "21b239bfb83e63390cc3b936f19f6e6ffdc4b7f56628231e5486973f68af5c9c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/data/source_catalog/minions.json": {
+      "bytes": 11654,
+      "sha256": "93ccf9043ea45df9266ec58c016a5927dee7c6b608f020b4eabb8865e8829a9e"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/ICC_858.162867.native.xml": {
+      "bytes": 4750,
+      "sha256": "85b1c3abf95699a11a34974a0d7d301b28f5b9914e634f05548049251e49742e"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/ICC_858.225000.native.xml": {
+      "bytes": 4775,
+      "sha256": "f8a15c057f0851dc50d87c20641640747b3ad690e708e11f075d09657d375854"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/ICC_858.253932.native.xml": {
+      "bytes": 4710,
+      "sha256": "15b011426ecc866df78601fb0dd6b5fe21d4d275c64d7475332596a69e90ef32"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/ICC_858.81706.native.xml": {
+      "bytes": 4762,
+      "sha256": "2aa97838ff8393cd84db940cb2c106785cbfc8c01692f7c6a396ee10a4c2ca72"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/TB_BaconUps_047.162867.native.xml": {
+      "bytes": 3632,
+      "sha256": "248c58970f6d71f319cc38cf26ca33dc540b62e8a32127977d55230bbf85b5b9"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/TB_BaconUps_047.225000.native.xml": {
+      "bytes": 3721,
+      "sha256": "812e849c3f07ddd40afe820be44bf05da084a464e3bb9539f9645ecb8aa5efdb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/TB_BaconUps_047.81706.native.xml": {
+      "bytes": 3632,
+      "sha256": "09189f6043332ce58a63ce7332ca6ca9eb949200277e9066edfa5d3d7794afeb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/canonical_rows.json": {
+      "bytes": 5752,
+      "sha256": "807ffb250de60e7c21477524a8c24e845a347193e22d48b2a650f2eeec10b258"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/compiler_body.py.txt": {
+      "bytes": 3246,
+      "sha256": "90809f224b2fb030af1abc3d5b745a19426f63bd69577896ad45bdcb179939f4"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/current_bacon_absence.json": {
+      "bytes": 383,
+      "sha256": "ec6f7a03a1b91d37b8edf04d0e555ca8840c052c571bd5fd62a565182e32f2aa"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/effective_source_rows.json": {
+      "bytes": 17185,
+      "sha256": "ff036187dc3f5317b05b1e0f86c6a79ab4a8ff505e064cc684e4a697c527afdb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/expected_compiled.json": {
+      "bytes": 5762,
+      "sha256": "a0cc2ba42f9a47fc81191a35e9693763934943756b0ae26127e19a6b28b28005"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/golden_value_override.json": {
+      "bytes": 3285,
+      "sha256": "42a455fe5526a2164e14ffd9b3796b91471b38c4ab8e624833354b418c25d8f6"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/manifest.json": {
+      "bytes": 4001,
+      "sha256": "09dd205c0a20bab745507274f54bb0264095068d5f336b078432a9fbf61d8597"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/native_build162867_receipt.json": {
+      "bytes": 4388,
+      "sha256": "31d6be78c35eacf08a5e8c0f3e5150f92fe2d8bb1ec8e75f6153da5775e5d913"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/native_build225000_receipt.json": {
+      "bytes": 4576,
+      "sha256": "913515d9b7ba83743301582f47df6677f0f184ca036d1d5e9c774bdbe5e00cfa"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/native_build253932_receipt.json": {
+      "bytes": 2547,
+      "sha256": "8fe0d0e047d103a0ff681cf96610910b9751a73cc339ae568941bcd956e2ced6"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/native_build81706_receipt.json": {
+      "bytes": 4363,
+      "sha256": "d246351a1717804f3daab6c671b7422cd088c7c3365db7acdb19bca7ff1bbfff"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/prepare_sources.py": {
+      "bytes": 10520,
+      "sha256": "fa23551ff8efa8a0181a1c84f4411e26a5f82df0571827710a5c8304b955847e"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/programs.json": {
+      "bytes": 443,
+      "sha256": "791928e9a8d4be6df51327ebf079024b2c8657a4db07a3e5592da22caf4eb46d"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/raw_rows.json": {
+      "bytes": 15474,
+      "sha256": "14d70837c286307d18bb4e4e4cf780fe67dfb416b2f0e421b58eede53074bbe3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_bolvar_shield_recovery/source_contract.json": {
+      "bytes": 64471,
+      "sha256": "f7ca18e0f5cd529e20ad59325979cf831f40cd466c8c7087be0d9cf9231ab7b8"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_shield_readers_recovery/BGS_067.162867.native.xml": {
+      "bytes": 3052,
+      "sha256": "0c44c4afc5faa94faea09c37222a05a17d707db97acf7064131b2bcae1e500cb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_shield_readers_recovery/TB_BaconUps_117.162867.native.xml": {
+      "bytes": 3076,
+      "sha256": "60bf6d846c52c47e1d362c1bcaf1123ce3b01a3872696258f58a6bce6c27897c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_shield_readers_recovery/canonical_rows.json": {
+      "bytes": 4747,
+      "sha256": "d708f83f0a2cdf6a276150324b1875b87e664ba40c74cd0f667bfbac2c490dcc"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_shield_readers_recovery/expected_compiled.json": {
+      "bytes": 4654,
+      "sha256": "9b205d9bd35911ee351e4e6c41d13456158380b50bb5e1dcf9ea82f02743e008"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_shield_readers_recovery/manifest.json": {
+      "bytes": 4939,
+      "sha256": "78f1f006e6e88301cce96aea4ea9c36df0ae7e71b84f794bdbdb0ba881acd215"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_shield_readers_recovery/native_contract.json": {
+      "bytes": 1092,
+      "sha256": "1169d7b071eef4cf060d005136e3c8d4bbaacf2d10599bcf28063faf557becb9"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_shield_readers_recovery/prepare_sources.py": {
+      "bytes": 9697,
+      "sha256": "f70a02c6084457a4797b280b1c48f8c0ae2da7e10154236cae82ffb915e9c161"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_shield_readers_recovery/programs.json": {
+      "bytes": 441,
+      "sha256": "9fa39aef198280998faa494fc1c0d23ad781964384cea172d48cf1903a10984a"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/fixtures/research/native_shield_readers_recovery/raw_rows.json": {
+      "bytes": 13180,
+      "sha256": "1004e88ccee31571f7332d22692ec8e32579411ff43ebac5f5248f4de9ebd5d2"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/replay_patch.py": {
+      "bytes": 1863,
+      "sha256": "fcac4f075aab381c6e6fff61f6a7685f80789b1cce332ac27205eb066f3f6a34"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/test_candidates.py": {
+      "bytes": 20169,
+      "sha256": "9679589974c015e5035f443e9349fa5d018bffaeb0356dae3effb7acabdf503a"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/typed_oracle/SOURCE_INPUT_MAP.json": {
+      "bytes": 284,
+      "sha256": "df11cf89f2003cb8fcdc4db1dc3b1b12130789127feac7321780983114641839"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/typed_oracle/gate.gd": {
+      "bytes": 2799,
+      "sha256": "873ed5e355078a20bf7e4674645f03f648ca29c7f44a5bd44182c1cc4a00bcd5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/typed_oracle/report.json": {
+      "bytes": 11543,
+      "sha256": "a020ba134ec8396120be3433c927eeb6e911f75439d0c94a62462130b77e1060"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/correction_review/tests/typed_oracle/report_repeat.json": {
+      "bytes": 11543,
+      "sha256": "a020ba134ec8396120be3433c927eeb6e911f75439d0c94a62462130b77e1060"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/delta/tools/native_enforcer_shield_patterns.py": {
+      "bytes": 2480,
+      "sha256": "9342eea049c95c327803ca8b6374ddcb47f4929b2047df391da3148516d6cc68"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_full_sources/INCOMPLETE_HARNESS_ATTEMPT.json": {
+      "bytes": 713,
+      "sha256": "19111f3e0f2c0d89b1297ef1e5ffa4ed17597dae1ae25b828ad7643eff90f19c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_full_sources_repeat/INCOMPLETE_HARNESS_ATTEMPT.json": {
+      "bytes": 713,
+      "sha256": "19111f3e0f2c0d89b1297ef1e5ffa4ed17597dae1ae25b828ad7643eff90f19c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_full_sources_repeat_retry/REPORT.json": {
+      "bytes": 35347,
+      "sha256": "4c99cdb02f9386834f0e59d73ad165c0719cb7c6e028ed8c9a9e5b853f88dae6"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_full_sources_retry/REPORT.json": {
+      "bytes": 35347,
+      "sha256": "04c90324b1b73ce4a39c494434c1d583642f0239a7cd05a7ebe335a6b56253d4"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/CASES.json": {
+      "bytes": 36245,
+      "sha256": "2c5e9d97994de2d0e304558e7bb733c302e1d5c4a6ba13e26f5c7057d71adeb3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/PLAN.json": {
+      "bytes": 550,
+      "sha256": "bb53bf5960e0753d2dc90824d59a2d2a175a59c25e3b6fc12e4de8769f2e3db9"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/PYTHON_REPORT.json": {
+      "bytes": 45262,
+      "sha256": "e83c83924366b24af5606fce6b642de7d147f77a279b9b2757203ddbe7cb5f12"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/SOURCE_INPUT_MAP.json": {
+      "bytes": 2248,
+      "sha256": "c0f3349b9f8c6d0fd9ca289530d1b2cc11db5917c4955d05a2f234740c3618ba"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after/LAUNCH.json": {
+      "bytes": 1256,
+      "sha256": "7c9906cd851472f4f417db1aa13780963afb76be4753e0f593a6f0ffaa54d8c3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after/PROCESS.json": {
+      "bytes": 1437,
+      "sha256": "1b05eeec5f7de2d3996a23043753d862d442f3f3191cb4e21fa3f7fa18ce003e"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after/gate_executed.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after/native.log": {
+      "bytes": 151,
+      "sha256": "213f208744f38c560014bb9c873f992fbf2b81bf87ed3928a412b59f06cab5df"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after/report.json": {
+      "bytes": 53219,
+      "sha256": "8b7133bf16f9397d237717fa72b3a7e28cd340f3058555aace60f844c5ca0fd1"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after/samples.jsonl": {
+      "bytes": 23338,
+      "sha256": "1e825a50c98ffee97905eb04ccfc93bd74f64f7bed59ef40449dfcb8a5901068"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after_INPUT_MAP.json": {
+      "bytes": 2633,
+      "sha256": "b68d74838020e27fc8c8645ed73d1b55f9eea44414c9a7c89407be42447bd228"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after_repeat/LAUNCH.json": {
+      "bytes": 1270,
+      "sha256": "b392d876308d62047310062ad7a1d37a295d85a0fa5d4d53fd4d6bc661e12fcb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after_repeat/PROCESS.json": {
+      "bytes": 1451,
+      "sha256": "abfd4e9e4ed7edaabe5becbea9136a4be2e9dd7b0ee9171e52480bc147ae337d"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after_repeat/gate_executed.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after_repeat/native.log": {
+      "bytes": 151,
+      "sha256": "213f208744f38c560014bb9c873f992fbf2b81bf87ed3928a412b59f06cab5df"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after_repeat/report.json": {
+      "bytes": 53219,
+      "sha256": "8b7133bf16f9397d237717fa72b3a7e28cd340f3058555aace60f844c5ca0fd1"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/after_repeat/samples.jsonl": {
+      "bytes": 25901,
+      "sha256": "b1130cd9418e00b53e3b7e1dff321080e0b45d8a492ae9eeaa40e121b18b4a2c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before/LAUNCH.json": {
+      "bytes": 1258,
+      "sha256": "9afa30c3c965c659fd025b35ec74be1b961a557224021c6316a932d8ecbea255"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before/PROCESS.json": {
+      "bytes": 1439,
+      "sha256": "afa15d438fd47c5d74c32ad8a0379b770b406ed09cc7e52c099708f375028f65"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before/gate_executed.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before/native.log": {
+      "bytes": 152,
+      "sha256": "e6d78645c7942274998d8e8d1f6205b5135fdf27e20a8a0451fd1011801e827c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before/report.json": {
+      "bytes": 53222,
+      "sha256": "7954196d7da3bacbef59f30e901763c03db4dcfc9f2d194216fe8609e7be5fc3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before/samples.jsonl": {
+      "bytes": 26499,
+      "sha256": "2e58697d671075725e7b3c03d146e7954da69c2582e6a8013d09fd6224c642b1"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before_INPUT_MAP.json": {
+      "bytes": 2480,
+      "sha256": "6c5b93fb5223c5b2c39ef7c1249209be8438446764322cc8c068f93d3308deeb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before_repeat/LAUNCH.json": {
+      "bytes": 1272,
+      "sha256": "66d0f854e61e913427f7b5912ce5763ab3db385a71b186c134b1933e7ef99109"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before_repeat/PROCESS.json": {
+      "bytes": 1453,
+      "sha256": "688913379ab34a7e7b233947c93b0457fb763c8105c00825b49d27819f85ffb5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before_repeat/gate_executed.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before_repeat/native.log": {
+      "bytes": 152,
+      "sha256": "e6d78645c7942274998d8e8d1f6205b5135fdf27e20a8a0451fd1011801e827c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before_repeat/report.json": {
+      "bytes": 53222,
+      "sha256": "7954196d7da3bacbef59f30e901763c03db4dcfc9f2d194216fe8609e7be5fc3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/before_repeat/samples.jsonl": {
+      "bytes": 22721,
+      "sha256": "bb1d1cd7a7c974c785626cfd764397b0534888fd842c671c1176cba319ad77e4"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/gate.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/original/tools/native_enforcer_shield_patterns.py": {
+      "bytes": 1891,
+      "sha256": "9a431e54a1738fd816cac6ce4b40ff3a801d58da316dd45a31bd1d7dfb05e399"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/CASES.json": {
+      "bytes": 36245,
+      "sha256": "2c5e9d97994de2d0e304558e7bb733c302e1d5c4a6ba13e26f5c7057d71adeb3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/EXPECTED_PROOF.json": {
+      "bytes": 666,
+      "sha256": "d19ee68342bfbc680ed28640bd7bc2040fec93ff686446aed9f18582e650daa1"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/core/native_enforcer_recruit_reader.gd": {
+      "bytes": 4535,
+      "sha256": "9dd76bb47f78077ba5db07d70c17a2b5d44a65444ebb17badffc07adf6558296"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/core/native_enforcer_shield_host.gd": {
+      "bytes": 8314,
+      "sha256": "3cc95b7fac2460c1c0fe59cc871bf5901ed576d131bbdde290478bfa8016b96f"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/core/native_enforcer_shield_sources.gd": {
+      "bytes": 17933,
+      "sha256": "b475d91ac172ca9a66085feeb6b59fe8a79494a344a4a1104e0f6399298cc787"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/core/native_shield_reader_sources.gd": {
+      "bytes": 1644,
+      "sha256": "0c1734738e077834b0928b0c3f8916b24c6abff88f716dce7fbb116d2a9fbbdb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/core/phase_undead_army_sources.gd": {
+      "bytes": 17176,
+      "sha256": "69cf2c15d954e082fd37e2b01d37347d1a515aa00d9a43514b5509f5ee9e2af7"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/core/pool_identity.gd": {
+      "bytes": 2004,
+      "sha256": "cf9388a9288d0f3684be277fa91ca6845b6d8945fdd7cd065e9d499c06b7b4af"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/project.godot": {
+      "bytes": 140,
+      "sha256": "ddfff67d47586fd0054f2d593ca5afbec69ac7d70e0b107f1c9f828e32fb9ae8"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/research/native_shield_readers_recovery/BGS_067.162867.native.xml": {
+      "bytes": 3052,
+      "sha256": "0c44c4afc5faa94faea09c37222a05a17d707db97acf7064131b2bcae1e500cb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/research/native_shield_readers_recovery/TB_BaconUps_117.162867.native.xml": {
+      "bytes": 3076,
+      "sha256": "60bf6d846c52c47e1d362c1bcaf1123ce3b01a3872696258f58a6bce6c27897c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/research/native_shield_readers_recovery/canonical_rows.json": {
+      "bytes": 4747,
+      "sha256": "d708f83f0a2cdf6a276150324b1875b87e664ba40c74cd0f667bfbac2c490dcc"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/research/native_shield_readers_recovery/expected_compiled.json": {
+      "bytes": 4654,
+      "sha256": "9b205d9bd35911ee351e4e6c41d13456158380b50bb5e1dcf9ea82f02743e008"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/research/native_shield_readers_recovery/native_contract.json": {
+      "bytes": 1092,
+      "sha256": "1169d7b071eef4cf060d005136e3c8d4bbaacf2d10599bcf28063faf557becb9"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/research/native_shield_readers_recovery/programs.json": {
+      "bytes": 441,
+      "sha256": "9fa39aef198280998faa494fc1c0d23ad781964384cea172d48cf1903a10984a"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/probe_inputs/research/native_shield_readers_recovery/raw_rows.json": {
+      "bytes": 13180,
+      "sha256": "1004e88ccee31571f7332d22692ec8e32579411ff43ebac5f5248f4de9ebd5d2"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/proposed/tools/native_enforcer_shield_patterns.py": {
+      "bytes": 2480,
+      "sha256": "9342eea049c95c327803ca8b6374ddcb47f4929b2047df391da3148516d6cc68"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/python_inputs/data/source_catalog/minions.json": {
+      "bytes": 7291137,
+      "sha256": "6d5d82a25bb05fc3b9d8c018dcc5d8994985987cbb54cf943e2831134ef8391d"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/python_inputs/research/native_shield_readers_recovery/BGS_067.162867.native.xml": {
+      "bytes": 3052,
+      "sha256": "0c44c4afc5faa94faea09c37222a05a17d707db97acf7064131b2bcae1e500cb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/python_inputs/research/native_shield_readers_recovery/TB_BaconUps_117.162867.native.xml": {
+      "bytes": 3076,
+      "sha256": "60bf6d846c52c47e1d362c1bcaf1123ce3b01a3872696258f58a6bce6c27897c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/python_inputs/research/native_shield_readers_recovery/canonical_rows.json": {
+      "bytes": 4747,
+      "sha256": "d708f83f0a2cdf6a276150324b1875b87e664ba40c74cd0f667bfbac2c490dcc"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/python_inputs/research/native_shield_readers_recovery/expected_compiled.json": {
+      "bytes": 4654,
+      "sha256": "9b205d9bd35911ee351e4e6c41d13456158380b50bb5e1dcf9ea82f02743e008"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/python_inputs/research/native_shield_readers_recovery/native_contract.json": {
+      "bytes": 1092,
+      "sha256": "1169d7b071eef4cf060d005136e3c8d4bbaacf2d10599bcf28063faf557becb9"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/python_inputs/research/native_shield_readers_recovery/programs.json": {
+      "bytes": 441,
+      "sha256": "9fa39aef198280998faa494fc1c0d23ad781964384cea172d48cf1903a10984a"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/python_inputs/research/native_shield_readers_recovery/raw_rows.json": {
+      "bytes": 13180,
+      "sha256": "1004e88ccee31571f7332d22692ec8e32579411ff43ebac5f5248f4de9ebd5d2"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/run.py": {
+      "bytes": 3908,
+      "sha256": "bfc6248075dcf6a4dfd8233f327ccf876b9ac1000bd5c0cfa6addf8f2f613bbb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/run_repeat.py": {
+      "bytes": 3915,
+      "sha256": "5ac778674cad9283c15bc34217e56e4256e18be910544b5891720132253deec5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper/LAUNCH.json": {
+      "bytes": 1258,
+      "sha256": "363aff950d010fd7728b806a87825033d885d4da4f71644562d22b632917f45a"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper/PROCESS.json": {
+      "bytes": 1439,
+      "sha256": "dfd770e4c1c251e23a80b7eabae2999238ffa511f0845398390e9fc149cf0da7"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper/gate_executed.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper/native.log": {
+      "bytes": 152,
+      "sha256": "ecf128d6e28efb2ac3b44d6ab21c7d84830462077bd13abfa9a3aaf2409e2ce7"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper/report.json": {
+      "bytes": 53228,
+      "sha256": "f5d1387acb669ec4ddaae8211197f78fdb0fb873adfb7af76dfaad28f4342b3d"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper/samples.jsonl": {
+      "bytes": 22205,
+      "sha256": "6809d8a65c8f73220587b249fcdc6e5e71530447aa57880b811277ad39f07af9"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper_INPUT_MAP.json": {
+      "bytes": 2633,
+      "sha256": "7bfe4f952f4ae3c85bfa40864d2c5e2c5824578b8e291f640ca7ac594fcca741"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper_repeat/LAUNCH.json": {
+      "bytes": 1272,
+      "sha256": "f1e3cecf921c1863ff111ca7970f46b9a0316abbdd5dcc79061e82929e8cb1a3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper_repeat/PROCESS.json": {
+      "bytes": 1453,
+      "sha256": "7f18279ca0312dc1a71b3a554a79395498f39595a85064c33f86c215f90590d0"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper_repeat/gate_executed.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper_repeat/native.log": {
+      "bytes": 152,
+      "sha256": "ecf128d6e28efb2ac3b44d6ab21c7d84830462077bd13abfa9a3aaf2409e2ce7"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper_repeat/report.json": {
+      "bytes": 53228,
+      "sha256": "f5d1387acb669ec4ddaae8211197f78fdb0fb873adfb7af76dfaad28f4342b3d"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/tamper_repeat/samples.jsonl": {
+      "bytes": 23424,
+      "sha256": "078baa395ffed2d8f9aec35b040454c7465de27223a7d642a473481f9ac2a109"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/enforcer_review/test_python.py": {
+      "bytes": 3945,
+      "sha256": "c4b348bda1eed5485ff1352779972210cb41acc858ef6bc48a2fde93e9145cf9"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/full_source_probe_bolvar/REPORT.json": {
+      "bytes": 578,
+      "sha256": "86aa85f97ec2bbb37f95f6d32a5e1690407bbb17645b3f1029bfa535d2cb3423"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/full_source_probe_enforcer/REPORT.json": {
+      "bytes": 514,
+      "sha256": "a9a000be1adb27206994c76c83f50818efad78f497b3030b9f7b3cb9350b24c6"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/historical_inputs/research/native_bolvar_shield_recovery/compiler_body.py.txt": {
+      "bytes": 3246,
+      "sha256": "90809f224b2fb030af1abc3d5b745a19426f63bd69577896ad45bdcb179939f4"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/historical_inputs/research/native_bolvar_shield_recovery/manifest.json": {
+      "bytes": 4001,
+      "sha256": "09dd205c0a20bab745507274f54bb0264095068d5f336b078432a9fbf61d8597"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/historical_inputs/research/native_bolvar_shield_recovery/prepare_sources.py": {
+      "bytes": 10520,
+      "sha256": "fa23551ff8efa8a0181a1c84f4411e26a5f82df0571827710a5c8304b955847e"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/historical_inputs/research/native_shield_readers_recovery/manifest.json": {
+      "bytes": 4939,
+      "sha256": "78f1f006e6e88301cce96aea4ea9c36df0ae7e71b84f794bdbdb0ba881acd215"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/historical_inputs/research/native_shield_readers_recovery/prepare_sources.py": {
+      "bytes": 9697,
+      "sha256": "f70a02c6084457a4797b280b1c48f8c0ae2da7e10154236cae82ffb915e9c161"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/install_enforcer_candidate.py": {
+      "bytes": 2853,
+      "sha256": "a4200ddc6967d8aae84f158549f37574dcda5f8f5741fbce632e280a7ce93a36"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/PLAN.json": {
+      "bytes": 527,
+      "sha256": "8d9f5e9c9f86ee3142a63e3db1c82f8734f27b621836667ec77899a66dc86cff"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/SOURCE_INPUT_MAP.json": {
+      "bytes": 284,
+      "sha256": "df11cf89f2003cb8fcdc4db1dc3b1b12130789127feac7321780983114641839"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before/LAUNCH.json": {
+      "bytes": 1231,
+      "sha256": "9d117ac5099c6bdeb676df03d26d693e27e87dd0d4c465aa41f44f92d64a9786"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before/PROCESS.json": {
+      "bytes": 1412,
+      "sha256": "d6eca07dfb0b1a8a3b86d00a3cce71c1986ab5db12ad89b7a5bc80b244bad1a5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before/gate_executed.gd": {
+      "bytes": 1741,
+      "sha256": "b35c2fcb6df622dbe1d50a9e898265336fb7205ce8f8a20ae6de12081e964104"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before/native.log": {
+      "bytes": 120,
+      "sha256": "5f827651b8923d45ae56472ff67ac388a0d9871b385f38e357f22883d9110819"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before/report.json": {
+      "bytes": 2848,
+      "sha256": "a08fa35adfd53f65e902c8ef4270ea4adde69206676b23cc238b8a08b6940ce5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before/samples.jsonl": {
+      "bytes": 16569,
+      "sha256": "e01837aa1b536d1705ab90f73c82312c82879f4c8e9f0fcf71801443b7a086cc"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before_INPUT_MAP.json": {
+      "bytes": 409,
+      "sha256": "8a5bce0a38c6b0fd9914f4f90468f60183db75fde122be05d7c17acba648cda3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before_repeat/LAUNCH.json": {
+      "bytes": 1245,
+      "sha256": "ec7eadfb8cce2dba006a1a2be72cbeaf8feabe501f76efdedf8cc90bee4e7bdd"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before_repeat/PROCESS.json": {
+      "bytes": 1425,
+      "sha256": "d05820b5f1d4f5027cf91f8f337a922479c16f16a67098a0bbbf1b860f6fc39b"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before_repeat/gate_executed.gd": {
+      "bytes": 1741,
+      "sha256": "b35c2fcb6df622dbe1d50a9e898265336fb7205ce8f8a20ae6de12081e964104"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before_repeat/native.log": {
+      "bytes": 120,
+      "sha256": "5f827651b8923d45ae56472ff67ac388a0d9871b385f38e357f22883d9110819"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before_repeat/report.json": {
+      "bytes": 2848,
+      "sha256": "a08fa35adfd53f65e902c8ef4270ea4adde69206676b23cc238b8a08b6940ce5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/before_repeat/samples.jsonl": {
+      "bytes": 17353,
+      "sha256": "b229f2c5dcf54abee318a1f943b9d18f531fc2620c2b97fc96cf6b2047f231f5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/gate.gd": {
+      "bytes": 1741,
+      "sha256": "b35c2fcb6df622dbe1d50a9e898265336fb7205ce8f8a20ae6de12081e964104"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/probe_inputs/core/phase_undead_army_sources.gd": {
+      "bytes": 17176,
+      "sha256": "69cf2c15d954e082fd37e2b01d37347d1a515aa00d9a43514b5509f5ee9e2af7"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/probe_inputs/core/pool_identity.gd": {
+      "bytes": 2004,
+      "sha256": "cf9388a9288d0f3684be277fa91ca6845b6d8945fdd7cd065e9d499c06b7b4af"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/probe_inputs/project.godot": {
+      "bytes": 134,
+      "sha256": "832d549fc80031b92347a79dd1ea5b6fb2eedda7700ee19e68152de7d5311656"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/run.py": {
+      "bytes": 3908,
+      "sha256": "bfc6248075dcf6a4dfd8233f327ccf876b9ac1000bd5c0cfa6addf8f2f613bbb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/numeric_probe/run_repeat.py": {
+      "bytes": 3915,
+      "sha256": "5ac778674cad9283c15bc34217e56e4256e18be910544b5891720132253deec5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_patch_replay/REPLAY.json": {
+      "bytes": 700,
+      "sha256": "6ab125963ec76750554fd77cd869ce9f1472d3ec3d02654a94de391c75f5f31a"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_patch_replay/tools/native_bolvar_shield_patterns.py": {
+      "bytes": 10843,
+      "sha256": "11781f8b74063d52aa777ea630867016f2ce8916bd38337c1b0243667ac716c9"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_patch_replay/tools/native_enforcer_shield_patterns.py": {
+      "bytes": 2480,
+      "sha256": "9342eea049c95c327803ca8b6374ddcb47f4929b2047df391da3148516d6cc68"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/correction_review/tests/TEST_REPORT.json": {
+      "bytes": 63001,
+      "sha256": "3940a3c7392046b316409f8cfa5551ae17d80e0a55f6e6a423585fedd6c1c239"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/correction_review/tests/TEST_REPORT_REPEAT.json": {
+      "bytes": 63001,
+      "sha256": "427245048b4ced5164f0051aee1db9973438beca9de47c626c7e18cc24b19bcc"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/PYTHON_REPORT.json": {
+      "bytes": 45262,
+      "sha256": "7c8e1fd3725e048448e736ba90cb86fbd1280bbd5d546b9108151dd323d36c8a"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/after/LAUNCH.json": {
+      "bytes": 1288,
+      "sha256": "2a16db4c5c2c1d91c479328af95c5be8ec37fd775abd90a66ba0f320d48d7890"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/after/PROCESS.json": {
+      "bytes": 1468,
+      "sha256": "c5ac3010ee180b9e6b3b05e80b01bee4d6f1b567ab02ce80b4a8f4c2d0bb7665"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/after/gate_executed.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/after/native.log": {
+      "bytes": 151,
+      "sha256": "213f208744f38c560014bb9c873f992fbf2b81bf87ed3928a412b59f06cab5df"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/after/report.json": {
+      "bytes": 53219,
+      "sha256": "8b7133bf16f9397d237717fa72b3a7e28cd340f3058555aace60f844c5ca0fd1"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/after/samples.jsonl": {
+      "bytes": 23243,
+      "sha256": "8f856f39bc03edc164288c3073b1d0ffb743226d36c6239ccb4a5cbd306b5558"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/after_repeat/LAUNCH.json": {
+      "bytes": 1302,
+      "sha256": "d936ee66e5169b22b79ccd3350f78355d872f77d7b24c43c80319d67d81f25ba"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/after_repeat/PROCESS.json": {
+      "bytes": 1483,
+      "sha256": "0cfa9d295b52b5fe6ae1527f2c45466d32d6fcc368c3ce23f741825f5e45d1c0"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/after_repeat/gate_executed.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/after_repeat/native.log": {
+      "bytes": 151,
+      "sha256": "213f208744f38c560014bb9c873f992fbf2b81bf87ed3928a412b59f06cab5df"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/after_repeat/report.json": {
+      "bytes": 53219,
+      "sha256": "8b7133bf16f9397d237717fa72b3a7e28cd340f3058555aace60f844c5ca0fd1"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/after_repeat/samples.jsonl": {
+      "bytes": 23328,
+      "sha256": "a52c0db0c13f6e14a8b1c2dfcee1e0e0bac50e5c612531743ef5659492d9bbe5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/before/LAUNCH.json": {
+      "bytes": 1290,
+      "sha256": "417ba4f130285b084105c117789088fe5bda80209722fa2f6a10e42f70b4cf80"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/before/PROCESS.json": {
+      "bytes": 1471,
+      "sha256": "c65ed42bed43756785079fe0f7134a77e96202fbfc095a6c220f45f9fa055226"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/before/gate_executed.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/before/native.log": {
+      "bytes": 152,
+      "sha256": "e6d78645c7942274998d8e8d1f6205b5135fdf27e20a8a0451fd1011801e827c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/before/report.json": {
+      "bytes": 53222,
+      "sha256": "7954196d7da3bacbef59f30e901763c03db4dcfc9f2d194216fe8609e7be5fc3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/before/samples.jsonl": {
+      "bytes": 22903,
+      "sha256": "2a544bb5a75fff560d586b348d43901d07a79a862ef6ede6cf49850d72d2cc29"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/before_repeat/LAUNCH.json": {
+      "bytes": 1304,
+      "sha256": "6e8602649ad7d7f22cfbdb5392cb7485f26a8d54c66a58787cc07273e3af702f"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/before_repeat/PROCESS.json": {
+      "bytes": 1485,
+      "sha256": "ad2ed02e767bd2cbf40f5ef5a1da689f9c7c76758e1721c2e45469d7db2a9dc6"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/before_repeat/gate_executed.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/before_repeat/native.log": {
+      "bytes": 152,
+      "sha256": "e6d78645c7942274998d8e8d1f6205b5135fdf27e20a8a0451fd1011801e827c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/before_repeat/report.json": {
+      "bytes": 53222,
+      "sha256": "7954196d7da3bacbef59f30e901763c03db4dcfc9f2d194216fe8609e7be5fc3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/before_repeat/samples.jsonl": {
+      "bytes": 22990,
+      "sha256": "b25f5655bacdedcbd162f0d9bfa63d4d3e077241e6454a1c4809bed571e910d7"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/tamper/LAUNCH.json": {
+      "bytes": 1290,
+      "sha256": "95f49502e03366aafa5b3555722b7dfcf627a738e036b34e88e1ea36b14a02e0"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/tamper/PROCESS.json": {
+      "bytes": 1471,
+      "sha256": "aa5e7b1fc24aa0dd5cf1cf01068669bbd7b2004b91c4dbf4aae69af762863ea5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/tamper/gate_executed.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/tamper/native.log": {
+      "bytes": 152,
+      "sha256": "ecf128d6e28efb2ac3b44d6ab21c7d84830462077bd13abfa9a3aaf2409e2ce7"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/tamper/report.json": {
+      "bytes": 53228,
+      "sha256": "f5d1387acb669ec4ddaae8211197f78fdb0fb873adfb7af76dfaad28f4342b3d"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/tamper/samples.jsonl": {
+      "bytes": 22640,
+      "sha256": "31766e02b4d49c432aa8e8ee4b3afcf06d7019a51a714c3aa0d46bb162d90991"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/tamper_repeat/LAUNCH.json": {
+      "bytes": 1304,
+      "sha256": "07ea76b281ed817bd5e085f6168c17bf9a644b60846ced14b2c1a84feac25adb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/tamper_repeat/PROCESS.json": {
+      "bytes": 1485,
+      "sha256": "e4c0707c2cc59a2a4ab2e53aa09f3c5f38cd4752d5d9fcca4b4200bef811b03f"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/tamper_repeat/gate_executed.gd": {
+      "bytes": 4871,
+      "sha256": "cc31e9b48751c0f89e9f5436d2f489c1bf1da5b06f64e63ab6801d9a7e2a9572"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/tamper_repeat/native.log": {
+      "bytes": 152,
+      "sha256": "ecf128d6e28efb2ac3b44d6ab21c7d84830462077bd13abfa9a3aaf2409e2ce7"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/tamper_repeat/report.json": {
+      "bytes": 53228,
+      "sha256": "f5d1387acb669ec4ddaae8211197f78fdb0fb873adfb7af76dfaad28f4342b3d"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/enforcer_review/tamper_repeat/samples.jsonl": {
+      "bytes": 22725,
+      "sha256": "de71a6779408f63465eec89a91b141d957bdb50bde2590f18376fd5b37406edf"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/typed_numeric_probe/before/LAUNCH.json": {
+      "bytes": 1275,
+      "sha256": "1e9260df454b8f5a9f4fe528fdc4c25ab2ad9e05a06d73a8240fd9424487c999"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/typed_numeric_probe/before/PROCESS.json": {
+      "bytes": 1455,
+      "sha256": "0d574962ed47b64c6eb55392c2a8ba0434f7596de8fe5687fe904296a790c20f"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/typed_numeric_probe/before/gate_executed.gd": {
+      "bytes": 2799,
+      "sha256": "873ed5e355078a20bf7e4674645f03f648ca29c7f44a5bd44182c1cc4a00bcd5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/typed_numeric_probe/before/native.log": {
+      "bytes": 114,
+      "sha256": "9e74f506d3054b1499d6c34badda782c45619db329cff7578acd382c1aa5fa1a"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/typed_numeric_probe/before/report.json": {
+      "bytes": 11543,
+      "sha256": "a020ba134ec8396120be3433c927eeb6e911f75439d0c94a62462130b77e1060"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/typed_numeric_probe/before/samples.jsonl": {
+      "bytes": 18133,
+      "sha256": "70ae345792b23e8914a0a24f61757b1e8ed3844fb55ff16d8f3b16ed08a8c4ae"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/typed_numeric_probe/before_repeat/LAUNCH.json": {
+      "bytes": 1289,
+      "sha256": "507135953b3351b10cf36e5f868e80f37694d9c366237eb7ec5b1cca97fdada4"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/typed_numeric_probe/before_repeat/PROCESS.json": {
+      "bytes": 1470,
+      "sha256": "4b0f22c40c107b8f40a0b5edc58dc8b9e5a358ff6292e3f0454a11fb6238b120"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/typed_numeric_probe/before_repeat/gate_executed.gd": {
+      "bytes": 2799,
+      "sha256": "873ed5e355078a20bf7e4674645f03f648ca29c7f44a5bd44182c1cc4a00bcd5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/typed_numeric_probe/before_repeat/native.log": {
+      "bytes": 114,
+      "sha256": "9e74f506d3054b1499d6c34badda782c45619db329cff7578acd382c1aa5fa1a"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/typed_numeric_probe/before_repeat/report.json": {
+      "bytes": 11543,
+      "sha256": "a020ba134ec8396120be3433c927eeb6e911f75439d0c94a62462130b77e1060"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/portable_replay/typed_numeric_probe/before_repeat/samples.jsonl": {
+      "bytes": 20609,
+      "sha256": "b9aee6979c104da42aed4a7a56cdbc3309077ee408eec6878691ce9edc9de24b"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/prepare_enforcer_review.py": {
+      "bytes": 2479,
+      "sha256": "cf1b1a09d1a064e6fbfefa46453dd3bd0f25cf4facb8e3edf7db41ed28380505"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/probe_full_historical_sources.py": {
+      "bytes": 2237,
+      "sha256": "f466dfe801c1dc531aaf6fab2221f1e0c6b48e7996aa78afa2bce0316667ac0c"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/replay_to_new.py": {
+      "bytes": 2930,
+      "sha256": "b50097f34bb305642ddd3654019fabf3e1559ee1481e31bf9930c3581643d889"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/restore_to_new.py": {
+      "bytes": 1365,
+      "sha256": "2e4abef086d394ef5eaa36d6c462b5fdb6c36f919f82ad0a3a63120d01be4208"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/test_enforcer_full_sources.py": {
+      "bytes": 3648,
+      "sha256": "4c418ea891d18acb682875adad1a566a215966407d2de81fd6596f336efb7130"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/test_enforcer_full_sources_initial.py": {
+      "bytes": 3550,
+      "sha256": "fa834579ceb2d8bd53a7ea12088644e55c97c9fab2fc7e0905161e0d08c847bb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/PLAN.json": {
+      "bytes": 527,
+      "sha256": "8d9f5e9c9f86ee3142a63e3db1c82f8734f27b621836667ec77899a66dc86cff"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/SOURCE_INPUT_MAP.json": {
+      "bytes": 284,
+      "sha256": "df11cf89f2003cb8fcdc4db1dc3b1b12130789127feac7321780983114641839"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before/LAUNCH.json": {
+      "bytes": 1243,
+      "sha256": "b6f1bf3105c3a845effe13ef9fe1b4ecd21380664f85039fac8ddc43eafe36a6"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before/PROCESS.json": {
+      "bytes": 1424,
+      "sha256": "088b186ab3f7a67215459936a4a5daaa8f6a15eba218c396c648e41004ba8728"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before/gate_executed.gd": {
+      "bytes": 2799,
+      "sha256": "873ed5e355078a20bf7e4674645f03f648ca29c7f44a5bd44182c1cc4a00bcd5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before/native.log": {
+      "bytes": 114,
+      "sha256": "9e74f506d3054b1499d6c34badda782c45619db329cff7578acd382c1aa5fa1a"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before/report.json": {
+      "bytes": 11543,
+      "sha256": "a020ba134ec8396120be3433c927eeb6e911f75439d0c94a62462130b77e1060"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before/samples.jsonl": {
+      "bytes": 17789,
+      "sha256": "a3d6c990edee0ce3e6e79bca96cdb904ceb74f2689bfedbec8ac150ab242377f"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before_INPUT_MAP.json": {
+      "bytes": 409,
+      "sha256": "8a5bce0a38c6b0fd9914f4f90468f60183db75fde122be05d7c17acba648cda3"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before_repeat/LAUNCH.json": {
+      "bytes": 1257,
+      "sha256": "b37f2ffe707480f42bdb3aa71c1d515e30cb0e0c8346a1680629a60c380ad83f"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before_repeat/PROCESS.json": {
+      "bytes": 1438,
+      "sha256": "c29ce7c806e1143955a7131a1501c2d218e43a8799bde65729670c65a88233c6"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before_repeat/gate_executed.gd": {
+      "bytes": 2799,
+      "sha256": "873ed5e355078a20bf7e4674645f03f648ca29c7f44a5bd44182c1cc4a00bcd5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before_repeat/native.log": {
+      "bytes": 114,
+      "sha256": "9e74f506d3054b1499d6c34badda782c45619db329cff7578acd382c1aa5fa1a"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before_repeat/report.json": {
+      "bytes": 11543,
+      "sha256": "a020ba134ec8396120be3433c927eeb6e911f75439d0c94a62462130b77e1060"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/before_repeat/samples.jsonl": {
+      "bytes": 16923,
+      "sha256": "5181ae297b44d2db04bd30d38313a4f5ce2fa1af2075a0ea706210aee1257a42"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/gate.gd": {
+      "bytes": 2799,
+      "sha256": "873ed5e355078a20bf7e4674645f03f648ca29c7f44a5bd44182c1cc4a00bcd5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/probe_inputs/core/phase_undead_army_sources.gd": {
+      "bytes": 17176,
+      "sha256": "69cf2c15d954e082fd37e2b01d37347d1a515aa00d9a43514b5509f5ee9e2af7"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/probe_inputs/core/pool_identity.gd": {
+      "bytes": 2004,
+      "sha256": "cf9388a9288d0f3684be277fa91ca6845b6d8945fdd7cd065e9d499c06b7b4af"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/probe_inputs/project.godot": {
+      "bytes": 134,
+      "sha256": "832d549fc80031b92347a79dd1ea5b6fb2eedda7700ee19e68152de7d5311656"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/run.py": {
+      "bytes": 3908,
+      "sha256": "bfc6248075dcf6a4dfd8233f327ccf876b9ac1000bd5c0cfa6addf8f2f613bbb"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/typed_numeric_probe/run_repeat.py": {
+      "bytes": 3915,
+      "sha256": "5ac778674cad9283c15bc34217e56e4256e18be910544b5891720132253deec5"
+    },
+    "historical_tools_batch12_new_enforcer_correction_20261109/verify_candidate.py": {
+      "bytes": 9017,
+      "sha256": "5e3b54c2bc9180984cbac041a08b9501280a6f02547b58ff4d356534c16c0ba2"
+    }
+  },
+  "archive_members": 274,
+  "internal_manifest_members": 273,
+  "status": "ONE_EXPLICIT_NEW_ENFORCER_CORRECTION_CANDIDATE",
+  "full_source_map_member": "historical_tools_batch12_new_enforcer_correction_20261109/SOURCE_MAP.json",
+  "source_map_sha256": "d4b0801f7c69dcb8899149680f8a51979db644fa118b7bafd93b922d248ef3c1",
+  "base_source_map_sha256": "dc3968e2c02fc646100ad1a1745fe885414ad679250363c732f4ae4fae2920cb",
+  "added_source_files": [
+    "tools/native_enforcer_shield_patterns.py"
+  ],
+  "modified_source_files": [],
+  "removed_source_files": [],
+  "delta_bytes": 2480,
+  "dependencies": {
+    "source_baseline": {
+      "commit": "1266c9d1c78bf3f388d2f695467d60af9807ac75",
+      "folder": "battlegrounds-backup/pending/20261109-historical-tools-batch10-overlay-candidate",
+      "archive_sha256": "dd3fcc8a075443f871db47a264c5eda5d1188de121d571009bad39f20a62a631",
+      "manifest_sha256": "f90b3fbb3020fc3a63c81c227d26872a21a6b419338dcc51dfa45451156fdb9d",
+      "source_map_sha256": "dc3968e2c02fc646100ad1a1745fe885414ad679250363c732f4ae4fae2920cb"
+    },
+    "previous_full_chain_audit": {
+      "commit": "8e168c0c67b185a885c4e9251f728e3bde140cab",
+      "folder": "battlegrounds-backup/pending/20261109-night-fresh-chain"
+    },
+    "prior_review": {
+      "commit": "c920ae817ceb3c822ebb8456bcf7ba55643f27e4",
+      "folder": "battlegrounds-backup/pending/20261109-historical-tools-batch11-source-review",
+      "archive_sha256": "3c841a46012974078fa46e722f61989ff1212647f32cf27539f3a8359055c393",
+      "manifest_sha256": "4f8a939f30bea9c2ac209af68b1c576ed7e6fe725a71cd20d191c982c0438504"
+    }
+  },
+  "full_game_verified": false,
+  "old_save_compatibility_verified": false,
+  "latest_versions_proven": false,
+  "runtime_source_changes": 1,
+  "historical_originals_restored": 0,
+  "Bolvar_review_only": true,
+  "assertions_enabled_required": true,
+  "python_optimization_forbidden": true,
+  "promote_over_verified_baseline": false,
+  "remaining_reference_gaps_within_original_scope": 348,
+  "all_prior_backups_retained": true,
+  "archive_privacy_scan": {
+    "forbidden_paths": [],
+    "common_secret_signatures": []
+  }
+}

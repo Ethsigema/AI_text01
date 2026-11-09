@@ -1,0 +1,143 @@
+{
+  "status": "LIMITED_NEW_ENFORCER_TESTS_PASS_BOLVAR_INTEGRATION_DEFERRED",
+  "Godot_runs": [
+    {
+      "path": "numeric_probe/before",
+      "checks_or_cases": 28,
+      "maxrss_kib": 61916
+    },
+    {
+      "path": "numeric_probe/before_repeat",
+      "checks_or_cases": 28,
+      "maxrss_kib": 62012
+    },
+    {
+      "path": "typed_numeric_probe/before",
+      "checks_or_cases": 33,
+      "maxrss_kib": 62164
+    },
+    {
+      "path": "typed_numeric_probe/before_repeat",
+      "checks_or_cases": 33,
+      "maxrss_kib": 62084
+    },
+    {
+      "path": "portable_replay/typed_numeric_probe/before",
+      "checks_or_cases": 33,
+      "maxrss_kib": 62160
+    },
+    {
+      "path": "portable_replay/typed_numeric_probe/before_repeat",
+      "checks_or_cases": 33,
+      "maxrss_kib": 62152
+    },
+    {
+      "path": "enforcer_review/before",
+      "checks_or_cases": 432,
+      "maxrss_kib": 64208
+    },
+    {
+      "path": "enforcer_review/after",
+      "checks_or_cases": 432,
+      "maxrss_kib": 64284
+    },
+    {
+      "path": "enforcer_review/tamper",
+      "checks_or_cases": 432,
+      "maxrss_kib": 64032
+    },
+    {
+      "path": "enforcer_review/before_repeat",
+      "checks_or_cases": 432,
+      "maxrss_kib": 64236
+    },
+    {
+      "path": "enforcer_review/after_repeat",
+      "checks_or_cases": 432,
+      "maxrss_kib": 64272
+    },
+    {
+      "path": "enforcer_review/tamper_repeat",
+      "checks_or_cases": 432,
+      "maxrss_kib": 64412
+    },
+    {
+      "path": "portable_replay/enforcer_review/before",
+      "checks_or_cases": 432,
+      "maxrss_kib": 64248
+    },
+    {
+      "path": "portable_replay/enforcer_review/after",
+      "checks_or_cases": 432,
+      "maxrss_kib": 64308
+    },
+    {
+      "path": "portable_replay/enforcer_review/tamper",
+      "checks_or_cases": 432,
+      "maxrss_kib": 64204
+    },
+    {
+      "path": "portable_replay/enforcer_review/before_repeat",
+      "checks_or_cases": 432,
+      "maxrss_kib": 64432
+    },
+    {
+      "path": "portable_replay/enforcer_review/after_repeat",
+      "checks_or_cases": 432,
+      "maxrss_kib": 64220
+    },
+    {
+      "path": "portable_replay/enforcer_review/tamper_repeat",
+      "checks_or_cases": 432,
+      "maxrss_kib": 64340
+    }
+  ],
+  "Godot_run_count": 18,
+  "Godot_maxrss_kib": 64432,
+  "complete_python_reports": [
+    {
+      "path": "correction_review/tests/TEST_REPORT.json",
+      "checks": 602,
+      "maxrss_kib": 14584
+    },
+    {
+      "path": "correction_review/tests/TEST_REPORT_REPEAT.json",
+      "checks": 602,
+      "maxrss_kib": 14576
+    },
+    {
+      "path": "portable_replay/correction_review/tests/TEST_REPORT.json",
+      "checks": 602,
+      "maxrss_kib": 14540
+    },
+    {
+      "path": "portable_replay/correction_review/tests/TEST_REPORT_REPEAT.json",
+      "checks": 602,
+      "maxrss_kib": 14516
+    },
+    {
+      "path": "enforcer_full_sources_retry/REPORT.json",
+      "checks": 416,
+      "maxrss_kib": 54236
+    },
+    {
+      "path": "enforcer_full_sources_repeat_retry/REPORT.json",
+      "checks": 416,
+      "maxrss_kib": 54244
+    },
+    {
+      "path": "enforcer_review/PYTHON_REPORT.json",
+      "checks": 426,
+      "maxrss_kib": 54656
+    },
+    {
+      "path": "portable_replay/enforcer_review/PYTHON_REPORT.json",
+      "checks": 426,
+      "maxrss_kib": 54912
+    }
+  ],
+  "Python_maxrss_kib": 54912,
+  "Bolvar_full_data_limit_stop_not_a_pass": true,
+  "two_initial_Enforcer_harness_failures_not_counted_as_passes": true,
+  "full_Game_Catalog_driver_and_save_unverified": true
+}

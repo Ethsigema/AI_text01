@@ -1,0 +1,11 @@
+{
+  "original_sha256": "68c4b12f8940d0458c151a638f3597538225d99bebd22ffffbb34a2d3d6d4a4c",
+  "new_correction_sha256": "11781f8b74063d52aa777ea630867016f2ce8916bd38337c1b0243667ac716c9",
+  "status": "KEEP_OUT_OF_RUNTIME_FULL_DATA_VALIDATION_NOT_ESTABLISHED",
+  "selected_fixture_and_typed_oracle_checks_passed": true,
+  "same_I_O_path_full_data_probe": "Exact historical original compile entry stopped at128MiB address-space limit. New proposal changes only same(); verify_sources/data reads unchanged. Proposal was not retested against full data after this resource result.",
+  "historical_probe_report": "full_source_probe_bolvar/REPORT.json",
+  "limits_raised_or_retry_used": false,
+  "golden_held_unchanged": true,
+  "source_proof_dependencies_removed": false
+}
