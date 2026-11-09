@@ -1,0 +1,34 @@
+# 目录内存实验候选增量恢复
+
+状态：EXPERIMENTAL_DATA_ONLY_PASS_FULL_GAME_UNTESTED。不提升或替换最后已验收的金色召唤者基线a71d3e4ea64dc52264a3f789a48ddae2e4a043cd。直接依赖女妖候选，不能跳过该中间版本。女妖完整Game未验收，本内存实验也未运行完整Game。
+
+## 固定依赖与历史链
+
+女妖候选恢复说明：
+https://github.com/Ethsigema/AI_text01/blob/35c7fc04e0cb85c4ec9435bf4d2861b65c057971/battlegrounds-backup/pending/20261109-hopebringer-banshee-golden-candidate/RECOVERY_VERIFIED.md
+
+直接基线归档提交c6e62f2af2277b43b139b8049936008772df979d，SHA256 a20b6c427a1219903df1d4a927693d3e553a337236f509408eff651318297433。
+基线SOURCE_MAP SHA256 45dcd76fe50c5e2e03cea65032189b15cca35894cac08b2e704c17139b7fd6a8。
+基线独立恢复回执SHA256 f7befb5b72d4bb9773f92413144635e1ac3388b7bc0ba1998227bc03027d6e78。
+
+此前真实全链重新下载核验及配方：
+https://github.com/Ethsigema/AI_text01/blob/0d47d1b6bf8c2943647fbc59ba8448cd6dde0ab9/battlegrounds-backup/pending/20261109-banshee-golden-fresh-chain/RECOVERY.md
+
+本轮将重新下载本次实验包、复用并重哈希已经独立恢复的女妖基线，不再重新下载历史全链。上述全链证明属于此前单独运行，不冒充本次执行。
+
+## 恢复方法
+
+从同一固定提交下载MANIFEST.json、CHANGES.json、REMOVALS.json、SHA256SUMS.txt、README.md、RECOVERY.md及6个part000至part005分片。按MANIFEST parts顺序拼接为catalog_memory_candidate_20261109.tar.xz。
+大小1,309,192字节，SHA256 e5272cc3556bf626d353993b142a75d40ea26c4522eb94bcb2f5a55994f7f7d6。
+
+逐片及整包核对大小和SHA256。安全解压到新目录，拒绝绝对路径、上层跳转、链接、特殊文件和重复成员。外部清单覆盖全部113个归档成员，内部PACKAGE_MANIFEST覆盖其余112项。
+
+运行树只修改core/catalog.gd一个文件，新增0、删除0，净增432字节。完整替换文件位于patch/core/catalog.gd，不是delta/。严格逐文件核对基线与BASE_MAP.json，独立复制到新目录并覆盖patch/，不能使用硬链接或修改基线；最终必须精确符合SOURCE_MAP.json，不能缺失、多余或哈希不符。完成后再次重哈希基线。
+
+目标27,892文件、1,548,714,104字节；SOURCE_MAP SHA256 e52121d24d2b21f75af73521362928a2da449f7f42915fb692cfcb3d425ab0a0。
+
+建议使用本目录追加的verify_and_restore_catalog_memory_candidate.py及RECOVERY_VERIFIED.md执行上述安全检查。输出目录须全新，保留旧包与所有已有恢复结果。不要在核验树运行Godot。
+
+## 验证边界
+
+数据级A/B读取20个JSON，输出4002卡，报告逐字一致并有8项边界检查；数据探针RSS约降低21.8%，不能外推为完整Game收益。五对畸形输入保留相同旧错误，并非新增友好拒绝测试。独立女妖战斗20项属于分配参数A/B，不是新catalog完整验收。完整脚本编译、全部来源验证器、额外overlay/registry、Game、存档、回放和希望信使同场均未验收。没有确认之前SIGKILL的系统原因。
