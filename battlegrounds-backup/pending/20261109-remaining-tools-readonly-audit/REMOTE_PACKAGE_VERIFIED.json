@@ -1,0 +1,139 @@
+{
+  "status": "PASS_THIS_EXACT_EVIDENCE_PACKAGE_ONLY",
+  "bytes": 1537068,
+  "sha256": "9eb4be705ee386167956350de3212845a70b664148f8dddeb3aed540da5c12ba",
+  "archive_files": 102,
+  "parts": 7,
+  "all_members_match": true,
+  "credential_signature_findings": [],
+  "excluded_path_findings": [],
+  "dependencies_freshly_downloaded_or_reverified": false,
+  "prior_cancelled_dependency_download_retried": false,
+  "source_modified": false,
+  "historical_modules_executed": false,
+  "game_rerun": false,
+  "remaining_gaps": 345,
+  "deferred_tools": 13,
+  "verified_publication": {
+    "commit": "883efbacff5a95700f34baf6501f9df59a6bc032",
+    "folder": "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit",
+    "branch": "battlegrounds-recovery-20261103",
+    "ref_updated": true,
+    "remote_head_verified": true
+  },
+  "remote_files": [
+    {
+      "name": "MANIFEST.json",
+      "sha": "81b4b29be21c590500725109ac0b8a75e60b6aba",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/MANIFEST.json",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "PRIVACY_AND_SCOPE.json",
+      "sha": "9943034968baa5c9683218287fb5afff828fb63f",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/PRIVACY_AND_SCOPE.json",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "README.md",
+      "sha": "81a03c544d27caa991dea6a82a74651bfce2496c",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/README.md",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "RECOVERY.md",
+      "sha": "5f1c6bce5809a59f89e35515ebdada624223b8e7",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/RECOVERY.md",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha": "6a182f5a271729238fe396570ea6eec4a31c43f1",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/SHA256SUMS.txt",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part000",
+      "sha": "b2e28e37b9d47013bb2486436c6b3e238901b7d3",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part000",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part001",
+      "sha": "4a5bb96f0361ce9e9a5f657d9167538055162f80",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part001",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part002",
+      "sha": "05d67ae5b06b7d6aa8fbb988b447025117c17504",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part002",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part003",
+      "sha": "c6ad5ffc102e35c0b911c5344dec461a2f404fc9",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part003",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part004",
+      "sha": "bc00003246227fe4a8bfd164824bc41e477e8fc0",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part004",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part005",
+      "sha": "3417ad23d338f96c5655a84e3845bcfc3690d9bd",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part005",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part006",
+      "sha": "ff3726c93e72a649b763e4d29960c747b6abdf81",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part006",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "verify_package.py",
+      "sha": "9d0fc448657fd6f42ead5e5fc8284ec7c8aeadc8",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/883efbacff5a95700f34baf6501f9df59a6bc032/battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/verify_package.py",
+      "encoding": "base64",
+      "fresh_remote_readback": true
+    }
+  ],
+  "preservation": {
+    "old_blobs": 3713,
+    "new_blobs": 3726,
+    "preserved_old_blobs": 3713,
+    "changed_old_blobs": 0,
+    "added": [
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/MANIFEST.json",
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/PRIVACY_AND_SCOPE.json",
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/README.md",
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/RECOVERY.md",
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/SHA256SUMS.txt",
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part000",
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part001",
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part002",
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part003",
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part004",
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part005",
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/remaining_tools_readonly_audit_20261109T215306Z.tar.xz.part006",
+      "battlegrounds-backup/pending/20261109-remaining-tools-readonly-audit/verify_package.py"
+    ]
+  },
+  "verification_scope": "Fresh remote readback of this package and its sidecars only. No previously cancelled operation or dependency download was retried. No dependency was reverified."
+}
