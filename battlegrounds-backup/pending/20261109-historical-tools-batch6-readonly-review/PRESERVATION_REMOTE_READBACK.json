@@ -1,0 +1,73 @@
+{
+  "status": "PASS_REMOTE_READBACK_OF_PRESERVED_ORIGINAL_EVIDENCE",
+  "preserved_commit": "170777528947389f76e04c04eb572be4bcd0b894",
+  "verified_files": [
+    {
+      "name": "ARCHIVE_PUBLICATION_RECEIPT.json",
+      "bytes": 402,
+      "git_blob_sha": "e16bbc8c8c59bb6977d8709b34857f48902a8384",
+      "original_remote_blob_and_committed_content_exact": true
+    },
+    {
+      "name": "BATCH6_REVIEW_REMOTE_VERIFICATION.json",
+      "bytes": 3278,
+      "git_blob_sha": "9a01aea3c4c2993fdb2144e66cab15927350a941",
+      "original_remote_blob_and_committed_content_exact": true
+    },
+    {
+      "name": "BEFORE_FETCH_OBJECTS.json",
+      "bytes": 1813,
+      "git_blob_sha": "784d4d7b45ddd446b9f851305502f0a43610eb31",
+      "original_remote_blob_and_committed_content_exact": true
+    },
+    {
+      "name": "BOUNDED_PROCESS.json",
+      "bytes": 280,
+      "git_blob_sha": "8b2b803f082b6c7f8d29dde445932659ebf73392",
+      "original_remote_blob_and_committed_content_exact": true
+    },
+    {
+      "name": "EMBEDDED_SOURCE_FILES_VERIFIED.json",
+      "bytes": 21927,
+      "git_blob_sha": "39f3373beb425d046df8b6ce8540b4fe283f399d",
+      "original_remote_blob_and_committed_content_exact": true
+    },
+    {
+      "name": "ENVIRONMENT_INTERRUPTION.json",
+      "bytes": 3071,
+      "git_blob_sha": "30f6ec2cfd308b78368734e45ddaba6583a764f3",
+      "original_remote_blob_and_committed_content_exact": true
+    },
+    {
+      "name": "FETCH_PROVENANCE.json",
+      "bytes": 7652,
+      "git_blob_sha": "b1dfbffb3e36032812e233e54b77e2becb3cb6f4",
+      "original_remote_blob_and_committed_content_exact": true
+    },
+    {
+      "name": "PINNED_INPUT_MANIFEST.json",
+      "bytes": 33081,
+      "git_blob_sha": "086000bc2c9c55536366f7465b1fe282ca55ba72",
+      "original_remote_blob_and_committed_content_exact": true
+    },
+    {
+      "name": "PINNED_INPUT_RECEIPT.json",
+      "bytes": 7668,
+      "git_blob_sha": "e15f736072aef9f0b4296abffa7c2697782719b3",
+      "original_remote_blob_and_committed_content_exact": true
+    }
+  ],
+  "recovered_original_files": 8,
+  "new_environment_note_files": 1,
+  "missing_original_publication_files": [
+    "RECOVERY_VERIFIED.md",
+    "VERIFICATION_SHA256SUMS.txt",
+    "VERIFY.log",
+    "verify_batch6_review.py"
+  ],
+  "original_success_receipt_sha256": "03ba2e85367764f7faf9750f23a789cfa86565c1c494e2ed50c3e5a7db12d3ab",
+  "success_receipt_fabricated_or_recreated": false,
+  "source_archive_unchanged": true,
+  "empty_workspace_not_treated_as_original_runtime": true,
+  "verification_not_rerun_after_environment_interruption": true
+}
