@@ -1,0 +1,75 @@
+{
+  "status": "PASS_EXACT_REVIEW_ARCHIVE_ONLY",
+  "archive": "imperial_defender_candidate_review_20261109T220940Z.tar.xz",
+  "bytes": 104588,
+  "sha256": "19750c8aa7ad3117befab977d8dd338fbb934d5ed5c958cf373a52e71e54bde0",
+  "members_verified": 57,
+  "candidate_installation_deferred": true,
+  "known_mapping_counterexamples": 3,
+  "remaining_reference_gaps": 345,
+  "source_tree_modified_in_backup": false,
+  "historical_tests_rerun_in_backup": false,
+  "game_or_save_accepted": false,
+  "dependencies_reverified": false,
+  "cancelled_dependency_download_retried": false,
+  "excluded_path_findings": [],
+  "common_credential_signature_findings": [],
+  "publication": {
+    "commit": "8bd0a86d801760e643049ad380d4e84f9459350c",
+    "folder": "battlegrounds-backup/pending/20261109-imperial-defender-candidate-review",
+    "branch": "battlegrounds-recovery-20261103",
+    "head_verified": true,
+    "tree_check": {
+      "old_blobs_preserved": 3728,
+      "new_files": 7,
+      "old_changes": 0,
+      "force_push": false
+    },
+    "folder_url": "https://github.com/Ethsigema/AI_text01/tree/8bd0a86d801760e643049ad380d4e84f9459350c/battlegrounds-backup/pending/20261109-imperial-defender-candidate-review"
+  },
+  "readback_files": [
+    {
+      "name": "MANIFEST.json",
+      "sha": "f8d8470df2152c753017e533d1ae42c9f6d317ee",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/8bd0a86d801760e643049ad380d4e84f9459350c/battlegrounds-backup/pending/20261109-imperial-defender-candidate-review/MANIFEST.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "PRIVACY_AND_SCOPE.json",
+      "sha": "2f66166ba7e137232dd164d43cab81adee6ec419",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/8bd0a86d801760e643049ad380d4e84f9459350c/battlegrounds-backup/pending/20261109-imperial-defender-candidate-review/PRIVACY_AND_SCOPE.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "README.md",
+      "sha": "c468515e9ce9e08fd4652427a44ca57122bd9d3d",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/8bd0a86d801760e643049ad380d4e84f9459350c/battlegrounds-backup/pending/20261109-imperial-defender-candidate-review/README.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "RECOVERY.md",
+      "sha": "b844b85e44ae96803c472c49c479fb32f2e0ec8b",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/8bd0a86d801760e643049ad380d4e84f9459350c/battlegrounds-backup/pending/20261109-imperial-defender-candidate-review/RECOVERY.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha": "65a6ea52ee78ef154633bff461c717b6e28760d5",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/8bd0a86d801760e643049ad380d4e84f9459350c/battlegrounds-backup/pending/20261109-imperial-defender-candidate-review/SHA256SUMS.txt",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "imperial_defender_candidate_review_20261109T220940Z.tar.xz",
+      "sha": "6bd48b48d477b82cf129a03c5f505d44665fbb96",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/8bd0a86d801760e643049ad380d4e84f9459350c/battlegrounds-backup/pending/20261109-imperial-defender-candidate-review/imperial_defender_candidate_review_20261109T220940Z.tar.xz",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "verify_backup.py",
+      "sha": "f2dcfac8e748f8226ea0b6aa64062920c4ff8b04",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/8bd0a86d801760e643049ad380d4e84f9459350c/battlegrounds-backup/pending/20261109-imperial-defender-candidate-review/verify_backup.py",
+      "fresh_remote_readback": true
+    }
+  ],
+  "scope": "Only this exact new review package was freshly read from the remote. No previous dependency or cancelled operation was downloaded, retried or reverified."
+}
