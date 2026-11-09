@@ -1,0 +1,414 @@
+{
+  "status": "PASS_FRESH_BATCH13_BOUNDED_BOLVAR_CORRECTION_STREAM_RECONSTRUCTION",
+  "archive_commit": "2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2",
+  "folder": "battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction",
+  "published_files_freshly_downloaded": 32,
+  "archive": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz",
+  "bytes": 5112724,
+  "sha256": "69688097600dcdf79f754d065848ddff6f194366c611c78241fb4cff26d2769b",
+  "archive_parts_verified": 21,
+  "archive_members_verified": 158,
+  "internal_manifest_entries_verified": 157,
+  "exact_whitelist_verified": true,
+  "read_only_evidence_checks": 83,
+  "source_baseline_commit": "1e2ede27d0312440996e2c7c9e88ebdd033ee195",
+  "source_baseline_archive_freshly_downloaded": true,
+  "source_baseline_archive_sha256": "a7ce5385a8eef690c4ca0babfbf2fce1d5afc60882a87dac0803671f0599e3b4",
+  "source_baseline_archive_parts_verified": 6,
+  "source_baseline_archive_members_verified": 274,
+  "source_baseline_archive_internal_entries_verified": 273,
+  "source_baseline_read_only_checks": 175,
+  "historical_baseline_tree_reused": true,
+  "historical_chain_freshly_downloaded": false,
+  "historical_chain_rerun": false,
+  "official_original_zip_rehashed_this_run": false,
+  "captured_source_inputs_verified_against_actual_baseline": 25,
+  "historical_and_numeric_only_bytes_match_fixed_dependency": true,
+  "prior_numeric_oracle_bytes_match_fixed_dependency": true,
+  "patch_edges_checked": [
+    {
+      "from": "historical",
+      "to": "numeric_only",
+      "patch_sha256": "f2e24b07ec44ef0bedaec1b6db2597f576d494277e33e40a106352af2a3902d1",
+      "forward_reverse_forward_exact": true,
+      "zero_fuzz": true,
+      "zero_offset": true
+    },
+    {
+      "from": "numeric_only",
+      "to": "initial",
+      "patch_sha256": "265f5832b3093b45d66e83940f1b496f293789408a3466fd313e747a57450e86",
+      "forward_reverse_forward_exact": true,
+      "zero_fuzz": true,
+      "zero_offset": true
+    },
+    {
+      "from": "initial",
+      "to": "revision2",
+      "patch_sha256": "6fe97c9351b24d5ad5747cdcc4308ab18d4d4189775d939f750918eb81a13244",
+      "forward_reverse_forward_exact": true,
+      "zero_fuzz": true,
+      "zero_offset": true
+    },
+    {
+      "from": "historical",
+      "to": "revision2",
+      "patch_sha256": "84409dffc40c93c017481d499274822219ed9be28dfa093a59d9f8c69572cde2",
+      "forward_reverse_forward_exact": true,
+      "zero_fuzz": true,
+      "zero_offset": true
+    },
+    {
+      "from": "historical",
+      "to": "revision3",
+      "patch_sha256": "8f49761c649cff27f651f7816db7e33c3a80a54c52db03f0b12c65937115bd36",
+      "forward_reverse_forward_exact": true,
+      "zero_fuzz": true,
+      "zero_offset": true
+    },
+    {
+      "from": "numeric_only",
+      "to": "revision3",
+      "patch_sha256": "39983c938b7655b7d74110f2f4c7ca284806b1e5d2f8fcf5c882b2dfe039ce1b",
+      "forward_reverse_forward_exact": true,
+      "zero_fuzz": true,
+      "zero_offset": true
+    },
+    {
+      "from": "revision2",
+      "to": "revision3",
+      "patch_sha256": "a924585d3bfae481c6d6125c9b83436e61a223e627d2856c80d1065b6b8db751",
+      "forward_reverse_forward_exact": true,
+      "zero_fuzz": true,
+      "zero_offset": true
+    }
+  ],
+  "historical_generators_executed": false,
+  "candidate_modules_executed": false,
+  "new_differential_and_full_current_source_tests_rerun": false,
+  "tested_interpreter": "CPython 3.12.14",
+  "backup_verifier_interpreter": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "stable_seekable_regular_files_required": true,
+  "arbitrarily_huge_values_bounded_memory_guaranteed": false,
+  "atomic_snapshot_under_concurrent_mutation_guaranteed": false,
+  "exact_error_text_position_or_traceback_guaranteed": false,
+  "historical_original_full_current_source_success_claimed": false,
+  "Bolvar_golden_hold_retained": true,
+  "normal_partial_and_non_default_pool_limits_retained": true,
+  "baseline_files_rehashed_twice": 27917,
+  "baseline_bytes": 1549281831,
+  "candidate_files_rebuilt_as_actual_byte_stream": 27918,
+  "candidate_bytes": 1549299108,
+  "candidate_source_map_sha256": "de45de078a3b334eff7b901085deb8140561f21af3013b8af31b266628cacc6f",
+  "candidate_source_aggregate_sha256": "fefcdb171d91f8101f743848cf4266925004991e66c32d513493cc4abad6e57c",
+  "source_changes": {
+    "added": [
+      "tools/native_bolvar_shield_patterns.py"
+    ],
+    "modified": [],
+    "removed": []
+  },
+  "runtime_source_changes": 1,
+  "historical_originals_restored_this_batch": 0,
+  "remaining_reference_gaps_within_original_scope": 347,
+  "assertions_enabled_required": true,
+  "assertions_enabled_during_verification": true,
+  "full_runtime_directory_created_by_backup_verifier": false,
+  "full_static_dependency_audit_rerun": false,
+  "all_historical_searches_rerun": false,
+  "gameplay_rerun": false,
+  "Godot_rerun": false,
+  "full_compiler_executed": false,
+  "full_game_verified": false,
+  "full_catalog_verified": false,
+  "old_save_compatibility_verified": false,
+  "latest_versions_proven": false,
+  "historical_baseline_unchanged": true,
+  "all_prior_backups_preserved": true,
+  "missing_source_files": [],
+  "mismatched_source_files": [],
+  "unexpected_source_files": [],
+  "downloads": [
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/1e2ede27d0312440996e2c7c9e88ebdd033ee195/battlegrounds-backup/pending/20261109-historical-tools-batch12-new-enforcer-correction/MANIFEST.json",
+      "name": "MANIFEST.json",
+      "bytes": 67006,
+      "sha256": "5c4f1094a28e392304393fc7eae1b74d9e9a504b3bdd9b427d04055ff70996d7",
+      "checked_at_utc": "2026-11-09T19:15:31.719508+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/1e2ede27d0312440996e2c7c9e88ebdd033ee195/battlegrounds-backup/pending/20261109-historical-tools-batch12-new-enforcer-correction/REMOTE_STREAM_VERIFIED.json",
+      "name": "REMOTE_STREAM_VERIFIED.json",
+      "bytes": 20509,
+      "sha256": "431adc82d6d122156b6824a0a60e6fee9e64a5c7f0dbd705f341a6cf89c8c918",
+      "checked_at_utc": "2026-11-09T19:15:42.287728+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/1e2ede27d0312440996e2c7c9e88ebdd033ee195/battlegrounds-backup/pending/20261109-historical-tools-batch12-new-enforcer-correction/historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part000",
+      "name": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "84b79a3f6958230f238129a9ca1e9bef446a3b860aee83264aa6e803dbcb5fab",
+      "checked_at_utc": "2026-11-09T19:15:35.047416+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/1e2ede27d0312440996e2c7c9e88ebdd033ee195/battlegrounds-backup/pending/20261109-historical-tools-batch12-new-enforcer-correction/historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part001",
+      "name": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "6e282c191110d65cbd6bf14866a55a6dde561217351e03ef83f2f55e55fbb822",
+      "checked_at_utc": "2026-11-09T19:15:34.992115+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/1e2ede27d0312440996e2c7c9e88ebdd033ee195/battlegrounds-backup/pending/20261109-historical-tools-batch12-new-enforcer-correction/historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part002",
+      "name": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "1319a6d3b5687d81711df04572fdb3dc2a5d7e923a3c086fc02c217dc9620a44",
+      "checked_at_utc": "2026-11-09T19:15:35.036016+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/1e2ede27d0312440996e2c7c9e88ebdd033ee195/battlegrounds-backup/pending/20261109-historical-tools-batch12-new-enforcer-correction/historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part003",
+      "name": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "0e3e7fc9dd4c2aec466afe6872c765680ac07ada2be1db722cbc656ee0244e77",
+      "checked_at_utc": "2026-11-09T19:15:35.136381+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/1e2ede27d0312440996e2c7c9e88ebdd033ee195/battlegrounds-backup/pending/20261109-historical-tools-batch12-new-enforcer-correction/historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part004",
+      "name": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "6774dae643d2a8c49c2a5ab2a472d663961f4cf57e93574d824b93a0cc34481f",
+      "checked_at_utc": "2026-11-09T19:15:37.559331+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/1e2ede27d0312440996e2c7c9e88ebdd033ee195/battlegrounds-backup/pending/20261109-historical-tools-batch12-new-enforcer-correction/historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part005",
+      "name": "historical_tools_batch12_new_enforcer_correction_20261109.tar.xz.part005",
+      "bytes": 223752,
+      "sha256": "bf3a58132dec7c81eb72bd122ed8330a8ab672bc2d6e900ec48ca4994804de52",
+      "checked_at_utc": "2026-11-09T19:15:37.659436+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/CHANGES.json",
+      "name": "CHANGES.json",
+      "bytes": 101,
+      "sha256": "4a9b7ca8be0761637b734213a275e63466487cdafc90b80c8068e0b382d6e54a",
+      "checked_at_utc": "2026-11-09T19:15:05.865958+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/CURRENT_DEPENDENCY_STATUS.json",
+      "name": "CURRENT_DEPENDENCY_STATUS.json",
+      "bytes": 491,
+      "sha256": "18287881f843de894c6e5381e53377a9cb8a42a44c619266811cb2d496872ee4",
+      "checked_at_utc": "2026-11-09T19:15:05.855101+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/DEPENDENCIES.json",
+      "name": "DEPENDENCIES.json",
+      "bytes": 634,
+      "sha256": "6d59b5f0a05db7a9c5c1e6256600f09c836d8208f6d55fcdac491fe032df2646",
+      "checked_at_utc": "2026-11-09T19:15:05.868869+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/MANIFEST.json",
+      "name": "MANIFEST.json",
+      "bytes": 41816,
+      "sha256": "be62ced6784ab18d54c0849c5662f7ed6914b03629af4606e3de09b65641e561",
+      "checked_at_utc": "2026-11-09T19:15:05.920117+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/PACKAGE_VERIFIED.json",
+      "name": "PACKAGE_VERIFIED.json",
+      "bytes": 902,
+      "sha256": "f52ab8d52f1e98a3cbc93f13ae7bd54a454f12811894af56bb117f9581ac19ba",
+      "checked_at_utc": "2026-11-09T19:15:12.563530+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/README.md",
+      "name": "README.md",
+      "bytes": 7722,
+      "sha256": "e6f98176acbe2ac3b3830f12d575ef2fbda4045298a39d69002916fa01dc8abd",
+      "checked_at_utc": "2026-11-09T19:15:12.564136+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/RECOVERY.md",
+      "name": "RECOVERY.md",
+      "bytes": 2744,
+      "sha256": "6ad8b2a2e9dbd82fd9431b2d14c96ab0616ce2f533216ce077f9706eba2e33cb",
+      "checked_at_utc": "2026-11-09T19:15:12.515084+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/REMAINING_SCOPE.json",
+      "name": "REMAINING_SCOPE.json",
+      "bytes": 15437,
+      "sha256": "01184963d02c33ec2d430064a7525098c0faf9d55e9aed25767e5f3d6023db03",
+      "checked_at_utc": "2026-11-09T19:15:12.583172+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/REMOVALS.json",
+      "name": "REMOVALS.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "checked_at_utc": "2026-11-09T19:15:14.681829+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/SHA256SUMS.txt",
+      "name": "SHA256SUMS.txt",
+      "bytes": 3094,
+      "sha256": "f126de39930b517cbce7860e729f6251089b7b7392f9336a8aed5145f3430e25",
+      "checked_at_utc": "2026-11-09T19:15:14.694191+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/TESTS_VERIFIED.json",
+      "name": "TESTS_VERIFIED.json",
+      "bytes": 1880,
+      "sha256": "bb43f64b19cf4b9c6af3be5ac574690d5333c506632c267e7e731c9c81640ad8",
+      "checked_at_utc": "2026-11-09T19:15:14.691230+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part000",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "4dd52cd9b7c1c13c75f7468f36cbe726a25414f877cdcd5f59f5847a70e7681c",
+      "checked_at_utc": "2026-11-09T19:15:14.897192+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part001",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "25f1fbbde855d1fdc2cb797ed962fb8bb432b933cb6ad79ea86f416edf62c300",
+      "checked_at_utc": "2026-11-09T19:15:17.088179+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part002",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "d3fdd1dee69794f9a271b8d26e3c8cf4116903ce32669d99290554d7dc08e40f",
+      "checked_at_utc": "2026-11-09T19:15:17.279890+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part003",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "faa579bc2bd7e97f2edcfb134f41fe76123524e0724c05f064f3ff129cdd998d",
+      "checked_at_utc": "2026-11-09T19:15:17.328372+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part004",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "c9a70dd09e8c12450bb3a4c9c985e84193b8fbde5a0ead682673fa03f38fc57b",
+      "checked_at_utc": "2026-11-09T19:15:17.329578+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part005",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "1a87457f772e044d4a6e31334cfa7938e2c0221499912057217f3e5d1ad7154c",
+      "checked_at_utc": "2026-11-09T19:15:19.312582+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part006",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part006",
+      "bytes": 250000,
+      "sha256": "b4c3e0c3384762d7f84b9271fb43bf3d387a9536951723e1608ac45ef0668543",
+      "checked_at_utc": "2026-11-09T19:15:19.427825+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part007",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part007",
+      "bytes": 250000,
+      "sha256": "3509fdb70689825d0f746e4d20ee4c2cb235f7e1b5c6e62c6caee92daadc1473",
+      "checked_at_utc": "2026-11-09T19:15:19.439572+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part008",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part008",
+      "bytes": 250000,
+      "sha256": "26121ad13de1d15ff941c2c3c2149c44e921901d93058aa83361f0db4fa10ad6",
+      "checked_at_utc": "2026-11-09T19:15:19.496038+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part009",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part009",
+      "bytes": 250000,
+      "sha256": "2181f23d5b9c707f203e6857edfacbbe8a37de628aaa8704c5db15bfa7ad4e3d",
+      "checked_at_utc": "2026-11-09T19:15:23.081409+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part010",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part010",
+      "bytes": 250000,
+      "sha256": "149f8cf63b1ef28e3b7c8975c2e58ac716d08d4a5ec21512a2dbee07aeba77ea",
+      "checked_at_utc": "2026-11-09T19:15:22.999896+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part011",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part011",
+      "bytes": 250000,
+      "sha256": "0d4b04f626f8182f4770817349073d41770635b59a281efdb2d917058614cb98",
+      "checked_at_utc": "2026-11-09T19:15:22.996117+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part012",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part012",
+      "bytes": 250000,
+      "sha256": "b906541ab733fc285d673ef2d46896b21813a86d777c42e02d1ed4c474c4b438",
+      "checked_at_utc": "2026-11-09T19:15:23.116043+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part013",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part013",
+      "bytes": 250000,
+      "sha256": "b841cb9f11c3bf8286d9d8c9005c4c3e6eb9b725e579ba4b40a0e5377a7efc52",
+      "checked_at_utc": "2026-11-09T19:15:25.499803+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part014",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part014",
+      "bytes": 250000,
+      "sha256": "566bf67e549e0a7651feedf9124b093280fbdf782ef6d20bcb897507ae06cf49",
+      "checked_at_utc": "2026-11-09T19:15:25.382678+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part015",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part015",
+      "bytes": 250000,
+      "sha256": "f0f22180d1251113b2238856732aca9c7f5cac3833165fec7933d1570a059eac",
+      "checked_at_utc": "2026-11-09T19:15:25.455205+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part016",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part016",
+      "bytes": 250000,
+      "sha256": "835002b972556890d06d5d87cec07a7b8bc5cd742b62b895c279e6bd7d4ad032",
+      "checked_at_utc": "2026-11-09T19:15:25.563956+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part017",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part017",
+      "bytes": 250000,
+      "sha256": "3b100b589f67f52174db8e10e2c79d69bede1974bddd86a6faa77ab519a4bb59",
+      "checked_at_utc": "2026-11-09T19:15:28.223882+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part018",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part018",
+      "bytes": 250000,
+      "sha256": "f687ea6d686cc1246dd3d5c43fb9ee2b10be9fb956e18dfd9cbed57f59881a7f",
+      "checked_at_utc": "2026-11-09T19:15:28.199953+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part019",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part019",
+      "bytes": 250000,
+      "sha256": "e3dc7e5a9f4aee7e2663fa853590cb5bd7db5e9819cf7b8de92bcb87b363d2f1",
+      "checked_at_utc": "2026-11-09T19:15:28.091810+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/2fa5d43c1d49600b3aa1cb4a4b2f3b2d3f00caf2/battlegrounds-backup/pending/20261109-historical-tools-batch13-bounded-bolvar-correction/historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part020",
+      "name": "historical_tools_batch13_bounded_bolvar_correction_20261109.tar.xz.part020",
+      "bytes": 112724,
+      "sha256": "5014a8d5488278a851aff424eef90b227aa54afdb8f4c4107b4b87c0c2d58553",
+      "checked_at_utc": "2026-11-09T19:15:28.113350+00:00"
+    }
+  ],
+  "checked_at_utc": "2026-11-09T19:15:51.168592+00:00"
+}
