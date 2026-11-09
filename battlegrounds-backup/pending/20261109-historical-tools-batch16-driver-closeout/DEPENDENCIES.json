@@ -1,0 +1,28 @@
+{
+  "xml_candidate": {
+    "commit": "452281e7ff970072be7c6de38f1857e786b62571",
+    "folder": "battlegrounds-backup/pending/20261109-historical-tools-batch16-xml-original-candidate",
+    "manifest_sha256": "ab201fc0a867131dc750b6082c898f872587f0b74c56cd2dc3076ee5ad7e18a0",
+    "archive_sha256": "3d37a9d1a0ee2d61939e88f8ced995622ca22fd84ba7f9dabe8c4f2df6bafa7d",
+    "verified_reports": [
+      {
+        "name": "PUBLICATION_VERIFIED.md",
+        "bytes": 3089,
+        "sha256": "afd27cf21c12750eb3fe9de39a2fffa20d6ae326f553d943124eba4ea9880e36"
+      },
+      {
+        "name": "REMOTE_RESTORE_VERIFIED.json",
+        "bytes": 30784,
+        "sha256": "217399edf9f7b4482a73cf6560a832af1b0ec5070d11bf145a59b8acf4fab5ba"
+      }
+    ]
+  },
+  "source_batch14": {
+    "commit": "3b0061fcf3a55850eeda689818f7cc1700700750",
+    "folder": "battlegrounds-backup/pending/20261109-historical-tools-batch14-murloc-piranha-corrections",
+    "manifest_sha256": "1a8c1eca5dcea9fd1426442b5b759c5736ae105c49e95e4a71fae100a6830bcc",
+    "archive_sha256": "7b5f337521162460d87b984be77f66b99c43666407198938e52925e8b295d154",
+    "source_map_sha256": "7fec8d69e82de8bfcb7373549951f9456671b5c3980135d6ec6f983a3daf5ed7"
+  },
+  "policy": "Freshly download and check closeout, XML and batch14 archives plus XML verification reports; reuse previous restoration and historical-chain receipts without calling them fresh reruns."
+}
