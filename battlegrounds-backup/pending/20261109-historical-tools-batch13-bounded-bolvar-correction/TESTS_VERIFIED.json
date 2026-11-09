@@ -1,0 +1,55 @@
+{
+  "status": "LIMITED_NEW_BOLVAR_CANDIDATE_PASS_CURRENT_SOURCE_SCOPE",
+  "final_candidate_sha256": "f4a4a9972d00a7bdbf64f0cf10c97d82bce0879bd86515db5b37adbee3154de3",
+  "full_current_source_sessions": [
+    {
+      "report": "review/revision3/IMPLEMENTATION_full_current_sources.json",
+      "compile_cases": 8,
+      "peak_rss_kib": 57080,
+      "seconds": 34.054
+    },
+    {
+      "report": "review/revision3/FULL_CURRENT_REPEAT.json",
+      "compile_cases": 8,
+      "peak_rss_kib": 56852,
+      "seconds": 36.454
+    },
+    {
+      "report": "review/revision3/FULL_PORTABLE.json",
+      "compile_cases": 8,
+      "peak_rss_kib": 57080,
+      "seconds": 35.046
+    },
+    {
+      "report": "portable_replay/FULL.json",
+      "compile_cases": 8,
+      "peak_rss_kib": 57072,
+      "seconds": 35.546
+    }
+  ],
+  "full_current_compile_cases_total": 32,
+  "largest_final_full_session_rss_kib": 57080,
+  "all_test_AS_limits_bytes": 134217728,
+  "independent_regular_differential_checks": 947,
+  "additional_deterministic_fuzz_checks": 5000,
+  "implementation_differential_checks": 594,
+  "implementation_numeric_cases": 12,
+  "mixed_error_priority_cases": 23,
+  "mixed_actual_api_comparisons": 69,
+  "portable_priority_cases": 9,
+  "dependency_negative_cases": 49,
+  "dependency_tool_calls": 98,
+  "initial_recursion_failure_preserved": true,
+  "revision2_encoding_priority_failure_preserved": true,
+  "historical_original_full_current_source_success": false,
+  "compact_historical_full_source_success": false,
+  "Godot_runs_this_batch": 0,
+  "previous_typed_numeric_oracle_reused_with_unchanged_comparator": true,
+  "full_Game_Catalog_driver_save_executed": false,
+  "scope": [
+    "Stable seekable regular source files",
+    "CPython 3.12.14 and tested contexts",
+    "Not exact diagnostic text/position",
+    "No fixed memory bound for arbitrary huge individual values"
+  ]
+}
