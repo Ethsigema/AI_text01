@@ -1,0 +1,402 @@
+{
+  "archive": "earth_mother_helper_leaf_partial_candidate_20261109.tar.xz",
+  "bytes": 1169808,
+  "sha256": "333aad27ba8ed0d0699c97cd4a33be5494310247a8350993532cd725f26e753c",
+  "files": {
+    "earth_mother_helper_leaf_partial_candidate_20261109/BASE_MAP.json": {
+      "bytes": 4603280,
+      "sha256": "9c1faebcbc9c2edae3fbacd3de2d13e454c219bb4b9ad1938dd69496bdb5d111"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/CHANGES.json": {
+      "bytes": 1209,
+      "sha256": "99a3fde0473fd17b614ffb2c40d73f8b92ca5f6bb4f6316c37eadfa90530554f"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/DEPENDENCY_CHANGE.json": {
+      "bytes": 15296,
+      "sha256": "dd84a8bcfd107246ef873b91f70456e65481b86dd7e45df5223eaa81e550a2b2"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/EXTRACTION_PROOF.json": {
+      "bytes": 873,
+      "sha256": "b6cee066dfef860d94d63dd3194306a0a3efcdfb52b5f3bff8a5d78c1f533867"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/FAILED_PROBE_NOTE.json": {
+      "bytes": 434,
+      "sha256": "6bb171592bf31e54b3dc7ee993df0f9fa13ed384d1b4f760d24bb4b2d0bbd6c5"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/PACKAGE_MANIFEST.json": {
+      "bytes": 10469,
+      "sha256": "5898b3fd4feae2408a8a248ce401576158412beadc725a8d377a3a2005c6b1aa"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/PIN_AUDIT.json": {
+      "bytes": 1429,
+      "sha256": "65cb0a05ae6fdadbe505255f3848514e437761570d994d60110266c4bca6f180"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/PLAN.json": {
+      "bytes": 787,
+      "sha256": "09608c9dbf6f3376771c750ea6f659e35d60c9e1890965fb3a42fcfbf039a8b7"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/README.md": {
+      "bytes": 6638,
+      "sha256": "47c7ab76217bce1e04cc615112efbe4f65981e6e4093e094cd0444fb7d89afaf"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/RESTORE_CHECK.json": {
+      "bytes": 588,
+      "sha256": "f2ac7fb9bf3c470a63a485ce08aa23f6e1d448da278f4f9209b78019e1021e15"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/RESULT.json": {
+      "bytes": 2306,
+      "sha256": "0dc5f2082ea6b335f74c4da9302c7063e4e8df40e6ce7e27489853b64607b73c"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/SOURCE.patch": {
+      "bytes": 4579,
+      "sha256": "3c98e4f694a479aec7d3f93a1cc691c95e634f04646bddf616b6e2f012cad5f5"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/SOURCE_MAP.json": {
+      "bytes": 4603421,
+      "sha256": "d758490893b35c9fed6ced58a89dc764914a4058bfbb0283eee1d77893fb2960"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/STATIC_TEST_GRAPH.json": {
+      "bytes": 1866,
+      "sha256": "672b93de4f7fe3fb5356fa5c6151807e6d9d2df45c352371df3c41d29ff3a9b3"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/TEST_INPUT_MAP.json": {
+      "bytes": 5354,
+      "sha256": "20d891ee3c389e04c99ca4223e5ef391ce1448faa4d91b3b5eefd11a6f5cb40d"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/before/core/catalog.gd": {
+      "bytes": 1854202,
+      "sha256": "1a65c15e349f91b2e81abdf103ab63de9c8c21e986a9ba86240f9ccfc015d255"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/before/core/earth_mother_sources.gd": {
+      "bytes": 14859,
+      "sha256": "7e05e5dcabd23d5e645295246b79bc1e5f76f5e4eb7e33de3ba3e91826716d7b"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/before/core/end_turn_repeats.gd": {
+      "bytes": 26113,
+      "sha256": "66f7e80942eb3536ca2c9e5a3ee83a584955c99476ce518f24668983ae32b304"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/build.py": {
+      "bytes": 6528,
+      "sha256": "454ae90bbb99af0fff255affc32fabf4d73f2d986dd1cd1e8ee49d22d44076e4"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/delta/core/catalog.gd": {
+      "bytes": 1854233,
+      "sha256": "5ba81a78d4924e4596dada5cb8f1a9ad5877d7bed6c7d350ca370d8bff955a72"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/delta/core/earth_mother_sources.gd": {
+      "bytes": 14863,
+      "sha256": "3fbcf584162d0a7674ee93763a22e59d858c8ca91d0a92b16ca0cb9720e1904e"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/delta/core/end_turn_repeats.gd": {
+      "bytes": 25256,
+      "sha256": "76017353f46f789bd725a40f1e189298dedc5042db8204f27a966923a80a0ec1"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/delta/core/exact_value_identity.gd": {
+      "bytes": 1189,
+      "sha256": "c4e562721c6f501998635cadddb6d313d845d58f6f51c14ee6ff0446cda1f291"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/earth/LAUNCH.json": {
+      "bytes": 1475,
+      "sha256": "54298492cbbf2570899f4b119229ad0a3d7b78556b31d624fb46805c0c28d5eb"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/earth/PROCESS.json": {
+      "bytes": 1668,
+      "sha256": "584df8fc473c9320888cb7a728514788003786eda9b53f703b00e087fae7442a"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/earth/gate_executed.gd": {
+      "bytes": 8580,
+      "sha256": "ec6d407d418d610dd52a4baf3c5be2e51d5540c901767115b254c7e74444124d"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/earth/native.log": {
+      "bytes": 541,
+      "sha256": "72ea79d8cb6cf21cee690de61a44a5ce4bba728b89e87d53b9107493249a83d0"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/earth/report.json": {
+      "bytes": 2698,
+      "sha256": "e91b13a65e24fd7e9543eeddf8d489d04558500f08e273f24f306e644dd1bffd"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/earth/samples.jsonl": {
+      "bytes": 19049,
+      "sha256": "c8bc4dbefa49966adb172304f2db212f401d7fc02509a512372b09b8fd9db641"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/earth_2/LAUNCH.json": {
+      "bytes": 1477,
+      "sha256": "c225c1d36e1a85ba3ad8d7a67ef18e660a4f1debbb39d29f48be35ca063b5b85"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/earth_2/PROCESS.json": {
+      "bytes": 1658,
+      "sha256": "5cc97ac9a878f97f4d3481b596f5f515e730e40e724cc6db6984b158adaaff38"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/earth_2/gate_executed.gd": {
+      "bytes": 8614,
+      "sha256": "169786bad4ae34ffe17fb28759d66cca6c246878a6e20d7b0276c1b5ae885fd5"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/earth_2/native.log": {
+      "bytes": 108,
+      "sha256": "307d5951422b6cfdb667d0155f30a0d393fc2076862395de195401db6f3fd34a"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/earth_2/report.json": {
+      "bytes": 4114,
+      "sha256": "d068ddb05bf32b1ea31d228af4a38716298ce41668d857979bb22d7dbb7264ab"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/earth_2/samples.jsonl": {
+      "bytes": 34296,
+      "sha256": "f6f684ad61857706e4264b472aeb851272b9d7eaa70ed849f457079621465529"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/fingerprint/LAUNCH.json": {
+      "bytes": 1481,
+      "sha256": "aecf9d8a512ff9e9f70239ff256308d1cb1e2bb8e850a94a1e5dea3437c8b6bc"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/fingerprint/PROCESS.json": {
+      "bytes": 1661,
+      "sha256": "bebc6faf9a53eb98fb0ead8d6c513a755748f817cf5cb6609209335fe1128cc7"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/fingerprint/gate_executed.gd": {
+      "bytes": 8580,
+      "sha256": "ec6d407d418d610dd52a4baf3c5be2e51d5540c901767115b254c7e74444124d"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/fingerprint/native.log": {
+      "bytes": 111,
+      "sha256": "21367185ed46faa5b360c31fc4900d7ae54cd4c82216bf653800dbfb6b21f607"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/fingerprint/report.json": {
+      "bytes": 440,
+      "sha256": "9c0f72686a5a443e1a99378c52cb0f99499c00767816dcf3a958e32f38ec171c"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/fingerprint/samples.jsonl": {
+      "bytes": 21397,
+      "sha256": "3e8f37eda4a2c91ed0edb60a47de1834aef83a34961a36637b2bcba13a231eac"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/fingerprint_proxy.gd": {
+      "bytes": 671,
+      "sha256": "7b484f12a743f87e6d40916c99ab1db1ff7113e65f91bb66ad5f12b2910f544c"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/gate.gd": {
+      "bytes": 8614,
+      "sha256": "169786bad4ae34ffe17fb28759d66cca6c246878a6e20d7b0276c1b5ae885fd5"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/helpers/LAUNCH.json": {
+      "bytes": 1477,
+      "sha256": "308e26d70a8e4c47a645b26f23a284a2d6185f54c15f9097cdaaa22ab6341c14"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/helpers/PROCESS.json": {
+      "bytes": 1658,
+      "sha256": "9dfa9d918cfdd8298004dde90a2f6897721c1786b7f0a23fa8a70e09e7cda8a7"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/helpers/gate_executed.gd": {
+      "bytes": 8580,
+      "sha256": "ec6d407d418d610dd52a4baf3c5be2e51d5540c901767115b254c7e74444124d"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/helpers/native.log": {
+      "bytes": 110,
+      "sha256": "58dc9bc8382177b8ccadae7a874b960ce8b9bd6862f2e0b9dc5be008ca0e60ff"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/helpers/report.json": {
+      "bytes": 110883,
+      "sha256": "e3249995ff563e08064eaafcf9865710e7042d5bd65cacfe178fb4468e7eb502"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/helpers/samples.jsonl": {
+      "bytes": 22688,
+      "sha256": "b9fc21a4c508befb996caad6bb408c724a3169dac6832b6e22f29c3e080dcbc9"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/host_delegate_proxy.gd": {
+      "bytes": 256,
+      "sha256": "3b4873a27a99fcc19782a894dea562e246a30936ef4b40ac25ec653a68d0e7c6"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/original_earth_oracle.gd": {
+      "bytes": 14920,
+      "sha256": "6ac5fecb8e446e9cea19aa4117ab92134b191d84a4931a128f53f868b540f265"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/original_helper_oracle.gd": {
+      "bytes": 1113,
+      "sha256": "5c0a767f1d45174c4e462debaef6ad4b8063f774ed4fb473b53fe91d931dba8c"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/package.py": {
+      "bytes": 2058,
+      "sha256": "0c137fe68123901771c8f4e831db5823bf557980560784668a4e88e103df15e4"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/prepare_tamper.py": {
+      "bytes": 846,
+      "sha256": "2359658844264f57d8d98aa97496a0f3d05d1d72ef8b32e4cefbb5f55a56ea66"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/restore_to_new.py": {
+      "bytes": 1367,
+      "sha256": "d01588b47a6992ad9c83bd772657796d88319986e357e80a9e0c8d1e8570f1a2"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/run.py": {
+      "bytes": 4042,
+      "sha256": "a88dd1fb73936b73df5dee17e19f0a3ca8fb2dc149cfd92e29e34063a13bb6d5"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/seal.py": {
+      "bytes": 5509,
+      "sha256": "2365a17b021213fd4de7048a10e33b8c4fd1c2d5ab33dbe8e67dbc1bbfcfe4cd"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_contract/LAUNCH.json": {
+      "bytes": 1501,
+      "sha256": "c1c1355183999ac42aefb7a31c2da7f07535ae588f95162b2a9e35982acef85f"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_contract/PROCESS.json": {
+      "bytes": 1681,
+      "sha256": "6324a55bb800dd68417c2ce50e9be21eac736be54a8a769ee0dc2c82421841a7"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_contract/gate_executed.gd": {
+      "bytes": 8614,
+      "sha256": "169786bad4ae34ffe17fb28759d66cca6c246878a6e20d7b0276c1b5ae885fd5"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_contract/native.log": {
+      "bytes": 115,
+      "sha256": "3f79e42d3e18bc32c97d7ae1bd21ea8d99083ac42b46e6ed3459d110681d80a4"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_contract/report.json": {
+      "bytes": 332,
+      "sha256": "216e82e632673ca523297a5edcf33ac079464fcf606e0e9447d40a9ecebe07ac"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_contract/samples.jsonl": {
+      "bytes": 20691,
+      "sha256": "6cf92bd7ab67fb35848d4847144fbfad916a44e0d4ff917d669a5a8a066ad314"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_contract_INPUT_MAP.json": {
+      "bytes": 5354,
+      "sha256": "1c6560567998bfba10ba10bb65420bf33ecbd87935fe9b9d38fd3e4bddde0883"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_native/LAUNCH.json": {
+      "bytes": 1497,
+      "sha256": "b1e2b7fc49bc1d8367f03cda5d64d4fb95a3836dc58fba1f0a0903860b3be2f9"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_native/PROCESS.json": {
+      "bytes": 1678,
+      "sha256": "484f14764c58346339f6eec7bc67d27b23ddea6a1aa9d7c3a3a1d549bf0f0a44"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_native/gate_executed.gd": {
+      "bytes": 8614,
+      "sha256": "169786bad4ae34ffe17fb28759d66cca6c246878a6e20d7b0276c1b5ae885fd5"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_native/native.log": {
+      "bytes": 113,
+      "sha256": "b48d26c21425b8af78da5c99413088a812ca7326df8645f4107bd7fa9f82e655"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_native/report.json": {
+      "bytes": 341,
+      "sha256": "93187710d6e76456c658211a578b2c28297edc005efde5bc51c028ef279eab64"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_native/samples.jsonl": {
+      "bytes": 21812,
+      "sha256": "8e7b1db4559527281bcb0bf8c3a7f1734e8a8fab1ed395ac43d177e1a55e48e0"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_native_INPUT_MAP.json": {
+      "bytes": 5354,
+      "sha256": "de9b57bdcedc0fcda68fd5eecf819334f1a7e1aff6d0ddb2535c2f1315ca70a8"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_raw/LAUNCH.json": {
+      "bytes": 1491,
+      "sha256": "7da8957cbc40eb2782aa7b459f2d6e138e6a9e986423bc021171280921592e86"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_raw/PROCESS.json": {
+      "bytes": 1672,
+      "sha256": "e1d87918bb51d0b92665ac7ecf173534adbd795385e1c0cb752b5a5e2b3ff872"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_raw/gate_executed.gd": {
+      "bytes": 8614,
+      "sha256": "169786bad4ae34ffe17fb28759d66cca6c246878a6e20d7b0276c1b5ae885fd5"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_raw/native.log": {
+      "bytes": 110,
+      "sha256": "d1f5e1de2f5cf496be8d3a0ea62752a96110a8fe130f532081270cc6106a9cdf"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_raw/report.json": {
+      "bytes": 331,
+      "sha256": "2f7d47eb050bfc6bf205c0a8b0d16f2b0be0b81255520cc0a1c5d583717b7fc7"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_raw/samples.jsonl": {
+      "bytes": 20595,
+      "sha256": "2aea96a33eff1a83a934c41bf995ad13831179c9f26779465f3ee1e205a398b3"
+    },
+    "earth_mother_helper_leaf_partial_candidate_20261109/tamper_raw_INPUT_MAP.json": {
+      "bytes": 5354,
+      "sha256": "e9ad2fe8a0e4ae906426441e9151fe55b3f7b0c81fe95a7311e1d8b8a92ae76b"
+    }
+  },
+  "parts": [
+    {
+      "name": "earth_mother_helper_leaf_partial_candidate_20261109.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "355ad03d2ddb7b3939680c1bf33528cc8b3c9b80f8b476e029ee1b4bef4fdfde"
+    },
+    {
+      "name": "earth_mother_helper_leaf_partial_candidate_20261109.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "bc0a14f853437d78d9fc63fe52d3103fb552230ce8a47e130193201b63e4cd9d"
+    },
+    {
+      "name": "earth_mother_helper_leaf_partial_candidate_20261109.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "3bdaeb02a940039be3930c85f003979b0bdf0e3b36ffa3260b8bb2c1d83ee4a2"
+    },
+    {
+      "name": "earth_mother_helper_leaf_partial_candidate_20261109.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "0d40cb5178e6269a6841b3a91caafbd2598d1339ab76b4edae8a69b77c3d5439"
+    },
+    {
+      "name": "earth_mother_helper_leaf_partial_candidate_20261109.tar.xz.part004",
+      "bytes": 169808,
+      "sha256": "94bab072d6f25949f9c862058e5a959e7dc01394bed7b91deda3a6fdf82b3fef"
+    }
+  ],
+  "removed_source_files": [],
+  "full_source_map_member": "earth_mother_helper_leaf_partial_candidate_20261109/SOURCE_MAP.json",
+  "patch_directory": "delta",
+  "companion_files": {
+    "CHANGES.json": {
+      "bytes": 184,
+      "sha256": "4f8e7a77b4bb312f99c0ae9e7169532bf88b238f40248c7fb9d043ae3a1c5f80"
+    },
+    "REMOVALS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "SHA256SUMS.txt": {
+      "bytes": 125,
+      "sha256": "37d6d185886a0959971f91aa099b451b67f2031e71f83e1039b202e7189715e0"
+    },
+    "README.md": {
+      "bytes": 7030,
+      "sha256": "e830c3ea13839db92238f6279399ac0568726977274b7a1f5166588f84fd6409"
+    },
+    "RECOVERY.md": {
+      "bytes": 3819,
+      "sha256": "fa91a3f848a4f684cde711bd6df01c62d08e84e56b4cb25cb6c8db8cb2cf4625"
+    }
+  },
+  "depends_on": {
+    "archive_commit": "8056893fcb4181431e1bbd8a8866dfb2b2932df3",
+    "archive_sha256": "46ceb12b81c5db0c417933482d6572f3c89693d2ba3ef2d507ccebc5f0ed4ec7",
+    "source_map_sha256": "9c1faebcbc9c2edae3fbacd3de2d13e454c219bb4b9ad1938dd69496bdb5d111",
+    "recovery_commit": "1288c092b970edaa6a75c2be89809354eed19405",
+    "receipt_sha256": "ba73c82db88ceaedbb57f395da246433deb89d55ddd3ff6296a871c9d03b3cda",
+    "manifest_sha256": "c10934e5554eec684c1ceb287cea81073a1dae45b7195905bb8211d86d6fd06a"
+  },
+  "status": "PARTIAL_PURE_HELPER_AND_LIGHT_ENTRY_PASS_FULL_HOST_UNVERIFIED",
+  "partial_validation_only": true,
+  "promote_over_verified_baseline": false,
+  "full_game_verified": false,
+  "save_compatibility_verified": false,
+  "old_save_fingerprint_compatibility_preserved": false,
+  "audit": {
+    "archive_members": 79,
+    "internal_manifest_members": 78,
+    "source_files_added": 1,
+    "source_files_modified": 3,
+    "source_files_deleted": 0,
+    "net_runtime_bytes": 367,
+    "producer_delta_bytes_match": true,
+    "secret_pattern_findings": [],
+    "all_prior_backups_retained": true,
+    "planned_verification": "streamed actual per-file bytes; reused historical tree plus prior delta; no complete runtime directory",
+    "free_disk_bytes_at_preparation": 2683072512
+  }
+}

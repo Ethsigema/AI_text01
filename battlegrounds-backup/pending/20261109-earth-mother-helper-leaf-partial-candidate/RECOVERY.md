@@ -1,0 +1,36 @@
+# EarthMother辅助共享叶：部分候选恢复
+
+状态：PARTIAL_PURE_HELPER_AND_LIGHT_ENTRY_PASS_FULL_HOST_UNVERIFIED。完整宿主、Catalog/Game、存档兼容性与回放未验证，不提升任何此前部分候选。execution_fingerprint改变，旧存档指纹不再相同；没有实际验证旧存档迁移或拒绝，不能假称兼容，也不能伪造旧指纹。
+
+## 固定运行依赖
+
+直接输入native listener部分候选固定提交1288c092b970edaa6a75c2be89809354eed19405：
+https://github.com/Ethsigema/AI_text01/blob/1288c092b970edaa6a75c2be89809354eed19405/battlegrounds-backup/pending/20261109-native-spell-listener-leaf-partial-candidate/RECOVERY_VERIFIED.md
+
+输入归档提交8056893fcb4181431e1bbd8a8866dfb2b2932df3，SHA256 46ceb12b81c5db0c417933482d6572f3c89693d2ba3ef2d507ccebc5f0ed4ec7。
+输入SOURCE_MAP SHA256 9c1faebcbc9c2edae3fbacd3de2d13e454c219bb4b9ad1938dd69496bdb5d111。
+输入MANIFEST SHA256 c10934e5554eec684c1ceb287cea81073a1dae45b7195905bb8211d86d6fd06a。
+输入流式回执SHA256 ba73c82db88ceaedbb57f395da246433deb89d55ddd3ff6296a871c9d03b3cda。
+
+该输入没有完整运行目录；它由之前独立恢复的Harbinger完整树及native listener五文件delta构成。不能省略该增量及更早历史链。后来的组合只读诊断档案不含运行改动，不插入运行补丁链。
+
+## 下载和流式核验
+
+从同一固定提交下载MANIFEST、CHANGES、REMOVALS、SHA256SUMS、README、RECOVERY及5个part000至part004分片，按清单顺序拼接为earth_mother_helper_leaf_partial_candidate_20261109.tar.xz。
+大小1,169,808字节，SHA256 333aad27ba8ed0d0699c97cd4a33be5494310247a8350993532cd725f26e753c。
+
+检查每片与整包大小及SHA256；安全解压到新目录，拒绝绝对路径、上层跳转、链接、特殊文件和重复成员。外部清单覆盖79个归档成员，内部清单覆盖其余78项。
+
+仅delta/四文件属于运行增量，新增core/exact_value_identity.gd，修改core/catalog.gd、core/earth_mother_sources.gd、core/end_turn_repeats.gd，删除0，净增367字节。before/、oracle、薄代理、失败探针及tamper测试证据都不是运行补丁。失败earth/报告即使写出部分PASS也明确无效，不能计入通过。
+
+本轮磁盘约2.5GiB，采用实际源字节流式核验，不写完整树：先逐文件核对Harbinger历史树与native listener归档，验证组成的直接输入严格符合BASE_MAP；再按新delta优先、历史delta其次、历史完整树最后的规则逐文件读取实际字节并重新哈希目标，最终应为27,896文件、1,548,719,422字节。目标SOURCE_MAP SHA256 d758490893b35c9fed6ced58a89dc764914a4058bfbb0283eee1d77893fb2960。之后重查基线及输入归档未变。
+
+本轮真实重新下载本次EarthMother包，历史链和运行依赖复用并重哈希，不声称整链重下。可复现脚本verify_earth_leaf_stream.py及回执在核验后追加。本轮不执行Godot或任何包内测试。
+
+## 未来完整目录恢复
+
+如需要完整运行目录，先完整恢复native listener输入并严格核对其SOURCE_MAP，再在有充分空间的环境用本包restore_to_new.py恢复到不存在的新目录。不得硬链接或覆盖基线，不得删除旧备份。核对全部目标及输入未变。该完整复制命令本轮未执行；测试脚本历史绝对路径也不能当作新运行结果。
+
+## 未验收
+
+1439项是封存的六个有限探针结果，不是完整宿主或游戏回归。薄代理不等于整个EndTurn编译；没有重型入口内存A/B，不能计算全局节约。循环容器、病态递归和栈耗尽未证明等价。9条原来源证据保留，新叶加入消费指纹不等于新增固定准入pin。静态图仍增加一个脚本，不能认定全局驻留下降或先前SIGKILL解决。
