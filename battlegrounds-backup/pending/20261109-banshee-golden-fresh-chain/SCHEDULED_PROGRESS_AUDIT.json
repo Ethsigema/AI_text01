@@ -1,0 +1,35 @@
+{
+  "candidate": "hopebringer_banshee_golden_20261109",
+  "verified_baseline": "a71d3e4ea64dc52264a3f789a48ddae2e4a043cd",
+  "category_percentages": {
+    "minions": {
+      "completed": null,
+      "denominator": null,
+      "percentage": null,
+      "reason": "No authoritative current acceptance ledger and scoped denominator found; bounded fixtures do not establish full item acceptance."
+    },
+    "tavern_spells": {
+      "completed": null,
+      "denominator": null,
+      "percentage": null,
+      "reason": "No authoritative current acceptance ledger and scoped denominator found; bounded fixtures do not establish full item acceptance."
+    },
+    "latest_fully_released_trinkets": {
+      "completed": null,
+      "denominator": null,
+      "percentage": null,
+      "reason": "No authoritative current acceptance ledger and scoped denominator found; bounded fixtures do not establish full item acceptance."
+    }
+  },
+  "candidate_full_game_status": "unfinished_full_game_verification_blocked",
+  "full_attempt_exits": [
+    -9,
+    -9,
+    -9,
+    -9
+  ],
+  "isolated_checks": 20,
+  "scope": "Pinned37.0.2 minions, Tavern Spells and most recently fully released trinkets. Retain Naga, exclude explicit Aberrations, no hero/extra-system development.",
+  "runtime_progress_ledger_found": false,
+  "remote_historical_progress_ledger_found": false
+}

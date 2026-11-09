@@ -1,0 +1,70 @@
+{
+  "FRESH_WHOLE_CHAIN_VERIFICATION.json": {
+    "bytes": 103009,
+    "sha256": "6e53bb90e4edfeffdd6daed42d190f04c91ad275fbf5e75910cfcbbe2e355427"
+  },
+  "RESTORE_RESULT.json": {
+    "bytes": 16009,
+    "sha256": "8ed982c41a22255ad173a7158607a09586d91866d5c01ae37a5ed763daaf8b5a"
+  },
+  "ARCHIVE_SCANS.json": {
+    "bytes": 21951,
+    "sha256": "2d19d7f55115fc421c68277aec24e1fb58897353e1fb2a38656edf14fdcff206"
+  },
+  "PROVENANCE.json": {
+    "bytes": 7396138,
+    "sha256": "ac34ff64da527f50eb07514ea4eae0b013f0ea7a5be7b09fde69ab24b21d6d87"
+  },
+  "PINNED_INCREMENT_CHAIN.json": {
+    "bytes": 28249,
+    "sha256": "1583f4676966c6ba7f99fde72148deafbcb7ff2080185d07455a19f6e7c7efdb"
+  },
+  "SCHEDULED_PROGRESS_AUDIT.json": {
+    "bytes": 1359,
+    "sha256": "4d57d9c808307500e755ca1dc86e50f55d415da3fb05332e5cf40a88f2d92c9c"
+  },
+  "RECOVERY.md": {
+    "bytes": 3095,
+    "sha256": "02cc65a49553b5a169f676dab9497091604549f64adbce0614507ad946a4a628"
+  },
+  "RUN_FRESH_CHAIN.sh": {
+    "bytes": 638,
+    "sha256": "7c0fbda075458eb768e1255ed968777c1cbd99b055f960bafcc244dba301ed88"
+  },
+  "DOWNLOAD_PINNED_GIT.sh": {
+    "bytes": 565,
+    "sha256": "f0ed76a24383d368c576e1813186703824ad7848d72558c892bae12e21ec843d"
+  },
+  "verify_historical_bytes.py": {
+    "bytes": 5454,
+    "sha256": "0dfbe697961ae3f6ce869132ba91853506f11584f5eeef865d24b79355592e9b"
+  },
+  "verify_fresh_increment_chain.py": {
+    "bytes": 5246,
+    "sha256": "83ce3d9458a71d50eeb1c95d69ce67281a296d126650b8cfd18e497f851bb573"
+  },
+  "prefetch.py": {
+    "bytes": 1749,
+    "sha256": "03ac8dcf3f9b684b2e648b6dab84285abdc2429b53bcce7324ba2dcf3c54ef03"
+  },
+  "HISTORICAL.log": {
+    "bytes": 7952,
+    "sha256": "fd857408e17ef45eb3a7d1c2000ca96812833d1108de70db89589535c836d453"
+  },
+  "INCREMENTS.log": {
+    "bytes": 72768,
+    "sha256": "8ea85021d91b9a20ecc5ae093872de14426f762b609fbb599e074f1a4acee119"
+  },
+  "PREFETCH.log": {
+    "bytes": 2239,
+    "sha256": "08f0dd8786579e2c4b2524da11d24de86db163b3a6043e850ba51700ba3a72da"
+  },
+  "CANDIDATE_PREFETCH.log": {
+    "bytes": 37,
+    "sha256": "4cc79e02f989758f9d49dc6cb80904896ebce2466d0c39098eb1e8ad246df74d"
+  },
+  "GIT_FSCK.log": {
+    "bytes": 57,
+    "sha256": "097f8b716bb9c435166e0e52990cebff5a16acc6fb92ca2ff7882a9cf231ea0b"
+  }
+}
