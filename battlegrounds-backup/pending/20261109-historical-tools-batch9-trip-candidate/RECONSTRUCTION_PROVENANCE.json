@@ -1,0 +1,24 @@
+{
+  "baseline_ZIP_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "baseline_rehashed_this_round": true,
+  "records": [
+    {
+      "target": "tools/trip_vouchers_patterns.py",
+      "original_path": "research/trip_vouchers_native_recovery/candidates/tools/trip_vouchers_patterns.py",
+      "original_sha256": "791f2ba5bfb770fa9f6d065471093955edaf0cf9db0d3f5e639617c2fe6d2982",
+      "patch_path": "research/vouchers_native_paid_choices/01-trip-vouchers-native-domain.patch",
+      "patch_sha256": "31d7a74cd340b9bba21db20ad21c22b868c6998588e220907e39143b8ae6f1a1",
+      "reconstructed_sha256": "9923f0a449576165a59fd568dc31328ef186a23744a0fc5e689dd4c9e09b2adf",
+      "reconstructed_bytes": 58891,
+      "exact_hunks": 1,
+      "GNU_patch_fuzz_0_equal": true,
+      "GNU_patch_log": "patching file tools/trip_vouchers_patterns.py\n",
+      "original_and_patch_ZIP_members_exact": true,
+      "current_source": "core/trip_vouchers_sources.gd",
+      "current_source_sha256": "15ca84be26dbeae292c0e7ec14858a1464409e9597c77cdd442630267bdc3816",
+      "independent_historical_postimage_found": false,
+      "latest_installed_version_proven": false
+    }
+  ],
+  "runtime_modified": false
+}
