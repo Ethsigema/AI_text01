@@ -1,0 +1,75 @@
+{
+  "status": "PASS_THIS_EXACT_SPELLTEACH_PROBE_ONLY",
+  "archive": "spellteach_murloc_readonly_probe_20261110T000457Z.tar.xz",
+  "bytes": 228404,
+  "sha256": "2ccad346879d2b1fe0cd4f020b338d5a7d403bcff92f9312a1df4a4fbf046414",
+  "members_verified": 141,
+  "candidate_installation_deferred": true,
+  "remaining_reference_gaps": 345,
+  "source_tree_modified": false,
+  "archived_code_executed_in_backup": false,
+  "game_or_save_accepted": false,
+  "dependencies_reverified": false,
+  "cancelled_dependency_download_retried": false,
+  "excluded_path_findings": [],
+  "common_credential_signature_findings": [],
+  "publication": {
+    "commit": "3d46a22e77a9d1f2fbf275b6ad8a66cc7d69b594",
+    "folder": "battlegrounds-backup/pending/20261110-spellteach-murloc-readonly-probe",
+    "branch": "battlegrounds-recovery-20261103",
+    "remote_head_verified": true,
+    "tree_check": {
+      "old_blobs_preserved": 3785,
+      "added_files": 7,
+      "old_changes": 0,
+      "force_push": false
+    },
+    "folder_url": "https://github.com/Ethsigema/AI_text01/tree/3d46a22e77a9d1f2fbf275b6ad8a66cc7d69b594/battlegrounds-backup/pending/20261110-spellteach-murloc-readonly-probe"
+  },
+  "readback_files": [
+    {
+      "name": "MANIFEST.json",
+      "sha": "63815376923534b4edd36f26d66a52ccb401c67c",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/3d46a22e77a9d1f2fbf275b6ad8a66cc7d69b594/battlegrounds-backup/pending/20261110-spellteach-murloc-readonly-probe/MANIFEST.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "PRIVACY_AND_SCOPE.json",
+      "sha": "f22ed330742d92a2cc5fd4477c361ef66920678f",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/3d46a22e77a9d1f2fbf275b6ad8a66cc7d69b594/battlegrounds-backup/pending/20261110-spellteach-murloc-readonly-probe/PRIVACY_AND_SCOPE.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "README.md",
+      "sha": "9bb1934a0d696a966f676ced2e15fd35a06a04c0",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/3d46a22e77a9d1f2fbf275b6ad8a66cc7d69b594/battlegrounds-backup/pending/20261110-spellteach-murloc-readonly-probe/README.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "RECOVERY.md",
+      "sha": "002411fd4be2ed34ba6999ec8a2d7f479dccaa34",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/3d46a22e77a9d1f2fbf275b6ad8a66cc7d69b594/battlegrounds-backup/pending/20261110-spellteach-murloc-readonly-probe/RECOVERY.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha": "a333cee1249d4882800c0c06ad49229c880f5b04",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/3d46a22e77a9d1f2fbf275b6ad8a66cc7d69b594/battlegrounds-backup/pending/20261110-spellteach-murloc-readonly-probe/SHA256SUMS.txt",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "spellteach_murloc_readonly_probe_20261110T000457Z.tar.xz",
+      "sha": "87c448f4afe6bf328f522c1c4b91b6c6d12f83ef",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/3d46a22e77a9d1f2fbf275b6ad8a66cc7d69b594/battlegrounds-backup/pending/20261110-spellteach-murloc-readonly-probe/spellteach_murloc_readonly_probe_20261110T000457Z.tar.xz",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "verify_backup.py",
+      "sha": "d79354851e63e2b314ff8790698b7e3d121053f8",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/3d46a22e77a9d1f2fbf275b6ad8a66cc7d69b594/battlegrounds-backup/pending/20261110-spellteach-murloc-readonly-probe/verify_backup.py",
+      "fresh_remote_readback": true
+    }
+  ],
+  "verification_scope": "Only this new exact evidence archive. No old dependency or previously cancelled operation downloaded, retried or reverified.",
+  "actual_game_reachability_proven": false
+}
