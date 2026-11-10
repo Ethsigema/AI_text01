@@ -1,0 +1,44 @@
+{
+  "status": "PARTIAL_PACKAGE_CHECK_PASS_FULL_CHAIN_NOT_STARTED_SOURCE_TREE_UNAVAILABLE",
+  "scheduled_at_utc": "2026-11-10T15:00:00Z",
+  "checked_at_utc": "2026-11-10T15:01:56.579028+00:00",
+  "remote_head_observed": "e4a6720e377594efcdaaf106f5edc02855dff13d",
+  "remote_changes_since_18_beijing": false,
+  "latest_evidence_package_commit": "9c3e01bc0f30ad4627d0fa0068edacaadaf83bde",
+  "freshly_downloaded_files": 28,
+  "freshly_verified_archive_parts": 22,
+  "freshly_verified_archive_bytes": 5393436,
+  "freshly_verified_archive_members": 908,
+  "fixture_whitelist_entries_verified": 893,
+  "archive_sha256": "00097718164f6665867f6ee79d5f033cf99e112f921cfc6b2040ba6760d53a70",
+  "local_current_game_tree_available": false,
+  "new_game_source_delta_created": false,
+  "game_source_changes_performed_by_audit": 0,
+  "unuploaded_changes_in_unavailable_tree_can_be_ruled_out": false,
+  "full_chain_download_attempted": false,
+  "full_chain_rebuild_attempted": false,
+  "cancelled_batch14_download_retried_or_bypassed": false,
+  "blockers": [
+    "Known local source trees are absent from the current workspace view; cause unknown.",
+    "Prior batch14 dependency download approval was cancelled and has not been explicitly reauthorized."
+  ],
+  "gameplay_tests_run": false,
+  "old_save_tests_run": false,
+  "complete_game_recovery_claimed": false,
+  "remaining_reference_gaps_last_known": 345,
+  "reference_gaps_recounted_this_cycle": false,
+  "last_known_missing_contracts": [
+    "research/piranha_immediate_attack_recovery/SOURCE_CONTRACT.md",
+    "research/hand_murloc_gain_recovery/SOURCE_CONTRACT.md"
+  ],
+  "last_known_gaps_source": "https://github.com/Ethsigema/AI_text01/blob/e4a6720e377594efcdaaf106f5edc02855dff13d/battlegrounds-backup/audits/20261110T1000Z-scheduled-partial/REFERENCE_GAPS_RECHECK.json",
+  "completion_percentages": {
+    "minions": null,
+    "tavern_spells": null,
+    "trinkets": null
+  },
+  "completion_reason": "No reliable accepted numerator and complete denominator for any of the three scopes. Archive members and fixture assertions are not completed cards.",
+  "latest_archived_fixture_scope": "2810 limited helper assertions including 1580 inherited; old failed 2802-target fixture preserved. These tests were not rerun in this audit. Real Game/Waiting acquisition, tier4, full match and save acceptance remain open.",
+  "fallback": "No current game backup package can be prepared from the unavailable source tree. The re-downloaded evidence archive and this audit must not be presented as a new game backup.",
+  "old_backups_deleted_or_overwritten": false
+}

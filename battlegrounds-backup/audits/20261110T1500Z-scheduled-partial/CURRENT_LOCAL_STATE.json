@@ -1,0 +1,33 @@
+{
+  "checked_at_utc": "2026-11-10T15:01:56.579028+00:00",
+  "cwd": "/workspace/scratch/dd4f12b08ec0",
+  "cwd_device": 27,
+  "cwd_inode": 3145757,
+  "known_paths": [
+    {
+      "path": "historical_tools_batch14_20261109T191857Z/runtime",
+      "exists": false
+    },
+    {
+      "path": "backup_batch14_20261109/fresh_remote_verification/REBUILT_SOURCE_MAP.json",
+      "exists": false
+    },
+    {
+      "path": "backup_batch16_20261109/fresh_remote_verification/isolated_restored_candidate",
+      "exists": false
+    },
+    {
+      "path": "backup_batch16_20261109/fresh_remote_verification/RESTORED_SOURCE_MAP.json",
+      "exists": false
+    },
+    {
+      "path": "night_backup_audit_20261109T1507Z/runtime_final_current",
+      "exists": false
+    }
+  ],
+  "initial_visible_directory_bytes_approximately": 135168,
+  "initial_visible_scope": "Only batch6_review_environment_recovery_20261109 and read-only configuration directories; measured du -sh 132K before this audit created its output.",
+  "cause_of_changed_workspace_view": "unknown",
+  "permanent_loss_claimed": false,
+  "source_tree_rehashed_this_cycle": false
+}
