@@ -1,0 +1,1299 @@
+{
+  "archive": "rider_gameplay_review_20261110T043010Z.tar.xz",
+  "bytes": 1738528,
+  "sha256": "0a73964d23b7ff63c92065d79159310b46ddd7329b169ca8104cdd46eac6a1fa",
+  "parts": [
+    {
+      "name": "rider_gameplay_review_20261110T043010Z.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "0bd9fd42344da86cc210aef63d6917e7de6d9415dde894a91484ec34e2fa9414"
+    },
+    {
+      "name": "rider_gameplay_review_20261110T043010Z.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "e9a1e5cfda5097efacdd0d1165c028a8648b5ec17bb3c6434377aabdfd9f8ec9"
+    },
+    {
+      "name": "rider_gameplay_review_20261110T043010Z.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "9d0f142fc7629068074cbff27041b1683d83121566fe3060e599959cf3518317"
+    },
+    {
+      "name": "rider_gameplay_review_20261110T043010Z.tar.xz.part003",
+      "bytes": 250000,
+      "sha256": "ac9b346064e2c1713c89587ac522542e0b6ff43e4be3035f48aaae564cc880aa"
+    },
+    {
+      "name": "rider_gameplay_review_20261110T043010Z.tar.xz.part004",
+      "bytes": 250000,
+      "sha256": "b96928e62dd4f278d1e28e86dd8e81ec62a054e814bf69ab6e4e4458e9b97f50"
+    },
+    {
+      "name": "rider_gameplay_review_20261110T043010Z.tar.xz.part005",
+      "bytes": 250000,
+      "sha256": "9696174e8706227d6b5b31403f6a7038105c6cc11afaa2805da8332ef8ea930d"
+    },
+    {
+      "name": "rider_gameplay_review_20261110T043010Z.tar.xz.part006",
+      "bytes": 238528,
+      "sha256": "076737322198a2b1d335b9473588910ac741ed5e6bf3104bff63bfbfb1d8b452"
+    }
+  ],
+  "files": {
+    "FINAL_VERIFICATION.json": {
+      "bytes": 3874,
+      "sha256": "30d3fbde6f73d047314543c1730f22a00bba4c0be4c992daaee5105ab70455ff"
+    },
+    "MANIFEST.json": {
+      "bytes": 51376,
+      "sha256": "456105cb0fff0136ddf4e9ace505d4e727f979b97070637f440207fa73f40acf"
+    },
+    "ORIGINAL_INPUT_PINS.json": {
+      "bytes": 19003,
+      "sha256": "107dadb7b02813348e098fd90c7e54ab39c5d4fb14eb304b0be737735970ed97"
+    },
+    "REPORT.md": {
+      "bytes": 5302,
+      "sha256": "c35290a138417b9c61935892bb543325ff1460dee8b4a8fc27d856734d7e2781"
+    },
+    "candidate/BASELINE_IMMUTABILITY.json": {
+      "bytes": 1137,
+      "sha256": "a8883b5e878e348cea66f8e1a594b5e82c88da4265799e34facbd34a725a014c"
+    },
+    "candidate/FINAL_MANIFEST.json": {
+      "bytes": 21122,
+      "sha256": "e1541b60852313598d6b4af840bb84eee7b86004351b2bc4cd8fe3ba4e4aa861"
+    },
+    "candidate/REPORT.md": {
+      "bytes": 9151,
+      "sha256": "1f492aa6d58221e21eeb5d6f709b8e7fad3aeeac6b6c83981603e2daa7b74a4b"
+    },
+    "candidate/STATIC_CHECKS.json": {
+      "bytes": 525,
+      "sha256": "1dc402cad6190989b6fe6e4bb837d701b2196bec200635217cbbf8c2c8a4c86f"
+    },
+    "candidate/TEST_INPUT_MANIFEST.json": {
+      "bytes": 1135,
+      "sha256": "39946bc04a3c171000e1aee7a45ea9fb868e3842dac3841cb7f6f6f7a45c170e"
+    },
+    "candidate/TEST_INPUT_MANIFEST_V2.json": {
+      "bytes": 1204,
+      "sha256": "191c90f2cad1487324864d73b5e41a421c0026046c83b29b6dd55c1c9368db94"
+    },
+    "candidate/TEST_PLAN.md": {
+      "bytes": 1569,
+      "sha256": "e3a6d3c75cb8f33b637400fc51d0e1332635cc657f582456771cff8c90435030"
+    },
+    "candidate/build_integration.py": {
+      "bytes": 6335,
+      "sha256": "8ce4a0d5160a944879db7554b31e12a613573f7185affc85a14320410fb3e2fd"
+    },
+    "candidate/build_sources.py": {
+      "bytes": 4238,
+      "sha256": "a758207df6d475f6e69d3d398e9efedf6d9e5fc5e989becde81407110d9f3045"
+    },
+    "candidate/core/catalog.gd": {
+      "bytes": 1857141,
+      "sha256": "539908459259ed8c57b42328f6eec6fdb87ac926c9f488321e57919ce68be142"
+    },
+    "candidate/core/combat.gd": {
+      "bytes": 579397,
+      "sha256": "ccd1a1c885cb39459d8c1d7234f3980db9cec8110bf21359382dbb7308523514"
+    },
+    "candidate/core/game.gd": {
+      "bytes": 1332366,
+      "sha256": "042cdf5fcff020f045d985566cbb7de946ac4769d4b4667f4e657b8390f143c9"
+    },
+    "candidate/core/patch_3702_air_baller_golden_sources.gd": {
+      "bytes": 23207,
+      "sha256": "fbfb5fb71362fdc501b0224cefaae68914d6f86ca9f816a432c860dc90847157"
+    },
+    "candidate/core/patch_3702_air_baller_sources.gd": {
+      "bytes": 22610,
+      "sha256": "c9dc0db6afe7eba41e1997f6b023d8c6d0c13c2cbd1445b3afa547174dc58c62"
+    },
+    "candidate/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "becbc9b38bc5a0924c24383a491a85ceb42d302a02d17a336829b889dc5ceb3b"
+    },
+    "candidate/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "66cbfef3cfdaaca3a941d6ba3c2e5f4a89a287a31ec0247e3e4d3860c2678477"
+    },
+    "candidate/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "985759f5044930414c7701f8330ef0b3105949d2bba933481aff96bae3baafe4"
+    },
+    "candidate/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "f4b50a2869770d36d6b7380b9a0e1faf9bb861c934775d59c115b56e641dafd6"
+    },
+    "candidate/core/patch_3702_fire_baller_golden_sources.gd": {
+      "bytes": 26786,
+      "sha256": "6dab9107cb27cc8008772f37b720f76fba619a125f431509f159ba563c91ca65"
+    },
+    "candidate/core/patch_3702_fire_baller_sources.gd": {
+      "bytes": 26227,
+      "sha256": "369158164c7e96883e4a1e7faee05d3af23bd66b4bd511750c4b206d125dcef1"
+    },
+    "candidate/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "e88f4121aecf36f49f3338d11897eb4f3538b175668c4f86f13dde43393f5c97"
+    },
+    "candidate/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "006fba9aee862541dfbb99363ff36ea87504e05f50575faf58b4f10851bda255"
+    },
+    "candidate/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "a6d7c97f0b21147a95c794a8178bbd99ef2a67377cb3fd0a40ef2f0815db1f00"
+    },
+    "candidate/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "7c955cc3b1da1a6368423a09349664ede40a9f1808791bfe47cb030853fd3f60"
+    },
+    "candidate/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 24230,
+      "sha256": "87d27e6fec0ed68d657fd5df44d723f443a863e3e0cc2ae18aaaa4ba39601985"
+    },
+    "candidate/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23667,
+      "sha256": "eac607f686e94ed21608ac7dd8fdeb4c1e02cd311a99d93dd4e5ef2bc73d9ca7"
+    },
+    "candidate/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 84144,
+      "sha256": "1099c3d46deee2ad8a7c225622b9dabe79c3cf309bb8073fc7e83007dfaef095"
+    },
+    "candidate/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 83566,
+      "sha256": "94a47bd84789637d23a7e31aa1c0299dfab6da29a882cf54458e4f711718783a"
+    },
+    "candidate/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "c12926f477c529300754ae3f91970023582716777a131b600a3a7e7b22f2fbd5"
+    },
+    "candidate/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "f9be1a4a7d29f621d98bede8aba032893dcc7e236911f45898c69a751b7bd457"
+    },
+    "candidate/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "a682a46c2ebc8239875572ceff643d955e9b3145f1fc76478145f68082c6fb32"
+    },
+    "candidate/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "2ca209a9664408e3528cf70e264fbe96db67cb923e754b4b6fbd485b99d3362f"
+    },
+    "candidate/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "670d43ecc2eea067cfaa5ab8b6016e46484bad60f10b72c13452249b44d3e948"
+    },
+    "candidate/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "3c89b9d023692b5c8d6380ff7a594e8990884d4f8b834c63892724743d07830d"
+    },
+    "candidate/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "8ed90e41ad8052cb38d5c85590a516c20ac816fecca0c82c79c041ace78a0d85"
+    },
+    "candidate/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "1ce8b9ce1e99a8e38bb01f9c5beb04eb2dd9c0d7e1b0bdba87a43c194a587eca"
+    },
+    "candidate/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "26eea40e73bf7e3fa7d6549a854f5182172e9bf09baced048a097ed0e378cc9e"
+    },
+    "candidate/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "4a220220d283e8f6d80684849bde5f4ec89dd21904b6b7d54302d7fe01223469"
+    },
+    "candidate/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "6068f80c6431a69d8430c0f83fb564646831e4f3421bd0dc4d3fbfd0d4b86925"
+    },
+    "candidate/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "86ac97c8ce7248c563e089818f2874a0812fc7ff2f04607a11b21763b18cb564"
+    },
+    "candidate/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "ebdf90451b241713d828669aca6d7ed5ec29c9f272117e808af113ce6f02ee6f"
+    },
+    "candidate/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "7c5085680809ba6f1c77b7d0e992c03eb32be6ff0d80f6949104b2fe18408547"
+    },
+    "candidate/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "dd469e5d185e2da84d7b03e9cc6a51406f75c31e4b7d435aced0a06452b9ee36"
+    },
+    "candidate/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "7383dadbdb225bba15a4b22c7c9ec8d6c812b5534c93d024ea1e2f5eedf7f513"
+    },
+    "candidate/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "46f156c6bfe0f4a69bcc3988deb4c1d6d338295688772448bbdfce61ea51e0f8"
+    },
+    "candidate/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "017b6ea481ecb184d840deeb17aff5aa6edce46b5dfc6853179c39c8daaea49c"
+    },
+    "candidate/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "721a2762caa283d33d4f98a1a8b9256896ddf36e216c37fba4255efe361b7391"
+    },
+    "candidate/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "bc8556c830ee2946eb26996f071201b3463e3fd4ae17cadc6c71ba240a78e33c"
+    },
+    "candidate/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "a565eab750e0a81b1af4269530a63112d535fb65022f5ab111509922092c0208"
+    },
+    "candidate/core/patch_3702_snow_baller_golden_sources.gd": {
+      "bytes": 26678,
+      "sha256": "6689aa7b61f1d727c7e28a79be546443b9acb7c1ccbe2e7d222124d533ee8736"
+    },
+    "candidate/core/patch_3702_snow_baller_sources.gd": {
+      "bytes": 26119,
+      "sha256": "b7567ffc12d533e73614226a99b5f5ea0383de877c581fe0c2f04a1f34f00566"
+    },
+    "candidate/core/patch_3702_spark_snapper_golden_sources.gd": {
+      "bytes": 23215,
+      "sha256": "82c7a0a14726eb08c7cf2845c74359e2842a2e12b6694cdb3c81486e3ff99937"
+    },
+    "candidate/core/patch_3702_spark_snapper_sources.gd": {
+      "bytes": 22618,
+      "sha256": "83973b6cd13b3cd6b7430629e319ea49f2f55a18633440be0a3cfea9b7b77673"
+    },
+    "candidate/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "03f2402dddab87c801de85907cb87db0d13a0ad612cb889b132c5914adc84b99"
+    },
+    "candidate/core/patch_3702_temperature_shift_sources.gd": {
+      "bytes": 24051,
+      "sha256": "6eecc02ebb9bc0b7cd9829a24f5f279b8f7cbe8a284789a173d138f4c31feb82"
+    },
+    "candidate/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "c2d4c3eb2ca2259f2e3ab8f47b8dc4f5d9f6c05c6043c7be274191b458ff2e00"
+    },
+    "candidate/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "bd2a96ace7e732bb4104e4c241c8f045ee6713f109182cff14f9a00caf674f29"
+    },
+    "candidate/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "30ea6fe542243e281697650982b5c5b0ade59091e5bcc7add9d87e05e5f11293"
+    },
+    "candidate/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "53a41e13a0473150e86ae94b234a495a2dede7e85a7fd987bfb6e08a0b50b541"
+    },
+    "candidate/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "d772d7b370e394438ae20a67558387f575f84f8e65ba9d7aa12f7c2d773ad368"
+    },
+    "candidate/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "8d67828b0bc1c76f4bf5b8a503ad166c64acd522d90925db54da71705a110d42"
+    },
+    "candidate/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "b1afd1f9c55e51b8d7926986ca38ebc689b3f47a26c4ba943c7ac5a035818df1"
+    },
+    "candidate/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "36d4595809efeb81375b4d60fe1cbc6f2e2e4d80a939e55c55f0a8cd325d76ed"
+    },
+    "candidate/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "8f85a6afc5483aa06dde064b38d6add7c60a20ba08ebee22d2d320700296e6a7"
+    },
+    "candidate/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 63990,
+      "sha256": "96461bf2c9874955046d0c8c7bf677edbe0528c10b4634446929fe420c29b792"
+    },
+    "candidate/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 62043,
+      "sha256": "27b4813a1da8242a87d2f380544f856b14c93de0212189c1edbb95f1d8337af8"
+    },
+    "candidate/core/patch_3702_timewarp_molten_golden_sources.gd": {
+      "bytes": 27927,
+      "sha256": "9f8a1b80885f345e46b14d85e349cc97deefc108f79ded2f7fc4ad20cec94d88"
+    },
+    "candidate/core/patch_3702_timewarp_molten_sources.gd": {
+      "bytes": 27646,
+      "sha256": "d829fdd293672e445576cf0adb3f671877a639bd0c2dce461c3bbb86570c3f8f"
+    },
+    "candidate/core/patch_3702_timewarp_murky_golden_sources.gd": {
+      "bytes": 28518,
+      "sha256": "c99c9e9aa147386d4870c6f437c44cc8665ea7534446f2c3db97a202e80908e5"
+    },
+    "candidate/core/patch_3702_timewarp_murky_sources.gd": {
+      "bytes": 28241,
+      "sha256": "0e3e4def7e594458cfec9ba9095d162aba05ef17e30f569a415429d9fd74164d"
+    },
+    "candidate/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "b9d4f2609c47ebba8b7627a6d80317d01e563937a6bae1f1d4cb5e7a61578ba4"
+    },
+    "candidate/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "05155b751040762e7b3d1bbbe4f91d56016baa2303f921717ec2b31ae4ad025c"
+    },
+    "candidate/core/patch_3702_timewarp_painter_golden_sources.gd": {
+      "bytes": 28712,
+      "sha256": "76dea2ef506850d587fe156d422c0e943ee0f16c933ee92f30f537d2cd886596"
+    },
+    "candidate/core/patch_3702_timewarp_painter_sources.gd": {
+      "bytes": 28457,
+      "sha256": "e53697bc545193e26b6a5203be611af9f6acc4b3f3cef0ed5396290679c0ff1d"
+    },
+    "candidate/core/patch_3702_timewarp_red_whelp_sources.gd": {
+      "bytes": 28213,
+      "sha256": "23fa65d0448546738a7bc8d36ecec0ddb21cd58ccebdbbccda46741b5d6233fe"
+    },
+    "candidate/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "0d7be06912e23e808de7564fc9f0d26bea8c7670a2b47ae3b61a7cc3f85fbc18"
+    },
+    "candidate/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "030a100f3978a1c06cbe1e742a8f064234a01e5f8e7b37ad7056b28532cc9379"
+    },
+    "candidate/core/patch_3702_timewarp_scout_golden_sources.gd": {
+      "bytes": 28135,
+      "sha256": "4a9e4033d6fb6a5788b95c9a4dccbfd7a8383d46675b0b7b4fa7728c0cda41b2"
+    },
+    "candidate/core/patch_3702_timewarp_scout_sources.gd": {
+      "bytes": 27868,
+      "sha256": "f39c6805403e7f4e6b42c257339434747ff8536f2291d7ee54813346bb584271"
+    },
+    "candidate/core/patch_3702_timewarp_swirler_golden_sources.gd": {
+      "bytes": 27292,
+      "sha256": "106f53f325d64c90712d20f4a650ec6fbb38bc767ab6a4cca7fce6a6386baada"
+    },
+    "candidate/core/patch_3702_timewarp_swirler_sources.gd": {
+      "bytes": 27441,
+      "sha256": "18e24306eaec42121e23aa9b38abdaabe1b3080dc7631d1e698bcda4ff7514ef"
+    },
+    "candidate/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "9a595810012f1ce5e8c806db5efe27391e382423663f1947291b695b1297f62b"
+    },
+    "candidate/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "18ac6bbff421e17c15436ab9d38d171eb7aa2cbb9dfb44c1eab13e0282b573d0"
+    },
+    "candidate/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "dd64ffd819312dd0f6c48cd041061b07cfaa9c2338a6d1fb3f6e8d387ad02bcd"
+    },
+    "candidate/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "cb9b821f5c8b05720b3fb70e8f4bed67b47074b12323d543497240bfa68760ad"
+    },
+    "candidate/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "209c9c28c8da29b40248d1b879fc8460f376b1301d8e7665128079263f632cd5"
+    },
+    "candidate/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "891cae94f28fc56c4da4b86736252ac07f0c377fffb29713d472e785a576296a"
+    },
+    "candidate/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "225c2453bcbc68db960d7ad9638c6aa640348bb48d3aafb061ecf05357fcd432"
+    },
+    "candidate/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "6eecc8ae7f0a353fa635d3d5a82041f0153cbf94444a08d0896677549a473153"
+    },
+    "candidate/core/rider_host.gd": {
+      "bytes": 16547,
+      "sha256": "972906d12a79c5084b9858a7152a7ef97e94dff2a45808e49fde461a1a0753f3"
+    },
+    "candidate/core/rider_sources.gd": {
+      "bytes": 41286,
+      "sha256": "ccd6ba6b1b9170f5264add60430e2ea4b8b126381c221fe799779c4a21403691"
+    },
+    "candidate/core/shatterer_host.gd": {
+      "bytes": 12717,
+      "sha256": "9ad912221d99db5fede90c865c9f75ee46532864d933ede3ea4edfbed71cf7af"
+    },
+    "candidate/core/shatterer_sources.gd": {
+      "bytes": 40284,
+      "sha256": "8a35901ae902adfeb15ffcdf1e021ffcc195edc429f72f981da5561be9de2b5c"
+    },
+    "candidate/data/rider_overlay.json": {
+      "bytes": 33688,
+      "sha256": "b041738f04d9d976b1134008e7304c727d06b969a29d08efce13805f980107e4"
+    },
+    "candidate/data/shatterer_overlay.json": {
+      "bytes": 33436,
+      "sha256": "da8f4d5448b166dffdf2850af89f98a032da38a3801405909315cc0988ac4b2d"
+    },
+    "candidate/patches/catalog.patch": {
+      "bytes": 5722,
+      "sha256": "87143e7e217335f3220b0674a20a3b6bc9d1be842988e539236d3f5824d44173"
+    },
+    "candidate/patches/combat.patch": {
+      "bytes": 31057,
+      "sha256": "3fb59bbccffe821b1ff298fd9117dc1da493a0166ecb316e7ed09bce1cc9ada2"
+    },
+    "candidate/patches/cumulative.patch": {
+      "bytes": 817995,
+      "sha256": "b9fd2adf01da3b38ffa4d40d954366a4cd8f8cccd53853e2f612cb61796876a2"
+    },
+    "candidate/patches/game.patch": {
+      "bytes": 2668,
+      "sha256": "6b918c96fc819b1808d40f453bf2246d8d9cead4dbb5b96b157b9cafbfe4df51"
+    },
+    "candidate/projection_project/core/rider_host.gd": {
+      "bytes": 14386,
+      "sha256": "9e8b262950e692a5b362143faac8986b533e765c0b5427e3064de4078fb7f276"
+    },
+    "candidate/projection_project/core/rider_sources.gd": {
+      "bytes": 40513,
+      "sha256": "ca7b73148de8c83c498d0b575721041d2ef38e058795fe183993eeda5305d994"
+    },
+    "candidate/projection_project/project.godot": {
+      "bytes": 132,
+      "sha256": "94a89b320228eeec4e333e6e2197a3cd61dd516e0898f9daea0c17b39d93974c"
+    },
+    "candidate/projection_project/tests/request_projection.gd": {
+      "bytes": 4481,
+      "sha256": "fe685f8e1e723ed8ca42eb07de2ad001d9cbdb29ec0ce26b807fb3b128f47657"
+    },
+    "candidate/projection_project_v2/core/rider_host.gd": {
+      "bytes": 16547,
+      "sha256": "972906d12a79c5084b9858a7152a7ef97e94dff2a45808e49fde461a1a0753f3"
+    },
+    "candidate/projection_project_v2/core/rider_sources.gd": {
+      "bytes": 41286,
+      "sha256": "ccd6ba6b1b9170f5264add60430e2ea4b8b126381c221fe799779c4a21403691"
+    },
+    "candidate/projection_project_v2/project.godot": {
+      "bytes": 132,
+      "sha256": "94a89b320228eeec4e333e6e2197a3cd61dd516e0898f9daea0c17b39d93974c"
+    },
+    "candidate/projection_project_v2/tests/request_projection_v2.gd": {
+      "bytes": 6542,
+      "sha256": "f727dd3cf13178f9f0ea2caddb69f5ce878efffb10eea0ec7cebdefcad6b09a8"
+    },
+    "candidate/projection_result/LAUNCH.json": {
+      "bytes": 1055,
+      "sha256": "476e1d23ad04556954af02213ed163a7a9100d938469735536dfebab20061917"
+    },
+    "candidate/projection_result/PROCESS.json": {
+      "bytes": 1400,
+      "sha256": "cd858f017ad5399bc3ef7e4f9709f1b4bb2461bfb9ed162c8092623790d14517"
+    },
+    "candidate/projection_result/native.log": {
+      "bytes": 276,
+      "sha256": "d21034908ba731044f4416ce8753da9117e6a3c81b04bcc332f153e3c080c1b6"
+    },
+    "candidate/projection_result/samples.jsonl": {
+      "bytes": 19913,
+      "sha256": "73787737c4020aadf519c74cf0d65a7c50f43babba4cff8857b2fb519e0d5ad9"
+    },
+    "candidate/projection_result_v2/LAUNCH.json": {
+      "bytes": 1064,
+      "sha256": "80afa1e3f2facce078cd9696047b122595f3daa5d9e91598a3521f31e3c6e375"
+    },
+    "candidate/projection_result_v2/PROCESS.json": {
+      "bytes": 1409,
+      "sha256": "b628979fa5a27c929687abcfa814d76cf1f1c0c2732388071b9a0e903a3bb5f6"
+    },
+    "candidate/projection_result_v2/native.log": {
+      "bytes": 154,
+      "sha256": "c6deda29a9855e3fdb94df687fcfd84fb1cbd133d75714ef4d56c37ce85e8194"
+    },
+    "candidate/projection_result_v2/samples.jsonl": {
+      "bytes": 18872,
+      "sha256": "abf51bf5c9418258e5470a2091b8979f4a5ac302bf97a41ec17c42b121fbea98"
+    },
+    "candidate/repin.py": {
+      "bytes": 3515,
+      "sha256": "7c2cccbeee8aa33aedf06c29008f5b92cf54ddb76f62a1b6eadfb255dfa94921"
+    },
+    "candidate/repin_report.json": {
+      "bytes": 65448,
+      "sha256": "4a4405f46a0879e290886a40f0e92fbfad4a4486ae110996846cb3a61b20e58a"
+    },
+    "candidate/research/rider/BG31_925.native.xml": {
+      "bytes": 6503,
+      "sha256": "81993dfef4ec8e06288671d56494bd03387ff376064b1c31151f70c67559e39a"
+    },
+    "candidate/research/rider/BG31_925_G.native.xml": {
+      "bytes": 6451,
+      "sha256": "b07d4e406260db5206febbf9f722c9d7baa222253fe0fc75ffd6430bbf91c18b"
+    },
+    "candidate/research/rider/BG31_925e.native.xml": {
+      "bytes": 1119,
+      "sha256": "7c20acb296c66278086e5c14278d499ba58cff14dc7ba38bd3127d36808b6be8"
+    },
+    "candidate/research/rider/finite_domain_records.json": {
+      "bytes": 75047,
+      "sha256": "e381a2ebbba12ade576dae097be212a08a58556d4803358414bd6115248ced38"
+    },
+    "candidate/research/rider/native_source.json": {
+      "bytes": 200,
+      "sha256": "2bb4b916b122325a5acf14254ffcbf51b7060d2c9d513caa577bccbd03ce5b2a"
+    },
+    "candidate/research/shatterer/BG31_035.native.xml": {
+      "bytes": 5715,
+      "sha256": "0a162f777119526115db1321d7103a27d560fbac2a5fa27a638e02f36f631bf1"
+    },
+    "candidate/research/shatterer/BG31_035_G.native.xml": {
+      "bytes": 5555,
+      "sha256": "4ed46cbf1c4c55829c324846324434aeb04373494cddd96ac7cb4f42765f6105"
+    },
+    "candidate/research/shatterer/native_supplement.json": {
+      "bytes": 12695,
+      "sha256": "933f1067a196387f0a7f132ba60101b46465e23b805073f646b89f2ff60e3aa7"
+    },
+    "candidate/research/shatterer/reachable_fixture_inputs.json": {
+      "bytes": 62426,
+      "sha256": "54675804325d5faa7f943d8800d0c904f3f279b040bd35a13c4a43209036904f"
+    },
+    "candidate/run_projection_once.py": {
+      "bytes": 5237,
+      "sha256": "8a2d99dcb1f9090c4abc4e8057eb1bfd4a171310d73a601285feed9389de8192"
+    },
+    "candidate/run_projection_v2_once.py": {
+      "bytes": 5252,
+      "sha256": "543459578e35b9b504d90630764238f8e0117068c1c99601ae55774b1d41241b"
+    },
+    "candidate/static_checks.py": {
+      "bytes": 1401,
+      "sha256": "15841351949386702cbb7b82da42dd3151582fab0821622f41940174ce6e1a07"
+    },
+    "candidate/tests/request_projection.gd": {
+      "bytes": 4481,
+      "sha256": "fe685f8e1e723ed8ca42eb07de2ad001d9cbdb29ec0ce26b807fb3b128f47657"
+    },
+    "candidate/tests/request_projection_v2.gd": {
+      "bytes": 6542,
+      "sha256": "f727dd3cf13178f9f0ea2caddb69f5ce878efffb10eea0ec7cebdefcad6b09a8"
+    },
+    "contract/queue_audit.json": {
+      "bytes": 3066,
+      "sha256": "5384611fe2faa12f951296ac2ee66f45f770a6b618be084449db475dbe2419cc"
+    },
+    "contract/queue_audit.md": {
+      "bytes": 8300,
+      "sha256": "ea907824298afe77b96448ffcba01bcc4716c2f71e66a0bef111b25ead69255a"
+    },
+    "contract/report.md": {
+      "bytes": 8641,
+      "sha256": "08e9b366c4d7b0b249a9cc40de944fd69ed667843a68dc4bba89385bec930ca7"
+    },
+    "cumulative_before/core/catalog.gd": {
+      "bytes": 1855765,
+      "sha256": "10e108e6b53acfbbfc7f71b81d0f4a9a06336a437975d8deec127b5609aeb814"
+    },
+    "cumulative_before/core/combat.gd": {
+      "bytes": 577774,
+      "sha256": "44e08d150849ccad418841ab29790ff928b7e996a5c03a401cd6879d852af08e"
+    },
+    "cumulative_before/core/game.gd": {
+      "bytes": 1331681,
+      "sha256": "9491f54d2e07be2a2c4cdb715caea32d56b4ea9242ea51a29893f557663226fe"
+    },
+    "cumulative_before/core/patch_3702_air_baller_golden_sources.gd": {
+      "bytes": 23207,
+      "sha256": "d94f898b76b45c64c9e4912f5dceeba1b4286b9a5c897b85b6bb9555a7c8680f"
+    },
+    "cumulative_before/core/patch_3702_air_baller_sources.gd": {
+      "bytes": 22610,
+      "sha256": "bb72f3416143b4c46a8c287d05525597aef2eef3406aa8b8aee1dd27a0e71269"
+    },
+    "cumulative_before/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "79eab12d56a98076c7580812511fa42095eaebe020b341c2ce1c52e07607d326"
+    },
+    "cumulative_before/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "5bdcdb8c8123bf3c5a8816dc9af8691aab0eccbd784f172129f345b9f50eb3e5"
+    },
+    "cumulative_before/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "a1b233fe1204336486fa855eefd21e8e7b15193d04f86f1347fdb839234fe373"
+    },
+    "cumulative_before/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "0b6aedd4fb96bcfdcadddc7c5b80d337ea080f9f1250393d77bf8bf0aba9fb9f"
+    },
+    "cumulative_before/core/patch_3702_fire_baller_golden_sources.gd": {
+      "bytes": 26786,
+      "sha256": "38721bc92127ddb11d70a393c65b980a6a026657eede4ff97da43687d5451b14"
+    },
+    "cumulative_before/core/patch_3702_fire_baller_sources.gd": {
+      "bytes": 26227,
+      "sha256": "d7d6ccf9f5d514acfd8f6fa638a126cba44a390174ffc520176432501ed8754f"
+    },
+    "cumulative_before/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "a7ec5cfcf21853f97d60d11e683127532626498aa5871f7d931d4f52b13e7b0e"
+    },
+    "cumulative_before/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "b6d490009ab1817b46407d98e6f731b8a56e4c8539013ad3600453c2c90bee4c"
+    },
+    "cumulative_before/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "3040d384ff57c94ffb769680639f55f1e1e2564f19d5fb4213dd66a9c7efd8c6"
+    },
+    "cumulative_before/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "89747a701399bead8a56cc269fe99843fbac3c329436e147dd6c8b6052913e2e"
+    },
+    "cumulative_before/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 24230,
+      "sha256": "d8480bc71ae0361f7fa435c797f4768b8fae1f79a4305b1259a09e421155fc6c"
+    },
+    "cumulative_before/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23667,
+      "sha256": "17286ba47570cc7ce28a2c3084ce5dc203e55ab2a8a9087c43bd2ffd70d763e0"
+    },
+    "cumulative_before/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 84144,
+      "sha256": "25cc29ca9db7304c3d11f25544d3037b6d795f9e59e57ee5fc361fb767485222"
+    },
+    "cumulative_before/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 83566,
+      "sha256": "a5239b7e4c17be8c19210c6e9f04adfe9993df19423a8844d88002e5196ff98b"
+    },
+    "cumulative_before/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "77681935d4c4869dd8ff4b0613261de515a7ccdd76f2f4bd43d8729cb2dc0eee"
+    },
+    "cumulative_before/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "5623122c11b6273f34c3bdb55d05a108b56e0832bcf4582834710c600afa91e7"
+    },
+    "cumulative_before/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "3b278193dc04de6b50c71c7b80c4f3043ce55891df39efbaa47c2fc80b6b0665"
+    },
+    "cumulative_before/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "575eb8a4c5e540331d4fe18c42e10532e3a14a57c1b0eea269ba4bb768038fdc"
+    },
+    "cumulative_before/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "4d1ff3d69b93f0517f07828892ebcea5fa50521915b549de219e513bb2531662"
+    },
+    "cumulative_before/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "bba3c2cc6d57858662beb5e32f1749457469cbdb317ae9f1ce5eb98c1fd352de"
+    },
+    "cumulative_before/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "347a8467223e2af6c97f0f8505f5869f1f140333b9a3d99208b024ece53f2cc0"
+    },
+    "cumulative_before/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "db803aef870c6145dea753f69409d56e9b5eae6128094bef8383ae400b931b9f"
+    },
+    "cumulative_before/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "647f4f75505d608e48979f773a83903fb24d98c6e036f6a3b9e7d3ecc3abfded"
+    },
+    "cumulative_before/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "83337e102e1c21e10e302f3028002ac1a6c1fc9dfcf7b0ad466048a552e66184"
+    },
+    "cumulative_before/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "22ec4eb1c8cbb3fb0b8dd6e6f575895afe764476f120432104114e0f4dd39ec6"
+    },
+    "cumulative_before/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "dfe001da0c763a8b6c040294550b4afc4f679669c0ec1b1167164849d3a95869"
+    },
+    "cumulative_before/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "2960a8f50ad6e55f4610d033dc7299d2bf78602f717d766976ca72bce1224fff"
+    },
+    "cumulative_before/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "69e21d0d117c815a96c28313d66529c86e7de1603bcd9666fccb43fb4c0065d3"
+    },
+    "cumulative_before/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "8a003325502c868203ed084df7927e6aed12ebba18e911e54c0f4b9a9951d32f"
+    },
+    "cumulative_before/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "1fb04c1f63bcc660b7ecea0e977a4cf347d4921ea29653e6a6febd3edf117a15"
+    },
+    "cumulative_before/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "ec78229bd57adcdfab49dd09f91c96e240630788b97f0d7f333bcbfa3d71ac0b"
+    },
+    "cumulative_before/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "920a7e989b5b8cb8a3e491352e5220bed0c68b632b63b24f589bfde74db2fd5d"
+    },
+    "cumulative_before/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "4788510951c015e386d4f3791150555eebb1f14c8bcae4fa6360a64251699d71"
+    },
+    "cumulative_before/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "e833807420dfa5fa4a3ad4a0af489976765310e868944194f7e2b5c8cb616055"
+    },
+    "cumulative_before/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "777e06578a75498b7e0c739eacc6f280097725ac1e28273adda0cc6d2dae0415"
+    },
+    "cumulative_before/core/patch_3702_snow_baller_golden_sources.gd": {
+      "bytes": 26678,
+      "sha256": "c1b68ceca90b159c233cb3c729f7aba68720b102d988762328866b91fd579efd"
+    },
+    "cumulative_before/core/patch_3702_snow_baller_sources.gd": {
+      "bytes": 26119,
+      "sha256": "7e91a55ceb6d326ae3b95f59e9d16cd28413ce0a55b3d6f9ed3b7c4989bbef83"
+    },
+    "cumulative_before/core/patch_3702_spark_snapper_golden_sources.gd": {
+      "bytes": 23215,
+      "sha256": "f23f456a7901f6ab72895f5ba7fee88f1f9e9012303db785fc92b018c8f59a15"
+    },
+    "cumulative_before/core/patch_3702_spark_snapper_sources.gd": {
+      "bytes": 22618,
+      "sha256": "d2f3a05454f3aee76717bff1b8b08ed6df5ebc8f487d21b554ed4f63faf00c50"
+    },
+    "cumulative_before/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "cfb0d6160ac073fa7415bc11d9e3e202aca431430ac8a9943770a9510c50fa97"
+    },
+    "cumulative_before/core/patch_3702_temperature_shift_sources.gd": {
+      "bytes": 24051,
+      "sha256": "358a01c94aa598d1e9308787f6097e70c77d00fd59c2dbd2fc3a4e09a1435d1b"
+    },
+    "cumulative_before/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "c585af95e9a3a9ce444ed1901780eccc5d08fa76a7854b04ecc0b85c127e5cb4"
+    },
+    "cumulative_before/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "92e197ba05fddae6e68616740e2a223171761c4c96fcc08a934391689c91b3af"
+    },
+    "cumulative_before/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "4c0e3907990586c005edf98b1600f82c95ee4b667fb4b861b012b548aee8f3b1"
+    },
+    "cumulative_before/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "d3c268935ad21018496acb69ca272dded53c970f701ce24ce034332d2880c341"
+    },
+    "cumulative_before/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "1b6d029c8a076f57230b79ceb8070df02c0aeca403bddfa255737b670d9ffcb1"
+    },
+    "cumulative_before/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "3d0ba7ae29335d30c167b99dd2168ac37230d56619b6adb464389df5cc1fb4c5"
+    },
+    "cumulative_before/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "b44c99ea80d0df325aea08599a1b7c736b68daa93349b457a82661e38438f1c1"
+    },
+    "cumulative_before/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "28c7583952eec8b77512fecc811449da815bbda03236a86deb694bb47977b957"
+    },
+    "cumulative_before/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "021e86a2ef5225472f5341651482e534409d0914f0dcb6d13e95aacc57ea3cfd"
+    },
+    "cumulative_before/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 63990,
+      "sha256": "1bfe19053952a404a35b9d6670b29d38741247b3ecc5dbdf20bcdeb3ae522147"
+    },
+    "cumulative_before/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 62043,
+      "sha256": "81578f2855650076f35d2888474c5e0337ad1953f59ffa310c2a2eeb9c95e1cf"
+    },
+    "cumulative_before/core/patch_3702_timewarp_molten_golden_sources.gd": {
+      "bytes": 27927,
+      "sha256": "2f5c03ddb22c3ab4b8a0169820f2bc457248e409a385b995760a660ee52b5cd2"
+    },
+    "cumulative_before/core/patch_3702_timewarp_molten_sources.gd": {
+      "bytes": 27646,
+      "sha256": "9748e330525a44d8cf5f9778d02f29898502ff3a28c324dc6bbc9f59a8eb9b24"
+    },
+    "cumulative_before/core/patch_3702_timewarp_murky_golden_sources.gd": {
+      "bytes": 28518,
+      "sha256": "90a5fdea0ced91dd11bc2ab0de6491698d1b13637fd19a342bb0ede53e3beeac"
+    },
+    "cumulative_before/core/patch_3702_timewarp_murky_sources.gd": {
+      "bytes": 28241,
+      "sha256": "894b95ba9d0fa32cf81930a2f343650f65900a1eaabdea6cf382ea4ba18aa9a6"
+    },
+    "cumulative_before/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "cd31db6ba5edd4343c1bf270d4c29b2adad4706e281a3d3147ecc2155582e913"
+    },
+    "cumulative_before/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "0407f7a274e74de7109a4c6d34a40af05104ceafaa9cfebffe5a12907cae6285"
+    },
+    "cumulative_before/core/patch_3702_timewarp_painter_golden_sources.gd": {
+      "bytes": 28712,
+      "sha256": "b6af112ebf92daf476a688b1689aca693ebfa74efa47fb679280bdb1e6c21342"
+    },
+    "cumulative_before/core/patch_3702_timewarp_painter_sources.gd": {
+      "bytes": 28457,
+      "sha256": "a9751ce3f659ad99e272eaf0f28530b7bf76dfe8626af5bdb4be8d8948f97281"
+    },
+    "cumulative_before/core/patch_3702_timewarp_red_whelp_sources.gd": {
+      "bytes": 28213,
+      "sha256": "1418cd5fa4c595c7fee6c1390d839bf0e37974c1e9e9c27db663bcdf1222a6e2"
+    },
+    "cumulative_before/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "d5c7afb68db0d834b90c68a5b77387084a9bf8572e5d6c1ae2c62c6db3179e11"
+    },
+    "cumulative_before/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "3108abf4d3ef476d25d0176093e81375fa570312d5e6d5ed52ea882d9d9521ce"
+    },
+    "cumulative_before/core/patch_3702_timewarp_scout_golden_sources.gd": {
+      "bytes": 28135,
+      "sha256": "b5a8676579dd45d196f71d77944debb685ecf70418199f5d7eb0a1981dddb27e"
+    },
+    "cumulative_before/core/patch_3702_timewarp_scout_sources.gd": {
+      "bytes": 27868,
+      "sha256": "95a85fe9daf544818e0cff48ef4564e6c29bd43250cdb5d85cddff99b7aeab0b"
+    },
+    "cumulative_before/core/patch_3702_timewarp_swirler_golden_sources.gd": {
+      "bytes": 27292,
+      "sha256": "bc92bb6e38759e6f69c89167e8114719c440ae94f93620e140aa2bf4f9c7bdca"
+    },
+    "cumulative_before/core/patch_3702_timewarp_swirler_sources.gd": {
+      "bytes": 27441,
+      "sha256": "b13b3f65aaa158d21faf3b1636d3df147443f17a2ccdaf5e91f6a527d9638536"
+    },
+    "cumulative_before/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "424453b7119886dd06cfaa21c935e2be80211d2a54698d48cbafe85aaf9f473b"
+    },
+    "cumulative_before/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "943468daf19c444e9b31af6de537b27be750cff30749994e7f7f3b624bd0125c"
+    },
+    "cumulative_before/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "09d7017f76dc0ac8ef7df8eb17bee54313242ef22d65eff4f5dbea58eb77031a"
+    },
+    "cumulative_before/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "ee612b45362b2b7e511ea1d44129d2b7740660d6f58ea620fdd81c5f8ddcacea"
+    },
+    "cumulative_before/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "bee9ddc18ddc1c632b919f9de1cd01f867afc3d2c4e14e68010965e50de400ea"
+    },
+    "cumulative_before/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "1e9cd319d558908ea1007b3eee46bd5b4a2d89ecf2f800179fdbbdc0f6e841a8"
+    },
+    "cumulative_before/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "0824aec05e477ed3311c6fd7b5b6685abf148cc29510762f795d9fba51e328c3"
+    },
+    "cumulative_before/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "7ab9bf8cfaadc99921c8cbc1b3bdd3e3a1442b5be037a841075e0f159895b262"
+    },
+    "cumulative_before/core/shatterer_sources.gd": {
+      "bytes": 40284,
+      "sha256": "a7565acf35241a215115a5006b2be5644f061931589768caf9933328ff6df15d"
+    },
+    "original_runtime/core/catalog.gd": {
+      "bytes": 1854233,
+      "sha256": "5ba81a78d4924e4596dada5cb8f1a9ad5877d7bed6c7d350ca370d8bff955a72"
+    },
+    "original_runtime/core/combat.gd": {
+      "bytes": 577754,
+      "sha256": "960acf18f641132b182ba8a684190cbb71276ad76ab6f6562053be65caf0d76b"
+    },
+    "original_runtime/core/game.gd": {
+      "bytes": 1329777,
+      "sha256": "84ea17caff1c22d082badf6118f8fdde02e35616d4d156b28430b02313504410"
+    },
+    "original_runtime/core/patch_3702_air_baller_golden_sources.gd": {
+      "bytes": 23207,
+      "sha256": "5f1e6a7deb4612a85166e36ddfd4dab926727af3b794a847dad43fc42add5a57"
+    },
+    "original_runtime/core/patch_3702_air_baller_sources.gd": {
+      "bytes": 22610,
+      "sha256": "eed5984c9446ad40f8794397cffcad78af7e68efa519c673fe5df1056983e788"
+    },
+    "original_runtime/core/patch_3702_bobblehead_sources.gd": {
+      "bytes": 30250,
+      "sha256": "84563029e3662fb28f9359fc5e63f35ce80bb0f050c9ec4bee178004f3e6363b"
+    },
+    "original_runtime/core/patch_3702_crowbar_sources.gd": {
+      "bytes": 26797,
+      "sha256": "1f117bfd8dc60163293331f5847ac98af252c0d7472880a24849fe88b17a32f0"
+    },
+    "original_runtime/core/patch_3702_cursed_crystal_sources.gd": {
+      "bytes": 30079,
+      "sha256": "2dd6bb9fe6c883562f360e4ba99b1555df8fc27c865696d375263457c0493ff7"
+    },
+    "original_runtime/core/patch_3702_fandral_fortune_sources.gd": {
+      "bytes": 25022,
+      "sha256": "3f4201283a95b8881a317c4fa176dea38b4c0c029a3f460916c12a229f400eae"
+    },
+    "original_runtime/core/patch_3702_fire_baller_golden_sources.gd": {
+      "bytes": 26786,
+      "sha256": "afc91888aad5ea8d1cfa1aee7b52b12543ae521f60a190c2590ff8a423204275"
+    },
+    "original_runtime/core/patch_3702_fire_baller_sources.gd": {
+      "bytes": 26227,
+      "sha256": "96f80161b87718ff06eb1d23c3489f5387bd0da7acd59e322e7346084879a0ff"
+    },
+    "original_runtime/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "4566d48af411c0423f80df6edf384b023efb4b1bf59c4d261ad02f16374f9ccf"
+    },
+    "original_runtime/core/patch_3702_glambot_sources.gd": {
+      "bytes": 56101,
+      "sha256": "fd2db7aca918ba890aecafd99b25968effa1464fd6ed5f240373aa007830a176"
+    },
+    "original_runtime/core/patch_3702_greater_booty_brew_sources.gd": {
+      "bytes": 23734,
+      "sha256": "0fa1317d7166a513c0bef7a789e2298ac34bc9ab839a53478637b1bf3cfe3a59"
+    },
+    "original_runtime/core/patch_3702_greater_phrasebook_sources.gd": {
+      "bytes": 10174,
+      "sha256": "2898042a569368b6b811137afe7394edc17dee899e2e70dd64d87a6ad11ed035"
+    },
+    "original_runtime/core/patch_3702_hooktusk_golden_sources.gd": {
+      "bytes": 24230,
+      "sha256": "160369fcf4af353af3426e5acb1d29f83ddf1dcf96670a0e92a6935ff611f9fc"
+    },
+    "original_runtime/core/patch_3702_hooktusk_sources.gd": {
+      "bytes": 23667,
+      "sha256": "64009c2dda5325a548bc1962ac876ace358c08f5b3c9b93d72e3e317129156d0"
+    },
+    "original_runtime/core/patch_3702_hopebringer_golden_sources.gd": {
+      "bytes": 84144,
+      "sha256": "d9da7affce20fd1498205a635f888c8be4f072b628078579cfc77ac29f348a41"
+    },
+    "original_runtime/core/patch_3702_hopebringer_sources.gd": {
+      "bytes": 83566,
+      "sha256": "318d48b6e6af701be9e290bedbbed33ab30f870e4aa7b71247da2f8e98b21d3e"
+    },
+    "original_runtime/core/patch_3702_hyena_golden_sources.gd": {
+      "bytes": 22767,
+      "sha256": "4cc797508da69be86e6d9afd3c30735b135bb6ae1af6ba8b336b39def3bcde11"
+    },
+    "original_runtime/core/patch_3702_hyena_sources.gd": {
+      "bytes": 22093,
+      "sha256": "fc32ec21413ffc0e2689f82b15a19390e2b75268f273f69f4098914c579286ea"
+    },
+    "original_runtime/core/patch_3702_jailbird_juggernaut_golden_sources.gd": {
+      "bytes": 23417,
+      "sha256": "54dcc2cdcde4cddd10b63c49826f8a3aaecc24b99319c07b8dc36cad1cbd6971"
+    },
+    "original_runtime/core/patch_3702_jailbird_juggernaut_sources.gd": {
+      "bytes": 23088,
+      "sha256": "786c2300ec5b345e61839ccf0f364c0c1dc90465d567b29cb3d2b1ee5bbeeeab"
+    },
+    "original_runtime/core/patch_3702_lesser_booty_brew_sources.gd": {
+      "bytes": 23179,
+      "sha256": "2bca3bb9079d5780c75ef024410ee656833306c64b110d16896b95207b16e2fe"
+    },
+    "original_runtime/core/patch_3702_leviathan_golden_sources.gd": {
+      "bytes": 23064,
+      "sha256": "4346a85ce34360f36c20b8e565a674f060bafebe8c1b5d9c2b2e6e8c1f2b03f7"
+    },
+    "original_runtime/core/patch_3702_leviathan_sources.gd": {
+      "bytes": 22472,
+      "sha256": "9b426773cbdc1e7a9cfaf8b99b89e72872cb130efcf997cf2792feeb6d1cd842"
+    },
+    "original_runtime/core/patch_3702_lobster_golden_sources.gd": {
+      "bytes": 23436,
+      "sha256": "299c27aadc9b72e5f944fd0ba56fc0e3514e097330c18209b90f6af021b8347d"
+    },
+    "original_runtime/core/patch_3702_lobster_sources.gd": {
+      "bytes": 22862,
+      "sha256": "3bf0d86713c5add8613eb20dd7c4af57e83122a60c4344ec4e21c7e7d41ba68a"
+    },
+    "original_runtime/core/patch_3702_lucky_tabby_sources.gd": {
+      "bytes": 27787,
+      "sha256": "ee22fb968235eee68c1279581d84a1f963c2b1676592f0a4c350343c2720ffdd"
+    },
+    "original_runtime/core/patch_3702_mama_bear_sources.gd": {
+      "bytes": 26654,
+      "sha256": "c76d01191d0e5acc276ecdf782701301306c57d4f7739285d59a50a8573908f1"
+    },
+    "original_runtime/core/patch_3702_maw_portrait_sources.gd": {
+      "bytes": 27162,
+      "sha256": "05558b4ecf34b3f5dfafde5e3b0723cab15c2c746d74d5667eeb580801ef0cbc"
+    },
+    "original_runtime/core/patch_3702_miniature_ship_sources.gd": {
+      "bytes": 10610,
+      "sha256": "2f03e48da138628f64568369a74087d76b418042f42111e088129b803eef03fa"
+    },
+    "original_runtime/core/patch_3702_murloc_phrasebook_sources.gd": {
+      "bytes": 8472,
+      "sha256": "995db21c175cc7316219c28c737c3e48954ff9ffb07a71766f997f229304b5b0"
+    },
+    "original_runtime/core/patch_3702_packed_wallet_sources.gd": {
+      "bytes": 22691,
+      "sha256": "59d73bb5cd3233dc2b4e917200312d7d5ce30350c7b2f8f973641bab4416695d"
+    },
+    "original_runtime/core/patch_3702_portable_factory_sources.gd": {
+      "bytes": 26811,
+      "sha256": "b224e43d598712904bd28a52ff152990a2c76218bcd7e34c82ad598681964518"
+    },
+    "original_runtime/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "73753c51a64f4bb958decf9ef6465eab4c1d65269a0f50632d3b4ce2d5a38bc9"
+    },
+    "original_runtime/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "ef844fac2477d138459cd66963bd5b06921a20768fb8d4e60daae041a1e30115"
+    },
+    "original_runtime/core/patch_3702_rockin_music_box_sources.gd": {
+      "bytes": 26943,
+      "sha256": "37de846c977e39d7d34a1886bfd133a321680e422606596eb0c3e2381ba54632"
+    },
+    "original_runtime/core/patch_3702_secret_schematic_sources.gd": {
+      "bytes": 26249,
+      "sha256": "0ecac4b54c19aa157772a10b290188955c9952a2300bc8914894abdbc51c63e2"
+    },
+    "original_runtime/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "57fb105a3fde11ce9511e1aeb35901a0e24af786e3a07b85664421371d1556c9"
+    },
+    "original_runtime/core/patch_3702_snow_baller_golden_sources.gd": {
+      "bytes": 26678,
+      "sha256": "613deab49037eb194fd35a6e43f3067ef5690aa3adc58b1ae0ccfd7302000457"
+    },
+    "original_runtime/core/patch_3702_snow_baller_sources.gd": {
+      "bytes": 26119,
+      "sha256": "c991f24b3bca6dab79f11849d134fff450ce8813fcf03909b112e66ed8485eab"
+    },
+    "original_runtime/core/patch_3702_spark_snapper_golden_sources.gd": {
+      "bytes": 23215,
+      "sha256": "c370d8facce27a6a4d5c5ade45a469802fdb3450e52f1c40177819d146277732"
+    },
+    "original_runtime/core/patch_3702_spark_snapper_sources.gd": {
+      "bytes": 22618,
+      "sha256": "5dd0b83fdb06ffde8f1a0c59744272701b093bf00cafeaf39e52cd10bb6dc646"
+    },
+    "original_runtime/core/patch_3702_stormcoil_sticker_sources.gd": {
+      "bytes": 27967,
+      "sha256": "9fdfa2dd673f84c68bf437b7cd5c108f222584e303975fea4bf269a6f8bbccfb"
+    },
+    "original_runtime/core/patch_3702_temperature_shift_sources.gd": {
+      "bytes": 24051,
+      "sha256": "ebb5fe05338b3244e858314cdd23510a0d538ff23a68bc81f17794379b24d660"
+    },
+    "original_runtime/core/patch_3702_thaumaturgist_golden_sources.gd": {
+      "bytes": 23550,
+      "sha256": "2138f3eebfe98789e4b3b335bd5e2fe5c296ff84cbf306e8fb421e8671f67160"
+    },
+    "original_runtime/core/patch_3702_thaumaturgist_portrait_sources.gd": {
+      "bytes": 23673,
+      "sha256": "51ff869327b0ba57f10ded9af5c030ae3aa4f6e9cdb09ec236a82eeac699b53f"
+    },
+    "original_runtime/core/patch_3702_thaumaturgist_sources.gd": {
+      "bytes": 22990,
+      "sha256": "2a610f5b8b623cd1c2ba0efc0616a9f3b452a7f6e1d6bcc30b3b32446acdbad1"
+    },
+    "original_runtime/core/patch_3702_thaumaturgy_golden_sources.gd": {
+      "bytes": 23594,
+      "sha256": "22b928340cda453cb7bf254081af5b279f9b31b9606d48eb0f846302611852a9"
+    },
+    "original_runtime/core/patch_3702_thaumaturgy_sources.gd": {
+      "bytes": 23146,
+      "sha256": "514cf562c7c49ff2593a5bb02b3e5e26941db5d1cf1ad88861b0c98772010dbc"
+    },
+    "original_runtime/core/patch_3702_timewarp_amalgam_golden_sources.gd": {
+      "bytes": 8157,
+      "sha256": "006b4ee140ac03dc07bf78d929221619bd9b051f983547227750b94bc78b689f"
+    },
+    "original_runtime/core/patch_3702_timewarp_amalgam_sources.gd": {
+      "bytes": 7967,
+      "sha256": "e5858e6094af3774d3accc2f9e81c5facc6a878d676bd6160225f31fb0d7f3bd"
+    },
+    "original_runtime/core/patch_3702_timewarp_chimera_golden_sources.gd": {
+      "bytes": 8559,
+      "sha256": "c61d857de65931f580ab9fdd8092017657c5f01203950195ff421b7a2e794906"
+    },
+    "original_runtime/core/patch_3702_timewarp_chimera_sources.gd": {
+      "bytes": 8375,
+      "sha256": "6274a2543bb1cebcf3ebf36cebbdc0d532553f52bd68a6e21019ee9ca0073e59"
+    },
+    "original_runtime/core/patch_3702_timewarp_electron_golden_sources.gd": {
+      "bytes": 63990,
+      "sha256": "a4b5bcdb049f530265d91afd215b2e589e3bb586ca705533747858d1cd6706e2"
+    },
+    "original_runtime/core/patch_3702_timewarp_electron_sources.gd": {
+      "bytes": 62043,
+      "sha256": "b0187b4952ed7ac3948db6d60949e7c1fe7c99abf3b55b2577581beb4022a5d2"
+    },
+    "original_runtime/core/patch_3702_timewarp_molten_golden_sources.gd": {
+      "bytes": 27927,
+      "sha256": "7c4ef7cd554a82bf7c4d9c4e9c77df82bfbb501d07066181d62341cd42fdda92"
+    },
+    "original_runtime/core/patch_3702_timewarp_molten_sources.gd": {
+      "bytes": 27646,
+      "sha256": "9a91545b6be55af3acaf539a97dc75e4877c9b6288af31b85e5a3d7a2e99bd22"
+    },
+    "original_runtime/core/patch_3702_timewarp_murky_golden_sources.gd": {
+      "bytes": 28518,
+      "sha256": "c124314239668aa94a81177fd48a77ebcdad166e2e42c24fb6b589e1dd6dcca0"
+    },
+    "original_runtime/core/patch_3702_timewarp_murky_sources.gd": {
+      "bytes": 28241,
+      "sha256": "9674099e6f6a305c724fa720c33ac4712060c8a04b9ca698ab622fe6897e9aa8"
+    },
+    "original_runtime/core/patch_3702_timewarp_mythrax_golden_sources.gd": {
+      "bytes": 8201,
+      "sha256": "2c23004014492a72dac54e9bdd26dd982c1f2b209b7881d4c1abe700889ea89e"
+    },
+    "original_runtime/core/patch_3702_timewarp_mythrax_sources.gd": {
+      "bytes": 8033,
+      "sha256": "7ae855289d67f4a61704a37334b630d6f3850e3af2b712c4de57d413c4d2538b"
+    },
+    "original_runtime/core/patch_3702_timewarp_painter_golden_sources.gd": {
+      "bytes": 28712,
+      "sha256": "b9abf785d3dd476493c46247f3e9a06e97f1f2bc0e020ba80c28083b8b70924e"
+    },
+    "original_runtime/core/patch_3702_timewarp_painter_sources.gd": {
+      "bytes": 28457,
+      "sha256": "60e1c7f8e03a65757e731cf9f6a471caf1d3308cc37b45a45cd19131bd4ca882"
+    },
+    "original_runtime/core/patch_3702_timewarp_red_whelp_sources.gd": {
+      "bytes": 28213,
+      "sha256": "0545f49bf6ed1d16e1506bd95f4afd56b2ba695c32e3eaa40d90750db3597918"
+    },
+    "original_runtime/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "270a90ad75efda91797bb015a2d7f5c95e3f4ecb3301807a4994d7f2495883af"
+    },
+    "original_runtime/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "1c8518f4dff4ed14ea1dbe5ddd90095f7835476d6e8f0b5d4b032c378e6d1cb6"
+    },
+    "original_runtime/core/patch_3702_timewarp_scout_golden_sources.gd": {
+      "bytes": 28135,
+      "sha256": "3dd00f69180232cac349de5a9a23c78d812b494b40002e1a022afbeb7108a781"
+    },
+    "original_runtime/core/patch_3702_timewarp_scout_sources.gd": {
+      "bytes": 27868,
+      "sha256": "e6d7beacdee9c21e54badbd4138302bb04ffebe36d21ebeda400819da176c142"
+    },
+    "original_runtime/core/patch_3702_timewarp_swirler_golden_sources.gd": {
+      "bytes": 27292,
+      "sha256": "c80a66778caab971b4ffed38324eebbfc6e9a18987bf0c34ba4c490013b50b65"
+    },
+    "original_runtime/core/patch_3702_timewarp_swirler_sources.gd": {
+      "bytes": 27441,
+      "sha256": "edd5bd7d422ad78e2cd3ced58fcf44a364de8147e3739540c0adc90358eeed6b"
+    },
+    "original_runtime/core/patch_3702_timewarp_theotar_golden_sources.gd": {
+      "bytes": 8217,
+      "sha256": "456567c0f4294748eb87bf754b2de54be72ba8f255e51a1788b9ec7f1698ba7a"
+    },
+    "original_runtime/core/patch_3702_timewarp_theotar_sources.gd": {
+      "bytes": 8053,
+      "sha256": "d00a0dcfce96f31c2f61cefdc11d90b9263c1a0acf735486d3731d5ac70ee863"
+    },
+    "original_runtime/core/patch_3702_ultraviolet_golden_sources.gd": {
+      "bytes": 23470,
+      "sha256": "2d6d5ecedce96512af215fe5892fdc856276f43fcbf8a9cec43bfdcbe6f4cf7f"
+    },
+    "original_runtime/core/patch_3702_ultraviolet_sources.gd": {
+      "bytes": 22873,
+      "sha256": "2731c706b44eb30c7f821df6ea920d7ea805fa4e05f1b6c30e8620c3cb8f8210"
+    },
+    "original_runtime/core/patch_3702_vibrant_bubble_sources.gd": {
+      "bytes": 24267,
+      "sha256": "2ceed94d9af3419f46b24407dd9c72f59b29ead2a13f320ed9a2771e51c513e7"
+    },
+    "original_runtime/core/patch_3702_vibrant_bubble_spell_sources.gd": {
+      "bytes": 10936,
+      "sha256": "275ffadd2a82fc3bc989e70869a764a3a697b5a08f5f8b6c1e184a19224be68e"
+    },
+    "original_runtime/core/patch_3702_wand_divination_sources.gd": {
+      "bytes": 25110,
+      "sha256": "9208e09837bb647b92e6abdea6c13db6c3e7c2f693c45c34a79a1f146e185f82"
+    },
+    "original_runtime/core/patch_3702_weighted_gauntlet_sources.gd": {
+      "bytes": 26623,
+      "sha256": "8246b843ba3e50c46524038bbfa15e738eac2d1b3f4826dcc8c2d443e4ac38f1"
+    },
+    "review/final_report.md": {
+      "bytes": 13319,
+      "sha256": "b5c915085ff39639d3b250cbc99e2abd122f3db5f4f227e0014dc12027d7fd98"
+    },
+    "review/final_static_checks.json": {
+      "bytes": 1071657,
+      "sha256": "7cf809d9e17e64615b55b8da98a1d814d4b1c0cc4221c6159bcb8c3fffbbb03c"
+    },
+    "review/finalize_review.py": {
+      "bytes": 3987,
+      "sha256": "4baaee1658a84ade5e4206d8c2cd9436ceb7f800c4ad3c80a3433e38591c34ce"
+    },
+    "review/frozen_manifest_review.json": {
+      "bytes": 38176,
+      "sha256": "e6c91c91c8441ba514414a98b6d920dfbaa2f9bf5eaa2281c1a03203ed23a86d"
+    },
+    "review/static_checks.json": {
+      "bytes": 1018077,
+      "sha256": "862fdcd6f4c64abea8497dcfe1ffc432f6c69dc38065119d9ab3093a062713cc"
+    },
+    "review/static_checks.py": {
+      "bytes": 7951,
+      "sha256": "89be6792adfd2713c1ac1f6941131edcbdaa7913b769d744f92c029a478ae4fd"
+    },
+    "review/static_checks_summary.json": {
+      "bytes": 3095,
+      "sha256": "a52135afc1c9089f0a63db844a3157c1cb328f94ac5d90f4aee83aa7b98569e4"
+    },
+    "review/test_input_review.json": {
+      "bytes": 3825,
+      "sha256": "8a859b4906a7f42409292aa9d0021b6d0d67b26f52009e937828ce7e37b7f3fc"
+    },
+    "selection/REPORT.md": {
+      "bytes": 5525,
+      "sha256": "a9830a772467ece34bbe2f3325b531c8dec1e2630a5faf4824c487c81b56de02"
+    },
+    "selection/native_records.json": {
+      "bytes": 31347,
+      "sha256": "189a5eedd762ed3f03c1c9ff8f669f5396b0fad1c544a35d29b4a91da538b428"
+    },
+    "selection/preload_closures.json": {
+      "bytes": 1329545,
+      "sha256": "e75b39a282d4f4716114e6f6d928e146840e4b99d56caf8273d9226ddd7a6ee0"
+    },
+    "selection/strict_preload_closures.json": {
+      "bytes": 142326,
+      "sha256": "6bda1e316834db1aa05901ebb4c62b3543924182169c80a0d408f93570f241ca"
+    }
+  },
+  "members": 311,
+  "candidate_installed": false,
+  "source_report_final_host_assertions": 80,
+  "actual_stats_committed_in_test": false,
+  "rider_open_categories": 9,
+  "shatterer_open_categories": 8,
+  "full_game_restore_claim": false,
+  "remaining_reference_gaps": 345,
+  "game_or_save_accepted": false,
+  "old_dependencies_reverified": false,
+  "superseded_042932Z_archive_uploaded": false
+}
