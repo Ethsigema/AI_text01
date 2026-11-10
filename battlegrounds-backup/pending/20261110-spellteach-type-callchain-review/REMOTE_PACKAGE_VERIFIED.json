@@ -1,0 +1,77 @@
+{
+  "status": "PASS_THIS_EXACT_SPELLTEACH_TYPE_CALLCHAIN_REVIEW_ONLY",
+  "archive": "spellteach_type_callchain_review_20261110T003349Z.tar.xz",
+  "bytes": 229156,
+  "sha256": "2be4232e82443cd5c285420eecae39d318d18847dc4405ea9a7fc5f92f260237",
+  "members_verified": 99,
+  "candidate_installation_deferred": true,
+  "remaining_reference_gaps": 345,
+  "source_tree_modified": false,
+  "archived_code_executed_in_backup": false,
+  "game_or_save_accepted": false,
+  "dependencies_reverified": false,
+  "cancelled_dependency_download_retried": false,
+  "excluded_path_findings": [],
+  "common_credential_signature_findings": [],
+  "publication": {
+    "commit": "734d1ac19394d8f589355673a2c6fd96221eef45",
+    "folder": "battlegrounds-backup/pending/20261110-spellteach-type-callchain-review",
+    "branch": "battlegrounds-recovery-20261103",
+    "remote_head_verified": true,
+    "tree_check": {
+      "old_blobs_preserved": 3794,
+      "added_files": 7,
+      "old_changes": 0,
+      "force_push": false
+    },
+    "folder_url": "https://github.com/Ethsigema/AI_text01/tree/734d1ac19394d8f589355673a2c6fd96221eef45/battlegrounds-backup/pending/20261110-spellteach-type-callchain-review"
+  },
+  "readback_files": [
+    {
+      "name": "MANIFEST.json",
+      "sha": "918adf10bcf0483a8eec6e89cb943bbe9c194f91",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/734d1ac19394d8f589355673a2c6fd96221eef45/battlegrounds-backup/pending/20261110-spellteach-type-callchain-review/MANIFEST.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "PRIVACY_AND_SCOPE.json",
+      "sha": "010bc090a34d76409ff0a540eab870be1dd26f29",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/734d1ac19394d8f589355673a2c6fd96221eef45/battlegrounds-backup/pending/20261110-spellteach-type-callchain-review/PRIVACY_AND_SCOPE.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "README.md",
+      "sha": "bbe3f434b9845e080b78982283b974ca609dca6b",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/734d1ac19394d8f589355673a2c6fd96221eef45/battlegrounds-backup/pending/20261110-spellteach-type-callchain-review/README.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "RECOVERY.md",
+      "sha": "24669ee22c613d939afd984c6fe88e8002c762fe",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/734d1ac19394d8f589355673a2c6fd96221eef45/battlegrounds-backup/pending/20261110-spellteach-type-callchain-review/RECOVERY.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha": "d07c23c830880b2a213c7930e36bd0b654b7051d",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/734d1ac19394d8f589355673a2c6fd96221eef45/battlegrounds-backup/pending/20261110-spellteach-type-callchain-review/SHA256SUMS.txt",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "spellteach_type_callchain_review_20261110T003349Z.tar.xz",
+      "sha": "de4fa23b32e86afc8ace6e02d3e6e8da12bab743",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/734d1ac19394d8f589355673a2c6fd96221eef45/battlegrounds-backup/pending/20261110-spellteach-type-callchain-review/spellteach_type_callchain_review_20261110T003349Z.tar.xz",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "verify_backup.py",
+      "sha": "f72b296b5640ae8c40e16f5ec14e8be5bdc37387",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/734d1ac19394d8f589355673a2c6fd96221eef45/battlegrounds-backup/pending/20261110-spellteach-type-callchain-review/verify_backup.py",
+      "fresh_remote_readback": true
+    }
+  ],
+  "verification_scope": "Only this new exact review archive. No older dependency or previously cancelled operation downloaded, retried or reverified.",
+  "actual_game_reachability_proven": false,
+  "remaining_receipt_diagnostic_cases": 6,
+  "receipt_diagnostics_fixed": false
+}
