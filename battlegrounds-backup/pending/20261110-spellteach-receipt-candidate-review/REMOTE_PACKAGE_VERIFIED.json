@@ -1,0 +1,76 @@
+{
+  "status": "PASS_THIS_EXACT_SPELLTEACH_RECEIPT_REVIEW_ONLY",
+  "archive": "spellteach_receipt_candidate_review_20261110T005127Z.tar.xz",
+  "bytes": 344252,
+  "sha256": "b171c951c38d65a80f02d70d69ba6711f335490ce254e13cf5cf3e665ec2a4c7",
+  "members_verified": 107,
+  "candidate_installation_deferred": true,
+  "remaining_reference_gaps": 345,
+  "source_tree_modified": false,
+  "archived_code_executed_in_backup": false,
+  "game_or_save_accepted": false,
+  "dependencies_reverified": false,
+  "cancelled_dependency_download_retried": false,
+  "excluded_path_findings": [],
+  "common_credential_signature_findings": [],
+  "publication": {
+    "commit": "e16bacb13e7ab7b6c5e6aaaf98a244316a326ae2",
+    "folder": "battlegrounds-backup/pending/20261110-spellteach-receipt-candidate-review",
+    "branch": "battlegrounds-recovery-20261103",
+    "remote_head_verified": true,
+    "tree_check": {
+      "old_blobs_preserved": 3803,
+      "added_files": 7,
+      "old_changes": 0,
+      "force_push": false
+    },
+    "folder_url": "https://github.com/Ethsigema/AI_text01/tree/e16bacb13e7ab7b6c5e6aaaf98a244316a326ae2/battlegrounds-backup/pending/20261110-spellteach-receipt-candidate-review"
+  },
+  "readback_files": [
+    {
+      "name": "MANIFEST.json",
+      "sha": "28a9722a6ee4d9e12b0a75632e88e178d27f138d",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/e16bacb13e7ab7b6c5e6aaaf98a244316a326ae2/battlegrounds-backup/pending/20261110-spellteach-receipt-candidate-review/MANIFEST.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "PRIVACY_AND_SCOPE.json",
+      "sha": "a7438d25ba5b016729d64c9a56c1b471234f526a",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/e16bacb13e7ab7b6c5e6aaaf98a244316a326ae2/battlegrounds-backup/pending/20261110-spellteach-receipt-candidate-review/PRIVACY_AND_SCOPE.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "README.md",
+      "sha": "ecd212edfec352a11aabaeb0afbc2f94778b183e",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/e16bacb13e7ab7b6c5e6aaaf98a244316a326ae2/battlegrounds-backup/pending/20261110-spellteach-receipt-candidate-review/README.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "RECOVERY.md",
+      "sha": "debd5db54e5c39c3a3fcb29935598feb85e6c7b3",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/e16bacb13e7ab7b6c5e6aaaf98a244316a326ae2/battlegrounds-backup/pending/20261110-spellteach-receipt-candidate-review/RECOVERY.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha": "337f85ed7dab259dbe14d1c6de42d9dd2473fa5b",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/e16bacb13e7ab7b6c5e6aaaf98a244316a326ae2/battlegrounds-backup/pending/20261110-spellteach-receipt-candidate-review/SHA256SUMS.txt",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "spellteach_receipt_candidate_review_20261110T005127Z.tar.xz",
+      "sha": "ed481efa3ec3a849e3811606e9dd926917e5898f",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/e16bacb13e7ab7b6c5e6aaaf98a244316a326ae2/battlegrounds-backup/pending/20261110-spellteach-receipt-candidate-review/spellteach_receipt_candidate_review_20261110T005127Z.tar.xz",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "verify_backup.py",
+      "sha": "fde98dcf00bd894bb2c822f7f804b3e799bccda0",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/e16bacb13e7ab7b6c5e6aaaf98a244316a326ae2/battlegrounds-backup/pending/20261110-spellteach-receipt-candidate-review/verify_backup.py",
+      "fresh_remote_readback": true
+    }
+  ],
+  "verification_scope": "Only this new exact review archive. No old dependency or previously cancelled operation downloaded, retried or reverified.",
+  "actual_game_reachability_proven": false,
+  "both_candidates_not_installed": true
+}
