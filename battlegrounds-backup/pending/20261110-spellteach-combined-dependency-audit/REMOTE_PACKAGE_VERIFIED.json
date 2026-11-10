@@ -1,0 +1,108 @@
+{
+  "status": "PASS_THIS_EXACT_SPELLTEACH_COMBINED_AUDIT_ONLY",
+  "bytes": 1384084,
+  "sha256": "d684f9e5bde5193f95e8fecb242a7d49cc17adb7f796dc380c81d91b89174e40",
+  "archive_files": 130,
+  "parts": 6,
+  "all_members_match": true,
+  "credential_signature_findings": [],
+  "excluded_path_findings": [],
+  "dependencies_freshly_downloaded_or_reverified": false,
+  "prior_cancelled_dependency_download_retried": false,
+  "source_modified": false,
+  "historical_modules_executed": false,
+  "game_rerun": false,
+  "remaining_gaps": 345,
+  "candidate_installation_deferred": true,
+  "publication": {
+    "commit": "215f062e5c961a3eebbdd977d249a14682751888",
+    "folder": "battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit",
+    "branch": "battlegrounds-recovery-20261103",
+    "remote_head_verified": true,
+    "tree_check": {
+      "old_blobs_preserved": 3812,
+      "added_files": 12,
+      "old_changes": 0,
+      "force_push": false
+    },
+    "folder_url": "https://github.com/Ethsigema/AI_text01/tree/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit"
+  },
+  "readback_files": [
+    {
+      "name": "MANIFEST.json",
+      "sha": "56558c6436e7c23e8c0e542db26e1c2ac8b83c40",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit/MANIFEST.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "PRIVACY_AND_SCOPE.json",
+      "sha": "395991dd5796f14c7d03da3a0fca1bceef5c39b5",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit/PRIVACY_AND_SCOPE.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "README.md",
+      "sha": "7e07ea588b8a4346ec48a1ea0cd43cdfc9f35c8c",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit/README.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "RECOVERY.md",
+      "sha": "132946d556d51ce63d4397a39a354caa2d35d23c",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit/RECOVERY.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha": "b03956a4ce799cb138a7d84b7614cf1c215e6ee6",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit/SHA256SUMS.txt",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "spellteach_combined_dependency_audit_20261110T010950Z.tar.xz.part000",
+      "sha": "180fdb544195e2bea0f97c06df9ee9b567861ee7",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit/spellteach_combined_dependency_audit_20261110T010950Z.tar.xz.part000",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "spellteach_combined_dependency_audit_20261110T010950Z.tar.xz.part001",
+      "sha": "a48ada5ea97c6220a464650a083bac1317f41192",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit/spellteach_combined_dependency_audit_20261110T010950Z.tar.xz.part001",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "spellteach_combined_dependency_audit_20261110T010950Z.tar.xz.part002",
+      "sha": "6d1aa54803f7952ddb61d344714adaeb1aade6c8",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit/spellteach_combined_dependency_audit_20261110T010950Z.tar.xz.part002",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "spellteach_combined_dependency_audit_20261110T010950Z.tar.xz.part003",
+      "sha": "c52e24f680920c7bfd121909a29665e2544dd346",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit/spellteach_combined_dependency_audit_20261110T010950Z.tar.xz.part003",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "spellteach_combined_dependency_audit_20261110T010950Z.tar.xz.part004",
+      "sha": "e3a0250f3cb267de61f0e59b76d7532d83b0c4a1",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit/spellteach_combined_dependency_audit_20261110T010950Z.tar.xz.part004",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "spellteach_combined_dependency_audit_20261110T010950Z.tar.xz.part005",
+      "sha": "3b7c18e428337a525396d2707d710a04c71a2363",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit/spellteach_combined_dependency_audit_20261110T010950Z.tar.xz.part005",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "verify_package.py",
+      "sha": "10716da1107fd2c5b7f24339eb56b7fd0489ecea",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/215f062e5c961a3eebbdd977d249a14682751888/battlegrounds-backup/pending/20261110-spellteach-combined-dependency-audit/verify_package.py",
+      "fresh_remote_readback": true
+    }
+  ],
+  "verification_scope": "Only this new exact package; no old dependency or previously cancelled batch14 operation downloaded, retried or reverified.",
+  "host_preload_files_843_static_only": true,
+  "literal_load_nodes_2070_static_only": true,
+  "full_game_or_old_save_accepted": false
+}
