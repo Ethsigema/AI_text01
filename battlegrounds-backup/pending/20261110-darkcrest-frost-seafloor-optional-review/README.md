@@ -1,0 +1,15 @@
+# 霜鳞/海床可选字段：新限定fixture审查备份
+
+逐字节保存 darkcrest_frost_seafloor_optional_review_20261110T093323Z.tar.xz，5,393,436字节、908项成员，SHA256 00097718164f6665867f6ee79d5f033cf99e112f921cfc6b2040ba6760d53a70。只使用指定技术白名单封存包，不打包工作目录；原包未改或重压缩，仅拆22片传输。new_optional_fixture 内893项公开交付白名单逐项核对。
+
+本次只修改独立fixture，不修改生产原校验或安装候选。原Seafloor允许金色BG34_925_G省略pool_blocker，若存在则必须是精确MINION_REASON。本次将旧“缺失字段应拒绝”改为接受，并新增8项正确/错误类型检查，没有放宽原校验。110份生产覆盖、664直接pin、2082运行时哈希边未变；696份输入只有fixture入口变化，其余695份保持原件。
+
+唯一新运行原报告 PASS_FROST_SEAFLOOR_OPTIONAL_FIELD_HELPERS_ONLY，exit0，2810项断言（1580继承），failures=[]。21个GDScript资源、19个生产小模块限定范围，其他源码只是哈希输入。它证明该明确fixture的小helper来源、单位、类型和可选元数据合同，不代表实际Game交付。
+
+上一轮091927Z的FAILED、exit -15和空总结原样保留，原计划2802不能改报通过。新2810 PASS只属于独立新fixture，旧失败日志及清单引用在 evidence/previous_failed；旧归档未嵌套进本包。本备份不重新执行这些测试。
+
+真实Game、完整Catalog、原工厂、UID/RNG/库存、真实入手/回调/手牌提交、属性、战斗、金色子牌玩法、完整默认等级4和旧存档未验收。FandralFortune.triple_error到Catalog.get_card/triple_copies_required的getter与来源传递范围未闭合。345工具引用、四份原证据和两份合同缺口未补齐，候选未安装。
+
+本次备份只核验上传及真实回读字节，不执行归档代码、不启动Godot、不重跑fixture/Abyssal/完整Game加载、不提高阈值、不安装或修改生产源码。仅回读本次新包，不下载或重试先前取消的第14批依赖，旧依赖未复核。所有旧备份保留，无强推、不覆盖游戏树。本包不是完整游戏树，不能宣称整链可恢复。
+
+技术白名单排除HOME/XDG、缓存、凭据、私聊和一次性启动控制记录。根MANIFEST列实际成员，历史NOT_RUN是当时快照，SOURCE_REVIEW_SEAL_REFERENCE只引用原技术封印。受限路径与常见凭据签名扫描无匹配，不保证穷尽所有潜在秘密。上游再分发许可未确认。恢复见RECOVERY.md，真实远端核验记录另附。
