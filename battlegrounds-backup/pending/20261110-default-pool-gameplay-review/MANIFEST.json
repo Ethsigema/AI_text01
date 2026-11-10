@@ -1,0 +1,124 @@
+{
+  "archive": "default_pool_gameplay_review_20261110T032500Z.tar.xz",
+  "bytes": 42440,
+  "sha256": "5cddce944074f4b9a4eacc6686bd91019117c6b8df78daba9e20feb42c2fdd39",
+  "members": 27,
+  "files": {
+    "COPIED_INPUTS.json": {
+      "bytes": 6363,
+      "sha256": "c7e1d30d1831d508d6a6091dc302728a12e013fdba7e1888f6a61d480ea9636b"
+    },
+    "FINAL_VERIFICATION.json": {
+      "bytes": 5111,
+      "sha256": "58847a9f38e9fb91ae2a5270f9f71be2b8f601976951085ef7e6b313b9fdd269"
+    },
+    "MANIFEST.json": {
+      "bytes": 4595,
+      "sha256": "57242012e71e4e6da09bac7aaed5b821e3e71b87bd2d827d1f52267a32b60e6a"
+    },
+    "REPORT.md": {
+      "bytes": 5323,
+      "sha256": "6a042758458b6efba29abfae9994930c68588658b7cc0b21e52d581a396aa376"
+    },
+    "evidence/default_pool_gap_audit_20261110/fruit_vendor_audit.md": {
+      "bytes": 3785,
+      "sha256": "75265cb39c794f57490db557ade6dac59b770a3ed8272cb7d6210ea696983833"
+    },
+    "evidence/default_pool_gap_audit_20261110/fruit_vendor_evidence.json": {
+      "bytes": 2473,
+      "sha256": "abf0229c59ff54ba0e28a132970f59d9629395b85d6a9ebf7650704390093084"
+    },
+    "evidence/default_scope_native_probe_20261110/INPUT_MANIFEST.json": {
+      "bytes": 1151,
+      "sha256": "02e8a71e1340ddc93e6886a082d489fa8d9aa0849783c7dc256344b6e92c21b7"
+    },
+    "evidence/default_scope_native_probe_20261110/REPORT.json": {
+      "bytes": 535,
+      "sha256": "5ff67bbef6ed9140e2f41ff2ddc3dbbc0530b3cdad1ecd289fddefb36b1bec6b"
+    },
+    "evidence/default_scope_native_probe_20261110/REPORT.md": {
+      "bytes": 770,
+      "sha256": "9c3531a3e8616ed595e52026686668e2ba0c053ffb30dfe1d4774e0cb804d821"
+    },
+    "evidence/default_scope_native_probe_20261110/project/core/current_scope.gd": {
+      "bytes": 6719,
+      "sha256": "a1e8c5d0b2e434aa3c95cf61ce5b8734027c3df0666a63c8d07d8b24e9d94e64"
+    },
+    "evidence/default_scope_native_probe_20261110/project/core/patch_3702_membership_sources.gd": {
+      "bytes": 5791,
+      "sha256": "8b4a4f4981553125213b1d3a0cc80f66d7f54b229dcb74329430e6e4a5654842"
+    },
+    "evidence/default_scope_native_probe_20261110/project/data/current_scope_manifest.json": {
+      "bytes": 17512,
+      "sha256": "60ba04da35d3db6933f5177207f70e713da5efa2ebc0707c863a24248de2fcff"
+    },
+    "evidence/default_scope_native_probe_20261110/project/probe.gd": {
+      "bytes": 1870,
+      "sha256": "904ed8277280a9e7cf80481373439913aee869704fa95a116cf076ed5cdf0b5f"
+    },
+    "evidence/default_scope_native_probe_20261110/project/project.godot": {
+      "bytes": 137,
+      "sha256": "80ef375d15f26549f3712c7899f71bf07fa8b8cf8e5285e460730d0cc62cdc6c"
+    },
+    "evidence/default_scope_native_probe_20261110/result/LAUNCH.json": {
+      "bytes": 1018,
+      "sha256": "ec414bac19a2f71e5790ee3d52ec7f6b59babf9c52036f0ca891c02cea952df3"
+    },
+    "evidence/default_scope_native_probe_20261110/result/PROCESS.json": {
+      "bytes": 1360,
+      "sha256": "a4ca97ed194155ddfdb952bf66611fa2daa405c918e2beff786ff38014a5527f"
+    },
+    "evidence/default_scope_native_probe_20261110/result/native.log": {
+      "bytes": 8576,
+      "sha256": "2e903c6c5c1e4d825745a5ac8f5a78c9a562dca3ce6d5bbb1391bfe0005d44bd"
+    },
+    "evidence/default_scope_native_probe_20261110/result/samples.jsonl": {
+      "bytes": 20865,
+      "sha256": "40282ccb1b30d62f8cdf14214c6a170e89b5a5e7b54bb6b2406654fae3912205"
+    },
+    "evidence/default_scope_native_probe_20261110/run.py": {
+      "bytes": 5160,
+      "sha256": "a38ba75f2d8a2293bcfe4b6d6bd552a043ec763bed27b72c3f6f8cb7770b8c59"
+    },
+    "evidence/small_default_pool_candidates_20261110/BG31_035_G_native_36_6_3.xml": {
+      "bytes": 5555,
+      "sha256": "4ed46cbf1c4c55829c324846324434aeb04373494cddd96ac7cb4f42765f6105"
+    },
+    "evidence/small_default_pool_candidates_20261110/BG31_035_native_36_6_3.xml": {
+      "bytes": 5715,
+      "sha256": "0a162f777119526115db1321d7103a27d560fbac2a5fa27a638e02f36f631bf1"
+    },
+    "evidence/small_default_pool_candidates_20261110/game_static_preload_summary.json": {
+      "bytes": 748,
+      "sha256": "7aab5dcda43761ca06a28cdacd4e311b580bb3ffb2bcf80221c8f750513f7eff"
+    },
+    "evidence/small_default_pool_candidates_20261110/independent_candidate_evidence.json": {
+      "bytes": 78420,
+      "sha256": "72519752c9f6e813236401ca6b184db9f2c9ea6c182049299767541fea0cde83"
+    },
+    "evidence/small_default_pool_candidates_20261110/independent_report.md": {
+      "bytes": 4531,
+      "sha256": "629adf5314c06d7054b72ddb837e5328555d57b614ebe623e19d6ba5e9031beb"
+    },
+    "evidence/small_default_pool_candidates_20261110/shatterer_native_entity_pins.json": {
+      "bytes": 246,
+      "sha256": "d7fe1a492bfcfb33f695281c740899e3c5f4d4777a19ba75755c81ec06e5c0f7"
+    },
+    "evidence/small_default_pool_candidates_20261110/shatterer_native_supplement.json": {
+      "bytes": 12695,
+      "sha256": "933f1067a196387f0a7f132ba60101b46465e23b805073f646b89f2ff60e3aa7"
+    },
+    "evidence/small_default_pool_candidates_20261110/shatterer_native_supplement.md": {
+      "bytes": 1838,
+      "sha256": "c00e597492e85b9537a3a401f8691cc9cd36555e4885f8f956a190d1f54d322f"
+    }
+  },
+  "source_changes": 0,
+  "new_gameplay_implemented": false,
+  "new_gameplay_tested": false,
+  "source_report_scope_assertions_passed": 27,
+  "identified_source_backed_gameplay_gaps": 4,
+  "remaining_reference_gaps": 345,
+  "game_or_save_accepted": false,
+  "old_dependencies_reverified": false
+}
