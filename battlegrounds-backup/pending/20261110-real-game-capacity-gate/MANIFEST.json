@@ -1,0 +1,103 @@
+{
+  "archive": "real_game_capacity_gate_20261110T040827Z.tar.xz",
+  "bytes": 223496,
+  "sha256": "15fc0d1d986c36296bb5d2dc3bbf7d3a9d9bf8d2cd681fc90515f7b0da436c2d",
+  "members": 22,
+  "files": {
+    "FINAL_VERIFICATION.json": {
+      "bytes": 2911,
+      "sha256": "ae119cf6ce5a70c77813c78f109db136080022cc4d30cf51c0851cb6a141c656"
+    },
+    "MANIFEST.json": {
+      "bytes": 2917,
+      "sha256": "261053a92a97416d36aa157645b9df2cf17d55b749f91674b7ee229fa918a7ce"
+    },
+    "REPORT.md": {
+      "bytes": 2217,
+      "sha256": "a4d85c3f41d46f4070f32fc2f1a67e4fc0166d1bf980d4dbeb5ca49638894b91"
+    },
+    "assessment/REPORT.md": {
+      "bytes": 9328,
+      "sha256": "607a2e62cfabc21f2a134f16720a5b8efc8988fbd5e6783590627a32e48cf652"
+    },
+    "assessment/STATIC_CLOSURE.json": {
+      "bytes": 528506,
+      "sha256": "3ec84a99d808c759d2017648bca180ebfb8c176c0151aad2dd5f1ece27cdf016"
+    },
+    "trial/INITIALIZATION_REVIEW.md": {
+      "bytes": 766,
+      "sha256": "4b2838b33ebd14c611ffb2f081502b2360fdd25aec6af4488afaf7d90ee78796"
+    },
+    "trial/INITIALIZER_AUDIT.json": {
+      "bytes": 8939,
+      "sha256": "0da409f04b2d2ba5babcca0533b81614f38a1d7a4a3395e286acc94390d61377"
+    },
+    "trial/INPUT_MANIFEST.json": {
+      "bytes": 967978,
+      "sha256": "3e1ff79eed348e164a1638dc0e99d2f6d21a65a3c46415e550111ca0fd4f0902"
+    },
+    "trial/RESULT.md": {
+      "bytes": 2044,
+      "sha256": "e7890b463fc1ee7630cbfb57365ad4e98e70d1075339130f177399da8773d8d8"
+    },
+    "trial/SOURCE_TREE_PINS.json": {
+      "bytes": 412164,
+      "sha256": "fda8ca7a9c9d3156cad2bcdbc0f199621e7792b8186090c3a8bcb78c1a2eddbf"
+    },
+    "trial/game_initialization.txt": {
+      "bytes": 32638,
+      "sha256": "f38bb361a6e8039feda0e2adfbbb7477bbd61850ae50d890adeb6e5126ed8d6d"
+    },
+    "trial/kerrigan_zerg_recruit_initialization.txt": {
+      "bytes": 56,
+      "sha256": "6688ebcb41a97f33c4e4ed9a23621addbe0dc95b2ad3bae68637e2f354b9de7e"
+    },
+    "trial/loc_prince_host_initialization.txt": {
+      "bytes": 63,
+      "sha256": "d5aadc662990a35bba70f6c20f2344977de937b9befdeb881b30df5b8a80318e"
+    },
+    "trial/master_realities_host_initialization.txt": {
+      "bytes": 331,
+      "sha256": "4ad0b7aa5475940f16ff32ee6e9eda600a56af94e59865eaf597eb70f4872053"
+    },
+    "trial/prepare.py": {
+      "bytes": 3288,
+      "sha256": "9a4e60f238ea04797ec21d5489739f9d337339c4c4dfb02b4ad67b0ff7ef0565"
+    },
+    "trial/project/probe.gd": {
+      "bytes": 874,
+      "sha256": "b21c7af2f1dbc46cf8fa1f98685b5024407a03846c77cecb331816f690739b24"
+    },
+    "trial/project/project.godot": {
+      "bytes": 133,
+      "sha256": "0d53329500a735379c64b3a04835db36cad0948c25e8394d5a40b400693467c5"
+    },
+    "trial/result/LAUNCH.json": {
+      "bytes": 1019,
+      "sha256": "55350967b7caeb2abbd4dcce12c82a71b4931beeec4fb94735d12d7d14b4f05f"
+    },
+    "trial/result/PROCESS.json": {
+      "bytes": 1520,
+      "sha256": "9cc6ecdcfd3bc19338f9cf45de72fced553bbdebfeab602902a4df550060cb1a"
+    },
+    "trial/result/native.log": {
+      "bytes": 94,
+      "sha256": "b050b2899e69c08e08ddb6d77f4195c76d902d59d507ded7ddd27b3bb7bff898"
+    },
+    "trial/result/samples.jsonl": {
+      "bytes": 78013,
+      "sha256": "b7aba2241af523386df46b15726237de24cf436dfc79699a35c6704ebe4611d3"
+    },
+    "trial/run.py": {
+      "bytes": 6079,
+      "sha256": "c4f360d5ebc6a94b2fbfe07168863678eaaff87be78b6a352f9f51f3f26463a5"
+    }
+  },
+  "source_changes": 0,
+  "frozen_candidate_unchanged": true,
+  "game_load_completed": false,
+  "game_instance_created": false,
+  "real_buff_called": false,
+  "game_or_save_accepted": false,
+  "old_dependencies_reverified": false
+}
