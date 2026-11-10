@@ -1,0 +1,1200 @@
+{
+  "archive": "darkcrest_abyssal_receive_review_20261110T082503Z.tar.xz",
+  "bytes": 833060,
+  "sha256": "e23b8cbd5eee07c4c468ec476fbbdd73c0ba91e7a04405a3620bbe5c8bfd4e6c",
+  "parts": [
+    {
+      "name": "darkcrest_abyssal_receive_review_20261110T082503Z.tar.xz.part000",
+      "bytes": 250000,
+      "sha256": "fdb776bb25ff22ef2ab6ad422f33c1b25ba0caca1b16a97e64a57b324541a900"
+    },
+    {
+      "name": "darkcrest_abyssal_receive_review_20261110T082503Z.tar.xz.part001",
+      "bytes": 250000,
+      "sha256": "d12b5e3fa85ccd57d0c2bff9a7e87ca9f5c7a0863fcf21a3da35a1ecdd4614fd"
+    },
+    {
+      "name": "darkcrest_abyssal_receive_review_20261110T082503Z.tar.xz.part002",
+      "bytes": 250000,
+      "sha256": "0bbf71fb0cfe27c8432647fcc7ca3a3feff80b77ebff27f88dc74518618225ea"
+    },
+    {
+      "name": "darkcrest_abyssal_receive_review_20261110T082503Z.tar.xz.part003",
+      "bytes": 83060,
+      "sha256": "9ec26a9c2af1dd6ba29f4af44427f235b4896b6a0c68dd429bfbd78a7c2d6919"
+    }
+  ],
+  "files": {
+    "MANIFEST.json": {
+      "bytes": 53202,
+      "sha256": "915927015545675c8533cfb56d3656ee770a2f305c7b7011b5b288925508e652"
+    },
+    "POSTRUN_VERIFICATION.json": {
+      "bytes": 7511,
+      "sha256": "bc2198069fdca359520a4fd1b2b95a1f25269856479f7d441354dc602cd7c449"
+    },
+    "REPORT.md": {
+      "bytes": 3037,
+      "sha256": "c3ad330d4e5dae006a8e136a67fd9f14e5d1d1b7a30ca416e8b9ad3d29503d8c"
+    },
+    "independent_verification/BASELINE.json": {
+      "bytes": 4862,
+      "sha256": "cbe2aa11ea6d534ef49c608ea160fd604ca62f221f0abfff0ebafd82d0d3d312"
+    },
+    "independent_verification/POSTRUN_REVIEW.json": {
+      "bytes": 1011,
+      "sha256": "75eb5f555bd57aff342fe4c2691fed0287c054741032cd171f5c98780a53a0d7"
+    },
+    "independent_verification/PRELAUNCH_REVIEW.json": {
+      "bytes": 413,
+      "sha256": "1e1c3e707d4a716ea9528ed5e44e25d8b85012e7f0be5747a7e58f9244229ef9"
+    },
+    "reviews/darkcrest_abyssal_receive_contract_20261110/CURRENT_CLOSURE.json": {
+      "bytes": 65837,
+      "sha256": "b8420227cf5a231bec0ad0cd9beea6514b341a538b95859d47f48177d58837b3"
+    },
+    "reviews/darkcrest_abyssal_receive_contract_20261110/FIXTURE_SCOPE_REVIEW.json": {
+      "bytes": 1815,
+      "sha256": "e2f12dc514249be33b6bcc26622775d85b8873a6e97a0925242a6672fb6b50f6"
+    },
+    "reviews/darkcrest_abyssal_receive_contract_20261110/SOURCE_PINS.json": {
+      "bytes": 4305,
+      "sha256": "aebbe651159319c1befe458fc7546b3815591cc6c90db9d98a8b0da30a5b8e51"
+    },
+    "reviews/darkcrest_abyssal_receive_contract_20261110/SOURCE_REVIEW_MANIFEST_REFERENCE.json": {
+      "bytes": 764,
+      "sha256": "1be72614345079a812e628eff7321070003ea8cfbe6c594002fdb6891c95386f"
+    },
+    "reviews/darkcrest_abyssal_receive_contract_20261110/STATIC_LOAD_AUDIT.json": {
+      "bytes": 37586,
+      "sha256": "84468b5fd63b7de39ca6fdb0fb62427db454776db94a9501c14b90176f03ed55"
+    },
+    "reviews/darkcrest_abyssal_receive_postrun_review_20261110/POSTRUN_REVIEW.json": {
+      "bytes": 4551,
+      "sha256": "8ca0ef41977fca0a909dec9516b7ccc44844d1c3971729d7b71102f52655b565"
+    },
+    "reviews/darkcrest_abyssal_receive_postrun_review_20261110/SOURCE_REVIEW_MANIFEST_REFERENCE.json": {
+      "bytes": 531,
+      "sha256": "38f55f4d20ee82fd1529db49b09bddcd45be91f2b38995c45f4f2d2c32cc0ec3"
+    },
+    "reviews/darkcrest_abyssal_receive_prelaunch_review_20261110/PRELAUNCH_REVIEW.json": {
+      "bytes": 3880,
+      "sha256": "b635fdbea6c0bf92613b85f435c02740e086008edd0ce448161ee5fca3f284f2"
+    },
+    "reviews/darkcrest_abyssal_receive_prelaunch_review_20261110/SOURCE_REVIEW_MANIFEST_REFERENCE.json": {
+      "bytes": 531,
+      "sha256": "111834db6d10626302133678e73cb1ad6a3f9ae64bf49bc8f74fdd442ab6fbd9"
+    },
+    "trial/DYNAMIC_ROUTE_PROOF.json": {
+      "bytes": 4907,
+      "sha256": "1c5716ae3f2b8c7f87cbf67837d646b094c0ffa3717f3de4cac1d52a1931ca82"
+    },
+    "trial/LAUNCH_MANIFEST.json": {
+      "bytes": 50504,
+      "sha256": "52aedfa5e8782a99efa1e3cc762afce7fae02a310e04149de535fafdca21c95d"
+    },
+    "trial/MANUAL_INPUTS.json": {
+      "bytes": 21046,
+      "sha256": "8abc57c4fb8c883456f893fa597cd5e7adf10f96b753ce31411077629cff8b2a"
+    },
+    "trial/PACKAGE_EXCLUSIONS.json": {
+      "bytes": 232,
+      "sha256": "13f763fa8bb503b68b4e21409ef7f994e6c2cf1fe71a870e6e673c6948acda6e"
+    },
+    "trial/POST_RUN_REPORT.md": {
+      "bytes": 2726,
+      "sha256": "128eeea822777e15d7b4a0dc9c459dc6985876d8353810652f2af44a2e112599"
+    },
+    "trial/POST_RUN_VERIFICATION.json": {
+      "bytes": 1976,
+      "sha256": "916e7c6ae7e92f10359cd0534597922a118116644637d6a3f8790781970efca1"
+    },
+    "trial/PREPARATION_VALIDATION.json": {
+      "bytes": 1491,
+      "sha256": "9a3391ce1ed2ad18617083b23dcd5586fe5d683f178f12631e3a91d90c1cb5aa"
+    },
+    "trial/PUBLIC_MANIFEST.json": {
+      "bytes": 52072,
+      "sha256": "041ada971a52fe368db6d0100f1bbe0cdba505b23b6189b8a04aff346cdc74e0"
+    },
+    "trial/PUBLIC_WHITELIST.json": {
+      "bytes": 20167,
+      "sha256": "6802552998d6d45ee1cb0566eb936c60070d683bff7a984e92167896120f0605"
+    },
+    "trial/REPORT.md": {
+      "bytes": 1335,
+      "sha256": "c82a0daa954bade0d8a5d0e6515ebf2e0a076b5c4ea027d7a91316fed2f40b27"
+    },
+    "trial/SOURCE_PINS.json": {
+      "bytes": 3455,
+      "sha256": "a9d880db99eea9e59f83ccbca26d164de2f17a72ad6b1fa4c848c5373e86d8ec"
+    },
+    "trial/SUPERVISOR_FINITE_CHECKS.json": {
+      "bytes": 1096,
+      "sha256": "689deeaf626447f6388543339945ecd93ed806164006f0940785e9fe5e21b47c"
+    },
+    "trial/TEST_CASES.json": {
+      "bytes": 37564,
+      "sha256": "491275733fd8e51dd07ebe60010130940127886befcf231e1fa52bae87dd9c32"
+    },
+    "trial/TEST_PLAN.md": {
+      "bytes": 7671,
+      "sha256": "8bf43b9376998842719d5f30ae9b29d69838d305fff3b3089906492697445c17"
+    },
+    "trial/build_runner.py": {
+      "bytes": 6420,
+      "sha256": "fa63b7d6888b7779b6a0c8246bc68ce65c18c96765711e53e1a7a14681dad105"
+    },
+    "trial/build_test_script.py": {
+      "bytes": 15945,
+      "sha256": "4f64338e2c6d60ba22422c81008f87b5ae8e62ce04fda13d2944146e8dbce276"
+    },
+    "trial/check_supervisor_finite.py": {
+      "bytes": 4453,
+      "sha256": "24a48ed8c9c27d64349a73cc99153e2aaf0772c03a6ab98b9022789b2be3afd4"
+    },
+    "trial/evidence/FIXTURE_SCOPE_REVIEW.json": {
+      "bytes": 1815,
+      "sha256": "e2f12dc514249be33b6bcc26622775d85b8873a6e97a0925242a6672fb6b50f6"
+    },
+    "trial/evidence/STATIC_LOAD_AUDIT.json": {
+      "bytes": 37586,
+      "sha256": "84468b5fd63b7de39ca6fdb0fb62427db454776db94a9501c14b90176f03ed55"
+    },
+    "trial/evidence/expected_compiled.json": {
+      "bytes": 2986,
+      "sha256": "b1cb6dbbe1ff5e3f9a89f07aff12ee5238d2e6d47181079a5d24542280dcce75"
+    },
+    "trial/evidence/native_quantities.json": {
+      "bytes": 1572,
+      "sha256": "412542c5f41fcfc8727b7a3fb6e5a0034ece27d5447e7b7a06df4c855e5a3be0"
+    },
+    "trial/evidence/programs.json": {
+      "bytes": 463,
+      "sha256": "b5c846a9cf5ee8ad78c827a57c4986104a58aba299eb3923c73b3a24e871fd17"
+    },
+    "trial/evidence/raw_rows.json": {
+      "bytes": 13748,
+      "sha256": "33c08388311b6b58b60dc65544fc2701162d2dfb21666e2685a095c5d3e0478c"
+    },
+    "trial/freeze_preparation.py": {
+      "bytes": 6565,
+      "sha256": "26ed790621798c3c1172d741459d38a3007da818764b288c4c92d55f241063d5"
+    },
+    "trial/prepare_fixtures.py": {
+      "bytes": 4911,
+      "sha256": "bfd3a356af28c74cbd2991f15b82efec0792b632a053422bc84c9195014d93ac"
+    },
+    "trial/record_postrun.py": {
+      "bytes": 8868,
+      "sha256": "94ad286d18661226164baa60aa1234d619be5fb64b8f2a109e70dc2e88a27901"
+    },
+    "trial/tests_abyssal_receive/PRELOAD_CLOSURE.json": {
+      "bytes": 130764,
+      "sha256": "415012fc47c254dc6eed71b8de1394fd6f5a177019ba7a4b51026f5811049d62"
+    },
+    "trial/tests_abyssal_receive/TEST_INPUT_MANIFEST.json": {
+      "bytes": 74200,
+      "sha256": "3bf0794ac7034c5c884a3f0706dff64484001017bbb394c5255a3741aea28250"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/abyssal_striker_sources.gd": {
+      "bytes": 14019,
+      "sha256": "16f056c33da0e51f8f0142d25833609415d1513ba93e551d2e1fed0c7b19a0a9"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/accepted_hand_rng_receipt.gd": {
+      "bytes": 4379,
+      "sha256": "3cf9295576024e7b33e43f20ead1004a3b15228edf18a850cc2d761443035537"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/active_tavern_spell_amplifiers.gd": {
+      "bytes": 52845,
+      "sha256": "84454a8a0150c8dc3b892d3ce4fc033e13a83b744e05f48fb8ef881a843b0f31"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/amalgadon_sources.gd": {
+      "bytes": 32860,
+      "sha256": "7345fd98a09f8e04cf669e4b2dd11ac876df0621ca05dd1b0bb659f270515fe8"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/assemble_lineup_eot_fixed.gd": {
+      "bytes": 2740,
+      "sha256": "bec2c7b6452a8c69d304e64cecd9f42e167452909447547ea7b5c85b0bb37bfb"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/assemble_lineup_eot_reborn.gd": {
+      "bytes": 3440,
+      "sha256": "eb5df0a6d5361e847fd0612d99133454bd6add87611c33cd015fbe2c09de2df6"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/assemble_lineup_sources.gd": {
+      "bytes": 3729,
+      "sha256": "8c548b8645e2034e5cbe0cc9768b9e2921b605f7b9331c085e59b8aaa4dd590f"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/attack_gain_listeners.gd": {
+      "bytes": 22205,
+      "sha256": "9dcc8ee7e60a2e14e57f07ec6d21b2fac23d64c12db2242ea1a50a27355a1811"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/aureate_laureate_sources.gd": {
+      "bytes": 35564,
+      "sha256": "afd7bf0b360008f756f501fd20efbbd5e70b566cd7bf0ac1212c51d6717694e0"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/auto_assembler_sources.gd": {
+      "bytes": 22744,
+      "sha256": "8e7437b41d4aba50318150a22a522f479aa626a534cc606880119534ffb90a2a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/auto_reveille_sources.gd": {
+      "bytes": 25757,
+      "sha256": "6795b654fe553133873cdcfb7b5bd8fef4aa6134660bd8ad1dd8ccae5b339037"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/autocast_steal_two_sources.gd": {
+      "bytes": 12401,
+      "sha256": "7e43afe6ea6aedf19148097c1fd2a2efffd3150bbfc64a553af43bd6084ee2f4"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/automaton_history_sources.gd": {
+      "bytes": 26470,
+      "sha256": "0494294b2aa9a4ec7b42748ddef91b90b8a59a5e980aeebe4951fb4fd7198e30"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/battlecruiser_acquired_programs.gd": {
+      "bytes": 1413,
+      "sha256": "161b77c2ec43cba794b87cd8b4920f9e28d5a33e36c70d2b84f11abf2b57de99"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/battlecruiser_ballistics_sources.gd": {
+      "bytes": 5829,
+      "sha256": "fdc3b0e7e00e29510df3617274fbcf3fd1641b1ad8bd7c6ba76964d2e029cf44"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/battlecruiser_bunker_sources.gd": {
+      "bytes": 4022,
+      "sha256": "897ddeb1087f623fecb49da41b3e00261e04752966627f9bf946f72fb4da25b0"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/battlecruiser_caduceus_sources.gd": {
+      "bytes": 5861,
+      "sha256": "34793d7aec02623d022a3bf2beb5e6b9a6930e6390ea5c40da51dbc1723e6dd4"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/battlecruiser_construction_sources.gd": {
+      "bytes": 6547,
+      "sha256": "7575b3ac5702b7ab928344340fdbecbca33aca49f72fa89941ab85e9b91ec543"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/battlecruiser_missile_sources.gd": {
+      "bytes": 3911,
+      "sha256": "973d05de5185067f05a0db92b5319d36d4873f9faec7d771855f989043407be6"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/battlecruiser_ultra_sources.gd": {
+      "bytes": 4011,
+      "sha256": "2648c0da94c345e9a86a7b9949da8bb308eef9ebb7cf59380f0c2b3f75e1900b"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/battlecruiser_upgrade_sources.gd": {
+      "bytes": 9395,
+      "sha256": "84d81ba5aad91e4ee2278d6f8d2a78ad4d5d043071208b028a568b2090d58709"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/battlecruiser_yamato_sources.gd": {
+      "bytes": 6124,
+      "sha256": "7a661dee59ca6441ca9d73e3cf4be87f748346afcdf7783b58f3475f6885e0a8"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/beast_owner_layers.gd": {
+      "bytes": 9771,
+      "sha256": "1a34ba4e805354d9dcb71922f80f250a7e35ee56714a7e9a83fc2a69da3c6c00"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/beetle_blessing_sources.gd": {
+      "bytes": 21636,
+      "sha256": "fded640e4d8038fa86fc62dc0a1e7fefa095417d72a9247ab76c2669bc136ce0"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/beetle_growth_effects.gd": {
+      "bytes": 22490,
+      "sha256": "764777f2c3d0345753388a08c255f41c9291e007a283fcb3a6ec0433ca57a5c1"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/beetle_growth_events.gd": {
+      "bytes": 8561,
+      "sha256": "9fa207b3c79f34223f04b4f480930248ca1aa5c2d3b866685f5604eafb0e995f"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/beetle_growth_room.gd": {
+      "bytes": 33667,
+      "sha256": "6bb4e82d7bcaf292ce2faf6f10641a2b4c44874fcdce57e0bd643937996fa763"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/beetle_growth_sources.gd": {
+      "bytes": 40182,
+      "sha256": "784b318980fbbf427d9a1a92b92383704ae59d5c17c976e40610937b299be632"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/board_aura_effects.gd": {
+      "bytes": 53372,
+      "sha256": "2059df3bb5f2e6c558a05ebdcde972a9b1bed7d68e4cfe0e84067538367aafbb"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/board_aura_rebase.gd": {
+      "bytes": 1715,
+      "sha256": "66cb18fcb563d1c1bf813f6cc786ad37a4dbbc1298bb68e8a62c9d5f5ec051a9"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/board_aura_room.gd": {
+      "bytes": 32675,
+      "sha256": "508b546d0b24254e8ab7be7b972f5c6da10d8742be051f064cb7100a889d55df"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/board_aura_runtime.gd": {
+      "bytes": 15590,
+      "sha256": "512e4d46ac8c56c32c9438caf612e71241cdf4f453f8a6a53872cc153d84b5fa"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/boom_magnetic_sources.gd": {
+      "bytes": 24501,
+      "sha256": "3fa4b593e3fd3bf3d994810ff13918eb7bcb1c10b602c4561e3206a65aead45a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/bought_armor_spell_sources.gd": {
+      "bytes": 14014,
+      "sha256": "22f73a0afdbfa4264ba3085f19da2cc1988079fbef691854182e42a38e335045"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/bronzebeard_owner_types.gd": {
+      "bytes": 4676,
+      "sha256": "ccf7f2cd6b16d3ee746d60447fc04bf8268fc9c949c557751fa56c3f3b17fde0"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/bronzebeard_portrait_sources.gd": {
+      "bytes": 36327,
+      "sha256": "b3bd611ee9834bddc2c5c364bc3245778f9f97cc60ae79239f49bdf1bdcce82c"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/brukan_elements_sources.gd": {
+      "bytes": 21416,
+      "sha256": "ab2e8af7b5f2ce5764e54c8635b5a700f49f3992183bd69bfad52ec95e81f08b"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/bubble_crown_spellcraft_sources.gd": {
+      "bytes": 17911,
+      "sha256": "1a88aa8b7771a74635bc4b6e6cb4095c86481e57ed9bb345e7fabab7652aa5b3"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/bulk_global_card_stats.gd": {
+      "bytes": 69522,
+      "sha256": "5a583f460aaf713705b0cf6856213ea1de6aea413a26a3b6fbd5b109082ada0a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/bulk_random_resource_sources.gd": {
+      "bytes": 112189,
+      "sha256": "2fe468a1fa302ef90b4e3997b1e60fbe75a971268c1ec579a49a9a6eafb7b985"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clocksworth_sources.gd": {
+      "bytes": 18737,
+      "sha256": "b09e15a8620f9afc52848b67e12022cdec8639d9582bc7a9c414d4b8bbfd549d"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_acquisition_parent_proof.gd": {
+      "bytes": 10700,
+      "sha256": "65e26841fdf65cdae51fb10e7a172dea620ff23274fa73a96f0ca5c4c3e734db"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_alex_receipt_sources.gd": {
+      "bytes": 20760,
+      "sha256": "4d17c4fae7ba7c3fcaa6e1fa652a8fc13df5ea31ea6d0124d49c6bc4238d94f7"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_alex_triple_sources.gd": {
+      "bytes": 14866,
+      "sha256": "21d8c3b88b01c32cfa273a2a5aca6de3ffd55e4b9dd6f2d9e5247860ff281505"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_attachment_sources.gd": {
+      "bytes": 48006,
+      "sha256": "9bd0b79706828ff8caf44b735f58191bdc7ad5a7c0193d00d8aed47ac8a402d7"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_clone_sources.gd": {
+      "bytes": 5882,
+      "sha256": "4270fffdda5df50d18726109cc3779eb2462035bd5885d16dd26c76000958037"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_cry_triple_sources.gd": {
+      "bytes": 22940,
+      "sha256": "b3a74913357348f3b73a9854d9778c709fbfd5ea49641332f38344a187d9e5c3"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_discover_triple_sources.gd": {
+      "bytes": 22129,
+      "sha256": "c6ebc5109ca8a7f45c5a7877e054049c9add36e251e170d93f1c7f2895765a1c"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_elise_receipt_sources.gd": {
+      "bytes": 18136,
+      "sha256": "7a83c91e159235831e1b52ec32960a95a032f9c5db3b803f737862ee92c3134d"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_elise_triple_sources.gd": {
+      "bytes": 14903,
+      "sha256": "2424993ca92bc337dcc2b433d10c0f8c04128f5ff3d56fc72859fed85ef96b32"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_kurtrus_triple_sources.gd": {
+      "bytes": 28238,
+      "sha256": "a65486cc4913169bbf1b831b466950cd0b5ef34940e74763bdb3afc0e6295c5a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_lens_triple_sources.gd": {
+      "bytes": 21137,
+      "sha256": "152b710aefd01d2aaca61c1b625ea2e651797be511d6d5aad536f3e1e32fda16"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_lowest_triple_sources.gd": {
+      "bytes": 26682,
+      "sha256": "7c441ecd74e9d8a3fb0b8c4f6ada519dc12a36af8bd83ce742493f38cf2bba39"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_murozond_triple_sources.gd": {
+      "bytes": 26499,
+      "sha256": "247d64a9cb2fd33ce0f6d56b7fd58bccb45d595c82c9a34617470a97b9901be4"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_patches_discount_sources.gd": {
+      "bytes": 5628,
+      "sha256": "c143321ac283ff7108a4c4bd206f9576fea0abef57b76ce368300f9553bbba78"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_patches_triple_sources.gd": {
+      "bytes": 32491,
+      "sha256": "42fc161a0b3ee694bff9a114aa4e327d3acdfd0b41e2768ed4ad7074c184cea7"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_previous_pair_parent_proof.gd": {
+      "bytes": 11018,
+      "sha256": "2641ebc79f41f4394035a064556d15dcfb31d67423bae761ae0dc27ef2a9d086"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_previous_pair_saved.gd": {
+      "bytes": 6560,
+      "sha256": "a1e79447ea823b4da8022f06389d8b34b849ebc382b4ac368b06eb7c338d8873"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_previous_pair_sources.gd": {
+      "bytes": 9792,
+      "sha256": "c9b1a79361d77b46cb48ca015e9eb2b521848bfe5d309de3fdf661f21bc28653"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_previous_retrigger_saved.gd": {
+      "bytes": 5196,
+      "sha256": "95c3e862fc222e45119535fcb2a2cd60b148766233ae1d386612094a43f7dd02"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_previous_retrigger_sources.gd": {
+      "bytes": 13068,
+      "sha256": "43d2532fb2fc2844f55437959ccf05c97f78ae43a29ffbaf461630932f2a93ff"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_prize_tier_receipt_sources.gd": {
+      "bytes": 32754,
+      "sha256": "439285799eb51e5a60b3c65af6fc7ffa39f8cc9a994288ce15baa9647aff24af"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_prize_tier_triple_sources.gd": {
+      "bytes": 15128,
+      "sha256": "166f0247b7116751791df65f124519c46a6b980881021e1d3ae00ab253c9db0c"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_purchase_triple_sources.gd": {
+      "bytes": 12852,
+      "sha256": "e206d8fc380e70309d6c1c24b64a969a1107d8cbe108f8eae574e8be71ab118c"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_rat_receipt_sources.gd": {
+      "bytes": 31297,
+      "sha256": "faeeb8e85e07f93187f75f421d2d6e322014751736b88424ba7ac2dfcad53612"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_rat_triple_sources.gd": {
+      "bytes": 14900,
+      "sha256": "3dabccb3d0d14fe50479da63bba373cef90f196a7b84f24d3f36683646b54ab2"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_reward_receipt_sources.gd": {
+      "bytes": 20051,
+      "sha256": "531ff15f86e3610c77eeda2e8004439c687d2e32f22544649be73ad04dcc6ddb"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_reward_triple_sources.gd": {
+      "bytes": 14945,
+      "sha256": "232545c4d0f927d77a8ce3f051da2cbf74f5d015384fafb2199d72d8b407178f"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_scabbs_receipt_sources.gd": {
+      "bytes": 5167,
+      "sha256": "be6663e81bd3df6071d2437f951a8e8760ccc5658a5b54febd0a4f60a18d542a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_scabbs_triple_sources.gd": {
+      "bytes": 17873,
+      "sha256": "da5cf321cb246a15d8b4100d87fe91eb1ba6dc0e148150396b78553618c3ea06"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_souls_receipt_sources.gd": {
+      "bytes": 6693,
+      "sha256": "8cd472fd5907199342762816a442ea97823d492b5e6e98df9b4e7509c3725ed9"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_souls_triple_sources.gd": {
+      "bytes": 18855,
+      "sha256": "6556c0ef9d8195f5bd7e48db2e7430a1e33558e8fb510773a44d8151b1c63384"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_sprout_receipt_sources.gd": {
+      "bytes": 20264,
+      "sha256": "bc9c1f02eb4991accb3028828316b0e795ff22bbe1b68e012b32cc5459cce92f"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_sprout_triple_sources.gd": {
+      "bytes": 14933,
+      "sha256": "5e6393f159a0e5bfb1273219ef44bf1c010120026903c587603b41d05d57643c"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_steal_triple_sources.gd": {
+      "bytes": 20244,
+      "sha256": "b3d345ccdd3e26c53c7b0ca198675b0d2a2b03534327ffb2e0c5f6ca45877de5"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_time_thief_receipt_sources.gd": {
+      "bytes": 4717,
+      "sha256": "43026f91cdc5381987bbcb91944356ee6818251998edb85cf55a665e9cc6a398"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_time_thief_triple_sources.gd": {
+      "bytes": 27948,
+      "sha256": "39c82cd701954880499184160fb0cdec77f829cc25f7fd8358ce71fffd383fc7"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_triple_sources.gd": {
+      "bytes": 31304,
+      "sha256": "6b2b1a59b30ef223857f1c3e8c98f979bc01f884d50135a4382c6ae3cf0f2008"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_wish_triple_sources.gd": {
+      "bytes": 28827,
+      "sha256": "8cc904cc6e576243438ed8ef09f28773178ec8fc9a082862dc7cbb691bbb94d1"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/clunker_zarjira_triple_sources.gd": {
+      "bytes": 23169,
+      "sha256": "5693a1abd534b9e46f8357314025a34b4aebc8a37e3a10118eb18c7a99e81286"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/combat_identity_transition.gd": {
+      "bytes": 1833,
+      "sha256": "3c0f0935264aed2a166aaf72f4113a0c1f01987bcc4db9a75f9fef53b05d1a7a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/combat_spellcraft_resources.gd": {
+      "bytes": 11365,
+      "sha256": "5b0d15cd837fcc7acbd408026bc9e4f14e94478c0dc26636d0bbf6541b7afbbc"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/cyberdrake_aura_sources.gd": {
+      "bytes": 9941,
+      "sha256": "0dee115dd4e6ac68c5076a2dc55dca9bb4ebcceba577c357e5191236f574a694"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/damage_listener_events.gd": {
+      "bytes": 39713,
+      "sha256": "e2e236f888c0d30321f13bb9f8418c688dba968a6d2114518c3c8c64faa42479"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/damage_listener_host.gd": {
+      "bytes": 41938,
+      "sha256": "03fcdba3f52da0fef59b5e5f5b764b2d875534412b8836f03afa2cd68eedd547"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/damage_listener_registry.gd": {
+      "bytes": 48391,
+      "sha256": "162ad1d2ad74e0a0a65632bf6b2e6a2789ff1424cf3c9e00865e74d8b8ed8764"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/damage_listener_room.gd": {
+      "bytes": 146536,
+      "sha256": "cd3c7d104698f51b8ddf6b627d1a753f442778d00adc0ddb9e3c5287b2ac8287"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/damage_listener_sources.gd": {
+      "bytes": 17034,
+      "sha256": "1b1d6f05ca7183ebde59691af8e5926d74764ce60adf17d3ff994db9874d8697"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/damage_resource_host.gd": {
+      "bytes": 11781,
+      "sha256": "904552c8bc9938ad41559e7f2cb001eab1b776b0116e0e54a6b2e8743ab43094"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/damage_resource_rewards.gd": {
+      "bytes": 10533,
+      "sha256": "a7768accbd6c74073b96e1b061c14dc15f3b5ff941d6c75c6e55eaf65e226296"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/dark_gift_fodder_sources.gd": {
+      "bytes": 11709,
+      "sha256": "aae2382f829a0e4ce5a16024f9c21cd8f772296baa5084a71a5891bb8dc68504"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/dark_gift_qualification.gd": {
+      "bytes": 731810,
+      "sha256": "b2ad44d9f38d5a9af12ecac485c4222c14d1ede33a4e01d42ff159b536d4c476"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/dark_gift_sources.gd": {
+      "bytes": 519588,
+      "sha256": "783581aead6812f392e655b9daa74389e947f84b8a515a6f05e7c663bf01c846"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/dark_gift_spell_siphon_layer.gd": {
+      "bytes": 10262,
+      "sha256": "47459751c64c76b4849df2d79cdefae46994e552df32d60d92e6f440930fecd3"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/dark_gift_spell_siphon_sources.gd": {
+      "bytes": 104837,
+      "sha256": "44f186ddeb20d09e67eb9bdf7bfd884d497ecfba13e4ecc9e4ec7d5a7f6c70e7"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/deity_sources.gd": {
+      "bytes": 57210,
+      "sha256": "23e666f5a3311de9c12254624200716ff82be9e42adb2322956c1e4d67192dea"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/delayed_minion_gold.gd": {
+      "bytes": 20877,
+      "sha256": "bb6e42c6d11f8012f200f88469becf439627269677590e27096adf09c029691b"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/denathrius_quest_sources.gd": {
+      "bytes": 9203,
+      "sha256": "c04d9202e612287b1f4937deccf44aa645c8641de8a36a17d2895f96ffc5ed87"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/devourer_souls_sources.gd": {
+      "bytes": 66390,
+      "sha256": "61bd74251623986b5b7312847ce045a2f692e1bf4dd7997952aed1425bbab42f"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/drakkari_owner_types.gd": {
+      "bytes": 4532,
+      "sha256": "6308328d4792335d306d80f3e30f2e40d42631ec7678506fa952213f981cdcc7"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/drakkari_portrait_sources.gd": {
+      "bytes": 24312,
+      "sha256": "ac008ed54fda320bb82f1bf1a99452ff9ad198d448ebb70fd3993aff548aee2a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/duplicating_lens_sources.gd": {
+      "bytes": 19429,
+      "sha256": "d1a03a0c781762d24c133723f687a45b158d2f4a5991d3b6f5776d8ec7d7d748"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/dust_prints_sources.gd": {
+      "bytes": 1945,
+      "sha256": "84fcd65c00faa3836d4f57d52dfe4c0e008bba48aa2c5d51a01a8f686eb42773"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/efficient_engineer_sources.gd": {
+      "bytes": 1005550,
+      "sha256": "be43f157564c1fb361bf3c65a51185ce80e7baec614871bd16bc3bcbfa2399c5"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/end_turn_repeats.gd": {
+      "bytes": 25256,
+      "sha256": "76017353f46f789bd725a40f1e189298dedc5042db8204f27a966923a80a0ec1"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/energizing_chamber_sources.gd": {
+      "bytes": 25938,
+      "sha256": "aa8a2c0545301db88108810a44db80b2f4950ff584317e27a0ea41633f0554c5"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/engineer_generation_edges.gd": {
+      "bytes": 1642,
+      "sha256": "5949e5437a73b8f85cd5db65b353c762e966a0c1dbbfb2e124cc9dab0d5ecd8b"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/eot_repeat_identity.gd": {
+      "bytes": 612,
+      "sha256": "8da7fb54f7440bcf392c5b5ecab078f29b294c39195f94178a611f7b0382e494"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/eternal_growth_portrait_sources.gd": {
+      "bytes": 26070,
+      "sha256": "937bda03c403c8c4d8c1aa5187552459a55181545c01e7a99c448af2383921a3"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/eternal_knight_owner_layer.gd": {
+      "bytes": 11021,
+      "sha256": "3e06cd4758fa8c308d3aa2353ef42d3f540e7cf08c8ea3c8ecf745848a8224c8"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/exact_value_identity.gd": {
+      "bytes": 1189,
+      "sha256": "c4e562721c6f501998635cadddb6d313d845d58f6f51c14ee6ff0446cda1f291"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/exhume_bones_sources.gd": {
+      "bytes": 2571,
+      "sha256": "d6429823495efd6da85bb512bfdcef4ecad9971eb0a2874037d463554a6c865a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/fancy_eyepatch_trinket.gd": {
+      "bytes": 3209,
+      "sha256": "75c36f35e76e93b79a0282d91fd13e920027c6a76575523d30debc9927670da0"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/fish_deathrattle_sources.gd": {
+      "bytes": 41343,
+      "sha256": "f312645ade9feca35dcdacb2b1a57378ba13915672beac34dafedfbb05d4a185"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/fodder_refresh_sources.gd": {
+      "bytes": 54989,
+      "sha256": "355afedb054bdf6ff1d69204925ca40e977b380ff421fe02b3e95d40d2a7af10"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/forest_heart_sources.gd": {
+      "bytes": 6390,
+      "sha256": "33eb3491e63c81eaa06ce038252d8ee87acc3de7cb4dabcbd2cfbcdf2b80a8d4"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/frostling_jar_sources.gd": {
+      "bytes": 22317,
+      "sha256": "ad2589417d632364293cb98b63ee16d4b447ebfe69a38b3de39ca9148edce330"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/giantfin_hero.gd": {
+      "bytes": 6315,
+      "sha256": "c15c425e2e5bea8b27b3d45a17d5d07b1a059f0803b45fc1258fcfdcda63eb5e"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/gnoll_death_aura_sources.gd": {
+      "bytes": 34129,
+      "sha256": "a4582de9b8a361934da6898c291b1a91149cf6bf1d20ad691bcd26bdd49245c7"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/goldrinn_layer_sources.gd": {
+      "bytes": 34371,
+      "sha256": "47ccc3c331897e049d124cd0b37547d7c4ce67c36afed4ea0b36914e543a4df4"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/hand_lock_history.gd": {
+      "bytes": 1188,
+      "sha256": "8ba0cc7aa65f611b1173ce5dafeb01d7c68b701b8ff2290c10ccd74e4943c154"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/hand_lock_sources.gd": {
+      "bytes": 24006,
+      "sha256": "0c49aecf10b148404368ccb6d12b2e91ae51dc0603b88da13db504012845edbe"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/hand_start_copy_sources.gd": {
+      "bytes": 17468,
+      "sha256": "d2de21563b5ac845db2b0578545fa5b2c881f93906a9eef1a91b8a9d8e20d647"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/hand_summon_effects.gd": {
+      "bytes": 39978,
+      "sha256": "fe963dadd1c0ade1b8b4f819102e06a02f5431228e4bf527343aeb8e3dc63ac7"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/hand_summon_room.gd": {
+      "bytes": 14455,
+      "sha256": "001e543ba3bd221d7b1364f5a643769af078595d9adf984a5ca159c48d5c4d0a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/harbinger_sources.gd": {
+      "bytes": 2540,
+      "sha256": "253b34d80785728b28f342262e90a238c478df0db3c0ed3129edd89e01af062d"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/hero_damage_sources.gd": {
+      "bytes": 3513,
+      "sha256": "167086af6208b3c410058051ea6f00049701fb342783a01b929ea605f06bffa6"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/hero_power_identity.gd": {
+      "bytes": 3017,
+      "sha256": "83c455d82b1e1d753d4d9d113572525a2bde02a01f5902b66b605cefb6e6959f"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/hero_starting_units.gd": {
+      "bytes": 20446,
+      "sha256": "ae328fb95d7652d04e3dc1184d3fc4b915e8fbc90b1fc13783349415b8e71a21"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/highest_battlefield_trace.gd": {
+      "bytes": 2093,
+      "sha256": "bd98ad5f1e6aa5183a86e99b86ab8937f6e9f02328e8cff8db52da6d2b02d7c0"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/holy_vanguard_sources.gd": {
+      "bytes": 20332,
+      "sha256": "60349ab2831aa11b2345527e467b45d19e8cae23e09c697fc5f163a9446e471c"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/humongous_sources.gd": {
+      "bytes": 1307,
+      "sha256": "f24918be6c230e15090c0e288d2184906c88b34e5525db6b49d3c8ab44430ab9"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/jelly_reborn_sources.gd": {
+      "bytes": 48638,
+      "sha256": "c8081260d5283541c8357f39de50c2c2b98424a8886b73494f158f884722d21e"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/knitted_sunfin_sources.gd": {
+      "bytes": 3759,
+      "sha256": "19a114cb1a947a2de037284ec9ca1dc809e21b94b92986b45179da6776e6246f"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/lightfang_owner_types.gd": {
+      "bytes": 5204,
+      "sha256": "9129f50b4838916f6d7109413791c24712ab9c6aea73d9bc27027033bf437b10"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/lightfang_portrait_sources.gd": {
+      "bytes": 23324,
+      "sha256": "1ecff4e294881048d4b512ab8731defe561127135246f8754e2f32985ede4102"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/linked_undead_sources.gd": {
+      "bytes": 23595,
+      "sha256": "be9a361f6b800a64ecce2603873383de84231cbcb3e24fe31de4098f726b8223"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/lionfish_sources.gd": {
+      "bytes": 8001,
+      "sha256": "9426bf48d6df1104a71265153ecf3cefdc77b5e37f798442adfb99a5a872d43d"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/living_deathrattle_sources.gd": {
+      "bytes": 52354,
+      "sha256": "d5999e216a4ce89b17e8934efda0a1712b29b37f55bc7e980a248ce6a590fff7"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/lobby_tribes.gd": {
+      "bytes": 5921,
+      "sha256": "96b74fb21b8876353defb8e457d6ee0f3e888fea59c2f810eaf9a552adceea6a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/loc_prince_host.gd": {
+      "bytes": 12226,
+      "sha256": "03af58959e66808668994384526168de638750b3c67b8941ddced2426f9ecc45"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/loc_prince_sources.gd": {
+      "bytes": 18684,
+      "sha256": "6f14c8dab002e7eeffeabbfc41e0b9eed8c20bb2ea04682ade82ae40887146ac"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/locked_return_spellcraft_sources.gd": {
+      "bytes": 19362,
+      "sha256": "f75dac273ab84e7ebc22e356d814386cd2d8c604308f1d499ff4c0e52e5fee2e"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/locked_timewarp_discover_sources.gd": {
+      "bytes": 44762,
+      "sha256": "2dddc788cbdbb9f2941baeffec293d0bd6c847a00455d3105aa5f8d21fbfe283"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/lowest_health_plain_sources.gd": {
+      "bytes": 28778,
+      "sha256": "089c8e4ccc647896ed9b7284d90de2d6da8c34ca7659744874983d403caf210d"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/magnetic_golden_sources.gd": {
+      "bytes": 39838,
+      "sha256": "3b367c8b6e408ff63b3ea904128a108d0d4158bcc4211b7c4afbd89d0db265fa"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/magnetic_multiply_sources.gd": {
+      "bytes": 20863,
+      "sha256": "aeccbae48dbc21123403a2e66afd9872d05203fd85d4c82d0cbace8887ad9982"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/magnetic_spent_actor_registry.gd": {
+      "bytes": 2764,
+      "sha256": "88b99c3c03f10a9f8f3af8d8131ca92adec68572a14b1224048ea89684578c0d"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/majority_minion_discover.gd": {
+      "bytes": 6018,
+      "sha256": "7aa4a115ad04703ff18f7acb5275fb39196265ce2742df86f353e5b62a4a2e32"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/malorne_sources.gd": {
+      "bytes": 17722,
+      "sha256": "48d32f8b5d3d6d06c2c74cb49efe546119cb8c2fb6b14646bf1978c726fee979"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/megasaur_adapt_grants.gd": {
+      "bytes": 10054,
+      "sha256": "6b401fb7d58ef8a0cb8eec00ad06a26f55e0d9636aaffae3984b485e5297502a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/megasaur_adapt_sources.gd": {
+      "bytes": 35843,
+      "sha256": "0f0b7a928a105601d793763bf9fc8ebb4475f951b291efa5dee85fede71c3653"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/milestone_hero_sources.gd": {
+      "bytes": 18358,
+      "sha256": "a302ce9c724e13676ab3558e9eb1647ed47315b9e23d806f3dd41ebed530bb65"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/murder_synthesizer_repeat.gd": {
+      "bytes": 7562,
+      "sha256": "dba11c7b54566fb37830dd82265bac851d2557eaa0719e6c994bad287e5950e9"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/murder_synthesizer_sources.gd": {
+      "bytes": 2513,
+      "sha256": "28b64982518d57747b1f85960f85ceea01464e660a20cbefa5cb62bc4511935e"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/murder_weapon_sources.gd": {
+      "bytes": 5218,
+      "sha256": "0968456825a16968cfef2cb254114413c0b45c6eec263461d0a8fa2502164bc3"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/native_plain_copy_sources.gd": {
+      "bytes": 39586,
+      "sha256": "05632e17d6f4f8e7f6bba04effebe735a2841fc55aa1d9a52c781c52bb84a588"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/native_prize_state.gd": {
+      "bytes": 19116,
+      "sha256": "90584ad2c8b354fb22e70df69c52daabeccae64bf2535c57493031f30243e4db"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/native_prizes.gd": {
+      "bytes": 16256,
+      "sha256": "9e80d0c0580fd1729f98efe40d04f4724a6e672edc8408388bbc46ed53252b2e"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/native_start_grant_sources.gd": {
+      "bytes": 13504,
+      "sha256": "8a6095b465a98fbe5caf68df5962a77f16b526febad84d354b0b33f7f7f42d23"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/nefarian_hero.gd": {
+      "bytes": 5030,
+      "sha256": "ec8c1677b0b87d2f031fef3412cae91af88e60d259920f2b3cc9a8de8d7200f8"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/nzoth_start_sources.gd": {
+      "bytes": 26125,
+      "sha256": "d7d3ff827eb37f6286059b4b171b1e46c0ef8ac41ffb84e8d1e0c1533a887d43"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/old_murkeye_aura_sources.gd": {
+      "bytes": 37474,
+      "sha256": "a6a5e40f89f1c91999a7e0b81091e8ea541a2100234cd8f3d831caa9b40d203b"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/opponent_discover_sources.gd": {
+      "bytes": 11332,
+      "sha256": "d3be8ee76fa86694f911e6db1bd3249f46522e9c6cc217c4ed0e328f00e35f99"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/ordinary_triple_sources.gd": {
+      "bytes": 238555,
+      "sha256": "5194f64ad08b623af6d6730ec55532711d077869f5555b4fef076184fb8d780f"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/owned_eot_repeat_sources.gd": {
+      "bytes": 10632,
+      "sha256": "4a2327877334057cd7ed092651f2fc3bbf14f99aa19e68c4e54aa87fa07b2436"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/owned_locked_discover_sources.gd": {
+      "bytes": 45343,
+      "sha256": "319af03f1e1938fe8802afa4ce29c11671b60da3b1d4680a612ed65c4532a8b7"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/owned_rally_damage_sources.gd": {
+      "bytes": 13025,
+      "sha256": "45207ed7fe1caaca5aaa31547814121ca10afe9986e42019f5bf6def1d3f9332"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/owned_rally_end_turn_sources.gd": {
+      "bytes": 1605,
+      "sha256": "7f501cc4d6bc5f91dc8aeae08e6cd7ca921d5262e64ce20412bc3fe1bc1e1dde"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/owned_rally_removed_fixed_sources.gd": {
+      "bytes": 6740,
+      "sha256": "e14fd5b7e20342e205e217fca51c9f840d4adf6549b6ccec151443f14140a83d"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/owner_aura_sources.gd": {
+      "bytes": 65355,
+      "sha256": "a2742158c95bdfed7c5a6151f6a89bbfc9bd2ccd0fbaf5548d07e538a0cd7c96"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/patch_3702_crimson_vindicator_sources.gd": {
+      "bytes": 15818,
+      "sha256": "a16f78a7504617e240eebb95fc6e504ecea1e16c665e9e8ee792b7d9de875e2b"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/patch_3702_eudora_sources.gd": {
+      "bytes": 13346,
+      "sha256": "a176c545c64ed8ac76ef0a2ef18eae84a391ce10e88e45c41cc7ff3008a76315"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/patch_3702_forest_heart_sources.gd": {
+      "bytes": 27139,
+      "sha256": "44b3c559c0b52ff6e309e42d10cd7a2c6e934e38b454f40ad17c3caba569b7f2"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/patch_3702_powder_courier_golden_sources.gd": {
+      "bytes": 22771,
+      "sha256": "bca8813e973dbe796c500e712f236f70de7948121e44fc0dffa84f48dc8818b3"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/patch_3702_powder_courier_sources.gd": {
+      "bytes": 21998,
+      "sha256": "3d1705995ac63e2cd3ae2f03911a21bae533a6c3ee3bf0cb19cffd878bb395e3"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/patch_3702_sanguine_refiner_sources.gd": {
+      "bytes": 7386,
+      "sha256": "3bdceb24640428a0e691bcf65adc1ff7b4fec5cef53cbe04f76e369432345397"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/patch_3702_sky_golem_portrait_sources.gd": {
+      "bytes": 29249,
+      "sha256": "3059cfb7e6b1b4db8857248ff77ad4e661b517f0f3aae45c18fa2c1db101f181"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/patch_3702_timewarp_rodeo_golden_sources.gd": {
+      "bytes": 8322,
+      "sha256": "c9979053db5e8152b6cc397a0052c60f20ecda569b2c1a1c295460a49063f642"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/patch_3702_timewarp_rodeo_sources.gd": {
+      "bytes": 8170,
+      "sha256": "0ca5ad27bdc3fb62d9b91de4acb283f03454dfb36e1850ad58105fbd52a0957e"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/patch_3702_unbound_tempest_sources.gd": {
+      "bytes": 8293,
+      "sha256": "09dd1ed96c5b2fb16687221d0a60456a7fccb56613623f254f6123e9629b8a6a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/permanent_tribe_effects.gd": {
+      "bytes": 47366,
+      "sha256": "d355f5eab3f3f9fba79969309aa5bc982e9a3fc3a98d9142564c820d3ba10581"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/permanent_tribe_room.gd": {
+      "bytes": 3078,
+      "sha256": "3f937cac44429a7a7059bf46830738a85421e259537d280fdf9733c9ae1f0d35"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/phalanx_aura_sources.gd": {
+      "bytes": 11464,
+      "sha256": "5a57a8d80437cb644c6ea2aa6b5a832fc1da4d27118ce2db8be93e201d60dd8e"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/phase_undead_army_sources.gd": {
+      "bytes": 17176,
+      "sha256": "69cf2c15d954e082fd37e2b01d37347d1a515aa00d9a43514b5509f5ee9e2af7"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/piggy_bank_sources.gd": {
+      "bytes": 27999,
+      "sha256": "69624176371dfec11b563324812d2851f6620aa6637591936934479f9fa24424"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/pool_identity.gd": {
+      "bytes": 2004,
+      "sha256": "cf9388a9288d0f3684be277fa91ca6845b6d8945fdd7cd065e9d499c06b7b4af"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/powder_courier_sources.gd": {
+      "bytes": 1465,
+      "sha256": "0cdf027c1733df041039ba99a3d59b4e5b18689059a7e8ee9e1e18a4c1556009"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/powder_keg_sources.gd": {
+      "bytes": 17301,
+      "sha256": "67ea2a7cb59af1810096e578d28708c68f783c06e8d4c7bea963e89dd8a6a073"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/previous_combat_deaths.gd": {
+      "bytes": 8641,
+      "sha256": "053347cd9dc028a522028caca22fc3885a6f294df25e3f9391b4c1f16aba949f"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/previous_opponent_plain_sources.gd": {
+      "bytes": 25569,
+      "sha256": "4d24ac2c53aae8ee041cd5859c339a1f90eb6a00f45d15c69c12de6418330dac"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/prime_mate_sources.gd": {
+      "bytes": 18360,
+      "sha256": "0a6ff512f07c9b1d94dd95580213f28df73670ab513d9a5a05c27fb8e39eb69a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/prize_candidate_domain.gd": {
+      "bytes": 18230,
+      "sha256": "00cfbc177af68cc0144ec2ac2c468abe67c4c7eaa00d596d54cf4f813b87bf32"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/purchase_stat_order_sources.gd": {
+      "bytes": 19361,
+      "sha256": "943cd4690ee6b7e216497b61ef1473680b3f25a7d204e103202f3c7d6dfca13b"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/quest_events.gd": {
+      "bytes": 45468,
+      "sha256": "9284fd2afd31326777851b6c32c7e358cd920f8c18c1d94b9b0c4a5be9b2e640"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/random_spellcraft_host.gd": {
+      "bytes": 4240,
+      "sha256": "45c10261365acd7599a886359f22aa597240b4b884f0f430c54d5f9d2d6130cd"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/random_spellcraft_sources.gd": {
+      "bytes": 22362,
+      "sha256": "2cb12f6e886bc5495966ba491ad0b651a7b8c4ae64ca8b901902c8bca130b290"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/rat_king_sources.gd": {
+      "bytes": 17779,
+      "sha256": "6caa6cb5d8727fb82f04a6ad7313ba329eec38be57dc1e6fdb10f86cf0c7a38c"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/reclaimed_souls_sources.gd": {
+      "bytes": 10887,
+      "sha256": "c3a06aeb2b3160841b2452fee21ea92e7495b0853529bb200f4e235b8003a0fc"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/recruit_prefix_cursor.gd": {
+      "bytes": 5692,
+      "sha256": "73525b6481e32bea12af42ee13b2575185302f8ae7a415c0119a02de860f6900"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/recurring_nightmare_sources.gd": {
+      "bytes": 27832,
+      "sha256": "6cfc011dc47677835969545d5db2e0652cf706521d9dc84920d10b09ae5a9f2d"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/resourceful_robot_sources.gd": {
+      "bytes": 24931,
+      "sha256": "df8f17abe87d065a2b2e0401f256075bfd9da18072f477e0cbd4098bca200bd0"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/round_up_attack_events.gd": {
+      "bytes": 3015,
+      "sha256": "8a7c9ab4037d4fdca83152791335357d999049ce3d68503b718ea2848f9ab637"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/round_up_quest_sources.gd": {
+      "bytes": 1861,
+      "sha256": "509cd1ec11ff5328dc7baa5a66fb90f29acc3d49293dbbdd268880bebf3abf09"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/rusty_trident_sources.gd": {
+      "bytes": 12113,
+      "sha256": "44824d4c6adc333640f2d0c937a658f384635cfcf3cf8b5750ab214a99982544"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sand_beast_summon_sources.gd": {
+      "bytes": 56453,
+      "sha256": "5155e19692135b3da2df473c640ce609b56e419e4a961e402567446188b4aecf"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sand_bronze_combat_sources.gd": {
+      "bytes": 18441,
+      "sha256": "2ee81083f7d0f52405c460e89ebbea320a07c92d1dfe80d43c51aca5f45adbe9"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sand_horse_summon_sources.gd": {
+      "bytes": 39591,
+      "sha256": "72eb81dbf951c374934d134bce70493ac20424144208379e13495afc10e0c8cc"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sand_mech_summon_sources.gd": {
+      "bytes": 59622,
+      "sha256": "203f2fb1fc51869c9f9416a130bc5c5618511dc7708b22319fc9b8bd70560181"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sand_sewer_summon_sources.gd": {
+      "bytes": 17141,
+      "sha256": "e5ab59fd2ea848de50648d321cd526a225a4b54d912d84cc27df5986a57677e6"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sand_skeleton_summon_sources.gd": {
+      "bytes": 29241,
+      "sha256": "d88d90126bc1cd513a388d5317e2e64689393b883a4fcc647895bd7c900f200f"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sand_spirit_combat.gd": {
+      "bytes": 46285,
+      "sha256": "c4242dcf5a928faa115e012473d8a2be3d04b6662e46d9b9204f3c1f2e6b45c0"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sand_underrot_sources.gd": {
+      "bytes": 20618,
+      "sha256": "6443b7a653ee2af06b03f3cdd4d3f8b22697c48d13cec758dc387b023975261b"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/scabbs_spy_sources.gd": {
+      "bytes": 9658,
+      "sha256": "4399b0b250bd9cc7d6d0ae70c6920ab3c189f28c067f74a9132f62a334bd7cd3"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sinestra_gain_sources.gd": {
+      "bytes": 23731,
+      "sha256": "17722b970e4bc598ab9b847892c1550f9b79f6968da5f23ee91e54ca654ff914"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sky_golem_portrait_sources.gd": {
+      "bytes": 24458,
+      "sha256": "8d641804d5abaa2bde62633e89918932f375ad7a936384e675878957c29efb7b"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sky_pirate_owner_layer.gd": {
+      "bytes": 5189,
+      "sha256": "7e5dd5515d323adffa7bbb31f74c80af499f727fe4456c3ff0024d7410fce453"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sky_pirate_portrait_sources.gd": {
+      "bytes": 50303,
+      "sha256": "9d6be10c3d625d2e91d5833599e16635cd8127f4716b1085ac0bb52918249317"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/smuggler_owner_types.gd": {
+      "bytes": 4744,
+      "sha256": "14869e4280f16ef5d1d44704545a9635e9e078842e8970fe558c5a39a3bda6e8"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/smuggler_portrait_sources.gd": {
+      "bytes": 24079,
+      "sha256": "3de5176b586333425108a7f8b296fc74feb5170a59320c1a68f708b56e90c454"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/sort_it_all_out_sources.gd": {
+      "bytes": 3155,
+      "sha256": "84b03649048358b4503e633faed5ced42d68454a43681b9e6128098a3593c232"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/suspicious_stimulant_sources.gd": {
+      "bytes": 14340,
+      "sha256": "3d603fd98c5b1e43405c587f99b848e2588d200bc192ba8ddffe8b10f8cfd030"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/tamsin_phylactery_sources.gd": {
+      "bytes": 12382,
+      "sha256": "af80e7e233f24843bc6f45bf7d53a933568d2af7cd6d1c6b24c5ec8b65d5e446"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/temporary_deathrattle_enchantments.gd": {
+      "bytes": 12061,
+      "sha256": "66071ff470fedc906dc4cfe8ebe81adb634514116190a80e598621305a0e4df2"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/temporary_deathrattle_sources.gd": {
+      "bytes": 41141,
+      "sha256": "c90be427fdaf4a9f37a9ded59ed4e0dff4433970dc7c4430e1304a6e8d758bed"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/ticktus_prize_hero.gd": {
+      "bytes": 11145,
+      "sha256": "835d34ed812d6449a077a766ce25af60042230aebe01c30b815693bc7145321d"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/timewarp_rodeo_host.gd": {
+      "bytes": 4059,
+      "sha256": "154b90238c7264b3239ca3e91faa02e20896a657937c748f2d9ef4f10e071d61"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/titanic_guardian_sources.gd": {
+      "bytes": 26744,
+      "sha256": "009fde54828dc10c9aba0c20a41c532cb1886ac0e7139524d73186af5ff8a6cd"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/tomb_turning_sources.gd": {
+      "bytes": 19395,
+      "sha256": "6850b81a22b3febd61e6ea9b91e3caaf70667489adc6109363cfa861d30b5ac7"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/tribe_pool_rules.gd": {
+      "bytes": 11422,
+      "sha256": "10511b9f355ae20d8eb3245b7cfa1f48843403421224759ecd55cef9374eca44"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/triple_stat_rules.gd": {
+      "bytes": 3051,
+      "sha256": "2aef043873330f5fc16c9eeaa3ddf9e0fca012f94adcb78b4694ce84d3b4e0d6"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/turn_repeat_spells.gd": {
+      "bytes": 21858,
+      "sha256": "8e4356d1393bd80316446669f633b1f70f02336469d0a86a8c8103d4c2958a16"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/volcanic_visitor_sources.gd": {
+      "bytes": 18331,
+      "sha256": "4a7f52b815c7b07472a2cd221bba44958adb5264a55dc4bbb7d0a84c6c6b2582"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/volumizer_sources.gd": {
+      "bytes": 95068,
+      "sha256": "c896b3a0bfa37bbe192dbf3282d8849c5b35ee767058baa5cfec5b34f9809b91"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/whelp_owner_layers.gd": {
+      "bytes": 4508,
+      "sha256": "02c7fd838c2e0d5d06b97c59595682490773baa66e783c29d381a2d50fa4c2fd"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/whelp_owner_sources.gd": {
+      "bytes": 22370,
+      "sha256": "6a2097397331927cebc7b6c0a27f4b8b30f17a26bda418dd657e39ddff78b9d1"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/whirl_deathrattle_sources.gd": {
+      "bytes": 38863,
+      "sha256": "3744ddfd3a898615fbcff7f78f10ae9d2e6c375c1951065ddd301bdaa448b8fb"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/witness_protection_sources.gd": {
+      "bytes": 2457,
+      "sha256": "d8cafe0523897ef0855ac758e8d8c1691d9628dab552ba3685006be8699c5d78"
+    },
+    "trial/tests_abyssal_receive/fixture_project/core/zarjira_copy_sources.gd": {
+      "bytes": 32914,
+      "sha256": "8d58f5d668fd38ba1a63146acc8bc6c983dfaed948f40da58ae93425d8c04d9a"
+    },
+    "trial/tests_abyssal_receive/fixture_project/project.godot": {
+      "bytes": 182,
+      "sha256": "4db1c9faf0b812147e15ec59d7f6c12209b43d96b8c0c8a0fd2e76e2a96e60b1"
+    },
+    "trial/tests_abyssal_receive/fixture_project/tests/host_fixture.gd": {
+      "bytes": 21946,
+      "sha256": "62825d71bbff1f1a4f603816dc5da0ffd3de91e4451e9d233d05a15a56027600"
+    },
+    "trial/tests_abyssal_receive/fixture_project/tests/manual_inputs.gd": {
+      "bytes": 15995,
+      "sha256": "21cff867558dfc2e608f1b370dde432c674a1036f4a3ef71e0a78ba7afc8106e"
+    },
+    "trial/tests_abyssal_receive/fixture_result/LAUNCH.json": {
+      "bytes": 1637,
+      "sha256": "2f35e8a6c4161800009e181b22f820519f0842a53ac23a99f21a5110aabe9489"
+    },
+    "trial/tests_abyssal_receive/fixture_result/PROCESS.json": {
+      "bytes": 3189,
+      "sha256": "9425fad6bd42087cd3cc40ebf0f9be9e5cd14f166bc8760699d4ed5398d9b00e"
+    },
+    "trial/tests_abyssal_receive/fixture_result/native.log": {
+      "bytes": 183,
+      "sha256": "9cb01788142c03639724f585b8a869431b3e75642ff492d1ce6c30d8c207a217"
+    },
+    "trial/tests_abyssal_receive/fixture_result/samples.jsonl": {
+      "bytes": 26167,
+      "sha256": "001b47a65d0c300c9986d08b9a568af2b1c98ba7011269a4b0674dd3acd05d50"
+    },
+    "trial/tests_abyssal_receive/run_fixture_once.py": {
+      "bytes": 12544,
+      "sha256": "05c16c0dd44ffbf110f10745873f49b86bfc6b1e225a84bd9d6e7d6e2a1e58ab"
+    }
+  },
+  "members": 290,
+  "trial_delivery_whitelist_files": 274,
+  "production_modified": false,
+  "candidate_installed": false,
+  "planned_assertions_not_executed": 683,
+  "completed_assertions": 0,
+  "source_trial_status": "FAILED_MEMORY_LIMIT",
+  "real_Game_tier4_save_accepted": false,
+  "complete_chain_recovery_claim": false,
+  "remaining_reference_gaps": 345,
+  "old_dependencies_reverified": false
+}
