@@ -1,0 +1,144 @@
+{
+  "archive": "gameplay_feasibility_assessment_20261110T030900Z.tar.xz",
+  "bytes": 70400,
+  "sha256": "e9ab9c2f197020c45a50a96f0ae6ee825272cbc5903b823d4646408a9a6923a5",
+  "members": 32,
+  "files": {
+    "COPIED_INPUTS.json": {
+      "bytes": 6697,
+      "sha256": "e3a4e221afdaf33b49fb663a13c92439e29e51a540c98a538000314584dd80da"
+    },
+    "FINAL_VERIFICATION.json": {
+      "bytes": 3109,
+      "sha256": "11c2255014e18474da5de495bbb1ea93ad6fb1adfef6680fc10a39f42e15040a"
+    },
+    "MANIFEST.json": {
+      "bytes": 5248,
+      "sha256": "68dcee3094b0662afc2eda2788545427fd4d9361aa0e5429f52ad4b638ea7075"
+    },
+    "REPORT.md": {
+      "bytes": 5664,
+      "sha256": "a0d913d1bc0ecfd9313ffa404df97cd2d0820b251adde3f140872bf2359c8585"
+    },
+    "SCOPE_VERIFICATION.json": {
+      "bytes": 1415,
+      "sha256": "9e1d764af549f4da2ba0686947c5166b05de0746594a04c34275baff2bd2f002"
+    },
+    "SOURCE_EXCERPTS.txt": {
+      "bytes": 33246,
+      "sha256": "69e07cf00955b798797cf4d7ffe0aabd5ed2e1d9eb1e989bfe46c1bc30e1ec0b"
+    },
+    "SOURCE_PINS.json": {
+      "bytes": 2044,
+      "sha256": "18d7cb7131a86220d6101bd38e71cae44863f7ab91e13381c807e96343b0fb8b"
+    },
+    "evidence/bounded_gameplay_gap_prize_20261110/preload_closure.json": {
+      "bytes": 41549,
+      "sha256": "8ebf399938d5dc3cea30317aea6b2a1888439e2e60dbc26827760a1653c49141"
+    },
+    "evidence/bounded_gameplay_gap_prize_20261110/report.md": {
+      "bytes": 5215,
+      "sha256": "6b15325fd73265b505ed9df1d29d309db650a7f186f7e15ba47a0b9ddf310e38"
+    },
+    "evidence/bounded_gameplay_gap_prize_20261110/source_evidence.json": {
+      "bytes": 24225,
+      "sha256": "fd18afe1c880bf1ea2d3fc567a4155ebb2070971445c978316691656d344d4da"
+    },
+    "evidence/gameplay_capacity_readonly_20261110/REPORT.md": {
+      "bytes": 6456,
+      "sha256": "bc796aca0398fdbffb5373f5a2e92c2519b12b0d4d962e9b58f4ad4388045f03"
+    },
+    "evidence/prize_preload_capacity_20261110T025850Z/INPUT_MANIFEST.json": {
+      "bytes": 99195,
+      "sha256": "fbbe0dc08d2e7e9cdb339223a0745590af8a635a573bf285be56e767b74b0381"
+    },
+    "evidence/prize_preload_capacity_20261110T025850Z/RESULT.md": {
+      "bytes": 2265,
+      "sha256": "4df75e5deaeaa40bf51b4bd750621ff84e77d19a9f70be6059fcf1aeca72fc1f"
+    },
+    "evidence/prize_preload_capacity_20261110T025850Z/prepare.py": {
+      "bytes": 2387,
+      "sha256": "81f97c4a450d1d0c5d4c8275dd798ca35029bdfd4be020bcfa844bb39edc7fe0"
+    },
+    "evidence/prize_preload_capacity_20261110T025850Z/project/probe.gd": {
+      "bytes": 155,
+      "sha256": "2da5f025c2e2656b19a0c4dd89662307531a38e5d3802e04b5f2a3368d1aabec"
+    },
+    "evidence/prize_preload_capacity_20261110T025850Z/project/project.godot": {
+      "bytes": 126,
+      "sha256": "86aceb87523096136de7a8c32daeaa5910fda07bdab224c3cd7b533b77c6d35e"
+    },
+    "evidence/prize_preload_capacity_20261110T025850Z/result/LAUNCH.json": {
+      "bytes": 1030,
+      "sha256": "14d748fe57af7e50ec8fed4ef2b1eb4ef9d6a5783fe5c052fdfdb5f6000701f6"
+    },
+    "evidence/prize_preload_capacity_20261110T025850Z/result/PROCESS.json": {
+      "bytes": 1339,
+      "sha256": "359a62b0cb851cf909e57a7713fa341e504e70b421eb1822ab6e3cc822ef95c7"
+    },
+    "evidence/prize_preload_capacity_20261110T025850Z/result/native.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "evidence/prize_preload_capacity_20261110T025850Z/result/samples.jsonl": {
+      "bytes": 41089,
+      "sha256": "a52d64e4dce514d489efd6cc76b048f692672cb4e56ebfd8cbe2ec851363577c"
+    },
+    "evidence/prize_preload_capacity_20261110T025850Z/run.py": {
+      "bytes": 4991,
+      "sha256": "859c818c2388ca973bdba37fc62d423c0f400a66eb1cf490bc1fe73d62d4265c"
+    },
+    "evidence/prize_preload_capacity_384_20261110T030233Z/INPUT_MANIFEST.json": {
+      "bytes": 99195,
+      "sha256": "fbbe0dc08d2e7e9cdb339223a0745590af8a635a573bf285be56e767b74b0381"
+    },
+    "evidence/prize_preload_capacity_384_20261110T030233Z/RESULT.md": {
+      "bytes": 1981,
+      "sha256": "4d74bdb216012a5d5c0d040f329aa4e6eb5dd738fea26b9153f0a591a4f98660"
+    },
+    "evidence/prize_preload_capacity_384_20261110T030233Z/TRIAL_PLAN.json": {
+      "bytes": 543,
+      "sha256": "c31fee2e1118927dd1547a60e0685458b2a9255dd3f957b2acba8af7855cbe7d"
+    },
+    "evidence/prize_preload_capacity_384_20261110T030233Z/prepare.py": {
+      "bytes": 2387,
+      "sha256": "81f97c4a450d1d0c5d4c8275dd798ca35029bdfd4be020bcfa844bb39edc7fe0"
+    },
+    "evidence/prize_preload_capacity_384_20261110T030233Z/project/probe.gd": {
+      "bytes": 155,
+      "sha256": "2da5f025c2e2656b19a0c4dd89662307531a38e5d3802e04b5f2a3368d1aabec"
+    },
+    "evidence/prize_preload_capacity_384_20261110T030233Z/project/project.godot": {
+      "bytes": 126,
+      "sha256": "86aceb87523096136de7a8c32daeaa5910fda07bdab224c3cd7b533b77c6d35e"
+    },
+    "evidence/prize_preload_capacity_384_20261110T030233Z/result/LAUNCH.json": {
+      "bytes": 1039,
+      "sha256": "34175a093880f4669caee3ae304beaf7a587baadc27b5937f7ffe8f438359ece"
+    },
+    "evidence/prize_preload_capacity_384_20261110T030233Z/result/PROCESS.json": {
+      "bytes": 1398,
+      "sha256": "2e8de1e613b83ae2a214eca2887a723603c3fe67ae1d6db18ce222b6c76eb3fd"
+    },
+    "evidence/prize_preload_capacity_384_20261110T030233Z/result/native.log": {
+      "bytes": 73,
+      "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+    },
+    "evidence/prize_preload_capacity_384_20261110T030233Z/result/samples.jsonl": {
+      "bytes": 99381,
+      "sha256": "d31e94b38e83c867e65c51b3cd9cc20da924b787279ba58971588cb8e04a2318"
+    },
+    "evidence/prize_preload_capacity_384_20261110T030233Z/run.py": {
+      "bytes": 5217,
+      "sha256": "4d437296968f3e4849c2dddf55ede75c16878c74e27de4180ea5864410cd2c68"
+    }
+  },
+  "source_changes": 0,
+  "new_gameplay_candidate_created": false,
+  "new_gameplay_tests_run": false,
+  "rejection_without_hand_side_effects_verified": false,
+  "prize_deckhand_interaction_accepted": false,
+  "remaining_reference_gaps": 345,
+  "game_or_save_accepted": false,
+  "old_dependencies_reverified": false
+}
