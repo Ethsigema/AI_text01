@@ -1,0 +1,74 @@
+{
+  "status": "PASS_THIS_EXACT_TITANIC_CORRECTION_REVIEW_ONLY",
+  "archive": "titanic_guardian_correction_review_20261109T234448Z.tar.xz",
+  "bytes": 429536,
+  "sha256": "005f831d5c3a1f6833a935014e182bfe14adbec017da0a26a472f21190ff0c19",
+  "members_verified": 83,
+  "candidate_installation_deferred": true,
+  "remaining_reference_gaps": 345,
+  "source_tree_modified": false,
+  "archived_code_executed_in_backup": false,
+  "game_or_save_accepted": false,
+  "dependencies_reverified": false,
+  "cancelled_dependency_download_retried": false,
+  "excluded_path_findings": [],
+  "common_credential_signature_findings": [],
+  "publication": {
+    "commit": "32e0354980c83cda33d59d6c6cd76d6aa7942e63",
+    "folder": "battlegrounds-backup/pending/20261109-titanic-guardian-correction-review",
+    "branch": "battlegrounds-recovery-20261103",
+    "remote_head_verified": true,
+    "tree_check": {
+      "old_blobs_preserved": 3776,
+      "added_files": 7,
+      "old_changes": 0,
+      "force_push": false
+    },
+    "folder_url": "https://github.com/Ethsigema/AI_text01/tree/32e0354980c83cda33d59d6c6cd76d6aa7942e63/battlegrounds-backup/pending/20261109-titanic-guardian-correction-review"
+  },
+  "readback_files": [
+    {
+      "name": "MANIFEST.json",
+      "sha": "fa42d7fa84e6dae12ba98d5ee17948167d3e35e2",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/32e0354980c83cda33d59d6c6cd76d6aa7942e63/battlegrounds-backup/pending/20261109-titanic-guardian-correction-review/MANIFEST.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "PRIVACY_AND_SCOPE.json",
+      "sha": "1e6cfd8085f42962d5f02bb0b669444ffbe6b07a",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/32e0354980c83cda33d59d6c6cd76d6aa7942e63/battlegrounds-backup/pending/20261109-titanic-guardian-correction-review/PRIVACY_AND_SCOPE.json",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "README.md",
+      "sha": "956bbb9a72eb1bb235ebfdd7a86da53724983d6c",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/32e0354980c83cda33d59d6c6cd76d6aa7942e63/battlegrounds-backup/pending/20261109-titanic-guardian-correction-review/README.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "RECOVERY.md",
+      "sha": "f8fc77fa4f1dca6d8430cfb5f84032d5c142d47c",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/32e0354980c83cda33d59d6c6cd76d6aa7942e63/battlegrounds-backup/pending/20261109-titanic-guardian-correction-review/RECOVERY.md",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha": "f77ad1ffdc84fb37dddee4381757aa496316c120",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/32e0354980c83cda33d59d6c6cd76d6aa7942e63/battlegrounds-backup/pending/20261109-titanic-guardian-correction-review/SHA256SUMS.txt",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "titanic_guardian_correction_review_20261109T234448Z.tar.xz",
+      "sha": "98bd5a7f4919d0755093593815432c39338e293b",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/32e0354980c83cda33d59d6c6cd76d6aa7942e63/battlegrounds-backup/pending/20261109-titanic-guardian-correction-review/titanic_guardian_correction_review_20261109T234448Z.tar.xz",
+      "fresh_remote_readback": true
+    },
+    {
+      "name": "verify_backup.py",
+      "sha": "d293ec457a0b62ad4ef9647271a3929bfb95a3c4",
+      "url": "https://github.com/Ethsigema/AI_text01/blob/32e0354980c83cda33d59d6c6cd76d6aa7942e63/battlegrounds-backup/pending/20261109-titanic-guardian-correction-review/verify_backup.py",
+      "fresh_remote_readback": true
+    }
+  ],
+  "verification_scope": "Only this new exact review archive and its members. Its embedded history archive was hash-checked as one member, not separately downloaded. No old dependency or previously cancelled operation downloaded, retried or reverified."
+}
