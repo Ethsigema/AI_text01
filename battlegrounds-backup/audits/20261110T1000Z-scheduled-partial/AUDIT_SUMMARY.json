@@ -1,0 +1,31 @@
+{
+  "status": "PARTIAL_SCHEDULED_AUDIT_COMPLETE_FULL_CHAIN_BLOCKED",
+  "scheduled_at_utc": "2026-11-10T10:00:00Z",
+  "checked_at_utc": "2026-11-10T10:08:23.069159+00:00",
+  "remote_head_before_audit": "b540cfad87fe6cc76c9562c7388c36b5345639cb",
+  "latest_evidence_package_commit": "9c3e01bc0f30ad4627d0fa0068edacaadaf83bde",
+  "new_game_backup_created": false,
+  "source_files_added_modified_or_deleted_by_audit": 0,
+  "new_candidate_installed": false,
+  "full_chain_download_attempted": false,
+  "full_chain_rebuild_attempted": false,
+  "cancelled_dependency_operation_retried": false,
+  "blocker": "Prior batch14 dependency network approval cancelled and not reauthorized. No retry or alternate download of that operation.",
+  "fresh_remote_readback_scope": "Only latest already-published optional-field evidence package: 28 files, 22 archive parts, 908 archive files, 893 fixture whitelist entries.",
+  "local_tree_rehash_scope": "Two existing manifest-listed trees: 27920 and 27921 files. This is not a fresh restore.",
+  "old_archives_rehashed": 28,
+  "old_archives_all_matched": true,
+  "remaining_tools_references": 345,
+  "game_engine_rerun": false,
+  "full_game_accepted": false,
+  "save_compatibility_accepted": false,
+  "complete_recovery_claim": false,
+  "completion_percentages": {
+    "minions": null,
+    "tavern_spells": null,
+    "trinkets": null
+  },
+  "percentage_reason": "No reliable accepted scope numerator and denominator for all three requested categories. Local fixture assertions and matching archive files are not gameplay completion counts.",
+  "current_period_progress": "Bounded Darkcrest/source/inventory/guard/optional-field fixture evidence published. Latest fixture records 2810 assertions including 1580 inherited; prior failed 2802-target fixture unchanged. Abyssal receive attempt stopped during loading before stat commit. Candidates uninstalled; real Game/Waiting delivery, tier4 and full match remain unaccepted.",
+  "fallback_note": "No new game backup was generated this audit. The fresh reconstruction of the existing 5,393,436-byte evidence archive is available locally, but is not a new game backup or a complete restore package."
+}

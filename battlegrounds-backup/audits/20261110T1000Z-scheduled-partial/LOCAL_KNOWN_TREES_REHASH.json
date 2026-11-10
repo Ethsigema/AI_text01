@@ -1,0 +1,34 @@
+[
+  {
+    "label": "batch14_runtime",
+    "root": "historical_tools_batch14_20261109T191857Z/runtime",
+    "source_map": "backup_batch14_20261109/fresh_remote_verification/REBUILT_SOURCE_MAP.json",
+    "expected_files": 27920,
+    "verified_files": 27920,
+    "bytes": 1549340406,
+    "source_stream_sha256": "5ba04ef124fc78cf20e2a942a60589fb92dc76e6808155648226a534a4599e05",
+    "issues": [],
+    "unlisted_files": [],
+    "cache_count": 0,
+    "seconds": 4.15,
+    "network_used": false,
+    "new_full_restore": false,
+    "game_test_run": false
+  },
+  {
+    "label": "xml_isolated_candidate",
+    "root": "backup_batch16_20261109/fresh_remote_verification/isolated_restored_candidate",
+    "source_map": "backup_batch16_20261109/fresh_remote_verification/RESTORED_SOURCE_MAP.json",
+    "expected_files": 27921,
+    "verified_files": 27921,
+    "bytes": 1565165008,
+    "source_stream_sha256": "87eadafc23d2c44b4eccbf4219fe5ef09aad852ce46d64e4675292c853f7691c",
+    "issues": [],
+    "unlisted_files": [],
+    "cache_count": 0,
+    "seconds": 15.48,
+    "network_used": false,
+    "new_full_restore": false,
+    "game_test_run": false
+  }
+]
