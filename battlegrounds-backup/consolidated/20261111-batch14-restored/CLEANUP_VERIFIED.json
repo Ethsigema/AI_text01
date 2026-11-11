@@ -1,0 +1,69 @@
+{
+  "status": "COMPLETE_AFTER_REMOTE_RECOVERY_VERIFICATION",
+  "at_utc": "2026-11-11T11:15:08.091996+00:00",
+  "content_commit": "5143e8fb41bc8332ce4ba196144172167a74318c",
+  "verification_receipt_commit": "df2a85e16eb5e8d516f957866e44abe33beaec78",
+  "removed_derived_intermediates": [
+    {
+      "directory": "restored_bloodbound_runtime",
+      "files": 27463,
+      "bytes": 1546100739,
+      "recovery": "Derived intermediate downloaded/reconstructed this invocation; remote-verified consolidated snapshot and original release retained."
+    },
+    {
+      "directory": "runtime_final_current",
+      "files": 27920,
+      "bytes": 1549340406,
+      "recovery": "Derived intermediate downloaded/reconstructed this invocation; remote-verified consolidated snapshot and original release retained."
+    },
+    {
+      "directory": "local_restore_verified",
+      "files": 27920,
+      "bytes": 1549340406,
+      "recovery": "Derived intermediate downloaded/reconstructed this invocation; remote-verified consolidated snapshot and original release retained."
+    },
+    {
+      "directory": "repository",
+      "files": 869,
+      "bytes": 492075235,
+      "recovery": "Derived intermediate downloaded/reconstructed this invocation; remote-verified consolidated snapshot and original release retained."
+    },
+    {
+      "directory": "assembled",
+      "files": 70,
+      "bytes": 474789851,
+      "recovery": "Derived intermediate downloaded/reconstructed this invocation; remote-verified consolidated snapshot and original release retained."
+    },
+    {
+      "directory": "nested_archives",
+      "files": 22,
+      "bytes": 70602147,
+      "recovery": "Derived intermediate downloaded/reconstructed this invocation; remote-verified consolidated snapshot and original release retained."
+    },
+    {
+      "directory": "increments",
+      "files": 1560,
+      "bytes": 246327974,
+      "recovery": "Derived intermediate downloaded/reconstructed this invocation; remote-verified consolidated snapshot and original release retained."
+    },
+    {
+      "directory": "bloodbound",
+      "files": 12,
+      "bytes": 1847518,
+      "recovery": "Derived intermediate downloaded/reconstructed this invocation; remote-verified consolidated snapshot and original release retained."
+    },
+    {
+      "directory": "bloodbound_metadata",
+      "files": 54,
+      "bytes": 23634690,
+      "recovery": "Derived intermediate downloaded/reconstructed this invocation; remote-verified consolidated snapshot and original release retained."
+    }
+  ],
+  "removed_bytes": 5954058966,
+  "active_tree": "game_working",
+  "active_tree_files_rehashed_before_cleanup": 27920,
+  "original_release_retained": true,
+  "all_old_remote_backups_preserved": true,
+  "preexisting_local_audits_and_packages_untouched": true,
+  "no_unverified_or_unique_source_deleted": true
+}
