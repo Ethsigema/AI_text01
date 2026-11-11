@@ -1,0 +1,40 @@
+{
+  "scheduled_at_utc": "2026-11-11T15:00:00Z",
+  "checked_at_utc": "2026-11-11T15:08:05.436171+00:00",
+  "status": "PASS_FRESH_REMOTE_RESTORE_OF_KNOWN_BASE_AND_ISOLATED_CANDIDATE; ORIGINAL_WORKTREE_UNAVAILABLE",
+  "branch": "battlegrounds-recovery-20261103",
+  "checked_content_commit": "3fa0560521cf4d77dcc6a45d2403ac48a409d6d1",
+  "original_worktree_available": false,
+  "unuploaded_original_changes_cannot_be_ruled_out": true,
+  "prior_active_tree_visible": false,
+  "prior_candidate_tree_visible": false,
+  "new_game_source_increment_generated": false,
+  "new_game_source_increment_uploaded": false,
+  "fresh_download_count": 40,
+  "base_files_verified": 27920,
+  "candidate_files_verified": 27927,
+  "candidate_delta_files": 87,
+  "evidence_members_verified": 24,
+  "new_gameplay_tests": 0,
+  "new_engine_runs": 0,
+  "default_pool_promoted": false,
+  "new_complete_identity_credit": {
+    "minions": 0,
+    "tavern_spells": 0,
+    "trinkets": 0
+  },
+  "completion_percentages": {
+    "minions": null,
+    "tavern_spells": null,
+    "trinkets": null
+  },
+  "completion_reason": "No trusted full-current-scope acceptance numerators and target denominators. File counts and assertions are not completed identities.",
+  "known_declared_tool_reference_gaps": 345,
+  "reference_gaps_recounted_this_cycle": false,
+  "known_missing_contracts": 2,
+  "known_unrecovered_old_evidence": 4,
+  "full_game_or_old_save_verified": false,
+  "old_backups_deleted_or_overwritten": false,
+  "new_artifact_kind": "audit_receipts_only_not_game_increment",
+  "scope": "Known recoverable base and independent candidate only; unavailable original worktree and unuploaded changes are not covered."
+}
