@@ -1,0 +1,118 @@
+{
+  "actual_disk_tree_restored_and_every_file_rehashed": true,
+  "aggregate_sha256": "5ba04ef124fc78cf20e2a942a60589fb92dc76e6808155648226a534a4599e05",
+  "bytes": 1549340406,
+  "candidate_installation_or_gameplay_acceptance_not_implied": true,
+  "extensions": [
+    {
+      "archive_sha256": "a0e9d546f812b08d015a0279e83223a6cee6953313129c02ad4004dfb1342092",
+      "delta": {
+        "tools/aggramar_patterns.py": {
+          "bytes": 25578,
+          "sha256": "a2275e84f82de72643d7c10c84bc18a8714b6be2ae9acd0671d14b1b6625c855"
+        },
+        "tools/mystery_cube_patterns.py": {
+          "bytes": 58614,
+          "sha256": "8d124fa3697067784ef4fe4383dd36393d22c543bcbe211a1e33b7782cfe2310"
+        }
+      },
+      "folder": "20261109-historical-tools-batch8-patch-candidate",
+      "manifest_sha256": "df196d3ea32f1a11a6abb0b5f0d312cc0ad9c2036ba0973d2a37b46d90da4933",
+      "members": 234,
+      "parts": 6,
+      "source_map_sha256": "5e7e06673ff9a6b9eaf0668af1327b5ea3b86cf7f1ea866a105edbf2afd32e10",
+      "target_files": 27914
+    },
+    {
+      "archive_sha256": "1153a89cfbc84c89310d83627d2f2c764ad45665dbe11ed12dcd3218c6ac6b0d",
+      "delta": {
+        "tools/trip_vouchers_patterns.py": {
+          "bytes": 58891,
+          "sha256": "9923f0a449576165a59fd568dc31328ef186a23744a0fc5e689dd4c9e09b2adf"
+        }
+      },
+      "folder": "20261109-historical-tools-batch9-trip-candidate",
+      "manifest_sha256": "374c0f1a24efabdb1f62dac9d1dc3391eb292b08e803f2d983eab70b1da1f663",
+      "members": 178,
+      "parts": 5,
+      "source_map_sha256": "d4d9c436df5aa851412f8a2457a7e11128bc66d6f4313a46b42679d14f51e29b",
+      "target_files": 27915
+    },
+    {
+      "archive_sha256": "dd3fcc8a075443f871db47a264c5eda5d1188de121d571009bad39f20a62a631",
+      "delta": {
+        "tools/final_source_overrides.py": {
+          "bytes": 3984,
+          "sha256": "f05bd591950b6267db19458936fa29fe3cbbd70a8dff745160aa8cf971a2a810"
+        }
+      },
+      "folder": "20261109-historical-tools-batch10-overlay-candidate",
+      "manifest_sha256": "f90b3fbb3020fc3a63c81c227d26872a21a6b419338dcc51dfa45451156fdb9d",
+      "members": 166,
+      "parts": 5,
+      "source_map_sha256": "dc3968e2c02fc646100ad1a1745fe885414ad679250363c732f4ae4fae2920cb",
+      "target_files": 27916
+    },
+    {
+      "archive_sha256": "a7ce5385a8eef690c4ca0babfbf2fce1d5afc60882a87dac0803671f0599e3b4",
+      "delta": {
+        "tools/native_enforcer_shield_patterns.py": {
+          "bytes": 2480,
+          "sha256": "9342eea049c95c327803ca8b6374ddcb47f4929b2047df391da3148516d6cc68"
+        }
+      },
+      "folder": "20261109-historical-tools-batch12-new-enforcer-correction",
+      "manifest_sha256": "5c4f1094a28e392304393fc7eae1b74d9e9a504b3bdd9b427d04055ff70996d7",
+      "members": 274,
+      "parts": 6,
+      "source_map_sha256": "d4b0801f7c69dcb8899149680f8a51979db644fa118b7bafd93b922d248ef3c1",
+      "target_files": 27917
+    },
+    {
+      "archive_sha256": "69688097600dcdf79f754d065848ddff6f194366c611c78241fb4cff26d2769b",
+      "delta": {
+        "tools/native_bolvar_shield_patterns.py": {
+          "bytes": 17277,
+          "sha256": "f4a4a9972d00a7bdbf64f0cf10c97d82bce0879bd86515db5b37adbee3154de3"
+        }
+      },
+      "folder": "20261109-historical-tools-batch13-bounded-bolvar-correction",
+      "manifest_sha256": "be62ced6784ab18d54c0849c5662f7ed6914b03629af4606e3de09b65641e561",
+      "members": 158,
+      "parts": 21,
+      "source_map_sha256": "de45de078a3b334eff7b901085deb8140561f21af3013b8af31b266628cacc6f",
+      "target_files": 27918
+    },
+    {
+      "archive_sha256": "7b5f337521162460d87b984be77f66b99c43666407198938e52925e8b295d154",
+      "delta": {
+        "tools/hand_murloc_gain_patterns.py": {
+          "bytes": 19690,
+          "sha256": "235b6876dccb9ebf7e7266c195742ad8597d968b8cb2a424352039bc36ad67c4"
+        },
+        "tools/piranha_vacancy_patterns.py": {
+          "bytes": 21608,
+          "sha256": "03b2112c131ba35923d95bb9f482226928ab154e268f25d1f54cc88c77acecda"
+        }
+      },
+      "folder": "20261109-historical-tools-batch14-murloc-piranha-corrections",
+      "manifest_sha256": "1a8c1eca5dcea9fd1426442b5b759c5736ae105c49e95e4a71fae100a6830bcc",
+      "members": 395,
+      "parts": 11,
+      "source_map_sha256": "7fec8d69e82de8bfcb7373549951f9456671b5c3980135d6ec6f983a3daf5ed7",
+      "target_files": 27920
+    }
+  ],
+  "files": 27920,
+  "fresh_baseline_release_and_git_objects_downloaded": true,
+  "full_game_tested": false,
+  "missing_declared_tool_references": 345,
+  "older_backup_files_untouched": true,
+  "original_worktree_found": false,
+  "remote_head": "cb71def752b8c53db53181d2d174c1111d44cca0",
+  "source_layers": 160,
+  "source_map_sha256": "7fec8d69e82de8bfcb7373549951f9456671b5c3980135d6ec6f983a3daf5ed7",
+  "status": "PASS_FRESH_REMOTE_RESTORATION_THROUGH_BATCH14",
+  "unuploaded_original_changes_cannot_be_ruled_out": true,
+  "verified_at_utc": "2026-11-11T10:20:29.357853+00:00"
+}

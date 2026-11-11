@@ -1,0 +1,97 @@
+{
+  "archive": "payload.tar.xz",
+  "archive_bytes": 3209176,
+  "archive_sha256": "eb3a81406cf04ce629d001a72e8f0f099c8a1db07f28713e2818898f2faf7e12",
+  "base_members_sha256": "05f52b2908f205893898e7c8bd3f6b5547432051f4e8af5593bc0bcbf6d35dce",
+  "baseline_bytes": 324041102,
+  "baseline_files": 21099,
+  "baseline_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "baseline_url": "https://github.com/Ethsigema/AI_text01/releases/download/battlegrounds-handoff-20261101/battlegrounds_new_scope_handoff_20261101.zip",
+  "change_counts_from_original_game": {
+    "added": 6755,
+    "modified": 134,
+    "removed": 2
+  },
+  "created_utc": "2026-11-11T10:21:39.765278+00:00",
+  "declared_reference_gaps": 345,
+  "format_version": 1,
+  "full_game_verified": false,
+  "map_encoding": "gzip; SHA256 values apply to decompressed original JSON bytes",
+  "old_save_verified": false,
+  "original_worktree_available": false,
+  "parts": [
+    {
+      "bytes": 250000,
+      "name": "payload.tar.xz.part0000",
+      "sha256": "3984574954eed80cc31148ea34034f5215e7971b0df2d3b608393f34f5e8c9b7"
+    },
+    {
+      "bytes": 250000,
+      "name": "payload.tar.xz.part0001",
+      "sha256": "5b2c47c7b6b308cb33c25c78b40f295c3940f966da5dd01c7c5a5db9cedb1d43"
+    },
+    {
+      "bytes": 250000,
+      "name": "payload.tar.xz.part0002",
+      "sha256": "785b59d8e0dc13e63a9bb96367989625ce537ace465183c7239c567b31ac1789"
+    },
+    {
+      "bytes": 250000,
+      "name": "payload.tar.xz.part0003",
+      "sha256": "5455410985ab4a8ad1d97c792d70eb3bc59d1fd40b183558c6044c23e1fae2d4"
+    },
+    {
+      "bytes": 250000,
+      "name": "payload.tar.xz.part0004",
+      "sha256": "09816d6136f657c577764564850d76c1fbeb54dbdf354d24acbb9c164de860b2"
+    },
+    {
+      "bytes": 250000,
+      "name": "payload.tar.xz.part0005",
+      "sha256": "194dba39b5eb981950e267a76c8d9f19d266ec18c8f4deeece64eef820c7be54"
+    },
+    {
+      "bytes": 250000,
+      "name": "payload.tar.xz.part0006",
+      "sha256": "aa8b2f4e400619804a1ffeed89fea29b754f710474c5387f4293a347a4e1fd0f"
+    },
+    {
+      "bytes": 250000,
+      "name": "payload.tar.xz.part0007",
+      "sha256": "d04032b63f8928d50eca4f4f0da09191723975116104c25615b3d6cc89b0d103"
+    },
+    {
+      "bytes": 250000,
+      "name": "payload.tar.xz.part0008",
+      "sha256": "e5f697dfbf2030897d16c2bade45a7b8aa52b5f95241b5bbcd261d355b81fd88"
+    },
+    {
+      "bytes": 250000,
+      "name": "payload.tar.xz.part0009",
+      "sha256": "f9d5c51226102218e131c7f339b7bb1dfff00affaebf8149b5abdd282fc6ad78"
+    },
+    {
+      "bytes": 250000,
+      "name": "payload.tar.xz.part0010",
+      "sha256": "530ceff7a1d997a356a4b7ad65442793d74bbe0e24dc9a2876970f2748a0f673"
+    },
+    {
+      "bytes": 250000,
+      "name": "payload.tar.xz.part0011",
+      "sha256": "1ad1c9707a21de21adb0eec4e1fa4d868bf75813a86ccb1852224f8d525c4691"
+    },
+    {
+      "bytes": 209176,
+      "name": "payload.tar.xz.part0012",
+      "sha256": "9fc01624da666b4cec6235c8233fe0045168ab0f0085992e8cdfa9d9ad7ebf5d"
+    }
+  ],
+  "payload_bytes": 56840640,
+  "payload_files": 6821,
+  "prior_chain_layers": 160,
+  "private_key_and_common_token_pattern_scan_matches": [],
+  "scope": "Consolidated recoverable batch14 runtime candidate, not a release or proof of complete gameplay. Does not include unavailable unuploaded original work. November 10 review candidates remain separate.",
+  "source_bytes": 1549340406,
+  "source_files": 27920,
+  "source_map_sha256": "7fec8d69e82de8bfcb7373549951f9456671b5c3980135d6ec6f983a3daf5ed7"
+}
