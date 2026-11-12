@@ -1,0 +1,254 @@
+{
+  "status": "PASS_FINAL_PUBLICATION_FRESH_BYTES_AND_ALL_GAMEPLAY_EVIDENCE_MEMBERS",
+  "commit": "527decb1dead1b309faaa0086563ab88780968b8",
+  "source_commit": "5d988875054ad4eea47d6615f8a9fdd65bfe7b4d",
+  "verified_at_utc": "2026-11-12T12:02:31.462345+00:00",
+  "files": 30,
+  "bytes": 3942687,
+  "sha256sums_entries": 29,
+  "sha256sums_sha256": "c43343ca0ffbebb461a276798792119b6ca4f7a3562a2141046a25e5a8386ee7",
+  "records": [
+    {
+      "bytes": 668,
+      "git_sha": "4679b9a26d5b03e2e4fa277deb8bc78c166cd5dc",
+      "name": "BASE_RESTORE_CURRENT.json",
+      "sha256": "4a89ef66bdfcdd11055eee0d9cdd4e203e76c8e30f2100da83a94f95fd01529b",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/BASE_RESTORE_CURRENT.json"
+    },
+    {
+      "bytes": 406,
+      "git_sha": "79f77e35380c2c85ab2617562468817953f483b0",
+      "name": "BUILD_VERIFIED.json",
+      "sha256": "7ec1cf24e21a423e2ba5d91df2f906bc5f575971d8d2f22efe29939aa22fdaf4",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/BUILD_VERIFIED.json"
+    },
+    {
+      "bytes": 803,
+      "git_sha": "1d42d08adc6673e17595369857dd242353efd03a",
+      "name": "CANDIDATE_REMOTE_RESTORE_DOUBLE_REHASH.json",
+      "sha256": "1fcd06f8d2b1cafc1427bfafe267c590c90b1efe8df61bb977568b9e5d0b94ae",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/CANDIDATE_REMOTE_RESTORE_DOUBLE_REHASH.json"
+    },
+    {
+      "bytes": 27330,
+      "git_sha": "a8435905ab6e0691135c5b1e7ef13a6cbf4d9c1e",
+      "name": "CHANGES_FROM_TIER6.json",
+      "sha256": "2cc121b7cfce7e0a9af4f2cedd19238750664357f0f67205a3e491244bc1464b",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/CHANGES_FROM_TIER6.json"
+    },
+    {
+      "bytes": 240,
+      "git_sha": "5f5892397089db8eb565fb5b43b6217f4d5f5b34",
+      "name": "CURRENT_EVIDENCE_VERIFIED.json",
+      "sha256": "da14e65b108ce7e569f2192722ef6e250f29d3568f98f71baaf5180ddc2f57b4",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/CURRENT_EVIDENCE_VERIFIED.json"
+    },
+    {
+      "bytes": 1025,
+      "git_sha": "f404327dd999816ab2bf0bd7772c68ed10a9b2b1",
+      "name": "CURRENT_RECOVERY_VERIFIED.json",
+      "sha256": "470642f8766ccd5bebbe67fce2b66c99c28130f70d5c47faa38dd8f8d09cb200",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/CURRENT_RECOVERY_VERIFIED.json"
+    },
+    {
+      "bytes": 966896,
+      "git_sha": "83d29b90ffacc4e081e534d0cd3114de66e2994f",
+      "name": "FIX_EVIDENCE.tar.xz",
+      "sha256": "8643cee6ba57f0d26a4210b39c2ee2a75cd4f241d654ded04df84e525681b51d",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/FIX_EVIDENCE.tar.xz"
+    },
+    {
+      "bytes": 3311,
+      "git_sha": "07eec974641a2652daf1a05996cc15be35c8a854",
+      "name": "FIX_EVIDENCE_MANIFEST.json",
+      "sha256": "b7db5fbda0705edf23cfcdd56e9c2bdf99fb2e14f754153fa6ac3b0f040d24fc",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/FIX_EVIDENCE_MANIFEST.json"
+    },
+    {
+      "bytes": 28287,
+      "git_sha": "16bf6ca9bf4d35f26d5880c13275b5299c8df98f",
+      "name": "FRESH_DOWNLOAD_VERIFIED.json",
+      "sha256": "6a3a1be90952150e3b7f05198208dcf7ae3865ac0d5c3dae34d02c17ffb0e54c",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/FRESH_DOWNLOAD_VERIFIED.json"
+    },
+    {
+      "bytes": 994872,
+      "git_sha": "3dd539c55dcee9c67dcaf244fc0b9e459a24f525",
+      "name": "GAMEPLAY_EVIDENCE.tar.xz",
+      "sha256": "3b2776c657a779ba5dd93a3ea443924ae9d1f3cc1ab356fd19df11d046313c4b",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/GAMEPLAY_EVIDENCE.tar.xz"
+    },
+    {
+      "bytes": 8470,
+      "git_sha": "36cff2c2f811804970a8e9460c557ff83f1a3482",
+      "name": "GAMEPLAY_EVIDENCE_MANIFEST.json",
+      "sha256": "c7efd978863994b5408d3cb0f94ae76d574b22202895a96b65bc7a90fa11ae74",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/GAMEPLAY_EVIDENCE_MANIFEST.json"
+    },
+    {
+      "bytes": 785,
+      "git_sha": "24a679af702808163ae4eea32fe103461330bf65",
+      "name": "GAMEPLAY_FINAL_AUDIT.json",
+      "sha256": "7bfe3e7e93b31746cf256f3fff42fadb92ed6e02654716267299977e146234e4",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/GAMEPLAY_FINAL_AUDIT.json"
+    },
+    {
+      "bytes": 23242,
+      "git_sha": "d535bb02a9a2fdc19bd5c9b514c4221b21b48afc",
+      "name": "GAMEPLAY_INDEPENDENT_VERIFICATION.json",
+      "sha256": "a89342529aa8202dd08ff21b386484c666b43e0590b3bfeb75afc5b0298e18fb",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/GAMEPLAY_INDEPENDENT_VERIFICATION.json"
+    },
+    {
+      "bytes": 4144,
+      "git_sha": "7d1ddbe001238dfb2067255776a55ab60cb82493",
+      "name": "GAMEPLAY_MATRIX_RESULT.json",
+      "sha256": "320375a2c86abd875de164f21d9508036abd2949bc312f39e1a9864ef40f4dd8",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/GAMEPLAY_MATRIX_RESULT.json"
+    },
+    {
+      "bytes": 2285,
+      "git_sha": "6d2de8951f978db71c979c4565da2f37d6bcafc9",
+      "name": "GAMEPLAY_VERIFIED_SLICE.md",
+      "sha256": "417eee83c0b43516911b456968399566b51376600e0fa8dfbd289f8d15b73f48",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/GAMEPLAY_VERIFIED_SLICE.md"
+    },
+    {
+      "bytes": 23543,
+      "git_sha": "278413be313bc476f2aff80c17d26fa0f8d5da91",
+      "name": "MANIFEST.json",
+      "sha256": "e8ac2e41a0dcb5ce920cab6e23df401e7b9971a925bebd7e2a4f4e6c5f37ca60",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/MANIFEST.json"
+    },
+    {
+      "bytes": 2512,
+      "git_sha": "2afe9934b2f595d89397ea9b67b2953c9ad5a752",
+      "name": "RECONSTRUCTION_NOTE.md",
+      "sha256": "2930dba1293753edeb3a39e8b58d12f5854c75eef5a0e8ad118c412f36a93c88",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/RECONSTRUCTION_NOTE.md"
+    },
+    {
+      "bytes": 3350,
+      "git_sha": "8fa23c8644848bf0a378e7b655b533a211f569b8",
+      "name": "RECOVERY.md",
+      "sha256": "eaab8a2dd74c0b4d06c05bf3eeffbd3ec863cd034c38a6f7a0b695f3b9535392",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/RECOVERY.md"
+    },
+    {
+      "bytes": 481,
+      "git_sha": "98e2ef946465daf1f3134b6043406bbd1721d14a",
+      "name": "REMOTE_FIX_EVIDENCE_VERIFIED.json",
+      "sha256": "3478cd8b7d169e19ba7dd227879395be7d02204dc9db87786deefd663cc2a472",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/REMOTE_FIX_EVIDENCE_VERIFIED.json"
+    },
+    {
+      "bytes": 7355,
+      "git_sha": "a40664c92227d500fe7214874af0651620cebf18",
+      "name": "REMOTE_SNAPSHOT_DOWNLOAD_VERIFIED.json",
+      "sha256": "7b7f6bf024fbdb058a82aa67453cc889ce72764c9e8a55f7ef81e490d7300f70",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/REMOTE_SNAPSHOT_DOWNLOAD_VERIFIED.json"
+    },
+    {
+      "bytes": 763,
+      "git_sha": "93610f8f07b27ced80e810d2356c7c618a0fff72",
+      "name": "REMOTE_SNAPSHOT_RESTORE_VERIFIED.json",
+      "sha256": "ef1643c341d9addb750cce8d3ec961513f7e893f6dd6f1550989b23d85216b20",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/REMOTE_SNAPSHOT_RESTORE_VERIFIED.json"
+    },
+    {
+      "bytes": 1080,
+      "git_sha": "5ae22df4a3df56de3478949b82720a96afa6a076",
+      "name": "RESTORE_VERIFIED.md",
+      "sha256": "8eb2c05c5b227cdc88048a0f000a66d16960cb23becd75224774c962a3a54b34",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/RESTORE_VERIFIED.md"
+    },
+    {
+      "bytes": 2679,
+      "git_sha": "48c980afe1651e9179194e661a02b677addc32c3",
+      "name": "SHA256SUMS.txt",
+      "sha256": "c43343ca0ffbebb461a276798792119b6ca4f7a3562a2141046a25e5a8386ee7",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/SHA256SUMS.txt"
+    },
+    {
+      "bytes": 1281866,
+      "git_sha": "d5efcacf8644a0671d3d2b73b9a6a37d896f2df9",
+      "name": "SOURCE_MAP.json.gz",
+      "sha256": "6174415dba0a5819d175c4bdb9e0663faa7cc9fe9957bc724ee040c960fa17fa",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/SOURCE_MAP.json.gz"
+    },
+    {
+      "bytes": 786,
+      "git_sha": "075120e4f3981368aff0a002add1d47a448542cc",
+      "name": "STATIC_SHA_VERIFIED.json",
+      "sha256": "26280bcb89e66b213d40cf201f1d03b8c859448936e26828eeb8f1ff0cd38e63",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/STATIC_SHA_VERIFIED.json"
+    },
+    {
+      "bytes": 546,
+      "git_sha": "85dbb7a510209e4437c573da0ebe60feef090d59",
+      "name": "TIER6_RESTORE_CURRENT.json",
+      "sha256": "73c38db8c565a624260804631137008d76be7f17df192cef1800ba6c4a1b0f97",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/TIER6_RESTORE_CURRENT.json"
+    },
+    {
+      "bytes": 22068,
+      "git_sha": "7fb066932940c7612cfec857cabe2b1c24fd2b6d",
+      "name": "TOOLS_EVIDENCE.tar.xz",
+      "sha256": "952a96edc17b1d672dd3f423c4da9a56eacd9f2174b21f36a0b18994f58c8959",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/TOOLS_EVIDENCE.tar.xz"
+    },
+    {
+      "bytes": 3254,
+      "git_sha": "3b513dd376aa21e1d9e923e0f2911f331981b31f",
+      "name": "TOOLS_EVIDENCE_MANIFEST.json",
+      "sha256": "9295a230d92283d13f2baa38554928fda022e207ae7859068f59ededcd98be03",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/TOOLS_EVIDENCE_MANIFEST.json"
+    },
+    {
+      "bytes": 526124,
+      "git_sha": "43988dd714505ebf52d18f297b1a50e1c1300791",
+      "name": "delta.tar.xz",
+      "sha256": "d424fb8c34271158d2070d23b196b18a20adc5df0effafa83e36e6540cd5584c",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/delta.tar.xz"
+    },
+    {
+      "bytes": 3516,
+      "git_sha": "2d90bb29327a6f488c3ca620c0a2f2e1a023b7bc",
+      "name": "restore_increment.py",
+      "sha256": "5dc44cb3f02f230c690b5da3a0b8d6fc7e3b83b69848fa66478cfde3eef23550",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/527decb1dead1b309faaa0086563ab88780968b8/battlegrounds-backup/pending/20261112-darkcrest-lava-native-board/restore_increment.py"
+    }
+  ],
+  "immutable_source_files_match_fixed_source_commit": {
+    "BASE_RESTORE_CURRENT.json": "4a89ef66bdfcdd11055eee0d9cdd4e203e76c8e30f2100da83a94f95fd01529b",
+    "BUILD_VERIFIED.json": "7ec1cf24e21a423e2ba5d91df2f906bc5f575971d8d2f22efe29939aa22fdaf4",
+    "CHANGES_FROM_TIER6.json": "2cc121b7cfce7e0a9af4f2cedd19238750664357f0f67205a3e491244bc1464b",
+    "CURRENT_EVIDENCE_VERIFIED.json": "da14e65b108ce7e569f2192722ef6e250f29d3568f98f71baaf5180ddc2f57b4",
+    "CURRENT_RECOVERY_VERIFIED.json": "470642f8766ccd5bebbe67fce2b66c99c28130f70d5c47faa38dd8f8d09cb200",
+    "FIX_EVIDENCE.tar.xz": "8643cee6ba57f0d26a4210b39c2ee2a75cd4f241d654ded04df84e525681b51d",
+    "FIX_EVIDENCE_MANIFEST.json": "b7db5fbda0705edf23cfcdd56e9c2bdf99fb2e14f754153fa6ac3b0f040d24fc",
+    "FRESH_DOWNLOAD_VERIFIED.json": "6a3a1be90952150e3b7f05198208dcf7ae3865ac0d5c3dae34d02c17ffb0e54c",
+    "MANIFEST.json": "e8ac2e41a0dcb5ce920cab6e23df401e7b9971a925bebd7e2a4f4e6c5f37ca60",
+    "RECONSTRUCTION_NOTE.md": "2930dba1293753edeb3a39e8b58d12f5854c75eef5a0e8ad118c412f36a93c88",
+    "RECOVERY.md": "eaab8a2dd74c0b4d06c05bf3eeffbd3ec863cd034c38a6f7a0b695f3b9535392",
+    "SOURCE_MAP.json.gz": "6174415dba0a5819d175c4bdb9e0663faa7cc9fe9957bc724ee040c960fa17fa",
+    "STATIC_SHA_VERIFIED.json": "26280bcb89e66b213d40cf201f1d03b8c859448936e26828eeb8f1ff0cd38e63",
+    "TIER6_RESTORE_CURRENT.json": "73c38db8c565a624260804631137008d76be7f17df192cef1800ba6c4a1b0f97",
+    "delta.tar.xz": "d424fb8c34271158d2070d23b196b18a20adc5df0effafa83e36e6540cd5584c",
+    "restore_increment.py": "5dc44cb3f02f230c690b5da3a0b8d6fc7e3b83b69848fa66478cfde3eef23550"
+  },
+  "source_evidence_members": 23,
+  "gameplay_receipt_sha256": "a89342529aa8202dd08ff21b386484c666b43e0590b3bfeb75afc5b0298e18fb",
+  "post_game_double_tree_reports_match_source": true,
+  "preserved_tools_evidence_members": 19,
+  "gameplay_evidence_members": 50,
+  "gameplay_evidence_uncompressed_bytes": 25126888,
+  "gameplay_evidence_every_member_rehashed": true,
+  "missing": [],
+  "extra": [],
+  "mismatched": [],
+  "acceptance": "ordinary_darkcrest_single_ordinary_lava_native_board_compatibility_only",
+  "full_game_or_trinket_family_acceptance": false,
+  "game_started_by_this_verifier": false,
+  "uploaded": false
+}
