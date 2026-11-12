@@ -1,0 +1,388 @@
+{
+  "status": "PASS_CURRENT_ENVIRONMENT_FRESH_DOWNLOADS",
+  "checked_at_utc": "2026-11-12T09:40:43.079940+00:00",
+  "files": 42,
+  "bytes": 332059182,
+  "records": [
+    {
+      "filename": "base_package/BASE_MEMBERS.json.gz",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/BASE_MEMBERS.json.gz",
+      "bytes": 203345,
+      "sha256": "bc44eb7592c5816a01cc6d5afbe2efc2eef232bb7d10bca7c9e52edde6324e6c",
+      "git_sha": "1ac4d25a16f3f7ca9e236c4916f0ef35ff690001",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/CHANGES_FROM_ORIGINAL.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/CHANGES_FROM_ORIGINAL.json",
+      "bytes": 315526,
+      "sha256": "bfa21103f9f460271421deab401e7a3a39e6a21676a37ac3c312974c3aa8ecc4",
+      "git_sha": "6ea9d989f1033ca96fffe27ce11ffc8c17c467e0",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/FRESH_WHOLE_CHAIN_VERIFICATION.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/FRESH_WHOLE_CHAIN_VERIFICATION.json",
+      "bytes": 109586,
+      "sha256": "380bf605c07ba3004d02b08cd231327ad0b92f23e3ea6141195943baa7f0f9c2",
+      "git_sha": "d21403c603a25527448d7d1cad4ecd9c70479023",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/FULL_CHAIN_BATCH14_VERIFIED.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/FULL_CHAIN_BATCH14_VERIFIED.json",
+      "bytes": 4973,
+      "sha256": "7796210103f9ad0be5060071bce37523ca9889a51717a06dba40a76ae34e3443",
+      "git_sha": "9571e089b5733c4e704226b3ff97dd2f7e4f05eb",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/LOCAL_RESTORE_VERIFIED.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/LOCAL_RESTORE_VERIFIED.json",
+      "bytes": 668,
+      "sha256": "655e6d025769aa4e41d362ce58efb570f39719821cabd3876f3b857e93ee8c3f",
+      "git_sha": "908d5da682522adbfe9446755a2b109bb3916a19",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/MANIFEST.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/MANIFEST.json",
+      "bytes": 3538,
+      "sha256": "9dcf45ce172c144075e333f9cc17d44e03f29c22be7bde9d76b54bab02a36d09",
+      "git_sha": "435167d384123d4712887f77017f7e22eb9ce0a6",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/PENDING_NOV10_PRESERVED.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/PENDING_NOV10_PRESERVED.json",
+      "bytes": 6633,
+      "sha256": "ad845028bc47f721290451f3f228e2390ffe43c4a636661e6ed153f95cac655b",
+      "git_sha": "e464710e9711069723941ca73ad3bee06299139a",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/RECOVERY.md",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/RECOVERY.md",
+      "bytes": 2760,
+      "sha256": "5074c147176a2e1df43ee1fb60d11560954da077e442296ff96a159be32a1897",
+      "git_sha": "ed8102454a4aa0cd661caef4cb7fa9e37522ceb3",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/SHA256SUMS.txt",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/SHA256SUMS.txt",
+      "bytes": 2060,
+      "sha256": "fd798c20cd0104c91af6789d685feba5dff67d81f7692ee5223cb6fd8d96d8c7",
+      "git_sha": "49725f27169340df19f691f066ebf29e8a6c2d32",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/SOURCE_MAP.json.gz",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/SOURCE_MAP.json.gz",
+      "bytes": 1279053,
+      "sha256": "62aff7e60681fabccca2557f3b3880413b82c0274b9325b64959e24f08983f9f",
+      "git_sha": "e75830ad30b2285b221f52bb93e31508cfe7c4cc",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0000",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0000",
+      "bytes": 250000,
+      "sha256": "3984574954eed80cc31148ea34034f5215e7971b0df2d3b608393f34f5e8c9b7",
+      "git_sha": "3cd403b013c90ea1c5d03b5b00ff8a8b6e17966e",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0001",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0001",
+      "bytes": 250000,
+      "sha256": "5b2c47c7b6b308cb33c25c78b40f295c3940f966da5dd01c7c5a5db9cedb1d43",
+      "git_sha": "af1372b8bf572f866a2e32f9749e1219de409e01",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0002",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0002",
+      "bytes": 250000,
+      "sha256": "785b59d8e0dc13e63a9bb96367989625ce537ace465183c7239c567b31ac1789",
+      "git_sha": "ec0379ac05e9c382ed393479de08de7ccd9cf088",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0003",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0003",
+      "bytes": 250000,
+      "sha256": "5455410985ab4a8ad1d97c792d70eb3bc59d1fd40b183558c6044c23e1fae2d4",
+      "git_sha": "f71ec9eb942d3411576eaf12bd476cfd666002df",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0004",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0004",
+      "bytes": 250000,
+      "sha256": "09816d6136f657c577764564850d76c1fbeb54dbdf354d24acbb9c164de860b2",
+      "git_sha": "a8329e496dfd92465a0e8d3a556399dee2ab1d26",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0005",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0005",
+      "bytes": 250000,
+      "sha256": "194dba39b5eb981950e267a76c8d9f19d266ec18c8f4deeece64eef820c7be54",
+      "git_sha": "f30c79c804889cc42899e79dfd7d875a7b7abf5b",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0006",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0006",
+      "bytes": 250000,
+      "sha256": "aa8b2f4e400619804a1ffeed89fea29b754f710474c5387f4293a347a4e1fd0f",
+      "git_sha": "9c122d5ee649c083fedee2a98096f7d584c09f75",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0007",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0007",
+      "bytes": 250000,
+      "sha256": "d04032b63f8928d50eca4f4f0da09191723975116104c25615b3d6cc89b0d103",
+      "git_sha": "7fbdc02569a58922637891f3feb7490fcfa8db71",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0008",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0008",
+      "bytes": 250000,
+      "sha256": "e5f697dfbf2030897d16c2bade45a7b8aa52b5f95241b5bbcd261d355b81fd88",
+      "git_sha": "d4007febb6ac34165f89a7e09413a7e902bd0cda",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0009",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0009",
+      "bytes": 250000,
+      "sha256": "f9d5c51226102218e131c7f339b7bb1dfff00affaebf8149b5abdd282fc6ad78",
+      "git_sha": "10b6d624f72dbf8e0d4253e4aa0c224d33b116d5",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0010",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0010",
+      "bytes": 250000,
+      "sha256": "530ceff7a1d997a356a4b7ad65442793d74bbe0e24dc9a2876970f2748a0f673",
+      "git_sha": "4e1ccd5fa45c9b48f7eb53a9195928c72c4e236c",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0011",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0011",
+      "bytes": 250000,
+      "sha256": "1ad1c9707a21de21adb0eec4e1fa4d868bf75813a86ccb1852224f8d525c4691",
+      "git_sha": "902a037961d5da1c91c9634c1cbf12c16a748f58",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/payload.tar.xz.part0012",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/payload.tar.xz.part0012",
+      "bytes": 209176,
+      "sha256": "9fc01624da666b4cec6235c8233fe0045168ab0f0085992e8cdfa9d9ad7ebf5d",
+      "git_sha": "e24506f236dc7b4cdeffb9f5af594ae5a0bf8e15",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "base_package/restore.py",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/5143e8fb41bc8332ce4ba196144172167a74318c/battlegrounds-backup/consolidated/20261111-batch14-restored/restore.py",
+      "bytes": 4435,
+      "sha256": "bff945ef0ba2745f42db7335f621b3737745103dc0df5451c2a6c93cbbdc9e97",
+      "git_sha": "8a57c6e746d3237cc918232191ef209cc7c21bcf",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/BASE_RESTORE_CURRENT.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/BASE_RESTORE_CURRENT.json",
+      "bytes": 668,
+      "sha256": "4cdc6af03a1ed66fce8d0183e4746e35e8fa267674efc7731309ef5c66b1d176",
+      "git_sha": "03647bc04bc71052863571998071f0da0996f721",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/BUILD_VERIFIED.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/BUILD_VERIFIED.json",
+      "bytes": 406,
+      "sha256": "6da37c82980dec9ab619b869dd1f79b7165d7c2ec09c01f205473f2a82e8f523",
+      "git_sha": "cf20763b1ec6bcfb8fc23f3be010d46c176c6812",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/CHANGES_FROM_V1.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/CHANGES_FROM_V1.json",
+      "bytes": 1109,
+      "sha256": "1e13cfa5ce80d3f2a808b9d534ada5e41229f611bbd15008f41c61b8ff585feb",
+      "git_sha": "83cc52ca439113062c3500e5a453cdd9b8769293",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/CURRENT_EVIDENCE_VERIFIED.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/CURRENT_EVIDENCE_VERIFIED.json",
+      "bytes": 175,
+      "sha256": "dfb7a3a19f7cd8cf876d43575eec1c9f59c8adc1399f63a37d69d581bb35172b",
+      "git_sha": "6709e9eaa4334ef927221336220ee0fd2389fea5",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/CURRENT_RECOVERY_VERIFIED.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/CURRENT_RECOVERY_VERIFIED.json",
+      "bytes": 1022,
+      "sha256": "7a210e183e2a53c47870f8292fe54ba10e0b36a845c25aec9d83b687251ab23d",
+      "git_sha": "75e8617f1dd178de2720d0207e6d09c8b06b59b5",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/FIX_EVIDENCE.tar.xz",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/FIX_EVIDENCE.tar.xz",
+      "bytes": 973412,
+      "sha256": "34cc219737fb4b8365e1c4bf81f7e4d6a1ce8ada807269fcd6f963b633f01592",
+      "git_sha": "d28b22e712e329f631520324923882098702627f",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/FIX_EVIDENCE_MANIFEST.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/FIX_EVIDENCE_MANIFEST.json",
+      "bytes": 3933,
+      "sha256": "6c6ed93588f2be5418918310744e31bafcc7a2a810032fbed56db5a3cf7df875",
+      "git_sha": "979f17499347c55cff1fccc93c79f7a4bc9c315c",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/FRESH_DOWNLOAD_VERIFIED.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/FRESH_DOWNLOAD_VERIFIED.json",
+      "bytes": 21791,
+      "sha256": "476cddc64939dcb3047d6041540ccce33079807700a0de300864cb2678650e35",
+      "git_sha": "a09a988ead8cf487fe38990d601a8ecf1edff474",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/MANIFEST.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/MANIFEST.json",
+      "bytes": 24228,
+      "sha256": "ca11110ed1077c44cd08e0de535c008c9e4a6d13c9bbfd2682a514f08d357736",
+      "git_sha": "4da9135918b936a2e0198affda31be8a20feb77f",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/RECONSTRUCTION_NOTE.md",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/RECONSTRUCTION_NOTE.md",
+      "bytes": 2145,
+      "sha256": "3e459261ccc3b2dc579d95473d9283d4e9d93b69cba2dea06498aa42ee4e8096",
+      "git_sha": "3a17ac3d3886791e29a4087f93fc4b9f9fcc63bb",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/RECOVERY.md",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/RECOVERY.md",
+      "bytes": 717,
+      "sha256": "f0dae25464f3eb5c1096255fc6be6403c832e4a42073c6b8bda6d91e1f9a0963",
+      "git_sha": "add205f30c2d2e69f0e4f0bf2daf72fe44e69ae2",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/SHA256SUMS.txt",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/SHA256SUMS.txt",
+      "bytes": 1412,
+      "sha256": "f274ccac4c08cc7700a226614e23a9a5b8e0822f4cb22b3b8209cecfaa221c7b",
+      "git_sha": "95ed97eb17680227d59a2358979bd9502461efa4",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/SOURCE_MAP.json.gz",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/SOURCE_MAP.json.gz",
+      "bytes": 1281818,
+      "sha256": "a9f8ea989bebbc133f3064ac44049c0e6f8855161ccceb30fb2ec7b6985c0ce2",
+      "git_sha": "65d0dcf31b9b2efa2f7be1cf4f5e82d3da137d77",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/STATIC_SHA_VERIFIED.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/STATIC_SHA_VERIFIED.json",
+      "bytes": 797,
+      "sha256": "6f830f3e9fb3eb6f9375fcbb27fc8c124cf93f1ca859310106e5b187f53c1c65",
+      "git_sha": "acddcf7abb0971e80c603e92128c3b1e1c76c4ed",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/V1_RESTORE_CURRENT.json",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/V1_RESTORE_CURRENT.json",
+      "bytes": 546,
+      "sha256": "dedf48914389aec48c8871d3a1a3ae7ad4e28e44a21100499da649fd113c8e89",
+      "git_sha": "f9e71ec584555e544b91877a6ce175b3d8ef125e",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/delta.tar.xz",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/delta.tar.xz",
+      "bytes": 558632,
+      "sha256": "f67a47a23b665b98025fbf72b75ab4831cbc6bb7d43cfbbc0481315d11e17deb",
+      "git_sha": "257d28287da4f6d4b705bb33d304336493ee1baa",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "v2_package/restore_increment.py",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/aae0cf4c9f3325bc6a98ca34700059d25d235534/battlegrounds-backup/pending/20261112-empty-slot-resource-v2/restore_increment.py",
+      "bytes": 3516,
+      "sha256": "5dc44cb3f02f230c690b5da3a0b8d6fc7e3b83b69848fa66478cfde3eef23550",
+      "git_sha": "2d90bb29327a6f488c3ca620c0a2f2e1a023b7bc",
+      "git_sha_checked": true,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    },
+    {
+      "filename": "original_release.zip",
+      "url": "https://github.com/Ethsigema/AI_text01/releases/download/battlegrounds-handoff-20261101/battlegrounds_new_scope_handoff_20261101.zip",
+      "bytes": 324041102,
+      "sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+      "git_sha": "4cbd7e3f4fb44069b8f2f1855c6da3fa0b7a49e0",
+      "git_sha_checked": false,
+      "status": "PASS_FRESH_DOWNLOAD_SIZE_AND_HASH"
+    }
+  ],
+  "old_download_bytes_reused": false,
+  "old_restore_reports_reused": false
+}
