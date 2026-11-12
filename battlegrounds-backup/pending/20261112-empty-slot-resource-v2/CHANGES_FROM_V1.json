@@ -1,0 +1,36 @@
+{
+  "added": {
+    "tests/empty_slot_resource_v2_20261112/README.md": {
+      "bytes": 1985,
+      "sha256": "9b8b1b70b14a476104bd7dd5de18ef4fc3dccbe4958c3ad69dfeaaa868a7b141"
+    },
+    "tests/empty_slot_resource_v2_20261112/dark_gift_empty_contract.gd": {
+      "bytes": 13175,
+      "sha256": "1bb9374282adfc0cbe6fc4f7643640fafa08469a54e3283175c35fc77302715d"
+    }
+  },
+  "modified": {
+    "core/dark_gift_resource_host.gd": {
+      "after": {
+        "bytes": 33944,
+        "sha256": "8206b041c7ecb323fc0d634918ef6435f53d5b86e77a256c2bc14702bda2eecb"
+      },
+      "before": {
+        "bytes": 30242,
+        "sha256": "6a813934793d3f3d1d4a18702325fd1039eababe0eac990035cb0088af13365c"
+      }
+    },
+    "core/dark_gift_sources.gd": {
+      "after": {
+        "bytes": 519616,
+        "sha256": "f6d805daa17b98dde090aecf3def30144f84b7440b45e089589f88ecfaada9a9"
+      },
+      "before": {
+        "bytes": 519588,
+        "sha256": "783581aead6812f392e655b9daa74389e947f84b8a515a6f05e7c663bf01c846"
+      }
+    }
+  },
+  "previous_commit": "e38175e91e58cad77cff3f234230d96beb20f872",
+  "removed": {}
+}
