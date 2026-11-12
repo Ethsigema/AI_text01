@@ -1,0 +1,94 @@
+{
+  "STATIC_SHA_VERIFIED.json": {
+    "bytes": 786,
+    "sha256": "26280bcb89e66b213d40cf201f1d03b8c859448936e26828eeb8f1ff0cd38e63"
+  },
+  "evidence/LAVA_PURE_VERIFIED.json": {
+    "bytes": 1059,
+    "sha256": "c890fffb3f81bf7319a33d2c5b51964272a23072eea5f236dda4d3b8ee23f7fc"
+  },
+  "evidence/PIN_UPDATES_01.json": {
+    "bytes": 29516,
+    "sha256": "aafa1f4db534836f0d07e6f96be4dc2e397e8209968c60c266df2f28db6578c3"
+  },
+  "evidence/TESTS_FROZEN_SHA256.json": {
+    "bytes": 386,
+    "sha256": "7e9b64452827211a7d83624cf0c78d22ea3fe6a84c20e4b5960f93c0f4b7b8d3"
+  },
+  "evidence/lava_content_prefreeze.gd": {
+    "bytes": 66,
+    "sha256": "c3f41e2533f1237ca274e2370a97d1434b72bce028cc3597b0fd01afdbc9bf99"
+  },
+  "evidence/lava_content_prefreeze.log": {
+    "bytes": 8183,
+    "sha256": "cc2b436c81ce15bc2debe59942e91e2b854d1797175212d2c8a6a08e60c453c2"
+  },
+  "evidence/lava_content_prefreeze_hashes.json": {
+    "bytes": 3526226,
+    "sha256": "4486f30e2ef7451fc1cfb849060c95f7112be4755bdf7b29a761fa2f2b5071cb"
+  },
+  "evidence/lava_content_prefreeze_result.json": {
+    "bytes": 536,
+    "sha256": "9b74955e481fed806fa65ffa89c880cbbf73917feefd2b4463d51fe7a8e83691"
+  },
+  "evidence/monitor.py": {
+    "bytes": 2202,
+    "sha256": "b7f8b3a5e92d966a61a050945180621336b1c966711e78caa571f1b2a24b3293"
+  },
+  "preparation/RECONSTRUCTION_NOTE.md": {
+    "bytes": 2512,
+    "sha256": "2930dba1293753edeb3a39e8b58d12f5854c75eef5a0e8ad118c412f36a93c88"
+  },
+  "preparation/repin_candidate.py": {
+    "bytes": 1928,
+    "sha256": "64018d0b4963637b984d76ef58fddd75fa4dd2156f57b9515e081760e893fa4f"
+  },
+  "research/ASSESSMENT.md": {
+    "bytes": 7895,
+    "sha256": "c7cfce7c5773cbabe4905bc9dcec3481a06aae5deefc48df5ee1e21dcbc7b75c"
+  },
+  "research/IMPLEMENTATION.md": {
+    "bytes": 3742,
+    "sha256": "4ee46df0812c56496cf3062ea5e59553889ff7e140067c3f716e383e3b3762bf"
+  },
+  "research/LAVA_COMBINATION_INDEPENDENT_REVIEW.md": {
+    "bytes": 7130,
+    "sha256": "444aaa6b9e7ee90a69cd7dc895dca00eea396b22ac484be0fffcfdffe6d29c6a"
+  },
+  "research/LAVA_FINAL_STATIC_REVIEW.md": {
+    "bytes": 2841,
+    "sha256": "11c02e1259aaa54b9fc1bac4fbc763dce262f3d252bf1e481883f9a1413a09c2"
+  },
+  "research/LAVA_FROZEN_SHA256.json": {
+    "bytes": 638,
+    "sha256": "1f10cc98488ebb078272330abb36b8cee62ccbefdba64dd32e260993da7d1c4b"
+  },
+  "research/LAVA_V2_FROZEN_SHA256.json": {
+    "bytes": 724,
+    "sha256": "6cf2f5a7bf4b34eded888e7ea4a50df016fe39676c8ded47fe005ab100fd10d9"
+  },
+  "research/LAVA_V3_FROZEN_SHA256.json": {
+    "bytes": 703,
+    "sha256": "ae83c1252f576ff05c0554685d1314daf33d630ca155024ab339feea0887f5c3"
+  },
+  "research/TEST_STRATEGY.md": {
+    "bytes": 2816,
+    "sha256": "9fa1f30911f965a20ced3e7e1e13569b931e0ced825174fba15244619446bc31"
+  },
+  "research/helper_syntax.log": {
+    "bytes": 73,
+    "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+  },
+  "research/helper_v2_syntax.log": {
+    "bytes": 73,
+    "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+  },
+  "research/helper_v3_syntax.log": {
+    "bytes": 73,
+    "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+  },
+  "research/host_syntax.log": {
+    "bytes": 73,
+    "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+  }
+}
