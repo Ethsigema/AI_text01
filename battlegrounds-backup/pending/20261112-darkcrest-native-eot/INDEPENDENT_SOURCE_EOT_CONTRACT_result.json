@@ -1,0 +1,18 @@
+{
+  "command": [
+    "godot",
+    "--headless",
+    "--path",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/run_darkcrest_candidate",
+    "--script",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/independent_tests/tests/darkcrest_20261112/source_eot_contract.gd"
+  ],
+  "exit": 0,
+  "reason": "exited",
+  "elapsed": 0.6007253329989908,
+  "sampled_process_group_peak_rss": 82116608,
+  "rss_soft_limit": 4294967296,
+  "available_start": 9476784128,
+  "hard_limit": "unavailable: cgroup filesystem not exposed",
+  "timeout_seconds": 60
+}

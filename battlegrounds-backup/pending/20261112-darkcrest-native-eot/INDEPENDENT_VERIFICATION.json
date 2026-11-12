@@ -1,0 +1,166 @@
+{
+  "status": "PASS_REMOTE_SOURCE_RESTORED_ALL_FINAL_TESTS_AND_POST_TEST_REHASH",
+  "source_commit": "fa7a3b6b2bb73791caa6599f01f63eba987ac0fc",
+  "verified_at_utc": "2026-11-12T04:34:31.838449+00:00",
+  "source_map_sha256": "aa9cf9558ca4afc9f7932aa96b7ef5567059c4739eb05d20702c5cdff7f80067",
+  "trees": {
+    "restored_darkcrest_candidate": {
+      "files": 27958,
+      "bytes": 1550392621,
+      "aggregate_sha256": "fdbcb4db7e5c3b6dc31a54b69364a1cc22ab794b387e1a62195457c116971204",
+      "missing": [],
+      "extra": [],
+      "mismatched": []
+    },
+    "run_darkcrest_candidate": {
+      "files": 27958,
+      "bytes": 1550392621,
+      "aggregate_sha256": "fdbcb4db7e5c3b6dc31a54b69364a1cc22ab794b387e1a62195457c116971204",
+      "missing": [],
+      "extra": [],
+      "mismatched": []
+    }
+  },
+  "tests": {
+    "real_matrix": {
+      "source": "tests/darkcrest_20261112/real_matrix.gd",
+      "passed_checks": 113,
+      "test_sha256": "2f1d22423e80716173c82d0c01de7bf5cb460c84d68337d272552ede650c458d",
+      "log_sha256": "7e12f5c93b2ff24a0986ca55c118341bfc5bd885e36462613b7499c63e819b60",
+      "result": {
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/run_darkcrest_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/independent_tests/tests/darkcrest_20261112/real_matrix.gd"
+        ],
+        "exit": 0,
+        "reason": "exited",
+        "elapsed": 301.81919248099985,
+        "sampled_process_group_peak_rss": 3038232576,
+        "rss_soft_limit": 4294967296,
+        "available_start": 9451372544,
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "timeout_seconds": 900
+      },
+      "source_snapshot_matches": true,
+      "failures": []
+    },
+    "source_eot_contract": {
+      "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+      "passed_checks": 68,
+      "test_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790",
+      "log_sha256": "cd531c473dc115192227cd840cf7ec19cf45fbd9aeaccec8b2f2284db259da42",
+      "result": {
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/run_darkcrest_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/independent_tests/tests/darkcrest_20261112/source_eot_contract.gd"
+        ],
+        "exit": 0,
+        "reason": "exited",
+        "elapsed": 0.6007253329989908,
+        "sampled_process_group_peak_rss": 82116608,
+        "rss_soft_limit": 4294967296,
+        "available_start": 9476784128,
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "timeout_seconds": 60
+      },
+      "source_snapshot_matches": true,
+      "failures": []
+    },
+    "hand_shape_contract": {
+      "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+      "passed_checks": 166,
+      "test_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e",
+      "log_sha256": "48667a2e5f78f81e81c915c4aa8c1c1937078abc9a594d41a1166243002c69eb",
+      "result": {
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/run_darkcrest_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/independent_tests/tests/darkcrest_20261112/hand_shape_contract.gd"
+        ],
+        "exit": 0,
+        "reason": "exited",
+        "elapsed": 0.4748834040001384,
+        "sampled_process_group_peak_rss": 87097344,
+        "rss_soft_limit": 4294967296,
+        "available_start": 9422282752,
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "timeout_seconds": 60
+      },
+      "source_snapshot_matches": true,
+      "failures": []
+    },
+    "seafloor_annotation_contract": {
+      "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+      "passed_checks": 267,
+      "test_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb",
+      "log_sha256": "15d4458f7dab1dd44acd095f523c50faed18498f947ef66473e2b04c9cebe112",
+      "result": {
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/run_darkcrest_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/independent_tests/tests/darkcrest_20261112/seafloor_annotation_contract.gd"
+        ],
+        "exit": 0,
+        "reason": "exited",
+        "elapsed": 0.3483973740003421,
+        "sampled_process_group_peak_rss": 66682880,
+        "rss_soft_limit": 4294967296,
+        "available_start": 9449328640,
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "timeout_seconds": 60
+      },
+      "source_snapshot_matches": true,
+      "failures": []
+    },
+    "real_combat_matrix": {
+      "source": "tests/rider_20261112/real_combat_matrix.gd",
+      "passed_checks": 291,
+      "test_sha256": "6261d4f1ea3dc779d1feaebd69d3f03b35393b0b639399f5e8dbf49c6c65b06a",
+      "log_sha256": "bbc0dacc49835cb7ad2be01501a814ed92330bc11b950be2b03e68f29fa64a9f",
+      "result": {
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/run_darkcrest_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/independent_tests/tests/rider_20261112/real_combat_matrix.gd"
+        ],
+        "exit": 0,
+        "reason": "exited",
+        "elapsed": 169.6258890370009,
+        "sampled_process_group_peak_rss": 3037335552,
+        "rss_soft_limit": 4294967296,
+        "available_start": 9536233472,
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "timeout_seconds": 600
+      },
+      "source_snapshot_matches": true,
+      "failures": []
+    }
+  },
+  "sequential_game_execution": true,
+  "fixtures": {
+    "tests/darkcrest_20261112/darkcrest_sources_archived.gd": "aab40e4847ab19b74f3e24008d38e28e75642cd84323e0768b82abf99d7285ef"
+  },
+  "limitations": [
+    "Finite Darkcrest tier 1/2/3 and native end-of-turn/waiting/expiry fragments only.",
+    "Rider finite 11-case regression only.",
+    "No full match, default-pool promotion, old-save, tier 4+, golden/triple/copy, or all-content acceptance.",
+    "Original invisible worktree and unknown unuploaded changes were not recovered."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "command": [
+    "godot",
+    "--headless",
+    "--path",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/run_darkcrest_candidate",
+    "--script",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/independent_tests/tests/darkcrest_20261112/hand_shape_contract.gd"
+  ],
+  "exit": 0,
+  "reason": "exited",
+  "elapsed": 0.4748834040001384,
+  "sampled_process_group_peak_rss": 87097344,
+  "rss_soft_limit": 4294967296,
+  "available_start": 9422282752,
+  "hard_limit": "unavailable: cgroup filesystem not exposed",
+  "timeout_seconds": 60
+}

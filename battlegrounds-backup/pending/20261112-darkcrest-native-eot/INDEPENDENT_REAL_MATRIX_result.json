@@ -1,0 +1,18 @@
+{
+  "command": [
+    "godot",
+    "--headless",
+    "--path",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/run_darkcrest_candidate",
+    "--script",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest/fresh_remote/independent_tests/tests/darkcrest_20261112/real_matrix.gd"
+  ],
+  "exit": 0,
+  "reason": "exited",
+  "elapsed": 301.81919248099985,
+  "sampled_process_group_peak_rss": 3038232576,
+  "rss_soft_limit": 4294967296,
+  "available_start": 9451372544,
+  "hard_limit": "unavailable: cgroup filesystem not exposed",
+  "timeout_seconds": 900
+}
