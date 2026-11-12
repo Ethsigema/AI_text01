@@ -1,0 +1,514 @@
+{
+  "acquisitions": [
+    {
+      "id": "BG23_000",
+      "rolls": 0,
+      "source_owned": false,
+      "uid": "u4"
+    },
+    {
+      "id": "BG23_009",
+      "rolls": 1,
+      "source_owned": false,
+      "uid": "u28"
+    }
+  ],
+  "actual_lava_rebuy_tested": false,
+  "casts": [
+    {
+      "attack_after": 4,
+      "attack_before": 2,
+      "health": 5,
+      "kept": 1,
+      "round": 1,
+      "source_uid": "u4",
+      "target_uid": "u28",
+      "token_uid": "u123"
+    }
+  ],
+  "checks": 101,
+  "coin_pre_source_fixture": true,
+  "combat_start": {
+    "event": "combat_start",
+    "left": [
+      {
+        "attachments": [],
+        "attack": 2,
+        "base_unit": {
+          "attack": 2,
+          "card_id": "BG31_330",
+          "effects": [
+            {
+              "amount": 1,
+              "family": "tavern_spell_cost",
+              "mode": "subtract",
+              "purchases": 1,
+              "scope": "owner",
+              "source_id": "BG31_330",
+              "type": "battlecry_next_tavern_spell_discount"
+            }
+          ],
+          "golden": false,
+          "health": 1,
+          "keywords": [],
+          "max_health": 1,
+          "name": "厄运先知",
+          "tier": 1,
+          "tribes": [
+            "恶魔",
+            "纳迦"
+          ]
+        },
+        "blood_gems_received_turn": 0,
+        "card_id": "BG31_330",
+        "cost": 0,
+        "effects": [
+          {
+            "amount": 1,
+            "family": "tavern_spell_cost",
+            "mode": "subtract",
+            "purchases": 1,
+            "scope": "owner",
+            "source_id": "BG31_330",
+            "type": "battlecry_next_tavern_spell_discount"
+          }
+        ],
+        "golden": false,
+        "golden_rebase_state": "additive_v1",
+        "health": 1,
+        "image": "res://assets/cards/BG31_330.jpg",
+        "individually_frozen": false,
+        "is_spellcraft": false,
+        "keywords": [],
+        "kind": "minion",
+        "magnetic_tribes": [],
+        "max_health": 1,
+        "name": "厄运先知",
+        "permanent_keywords": [],
+        "pool_components": [],
+        "pool_count": 1,
+        "pool_id": "BG31_330",
+        "recruit_shop_aura_attack": 0,
+        "recruit_shop_aura_health": 0,
+        "recruit_shop_bonus_applied": {
+
+        },
+        "spell_triggers": 0,
+        "spellcraft_kept": 0,
+        "temporary": false,
+        "temporary_buffs": [],
+        "text": "战吼：你购买的下一张酒馆法术牌消耗的铸币减少（1）枚。",
+        "tier": 1,
+        "tribes": [
+          "恶魔",
+          "纳迦"
+        ],
+        "uid": "u6"
+      }
+    ],
+    "left_hand_count": 0,
+    "left_hand_summon_locks": [],
+    "right": [
+      {
+        "attachments": [],
+        "attack": 1,
+        "base_unit": {
+          "attack": 1,
+          "card_id": "BG23_000",
+          "effects": [
+            {
+              "card_id": "BG23_000t",
+              "type": "spellcraft"
+            }
+          ],
+          "golden": false,
+          "health": 4,
+          "keywords": [],
+          "max_health": 4,
+          "name": "迷你侍从",
+          "tier": 1,
+          "tribes": [
+            "纳迦"
+          ]
+        },
+        "blood_gems_received_turn": 0,
+        "card_id": "BG23_000",
+        "cost": 0,
+        "effects": [
+          {
+            "card_id": "BG23_000t",
+            "type": "spellcraft"
+          }
+        ],
+        "golden": false,
+        "golden_rebase_state": "additive_v1",
+        "health": 4,
+        "image": "res://assets/cards/BG23_000.jpg",
+        "individually_frozen": false,
+        "is_spellcraft": false,
+        "keywords": [],
+        "kind": "minion",
+        "magnetic_tribes": [],
+        "max_health": 4,
+        "name": "迷你侍从",
+        "permanent_keywords": [],
+        "pool_components": [],
+        "pool_count": 1,
+        "pool_id": "BG23_000",
+        "recruit_shop_aura_attack": 0,
+        "recruit_shop_aura_health": 0,
+        "recruit_shop_bonus_applied": {
+
+        },
+        "spell_triggers": 0,
+        "spellcraft_kept": 0,
+        "temporary": false,
+        "temporary_buffs": [],
+        "text": "塑造法术：直到下个回合，使一个随从获得+2攻击力。",
+        "tier": 1,
+        "tribes": [
+          "纳迦"
+        ],
+        "uid": "u4"
+      },
+      {
+        "attachments": [],
+        "attack": 4,
+        "base_unit": {
+          "attack": 4,
+          "card_id": "BG31_920",
+          "effects": [
+            {
+              "card_id": "BG31_920t",
+              "type": "spellcraft"
+            },
+            {
+              "source_id": "BG31_920",
+              "type": "end_turn_darkcrest_upgrade"
+            }
+          ],
+          "golden": false,
+          "health": 5,
+          "keywords": [],
+          "max_health": 5,
+          "name": "暗潮战略专家",
+          "tier": 5,
+          "tribes": [
+            "纳迦"
+          ]
+        },
+        "blood_gems_received_turn": 0,
+        "card_id": "BG31_920",
+        "cost": 0,
+        "effects": [
+          {
+            "card_id": "BG31_920t",
+            "type": "spellcraft"
+          },
+          {
+            "source_id": "BG31_920",
+            "type": "end_turn_darkcrest_upgrade"
+          }
+        ],
+        "golden": false,
+        "golden_rebase_state": "additive_v1",
+        "health": 5,
+        "image": "res://assets/cards/BG31_920.jpg",
+        "individually_frozen": false,
+        "is_spellcraft": false,
+        "keywords": [],
+        "kind": "minion",
+        "magnetic_tribes": [],
+        "max_health": 5,
+        "name": "暗潮战略专家",
+        "permanent_keywords": [],
+        "pool_components": [],
+        "pool_count": 1,
+        "pool_id": "BG31_920",
+        "recruit_shop_aura_attack": 0,
+        "recruit_shop_aura_health": 0,
+        "recruit_shop_bonus_applied": {
+
+        },
+        "spell_triggers": 0,
+        "spellcraft_kept": 0,
+        "temporary": false,
+        "temporary_buffs": [],
+        "text": "塑造法术：随机获取一张等级2的纳迦牌。（每回合都会提升！）",
+        "tier": 5,
+        "tribes": [
+          "纳迦"
+        ],
+        "uid": "u118"
+      }
+    ],
+    "right_hand_count": 0,
+    "right_hand_summon_locks": [],
+    "round_up_plain_contract": "",
+    "rules": "sandbox-1",
+    "seed": 786465110,
+    "sequence": 0,
+    "sort_formation_contract": "actual_combat_start_before_start_effects_v1"
+  },
+  "darkcrest_final_tier": 2,
+  "darkcrest_uid": "u118",
+  "entirely_natural_game": false,
+  "mini_uid": "u4",
+  "native_preview_diagnostic": {
+    "actual_token_issuance": false,
+    "base_key_types": [
+      {
+        "key": "card_id",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "name",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "tier",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "attack",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "health",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "max_health",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "keywords",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "tribes",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "effects",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "golden",
+        "key_type": 4,
+        "value_type": 1
+      }
+    ],
+    "key_types": [
+      {
+        "key": "uid",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "card_id",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "name",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "kind",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "tier",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "attack",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "health",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "keywords",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "tribes",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "effects",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "golden",
+        "key_type": 4,
+        "value_type": 1
+      },
+      {
+        "key": "cost",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "temporary",
+        "key_type": 4,
+        "value_type": 1
+      },
+      {
+        "key": "is_spellcraft",
+        "key_type": 4,
+        "value_type": 1
+      },
+      {
+        "key": "temporary_buffs",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "permanent_keywords",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "text",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "image",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "pool_count",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "spellcraft_kept",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "spell_triggers",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "attachments",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "pool_components",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "magnetic_tribes",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "individually_frozen",
+        "key_type": 4,
+        "value_type": 1
+      },
+      {
+        "key": "blood_gems_received_turn",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "recruit_shop_bonus_applied",
+        "key_type": 4,
+        "value_type": 27
+      },
+      {
+        "key": "recruit_shop_aura_attack",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "recruit_shop_aura_health",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "max_health",
+        "key_type": 21,
+        "value_type": 2
+      },
+      {
+        "key": "base_unit",
+        "key_type": 21,
+        "value_type": 27
+      },
+      {
+        "key": "expires_at_end_turn",
+        "key_type": 21,
+        "value_type": 1
+      }
+    ],
+    "native_factory_preview": true,
+    "shape_error": "",
+    "uid_allocated": false,
+    "zone_inserted": false
+  },
+  "new_token_uid": "u131",
+  "old_full_matrix_repeated": false,
+  "old_token_uid": "u123",
+  "sale": {
+    "actual_shop_buy_attempted": false,
+    "departed_stats": {
+      "attack": 4,
+      "health": 5,
+      "kept": 1
+    },
+    "gold_after": 7,
+    "gold_before": 6,
+    "index": 0,
+    "lava_uid": "u28",
+    "mini_uid": "u4",
+    "native_preview_attack": 2,
+    "native_preview_health": 5,
+    "owner_bound_history_gate_observed": true,
+    "preview_not_actual_rebuy": true,
+    "retirement": {
+      "mini_buffed": true,
+      "owner": 0,
+      "round": 1,
+      "sequence": 72
+    },
+    "rng_after": -5197053047974767558,
+    "rng_before": -5197053047974767558,
+    "sold_after": 1,
+    "sold_before": 0,
+    "stock_after": 15,
+    "stock_before": 14,
+    "uid_after": 124,
+    "uid_before": 124
+  },
+  "scope": "one ordinary Lava first Mini permanent buff then native sale with live Mini regrant",
+  "seed": 20261120
+}
