@@ -1,0 +1,43 @@
+{
+  "core/shatterer_host.gd": {
+    "after": {
+      "bytes": 14206,
+      "sha256": "db5e6ec2011e27ae546febd9e3fac4bbbedc1158bf8c6c4d2d5103f18e139348"
+    },
+    "before": {
+      "bytes": 12717,
+      "sha256": "9ad912221d99db5fede90c865c9f75ee46532864d933ede3ea4edfbed71cf7af"
+    }
+  },
+  "core/shatterer_sources.gd": {
+    "after": {
+      "bytes": 40681,
+      "sha256": "b601acb9e2f0a45f847029ed2b60cebbc62a416d8df1af0777741133fac24e08"
+    },
+    "before": {
+      "bytes": 40681,
+      "sha256": "dba3775568d4a736e3c16b4ea8dfc77396c9b47a89da6960783ae6fb58e83bc2"
+    }
+  },
+  "tests/shatterer_20261112/README.md": {
+    "after": {
+      "bytes": 1854,
+      "sha256": "022205bb9e9984f15698f1c66ae6e117f73cb154f32cd6b581337b1891044dd5"
+    },
+    "before": null
+  },
+  "tests/shatterer_20261112/temporary_contract.gd": {
+    "after": {
+      "bytes": 2710,
+      "sha256": "16e13ac13249116383b2889bcfd76eeaccf83e09e97aafc319d3a5c8af96e2f2"
+    },
+    "before": null
+  },
+  "tests/shatterer_20261112/threshold_and_expiry.gd": {
+    "after": {
+      "bytes": 4699,
+      "sha256": "a16d98b4c68d527135ea25df11339ed0bd479e0542eb1f3fb0fa9bf6e4208e62"
+    },
+    "before": null
+  }
+}
