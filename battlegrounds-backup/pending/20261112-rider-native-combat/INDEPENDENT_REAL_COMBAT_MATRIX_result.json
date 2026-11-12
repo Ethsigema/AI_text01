@@ -1,0 +1,18 @@
+{
+  "command": [
+    "godot",
+    "--headless",
+    "--path",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/run_rider_candidate",
+    "--script",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/real_combat_matrix.gd"
+  ],
+  "exit": 0,
+  "reason": "exited",
+  "elapsed": 197.42656909000016,
+  "sampled_process_group_peak_rss": 3025117184,
+  "rss_soft_limit": 4294967296,
+  "available_start": 9494855680,
+  "hard_limit": "unavailable: cgroup filesystem not exposed",
+  "timeout_seconds": 600
+}

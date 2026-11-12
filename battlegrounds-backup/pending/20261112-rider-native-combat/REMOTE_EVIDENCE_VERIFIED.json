@@ -1,0 +1,178 @@
+{
+  "status": "PASS_EVERY_MEMBER",
+  "members": 43,
+  "files": {
+    "local/BEFORE_BASE_FIX_HASHES.json": {
+      "bytes": 3522336,
+      "sha256": "af06b3994ba58df0235487c4f2e1b45cc68d8c1e8bb4bcea838e29bfff205aa6"
+    },
+    "local/BEFORE_FINAL_METADATA_HASHES.json": {
+      "bytes": 3522336,
+      "sha256": "aa4115050ef3d5bfe0288a2744816750d4374bb82e6afadeff826d549e94acc4"
+    },
+    "local/PIN_UPDATES.json": {
+      "bytes": 313,
+      "sha256": "25ba70486466e0e909814571c39be53e3a4b1e31f6260b8e36777bba4a7a4ed9"
+    },
+    "local/catalog_patch.log": {
+      "bytes": 30,
+      "sha256": "d7f9d90cd9c964b4900e46d18cc1f9fc174cf35ca97402e8a6dbe44505b40518"
+    },
+    "local/combat_patch.log": {
+      "bytes": 29,
+      "sha256": "2cfdf7e247a27bf4a68f66d12a4393bff93a6438f8cfcef435b073b655c74442"
+    },
+    "local/game_patch.log": {
+      "bytes": 27,
+      "sha256": "b41a43a0a4a67668a4bf6c8ef52898c0c77d012918afd7c63ee2fb016a411aa2"
+    },
+    "local/monitor.py": {
+      "bytes": 2202,
+      "sha256": "b7f8b3a5e92d966a61a050945180621336b1c966711e78caa571f1b2a24b3293"
+    },
+    "local/rider_real_combat_base_fix.gd": {
+      "bytes": 4209,
+      "sha256": "6211b658124a03d91a718a8d03a345bb2433cc4060ad8461300154a442b354cf"
+    },
+    "local/rider_real_combat_base_fix.log": {
+      "bytes": 1716,
+      "sha256": "609ed512f2fff95145d6a440c22b143d8cde323ae780dc54053afc8b546adfd5"
+    },
+    "local/rider_real_combat_base_fix_hashes.json": {
+      "bytes": 3522335,
+      "sha256": "37978ac0504c21999678483df3a12aa03fdeafd40935deba61126f4042064772"
+    },
+    "local/rider_real_combat_base_fix_result.json": {
+      "bytes": 529,
+      "sha256": "feae822a242832b1b471b85e5529e485f322365b0895a6a61bff25b241c5a9d6"
+    },
+    "local/rider_real_combat_diagnostic.gd": {
+      "bytes": 4209,
+      "sha256": "6211b658124a03d91a718a8d03a345bb2433cc4060ad8461300154a442b354cf"
+    },
+    "local/rider_real_combat_diagnostic.log": {
+      "bytes": 8664,
+      "sha256": "724a5aa76b828dc330e8245cff8541846fb9f8fd8edaf5f347cca2ca6870405b"
+    },
+    "local/rider_real_combat_diagnostic_hashes.json": {
+      "bytes": 3522335,
+      "sha256": "d0f7e515bcf3bb867e5ed81bb0179c64291d5f372f213072a4de7a8cdcc9f75a"
+    },
+    "local/rider_real_combat_diagnostic_result.json": {
+      "bytes": 531,
+      "sha256": "936605d32e9b624c2a1c8c03e416b43d36952a58899fcac5f9891b721af0bd5b"
+    },
+    "local/rider_real_combat_initial.gd": {
+      "bytes": 3933,
+      "sha256": "764d003a3de20464599cefe2e86408dc626bb5100344ac1f0b39abcb35714133"
+    },
+    "local/rider_real_combat_initial.log": {
+      "bytes": 789,
+      "sha256": "dde51a7edfe404fc9cfb0e3fdc6c48372dbb2376ad1333f5e209f4cbc2a0feae"
+    },
+    "local/rider_real_combat_initial_hashes.json": {
+      "bytes": 3522335,
+      "sha256": "d0f7e515bcf3bb867e5ed81bb0179c64291d5f372f213072a4de7a8cdcc9f75a"
+    },
+    "local/rider_real_combat_initial_result.json": {
+      "bytes": 528,
+      "sha256": "d6a76315882b86515ef87f82caf058372585873b5fd146b57cafd1ee9a5555ab"
+    },
+    "local/rider_real_combat_matrix.gd": {
+      "bytes": 5146,
+      "sha256": "6261d4f1ea3dc779d1feaebd69d3f03b35393b0b639399f5e8dbf49c6c65b06a"
+    },
+    "local/rider_real_combat_matrix.log": {
+      "bytes": 26032,
+      "sha256": "bbc0dacc49835cb7ad2be01501a814ed92330bc11b950be2b03e68f29fa64a9f"
+    },
+    "local/rider_real_combat_matrix_hashes.json": {
+      "bytes": 3522335,
+      "sha256": "37978ac0504c21999678483df3a12aa03fdeafd40935deba61126f4042064772"
+    },
+    "local/rider_real_combat_matrix_result.json": {
+      "bytes": 526,
+      "sha256": "8d8396ad7618ceff8072b796ffb633276050767ca9a2b30c7e2064a0e01e1aec"
+    },
+    "local/rider_source_base_contract.gd": {
+      "bytes": 2725,
+      "sha256": "439edc8609ddaded33e96b0368b6e9ca5bdd472563609f263190fe3b300c0c4e"
+    },
+    "local/rider_source_base_contract.log": {
+      "bytes": 1857,
+      "sha256": "af3f680af26fc291e9a92a872eea93cbfd16ed868a85e801a789a5259c4b7d1b"
+    },
+    "local/rider_source_base_contract_final.gd": {
+      "bytes": 3770,
+      "sha256": "69ef6c68fa780b6acb35743f789b7f619a79a0bc4325f331d4e0014be14cfea7"
+    },
+    "local/rider_source_base_contract_final.log": {
+      "bytes": 2333,
+      "sha256": "d900c226b334ecd58ecdcb5d42b5515bd247afe8da5a7fd11f12740dbe808fe7"
+    },
+    "local/rider_source_base_contract_final_hashes.json": {
+      "bytes": 3522800,
+      "sha256": "ab0f9f44c45cb38649ee3738db1b4caddce9b3c40882bd8aad163dcce8b3e6cd"
+    },
+    "local/rider_source_base_contract_final_result.json": {
+      "bytes": 533,
+      "sha256": "cf6746d49d58e53b1a72937318763236d359a67779569e2a835e22eae051def9"
+    },
+    "local/rider_source_base_contract_hashes.json": {
+      "bytes": 3522335,
+      "sha256": "37978ac0504c21999678483df3a12aa03fdeafd40935deba61126f4042064772"
+    },
+    "local/rider_source_base_contract_result.json": {
+      "bytes": 527,
+      "sha256": "6a6e2e52e204c293e878a4d171e7893451dba4f8695a883125ec0363f1f5c126"
+    },
+    "local/rider_source_contract.gd": {
+      "bytes": 1612,
+      "sha256": "7eccc3319cd93932ac81ee66e32549874e1a0a19c3a534db89fbeb39ab2decb5"
+    },
+    "local/rider_source_contract.log": {
+      "bytes": 619,
+      "sha256": "b113be3bb69580f6809dc4fd3f87c621324992575265a8fd4664e9b4df0d795a"
+    },
+    "local/rider_source_contract_hashes.json": {
+      "bytes": 3522335,
+      "sha256": "d0f7e515bcf3bb867e5ed81bb0179c64291d5f372f213072a4de7a8cdcc9f75a"
+    },
+    "local/rider_source_contract_result.json": {
+      "bytes": 521,
+      "sha256": "db5225f81ad8e8917111f6c6def9c5035e638a299399038361e2de23c798b420"
+    },
+    "local/rider_sources_before_pool_fix.gd": {
+      "bytes": 41286,
+      "sha256": "ccd6ba6b1b9170f5264add60430e2ea4b8b126381c221fe799779c4a21403691"
+    },
+    "dependency_verification/DEPENDENCY_VERIFICATION.json": {
+      "bytes": 914,
+      "sha256": "05aef10c3abc505110ce1d6fd9799200063c13fffc261d2d716a3e7b7912f41e"
+    },
+    "dependency_verification/FRESH_DOWNLOAD_VERIFIED.json": {
+      "bytes": 14914,
+      "sha256": "c16bdde148605f913a1917087e547f4675efd521d6079fbc0dfb4003b4de0a5c"
+    },
+    "dependency_verification/BASE_RESTORE_CURRENT.json": {
+      "bytes": 668,
+      "sha256": "7c9b8bb2455e2f34f6de2c2f21bcd392f6b622ef29ca8fb6bfc8d34aa292d829"
+    },
+    "preparation/prepare_candidate.py": {
+      "bytes": 2459,
+      "sha256": "7a641304c3093af7e08f79d1566ceb08a2aff810a17f52b7b0f13b93768302d8"
+    },
+    "preparation/fix_base_validator.py": {
+      "bytes": 1916,
+      "sha256": "6f7cd790e388cdc147baa2e6baba73b71f2127b528b22eb30cae19318c2f82e0"
+    },
+    "preparation/repin_candidate.py": {
+      "bytes": 1992,
+      "sha256": "719adcbf3ee8899e28be77fcb81bf9954542b37809433a7eddcafdb0607c32d3"
+    },
+    "preparation/finalize_candidate.py": {
+      "bytes": 4549,
+      "sha256": "bce6f67611fe595e158485716ed49321080ddd1609d26b81e83f705653593a4f"
+    }
+  }
+}

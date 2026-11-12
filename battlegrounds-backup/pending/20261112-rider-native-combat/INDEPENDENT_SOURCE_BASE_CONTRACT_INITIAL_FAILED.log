@@ -1,0 +1,14 @@
+Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org
+
+ERROR: Attempt to open script '/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/rider_sources_before_pool_fix.gd' resulted in error 'File not found'.
+   at: load_source_code (modules/gdscript/gdscript.cpp:1127)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/source_base_contract.gd:11)
+ERROR: Failed loading resource: /workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/rider_sources_before_pool_fix.gd.
+   at: _load (core/io/resource_loader.cpp:343)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/source_base_contract.gd:11)
+SCRIPT ERROR: Invalid access to property or key 'EXPECTED_CURRENT' on a base object of type 'null instance'.
+          at: _initialize (/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/source_base_contract.gd:14)
+          GDScript backtrace (most recent call first):
+              [0] _initialize (/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/source_base_contract.gd:14)

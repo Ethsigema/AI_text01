@@ -1,0 +1,31 @@
+Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org
+
+PASS empty_native_layers
+PASS native_trident_layer
+PASS additive_layer_sum
+PASS reject_malformed_3
+PASS reject_malformed_4
+PASS reject_malformed_5
+PASS reject_malformed_6
+PASS reject_malformed_7
+PASS reject_malformed_8
+PASS reject_malformed_9
+PASS reject_malformed_10
+PASS reject_malformed_11
+PASS reject_malformed_12
+PASS reject_malformed_13
+PASS reject_malformed_14
+PASS reject_malformed_15
+PASS reject_malformed_16
+PASS reject_malformed_17
+PASS reject_malformed_18
+PASS reject_malformed_19
+PASS reject_noninteger_body_attack
+PASS reject_noninteger_body_health
+PASS reject_noninteger_body_max_health
+PASS reject_health_above_max
+PASS attack_sum_overflow_exact_error
+PASS health_sum_overflow_exact_error
+PASS max_safe_native_expiry_boundary
+PASS positive_health_remaining_required
+RESULT passed=28 failed=0

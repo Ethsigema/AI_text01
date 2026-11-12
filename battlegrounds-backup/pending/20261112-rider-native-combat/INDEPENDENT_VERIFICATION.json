@@ -1,0 +1,152 @@
+{
+  "status": "PASS_REMOTE_SOURCE_RESTORED_ALL_FINAL_TESTS_AND_POST_TEST_REHASH",
+  "source_commit": "60626278ad072bf8fc7275a79739196af4f1fe07",
+  "verified_at_utc": "2026-11-12T03:13:25.880747+00:00",
+  "source_map_sha256": "7841925369aed679fe017ef6b91f98132424f74cd574a0bb3447724fdd94d8c2",
+  "trees": {
+    "restored_rider_candidate": {
+      "files": 27942,
+      "bytes": 1549765294,
+      "aggregate_sha256": "039f528808550215ac01ec26636a31ae297c24ab7d6a95390aac71ae11c2903d",
+      "missing": [],
+      "extra": [],
+      "mismatched": []
+    },
+    "run_rider_candidate": {
+      "files": 27942,
+      "bytes": 1549765294,
+      "aggregate_sha256": "039f528808550215ac01ec26636a31ae297c24ab7d6a95390aac71ae11c2903d",
+      "missing": [],
+      "extra": [],
+      "mismatched": []
+    }
+  },
+  "tests": {
+    "real_combat_matrix": {
+      "source": "tests/rider_20261112/real_combat_matrix.gd",
+      "test_sha256": "6261d4f1ea3dc779d1feaebd69d3f03b35393b0b639399f5e8dbf49c6c65b06a",
+      "log_sha256": "bbc0dacc49835cb7ad2be01501a814ed92330bc11b950be2b03e68f29fa64a9f",
+      "result": {
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/run_rider_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/real_combat_matrix.gd"
+        ],
+        "exit": 0,
+        "reason": "exited",
+        "elapsed": 197.42656909000016,
+        "sampled_process_group_peak_rss": 3025117184,
+        "rss_soft_limit": 4294967296,
+        "available_start": 9494855680,
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "timeout_seconds": 600
+      },
+      "source_snapshot_matches": true
+    },
+    "source_base_contract_complete": {
+      "source": "tests/rider_20261112/source_base_contract.gd",
+      "test_sha256": "69ef6c68fa780b6acb35743f789b7f619a79a0bc4325f331d4e0014be14cfea7",
+      "log_sha256": "d900c226b334ecd58ecdcb5d42b5515bd247afe8da5a7fd11f12740dbe808fe7",
+      "result": {
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/run_rider_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/source_base_contract_complete.gd"
+        ],
+        "exit": 0,
+        "reason": "exited",
+        "elapsed": 0.5115093060003346,
+        "sampled_process_group_peak_rss": 65548288,
+        "rss_soft_limit": 4294967296,
+        "available_start": 9572769792,
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "timeout_seconds": 60
+      },
+      "source_snapshot_matches": true
+    },
+    "threshold_and_expiry": {
+      "source": "tests/shatterer_20261112/threshold_and_expiry.gd",
+      "test_sha256": "a16d98b4c68d527135ea25df11339ed0bd479e0542eb1f3fb0fa9bf6e4208e62",
+      "log_sha256": "32cdbbd499806249d4d54afb3a033655b970e4fa07ecb22fd5bbf4de116b178d",
+      "result": {
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/run_rider_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/threshold_and_expiry.gd"
+        ],
+        "exit": 0,
+        "reason": "exited",
+        "elapsed": 152.99198326199985,
+        "sampled_process_group_peak_rss": 3011813376,
+        "rss_soft_limit": 4294967296,
+        "available_start": 9552007168,
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "timeout_seconds": 240
+      },
+      "source_snapshot_matches": true
+    },
+    "temporary_contract": {
+      "source": "tests/shatterer_20261112/temporary_contract.gd",
+      "test_sha256": "16e13ac13249116383b2889bcfd76eeaccf83e09e97aafc319d3a5c8af96e2f2",
+      "log_sha256": "72ff365cabd39dda0ac383288fe517df79b421bf0234b8ef6d01ccdfc112c4b6",
+      "result": {
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/run_rider_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/temporary_contract.gd"
+        ],
+        "exit": 0,
+        "reason": "exited",
+        "elapsed": 0.2670296539999981,
+        "sampled_process_group_peak_rss": 67551232,
+        "rss_soft_limit": 4294967296,
+        "available_start": 9554419712,
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "timeout_seconds": 240
+      },
+      "source_snapshot_matches": true
+    }
+  },
+  "earlier_harness_failure": {
+    "test": "source_base_contract",
+    "reason": "Standalone copied script lacked its old-source fixture; Godot init error left process until timeout. Failure retained; copied fixture from remote-restored tree and reran as source_base_contract_complete. No game source edits.",
+    "result": {
+      "command": [
+        "godot",
+        "--headless",
+        "--path",
+        "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/run_rider_candidate",
+        "--script",
+        "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/source_base_contract.gd"
+      ],
+      "exit": -15,
+      "reason": "timeout",
+      "elapsed": 240.0195390179997,
+      "sampled_process_group_peak_rss": 64724992,
+      "rss_soft_limit": 4294967296,
+      "available_start": 9551863808,
+      "hard_limit": "unavailable: cgroup filesystem not exposed",
+      "timeout_seconds": 240
+    }
+  },
+  "limitations": [
+    "finite Rider domain only",
+    "no nonempty combat player spell journal",
+    "no full match/default pool/old saves",
+    "no random shop or triple acquisition",
+    "no independent reconstruction of all injured recipient health values",
+    "original invisible worktree and unknown unuploaded changes not recovered"
+  ]
+}

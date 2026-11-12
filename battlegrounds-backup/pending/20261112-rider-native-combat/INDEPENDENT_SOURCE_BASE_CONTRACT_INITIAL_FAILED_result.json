@@ -1,0 +1,18 @@
+{
+  "command": [
+    "godot",
+    "--headless",
+    "--path",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/run_rider_candidate",
+    "--script",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112_rider/fresh_remote/independent_tests/source_base_contract.gd"
+  ],
+  "exit": -15,
+  "reason": "timeout",
+  "elapsed": 240.0195390179997,
+  "sampled_process_group_peak_rss": 64724992,
+  "rss_soft_limit": 4294967296,
+  "available_start": 9551863808,
+  "hard_limit": "unavailable: cgroup filesystem not exposed",
+  "timeout_seconds": 240
+}
