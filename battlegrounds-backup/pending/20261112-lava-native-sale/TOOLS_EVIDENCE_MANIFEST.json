@@ -1,0 +1,82 @@
+{
+  "archive_sha256": "0a379b0186872d8c3870cd9958cec6d222330e7d92d87a0900d40c7e45fbf84a",
+  "members": {
+    "TOOL_SNAPSHOT_NOTE.json": {
+      "bytes": 223,
+      "sha256": "f18546b7db7e9f70bf0547671f770e3e6e95c367e3464d12b47c783de854eafe"
+    },
+    "fresh_remote/download_fresh.py": {
+      "bytes": 1862,
+      "sha256": "cd6d6326f785834ddd1f77939370fa4806db8ee5fd63066f8a41aa3c553acd08"
+    },
+    "fresh_remote/snapshot_tools/FIXED_REMOTE_73ef3f4_METADATA.json": {
+      "bytes": 24435,
+      "sha256": "0103d757e221d446db6d0b4bb59767056323779241d97b0c8d71844f6ba9673b"
+    },
+    "fresh_remote/snapshot_tools/PREPARATION_VERIFIED.json": {
+      "bytes": 1314,
+      "sha256": "7b338b96dd305a0545cec1c7ce89615f07c15a79c4803e440c9a80acd2651191"
+    },
+    "fresh_remote/snapshot_tools/add_frozen_evidence.py": {
+      "bytes": 4112,
+      "sha256": "7f9f615d0929dde7da143b885dc2d7d873463d160de379e929760c2de0261745"
+    },
+    "fresh_remote/snapshot_tools/build_unaccepted.py": {
+      "bytes": 8220,
+      "sha256": "e1f8395c4880dab6aecb6be4b8a81ea9463c920339a5c49ee0225225afff6549"
+    },
+    "fresh_remote/snapshot_tools/common.py": {
+      "bytes": 1484,
+      "sha256": "9417e09773666ddcf4460ffcfc89bcea0dc56335f7ee7f49d6e34dcbbd778827"
+    },
+    "fresh_remote/snapshot_tools/restore_fixed_remote.py": {
+      "bytes": 5391,
+      "sha256": "506913b7d0d46f431b20335e51121c1fae5a8fb789af967adf30a2168fd597f3"
+    },
+    "fresh_remote/snapshot_tools/verify_remote_evidence.py": {
+      "bytes": 1495,
+      "sha256": "a6e1a058c65c1bf9c21650186ea9f05c85c0c5426a321e1d708f5232c0ef7ca8"
+    },
+    "fresh_remote/verify_baseline.py": {
+      "bytes": 4098,
+      "sha256": "7284a7ee480ec1596af34335616ec3d8e5830c4cba27a2fa0dc6ea4f60b3519e"
+    },
+    "preparation/PREPARATION_DEPENDENCIES_SHA256.json": {
+      "bytes": 2170,
+      "sha256": "e0ae07279d06f71f7d19b0b6850fdbc23bfd50402679512477cfc91d91ca94d8"
+    },
+    "preparation/RUNNER_HELP.txt": {
+      "bytes": 1632,
+      "sha256": "04eb97e71da4f1545f15ae2968ebbf6898dc4ac3c937db9772506b177b5a6d1f"
+    },
+    "preparation/RUNNER_STATIC_NOTES.md": {
+      "bytes": 3042,
+      "sha256": "7da5230708b1aee6d87b0a80f7f712d074b271395da94dddebb6d5c0719333fe"
+    },
+    "preparation/SYNTHETIC_SALE_VALIDATOR_RESULT.json": {
+      "bytes": 519,
+      "sha256": "5e9986a2c4d4ece0608e0a7a73f2efad5a89e8606b2b1ca9b7d95099f5c7b338"
+    },
+    "preparation/audit_lava_sale_attempt.py": {
+      "bytes": 3568,
+      "sha256": "af70b929e14231f0c6d0f15a4f6358790b2816f922377980f9ea1c402562f0a4"
+    },
+    "preparation/prepare_restore_receipt.py": {
+      "bytes": 6290,
+      "sha256": "f06d1c1c9b3d5717ac3eb2d661e203535230b28ef811cb32c58f652f7716973d"
+    },
+    "preparation/repin_candidate.py": {
+      "bytes": 1928,
+      "sha256": "64018d0b4963637b984d76ef58fddd75fa4dd2156f57b9515e081760e893fa4f"
+    },
+    "preparation/run_remote_lava_sale.py": {
+      "bytes": 22830,
+      "sha256": "f94639381df808f94bf62bd2de0a0c0dd6b46237c781dde9a5ace4fcb3425813"
+    },
+    "preparation/synthetic_sale_validator_tests.py": {
+      "bytes": 4217,
+      "sha256": "e71b951d525b13a2b15d0fd3022d145bb307f11c94dc08a4b427f438c4d01714"
+    }
+  },
+  "source_commit": "73ef3f42e2a52b71aacd29fac2d6392731015d9d"
+}

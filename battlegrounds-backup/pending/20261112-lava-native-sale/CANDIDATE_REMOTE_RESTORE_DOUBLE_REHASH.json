@@ -1,0 +1,26 @@
+{
+  "checked_at_utc": "2026-11-12T12:31:30.617655+00:00",
+  "game_started": false,
+  "gameplay_acceptance": false,
+  "source_commit": "73ef3f42e2a52b71aacd29fac2d6392731015d9d",
+  "source_map_sha256": "1d03c1d09e8a8387dd1943aae62a8c368bf509a859f4fffd8d8fafd25b8c4084",
+  "status": "PASS_READ_ONLY_CANDIDATE_AND_INDEPENDENT_REMOTE_RESTORE_EXACT",
+  "trees": {
+    "candidate": {
+      "aggregate_sha256": "c6b2446cac072bb68b8a3cd5937218732bb747fcf08512510a370233ea4fdedd",
+      "bytes": 1550759040,
+      "extra": [],
+      "files": 27975,
+      "mismatched": [],
+      "missing": []
+    },
+    "restored_snapshot": {
+      "aggregate_sha256": "c6b2446cac072bb68b8a3cd5937218732bb747fcf08512510a370233ea4fdedd",
+      "bytes": 1550759040,
+      "extra": [],
+      "files": 27975,
+      "mismatched": [],
+      "missing": []
+    }
+  }
+}
