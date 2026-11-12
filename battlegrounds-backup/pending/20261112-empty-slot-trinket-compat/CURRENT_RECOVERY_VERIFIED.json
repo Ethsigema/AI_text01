@@ -1,0 +1,31 @@
+{
+  "checked_at_utc": "2026-11-12T08:56:38.081441+00:00",
+  "fixed_commit": "fd0355f88ef67f7e05fb5eae8c7e677356624734",
+  "fresh_download_bytes": 332371541,
+  "fresh_download_files": 60,
+  "game_started": false,
+  "old_download_bytes_reused": false,
+  "old_files_preserved": true,
+  "source_commit": "3da3922e990fd2ed2637d1cc95c8a6e11322e32f",
+  "source_map_sha256": "7701a57e0cf2e97b82149be5ad6cc3d82e38a443b56477998daa80b4350f5014",
+  "status": "PASS_CURRENT_ENVIRONMENT_INDEPENDENT_RESTORE_AND_DOUBLE_TREE_REHASH",
+  "trees": {
+    "restored_base": {
+      "aggregate_sha256": "5ba04ef124fc78cf20e2a942a60589fb92dc76e6808155648226a534a4599e05",
+      "bytes": 1549340406,
+      "extra": [],
+      "files": 27920,
+      "mismatched": [],
+      "missing": []
+    },
+    "restored_tier5": {
+      "aggregate_sha256": "ca24bc997ed0661ea9b5c45194fb19c76777d66b1a0bbfaf19724b580d0b6612",
+      "bytes": 1550610791,
+      "extra": [],
+      "files": 27965,
+      "mismatched": [],
+      "missing": []
+    }
+  },
+  "uploads": 0
+}
