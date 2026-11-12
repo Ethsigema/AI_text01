@@ -1,0 +1,70 @@
+{
+  "aggregate_sha256": "6e7409fe6c9889e6b2ae0c7515764646bbaf8dd5454c20fffd986aabec59fd72",
+  "full_game_acceptance": false,
+  "game_started_by_packager": false,
+  "outcome": "success",
+  "provenance": {
+    "corrected_game_validation_receipt": "/workspace/scratch/dd4f12b08ec0/develop_lava_carried_sale_20261112/preparation/recovery_v2/lava_carried_sale_real_matrix_VALIDATED.json",
+    "corrected_game_validation_sha256": "c62d73952c86db63e488969dbb576bb47a30d39af27b42021bb38112dac75194",
+    "failure_preservation_commit": "985a11e784e1e80ff0390c4707c2043d430543f4",
+    "failure_preservation_receipt_sha256": "3d49c2da51a30a7659d99a917c7da0faf1f3e91a083813c59ac023be33e6f68a",
+    "full_game_processes_across_attempts": 1,
+    "game_rerun": false,
+    "new_full_game_processes_in_resume": 0,
+    "original_attempt_directory": "/workspace/scratch/dd4f12b08ec0/develop_lava_carried_sale_20261112/remote_snapshot_32a8b33/independent_tests",
+    "original_attempt_pinned_sha256": "8df064b4a574ccaeb3a4b2969de0ffdfd1415b1d1b3519210e9a2d27ad528ccd",
+    "original_attempt_status": "FAILED_OR_INCOMPLETE_ATTEMPT",
+    "original_game_process_exit": 0,
+    "original_pure_omitted": [
+      "lava_carried_sale_content_contract",
+      "lava_buffed_sale_content_contract",
+      "mini_after_cast_content_contract",
+      "mini_sale_content_contract",
+      "lava_permanent_content_contract",
+      "lava_rebuy_content_contract",
+      "lava_sale_content_contract",
+      "lava_content_contract",
+      "tier6_content_contract",
+      "tier5_content_contract",
+      "source_eot_contract",
+      "hand_shape_contract",
+      "seafloor_annotation_contract"
+    ],
+    "original_validator_error": "ValueError(('Required PASS marker multiplicity', 'first', 1))",
+    "original_validator_failed": true,
+    "pure_processes_planned_in_resume": 13,
+    "resume_directory": "/workspace/scratch/dd4f12b08ec0/develop_lava_carried_sale_20261112/remote_snapshot_32a8b33/independent_pure_resume_v2",
+    "runtime_trees": [
+      "/workspace/scratch/dd4f12b08ec0/develop_lava_carried_sale_20261112/remote_snapshot_32a8b33/single_tree_restore/restored_snapshot"
+    ],
+    "source_integrity_trees": [
+      "/workspace/scratch/dd4f12b08ec0/develop_lava_carried_sale_20261112/candidate",
+      "/workspace/scratch/dd4f12b08ec0/develop_lava_carried_sale_20261112/remote_snapshot_32a8b33/single_tree_restore/restored_snapshot"
+    ]
+  },
+  "source_commit": "32a8b33abe2bfb980c5ec890e7950f6b5a9f1346",
+  "source_integrity_ok": true,
+  "source_map_sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef",
+  "trees": {
+    "candidate": {
+      "aggregate_sha256": "6e7409fe6c9889e6b2ae0c7515764646bbaf8dd5454c20fffd986aabec59fd72",
+      "bytes": 1550944027,
+      "extra": [],
+      "files": 27994,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_carried_sale_20261112/candidate"
+    },
+    "restored_snapshot": {
+      "aggregate_sha256": "6e7409fe6c9889e6b2ae0c7515764646bbaf8dd5454c20fffd986aabec59fd72",
+      "bytes": 1550944027,
+      "extra": [],
+      "files": 27994,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_carried_sale_20261112/remote_snapshot_32a8b33/single_tree_restore/restored_snapshot"
+    }
+  }
+}

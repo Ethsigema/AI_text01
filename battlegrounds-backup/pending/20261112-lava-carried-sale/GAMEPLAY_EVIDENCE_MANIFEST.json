@@ -1,0 +1,813 @@
+{
+  "archive_sha256": "cbea272890b0802f62a9dc03d524d1b2396d015bc586becd97f8f3d67d79ae07",
+  "members": {
+    "EARLY_PUBLICATION_VERIFIED.json": {
+      "bytes": 11809,
+      "sha256": "e4d4b6c593ba93362542136d64d94469db6e75bb1faaec7538a4ddea162b45ad"
+    },
+    "PACKAGING_COMBINED_POST_TEST_REHASH.json": {
+      "bytes": 3375,
+      "sha256": "ba9b33b72d9c5470f45694f1b18714aaf7ff2b07a44aa4b318098f0ee8c4b637"
+    },
+    "RESTORE_RECEIPT_PUBLICATION.json": {
+      "bytes": 333,
+      "sha256": "8362399c297e5669307047d31232aa6cf4da8eb8ec4b9dd8dd7ae1aef4973c8e"
+    },
+    "evidence/LAUNCH_PREFLIGHT_PATH_CORRECTION.json": {
+      "bytes": 446,
+      "sha256": "2b71318d4b3d18af7e1af9e3f9d1899009ef079b6186afb300b01a23c88ddd93"
+    },
+    "preparation/recovery_v2/ACTUAL_RECOVERY_COMMANDS_V2.json": {
+      "bytes": 698,
+      "sha256": "fee8b59584dfc0d43f136c1edb2af29006fdba4d2a04d57b83055d2c681276f2"
+    },
+    "preparation/recovery_v2/AUDIT_RECOVERED_HELP_V2.txt": {
+      "bytes": 197,
+      "sha256": "c3ccf91b49ed0f73ee3b1c871631bfdccd80c2fa417aced3ae19e701ea6a66e1"
+    },
+    "preparation/recovery_v2/CONFIGURATION_ONLY_V2.json": {
+      "bytes": 4091,
+      "sha256": "5a18f590e09abddf7095ca1c268f064ff82d60782a182f5f003b5e10889d062d"
+    },
+    "preparation/recovery_v2/ORIGINAL_ATTEMPT_PINNED.json": {
+      "bytes": 11340,
+      "sha256": "8df064b4a574ccaeb3a4b2969de0ffdfd1415b1d1b3519210e9a2d27ad528ccd"
+    },
+    "preparation/recovery_v2/ORIGINAL_GAME_REVALIDATED_V2.json": {
+      "bytes": 8043,
+      "sha256": "7ba34454f01e185eca84d844fe28e661033edaea5aa59cb65fd111cf3b926c13"
+    },
+    "preparation/recovery_v2/PREPARATION_PATH_CORRECTION.json": {
+      "bytes": 349,
+      "sha256": "844ef734405a655ee2908f441df7865e8a05eb7f6fee9359316e0ca0d8befa22"
+    },
+    "preparation/recovery_v2/PUBLICATION_COMMANDS_V2.md": {
+      "bytes": 1951,
+      "sha256": "a667b240bb34903cf1c2bbef010681b338593d59e81acc26e60707bbff9c42da"
+    },
+    "preparation/recovery_v2/PUBLICATION_COMMANDS_V3.md": {
+      "bytes": 2154,
+      "sha256": "89b93f76ebe33ee37648f1dceb1c8af3d1190f237b66813ec659a3cbf1103180"
+    },
+    "preparation/recovery_v2/PUBLICATION_TOOLS_FROZEN_V2.json": {
+      "bytes": 1381,
+      "sha256": "6db02997a8cd9dca587f8f40b924a9436c0c382fb535cc5bc4b53dec47b4e3d2"
+    },
+    "preparation/recovery_v2/PUBLICATION_TOOLS_FROZEN_V3.json": {
+      "bytes": 1723,
+      "sha256": "df52d59a3491ea2593de4f65f4ced1e1f90f25da89b0446ee536c2d13d3883bf"
+    },
+    "preparation/recovery_v2/PUBLICATION_V3_STATIC_LOCK_AND_V2_PRESERVATION.json": {
+      "bytes": 190,
+      "sha256": "6092291b9aedd032851a48a8ce044a1005649d26cea78bd52805deb2fc597c6a"
+    },
+    "preparation/recovery_v2/RECOVERY_TOOLS_FROZEN_V2.json": {
+      "bytes": 3358,
+      "sha256": "ac2cff00b1ba98ecbcbd7d5c05a30435143498ccc2144a06898cb4a659edaae7"
+    },
+    "preparation/recovery_v2/REVALIDATE_HELP_V2.txt": {
+      "bytes": 193,
+      "sha256": "047c0c2df43c672d2e23e57de87b57931886568d3e7bcde955774515040420a9"
+    },
+    "preparation/recovery_v2/RUN_PURE_RESUME_HELP_V2.txt": {
+      "bytes": 201,
+      "sha256": "876f873139e77b44d50bb5cec98547f0bfaf0c404ad549c6a5159cc6f59849cd"
+    },
+    "preparation/recovery_v2/SYNTHETIC_ACTUAL_REGRESSION_V2.json": {
+      "bytes": 10375,
+      "sha256": "7b75902ac3df0a5c42e8114f56f3b859d74aad0ee226b6a49dd0bf00288cad4e"
+    },
+    "preparation/recovery_v2/SYNTHETIC_PUBLICATION_FINAL_V2.json": {
+      "bytes": 279,
+      "sha256": "61c49d7439b5fa5eea1de9dd16c249ae9c0d79fc9309ad3ca9c8b541f5db4caf"
+    },
+    "preparation/recovery_v2/SYNTHETIC_PUBLICATION_V2.json": {
+      "bytes": 279,
+      "sha256": "61c49d7439b5fa5eea1de9dd16c249ae9c0d79fc9309ad3ca9c8b541f5db4caf"
+    },
+    "preparation/recovery_v2/SYNTHETIC_PUBLICATION_V3.json": {
+      "bytes": 279,
+      "sha256": "61c49d7439b5fa5eea1de9dd16c249ae9c0d79fc9309ad3ca9c8b541f5db4caf"
+    },
+    "preparation/recovery_v2/SYNTHETIC_SCHEMA_V2.json": {
+      "bytes": 3955,
+      "sha256": "40c4ce9ae3a623f9000d9c945c8ec4998e877f73e8a097c9c7a9df67e9357637"
+    },
+    "preparation/recovery_v2/audit_core_v2.py": {
+      "bytes": 6788,
+      "sha256": "74dcb7c93f7d8a2a4b311234167453724abe28e356813e38793f65ef797db807"
+    },
+    "preparation/recovery_v2/audit_recovered_v2.py": {
+      "bytes": 6829,
+      "sha256": "c1cb1597a2368d1e64b6b12480f0b4aaeeff0978e9e456dfcd28642ce8461ac2"
+    },
+    "preparation/recovery_v2/combined_publication_v2.py": {
+      "bytes": 7583,
+      "sha256": "f700bfb5da8f1efda35ba3d904a09b0d43fae9bc762ade87ce2bdcc8960fc71a"
+    },
+    "preparation/recovery_v2/combined_publication_v2_HELP.txt": {
+      "bytes": 198,
+      "sha256": "8ef2381b552e6c223e627bf701ef8fe13216a30cee21aa94fffd6ca98ccb75a3"
+    },
+    "preparation/recovery_v2/combined_publication_v3.py": {
+      "bytes": 7768,
+      "sha256": "67ee35b3d599504985ad5a00815e0b757ab41ce3473d1728e76e2731cebf9558"
+    },
+    "preparation/recovery_v2/combined_publication_v3_HELP.txt": {
+      "bytes": 198,
+      "sha256": "8c1228c40ea75eaf7e1f7e217e758b7767be83e82ddf74a03fcef96eb5ad4488"
+    },
+    "preparation/recovery_v2/lava_carried_sale_real_matrix_VALIDATED.json": {
+      "bytes": 20711,
+      "sha256": "c62d73952c86db63e488969dbb576bb47a30d39af27b42021bb38112dac75194"
+    },
+    "preparation/recovery_v2/prepare_combined_audit_v2.py": {
+      "bytes": 2236,
+      "sha256": "aee8150abe604ed4009543f06d5522a5f2d448d63402088f502ead18754279a4"
+    },
+    "preparation/recovery_v2/prepare_combined_audit_v2_HELP.txt": {
+      "bytes": 377,
+      "sha256": "0a0c501cb6ad2992410746a8a35ab991e4533a50ba6a66ecc518b21cf722a4b7"
+    },
+    "preparation/recovery_v2/prepare_combined_audit_v3.py": {
+      "bytes": 2362,
+      "sha256": "2bda0fd418c5ad57b6629419272a7c3711b781edd505db7b6085765af6ddd40e"
+    },
+    "preparation/recovery_v2/prepare_combined_audit_v3_HELP.txt": {
+      "bytes": 377,
+      "sha256": "cac9e608bef79071593ea52e72e13462ed4447ee14592e3842f5c64f2bd24e97"
+    },
+    "preparation/recovery_v2/publication_common_v2.py": {
+      "bytes": 2229,
+      "sha256": "86978597aedc410c9b9702d2a729e955ad029cbd09cf9b17fa68bde3bec1ddaf"
+    },
+    "preparation/recovery_v2/publication_common_v3.py": {
+      "bytes": 2538,
+      "sha256": "0982be38106ccf13020789702c6bd6a3f6e462e8bd7389766a9148d60c791b6b"
+    },
+    "preparation/recovery_v2/recovery_common.py": {
+      "bytes": 7338,
+      "sha256": "e9774bc36febc3ca8397ebcbf2c69008e81151a85a76bb31424cc27a4d5e7061"
+    },
+    "preparation/recovery_v2/render_combined_v2.py": {
+      "bytes": 359,
+      "sha256": "fb0cefcccb2b4db4cbce383603f5cf04aa45a4f3e10c0c4b7a0b467a5931d8dd"
+    },
+    "preparation/recovery_v2/render_combined_v2_HELP.txt": {
+      "bytes": 193,
+      "sha256": "8cd29e11d726c73502ea8c9b938e61bf3d78633866b137d2bc168b0d035c2a8c"
+    },
+    "preparation/recovery_v2/render_combined_v3.py": {
+      "bytes": 359,
+      "sha256": "3f0fe5fa28c89fde25fc6cfb9272faf09dd0c205205d1ca809eb39f9020fcb42"
+    },
+    "preparation/recovery_v2/render_combined_v3_HELP.txt": {
+      "bytes": 193,
+      "sha256": "4a55dd0963299e31956bc4c5d112fbe52574aa4bfba57c0efadd52b0a9fccc23"
+    },
+    "preparation/recovery_v2/revalidate_original_v2.py": {
+      "bytes": 1016,
+      "sha256": "3f2f206638ecb6493cfa7a45a93574fd83d4241e4083ccc691fa586a827ab1c1"
+    },
+    "preparation/recovery_v2/run_pure_resume_v2.py": {
+      "bytes": 6686,
+      "sha256": "594ad384e974651cf154d7e901fefd9bebb0537286e79d558cf1bd6590d828de"
+    },
+    "preparation/recovery_v2/test_actual_regression_v2.py": {
+      "bytes": 4312,
+      "sha256": "7ebbb82bc938ab32bddef66449639d70c84593686a40d7ea892ad93c269be58d"
+    },
+    "preparation/recovery_v2/test_combined_publication_v2.py": {
+      "bytes": 1459,
+      "sha256": "0a3e9f8e88b432805f2a6a3f5374a80224655a39460a3e96c0d953a67398d3e8"
+    },
+    "preparation/recovery_v2/test_combined_publication_v3.py": {
+      "bytes": 1459,
+      "sha256": "ef2b9178c814f955e0ae1dbda9bd356b635b159a10f7a31d5b7daa4bc7cd08e6"
+    },
+    "preparation/recovery_v2/test_schema_v2.py": {
+      "bytes": 10301,
+      "sha256": "a6d8c70e1a3f5ca202a8fa9ab598847169f8d4ccbce91cb1f6abbf26a88687a0"
+    },
+    "preparation/recovery_v2/validator_v2.py": {
+      "bytes": 62123,
+      "sha256": "a0c8e0c81e08280987dd8de80a9557b0526070c0fa440098c379ab04662010e8"
+    },
+    "preparation/recovery_v2/verify_combined_publication_v2.py": {
+      "bytes": 3633,
+      "sha256": "185604381af542b617b625d967b8af5bbef8a2533c06d7eabe4592543d0606a8"
+    },
+    "preparation/recovery_v2/verify_combined_publication_v2_HELP.txt": {
+      "bytes": 307,
+      "sha256": "7c0b18bb4ef993890badf0238dec80165fc0f3ddabaf4d0b85a719673eee35e2"
+    },
+    "preparation/recovery_v2/verify_combined_publication_v3.py": {
+      "bytes": 3633,
+      "sha256": "8b965b82cee75e9851c5846fe51254d7a2064af46cdf1e5f10f0f0cebb2d2a5d"
+    },
+    "preparation/recovery_v2/verify_combined_publication_v3_HELP.txt": {
+      "bytes": 307,
+      "sha256": "22f28f8da22773cebdc6d4eff986b30845d0ee21bce3814e89641b1a6046bb7a"
+    },
+    "remote_snapshot_32a8b33/FRESH_PACKAGE_DOWNLOAD_VERIFIED.json": {
+      "bytes": 7224,
+      "sha256": "aaf0bcafe08858d950903ab3979be6317d7adf8c80fba4322b50ba89726eb3c2"
+    },
+    "remote_snapshot_32a8b33/INDEPENDENT_RESTORE_VERIFIED.json": {
+      "bytes": 1028,
+      "sha256": "5d839423c072f3bd569fb020a31751bbefe2692a68d5dad13a21afbbdc3ecdae"
+    },
+    "remote_snapshot_32a8b33/RECOVERED_GAME_VERIFICATION_V2.json": {
+      "bytes": 71350,
+      "sha256": "05f9ca1252b7187e9a5d67f5e38e8974042e99f9b4c366587f774b07caf117c5"
+    },
+    "remote_snapshot_32a8b33/RECOVERED_POST_ATTEMPT_AUDIT_V2.json": {
+      "bytes": 51448,
+      "sha256": "576417cad06c956a0850ad3e4a4fd228add3113d1f8826ae8f1c7a2acbe00d71"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/ATTEMPT_SUMMARY.json": {
+      "bytes": 5189,
+      "sha256": "d6c8f79f834c3484a9def0cc6a6ebe91e2b5402af8c3b82f92e7c83145e21506"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/AUDIT_V2_candidate_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/AUDIT_V2_restored_snapshot_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/FINAL_candidate_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/FINAL_restored_snapshot_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/INITIAL_candidate_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/INITIAL_restored_snapshot_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/PREPARED_FROM_REMOTE.json": {
+      "bytes": 10899,
+      "sha256": "71d90e97f6703d95a30ca2c9caaaafd041639e2d2afddb9f380821eb35fa7de9"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/darkcrest_sources_archived.gd": {
+      "bytes": 168341,
+      "sha256": "aab40e4847ab19b74f3e24008d38e28e75642cd84323e0768b82abf99d7285ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/hand_shape_contract.gd": {
+      "bytes": 64,
+      "sha256": "5996cd153040c5dbe63ca9a85827a3971bb1169fd99c7de13a3fc2982a643bff"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/hand_shape_contract.log": {
+      "bytes": 7814,
+      "sha256": "27558fcf61df62562c3b5a8c3db35a49ac636e0d551eb4f20cb39cb395c158d2"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/hand_shape_contract_LAUNCH_INTENT.json": {
+      "bytes": 1013,
+      "sha256": "b96ee98dece6b5bf14eafe978dde0ed3721d4b74d642b1d2a3548214d6e94236"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/hand_shape_contract_PRECHECK.json": {
+      "bytes": 1402,
+      "sha256": "fb10183f930a57322f9d8ed8796cc235a487e3df0f878607ce289398c0ee299a"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/hand_shape_contract_STARTED.json": {
+      "bytes": 1083,
+      "sha256": "f8da980db03475ffada7be2259f6488e9f371c9477abc10856f9c4fe2bfa4733"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/hand_shape_contract_VALIDATED.json": {
+      "bytes": 2704,
+      "sha256": "912c0403a894ea55934fe2907f241eb0c95f4c7e3c8fd3b93e11611d550da1f5"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/hand_shape_contract_result.json": {
+      "bytes": 2204,
+      "sha256": "c325f138e1f1113257f96e952699f586f953de607bbcad768d28cf6860265383"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/hand_shape_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_buffed_sale_content_contract.gd": {
+      "bytes": 78,
+      "sha256": "a0d87630a6851d7b08785d6b3081ac9702f4199e1784a0b5f1ce1994e1265ea3"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_buffed_sale_content_contract.log": {
+      "bytes": 2159,
+      "sha256": "f30d807df4a75471879432d0128023ddba6d408c9ce948d82c73fd6ffa038b16"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_buffed_sale_content_contract_LAUNCH_INTENT.json": {
+      "bytes": 1041,
+      "sha256": "85317aa23d58f10ac5db6b897f11c815eab622e38f23781aa59fd6a6413d59c9"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_buffed_sale_content_contract_PRECHECK.json": {
+      "bytes": 1430,
+      "sha256": "706e206656844877da7c8a92be551892b31ae3d528fbeffa0ea9fdb4afbbedba"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_buffed_sale_content_contract_STARTED.json": {
+      "bytes": 1110,
+      "sha256": "be7e6894cbd7821543585591f433930b3849b9051dcd08c018d56bbb2efcc1f0"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_buffed_sale_content_contract_VALIDATED.json": {
+      "bytes": 2760,
+      "sha256": "e8008b532e47093fd1745246694887615692500c85eba76045547197550e7594"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_buffed_sale_content_contract_result.json": {
+      "bytes": 2247,
+      "sha256": "b920f56999993f8683b0818cec866f147ca749c70f781c39b54b6198cac76491"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_buffed_sale_content_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_carried_sale_content_contract.gd": {
+      "bytes": 79,
+      "sha256": "2c8a1d7544d2174472ab12dc7a6d26c2c798c4f8a015a9284dfda9193d7095ca"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_carried_sale_content_contract.log": {
+      "bytes": 2913,
+      "sha256": "1e9f52213d56d49b1958d9d28793b4dea12e3ffaa076ba57334514e51092d2d1"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_carried_sale_content_contract_LAUNCH_INTENT.json": {
+      "bytes": 1043,
+      "sha256": "0d5d8ada756feb58cdf410ea7bec3cad92f92cd210da56930f567807b2e3d177"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_carried_sale_content_contract_PRECHECK.json": {
+      "bytes": 1432,
+      "sha256": "c9b1305ae3fc1cf565cbb697b7f23b49650e20bb7346c582f403bd3a18f34712"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_carried_sale_content_contract_STARTED.json": {
+      "bytes": 1111,
+      "sha256": "c12310c1d7ba80b4ed1fdf3b54c96a055e689308e350ac125c68adf990ee9330"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_carried_sale_content_contract_VALIDATED.json": {
+      "bytes": 2761,
+      "sha256": "1096f9b760057e9817fdee1841c648a32a5904295545b86a96b0355576c3bbd2"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_carried_sale_content_contract_result.json": {
+      "bytes": 2247,
+      "sha256": "1662c6a746a380e9968092ee2da52f09fb9a6f35b3900072eef807f6126edca2"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_carried_sale_content_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_content_contract.gd": {
+      "bytes": 66,
+      "sha256": "c3f41e2533f1237ca274e2370a97d1434b72bce028cc3597b0fd01afdbc9bf99"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_content_contract.log": {
+      "bytes": 8183,
+      "sha256": "cc2b436c81ce15bc2debe59942e91e2b854d1797175212d2c8a6a08e60c453c2"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_content_contract_LAUNCH_INTENT.json": {
+      "bytes": 1017,
+      "sha256": "e0d50fe5df9fcc2103589b75b8f9d75506fc2c4ceac101fa74c75448ca9eca64"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_content_contract_PRECHECK.json": {
+      "bytes": 1406,
+      "sha256": "6cf399617848ed1fb15a2d03515d9bd69261e310471cb788fef510bf8ad2df2a"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_content_contract_STARTED.json": {
+      "bytes": 1087,
+      "sha256": "b9c8a95f716ea46532d5ef0b50a397bf15bcab56540955e96f153eab5ea53d48"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_content_contract_VALIDATED.json": {
+      "bytes": 2713,
+      "sha256": "d1d526469af5594ebc12b427cb73cbf34d2ab34780803b9ad4e40b79fd8b679f"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_content_contract_result.json": {
+      "bytes": 2211,
+      "sha256": "22732e5e6ccd82fca37ace6adb364c17a8ce47af94ac94952dc688ae907146bf"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_content_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_permanent_content_contract.gd": {
+      "bytes": 76,
+      "sha256": "994277f5fc65ccf4fe9a48a7248ceb7bb6a1942fc3e3307c73a09ce99a8ed6fe"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_permanent_content_contract.log": {
+      "bytes": 14733,
+      "sha256": "c0f8f6c87a34704f7e2ff16ebf91a2f2f479db59ca00556c8af0a509edc247ac"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_permanent_content_contract_LAUNCH_INTENT.json": {
+      "bytes": 1037,
+      "sha256": "e8f12c02ad63abfbe02172d510d53b504a1058891b2ea5482dc9c178412dcf87"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_permanent_content_contract_PRECHECK.json": {
+      "bytes": 1426,
+      "sha256": "0476361776b2cb1bcde74f4fe5c917b8a27d26ec5fae194d4c0c8fc2f584de1a"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_permanent_content_contract_STARTED.json": {
+      "bytes": 1106,
+      "sha256": "13eb602e166d17cd5864f975505738ed8925100393b0980aa8d245845491b1ba"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_permanent_content_contract_VALIDATED.json": {
+      "bytes": 2753,
+      "sha256": "c1ec0cb6e913085e7d3e4b0c19c3b8cbd965a5b564c8c36ea8cabd37f0477173"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_permanent_content_contract_result.json": {
+      "bytes": 2241,
+      "sha256": "2c35d0b44e8cab6b03fe8270e6b558898d10a94206d7040df5cb061a28c759ee"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_permanent_content_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_rebuy_content_contract.gd": {
+      "bytes": 72,
+      "sha256": "5469d8e02e6d5c2a2c60f739e1e7a40d0c77afc2bdf5092a4e4a738c592650aa"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_rebuy_content_contract.log": {
+      "bytes": 4308,
+      "sha256": "25df15ef4acde4a5002d1adcb524f64de31f369e38ece065fe9a920849567a7f"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_rebuy_content_contract_LAUNCH_INTENT.json": {
+      "bytes": 1029,
+      "sha256": "539598906522a37fb333062de486026a9039f143f5441db72a4a4ed4a092d6b3"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_rebuy_content_contract_PRECHECK.json": {
+      "bytes": 1418,
+      "sha256": "208cdd2bb2f29df4dfc44f69c4fcdab24e3b33afe83652a37461aeec0dbe8d32"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_rebuy_content_contract_STARTED.json": {
+      "bytes": 1098,
+      "sha256": "390886e4aa0104987d26d73b849c45b53629d8cbac88c3f062696bdc5756314c"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_rebuy_content_contract_VALIDATED.json": {
+      "bytes": 2736,
+      "sha256": "f1dac53793097e3015c5ca8d1ee83413d98035d21fcff998d61431270feab98e"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_rebuy_content_contract_result.json": {
+      "bytes": 2229,
+      "sha256": "c9c28ccb4229888741db635c7c5df723804539b333f38ab061a91acbff1b13cd"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_rebuy_content_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_sale_content_contract.gd": {
+      "bytes": 71,
+      "sha256": "a20c4c9eaef7cce78302d1348faf4fd74c26040377a2f5c9f00824be7cfac06e"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_sale_content_contract.log": {
+      "bytes": 5705,
+      "sha256": "4bf527178693ebc77a7f58a8d7b9c47c682b04a44af486b355a8952d4c8eebcc"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_sale_content_contract_LAUNCH_INTENT.json": {
+      "bytes": 1027,
+      "sha256": "5c1e3669d683f8b5de30198d75cf8cc0ba251d63e988e2107ca28cc788dfa651"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_sale_content_contract_PRECHECK.json": {
+      "bytes": 1416,
+      "sha256": "727d9067b9ce06fb72eca4dae5489211d724d440dfa89bc6fb3382622d911a54"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_sale_content_contract_STARTED.json": {
+      "bytes": 1096,
+      "sha256": "c5b3a37518f17a08f2f8b86f44af98a4324b42ff9f80e06630f92f45ca15270c"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_sale_content_contract_VALIDATED.json": {
+      "bytes": 2733,
+      "sha256": "4767f47cb8e4ee57e7cadb051f55a2f41533c13f556c9c6210e221d49c94aa36"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_sale_content_contract_result.json": {
+      "bytes": 2226,
+      "sha256": "e7568705abb5ce7e3a860e47d6edbd822f9310a3780867c1fc2722899ad73a69"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/lava_sale_content_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_after_cast_content_contract.gd": {
+      "bytes": 77,
+      "sha256": "41c1c70e000dced8c572926b060972c1f7f6c888f04a4f018ee167a27fdc2cf0"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_after_cast_content_contract.log": {
+      "bytes": 3688,
+      "sha256": "5ccb1d2699265740f671a561739f4ce099393524a0ea84214e99ac544e3d2790"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_after_cast_content_contract_LAUNCH_INTENT.json": {
+      "bytes": 1039,
+      "sha256": "168c258db475627cb5264dbbe658bcd6aa492a55ef8dd865f59d62751d819ecc"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_after_cast_content_contract_PRECHECK.json": {
+      "bytes": 1428,
+      "sha256": "3eee6becf7cf96219cbf38652775ac37767a2be0694216c593855150b33a613b"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_after_cast_content_contract_STARTED.json": {
+      "bytes": 1108,
+      "sha256": "bbd7dd5daefcecf2171022d86c33b4f1d523739658fdbbafb78b9b28f9ace9dd"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_after_cast_content_contract_VALIDATED.json": {
+      "bytes": 2756,
+      "sha256": "7969cc72ba85b9b22ce26125b03ab206af77f3a15c0543279df7d82a5c60e4ea"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_after_cast_content_contract_result.json": {
+      "bytes": 2244,
+      "sha256": "871e6939ca02ddf7a93d1e1efeebc0a1450fa1886daaf15397900d6b69d0e923"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_after_cast_content_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_sale_content_contract.gd": {
+      "bytes": 71,
+      "sha256": "7b833343d7e9ffd02cc06063bce4d274a311f68aad3cd2fd7fc32486351d79e8"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_sale_content_contract.log": {
+      "bytes": 4531,
+      "sha256": "78e0f0cfda6b73a28a148b7a9a20321c992b760b7917d08611d7336a21d1a860"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_sale_content_contract_LAUNCH_INTENT.json": {
+      "bytes": 1027,
+      "sha256": "b9d57fd88cc9d752df4e4c67ee6be37279c778b37fa6d13dbdfcb4bb351cad4c"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_sale_content_contract_PRECHECK.json": {
+      "bytes": 1416,
+      "sha256": "1cd804a4da09102060c349cafac7d941d0d59647917abb75012652c4eb03cb41"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_sale_content_contract_STARTED.json": {
+      "bytes": 1096,
+      "sha256": "12a9fcc9caa8322db2674ea7d113f039eb90132f92f1ea2e8d18636eae194a05"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_sale_content_contract_VALIDATED.json": {
+      "bytes": 2733,
+      "sha256": "ab0fee3090a206a990ce99ef7f94acf7b65f51aacf70ec2b2965a54b991adeb6"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_sale_content_contract_result.json": {
+      "bytes": 2226,
+      "sha256": "0d5a2ba120b815910528f470c9adf0c3528324c3c1b51d73e47f82b06ad21476"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/mini_sale_content_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/seafloor_annotation_contract.gd": {
+      "bytes": 73,
+      "sha256": "661fada5df74ebbcfc5398af40e3a2a44118e2acece819c6083ec3e647c871d3"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/seafloor_annotation_contract.log": {
+      "bytes": 13472,
+      "sha256": "15d4458f7dab1dd44acd095f523c50faed18498f947ef66473e2b04c9cebe112"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/seafloor_annotation_contract_LAUNCH_INTENT.json": {
+      "bytes": 1031,
+      "sha256": "68b87bd68f717a5bfe4c7b8fc3e7b906b739544b8363c8667c8333369438df1c"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/seafloor_annotation_contract_PRECHECK.json": {
+      "bytes": 1420,
+      "sha256": "995b36d8545dd5b2a4f1eea91b7ee8c29c8bf4c0085db99587222ed6c3f8d4d0"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/seafloor_annotation_contract_STARTED.json": {
+      "bytes": 1101,
+      "sha256": "d2069a1bd6609241aad5097bf5df1b50698162671f0623a331499014f2d23949"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/seafloor_annotation_contract_VALIDATED.json": {
+      "bytes": 2740,
+      "sha256": "2fd0d56152b776f71aa5f93886f74a4bdeaeaac816a27a5a69044428c5d76317"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/seafloor_annotation_contract_result.json": {
+      "bytes": 2231,
+      "sha256": "41f11328ddbbceb17176419ebb7fdbc854f1a40fbcd15a20cde65a63f478be98"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/seafloor_annotation_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/source_eot_contract.gd": {
+      "bytes": 64,
+      "sha256": "4b8cf5cc20bf13c94c6b1757a0565acdde62297bb7a3e8d0acafbfef5c99d025"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/source_eot_contract.log": {
+      "bytes": 3057,
+      "sha256": "cd531c473dc115192227cd840cf7ec19cf45fbd9aeaccec8b2f2284db259da42"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/source_eot_contract_LAUNCH_INTENT.json": {
+      "bytes": 1013,
+      "sha256": "1b76a4d1a370b9ff4459966c9457eb5f02c66b601c15d6f69050610314cd73cf"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/source_eot_contract_PRECHECK.json": {
+      "bytes": 1402,
+      "sha256": "4f18624a1d48bf83a23f6e1bd4089cafdb0f576b9fa6ff675ec57decb084bc0f"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/source_eot_contract_STARTED.json": {
+      "bytes": 1083,
+      "sha256": "adac0d2b21e734bef17e8b8f6e7e632638c6c13dffe9a1dbfc675eb25c93a727"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/source_eot_contract_VALIDATED.json": {
+      "bytes": 2703,
+      "sha256": "11a2209ee6c0db1413696952133b0e029fe0621f878c87eda63ac96157bd6847"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/source_eot_contract_result.json": {
+      "bytes": 2204,
+      "sha256": "99c93027beef17ee69392a8ecfd69b293f504fd5948ee6082ba055a59bca6e3b"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/source_eot_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier5_content_contract.gd": {
+      "bytes": 67,
+      "sha256": "7aae9d95200bb67f5d35d56999f7ded7363e70009ab8acec0f6968aab8635899"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier5_content_contract.log": {
+      "bytes": 41504,
+      "sha256": "7712bc303f08530226d227aefaa0f7b912594b27f79f60414781c527c8787943"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier5_content_contract_LAUNCH_INTENT.json": {
+      "bytes": 1019,
+      "sha256": "7ade8b91dba0c0a2bd7c43ab3e24588af0e04edfcb63a9c9f3c606ebafebb33b"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier5_content_contract_PRECHECK.json": {
+      "bytes": 1408,
+      "sha256": "81bc6db097897901fd64a26446ee11268564ecf62ecd59a6a7dccc39c72a1565"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier5_content_contract_STARTED.json": {
+      "bytes": 1089,
+      "sha256": "e453c4a60ebb4ce9a5ba262deab4a0d0789e769beb7843bb14ab1fa2a4ca7836"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier5_content_contract_VALIDATED.json": {
+      "bytes": 2717,
+      "sha256": "55f5f570504bc0c49ff79e36d27e86b874f171920e2122f1a871062189e5b05e"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier5_content_contract_result.json": {
+      "bytes": 2214,
+      "sha256": "b8abd1279a97e0c85716665d7adeca96b58cfbb2c07def5340f58d2aa4d7d6bc"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier5_content_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier6_content_contract.gd": {
+      "bytes": 67,
+      "sha256": "d9f936e637ce55837cc7a60e512588c68259a83db3e1ca6af79081a5b66c98c8"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier6_content_contract.log": {
+      "bytes": 41760,
+      "sha256": "9db06cc43053de4220d03ebf4e9aa39320a31e7505164ad0124b9878cfc35e4e"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier6_content_contract_LAUNCH_INTENT.json": {
+      "bytes": 1019,
+      "sha256": "933cffb4a25a41303ea8ea71b4272ca69a642c0f58299722704bfb7e2e79d61a"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier6_content_contract_PRECHECK.json": {
+      "bytes": 1408,
+      "sha256": "1a684b6d3da45ea4e5b797a9cf5effc971b67bb95e58206685185ea60e531163"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier6_content_contract_STARTED.json": {
+      "bytes": 1089,
+      "sha256": "19e5399df9a31d861b8e3c1f9d438fb6b264eacf3529accb02c4286a0214b2c5"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier6_content_contract_VALIDATED.json": {
+      "bytes": 2716,
+      "sha256": "3ced7f6e5e42a453d285f10e838597059a1978b5770df6c28397df4a59ca999c"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier6_content_contract_result.json": {
+      "bytes": 2213,
+      "sha256": "b9d54b91fbbd834ef9c8972f1d3f0bfb867a3b8eb0764b703954af399bdc4b14"
+    },
+    "remote_snapshot_32a8b33/independent_pure_resume_v2/tier6_content_contract_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_tests/ATTEMPT_SUMMARY.json": {
+      "bytes": 2514,
+      "sha256": "b781cf47119d59379a1cef9cd959d921d96ed2d2374d7e97b833de276cdbcfdb"
+    },
+    "remote_snapshot_32a8b33/independent_tests/DARKCREST_LAVA_CARRIED_SALE_MATRIX_RESULT.json": {
+      "bytes": 15910,
+      "sha256": "824621cdf7657d342ec671661a14090f80784c41c0e956029c6e118b38464328"
+    },
+    "remote_snapshot_32a8b33/independent_tests/FINAL_candidate_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_tests/FINAL_restored_snapshot_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_tests/INITIAL_candidate_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_tests/INITIAL_restored_snapshot_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_tests/PREPARED_FROM_REMOTE.json": {
+      "bytes": 8415,
+      "sha256": "be84d5de4fc32c6f88d6ad08e83c6ba1cd5e62e09414a88cdbfa81b5d9998d3d"
+    },
+    "remote_snapshot_32a8b33/independent_tests/darkcrest_sources_archived.gd": {
+      "bytes": 168341,
+      "sha256": "aab40e4847ab19b74f3e24008d38e28e75642cd84323e0768b82abf99d7285ef"
+    },
+    "remote_snapshot_32a8b33/independent_tests/hand_shape_contract.gd": {
+      "bytes": 64,
+      "sha256": "5996cd153040c5dbe63ca9a85827a3971bb1169fd99c7de13a3fc2982a643bff"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_buffed_sale_content_contract.gd": {
+      "bytes": 78,
+      "sha256": "a0d87630a6851d7b08785d6b3081ac9702f4199e1784a0b5f1ce1994e1265ea3"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_carried_sale_content_contract.gd": {
+      "bytes": 79,
+      "sha256": "2c8a1d7544d2174472ab12dc7a6d26c2c798c4f8a015a9284dfda9193d7095ca"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_carried_sale_real_matrix.gd": {
+      "bytes": 74,
+      "sha256": "fc8faee086ddfed375af68362d9ed05e5d483e22d7e2e6841db76a982168e1f7"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_carried_sale_real_matrix.log": {
+      "bytes": 9396,
+      "sha256": "8cc894e7825b84fca3d93431faa12bcbe5642f5be889efcdafa82b444d334eac"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_carried_sale_real_matrix_LAUNCH_INTENT.json": {
+      "bytes": 1024,
+      "sha256": "b4012cde274ed6d17fb79856a500b7cd797572c642bd65a238924004b4238238"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_carried_sale_real_matrix_PRECHECK.json": {
+      "bytes": 1422,
+      "sha256": "dd66002172e669016a0df5e9e91250c0d55182880213adb075388d01e032a075"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_carried_sale_real_matrix_STARTED.json": {
+      "bytes": 1092,
+      "sha256": "28632d835feac9b67596ad3eb4e0c28816782da47f6f7843b446c7607d2c8aee"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_carried_sale_real_matrix_result.json": {
+      "bytes": 2228,
+      "sha256": "6f46362d064a17761819e829039f53170b76a3edad1727b1d477ec4d2013168e"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_carried_sale_real_matrix_source_map.json": {
+      "bytes": 4618450,
+      "sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_content_contract.gd": {
+      "bytes": 66,
+      "sha256": "c3f41e2533f1237ca274e2370a97d1434b72bce028cc3597b0fd01afdbc9bf99"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_permanent_content_contract.gd": {
+      "bytes": 76,
+      "sha256": "994277f5fc65ccf4fe9a48a7248ceb7bb6a1942fc3e3307c73a09ce99a8ed6fe"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_rebuy_content_contract.gd": {
+      "bytes": 72,
+      "sha256": "5469d8e02e6d5c2a2c60f739e1e7a40d0c77afc2bdf5092a4e4a738c592650aa"
+    },
+    "remote_snapshot_32a8b33/independent_tests/lava_sale_content_contract.gd": {
+      "bytes": 71,
+      "sha256": "a20c4c9eaef7cce78302d1348faf4fd74c26040377a2f5c9f00824be7cfac06e"
+    },
+    "remote_snapshot_32a8b33/independent_tests/mini_after_cast_content_contract.gd": {
+      "bytes": 77,
+      "sha256": "41c1c70e000dced8c572926b060972c1f7f6c888f04a4f018ee167a27fdc2cf0"
+    },
+    "remote_snapshot_32a8b33/independent_tests/mini_sale_content_contract.gd": {
+      "bytes": 71,
+      "sha256": "7b833343d7e9ffd02cc06063bce4d274a311f68aad3cd2fd7fc32486351d79e8"
+    },
+    "remote_snapshot_32a8b33/independent_tests/seafloor_annotation_contract.gd": {
+      "bytes": 73,
+      "sha256": "661fada5df74ebbcfc5398af40e3a2a44118e2acece819c6083ec3e647c871d3"
+    },
+    "remote_snapshot_32a8b33/independent_tests/source_eot_contract.gd": {
+      "bytes": 64,
+      "sha256": "4b8cf5cc20bf13c94c6b1757a0565acdde62297bb7a3e8d0acafbfef5c99d025"
+    },
+    "remote_snapshot_32a8b33/independent_tests/tier5_content_contract.gd": {
+      "bytes": 67,
+      "sha256": "7aae9d95200bb67f5d35d56999f7ded7363e70009ab8acec0f6968aab8635899"
+    },
+    "remote_snapshot_32a8b33/independent_tests/tier6_content_contract.gd": {
+      "bytes": 67,
+      "sha256": "d9f936e637ce55837cc7a60e512588c68259a83db3e1ca6af79081a5b66c98c8"
+    },
+    "research/ACTUAL_GAME_VALIDATOR_FAILURE_REVIEW.md": {
+      "bytes": 3327,
+      "sha256": "8dd998972f96f752fdd0c9bceae87206ea6fcc88d88a21dcfc4c58ecff7f0a47"
+    },
+    "research/V2_VALIDATOR_DIFF_REVIEW.md": {
+      "bytes": 1685,
+      "sha256": "0f95fc4388b33c5a18f685d992f3535df1f29a9e5f2f063a0cbfdb7b0bc67fca"
+    },
+    "validator_failure_backup_v1/PUBLICATION.json": {
+      "bytes": 367,
+      "sha256": "2ba4d81752f210554a564fd74e112a440709e3b025cf1ec0f56ac3cd80dfa292"
+    },
+    "validator_failure_backup_v1/PUBLICATION_VERIFIED.json": {
+      "bytes": 2061,
+      "sha256": "3d49c2da51a30a7659d99a917c7da0faf1f3e91a083813c59ac023be33e6f68a"
+    },
+    "validator_failure_backup_v1/UPLOAD_METADATA.json": {
+      "bytes": 1853,
+      "sha256": "2b8ec4c8728e2387ad70ed8a7f96daac5236dafd6fface985634d30783256954"
+    }
+  }
+}
