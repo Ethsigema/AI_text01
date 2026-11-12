@@ -1,0 +1,67 @@
+{
+  "added": {},
+  "modified": {
+    "core/darkcrest_mini.gd": {
+      "after": {
+        "bytes": 21694,
+        "sha256": "573f95f70a6a9810c4d031b23f1f97fdb18346b062c77d779d14b0f0561e73ac"
+      },
+      "before": {
+        "bytes": 21664,
+        "sha256": "ccce713779cb5d06239aff7d3792804a58c0253ed5ea899cf4146333f9bfd9df"
+      }
+    },
+    "core/darkcrest_sources.gd": {
+      "after": {
+        "bytes": 268774,
+        "sha256": "de791efefcdd4d2033d4b8cbb83d39af0d07ad6b33d8cf0a6455b2862f88c747"
+      },
+      "before": {
+        "bytes": 268772,
+        "sha256": "431d82ce57f8e5917feec13c1c9a091a78ac9579bc53b403be264e183debfcfc"
+      }
+    },
+    "data/darkcrest_overlay.json": {
+      "after": {
+        "bytes": 69571,
+        "sha256": "05fd3d9ecb0d5c09415b7a4726628b152790a138f4cc973ac612bb73abe1a6cc"
+      },
+      "before": {
+        "bytes": 69569,
+        "sha256": "ee4f22b93df34a3681274452b2087ce1d13ac51b841b86a79ef8df4c59850d17"
+      }
+    },
+    "tests/darkcrest_lava_permanent_20261112/README.md": {
+      "after": {
+        "bytes": 5527,
+        "sha256": "47aa7e0643b2fb39e90b6b29a54802f1f78fd205dc10cfaf628c77003edf1e0d"
+      },
+      "before": {
+        "bytes": 3791,
+        "sha256": "6cb72a5fcea5b70b6ba00b699bc941804c792d87a35f8ca1a7646360ca761329"
+      }
+    },
+    "tests/darkcrest_lava_permanent_20261112/content_contract.gd": {
+      "after": {
+        "bytes": 11744,
+        "sha256": "2fd3807f7d983fff73fc876576fb77c1db427ccb4883383bda15ffc346de34d4"
+      },
+      "before": {
+        "bytes": 11273,
+        "sha256": "420f8d029949bca12030dda2fa220f3ea39d97d1de40b297fbc1b862b6c928a4"
+      }
+    },
+    "tests/darkcrest_lava_permanent_20261112/real_matrix.gd": {
+      "after": {
+        "bytes": 15533,
+        "sha256": "fba10fa8e508df4bc1843fdc7a5ec5b0ad6ec33b78153a703336f6dc6982ffa2"
+      },
+      "before": {
+        "bytes": 14081,
+        "sha256": "120d7edfe7d9503e0d91439e43aa15c666f16bd4f17758fa42207872e25499fc"
+      }
+    }
+  },
+  "previous_commit": "9d6ad450f4c5ad287b49612c9c2ba3de399cc67b",
+  "removed": {}
+}
