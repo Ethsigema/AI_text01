@@ -1,0 +1,45 @@
+{
+  "game_started_by_packager": false,
+  "not_run_tests_are_not_passes": true,
+  "outcome": "failure",
+  "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+  "source_commit": "517a547eebad779a65189fa67b845f82d5ec6886",
+  "source_map_sha256": "302328d7278ce8902ceba79d4532fa564c9f17022e76c0bf6b7165ea442becca",
+  "tests_without_result_receipt": [
+    "lava_permanent_content_contract",
+    "lava_rebuy_content_contract",
+    "lava_sale_content_contract",
+    "lava_content_contract",
+    "tier6_content_contract",
+    "tier5_content_contract",
+    "source_eot_contract",
+    "hand_shape_contract",
+    "seafloor_annotation_contract"
+  ],
+  "trees": {
+    "candidate": {
+      "aggregate_sha256": "d60d121e67ea42517535430f22fa667036c84eac2d24d9921e8c17707fc9ab6c",
+      "bytes": 1550853439,
+      "extra": [],
+      "files": 27982,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_20261112/candidate"
+    },
+    "restored_snapshot": {
+      "aggregate_sha256": "d60d121e67ea42517535430f22fa667036c84eac2d24d9921e8c17707fc9ab6c",
+      "bytes": 1550853439,
+      "extra": [],
+      "files": 27982,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_20261112/remote_snapshot_517a547/single_tree_restore/restored_snapshot"
+    }
+  },
+  "two_runtime_copies": false,
+  "validation_errors": {
+    "lava_permanent_real_matrix": "AssertionError()"
+  }
+}
