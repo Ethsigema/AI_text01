@@ -1,0 +1,21 @@
+{
+  "checked_at_utc": "2026-11-12T08:10:50.687184+00:00",
+  "game_started": false,
+  "gameplay_acceptance": false,
+  "new_snapshot_files_downloaded": 16,
+  "restored": {
+    "aggregate_sha256": "ca24bc997ed0661ea9b5c45194fb19c76777d66b1a0bbfaf19724b580d0b6612",
+    "bytes": 1550610791,
+    "extra": [],
+    "files": 27965,
+    "mismatched": [],
+    "missing": []
+  },
+  "same_current_batch_dependencies_rehashed": 47,
+  "snapshot_status": "UNACCEPTED_REBUILT_SOURCE_BEFORE_LONG_TEST",
+  "source_commit": "3da3922e990fd2ed2637d1cc95c8a6e11322e32f",
+  "source_map_sha256": "7701a57e0cf2e97b82149be5ad6cc3d82e38a443b56477998daa80b4350f5014",
+  "status": "PASS_REMOTE_UNACCEPTED_SOURCE_RESTORE_BYTES_ONLY",
+  "unknown_unuploaded_tier5_recovered": false,
+  "uploads": 0
+}
