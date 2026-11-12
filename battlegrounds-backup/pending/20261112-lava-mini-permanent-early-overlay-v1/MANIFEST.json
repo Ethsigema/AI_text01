@@ -1,0 +1,53 @@
+{
+  "status": "EARLY_SOURCE_OVERLAY_ONLY_UNACCEPTED_KNOWN_REVIEW_BLOCKERS_NOT_COMPLETE_RESTORE",
+  "utc": "2026-11-12T14:03:28.497795+00:00",
+  "base_source_commit": "b40bc9b7701afbca41defd5f35a9c931a8b5ee9e",
+  "base_final_commit": "53c4fe49b1fcf97c335c5ef343f59f574c41f229",
+  "base_folder": "battlegrounds-backup/pending/20261112-lava-native-rebuy",
+  "base_source_map_sha256": "9c79ddf64f3de4cfff3b9080b2a60b3408ff9e039cab2b215042d51718731a03",
+  "members": {
+    "data/darkcrest_overlay.json": {
+      "bytes": 69569,
+      "sha256": "ee4f22b93df34a3681274452b2087ce1d13ac51b841b86a79ef8df4c59850d17"
+    },
+    "core/darkcrest_lava_play.gd": {
+      "bytes": 14212,
+      "sha256": "7382437f51dfc9ee715933c74aae44a5d5c9539e4b9667c53925e100df070317"
+    },
+    "core/darkcrest_host.gd": {
+      "bytes": 52310,
+      "sha256": "b67ff3a9b83f7c3af8237eba5618bd51a429ade0ed4df75b81b3b2faa448aac3"
+    },
+    "core/darkcrest_mini.gd": {
+      "bytes": 17422,
+      "sha256": "4a4d4dcbbf498e475f398f2f64e9f907544797c3d7ae922fe7713abfa9fc5c76"
+    },
+    "core/darkcrest_sources.gd": {
+      "bytes": 268772,
+      "sha256": "6c6f15d9b30130580a8f6c99854cc1dee50a2b4a655e7f81f01ac7fd82ffe370"
+    },
+    "core/spellcraft_waiting.gd": {
+      "bytes": 30148,
+      "sha256": "521815d60cb2134464987d01af32ea97bc4cc7f8b1c31a42b54d0cad434038d3"
+    },
+    "core/game.gd": {
+      "bytes": 1343854,
+      "sha256": "923e5d94c753246a439bce564e2da1bf3cb6241cfacac63be66f2d0d41d88e22"
+    },
+    "PREIMAGE_SHA256.json": {
+      "bytes": 666,
+      "sha256": "ee7919ace6d083f11464de81b635d0d53e47b319c5cc740850398a8b4ad9f2e0"
+    }
+  },
+  "new_source_files": 7,
+  "game_started": false,
+  "full_dependency_downloads_completed": 55,
+  "full_new_candidate_restoration_completed": false,
+  "known_review_blockers": [
+    "Mini strict hand ID needs dedicated admission",
+    "child complete factory shape not yet checked",
+    "delivery completion owner/window/ticket rechecks incomplete"
+  ],
+  "will_not_promote_to_default": true,
+  "old_backups_preserved": true
+}

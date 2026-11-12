@@ -1,0 +1,63 @@
+{
+  "status": "AUTHORIZED_TWO_COMPLETED_DEVELOPMENT_WORK_COPIES_REMOVED_NOT_BACKUPS",
+  "utc": "2026-11-12T13:57:18.542339+00:00",
+  "deleted_paths": [
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/candidate",
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_lava_20261112/candidate"
+  ],
+  "preflight_sha256": "2a05b7b2572544fb910233167b3f251a37b4cc440a3e9c94cd57a6f742e01b65",
+  "exclusive_common_lock": true,
+  "rechecks": [
+    {
+      "target": "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/candidate",
+      "replacement": "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/restored_snapshot",
+      "full_rehash": {
+        "files": 27968,
+        "bytes": 1550696801,
+        "aggregate_sha256": "d72e2b1a7a0b6c257c3001f63959a9f717b2a1645feb02c33002c728786cf2fc",
+        "missing": [],
+        "extra": [],
+        "mismatched": []
+      }
+    },
+    {
+      "target": "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_lava_20261112/candidate",
+      "replacement": "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_lava_20261112/remote_snapshot_5d98887/restored_snapshot",
+      "full_rehash": {
+        "files": 27972,
+        "bytes": 1550731770,
+        "aggregate_sha256": "1cbcbcc3a1c16f2271c2d27ba78b87ffad6009a07c4b0c2bb2d914f3ab01f814",
+        "missing": [],
+        "extra": [],
+        "mismatched": []
+      }
+    }
+  ],
+  "preserved_directories": [
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/restored_snapshot",
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/package",
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/independent_tests",
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/unaccepted_package",
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/restore_receipt_package",
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/final_package",
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_lava_20261112/remote_snapshot_5d98887/restored_snapshot",
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_lava_20261112/remote_snapshot_5d98887/package",
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_lava_20261112/remote_snapshot_5d98887/independent_tests",
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_lava_20261112/unaccepted_package",
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_lava_20261112/restore_receipt_package",
+    "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_lava_20261112/final_package"
+  ],
+  "before_disk": {
+    "total": 67586535424,
+    "used": 62630223872,
+    "free": 1503563776
+  },
+  "after_disk": {
+    "total": 67586535424,
+    "used": 59362435072,
+    "free": 4771352576
+  },
+  "available_bytes_change": 3267788800,
+  "backups_deleted": false,
+  "game_started": false
+}

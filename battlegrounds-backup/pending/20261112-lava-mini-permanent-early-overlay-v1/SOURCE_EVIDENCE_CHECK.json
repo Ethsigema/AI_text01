@@ -1,0 +1,86 @@
+{
+  "status": "STATIC_PINNED_SOURCE_EVIDENCE_ONLY_NOT_NEW_WEB_OR_GAME_ACCEPTANCE",
+  "utc": "2026-11-12T13:57:51.911243+00:00",
+  "source_commit": "b40bc9b7701afbca41defd5f35a9c931a8b5ee9e",
+  "prior_gameplay_commit": "53c4fe49b1fcf97c335c5ef343f59f574c41f229",
+  "files": {
+    "data/catalog.json": {
+      "bytes": 4861565,
+      "sha256": "caae174bb5ecbfdaa7ff78065c38d473908d651fd1bdb2c94c5abf83193a87b8"
+    },
+    "data/current_scope_manifest.json": {
+      "bytes": 17512,
+      "sha256": "60ba04da35d3db6933f5177207f70e713da5efa2ebc0707c863a24248de2fcff"
+    },
+    "research/bubble_crown_spellcraft/native/BG23_000.xml": {
+      "bytes": 3020,
+      "sha256": "013e0c5222d8f63c02fc87fb994c3b7956b103f7d32ff4c70c1e78b54e40e0c1"
+    },
+    "research/bubble_crown_spellcraft/native/BG23_000t.xml": {
+      "bytes": 2067,
+      "sha256": "9a85c7c8bc9925220e095e18658666c8f909cb93f4c28f2dd2a9ac6814484246"
+    },
+    "research/bubble_crown_spellcraft/native/BG23_009.xml": {
+      "bytes": 4100,
+      "sha256": "a45d79387a0ff61b40e8c56a984e20a364bac8b58a44fcc6988662814008edda"
+    }
+  },
+  "cards": {
+    "BG23_000t": {
+      "id": "BG23_000t",
+      "supported": true,
+      "effects": [
+        {
+          "type": "spell_buff",
+          "scope": "target",
+          "attack": 2,
+          "health": 0,
+          "allow_shop": true,
+          "temporary": true
+        }
+      ],
+      "keywords": [],
+      "coverage_rule": "fulltext_spell",
+      "coverage_text_sha256": "2d83532ac9b3c07300ebf5a977b0ae602ecb541f8f319bb10dbc88758bfc611d",
+      "default_pool": false,
+      "temporary": true,
+      "pool_supported": false
+    },
+    "BG23_009": {
+      "id": "BG23_009",
+      "supported": true,
+      "effects": [
+        {
+          "type": "spellcraft_permanent",
+          "count": 1
+        }
+      ],
+      "keywords": [],
+      "coverage_rule": "reviewed_lava_lurker_exact",
+      "coverage_text_sha256": "643fb7cf1be90459cabd5233b7aff528bc7f17090355e07cb6452ef8ecb0678e",
+      "default_pool": true,
+      "conditional_support": {
+        "rule": "used_lava_triple",
+        "reason": "本回合使用过保留次数的普通熔岩潜伏者合成金色后，剩余次数合并规则尚未核实；本回合拒绝以新金色为手牌塑造法术目标，下回合恢复。"
+      },
+      "pool_supported": true
+    },
+    "BG23_000": {
+      "id": "BG23_000",
+      "supported": true,
+      "effects": [
+        {
+          "type": "spellcraft",
+          "card_id": "BG23_000t"
+        }
+      ],
+      "keywords": [],
+      "coverage_rule": "exact_spellcraft_dependency",
+      "coverage_text_sha256": "a11759af59d44a24c3662931f8fa2313ca0001dd24ade42bb3e194dd18d89b85",
+      "default_pool": true,
+      "pool_supported": true
+    }
+  },
+  "original_lava_permanent_effect_already_exists": true,
+  "new_work_is_finite_darkcrest_compatibility": true
+}

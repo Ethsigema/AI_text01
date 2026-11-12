@@ -1,0 +1,24 @@
+{
+  "status": "EARLY_DRAFT_UNACCEPTED_NOT_FULLY_PARSED",
+  "preimage": {
+    "base": "develop_lava_rebuy_20261112/candidate",
+    "files": {
+      "core/game.gd": "5f90d18d2a57a5caa2f2bf9a81064425ed9b11489a0caaaf3d4364aa974b62f0",
+      "core/darkcrest_host.gd": "3bfd545025c07db225cb21a5d0463a4509649201ccbf6f386874f9a946c91443",
+      "core/darkcrest_lava_play.gd": "ef2cb15d3ee2c3b99a415e75bea4c1f7a009ca15abc5cade59ff0b6049f40f1f",
+      "core/spellcraft_waiting.gd": "3cac313e25dbcf963547cffcc946bdeb8fa4968dba782db08744faf012cc6093",
+      "core/darkcrest_sources.gd": "1efbea10a09927728c1de1fd20891f7f630a1f7e5052e8d5574a464f6060e8c2",
+      "data/darkcrest_overlay.json": "8a486a6eb2fc91c0e157049ea387c233eb929e6d4f751506b4638176b3aca6e3"
+    }
+  },
+  "files": {
+    "data/darkcrest_overlay.json": "ee4f22b93df34a3681274452b2087ce1d13ac51b841b86a79ef8df4c59850d17",
+    "core/darkcrest_lava_play.gd": "7382437f51dfc9ee715933c74aae44a5d5c9539e4b9667c53925e100df070317",
+    "core/darkcrest_host.gd": "b67ff3a9b83f7c3af8237eba5618bd51a429ade0ed4df75b81b3b2faa448aac3",
+    "core/darkcrest_mini.gd": "4a4d4dcbbf498e475f398f2f64e9f907544797c3d7ae922fe7713abfa9fc5c76",
+    "core/darkcrest_sources.gd": "6c6f15d9b30130580a8f6c99854cc1dee50a2b4a655e7f81f01ac7fd82ffe370",
+    "core/spellcraft_waiting.gd": "521815d60cb2134464987d01af32ea97bc4cc7f8b1c31a42b54d0cad434038d3",
+    "core/game.gd": "923e5d94c753246a439bce564e2da1bf3cb6241cfacac63be66f2d0d41d88e22"
+  },
+  "syntax": "new helper standalone check-only exit0 against base candidate, integrated parse pending overlay apply; no Game"
+}
