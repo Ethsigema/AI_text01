@@ -1,0 +1,83 @@
+{
+  "actual_run": {
+    "available_start": 9386033152,
+    "command": [
+      "godot",
+      "--headless",
+      "--path",
+      "/workspace/scratch/dd4f12b08ec0/develop_empty_ghost_20261112/remote_snapshot_e38175e/run_tree",
+      "--script",
+      "/workspace/scratch/dd4f12b08ec0/develop_empty_ghost_20261112/remote_snapshot_e38175e/independent_tests/empty_slot_real_matrix.gd"
+    ],
+    "elapsed": 227.82374463799988,
+    "exit": 1,
+    "finished_at_utc": "2026-11-12T09:14:43.402191+00:00",
+    "log_sha256": "f9792aaf9efd155d19a357cc16d7ebc931ff387e637c3737f075c7f41bce786d",
+    "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+    "reason": "exited",
+    "rss_soft_limit": 4294967296,
+    "sampled_process_group_peak_rss": 3043246080,
+    "source": "tests/empty_combat_slot_20261112/real_matrix.gd",
+    "source_commit": "e38175e91e58cad77cff3f234230d96beb20f872",
+    "source_sha256": "9100f0aed3067a37cac6fb623e3a82111c4b4feb24fee9341522afb52f6e8a46",
+    "source_snapshot_matches": true,
+    "start_tree": {
+      "aggregate_sha256": "7b539edaa8ee2603b7b6251b8e5f2f4daf5bac2fb3300cb69e6b005fabd798a1",
+      "bytes": 1550636329,
+      "extra": [],
+      "files": 27969,
+      "mismatched": [],
+      "missing": []
+    },
+    "started_at_utc": "2026-11-12T09:10:55.578584+00:00",
+    "timeout_seconds": 3600,
+    "wrapper_sha256": "de9d57c140c50e3d7995fd90bc1d33a55c364fddaa311e28c7989b2ec2c992f7"
+  },
+  "checked_at_utc": "2026-11-12T09:18:03.455764+00:00",
+  "completed_rooms": 0,
+  "failed_room": {
+    "command": "end_turn",
+    "players": 3,
+    "round": 1,
+    "seed": 20261120
+  },
+  "failure": "hopebringer_combat_failed:dark_gift_resource_invalid_owner",
+  "game_started_by_this_archiver": false,
+  "no_gameplay_acceptance": true,
+  "no_rollback": true,
+  "not_run_followup_contracts": [
+    "empty_slot_content_contract",
+    "source_eot_contract",
+    "hand_shape_contract"
+  ],
+  "not_run_rooms": [
+    5,
+    7,
+    4
+  ],
+  "separate_runner_exception_log": "not found in filesystem at archive creation; no traceback fabricated",
+  "source_commit": "e38175e91e58cad77cff3f234230d96beb20f872",
+  "source_location": "core/dark_gift_resource_host.gd:75",
+  "source_map_sha256": "0c34ea2ffdbf6950ae0f14000049343595eba6eb2eb1a086df3dcf9b54846739",
+  "source_or_original_package_modified": false,
+  "status": "FAILED_NATIVE_RUN_SOURCE_TREES_UNCHANGED_NOT_ROLLBACK",
+  "trees": {
+    "restored_snapshot": {
+      "aggregate_sha256": "7b539edaa8ee2603b7b6251b8e5f2f4daf5bac2fb3300cb69e6b005fabd798a1",
+      "bytes": 1550636329,
+      "extra": [],
+      "files": 27969,
+      "mismatched": [],
+      "missing": []
+    },
+    "run_tree": {
+      "aggregate_sha256": "7b539edaa8ee2603b7b6251b8e5f2f4daf5bac2fb3300cb69e6b005fabd798a1",
+      "bytes": 1550636329,
+      "extra": [],
+      "files": 27969,
+      "mismatched": [],
+      "missing": []
+    }
+  },
+  "uploads": 0
+}

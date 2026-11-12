@@ -1,0 +1,34 @@
+{
+  "archive_sha256": "09d0ad3eaf7e9a86f7ce11c813c48f0c7d30d8355d18d9d795acd9a76375e0f2",
+  "members": {
+    "FAILED_NATIVE_RUN_REHASH.json": {
+      "bytes": 2921,
+      "sha256": "489ddbd627297f7285b0289877e42ebd01cb2e97b152bf40978671823dc88a8f"
+    },
+    "independent_tests/PREPARED_FROM_REMOTE.json": {
+      "bytes": 2340,
+      "sha256": "be9eb58dbe405ca741c7c29b0e82c684bac7a966253caaa2ecbb0d935f8d3313"
+    },
+    "independent_tests/empty_slot_real_matrix.gd": {
+      "bytes": 64,
+      "sha256": "de9d57c140c50e3d7995fd90bc1d33a55c364fddaa311e28c7989b2ec2c992f7"
+    },
+    "independent_tests/empty_slot_real_matrix.log": {
+      "bytes": 1194,
+      "sha256": "f9792aaf9efd155d19a357cc16d7ebc931ff387e637c3737f075c7f41bce786d"
+    },
+    "independent_tests/empty_slot_real_matrix_hashes.json": {
+      "bytes": 3525877,
+      "sha256": "a2d821946bf66d47c2928326e469f3013470b5d73903cc680a7838c14cf45968"
+    },
+    "independent_tests/empty_slot_real_matrix_result.json": {
+      "bytes": 1361,
+      "sha256": "99ac6c3bb228c744b223d916385976c20ccff07a5ccc7f88112ffa8ef9c295f0"
+    },
+    "preparation/run_remote_empty_slot.py": {
+      "bytes": 16493,
+      "sha256": "3a6c62f8ed725743878f326efd81f3c269de9d68438e40195959e3b633db04c0"
+    }
+  },
+  "source_commit": "e38175e91e58cad77cff3f234230d96beb20f872"
+}
