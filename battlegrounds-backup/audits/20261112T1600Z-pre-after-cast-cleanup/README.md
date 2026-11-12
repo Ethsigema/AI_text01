@@ -1,0 +1,9 @@
+# 下一批清理前只读证据
+
+本包不是工程全量备份，也不是删除授权或执行记录。保留上一批最终审计回读与验证器等6项迟到证据，以及本轮两对象全文件SHA/aggregate预检、执行前重核/清理/copy准备脚本。
+
+候选：develop_lava_next_20261112/candidate，等价保留remote_snapshot_a96a033/single_tree_restore/restored_snapshot。中间基线：develop_darkcrest_lava_20261112/fresh_remote/restored_base，等价保留recover_tier5_after_environment_change_20261112/restored_base。均非唯一备份，全部final restore、包、input、日志、失败候选、审计目录保留；尚未删除。历史脚本若引用未来获准清理的中间基线路径，须显式指向等价保留base，旧脚本本身不暗改。
+
+首轮预检内容SHA已相等，但候选与恢复树物理块数相差4096字节，过严比较触发assert；原日志保留。之后按相同路径/内容/长度/SHA/aggregate严格比对，并分别记录真实allocated blocks，再次全核通过。预计两对象释放fileblocks 3,237,134,336字节；新增candidate+fresh55+单一restore后约1.046GB余量，估算不是实际释放承诺。
+
+校验SHA256SUMS.txt，再按LATE_EVIDENCE_MANIFEST逐regular成员长度/SHA校验；只解到新空目录，不覆盖旧证据或源工程。源码固定a96a03307c43c5641793663b99e864877543d1b5，最终有限回执d914d66999536eb4250841488d09ae7ba3f82ccf，最终小审计fe0c37566b75e82ffdc1ab5619e0018962a7e73b均仍保留，不因本包扩展玩法验收。
