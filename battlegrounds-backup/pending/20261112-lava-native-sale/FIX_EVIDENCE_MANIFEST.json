@@ -1,0 +1,118 @@
+{
+  "STATIC_SHA_VERIFIED.json": {
+    "bytes": 786,
+    "sha256": "6c86b21c7b85d3970c4c168b8a9452264da1e0c557a746189a618929563e12a4"
+  },
+  "evidence/PIN_UPDATES_01.json": {
+    "bytes": 29516,
+    "sha256": "756e3f87b98d08ec1d1e2f4fcab3edfcbb5735b14432b768210c3b43d3cd6b91"
+  },
+  "evidence/SALE_PURE_VERIFIED.json": {
+    "bytes": 1101,
+    "sha256": "8074a2d646261e5f2a1f12ce7ad020142f5da69ca85679e4fff62d5286a38d94"
+  },
+  "evidence/TESTS_FROZEN_SHA256.json": {
+    "bytes": 349,
+    "sha256": "cd389bf8bda209d2c86b00c9331e45eb13c25f2e32566ae66fae9e5be7f22b83"
+  },
+  "evidence/monitor.py": {
+    "bytes": 2202,
+    "sha256": "b7f8b3a5e92d966a61a050945180621336b1c966711e78caa571f1b2a24b3293"
+  },
+  "evidence/sale_content_prefreeze.gd": {
+    "bytes": 71,
+    "sha256": "a20c4c9eaef7cce78302d1348faf4fd74c26040377a2f5c9f00824be7cfac06e"
+  },
+  "evidence/sale_content_prefreeze.log": {
+    "bytes": 5705,
+    "sha256": "4bf527178693ebc77a7f58a8d7b9c47c682b04a44af486b355a8952d4c8eebcc"
+  },
+  "evidence/sale_content_prefreeze_hashes.json": {
+    "bytes": 3526595,
+    "sha256": "8166fa2e49c4822f82e8f4427fc0da9c1bdb51ac1103a4c50213bf72e58bae90"
+  },
+  "evidence/sale_content_prefreeze_result.json": {
+    "bytes": 533,
+    "sha256": "d84f7c02d20c7090b9214d798dba662a198bda74e3af644d4c725dbe02e2bf60"
+  },
+  "preparation/CANDIDATE_PREIMAGE_VERIFIED.json": {
+    "bytes": 998,
+    "sha256": "4396ab8a2a6f13565dcaf955a234def1447e0ce8df1b1ddfbda38d5021e698aa"
+  },
+  "preparation/CLEANUP_EXECUTED.json": {
+    "bytes": 7159,
+    "sha256": "fbd2cf640892a31301d7303b803e8084d0e187b5962d92b3d3744ea28b7b02e5"
+  },
+  "preparation/CLEANUP_PREFLIGHT.json": {
+    "bytes": 4046,
+    "sha256": "4b53412a52edc6f2bf62a32dbcd1138dd7a03f49b775f1aa26d3eaa33769ef14"
+  },
+  "preparation/RECONSTRUCTION_NOTE.md": {
+    "bytes": 3177,
+    "sha256": "602480c0334b3714fb3a5a76bb4138faf2beb59c874c94340c8d0611a38407dd"
+  },
+  "preparation/cleanup_preflight.py": {
+    "bytes": 3727,
+    "sha256": "4dbd8e6f912962ab21ea70e1471c93ec875080a092b9e9cc26f906bfd77e3a85"
+  },
+  "preparation/execute_verified_cleanup.py": {
+    "bytes": 4380,
+    "sha256": "9b7c020538eade1f1838937b16bda10c39d084a5223887abb2316eb3e308339d"
+  },
+  "preparation/repin_candidate.py": {
+    "bytes": 1928,
+    "sha256": "64018d0b4963637b984d76ef58fddd75fa4dd2156f57b9515e081760e893fa4f"
+  },
+  "preparation/sale_contract_check_only.log": {
+    "bytes": 73,
+    "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+  },
+  "preparation/sale_contract_v2_check_only.log": {
+    "bytes": 73,
+    "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+  },
+  "preparation/sale_matrix_check_only.log": {
+    "bytes": 73,
+    "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+  },
+  "preparation/sale_matrix_final_check_only.log": {
+    "bytes": 73,
+    "sha256": "a9912b85473f126d3f4f63ec824170c828df3473a292f866dde86cafda5b66da"
+  },
+  "research/LAVA_DEPARTURE_ASSESSMENT.md": {
+    "bytes": 9631,
+    "sha256": "50289e2a0bb0690906298d61f6521af900ba7c6f1b086cd21080b08be2ef3512"
+  },
+  "research/LAVA_PERMANENT_NEXT_ASSESSMENT.md": {
+    "bytes": 9344,
+    "sha256": "ad4bb8523257fb47c8fe50d0e016026c2a8a383a67af14dea5748b4141fae738"
+  },
+  "research/LAVA_SALE_FROZEN_SHA256.json": {
+    "bytes": 635,
+    "sha256": "c9bcdbbfd226952ee7376b43af610173963c55e12269ce15ad087cca824bec40"
+  },
+  "research/LAVA_SALE_IMPLEMENTATION.md": {
+    "bytes": 2963,
+    "sha256": "59ec117e2c3dd000fe38ebfc1c01d67a2482f01f2d9dad3e2f0a67cdc23dfb9b"
+  },
+  "research/LAVA_SALE_INDEPENDENT_DIFF_REVIEW.md": {
+    "bytes": 5072,
+    "sha256": "3832125f70c9bf651d253ae30f75427b8a4b58955c9fb84ad883152af8049536"
+  },
+  "research/LAVA_SALE_TEST_PLAN.md": {
+    "bytes": 3703,
+    "sha256": "61808d139ce13eea6222144b61e108c161a02bf2f7cdc17ceb441f8cb8cd10db"
+  },
+  "research/LAVA_SALE_V2_FROZEN_SHA256.json": {
+    "bytes": 678,
+    "sha256": "5e76af83dfa5984bc5751b4c32627c5fdadc92a77fcde1ba1df793e12831e95f"
+  },
+  "research/LAVA_SALE_V3_FROZEN_SHA256.json": {
+    "bytes": 689,
+    "sha256": "727fbd1332c5d7dcf5d7b89353981f80d0b89de1279bfb0587a3efce194565e9"
+  },
+  "research/source_evidence.json": {
+    "bytes": 4119,
+    "sha256": "127a2e2e4db7bdf69651e68a9f42713de096a368b1e5a1fd2b275bc6a32d8f44"
+  }
+}
