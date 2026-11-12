@@ -1,0 +1,84 @@
+{
+  "actual_run": {
+    "available_start": 9344434176,
+    "command": [
+      "godot",
+      "--headless",
+      "--path",
+      "/workspace/scratch/dd4f12b08ec0/develop_empty_ghost_v2_20261112/remote_snapshot_aae0cf4/run_tree",
+      "--script",
+      "/workspace/scratch/dd4f12b08ec0/develop_empty_ghost_v2_20261112/remote_snapshot_aae0cf4/independent_tests/empty_slot_real_matrix.gd"
+    ],
+    "elapsed": 225.16315811799996,
+    "exit": 1,
+    "finished_at_utc": "2026-11-12T09:36:11.259073+00:00",
+    "log_sha256": "24fe2f4f9508b01f96ded5e73a6d906f0d37cc047de0b6dce53853b1c876e00e",
+    "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+    "reason": "exited",
+    "rss_soft_limit": 4294967296,
+    "sampled_process_group_peak_rss": 3043528704,
+    "source": "tests/empty_combat_slot_20261112/real_matrix.gd",
+    "source_commit": "aae0cf4c9f3325bc6a98ca34700059d25d235534",
+    "source_sha256": "9100f0aed3067a37cac6fb623e3a82111c4b4feb24fee9341522afb52f6e8a46",
+    "source_snapshot_matches": true,
+    "start_tree": {
+      "aggregate_sha256": "0f17fa523e32685f767f2e153dea554bfbbf45c56d44c2fd050e754a10718336",
+      "bytes": 1550655219,
+      "extra": [],
+      "files": 27971,
+      "mismatched": [],
+      "missing": []
+    },
+    "started_at_utc": "2026-11-12T09:32:26.095917+00:00",
+    "timeout_seconds": 3600,
+    "wrapper_sha256": "de9d57c140c50e3d7995fd90bc1d33a55c364fddaa311e28c7989b2ec2c992f7"
+  },
+  "checked_at_utc": "2026-11-12T09:38:23.912726+00:00",
+  "completed_rooms": 0,
+  "failed_room": {
+    "command": "end_turn",
+    "players": 3,
+    "round": 1,
+    "seed": 20261120
+  },
+  "failure": "hopebringer_combat_failed:apexis_wrong_real_owner",
+  "game_started_by_this_archiver": false,
+  "no_gameplay_acceptance": true,
+  "no_rollback": true,
+  "not_run_followup_contracts": [
+    "dark_gift_empty_contract",
+    "empty_slot_content_contract",
+    "source_eot_contract",
+    "hand_shape_contract"
+  ],
+  "not_run_rooms": [
+    5,
+    7,
+    4
+  ],
+  "separate_runner_exception_log": "not found in filesystem at archive creation; no traceback fabricated",
+  "source_commit": "aae0cf4c9f3325bc6a98ca34700059d25d235534",
+  "source_location": "core/apexis_guardian_host.gd:43",
+  "source_map_sha256": "46b156a8d05cc1dd46346a7a3dd4daa9395d1e331d3332b2664bebce2bcfd249",
+  "source_or_original_package_modified": false,
+  "status": "FAILED_NATIVE_RUN_SOURCE_TREES_UNCHANGED_NOT_ROLLBACK",
+  "trees": {
+    "restored_snapshot": {
+      "aggregate_sha256": "0f17fa523e32685f767f2e153dea554bfbbf45c56d44c2fd050e754a10718336",
+      "bytes": 1550655219,
+      "extra": [],
+      "files": 27971,
+      "mismatched": [],
+      "missing": []
+    },
+    "run_tree": {
+      "aggregate_sha256": "0f17fa523e32685f767f2e153dea554bfbbf45c56d44c2fd050e754a10718336",
+      "bytes": 1550655219,
+      "extra": [],
+      "files": 27971,
+      "mismatched": [],
+      "missing": []
+    }
+  },
+  "uploads": 0
+}
