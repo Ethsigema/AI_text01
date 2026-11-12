@@ -1,0 +1,24 @@
+{
+  "checked_at_utc": "2026-11-12T17:32:10.466699+00:00",
+  "fresh_base_checkpoint_then_single_target_tree": true,
+  "game_started": false,
+  "gameplay_acceptance": false,
+  "new_snapshot_files_downloaded": 17,
+  "restored": {
+    "aggregate_sha256": "6e7409fe6c9889e6b2ae0c7515764646bbaf8dd5454c20fffd986aabec59fd72",
+    "bytes": 1550944027,
+    "extra": [],
+    "files": 27994,
+    "mismatched": [],
+    "missing": []
+  },
+  "restored_tree": "/workspace/scratch/dd4f12b08ec0/develop_lava_carried_sale_20261112/remote_snapshot_32a8b33/single_tree_restore/restored_snapshot",
+  "same_current_batch_dependencies_rehashed": 55,
+  "separate_runtime_copy_created": false,
+  "snapshot_status": "UNACCEPTED_LAVA_CARRIED_SALE_BEFORE_GAME",
+  "source_commit": "32a8b33abe2bfb980c5ec890e7950f6b5a9f1346",
+  "source_map_sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef",
+  "status": "PASS_REMOTE_UNACCEPTED_SINGLE_TREE_SOURCE_RESTORE_BYTES_ONLY",
+  "unknown_unuploaded_tier5_recovered": false,
+  "uploads": 0
+}
