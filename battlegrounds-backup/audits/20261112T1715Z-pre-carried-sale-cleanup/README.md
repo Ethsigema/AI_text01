@@ -1,0 +1,14 @@
+# 跨回合永久增益Lava出售新批清理前只读证据
+
+本包保存上一批f793审计实际回读与验证器等6项晚证据、本轮两个冗余副本完整路径集/长度/SHA/aggregate预检与脚本。尚未删除、copy、下载或运行Game，不是删除授权。
+
+1. develop_lava_buffed_sale_20261112/candidate 等价于保留 remote_snapshot_b749349/single_tree_restore/restored_snapshot，27991文件。
+2. 成功Lava批 fresh_remote/restored_tier6 等价于保留 develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/restored_snapshot，27968文件；已核固定15dcc575包和原TIER6_RESTORE报告及该批完整下载依赖，确属完成使用的依赖中间树，不是最终remote snapshot。
+
+所有备份/下载/package/最终remote/失败树/日志及唯一未核验内容保留。仅未来明确授权且锁内再次全核后才能清理这两个对象。历史脚本若引用中间路径，须显式使用保留等价源，不暗改旧脚本。
+
+预计fileblocks可回收3,238,641,664B，清后约5,291,991,040B，新copy+fresh55+单restore后约1,717,079,040B；实际释放以后续执行回执为准。
+
+已知历史例外：未发布研究db9a初始tar封装丢失，未恢复；最终源码与diff可精确恢复并不代表该封装找回。不能声称所有历史unique从未丢失。本次未涉及该失败历史或改写其证据。
+
+先核SHA256SUMS，再逐LATE_EVIDENCE_MANIFEST校验regular成员。只解到新空目录，不覆盖工程。完整工程仍以source b74934926d8e5eaeb4a9b27328cd07da3da54007/final49f3a8d59dd2a5c6f6d5e399887ba41f39500bdb及原Release/base14恢复，新范围尚未验收。
