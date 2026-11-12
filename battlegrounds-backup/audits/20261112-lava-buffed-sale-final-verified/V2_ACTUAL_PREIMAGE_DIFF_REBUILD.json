@@ -1,0 +1,22 @@
+{
+  "base": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+  "preimage_verified": true,
+  "patch_exit": 0,
+  "patch_stdout": "patching file core/darkcrest_lava_play.gd\npatching file core/darkcrest_host.gd\n",
+  "patch_stderr": "",
+  "files": {
+    "core/darkcrest_lava_play.gd": {
+      "rebuilt_sha256": "313bb60d59e9d577d9f1519a71364e0afef309ad43b74d7e75d623a7ed579032",
+      "expected_sha256": "313bb60d59e9d577d9f1519a71364e0afef309ad43b74d7e75d623a7ed579032",
+      "matches_overlay": true,
+      "pass": true
+    },
+    "core/darkcrest_host.gd": {
+      "rebuilt_sha256": "4883d3087863b2133775bdb291e3c5ca12dd418199cad683d65d35f75c28ad13",
+      "expected_sha256": "4883d3087863b2133775bdb291e3c5ca12dd418199cad683d65d35f75c28ad13",
+      "matches_overlay": true,
+      "pass": true
+    }
+  },
+  "pass": true
+}

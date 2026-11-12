@@ -1,0 +1,87 @@
+--- base/core/darkcrest_lava_play.gd
++++ overlay/core/darkcrest_lava_play.gd
+@@ -38,6 +38,7 @@
+ 	return count==1
+ func preflight(host,game,p: Dictionary,u: Dictionary) -> String:
+ 	if not _actual(host,game,p) or game.state.phase!="recruit": return "darkcrest_lava_actual_hand_play_required"
++	if buffed_sale_history(p): return "darkcrest_lava_buffed_reentry_held"
+ 	if not p.hand.any(func(actual):return is_same(actual,u)) or not _unique(game,u): return "darkcrest_lava_original_unique_hand_required"
+ 	if p.board.any(func(other):return not host.parent(other)) or p.board.size()>=7: return "darkcrest_lava_single_board_entry_held"
+ 	if host.count(p,ID)>1: return "darkcrest_lava_multiple_copies_held"
+@@ -99,9 +100,33 @@
+ 	for key in expected:
+ 		if not actual.has(key) or actual[key]!=expected[key]: return false
+ 	return true
++func buffed_sale_history(p: Dictionary) -> bool:
++	for r in _retired.values():
++		if r.get("owner") is int and p.get("id") is int and r.owner==p.id and r.get("mini_buffed",false) is bool and r.get("mini_buffed",false): return true
++	return false
++func buffed_sale_error(host,game,p: Dictionary,u: Dictionary) -> String:
++	if not _actual(host,game,p) or game.state.phase!="recruit": return "darkcrest_lava_actual_sale_required"
++	var issue: String=board_error(host,game,p,u)
++	if not issue.is_empty(): return issue
++	var r: Dictionary=_board[u.uid]
++	if not r.get("mini_steps") is int or r.mini_steps!=1 or not r.get("mini_round") is int or r.mini_round!=game.state.round or not u.get("spellcraft_kept") is int or u.spellcraft_kept!=1: return "darkcrest_lava_single_current_mini_buff_required"
++	var mini=host._mini
++	if not mini._sale.is_empty() or not mini._play.is_empty() or not mini._cast.is_empty() or not mini._delivery.is_empty() or not mini._reset.is_empty() or not mini._expiry.is_empty() or mini._flush_window!=null or not mini._flush_tokens.is_empty() or not host._cast.is_empty() or not host._delivery.is_empty() or not host._eot.is_empty() or not host._generation._active.is_empty() or not p.get("spellcraft_waiting",[]).is_empty(): return "darkcrest_lava_buffed_sale_busy"
++	var source: Variant=mini._board.get("unit")
++	if not source is Dictionary: return "darkcrest_lava_original_mini_required"
++	issue=mini.board_error(host,game,p,source)
++	if not issue.is_empty(): return issue
++	issue=mini.consumed_sale_error(host,game,p,source)
++	if not issue.is_empty(): return issue
++	for token in mini._tokens.values():
++		if token.get("source_uid")==source.uid and token.get("round")==game.state.round:
++			if not token.get("cast_target_uid") is String or token.cast_target_uid!=u.uid: return "darkcrest_lava_original_buff_target_required"
++	return ""
+ func sale_preflight(host,game,p: Dictionary,u: Dictionary) -> String:
+ 	if not _actual(host,game,p) or game.state.phase!="recruit": return "darkcrest_lava_actual_sale_required"
+-	if _board.get(u.get("uid"),{}).has("mini_steps"): return "darkcrest_lava_permanent_sale_held"
++	if _board.get(u.get("uid"),{}).has("mini_steps"):
++		var buffed_issue: String=buffed_sale_error(host,game,p,u)
++		if not buffed_issue.is_empty(): return buffed_issue
+ 	var owner_issue: String=host.owner_error(game,p)
+ 	if not owner_issue.is_empty(): return owner_issue
+ 	if not _pending.is_empty() or not _sale_pending.is_empty(): return "darkcrest_lava_nested_sale_held"
+@@ -122,6 +147,12 @@
+ 	if not Sources.same(plan,{"ok":true,"error":"","active":false}): return "darkcrest_lava_active_sale_plan_held"
+ 	if not _sale_context_matches(context,p,u,u.uid,index,p.stats.sold,game.state.round,game.state.command_sequence,plan,plan): return "darkcrest_lava_changed_sale_context"
+ 	_sale_pending={"engine":weakref(game),"owner":p,"unit":u,"uid":u.uid,"record":_board[u.uid],"context":context,"plan":plan,"plan_values":plan.duplicate(true),"index":index,"sold":p.stats.sold,"round":game.state.round,"sequence":game.state.command_sequence,"gold":p.gold,"pool":game.pool.duplicate(true),"spell_pool":game.spell_pool.duplicate(true),"next_uid":game.next_uid,"seed":game.rng.seed,"rng":game.rng.state,"board":p.board.duplicate(),"board_values":p.board.duplicate(true),"hand":p.hand.duplicate(),"hand_values":p.hand.duplicate(true)}
++	if _board[u.uid].has("mini_steps"):
++		var tokens: Dictionary={}
++		for uid in host._mini._tokens:
++			var token: Dictionary=host._mini._tokens[uid]
++			tokens[uid]={"record":token,"owner":token.owner,"unit":token.unit,"facts":host._mini.token_facts(token)}
++		_sale_pending.mini_tokens=tokens
+ 	return ""
+ func finish_sale(host,game,p: Dictionary,context: Dictionary,result: Dictionary) -> String:
+ 	if _sale_pending.is_empty(): return "darkcrest_lava_unbound_sale_completion"
+@@ -132,6 +163,7 @@
+ 	if departed:
+ 		_board.erase(r.uid)
+ 		_retired[r.uid]={"owner":p.id,"round":r.round,"sequence":r.sequence}
++		if r.has("mini_tokens"): _retired[r.uid].mini_buffed=true
+ 	_sale_pending={}
+ 	if not is_same(context,r.context) or not is_same(context,game._native_sale_operation_context) or not _sale_context_matches(context,p,r.unit,r.uid,r.index,r.sold,r.round,r.sequence,r.plan,r.plan_values) or game.state.round!=r.round or game.state.command_sequence!=r.sequence: return "darkcrest_lava_changed_sale_completion"
+ 	# A native failure remains a failure; this observer never refunds/replays native effects.
+@@ -147,4 +179,10 @@
+ 	var pool: Dictionary=r.pool.duplicate(true);pool[ID]+=1
+ 	if not host.Generation._same_objects(p.board,board) or not Sources.same(p.board,values) or not host.Generation._same_objects(p.hand,r.hand) or not Sources.same(p.hand,r.hand_values): return "darkcrest_lava_sale_zone_receipt_changed"
+ 	if not p.gold is int or not p.stats.sold is int or p.gold!=r.gold+1 or p.stats.sold!=r.sold+1 or not _sale_inventory_matches(game.pool,pool) or not _sale_inventory_matches(game.spell_pool,r.spell_pool) or not game.next_uid is int or game.next_uid!=r.next_uid or game.rng.seed!=r.seed or game.rng.state!=r.rng: return "darkcrest_lava_sale_accounting_receipt_changed"
++	if r.has("mini_tokens"):
++		if not host.purchase_value_same(r.unit,r.board_values[r.index]) or not host.purchase_value_same(p.board,values) or not host.purchase_value_same(p.hand,r.hand_values) or host._mini._tokens.size()!=r.mini_tokens.size(): return "darkcrest_lava_buffed_sale_changed_receipt"
++		for uid in r.mini_tokens:
++			var before: Dictionary=r.mini_tokens[uid]
++			var token: Dictionary=host._mini._tokens.get(uid,{})
++			if not is_same(token,before.record) or not is_same(token.get("owner"),before.owner) or not is_same(token.get("unit"),before.unit) or not host.purchase_value_same(host._mini.token_facts(token),before.facts): return "darkcrest_lava_buffed_sale_changed_token"
+ 	return ""
+--- base/core/darkcrest_host.gd
++++ overlay/core/darkcrest_host.gd
+@@ -613,6 +613,7 @@
+ 	return a==b
+ func lava_purchase_error(game,p: Dictionary,u: Dictionary) -> String:
+ 	if not actual(game) or not is_same(game._darkcrest_host,self) or not game.state.get("players") is Array or not p.get("id") is int or p.id<0 or p.id>=game.state.players.size() or not is_same(game.state.players[p.id],p) or game.state.phase!="recruit": return "darkcrest_lava_purchase_actual_owner_required"
++	if _lava_play.buffed_sale_history(p): return "darkcrest_lava_buffed_rebuy_held"
+ 	if not p.shop.any(func(item):return is_same(item,u)) or not LavaPlay._unique(game,u): return "darkcrest_lava_purchase_original_offer_required"
+ 	if count(p,LavaPlay.ID)!=0 or (p.board+p.hand).any(func(item):return item.get("card_id") in [LavaPlay.ID,LavaPlay.ID+"_G"]): return "darkcrest_lava_purchase_second_body_held"
+ 	if p.board.is_empty() or not p.board.all(func(item):return item.get("card_id")==Sources.PARENTS[0]): return "darkcrest_lava_purchase_shop_parent_board_required"
