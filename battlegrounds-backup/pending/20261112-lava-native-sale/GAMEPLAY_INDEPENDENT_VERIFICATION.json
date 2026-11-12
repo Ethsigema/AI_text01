@@ -1,0 +1,586 @@
+{
+  "active_rebuy_opened": false,
+  "coin_funding_fixture_used_before_darkcrest_owned": true,
+  "default_pool_promoted": false,
+  "entirely_natural_game_without_fixtures": false,
+  "fixtures": {
+    "darkcrest_sources_archived.gd": {
+      "bytes": 168341,
+      "kind": "remote_fixture_copy",
+      "sha256": "aab40e4847ab19b74f3e24008d38e28e75642cd84323e0768b82abf99d7285ef",
+      "source": "tests/darkcrest_20261112/darkcrest_sources_archived.gd"
+    },
+    "hand_shape_contract.gd": {
+      "bytes": 64,
+      "kind": "external_wrapper",
+      "sha256": "5996cd153040c5dbe63ca9a85827a3971bb1169fd99c7de13a3fc2982a643bff",
+      "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+      "source_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e"
+    },
+    "lava_content_contract.gd": {
+      "bytes": 66,
+      "kind": "external_wrapper",
+      "sha256": "c3f41e2533f1237ca274e2370a97d1434b72bce028cc3597b0fd01afdbc9bf99",
+      "source": "tests/darkcrest_lava_20261112/content_contract.gd",
+      "source_sha256": "301a5c9e56618baf42ae6ccbd80eea92f3eadc27a3fcfa02030fb51052004beb"
+    },
+    "lava_sale_content_contract.gd": {
+      "bytes": 71,
+      "kind": "external_wrapper",
+      "sha256": "a20c4c9eaef7cce78302d1348faf4fd74c26040377a2f5c9f00824be7cfac06e",
+      "source": "tests/darkcrest_lava_sale_20261112/content_contract.gd",
+      "source_sha256": "18570c38bb5b3d52238aa6cadb84d515ef5d8caa886c86365e79fa9a88d140f6"
+    },
+    "lava_sale_real_matrix.gd": {
+      "bytes": 66,
+      "kind": "external_wrapper",
+      "sha256": "6dfedb2bb1044b26cabe6e8079922368c519b53681217188d63d21b2cc574735",
+      "source": "tests/darkcrest_lava_sale_20261112/real_matrix.gd",
+      "source_sha256": "3082933978422e4ad48cd66547c1c5af9098ecaf44519c53031da1d88580fcef"
+    },
+    "seafloor_annotation_contract.gd": {
+      "bytes": 73,
+      "kind": "external_wrapper",
+      "sha256": "661fada5df74ebbcfc5398af40e3a2a44118e2acece819c6083ec3e647c871d3",
+      "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+      "source_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb"
+    },
+    "source_eot_contract.gd": {
+      "bytes": 64,
+      "kind": "external_wrapper",
+      "sha256": "4b8cf5cc20bf13c94c6b1757a0565acdde62297bb7a3e8d0acafbfef5c99d025",
+      "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+      "source_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790"
+    },
+    "tier5_content_contract.gd": {
+      "bytes": 67,
+      "kind": "external_wrapper",
+      "sha256": "7aae9d95200bb67f5d35d56999f7ded7363e70009ab8acec0f6968aab8635899",
+      "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+      "source_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248"
+    },
+    "tier6_content_contract.gd": {
+      "bytes": 67,
+      "kind": "external_wrapper",
+      "sha256": "d9f936e637ce55837cc7a60e512588c68259a83db3e1ca6af79081a5b66c98c8",
+      "source": "tests/darkcrest_tier6_20261112/content_contract.gd",
+      "source_sha256": "01e5874b444db4950cd9a3a08aec18a0bd4443c28c2a17500f59ee39f38eb787"
+    }
+  },
+  "full_game_acceptance": false,
+  "full_game_processes": 1,
+  "live_capacity_128_tested": false,
+  "old_lava_three_cases_repeated": false,
+  "old_tier6_eight_case_matrix_repeated": false,
+  "partial_failure_live_injection": false,
+  "permanent_enchantment_opened": false,
+  "scope": "ordinary authenticated untouched Lava native sale and retirement only",
+  "sequential_game_execution": true,
+  "source_commit": "73ef3f42e2a52b71aacd29fac2d6392731015d9d",
+  "source_map_sha256": "1d03c1d09e8a8387dd1943aae62a8c368bf509a859f4fffd8d8fafd25b8c4084",
+  "status": "PASS_FIXED_REMOTE_DARKCREST_LAVA_SALE_MATRIX_AND_CONTRACTS_POST_TEST_DOUBLE_REHASH",
+  "tests": {
+    "hand_shape_contract": {
+      "failures": [],
+      "log_sha256": "f0d6f3e303d4f40a66dfbbd7ffbd4ac99ab271a22a346137168c7fe6296bc6db",
+      "passed_checks": 166,
+      "result": {
+        "available_start": 9157718016,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/independent_tests/hand_shape_contract.gd"
+        ],
+        "elapsed": 0.5091189660015516,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T12:50:21.054397+00:00",
+        "log_sha256": "f0d6f3e303d4f40a66dfbbd7ffbd4ac99ab271a22a346137168c7fe6296bc6db",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 101269504,
+        "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+        "source_commit": "73ef3f42e2a52b71aacd29fac2d6392731015d9d",
+        "source_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "c6b2446cac072bb68b8a3cd5937218732bb747fcf08512510a370233ea4fdedd",
+          "bytes": 1550759040,
+          "extra": [],
+          "files": 27975,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T12:50:20.545283+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "5996cd153040c5dbe63ca9a85827a3971bb1169fd99c7de13a3fc2982a643bff"
+      },
+      "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e"
+    },
+    "lava_content_contract": {
+      "failures": [],
+      "log_sha256": "cc2b436c81ce15bc2debe59942e91e2b854d1797175212d2c8a6a08e60c453c2",
+      "passed_checks": 211,
+      "result": {
+        "available_start": 9113346048,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/independent_tests/lava_content_contract.gd"
+        ],
+        "elapsed": 0.7238947770019877,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T12:49:52.974325+00:00",
+        "log_sha256": "cc2b436c81ce15bc2debe59942e91e2b854d1797175212d2c8a6a08e60c453c2",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 105263104,
+        "source": "tests/darkcrest_lava_20261112/content_contract.gd",
+        "source_commit": "73ef3f42e2a52b71aacd29fac2d6392731015d9d",
+        "source_sha256": "301a5c9e56618baf42ae6ccbd80eea92f3eadc27a3fcfa02030fb51052004beb",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "c6b2446cac072bb68b8a3cd5937218732bb747fcf08512510a370233ea4fdedd",
+          "bytes": 1550759040,
+          "extra": [],
+          "files": 27975,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T12:49:52.250433+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "c3f41e2533f1237ca274e2370a97d1434b72bce028cc3597b0fd01afdbc9bf99"
+      },
+      "source": "tests/darkcrest_lava_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "301a5c9e56618baf42ae6ccbd80eea92f3eadc27a3fcfa02030fb51052004beb"
+    },
+    "lava_sale_content_contract": {
+      "failures": [],
+      "log_sha256": "4bf527178693ebc77a7f58a8d7b9c47c682b04a44af486b355a8952d4c8eebcc",
+      "passed_checks": 140,
+      "result": {
+        "available_start": 9260650496,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/independent_tests/lava_sale_content_contract.gd"
+        ],
+        "elapsed": 0.7218248810022487,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T12:49:46.587444+00:00",
+        "log_sha256": "4bf527178693ebc77a7f58a8d7b9c47c682b04a44af486b355a8952d4c8eebcc",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 105848832,
+        "source": "tests/darkcrest_lava_sale_20261112/content_contract.gd",
+        "source_commit": "73ef3f42e2a52b71aacd29fac2d6392731015d9d",
+        "source_sha256": "18570c38bb5b3d52238aa6cadb84d515ef5d8caa886c86365e79fa9a88d140f6",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "c6b2446cac072bb68b8a3cd5937218732bb747fcf08512510a370233ea4fdedd",
+          "bytes": 1550759040,
+          "extra": [],
+          "files": 27975,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T12:49:45.865764+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "a20c4c9eaef7cce78302d1348faf4fd74c26040377a2f5c9f00824be7cfac06e"
+      },
+      "source": "tests/darkcrest_lava_sale_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "18570c38bb5b3d52238aa6cadb84d515ef5d8caa886c86365e79fa9a88d140f6"
+    },
+    "lava_sale_real_matrix": {
+      "failures": [],
+      "log_sha256": "8dcd0a0ad1be029fc3bb3fdc9c199f723273099d5dddf0f6c647f7b2f1771d1b",
+      "passed_checks": 322,
+      "result": {
+        "available_start": 9165021184,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/independent_tests/lava_sale_real_matrix.gd"
+        ],
+        "elapsed": 965.1354911609997,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T12:49:33.772109+00:00",
+        "log_sha256": "8dcd0a0ad1be029fc3bb3fdc9c199f723273099d5dddf0f6c647f7b2f1771d1b",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 3046621184,
+        "source": "tests/darkcrest_lava_sale_20261112/real_matrix.gd",
+        "source_commit": "73ef3f42e2a52b71aacd29fac2d6392731015d9d",
+        "source_sha256": "3082933978422e4ad48cd66547c1c5af9098ecaf44519c53031da1d88580fcef",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "c6b2446cac072bb68b8a3cd5937218732bb747fcf08512510a370233ea4fdedd",
+          "bytes": 1550759040,
+          "extra": [],
+          "files": 27975,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T12:33:28.636624+00:00",
+        "timeout_seconds": 3600,
+        "wrapper_sha256": "6dfedb2bb1044b26cabe6e8079922368c519b53681217188d63d21b2cc574735"
+      },
+      "scenario_sha256": "c4dec10566ad12d84665d384b662a00294f3a080d06937cbe7efc99ddc329125",
+      "source": "tests/darkcrest_lava_sale_20261112/real_matrix.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "3082933978422e4ad48cd66547c1c5af9098ecaf44519c53031da1d88580fcef",
+      "verified_scenario_fields": {
+        "active_rebuy_opened": false,
+        "cases": [
+          {
+            "departed_uid": "u111",
+            "kind": "generated_lava_combat_move_sale",
+            "post_sale_tier4_choices": [
+              {
+                "id": "BG26_505",
+                "stock": 10
+              },
+              {
+                "id": "BG33_319",
+                "stock": 11
+              },
+              {
+                "id": "BG34_925",
+                "stock": 11
+              },
+              {
+                "id": "BG35_921",
+                "stock": 11
+              },
+              {
+                "id": "BG36_508",
+                "stock": 11
+              }
+            ],
+            "retirement": {
+              "owner": 0,
+              "round": 3,
+              "sequence": 79
+            },
+            "seed": 20261120,
+            "source_tier": 4,
+            "source_uid": "u88",
+            "tier2_choices": [
+              {
+                "id": "BG23_002",
+                "stock": 14
+              },
+              {
+                "id": "BG23_009",
+                "stock": 14
+              },
+              {
+                "id": "BG31_924",
+                "stock": 14
+              }
+            ]
+          },
+          {
+            "actual_board_indices": [
+              0,
+              1
+            ],
+            "departed_uid": "u126",
+            "kind": "two_sources_sale_reindex",
+            "retirement": {
+              "owner": 0,
+              "round": 2,
+              "sequence": 315
+            },
+            "seed": 20261220,
+            "source_tiers": [
+              3,
+              2
+            ],
+            "source_uids": [
+              "u1063",
+              "u1064"
+            ]
+          }
+        ],
+        "checks": 321,
+        "coin_pre_source_fixture": true,
+        "combat_damage": [
+          {
+            "event": {
+              "amount": 2,
+              "attack_sequence": 4,
+              "event": "damage",
+              "health": 3,
+              "health_before": 5,
+              "kind": "retaliation",
+              "lethal_keyword": false,
+              "sequence": 7,
+              "source": "u104",
+              "source_combat_id": 1,
+              "target": "u111"
+            },
+            "round": 2,
+            "uid": "u111"
+          }
+        ],
+        "entirely_natural_game": false,
+        "no_live_state_injection": true,
+        "old_lava_three_cases_repeated": false,
+        "partial_failure_live_injection": false,
+        "sale_effects": [
+          {
+            "gold_after": 6,
+            "gold_before": 5,
+            "index": 1,
+            "retirement": {
+              "owner": 0,
+              "round": 3,
+              "sequence": 79
+            },
+            "rng_after": 6486579420436705078,
+            "rng_before": 6486579420436705078,
+            "sold_after": 1,
+            "sold_before": 0,
+            "stock_after": 14,
+            "stock_before": 13,
+            "uid": "u111",
+            "uid_after": 132,
+            "uid_before": 132
+          },
+          {
+            "gold_after": 5,
+            "gold_before": 4,
+            "index": 1,
+            "retirement": {
+              "owner": 0,
+              "round": 2,
+              "sequence": 315
+            },
+            "rng_after": 4952416726596006944,
+            "rng_before": 4952416726596006944,
+            "sold_after": 1,
+            "sold_before": 0,
+            "stock_after": 15,
+            "stock_before": 14,
+            "uid": "u126",
+            "uid_after": 1095,
+            "uid_before": 1095
+          }
+        ],
+        "scope": "ordinary authenticated untouched Lava native sale and retirement only"
+      }
+    },
+    "seafloor_annotation_contract": {
+      "failures": [],
+      "log_sha256": "15d4458f7dab1dd44acd095f523c50faed18498f947ef66473e2b04c9cebe112",
+      "passed_checks": 267,
+      "result": {
+        "available_start": 9150980096,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/independent_tests/seafloor_annotation_contract.gd"
+        ],
+        "elapsed": 0.40756781500022043,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T12:50:26.577928+00:00",
+        "log_sha256": "15d4458f7dab1dd44acd095f523c50faed18498f947ef66473e2b04c9cebe112",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 66875392,
+        "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+        "source_commit": "73ef3f42e2a52b71aacd29fac2d6392731015d9d",
+        "source_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "c6b2446cac072bb68b8a3cd5937218732bb747fcf08512510a370233ea4fdedd",
+          "bytes": 1550759040,
+          "extra": [],
+          "files": 27975,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T12:50:26.170400+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "661fada5df74ebbcfc5398af40e3a2a44118e2acece819c6083ec3e647c871d3"
+      },
+      "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb"
+    },
+    "source_eot_contract": {
+      "failures": [],
+      "log_sha256": "cd531c473dc115192227cd840cf7ec19cf45fbd9aeaccec8b2f2284db259da42",
+      "passed_checks": 68,
+      "result": {
+        "available_start": 9139613696,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/independent_tests/source_eot_contract.gd"
+        ],
+        "elapsed": 0.6060476419988845,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T12:50:15.450626+00:00",
+        "log_sha256": "cd531c473dc115192227cd840cf7ec19cf45fbd9aeaccec8b2f2284db259da42",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 92368896,
+        "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+        "source_commit": "73ef3f42e2a52b71aacd29fac2d6392731015d9d",
+        "source_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "c6b2446cac072bb68b8a3cd5937218732bb747fcf08512510a370233ea4fdedd",
+          "bytes": 1550759040,
+          "extra": [],
+          "files": 27975,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T12:50:14.844586+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "4b8cf5cc20bf13c94c6b1757a0565acdde62297bb7a3e8d0acafbfef5c99d025"
+      },
+      "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790"
+    },
+    "tier5_content_contract": {
+      "failures": [],
+      "log_sha256": "7712bc303f08530226d227aefaa0f7b912594b27f79f60414781c527c8787943",
+      "passed_checks": 810,
+      "result": {
+        "available_start": 9134505984,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/independent_tests/tier5_content_contract.gd"
+        ],
+        "elapsed": 0.6054872880013136,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T12:50:09.878499+00:00",
+        "log_sha256": "7712bc303f08530226d227aefaa0f7b912594b27f79f60414781c527c8787943",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 102412288,
+        "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+        "source_commit": "73ef3f42e2a52b71aacd29fac2d6392731015d9d",
+        "source_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "c6b2446cac072bb68b8a3cd5937218732bb747fcf08512510a370233ea4fdedd",
+          "bytes": 1550759040,
+          "extra": [],
+          "files": 27975,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T12:50:09.273017+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "7aae9d95200bb67f5d35d56999f7ded7363e70009ab8acec0f6968aab8635899"
+      },
+      "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248"
+    },
+    "tier6_content_contract": {
+      "failures": [],
+      "log_sha256": "9db06cc43053de4220d03ebf4e9aa39320a31e7505164ad0124b9878cfc35e4e",
+      "passed_checks": 966,
+      "result": {
+        "available_start": 9140867072,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_followup_20261112/remote_snapshot_73ef3f4/independent_tests/tier6_content_contract.gd"
+        ],
+        "elapsed": 5.468102883998654,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T12:50:03.880364+00:00",
+        "log_sha256": "9db06cc43053de4220d03ebf4e9aa39320a31e7505164ad0124b9878cfc35e4e",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 437592064,
+        "source": "tests/darkcrest_tier6_20261112/content_contract.gd",
+        "source_commit": "73ef3f42e2a52b71aacd29fac2d6392731015d9d",
+        "source_sha256": "01e5874b444db4950cd9a3a08aec18a0bd4443c28c2a17500f59ee39f38eb787",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "c6b2446cac072bb68b8a3cd5937218732bb747fcf08512510a370233ea4fdedd",
+          "bytes": 1550759040,
+          "extra": [],
+          "files": 27975,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T12:49:58.412266+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "d9f936e637ce55837cc7a60e512588c68259a83db3e1ca6af79081a5b66c98c8"
+      },
+      "source": "tests/darkcrest_tier6_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "01e5874b444db4950cd9a3a08aec18a0bd4443c28c2a17500f59ee39f38eb787"
+    }
+  },
+  "trees": {
+    "restored_snapshot": {
+      "aggregate_sha256": "c6b2446cac072bb68b8a3cd5937218732bb747fcf08512510a370233ea4fdedd",
+      "bytes": 1550759040,
+      "extra": [],
+      "files": 27975,
+      "mismatched": [],
+      "missing": []
+    },
+    "run_tree": {
+      "aggregate_sha256": "c6b2446cac072bb68b8a3cd5937218732bb747fcf08512510a370233ea4fdedd",
+      "bytes": 1550759040,
+      "extra": [],
+      "files": 27975,
+      "mismatched": [],
+      "missing": []
+    }
+  },
+  "verified_at_utc": "2026-11-12T12:50:42.587014+00:00",
+  "verified_lava_baseline": {
+    "empty_slot_v1_v2_v3_excluded": true,
+    "receipt_commit_prefix": "527decb1",
+    "source_commit": "5d988875054ad4eea47d6615f8a9fdd65bfe7b4d"
+  }
+}

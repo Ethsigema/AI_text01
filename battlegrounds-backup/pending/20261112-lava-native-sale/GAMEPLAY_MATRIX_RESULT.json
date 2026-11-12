@@ -1,0 +1,141 @@
+{
+  "active_rebuy_opened": false,
+  "cases": [
+    {
+      "departed_uid": "u111",
+      "kind": "generated_lava_combat_move_sale",
+      "post_sale_tier4_choices": [
+        {
+          "id": "BG26_505",
+          "stock": 10
+        },
+        {
+          "id": "BG33_319",
+          "stock": 11
+        },
+        {
+          "id": "BG34_925",
+          "stock": 11
+        },
+        {
+          "id": "BG35_921",
+          "stock": 11
+        },
+        {
+          "id": "BG36_508",
+          "stock": 11
+        }
+      ],
+      "retirement": {
+        "owner": 0,
+        "round": 3,
+        "sequence": 79
+      },
+      "seed": 20261120,
+      "source_tier": 4,
+      "source_uid": "u88",
+      "tier2_choices": [
+        {
+          "id": "BG23_002",
+          "stock": 14
+        },
+        {
+          "id": "BG23_009",
+          "stock": 14
+        },
+        {
+          "id": "BG31_924",
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "actual_board_indices": [
+        0,
+        1
+      ],
+      "departed_uid": "u126",
+      "kind": "two_sources_sale_reindex",
+      "retirement": {
+        "owner": 0,
+        "round": 2,
+        "sequence": 315
+      },
+      "seed": 20261220,
+      "source_tiers": [
+        3,
+        2
+      ],
+      "source_uids": [
+        "u1063",
+        "u1064"
+      ]
+    }
+  ],
+  "checks": 321,
+  "coin_pre_source_fixture": true,
+  "combat_damage": [
+    {
+      "event": {
+        "amount": 2,
+        "attack_sequence": 4,
+        "event": "damage",
+        "health": 3,
+        "health_before": 5,
+        "kind": "retaliation",
+        "lethal_keyword": false,
+        "sequence": 7,
+        "source": "u104",
+        "source_combat_id": 1,
+        "target": "u111"
+      },
+      "round": 2,
+      "uid": "u111"
+    }
+  ],
+  "entirely_natural_game": false,
+  "no_live_state_injection": true,
+  "old_lava_three_cases_repeated": false,
+  "partial_failure_live_injection": false,
+  "sale_effects": [
+    {
+      "gold_after": 6,
+      "gold_before": 5,
+      "index": 1,
+      "retirement": {
+        "owner": 0,
+        "round": 3,
+        "sequence": 79
+      },
+      "rng_after": 6486579420436705078,
+      "rng_before": 6486579420436705078,
+      "sold_after": 1,
+      "sold_before": 0,
+      "stock_after": 14,
+      "stock_before": 13,
+      "uid": "u111",
+      "uid_after": 132,
+      "uid_before": 132
+    },
+    {
+      "gold_after": 5,
+      "gold_before": 4,
+      "index": 1,
+      "retirement": {
+        "owner": 0,
+        "round": 2,
+        "sequence": 315
+      },
+      "rng_after": 4952416726596006944,
+      "rng_before": 4952416726596006944,
+      "sold_after": 1,
+      "sold_before": 0,
+      "stock_after": 15,
+      "stock_before": 14,
+      "uid": "u126",
+      "uid_after": 1095,
+      "uid_before": 1095
+    }
+  ],
+  "scope": "ordinary authenticated untouched Lava native sale and retirement only"
+}
