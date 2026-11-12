@@ -1,0 +1,50 @@
+{
+  "added": {
+    "tests/darkcrest_mini_after_cast_20261112/README.md": {
+      "bytes": 2885,
+      "sha256": "394cf65fd0a1c9c75f3d515b678e9547c82ca43c5cac08efa94407fbac2b96ff"
+    },
+    "tests/darkcrest_mini_after_cast_20261112/content_contract.gd": {
+      "bytes": 4275,
+      "sha256": "8aec0b31be23ceed2f6b344618c70a3aedf8999fcd73358bbb0d73f8315a80dc"
+    },
+    "tests/darkcrest_mini_after_cast_20261112/real_matrix.gd": {
+      "bytes": 6621,
+      "sha256": "47e2fb62a94f1904009eeda5f24c71855573b0f6f6c8734dba84d733a121cdbf"
+    }
+  },
+  "modified": {
+    "core/darkcrest_mini.gd": {
+      "after": {
+        "bytes": 35321,
+        "sha256": "8167d4cb2bae8e360963c50eabe3af28d932a61ed3983e14f6d9be90b79db5b4"
+      },
+      "before": {
+        "bytes": 32008,
+        "sha256": "c50f656f7b01db3bb89728fa44c9bf4f58d34fb9642d094e4e9a963310c120a5"
+      }
+    },
+    "core/darkcrest_sources.gd": {
+      "after": {
+        "bytes": 268772,
+        "sha256": "fab202a56d835b7225e1548e9dc917e1550ebc9f4a3106cac7a260b820270449"
+      },
+      "before": {
+        "bytes": 268768,
+        "sha256": "ae660eb5b39c10c3b169c54c1e5c5d3bdc6638d5e6172dcf81e0ec5f3aeb565a"
+      }
+    },
+    "data/darkcrest_overlay.json": {
+      "after": {
+        "bytes": 69569,
+        "sha256": "2e50363df324927b390305d126d976def68bce90df70b8f7e5a45305d615072c"
+      },
+      "before": {
+        "bytes": 69565,
+        "sha256": "181aa374dc0ec92257a191f463dafe97b111a8b6f0735399d6f637dd5e19e03d"
+      }
+    }
+  },
+  "previous_commit": "d914d66999536eb4250841488d09ae7ba3f82ccf",
+  "removed": {}
+}
