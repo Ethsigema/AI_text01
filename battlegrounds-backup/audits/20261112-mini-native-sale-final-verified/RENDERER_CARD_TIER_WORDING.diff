@@ -1,0 +1,11 @@
+--- render_verified_slice_before_wording.py
++++ render_verified_slice.py
+@@ -52,7 +52,7 @@
+ 
+ 源码：{commit}。
+ 
+-唯一普通 Mini 经原生机制发出原始三叉戟后，以公开 sell 命令出售。真实手牌中的原 token 及其原记录仍保留，同回合对原普通 Lava 施放本轮第一张塑造，2/5 → 4/5、kept 1。一次真实非空战斗后进入下轮招募，永久攻击保留、kept 重置为0，暗潮成长至2级；已离场 Mini 不再发牌。
++唯一普通 Mini 经原生机制发出原始三叉戟后，以公开 sell 命令出售。真实手牌中的原 token 及其原记录仍保留，同回合对原普通 Lava 施放本轮第一张塑造，2/5 → 4/5、kept 1。一次真实非空战斗后进入下轮招募，永久攻击保留、kept 重置为0，暗潮的获取牌等级推进至2（不是随从星级变化）；已离场 Mini 不再发牌。
+ 
+ 实际检查：新 Game {actual_full} 项；新 pure {new_pure} 项；9 份既有纯合同 {old_pure} 项；总计 {actual_full+new_pure+old_pure} 项。旧131项完整 Game 未重跑。所有运行仅使用一棵新的完整 restored_snapshot；候选与恢复树分别做完整源核验，不称两个 runtime。
+ 

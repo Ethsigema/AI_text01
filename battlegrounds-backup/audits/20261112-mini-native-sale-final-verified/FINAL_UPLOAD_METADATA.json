@@ -1,0 +1,241 @@
+{
+  "bytes": 6465832,
+  "changed_records": [
+    {
+      "bytes": 1105660,
+      "git_sha": "f114d47abf7313a447a200330b8df4fe4e2be353",
+      "name": "GAMEPLAY_EVIDENCE.tar.xz",
+      "sha256": "340072924e12de19404e88becae2f1d983f57fc004f115c11ccb0a89e0e8bca0"
+    },
+    {
+      "bytes": 26023,
+      "git_sha": "b07655dfe1f0d25c164eeb191c7404b7ffaad53a",
+      "name": "GAMEPLAY_EVIDENCE_MANIFEST.json",
+      "sha256": "63087aefb72e64a3dad6f258134b96d0be3d36334488c6e50cf36b133ee2a03d"
+    },
+    {
+      "bytes": 49901,
+      "git_sha": "4b84daa77bd1497fa32f3caa1f3cf528e9296075",
+      "name": "GAMEPLAY_INDEPENDENT_VERIFICATION.json",
+      "sha256": "93abae320c7f52f91fdab45a980ca4a73f874a96ab422b8ca9eb67afc543621c"
+    },
+    {
+      "bytes": 7356,
+      "git_sha": "ef1abc9f3efa7a953320fc9355bbd7808b24b1c7",
+      "name": "GAMEPLAY_MATRIX_RESULT.json",
+      "sha256": "8ae37a62cbdf5587e08cd056b406e0f98729fdfcef84cd43b9dfb3f72d82b819"
+    },
+    {
+      "bytes": 2156,
+      "git_sha": "a1a5e27aa6d15a3b92392e4fca45007f5774fc3c",
+      "name": "GAMEPLAY_OUTCOME.json",
+      "sha256": "c2bdb35ac848870915faf5a2cdb5df5a6c3aacd2fa1d614eb5eaeb23e7cc3e4c"
+    },
+    {
+      "bytes": 1731,
+      "git_sha": "98c1b977b85733b0b87a893a2d74dc7273b42314",
+      "name": "GAMEPLAY_OUTCOME.md",
+      "sha256": "1935a1204b09da5b2d073f8cd4c52f23fe5794dd8f5f582100236a83777bb9d1"
+    },
+    {
+      "bytes": 1382,
+      "git_sha": "d30141c5d64bf3c78852fb6f6a84c653cc7fa225",
+      "name": "GAMEPLAY_VERIFIED_SLICE.md",
+      "sha256": "64cb4c6b8fb22420b703f336f2e906c90fe58b9d94bf426d3b5b9c3077d43795"
+    },
+    {
+      "bytes": 2670,
+      "git_sha": "f21e19abf846a260170d45757f177e652430cf9b",
+      "name": "SHA256SUMS.txt",
+      "sha256": "cf33cc5988fda7bf6953e3962037beb5b8ec8ed9f0fa220409b8fe997f85be60"
+    }
+  ],
+  "files": 30,
+  "folder": "battlegrounds-backup/pending/20261112-mini-native-sale",
+  "outcome": "success",
+  "records": [
+    {
+      "bytes": 606,
+      "git_sha": "d8cb0fe9ec7dc6575fb23743c38bff63ccc6f1e9",
+      "name": "ACCEPTED_MINI_PREIMAGE_METADATA_VERIFIED.json",
+      "sha256": "6f4396622546107814503e342c7c4aa8ff661f1561b3dc49ac85259c36290fab"
+    },
+    {
+      "bytes": 406,
+      "git_sha": "cd5de090ea8f28966b298ce0925e60a4ff6b1b8c",
+      "name": "BUILD_VERIFIED.json",
+      "sha256": "9120a1f78170ea8b1c17b3ce9bfea1bddbe77bc1c8c13a6b38bb8770d14c64b5"
+    },
+    {
+      "bytes": 27505,
+      "git_sha": "3add23be1d65ff608c7deae4e7b86d666583d685",
+      "name": "CHANGES_FROM_ACCEPTED_MINI.json",
+      "sha256": "751d330db5b7ed35f29698fad4182dd36f7c458837c9e50d795db70bccf1515a"
+    },
+    {
+      "bytes": 249,
+      "git_sha": "862bbd2e9caad7215cbc19a80b3c17f47f6d84b3",
+      "name": "CURRENT_EVIDENCE_VERIFIED.json",
+      "sha256": "8802a19b52120184515f337fff36d090dc18be1f0b217a24fd4d5704071e5fdb"
+    },
+    {
+      "bytes": 705,
+      "git_sha": "8b5dc3a785ee94b18f802733cc9fcaeb72e0c1e0",
+      "name": "CURRENT_INPUTS_VERIFIED.json",
+      "sha256": "aa05773bc398644e735537629d7db49e69bb50b0e159f3de2c234f8cbea14620"
+    },
+    {
+      "bytes": 2042096,
+      "git_sha": "c75aa002f505cf0b7bad7b902fa8d90428a1c3a5",
+      "name": "FIX_EVIDENCE.tar.xz",
+      "sha256": "75670b658135becde5f66bf9dee73240b902141c12b1580b78fc027fe9dff7d6"
+    },
+    {
+      "bytes": 13263,
+      "git_sha": "a3c99e1d27a2dfe43fa063ddbcefe90c90dead6f",
+      "name": "FIX_EVIDENCE_MANIFEST.json",
+      "sha256": "f6cee5a42a54f2330e62cf6d1573bd4fa4091394c49fc816e292a9a12435d85a"
+    },
+    {
+      "bytes": 28919,
+      "git_sha": "e0ae730f6f62aaaf97c9ba6094f6671497d91bc6",
+      "name": "FRESH_DOWNLOAD_VERIFIED.json",
+      "sha256": "1209f43a93d0b2c90012ef231d13320b9389350009e7957a84d354d575369991"
+    },
+    {
+      "bytes": 1105660,
+      "git_sha": "f114d47abf7313a447a200330b8df4fe4e2be353",
+      "name": "GAMEPLAY_EVIDENCE.tar.xz",
+      "sha256": "340072924e12de19404e88becae2f1d983f57fc004f115c11ccb0a89e0e8bca0"
+    },
+    {
+      "bytes": 26023,
+      "git_sha": "b07655dfe1f0d25c164eeb191c7404b7ffaad53a",
+      "name": "GAMEPLAY_EVIDENCE_MANIFEST.json",
+      "sha256": "63087aefb72e64a3dad6f258134b96d0be3d36334488c6e50cf36b133ee2a03d"
+    },
+    {
+      "bytes": 49901,
+      "git_sha": "4b84daa77bd1497fa32f3caa1f3cf528e9296075",
+      "name": "GAMEPLAY_INDEPENDENT_VERIFICATION.json",
+      "sha256": "93abae320c7f52f91fdab45a980ca4a73f874a96ab422b8ca9eb67afc543621c"
+    },
+    {
+      "bytes": 7356,
+      "git_sha": "ef1abc9f3efa7a953320fc9355bbd7808b24b1c7",
+      "name": "GAMEPLAY_MATRIX_RESULT.json",
+      "sha256": "8ae37a62cbdf5587e08cd056b406e0f98729fdfcef84cd43b9dfb3f72d82b819"
+    },
+    {
+      "bytes": 2156,
+      "git_sha": "a1a5e27aa6d15a3b92392e4fca45007f5774fc3c",
+      "name": "GAMEPLAY_OUTCOME.json",
+      "sha256": "c2bdb35ac848870915faf5a2cdb5df5a6c3aacd2fa1d614eb5eaeb23e7cc3e4c"
+    },
+    {
+      "bytes": 1731,
+      "git_sha": "98c1b977b85733b0b87a893a2d74dc7273b42314",
+      "name": "GAMEPLAY_OUTCOME.md",
+      "sha256": "1935a1204b09da5b2d073f8cd4c52f23fe5794dd8f5f582100236a83777bb9d1"
+    },
+    {
+      "bytes": 1382,
+      "git_sha": "d30141c5d64bf3c78852fb6f6a84c653cc7fa225",
+      "name": "GAMEPLAY_VERIFIED_SLICE.md",
+      "sha256": "64cb4c6b8fb22420b703f336f2e906c90fe58b9d94bf426d3b5b9c3077d43795"
+    },
+    {
+      "bytes": 25926,
+      "git_sha": "155d309b3977a147e1609bd11859f0c2674948d6",
+      "name": "MANIFEST.json",
+      "sha256": "e47098d93e58095e4e800b0f886ccb9c93fcc3b0f8587e3d543d7c4efab23d0b"
+    },
+    {
+      "bytes": 4530,
+      "git_sha": "c627ee4a6d560efd0268fb0f8eec2da3e8d10d94",
+      "name": "RECONSTRUCTION_NOTE.md",
+      "sha256": "6a73b8de7a571f51ccc407a2be334c5f468bb80830205150ce4e5087a7a8a544"
+    },
+    {
+      "bytes": 6100,
+      "git_sha": "2f2e61857805d2882f8f47579832bb5270b241d8",
+      "name": "RECOVERY.md",
+      "sha256": "44c2bda662969c370c302effe012a90e41f35697ce9366a175584ce032d02bf6"
+    },
+    {
+      "bytes": 482,
+      "git_sha": "ff8fa2be537b9ee4032753d0114c66a7a3d28515",
+      "name": "REMOTE_FIX_EVIDENCE_VERIFIED.json",
+      "sha256": "c7991228796971ed2a50564d9d2779f9fbd8be3316a790b868c916e167ef6c53"
+    },
+    {
+      "bytes": 7208,
+      "git_sha": "f7f9964a2aca2571e2a536c0315a28971e8ee740",
+      "name": "REMOTE_SNAPSHOT_DOWNLOAD_VERIFIED.json",
+      "sha256": "cb6ebaba07a2839a523b856a65c81cf042570cce7e7b3a535ed53bcc78688aa7"
+    },
+    {
+      "bytes": 1019,
+      "git_sha": "755202b90265c2d28a3101177590c71aca4e8e03",
+      "name": "REMOTE_SNAPSHOT_RESTORE_VERIFIED.json",
+      "sha256": "de0613c515e2081af3b85ccdd4187dc4b89c7e889404e385d8ec364b90f898b8"
+    },
+    {
+      "bytes": 422,
+      "git_sha": "e7c73478da8819548d4c7d6dfecf4c5161941ff5",
+      "name": "RESTORE_VERIFIED.md",
+      "sha256": "b4c70b132e8afd9e8518c8976028efb8b654dfebfc8171e0ce95b1739439beda"
+    },
+    {
+      "bytes": 2670,
+      "git_sha": "f21e19abf846a260170d45757f177e652430cf9b",
+      "name": "SHA256SUMS.txt",
+      "sha256": "cf33cc5988fda7bf6953e3962037beb5b8ec8ed9f0fa220409b8fe997f85be60"
+    },
+    {
+      "bytes": 1282511,
+      "git_sha": "4bc631ea7d2c25155e5ccd81ecc57de1f0380f93",
+      "name": "SOURCE_MAP.json.gz",
+      "sha256": "175335e66eef9cfbda74620fd37543021a6a7e549ede2a04306b799bd2b3b2c5"
+    },
+    {
+      "bytes": 786,
+      "git_sha": "4dc0f9b8472df999543fe9c02f0119100b867d7a",
+      "name": "STATIC_SHA_VERIFIED.json",
+      "sha256": "ee9921968ddbf6b9b6866cef40154c69a27eb6129091331482d8ce9098ebcc09"
+    },
+    {
+      "bytes": 1246204,
+      "git_sha": "0e3f91ac4ac256649005dae34fc229c3a8fa9ab5",
+      "name": "TOOLS_EVIDENCE.tar.xz",
+      "sha256": "15c2f018f2fd9eae8dae7f6dabdd6b50fdeaa34ea712e69b2c38afcf89e8281b"
+    },
+    {
+      "bytes": 14404,
+      "git_sha": "96bc5ea6919ce242000eb3c369ee81cfc8dc4c1d",
+      "name": "TOOLS_EVIDENCE_MANIFEST.json",
+      "sha256": "6205c982586f711dc904f160117537707abe443accb36a900187d7326e7770db"
+    },
+    {
+      "bytes": 552336,
+      "git_sha": "d3f1d1d3594f8cbfcedf763451fcd037c2ab4a86",
+      "name": "delta.tar.xz",
+      "sha256": "1a1d468d64187f8556c3382b325f1bfe9d055adc46ced9c13718ce85cf7a05e0"
+    },
+    {
+      "bytes": 3516,
+      "git_sha": "2d90bb29327a6f488c3ca620c0a2f2e1a023b7bc",
+      "name": "restore_increment.py",
+      "sha256": "5dc44cb3f02f230c690b5da3a0b8d6fc7e3b83b69848fa66478cfde3eef23550"
+    },
+    {
+      "bytes": 9760,
+      "git_sha": "fa1fa78401742bb2e4d3602aa4221e1e30e99e42",
+      "name": "restore_low_disk.py",
+      "sha256": "9aa6eb8e32de448880c74cb605f1b2bb12738e84d19b8923de5fb91d871ff86a"
+    }
+  ],
+  "remote_folder": "battlegrounds-backup/pending/20261112-mini-native-sale",
+  "source_commit": "a96a03307c43c5641793663b99e864877543d1b5",
+  "status": "LOCAL_OUTCOME_READY_NOT_PUBLISHED"
+}

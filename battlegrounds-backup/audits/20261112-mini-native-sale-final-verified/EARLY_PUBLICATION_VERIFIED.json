@@ -1,0 +1,201 @@
+{
+  "bytes": 5270968,
+  "commit": "4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45",
+  "evidence_members_rehashed": {
+    "FIX_EVIDENCE.tar.xz": 84,
+    "TOOLS_EVIDENCE.tar.xz": 85,
+    "delta.tar.xz": 148
+  },
+  "files": 23,
+  "game_started": false,
+  "gameplay_acceptance": false,
+  "live_game_logs_accessed": false,
+  "new_full_tree_restore_repeated": false,
+  "records": [
+    {
+      "bytes": 606,
+      "git_sha": "d8cb0fe9ec7dc6575fb23743c38bff63ccc6f1e9",
+      "name": "ACCEPTED_MINI_PREIMAGE_METADATA_VERIFIED.json",
+      "sha256": "6f4396622546107814503e342c7c4aa8ff661f1561b3dc49ac85259c36290fab",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/ACCEPTED_MINI_PREIMAGE_METADATA_VERIFIED.json"
+    },
+    {
+      "bytes": 406,
+      "git_sha": "cd5de090ea8f28966b298ce0925e60a4ff6b1b8c",
+      "name": "BUILD_VERIFIED.json",
+      "sha256": "9120a1f78170ea8b1c17b3ce9bfea1bddbe77bc1c8c13a6b38bb8770d14c64b5",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/BUILD_VERIFIED.json"
+    },
+    {
+      "bytes": 27505,
+      "git_sha": "3add23be1d65ff608c7deae4e7b86d666583d685",
+      "name": "CHANGES_FROM_ACCEPTED_MINI.json",
+      "sha256": "751d330db5b7ed35f29698fad4182dd36f7c458837c9e50d795db70bccf1515a",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/CHANGES_FROM_ACCEPTED_MINI.json"
+    },
+    {
+      "bytes": 249,
+      "git_sha": "862bbd2e9caad7215cbc19a80b3c17f47f6d84b3",
+      "name": "CURRENT_EVIDENCE_VERIFIED.json",
+      "sha256": "8802a19b52120184515f337fff36d090dc18be1f0b217a24fd4d5704071e5fdb",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/CURRENT_EVIDENCE_VERIFIED.json"
+    },
+    {
+      "bytes": 705,
+      "git_sha": "8b5dc3a785ee94b18f802733cc9fcaeb72e0c1e0",
+      "name": "CURRENT_INPUTS_VERIFIED.json",
+      "sha256": "aa05773bc398644e735537629d7db49e69bb50b0e159f3de2c234f8cbea14620",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/CURRENT_INPUTS_VERIFIED.json"
+    },
+    {
+      "bytes": 2042096,
+      "git_sha": "c75aa002f505cf0b7bad7b902fa8d90428a1c3a5",
+      "name": "FIX_EVIDENCE.tar.xz",
+      "sha256": "75670b658135becde5f66bf9dee73240b902141c12b1580b78fc027fe9dff7d6",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/FIX_EVIDENCE.tar.xz"
+    },
+    {
+      "bytes": 13263,
+      "git_sha": "a3c99e1d27a2dfe43fa063ddbcefe90c90dead6f",
+      "name": "FIX_EVIDENCE_MANIFEST.json",
+      "sha256": "f6cee5a42a54f2330e62cf6d1573bd4fa4091394c49fc816e292a9a12435d85a",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/FIX_EVIDENCE_MANIFEST.json"
+    },
+    {
+      "bytes": 28919,
+      "git_sha": "e0ae730f6f62aaaf97c9ba6094f6671497d91bc6",
+      "name": "FRESH_DOWNLOAD_VERIFIED.json",
+      "sha256": "1209f43a93d0b2c90012ef231d13320b9389350009e7957a84d354d575369991",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/FRESH_DOWNLOAD_VERIFIED.json"
+    },
+    {
+      "bytes": 25926,
+      "git_sha": "155d309b3977a147e1609bd11859f0c2674948d6",
+      "name": "MANIFEST.json",
+      "sha256": "e47098d93e58095e4e800b0f886ccb9c93fcc3b0f8587e3d543d7c4efab23d0b",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/MANIFEST.json"
+    },
+    {
+      "bytes": 4530,
+      "git_sha": "c627ee4a6d560efd0268fb0f8eec2da3e8d10d94",
+      "name": "RECONSTRUCTION_NOTE.md",
+      "sha256": "6a73b8de7a571f51ccc407a2be334c5f468bb80830205150ce4e5087a7a8a544",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/RECONSTRUCTION_NOTE.md"
+    },
+    {
+      "bytes": 6100,
+      "git_sha": "2f2e61857805d2882f8f47579832bb5270b241d8",
+      "name": "RECOVERY.md",
+      "sha256": "44c2bda662969c370c302effe012a90e41f35697ce9366a175584ce032d02bf6",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/RECOVERY.md"
+    },
+    {
+      "bytes": 482,
+      "git_sha": "ff8fa2be537b9ee4032753d0114c66a7a3d28515",
+      "name": "REMOTE_FIX_EVIDENCE_VERIFIED.json",
+      "sha256": "c7991228796971ed2a50564d9d2779f9fbd8be3316a790b868c916e167ef6c53",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/REMOTE_FIX_EVIDENCE_VERIFIED.json"
+    },
+    {
+      "bytes": 7208,
+      "git_sha": "f7f9964a2aca2571e2a536c0315a28971e8ee740",
+      "name": "REMOTE_SNAPSHOT_DOWNLOAD_VERIFIED.json",
+      "sha256": "cb6ebaba07a2839a523b856a65c81cf042570cce7e7b3a535ed53bcc78688aa7",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/REMOTE_SNAPSHOT_DOWNLOAD_VERIFIED.json"
+    },
+    {
+      "bytes": 1019,
+      "git_sha": "755202b90265c2d28a3101177590c71aca4e8e03",
+      "name": "REMOTE_SNAPSHOT_RESTORE_VERIFIED.json",
+      "sha256": "de0613c515e2081af3b85ccdd4187dc4b89c7e889404e385d8ec364b90f898b8",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/REMOTE_SNAPSHOT_RESTORE_VERIFIED.json"
+    },
+    {
+      "bytes": 422,
+      "git_sha": "e7c73478da8819548d4c7d6dfecf4c5161941ff5",
+      "name": "RESTORE_VERIFIED.md",
+      "sha256": "b4c70b132e8afd9e8518c8976028efb8b654dfebfc8171e0ce95b1739439beda",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/RESTORE_VERIFIED.md"
+    },
+    {
+      "bytes": 2015,
+      "git_sha": "398790bab0c0b096d9cbff2e7d7322ae9276c70a",
+      "name": "SHA256SUMS.txt",
+      "sha256": "f5a2a27ef6c0d3c16d0b1df73bfef450d97810fe8b77b7aa2fbbfa4f46c617a6",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/SHA256SUMS.txt"
+    },
+    {
+      "bytes": 1282511,
+      "git_sha": "4bc631ea7d2c25155e5ccd81ecc57de1f0380f93",
+      "name": "SOURCE_MAP.json.gz",
+      "sha256": "175335e66eef9cfbda74620fd37543021a6a7e549ede2a04306b799bd2b3b2c5",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/SOURCE_MAP.json.gz"
+    },
+    {
+      "bytes": 786,
+      "git_sha": "4dc0f9b8472df999543fe9c02f0119100b867d7a",
+      "name": "STATIC_SHA_VERIFIED.json",
+      "sha256": "ee9921968ddbf6b9b6866cef40154c69a27eb6129091331482d8ce9098ebcc09",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/STATIC_SHA_VERIFIED.json"
+    },
+    {
+      "bytes": 1246204,
+      "git_sha": "0e3f91ac4ac256649005dae34fc229c3a8fa9ab5",
+      "name": "TOOLS_EVIDENCE.tar.xz",
+      "sha256": "15c2f018f2fd9eae8dae7f6dabdd6b50fdeaa34ea712e69b2c38afcf89e8281b",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/TOOLS_EVIDENCE.tar.xz"
+    },
+    {
+      "bytes": 14404,
+      "git_sha": "96bc5ea6919ce242000eb3c369ee81cfc8dc4c1d",
+      "name": "TOOLS_EVIDENCE_MANIFEST.json",
+      "sha256": "6205c982586f711dc904f160117537707abe443accb36a900187d7326e7770db",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/TOOLS_EVIDENCE_MANIFEST.json"
+    },
+    {
+      "bytes": 552336,
+      "git_sha": "d3f1d1d3594f8cbfcedf763451fcd037c2ab4a86",
+      "name": "delta.tar.xz",
+      "sha256": "1a1d468d64187f8556c3382b325f1bfe9d055adc46ced9c13718ce85cf7a05e0",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/delta.tar.xz"
+    },
+    {
+      "bytes": 3516,
+      "git_sha": "2d90bb29327a6f488c3ca620c0a2f2e1a023b7bc",
+      "name": "restore_increment.py",
+      "sha256": "5dc44cb3f02f230c690b5da3a0b8d6fc7e3b83b69848fa66478cfde3eef23550",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/restore_increment.py"
+    },
+    {
+      "bytes": 9760,
+      "git_sha": "fa1fa78401742bb2e4d3602aa4221e1e30e99e42",
+      "name": "restore_low_disk.py",
+      "sha256": "9aa6eb8e32de448880c74cb605f1b2bb12738e84d19b8923de5fb91d871ff86a",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/4821a8dbbbc21ed174b9c45b39baa1b7e0ad9a45/battlegrounds-backup/pending/20261112-mini-native-sale/restore_low_disk.py"
+    }
+  ],
+  "remote_folder": "battlegrounds-backup/pending/20261112-mini-native-sale",
+  "sha256sums_entries": 22,
+  "source_all_non_sums_files_unchanged": {
+    "ACCEPTED_MINI_PREIMAGE_METADATA_VERIFIED.json": "6f4396622546107814503e342c7c4aa8ff661f1561b3dc49ac85259c36290fab",
+    "BUILD_VERIFIED.json": "9120a1f78170ea8b1c17b3ce9bfea1bddbe77bc1c8c13a6b38bb8770d14c64b5",
+    "CHANGES_FROM_ACCEPTED_MINI.json": "751d330db5b7ed35f29698fad4182dd36f7c458837c9e50d795db70bccf1515a",
+    "CURRENT_EVIDENCE_VERIFIED.json": "8802a19b52120184515f337fff36d090dc18be1f0b217a24fd4d5704071e5fdb",
+    "CURRENT_INPUTS_VERIFIED.json": "aa05773bc398644e735537629d7db49e69bb50b0e159f3de2c234f8cbea14620",
+    "FIX_EVIDENCE.tar.xz": "75670b658135becde5f66bf9dee73240b902141c12b1580b78fc027fe9dff7d6",
+    "FIX_EVIDENCE_MANIFEST.json": "f6cee5a42a54f2330e62cf6d1573bd4fa4091394c49fc816e292a9a12435d85a",
+    "FRESH_DOWNLOAD_VERIFIED.json": "1209f43a93d0b2c90012ef231d13320b9389350009e7957a84d354d575369991",
+    "MANIFEST.json": "e47098d93e58095e4e800b0f886ccb9c93fcc3b0f8587e3d543d7c4efab23d0b",
+    "RECONSTRUCTION_NOTE.md": "6a73b8de7a571f51ccc407a2be334c5f468bb80830205150ce4e5087a7a8a544",
+    "RECOVERY.md": "44c2bda662969c370c302effe012a90e41f35697ce9366a175584ce032d02bf6",
+    "SOURCE_MAP.json.gz": "175335e66eef9cfbda74620fd37543021a6a7e549ede2a04306b799bd2b3b2c5",
+    "STATIC_SHA_VERIFIED.json": "ee9921968ddbf6b9b6866cef40154c69a27eb6129091331482d8ce9098ebcc09",
+    "delta.tar.xz": "1a1d468d64187f8556c3382b325f1bfe9d055adc46ced9c13718ce85cf7a05e0",
+    "restore_increment.py": "5dc44cb3f02f230c690b5da3a0b8d6fc7e3b83b69848fa66478cfde3eef23550",
+    "restore_low_disk.py": "9aa6eb8e32de448880c74cb605f1b2bb12738e84d19b8923de5fb91d871ff86a"
+  },
+  "source_commit": "a96a03307c43c5641793663b99e864877543d1b5",
+  "status": "PASS_EARLY_RESTORE_RECEIPT_PUBLICATION_BYTES_ONLY_NOT_GAME",
+  "uploads": 0,
+  "verified_at_utc": "2026-11-12T15:32:16.435506+00:00"
+}
