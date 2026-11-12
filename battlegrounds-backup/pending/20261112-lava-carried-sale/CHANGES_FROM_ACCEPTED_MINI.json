@@ -1,0 +1,60 @@
+{
+  "added": {
+    "tests/darkcrest_lava_carried_sale_20261112/README.md": {
+      "bytes": 4037,
+      "sha256": "a06a9b904a190dca2897077d3e1a7d615cfc4ac5d256ec18b2d028d4143bb181"
+    },
+    "tests/darkcrest_lava_carried_sale_20261112/content_contract.gd": {
+      "bytes": 2595,
+      "sha256": "07e8e6353ef103961fa20d75e9b1e125250565c9251e7870810e7b2e4c44fcc3"
+    },
+    "tests/darkcrest_lava_carried_sale_20261112/real_matrix.gd": {
+      "bytes": 7519,
+      "sha256": "e38c557f0e420b9521a67a4a2a2043a2e80a004acb4172abd8eb6986d72f4f02"
+    }
+  },
+  "modified": {
+    "core/darkcrest_lava_play.gd": {
+      "after": {
+        "bytes": 20606,
+        "sha256": "af8054153c41d4940f70744dbec54bacc91e904646f819d7ef25fc12cbe78729"
+      },
+      "before": {
+        "bytes": 17230,
+        "sha256": "313bb60d59e9d577d9f1519a71364e0afef309ad43b74d7e75d623a7ed579032"
+      }
+    },
+    "core/darkcrest_mini.gd": {
+      "after": {
+        "bytes": 35555,
+        "sha256": "ff6d4caf1098e54c6f670f80f483745d5efb27b98878ed6116107818daf9d08c"
+      },
+      "before": {
+        "bytes": 35321,
+        "sha256": "8167d4cb2bae8e360963c50eabe3af28d932a61ed3983e14f6d9be90b79db5b4"
+      }
+    },
+    "core/darkcrest_sources.gd": {
+      "after": {
+        "bytes": 268769,
+        "sha256": "b7e4e79d4bd3a80901c669e76b839bf9aa47660d8e355bc1400e7d1afd4f6752"
+      },
+      "before": {
+        "bytes": 268768,
+        "sha256": "e053df70474f067592aee64d05f29c60a70b31219cfc5ef42a7459c0241935d9"
+      }
+    },
+    "data/darkcrest_overlay.json": {
+      "after": {
+        "bytes": 69566,
+        "sha256": "fc7eea1804a052d12de2257d602cd9900a91d6a499ad84cdfbcfdf57dba674fe"
+      },
+      "before": {
+        "bytes": 69565,
+        "sha256": "0ae4a571a8e16e02801b5e3316f3238bf0ca9e343a960a0c350a50c634f214de"
+      }
+    }
+  },
+  "previous_commit": "49f3a8d59dd2a5c6f6d5e399887ba41f39500bdb",
+  "removed": {}
+}
