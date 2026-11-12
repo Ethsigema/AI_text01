@@ -1,0 +1,22 @@
+{
+  "available_start": 9467576320,
+  "command": [
+    "godot",
+    "--headless",
+    "--path",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest_next/fresh_remote/run_darkcrest_tier4_candidate",
+    "--script",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest_next/fresh_remote/independent_tests/tests/darkcrest_20261112/seafloor_annotation_contract.gd"
+  ],
+  "elapsed": 0.405096341000899,
+  "exit": 0,
+  "finished_at_utc": "2026-11-12T05:31:47.109726+00:00",
+  "hard_limit": "unavailable: cgroup filesystem not exposed",
+  "reason": "exited",
+  "rss_soft_limit": 4294967296,
+  "sampled_process_group_peak_rss": 66506752,
+  "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+  "source_commit": "e6a17ac734268159fffdb1ebc58c003cd7ebf33e",
+  "started_at_utc": "2026-11-12T05:31:46.704639+00:00",
+  "timeout_seconds": 60
+}

@@ -1,0 +1,186 @@
+{
+  "fixtures": {
+    "tests/darkcrest_20261112/darkcrest_sources_archived.gd": "aab40e4847ab19b74f3e24008d38e28e75642cd84323e0768b82abf99d7285ef",
+    "tests/darkcrest_20261112/real_matrix.gd": "2f1d22423e80716173c82d0c01de7bf5cb460c84d68337d272552ede650c458d"
+  },
+  "limitations": [
+    "Finite Darkcrest tier 4 and inherited tier 1/2/3/waiting regressions only.",
+    "Rider full Game was unchanged and not rerun in this round.",
+    "Not full-match, default-pool promotion, old-save, tier 5+, golden/triple/copy, or all-content acceptance.",
+    "Original invisible worktree and unknown unuploaded changes were not recovered."
+  ],
+  "old_real_matrix_executed": false,
+  "remote_dependencies": {
+    "base_report": "DEPENDENCY_VERIFICATION.json",
+    "candidate_download_report": "new_candidate_package/FRESH_DOWNLOAD_VERIFIED.json",
+    "evidence_members_rehashed": 56,
+    "evidence_report": "NEW_EVIDENCE_VERIFIED.json",
+    "fresh_base_download_files": 25,
+    "fresh_candidate_download_files": 9,
+    "fresh_total_download_bytes": 330848616,
+    "fresh_total_download_files": 34,
+    "old_backups_preserved": true,
+    "old_dependency_content_reused": false,
+    "restore_report": "NEW_RESTORE_VERIFIED.json"
+  },
+  "rider_full_game_repeated": false,
+  "sequential_game_execution": true,
+  "source_commit": "e6a17ac734268159fffdb1ebc58c003cd7ebf33e",
+  "source_map_sha256": "e6fa0c1dc2bcbdc52f82ea9e1fb0a5f91078bead2512558cbc237e2b38628001",
+  "status": "PASS_REMOTE_SOURCE_RESTORED_ALL_FINAL_TESTS_AND_POST_TEST_REHASH",
+  "tests": {
+    "hand_shape_contract": {
+      "failures": [],
+      "log_sha256": "fc7ebfc2a16a8be2bbb2235c433c334a4c1f7a2ad8c8319900c130d61a8687fe",
+      "passed_checks": 166,
+      "result": {
+        "available_start": 9434230784,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest_next/fresh_remote/run_darkcrest_tier4_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest_next/fresh_remote/independent_tests/tests/darkcrest_20261112/hand_shape_contract.gd"
+        ],
+        "elapsed": 0.45603710700015654,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T05:31:33.248819+00:00",
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 90578944,
+        "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+        "source_commit": "e6a17ac734268159fffdb1ebc58c003cd7ebf33e",
+        "started_at_utc": "2026-11-12T05:31:32.792793+00:00",
+        "timeout_seconds": 60
+      },
+      "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e"
+    },
+    "seafloor_annotation_contract": {
+      "failures": [],
+      "log_sha256": "15d4458f7dab1dd44acd095f523c50faed18498f947ef66473e2b04c9cebe112",
+      "passed_checks": 267,
+      "result": {
+        "available_start": 9467576320,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest_next/fresh_remote/run_darkcrest_tier4_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest_next/fresh_remote/independent_tests/tests/darkcrest_20261112/seafloor_annotation_contract.gd"
+        ],
+        "elapsed": 0.405096341000899,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T05:31:47.109726+00:00",
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 66506752,
+        "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+        "source_commit": "e6a17ac734268159fffdb1ebc58c003cd7ebf33e",
+        "started_at_utc": "2026-11-12T05:31:46.704639+00:00",
+        "timeout_seconds": 60
+      },
+      "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb"
+    },
+    "source_eot_contract": {
+      "failures": [],
+      "log_sha256": "cd531c473dc115192227cd840cf7ec19cf45fbd9aeaccec8b2f2284db259da42",
+      "passed_checks": 68,
+      "result": {
+        "available_start": 9475559424,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest_next/fresh_remote/run_darkcrest_tier4_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest_next/fresh_remote/independent_tests/tests/darkcrest_20261112/source_eot_contract.gd"
+        ],
+        "elapsed": 0.5577654629996687,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T05:31:22.331504+00:00",
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 85098496,
+        "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+        "source_commit": "e6a17ac734268159fffdb1ebc58c003cd7ebf33e",
+        "started_at_utc": "2026-11-12T05:31:21.773736+00:00",
+        "timeout_seconds": 60
+      },
+      "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790"
+    },
+    "tier4_real_matrix": {
+      "actual_rooms": 6,
+      "coverage": {
+        "BG26_505": 1,
+        "BG33_319": 1,
+        "BG34_925": 1,
+        "BG35_921": 1,
+        "BG36_508": 1
+      },
+      "failures": [],
+      "log_sha256": "0cad90ddf451b673185d350b4393dc9c312d3ab35cb8a3e02cbf38f6218adabb",
+      "lower_tier_regression": true,
+      "passed_checks": 378,
+      "result": {
+        "available_start": 9462603776,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest_next/fresh_remote/run_darkcrest_tier4_candidate",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_20261112_darkcrest_next/fresh_remote/independent_tests/tests/darkcrest_tier4_20261112/real_matrix.gd"
+        ],
+        "elapsed": 486.7804273950005,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T05:31:00.555724+00:00",
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 3040280576,
+        "source": "tests/darkcrest_tier4_20261112/real_matrix.gd",
+        "source_commit": "e6a17ac734268159fffdb1ebc58c003cd7ebf33e",
+        "started_at_utc": "2026-11-12T05:22:53.777276+00:00",
+        "timeout_seconds": 1800
+      },
+      "scenario_report_sha256": "81c1b75b0196fbb7f696156c5d7ed2bc1bcee14200d6e80d509b1f4a73c0ef5c",
+      "source": "tests/darkcrest_tier4_20261112/real_matrix.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "6264f574bfa063d9f96488f893da0ac71d23b12b46040b0c202341e1c6baeb9d",
+      "tier4_cases": 5,
+      "waiting_regression": true
+    }
+  },
+  "trees": {
+    "restored_darkcrest_tier4_candidate": {
+      "aggregate_sha256": "7a02f3ca430ca2a5a3d65cafe8ba5d208ff73dbce87fe9e9693a64621a61f6f5",
+      "bytes": 1550488214,
+      "extra": [],
+      "files": 27961,
+      "generated_root_godot_cache_excluded": false,
+      "mismatched": [],
+      "missing": []
+    },
+    "run_darkcrest_tier4_candidate": {
+      "aggregate_sha256": "7a02f3ca430ca2a5a3d65cafe8ba5d208ff73dbce87fe9e9693a64621a61f6f5",
+      "bytes": 1550488214,
+      "extra": [],
+      "files": 27961,
+      "generated_root_godot_cache_excluded": true,
+      "mismatched": [],
+      "missing": []
+    }
+  },
+  "verified_at_utc": "2026-11-12T05:32:23.873753+00:00"
+}
