@@ -1,0 +1,26 @@
+{
+  "archive_members": {
+    "FIX_EVIDENCE.tar.xz": 65,
+    "GAMEPLAY_EVIDENCE.tar.xz": 104,
+    "TOOLS_EVIDENCE.tar.xz": 51,
+    "delta.tar.xz": 141
+  },
+  "bytes": 4215529,
+  "changed_records": [
+    "GAMEPLAY_EVIDENCE.tar.xz",
+    "GAMEPLAY_EVIDENCE_MANIFEST.json",
+    "GAMEPLAY_INDEPENDENT_VERIFICATION.json",
+    "GAMEPLAY_MATRIX_RESULT.json",
+    "GAMEPLAY_OUTCOME.json",
+    "GAMEPLAY_OUTCOME.md",
+    "GAMEPLAY_VERIFIED_SLICE.md",
+    "SHA256SUMS.txt"
+  ],
+  "early_nonchecksum_files_unchanged": true,
+  "files": 30,
+  "game_started": false,
+  "metadata_sha256": "99df7f48ceecc37413f05d0673ece2d320d7873c78fa3e1011013c1e3d511b63",
+  "source17_unchanged": true,
+  "status": "PASS_LOCAL_FINAL_PACKAGE_ACTUAL_RESULTS_AND_ALL_MEMBERS",
+  "uploaded": false
+}
