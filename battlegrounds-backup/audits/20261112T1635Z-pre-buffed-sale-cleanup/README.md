@@ -1,0 +1,13 @@
+# Buffed Lava sale 新批清理前只读证据
+
+只读预检，不是删除授权/执行记录。保存上一批最终7a5d审计实际回读与验证器等6项晚证据，以及本轮3对象与保留等价树全文件SHA、路径集、大小、聚合核验。物理allocated单列，不用其代表内容身份。
+
+1. develop_mini_after_cast_20261112/candidate → 同批remote_snapshot_610cad0/single_tree_restore/restored_snapshot，27988文件。
+2. develop_darkcrest_tier6_20261112/fresh_remote/restored_base → recover_tier5_after_environment_change_20261112/restored_base，27920文件。
+3. develop_darkcrest_tier6_20261112/fresh_remote/restored_tier5 → recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/restored_snapshot，27965文件。第3确为成功Tier6批已完成的依赖中间树，原TIER5_RESTORE及固定fd0355f包一致，不是remote最终恢复树。
+
+所有备份包、下载输入、最终remote_snapshot、审计、失败树、唯一成果、日志及保留等价树均不得因本预检删除。后续如获明确授权仍须锁内二次完整核验再精确清理；旧脚本引用中间路径需显式采用保留等价源，不能悄悄改写历史。
+
+fileblocks预计可回收4,856,266,752字节，实际释放以将来执行回执为准；预计新copy+fresh55+单restore后约2.185GB余量。没有Game或源码修改。
+
+先核SHA256SUMS，再按LATE_EVIDENCE_MANIFEST核每个regular成员。只解到新空目录，不覆盖旧工程。本包不替代完整恢复包；来源610cad09b7d19fe2615201f054a68c6e1a31d79d/最终838043a91d995a93bf916846e960465ee05966e7/审计7a5d886bbdd1216c93289f9f3e6f3c0eb51c90ce仍全部保留。新范围仅原Mini首次永久buff后的普通Lava原生sell，尚未实现/验收。
