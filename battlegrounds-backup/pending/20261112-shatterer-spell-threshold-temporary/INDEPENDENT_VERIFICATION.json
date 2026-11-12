@@ -1,0 +1,91 @@
+{
+  "status": "PASS_INDEPENDENT_REMOTE_RESTORE_AND_TESTS",
+  "godot_version": "4.6.3.stable.official.7d41c59c4",
+  "downloaded_dependencies": 50,
+  "download_groups": {
+    "original_release_and_prior_packages": 40,
+    "new_candidate_package": 10,
+    "note": "The first 40 include 15 redundant old-candidate files verified for provenance; new candidate restores directly from consolidated base."
+  },
+  "download_bytes": 331105854,
+  "new_evidence_members_verified": 21,
+  "commit": "1192377e3dd319750b54ffd1970bc001afe5bd7a",
+  "old_local_dependency_reuse": false,
+  "restore": {
+    "status": "PASS_INCREMENT_RESTORED_AND_EVERY_FILE_REHASHED",
+    "verified_at_utc": "2026-11-12T02:07:04.035245+00:00",
+    "base_files_verified": 27920,
+    "target_files_verified": 27930,
+    "target_bytes": 1549527839,
+    "delta_files": 90,
+    "source_map_sha256": "2d0a4d9eb70e49b810c0fe16e88e1ca5dec64a61dbb7706a4b96b01755535368",
+    "aggregate_sha256": "5f1677ce7e9e1c581d0f6f656282601ff7b1e45683966faaf9c0195f496247f0",
+    "missing": [],
+    "mismatched": [],
+    "extra": [],
+    "gameplay_rerun_by_restore": false,
+    "default_pool_promoted": false
+  },
+  "tests": {
+    "threshold_and_expiry": {
+      "command": [
+        "godot",
+        "--headless",
+        "--path",
+        "/workspace/scratch/dd4f12b08ec0/develop_20261112/fresh_remote/run_20261112_candidate",
+        "--script",
+        "/workspace/scratch/dd4f12b08ec0/develop_20261112/fresh_remote/independent_tests/threshold_and_expiry.gd"
+      ],
+      "exit": 0,
+      "reason": "exited",
+      "elapsed": 167.72630302900006,
+      "sampled_process_group_peak_rss": 3021099008,
+      "rss_soft_limit": 4294967296,
+      "available_start": 9055567872,
+      "hard_limit": "unavailable: cgroup filesystem not exposed",
+      "timeout_seconds": 240,
+      "passed_checks": 44,
+      "log_sha256": "32cdbbd499806249d4d54afb3a033655b970e4fa07ecb22fd5bbf4de116b178d"
+    },
+    "temporary_contract": {
+      "command": [
+        "godot",
+        "--headless",
+        "--path",
+        "/workspace/scratch/dd4f12b08ec0/develop_20261112/fresh_remote/run_20261112_candidate",
+        "--script",
+        "/workspace/scratch/dd4f12b08ec0/develop_20261112/fresh_remote/independent_tests/temporary_contract.gd"
+      ],
+      "exit": 0,
+      "reason": "exited",
+      "elapsed": 0.416295147000028,
+      "sampled_process_group_peak_rss": 67674112,
+      "rss_soft_limit": 4294967296,
+      "available_start": 9591021568,
+      "hard_limit": "unavailable: cgroup filesystem not exposed",
+      "timeout_seconds": 240,
+      "passed_checks": 28,
+      "log_sha256": "72ff365cabd39dda0ac383288fe517df79b421bf0234b8ef6d01ccdfc112c4b6"
+    }
+  },
+  "post_test_source_verification": {
+    "restored_20261112_candidate": {
+      "files_verified": 27930,
+      "aggregate_sha256": "5f1677ce7e9e1c581d0f6f656282601ff7b1e45683966faaf9c0195f496247f0",
+      "mismatched": [],
+      "missing": [],
+      "extra_outside_godot": []
+    },
+    "run_20261112_candidate": {
+      "files_verified": 27930,
+      "aggregate_sha256": "5f1677ce7e9e1c581d0f6f656282601ff7b1e45683966faaf9c0195f496247f0",
+      "mismatched": [],
+      "missing": [],
+      "extra_outside_godot": []
+    }
+  },
+  "limits": [
+    "Sampled process group RSS soft limit, not a hard memory limit.",
+    "Does not certify global default pool, complete match, random shop acquisition or old saves."
+  ]
+}

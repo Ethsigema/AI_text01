@@ -1,0 +1,75 @@
+Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org
+
+LOAD_BEGIN
+PASS catalog
+START {"error":"","ok":true}
+PASS start
+COMMAND BG31_035 {"error":"","ok":true} spells=0
+PASS normal_play
+COMMAND BG31_035_G {"error":"","ok":true} spells=0
+PASS golden_play
+STATS [7,5,5,12,8,8]
+PASS initial_no_self_trigger
+COMMAND BG28_810 {"error":"","ok":true} spells=1
+PASS cast_coin_1
+PASS real_counter_1
+PASS spell_does_not_directly_buff_shatterer_1
+COMMAND BG28_810 {"error":"","ok":true} spells=2
+PASS cast_coin_2
+PASS real_counter_2
+PASS spell_does_not_directly_buff_shatterer_2
+COMMAND BG23_000 {"error":"","ok":true} spells=2
+PASS naga_after_2
+STATS [8,6,6,14,10,10]
+PASS threshold_2
+SELL {"error":"","ok":true}
+PASS sell_fixture_without_mutating_board
+COMMAND BG28_810 {"error":"","ok":true} spells=3
+PASS cast_coin_3
+PASS real_counter_3
+PASS spell_does_not_directly_buff_shatterer_3
+COMMAND BG23_000 {"error":"","ok":true} spells=3
+PASS naga_after_3
+STATS [10,8,8,18,14,14]
+PASS threshold_3
+SELL {"error":"","ok":true}
+PASS sell_fixture_without_mutating_board
+COMMAND BG28_810 {"error":"","ok":true} spells=4
+PASS cast_coin_4
+PASS real_counter_4
+PASS spell_does_not_directly_buff_shatterer_4
+COMMAND BG28_810 {"error":"","ok":true} spells=5
+PASS cast_coin_5
+PASS real_counter_5
+PASS spell_does_not_directly_buff_shatterer_5
+COMMAND BG23_000 {"error":"","ok":true} spells=5
+PASS naga_after_5
+STATS [12,10,10,22,18,18]
+PASS threshold_5
+SELL {"error":"","ok":true}
+PASS sell_fixture_without_mutating_board
+COMMAND BG28_810 {"error":"","ok":true} spells=6
+PASS cast_coin_6
+PASS real_counter_6
+PASS spell_does_not_directly_buff_shatterer_6
+COMMAND BG23_000 {"error":"","ok":true} spells=6
+PASS naga_after_6
+STATS [15,13,13,28,24,24]
+PASS threshold_6
+SELL {"error":"","ok":true}
+PASS sell_fixture_without_mutating_board
+PASS native_spellcraft_delivered
+COMMAND BG23_000t {"error":"","ok":true} spells=7
+PASS actual_spellcraft_cast
+TEMPORARY_AFTER_CAST [{"attack":2,"health":0,"keywords":[]}]
+COMMAND BG23_000 {"error":"","ok":true} spells=7
+AFTER_TEMPORARY_LAYER {"error":"","ok":true}
+PASS play_after_native_spellcraft_layer
+PASS temporary_layer_and_permanent_growth_coexist
+PASS permanent_growth_not_folded_into_temporary_layer
+END_TURN {"error":"","ok":true} round=2 phase=recruit
+PASS real_end_turn
+PASS real_combat_and_next_recruit
+PASS native_expiry_preserves_permanent_growth
+PASS golden_growth_survives_round
+PASS_THRESHOLD_MATRIX_WITH_ACTUAL_CASTS_AND_NATIVE_EXPIRY

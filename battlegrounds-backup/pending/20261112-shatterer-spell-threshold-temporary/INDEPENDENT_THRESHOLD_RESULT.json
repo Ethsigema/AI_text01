@@ -1,0 +1,18 @@
+{
+  "command": [
+    "godot",
+    "--headless",
+    "--path",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112/fresh_remote/run_20261112_candidate",
+    "--script",
+    "/workspace/scratch/dd4f12b08ec0/develop_20261112/fresh_remote/independent_tests/threshold_and_expiry.gd"
+  ],
+  "exit": 0,
+  "reason": "exited",
+  "elapsed": 167.72630302900006,
+  "sampled_process_group_peak_rss": 3021099008,
+  "rss_soft_limit": 4294967296,
+  "available_start": 9055567872,
+  "hard_limit": "unavailable: cgroup filesystem not exposed",
+  "timeout_seconds": 240
+}
