@@ -1,0 +1,5 @@
+# Lava rebuy outcome: success
+
+Source b40bc9b7701afbca41defd5f35a9c931a8b5ee9e. Actual validated counts: {'hand_shape_contract': 166, 'lava_content_contract': 211, 'lava_rebuy_content_contract': 89, 'lava_rebuy_real_matrix': 190, 'lava_sale_content_contract': 140, 'seafloor_annotation_contract': 267, 'source_eot_contract': 68, 'tier5_content_contract': 810, 'tier6_content_contract': 966}. See original logs and classifications for failure/omitted tests, never count unrun tests as passed.
+
+One source tree was executed, candidate and restored source were rehashed; no run_tree copy. Scope is ONE active purchase after first pre-source Lava buy and native sale. Second offer already existed before source; no post-sale refresh creation claim. Coin funding is a disclosed pre-source factory/add_hand/public-cast fixture, not a fixture-free match. No old matrices repeated, live capacity128 exhaustion, partial native failure, golden/multi-Lava, permanent enchantment, token-bearing purchases, UI/save/default-pool or whole-game acceptance. Failed source is retained; fixes require a separate candidate. Actual remote publication verification remains pending.

@@ -1,0 +1,92 @@
+{
+  "cases": [
+    {
+      "active_purchase_count": 1,
+      "final_round": 4,
+      "first_buy_before_source": true,
+      "first_purchase": {
+        "active_purchase": false,
+        "gold_after": 6,
+        "gold_before": 9,
+        "source_owned": false,
+        "uid": "u68"
+      },
+      "holds": [
+        {
+          "error": "darkcrest_lava_purchase_second_body_held",
+          "kind": "already_owned_lava_purchase",
+          "round": 3,
+          "uid": "u267"
+        },
+        {
+          "error": "darkcrest_lava_purchase_token_or_waiting_held",
+          "kind": "current_token_purchase",
+          "round": 3,
+          "uid": "u267"
+        }
+      ],
+      "kind": "pre_source_lava_sale_mature_source_different_uid_rebuy",
+      "offer_created_after_first_sale": false,
+      "offer_uids": [
+        "u68",
+        "u267"
+      ],
+      "post_sale_new_offer_generation_tested": false,
+      "pre_source_cooffer_rolls": 25,
+      "pre_source_first_lava_rolls": 1,
+      "purchases": [
+        {
+          "bought_after": 3,
+          "bought_before": 2,
+          "gold_after": 3,
+          "gold_before": 6,
+          "next_uid_after": 302,
+          "next_uid_before": 302,
+          "rng_after": 8339677378942535559,
+          "rng_before": 8339677378942535559,
+          "round": 3,
+          "source_tier": 3,
+          "source_uid": "u268",
+          "uid": "u267"
+        }
+      ],
+      "retirement": {
+        "owner": 0,
+        "round": 3,
+        "sequence": 119
+      },
+      "sale_effects": [
+        {
+          "gold_after": 6,
+          "gold_before": 5,
+          "index": 0,
+          "retirement": {
+            "owner": 0,
+            "round": 3,
+            "sequence": 119
+          },
+          "rng_after": 4557242201630009736,
+          "rng_before": 4557242201630009736,
+          "sold_after": 1,
+          "sold_before": 0,
+          "stock_after": 13,
+          "stock_before": 12,
+          "uid": "u68",
+          "uid_after": 301,
+          "uid_before": 301
+        }
+      ],
+      "second_offer_created_before_source": true,
+      "seed": 20261120,
+      "source_tier": 4,
+      "source_uid": "u268"
+    }
+  ],
+  "checks": 189,
+  "coin_pre_source_fixture": true,
+  "entirely_natural_game": false,
+  "no_live_state_injection": true,
+  "old_matrices_repeated": false,
+  "post_sale_new_offer_generation_tested": false,
+  "scope": "ordinary mature shop-origin Darkcrest no-token Lava purchase sale different-original-UID rebuy only"
+}

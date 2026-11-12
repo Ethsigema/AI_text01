@@ -1,0 +1,33 @@
+{
+  "game_started_by_packager": false,
+  "not_run_tests_are_not_passes": true,
+  "outcome": "success",
+  "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+  "source_commit": "b40bc9b7701afbca41defd5f35a9c931a8b5ee9e",
+  "source_map_sha256": "9c79ddf64f3de4cfff3b9080b2a60b3408ff9e039cab2b215042d51718731a03",
+  "tests_without_result_receipt": [],
+  "trees": {
+    "candidate": {
+      "aggregate_sha256": "65baa3dfa80eb642b7f36f516fa2d915e57980d6cb9ed2d987f627d97e286f92",
+      "bytes": 1550796458,
+      "extra": [],
+      "files": 27978,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_rebuy_20261112/candidate"
+    },
+    "restored_snapshot": {
+      "aggregate_sha256": "65baa3dfa80eb642b7f36f516fa2d915e57980d6cb9ed2d987f627d97e286f92",
+      "bytes": 1550796458,
+      "extra": [],
+      "files": 27978,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_rebuy_20261112/remote_snapshot_b40bc9b/single_tree_restore/restored_snapshot"
+    }
+  },
+  "two_runtime_copies": false,
+  "validation_errors": {}
+}
