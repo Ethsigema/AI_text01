@@ -1,0 +1,42 @@
+{
+  "aggregate_sha256": "d72e2b1a7a0b6c257c3001f63959a9f717b2a1645feb02c33002c728786cf2fc",
+  "checked_at_utc": "2026-11-12T10:20:58.911469+00:00",
+  "declared_file_sha_matches": 2643,
+  "empty_slot_candidates_excluded": true,
+  "evidence_capture_note": "Only explicitly captured completed files; later-added or modified preparation scripts are not claimed included",
+  "excluded": [
+    {
+      "bytes": 2216,
+      "path": "preparation/RECONSTRUCTION_NOTE.md",
+      "reason": "external preparation may still be edited; reconstruction note separately included"
+    },
+    {
+      "bytes": 20142,
+      "path": "preparation/run_remote_tier6.py",
+      "reason": "external preparation may still be edited; reconstruction note separately included"
+    },
+    {
+      "bytes": 3809,
+      "path": "research/IMPLEMENTATION_AUDIT.md",
+      "reason": "non-allowlisted text / oversized / symlink; no core dump or coordination Markdown"
+    },
+    {
+      "bytes": 3979,
+      "path": "research/TIER6_HAND_LAYER_REVIEW.md",
+      "reason": "non-allowlisted text / oversized / symlink; no core dump or coordination Markdown"
+    },
+    {
+      "bytes": 5896,
+      "path": "research/TIER6_TEST_AND_SEED_PLAN.md",
+      "reason": "non-allowlisted text / oversized / symlink; no core dump or coordination Markdown"
+    }
+  ],
+  "failure_logs_preserved_unedited": true,
+  "game_started": false,
+  "oom_timeout_are_not_passes": true,
+  "pure_contracts_not_actual_acquisition": true,
+  "recorded_pin_updates": 109,
+  "small_evidence_included": 20,
+  "source_map_sha256": "f6305aee3349b70d01292b351ac0923a2a3152b56a1f41fb1f18c763410d3e9c",
+  "status": "PASS_STATIC_FROZEN_BYTES_ONLY_NOT_GAME_ACCEPTANCE"
+}
