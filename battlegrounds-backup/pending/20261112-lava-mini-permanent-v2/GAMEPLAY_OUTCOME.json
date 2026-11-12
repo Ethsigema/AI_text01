@@ -1,0 +1,53 @@
+{
+  "baseline": {
+    "empty_slot_v1_v2_v3_excluded": true,
+    "previous_attempt_failed": true,
+    "previous_failed_evidence_commit": "9d6ad450f4c5ad287b49612c9c2ba3de399cc67b",
+    "source_commit": "517a547eebad779a65189fa67b845f82d5ec6886"
+  },
+  "game_started_by_packager": false,
+  "native_preview_is_actual_issuance": false,
+  "not_run_tests_are_not_passes": true,
+  "outcome": "success",
+  "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+  "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+  "source_integrity_ok": true,
+  "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+  "test_classifications": {
+    "hand_shape_contract": "executed_validated",
+    "lava_content_contract": "executed_validated",
+    "lava_permanent_content_contract": "executed_validated",
+    "lava_permanent_real_matrix": "executed_validated",
+    "lava_rebuy_content_contract": "executed_validated",
+    "lava_sale_content_contract": "executed_validated",
+    "seafloor_annotation_contract": "executed_validated",
+    "source_eot_contract": "executed_validated",
+    "tier5_content_contract": "executed_validated",
+    "tier6_content_contract": "executed_validated"
+  },
+  "tests_without_result_receipt": [],
+  "trees": {
+    "candidate": {
+      "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+      "bytes": 1550857132,
+      "extra": [],
+      "files": 27982,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/candidate"
+    },
+    "restored_snapshot": {
+      "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+      "bytes": 1550857132,
+      "extra": [],
+      "files": 27982,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+    }
+  },
+  "two_runtime_copies": false,
+  "validation_errors": {}
+}

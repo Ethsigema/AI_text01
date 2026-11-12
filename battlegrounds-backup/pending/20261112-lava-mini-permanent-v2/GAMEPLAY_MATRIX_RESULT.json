@@ -1,0 +1,489 @@
+{
+  "acquisitions": [
+    {
+      "id": "BG23_000",
+      "rolls": 0,
+      "source_owned": false,
+      "uid": "u4"
+    },
+    {
+      "id": "BG23_009",
+      "rolls": 1,
+      "source_owned": false,
+      "uid": "u28"
+    }
+  ],
+  "buffed_sale_rebuy_opened": false,
+  "casts": [
+    {
+      "attack_after": 4,
+      "attack_before": 2,
+      "health": 5,
+      "kept": 1,
+      "round": 1,
+      "source_uid": "u4",
+      "target_uid": "u28",
+      "token_uid": "u123"
+    },
+    {
+      "attack_after": 6,
+      "attack_before": 4,
+      "health": 5,
+      "kept": 1,
+      "round": 2,
+      "source_uid": "u4",
+      "target_uid": "u28",
+      "token_uid": "u131"
+    }
+  ],
+  "checks": 130,
+  "coin_pre_source_fixture": true,
+  "combats": [
+    {
+      "combat_start": {
+        "attachments": [],
+        "attack": 4,
+        "base_unit": {
+          "attack": 2,
+          "card_id": "BG23_009",
+          "effects": [
+            {
+              "count": 1,
+              "type": "spellcraft_permanent"
+            }
+          ],
+          "golden": false,
+          "health": 5,
+          "keywords": [],
+          "max_health": 5,
+          "name": "熔岩潜伏者",
+          "tier": 2,
+          "tribes": [
+            "纳迦"
+          ]
+        },
+        "blood_gems_received_turn": 0,
+        "card_id": "BG23_009",
+        "cost": 0,
+        "effects": [
+          {
+            "count": 1,
+            "type": "spellcraft_permanent"
+          }
+        ],
+        "golden": false,
+        "golden_rebase_state": "additive_v1",
+        "health": 5,
+        "image": "res://assets/cards/BG23_009.jpg",
+        "individually_frozen": false,
+        "is_spellcraft": false,
+        "keywords": [],
+        "kind": "minion",
+        "magnetic_tribes": [],
+        "max_health": 5,
+        "name": "熔岩潜伏者",
+        "permanent_keywords": [],
+        "pool_components": [],
+        "pool_count": 1,
+        "pool_id": "BG23_009",
+        "recruit_shop_aura_attack": 0,
+        "recruit_shop_aura_health": 0,
+        "recruit_shop_bonus_applied": {
+
+        },
+        "spell_triggers": 0,
+        "spellcraft_kept": 1,
+        "temporary": false,
+        "temporary_buffs": [],
+        "text": "每回合从手牌对本随从使用的第一张塑造法术的法术牌永久有效。（还剩1张！）",
+        "tier": 2,
+        "tribes": [
+          "纳迦"
+        ],
+        "uid": "u28"
+      },
+      "recruit_attack": 4,
+      "recruit_health": 5,
+      "recruit_kept": 0,
+      "round": 1,
+      "target_uid": "u28"
+    },
+    {
+      "combat_start": {
+        "attachments": [],
+        "attack": 6,
+        "base_unit": {
+          "attack": 2,
+          "card_id": "BG23_009",
+          "effects": [
+            {
+              "count": 1,
+              "type": "spellcraft_permanent"
+            }
+          ],
+          "golden": false,
+          "health": 5,
+          "keywords": [],
+          "max_health": 5,
+          "name": "熔岩潜伏者",
+          "tier": 2,
+          "tribes": [
+            "纳迦"
+          ]
+        },
+        "blood_gems_received_turn": 0,
+        "card_id": "BG23_009",
+        "cost": 0,
+        "effects": [
+          {
+            "count": 1,
+            "type": "spellcraft_permanent"
+          }
+        ],
+        "golden": false,
+        "golden_rebase_state": "additive_v1",
+        "health": 5,
+        "image": "res://assets/cards/BG23_009.jpg",
+        "individually_frozen": false,
+        "is_spellcraft": false,
+        "keywords": [],
+        "kind": "minion",
+        "magnetic_tribes": [],
+        "max_health": 5,
+        "name": "熔岩潜伏者",
+        "permanent_keywords": [],
+        "pool_components": [],
+        "pool_count": 1,
+        "pool_id": "BG23_009",
+        "recruit_shop_aura_attack": 0,
+        "recruit_shop_aura_health": 0,
+        "recruit_shop_bonus_applied": {
+
+        },
+        "spell_triggers": 0,
+        "spellcraft_kept": 1,
+        "temporary": false,
+        "temporary_buffs": [],
+        "text": "每回合从手牌对本随从使用的第一张塑造法术的法术牌永久有效。（还剩1张！）",
+        "tier": 2,
+        "tribes": [
+          "纳迦"
+        ],
+        "uid": "u28"
+      },
+      "recruit_attack": 6,
+      "recruit_health": 5,
+      "recruit_kept": 0,
+      "round": 2,
+      "target_uid": "u28"
+    },
+    {
+      "combat_start": {
+        "attachments": [],
+        "attack": 6,
+        "base_unit": {
+          "attack": 2,
+          "card_id": "BG23_009",
+          "effects": [
+            {
+              "count": 1,
+              "type": "spellcraft_permanent"
+            }
+          ],
+          "golden": false,
+          "health": 5,
+          "keywords": [],
+          "max_health": 5,
+          "name": "熔岩潜伏者",
+          "tier": 2,
+          "tribes": [
+            "纳迦"
+          ]
+        },
+        "blood_gems_received_turn": 0,
+        "card_id": "BG23_009",
+        "cost": 0,
+        "effects": [
+          {
+            "count": 1,
+            "type": "spellcraft_permanent"
+          }
+        ],
+        "golden": false,
+        "golden_rebase_state": "additive_v1",
+        "health": 5,
+        "image": "res://assets/cards/BG23_009.jpg",
+        "individually_frozen": false,
+        "is_spellcraft": false,
+        "keywords": [],
+        "kind": "minion",
+        "magnetic_tribes": [],
+        "max_health": 5,
+        "name": "熔岩潜伏者",
+        "permanent_keywords": [],
+        "pool_components": [],
+        "pool_count": 1,
+        "pool_id": "BG23_009",
+        "recruit_shop_aura_attack": 0,
+        "recruit_shop_aura_health": 0,
+        "recruit_shop_bonus_applied": {
+
+        },
+        "spell_triggers": 0,
+        "spellcraft_kept": 0,
+        "temporary": false,
+        "temporary_buffs": [],
+        "text": "每回合从手牌对本随从使用的第一张塑造法术的法术牌永久有效。（还剩1张！）",
+        "tier": 2,
+        "tribes": [
+          "纳迦"
+        ],
+        "uid": "u28"
+      },
+      "recruit_attack": 6,
+      "recruit_health": 5,
+      "recruit_kept": 0,
+      "round": 3,
+      "target_uid": "u28"
+    }
+  ],
+  "darkcrest_final_tier": 4,
+  "darkcrest_uid": "u118",
+  "entirely_natural_game": false,
+  "lava_uid": "u28",
+  "mini_uid": "u4",
+  "native_preview_diagnostic": {
+    "actual_token_issuance": false,
+    "base_key_types": [
+      {
+        "key": "card_id",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "name",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "tier",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "attack",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "health",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "max_health",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "keywords",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "tribes",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "effects",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "golden",
+        "key_type": 4,
+        "value_type": 1
+      }
+    ],
+    "key_types": [
+      {
+        "key": "uid",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "card_id",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "name",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "kind",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "tier",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "attack",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "health",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "keywords",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "tribes",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "effects",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "golden",
+        "key_type": 4,
+        "value_type": 1
+      },
+      {
+        "key": "cost",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "temporary",
+        "key_type": 4,
+        "value_type": 1
+      },
+      {
+        "key": "is_spellcraft",
+        "key_type": 4,
+        "value_type": 1
+      },
+      {
+        "key": "temporary_buffs",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "permanent_keywords",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "text",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "image",
+        "key_type": 4,
+        "value_type": 4
+      },
+      {
+        "key": "pool_count",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "spellcraft_kept",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "spell_triggers",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "attachments",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "pool_components",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "magnetic_tribes",
+        "key_type": 4,
+        "value_type": 28
+      },
+      {
+        "key": "individually_frozen",
+        "key_type": 4,
+        "value_type": 1
+      },
+      {
+        "key": "blood_gems_received_turn",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "recruit_shop_bonus_applied",
+        "key_type": 4,
+        "value_type": 27
+      },
+      {
+        "key": "recruit_shop_aura_attack",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "recruit_shop_aura_health",
+        "key_type": 4,
+        "value_type": 2
+      },
+      {
+        "key": "max_health",
+        "key_type": 21,
+        "value_type": 2
+      },
+      {
+        "key": "base_unit",
+        "key_type": 21,
+        "value_type": 27
+      },
+      {
+        "key": "expires_at_end_turn",
+        "key_type": 21,
+        "value_type": 1
+      }
+    ],
+    "native_factory_preview": true,
+    "shape_error": "",
+    "uid_allocated": false,
+    "zone_inserted": false
+  },
+  "old_matrices_repeated": false,
+  "same_turn_second_cast_tested": false,
+  "scope": "one ordinary Mini authentic first Spellcraft per turn permanently buffs one Lava in finite Darkcrest room",
+  "seed": 20261120,
+  "unused_token_expiry": {
+    "attack": 6,
+    "cast_count_after": 54,
+    "cast_count_before": 54,
+    "kept": 0,
+    "new_token_uid": "u173",
+    "old_token_uid": "u152",
+    "round": 4
+  }
+}

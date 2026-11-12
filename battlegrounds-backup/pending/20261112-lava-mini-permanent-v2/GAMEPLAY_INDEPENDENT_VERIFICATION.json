@@ -1,0 +1,1184 @@
+{
+  "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+  "baseline": {
+    "empty_slot_v1_v2_v3_excluded": true,
+    "previous_attempt_failed": true,
+    "previous_failed_evidence_commit": "9d6ad450f4c5ad287b49612c9c2ba3de399cc67b",
+    "source_commit": "517a547eebad779a65189fa67b845f82d5ec6886"
+  },
+  "default_pool_promoted": false,
+  "download_receipt_sha256": "7e2101ffba89ca61ad5e1b3dd9072325a98a3b7a27dbd111fd52a53f1973d34a",
+  "fixtures": {
+    "darkcrest_sources_archived.gd": {
+      "bytes": 168341,
+      "kind": "small_remote_fixture_copy",
+      "sha256": "aab40e4847ab19b74f3e24008d38e28e75642cd84323e0768b82abf99d7285ef",
+      "source": "tests/darkcrest_20261112/darkcrest_sources_archived.gd"
+    },
+    "hand_shape_contract.gd": {
+      "bytes": 64,
+      "kind": "external_wrapper",
+      "sha256": "5996cd153040c5dbe63ca9a85827a3971bb1169fd99c7de13a3fc2982a643bff",
+      "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+      "source_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e"
+    },
+    "lava_content_contract.gd": {
+      "bytes": 66,
+      "kind": "external_wrapper",
+      "sha256": "c3f41e2533f1237ca274e2370a97d1434b72bce028cc3597b0fd01afdbc9bf99",
+      "source": "tests/darkcrest_lava_20261112/content_contract.gd",
+      "source_sha256": "301a5c9e56618baf42ae6ccbd80eea92f3eadc27a3fcfa02030fb51052004beb"
+    },
+    "lava_permanent_content_contract.gd": {
+      "bytes": 76,
+      "kind": "external_wrapper",
+      "sha256": "994277f5fc65ccf4fe9a48a7248ceb7bb6a1942fc3e3307c73a09ce99a8ed6fe",
+      "source": "tests/darkcrest_lava_permanent_20261112/content_contract.gd",
+      "source_sha256": "2fd3807f7d983fff73fc876576fb77c1db427ccb4883383bda15ffc346de34d4"
+    },
+    "lava_permanent_real_matrix.gd": {
+      "bytes": 71,
+      "kind": "external_wrapper",
+      "sha256": "19828210f8ce2bd25f60540df1ffc3f0eacf8c94cdaf7b693540d5610882100a",
+      "source": "tests/darkcrest_lava_permanent_20261112/real_matrix.gd",
+      "source_sha256": "fba10fa8e508df4bc1843fdc7a5ec5b0ad6ec33b78153a703336f6dc6982ffa2"
+    },
+    "lava_rebuy_content_contract.gd": {
+      "bytes": 72,
+      "kind": "external_wrapper",
+      "sha256": "5469d8e02e6d5c2a2c60f739e1e7a40d0c77afc2bdf5092a4e4a738c592650aa",
+      "source": "tests/darkcrest_lava_rebuy_20261112/content_contract.gd",
+      "source_sha256": "e197cf58afdac7b751ab9056d3822152331416c3d1cf504f77b9177e7ede9f73"
+    },
+    "lava_sale_content_contract.gd": {
+      "bytes": 71,
+      "kind": "external_wrapper",
+      "sha256": "a20c4c9eaef7cce78302d1348faf4fd74c26040377a2f5c9f00824be7cfac06e",
+      "source": "tests/darkcrest_lava_sale_20261112/content_contract.gd",
+      "source_sha256": "18570c38bb5b3d52238aa6cadb84d515ef5d8caa886c86365e79fa9a88d140f6"
+    },
+    "seafloor_annotation_contract.gd": {
+      "bytes": 73,
+      "kind": "external_wrapper",
+      "sha256": "661fada5df74ebbcfc5398af40e3a2a44118e2acece819c6083ec3e647c871d3",
+      "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+      "source_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb"
+    },
+    "source_eot_contract.gd": {
+      "bytes": 64,
+      "kind": "external_wrapper",
+      "sha256": "4b8cf5cc20bf13c94c6b1757a0565acdde62297bb7a3e8d0acafbfef5c99d025",
+      "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+      "source_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790"
+    },
+    "tier5_content_contract.gd": {
+      "bytes": 67,
+      "kind": "external_wrapper",
+      "sha256": "7aae9d95200bb67f5d35d56999f7ded7363e70009ab8acec0f6968aab8635899",
+      "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+      "source_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248"
+    },
+    "tier6_content_contract.gd": {
+      "bytes": 67,
+      "kind": "external_wrapper",
+      "sha256": "d9f936e637ce55837cc7a60e512588c68259a83db3e1ca6af79081a5b66c98c8",
+      "source": "tests/darkcrest_tier6_20261112/content_contract.gd",
+      "source_sha256": "01e5874b444db4950cd9a3a08aec18a0bd4443c28c2a17500f59ee39f38eb787"
+    }
+  },
+  "full_game_acceptance": false,
+  "full_game_processes": 1,
+  "manifest_sha256": "05a5648bbf9b28a8b5a5f8aba1a65e73a762c97b46b624583815c2d819ed9749",
+  "native_preview_is_actual_issuance": false,
+  "new_native_permanence_algorithm_added": false,
+  "new_test_metadata": {
+    "full_cases": 1,
+    "full_checks_mode": "exact_PASS_count_and_JSON_checks_plus_one",
+    "native_preview_is_actual_issuance": false,
+    "native_round_cycles": 3,
+    "native_targeted_casts": 2,
+    "planned_pure_checks": 344,
+    "pure_checks": 344,
+    "scenario_file": "DARKCREST_LAVA_PERMANENT_MATRIX_RESULT.json",
+    "scope": "one ordinary Mini authentic first Spellcraft per turn permanently buffs one Lava in finite Darkcrest room",
+    "status": "FROZEN_REVIEWED",
+    "test_revision": "real_fba10fa8_pure_2fd3807f_native_key_fix_v2"
+  },
+  "old_full_matrices_repeated": false,
+  "planned_scope": {
+    "native_round_cycles": 3,
+    "native_targeted_casts": 2,
+    "new_full_cases": 1,
+    "new_full_game_processes": 1,
+    "new_native_permanence_algorithm_added": false,
+    "old_full_matrices_repeated": false
+  },
+  "restore_receipt_sha256": "c9e056c1e35a22dcfb68786b9db07614306e51de0b0d861f70007b90d0174b65",
+  "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+  "runtime_trees": [
+    "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+  ],
+  "scope": "one ordinary Mini authentic first Spellcraft per turn permanently buffs one Lava in finite Darkcrest room",
+  "sequential_game_execution": true,
+  "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+  "source_integrity_trees": [
+    "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/candidate",
+    "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+  ],
+  "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+  "status": "PASS_FIXED_REMOTE_LAVA_PERMANENT_SINGLE_RUNTIME_AND_CONTRACTS_POST_TEST_DUAL_SOURCE_REHASH",
+  "tests": {
+    "hand_shape_contract": {
+      "failures": [],
+      "log_sha256": "9cfe9ea9837815c461791db5425e4df910fb8f8a997f171a3f8feea279848e65",
+      "passed_checks": 166,
+      "result": {
+        "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+        "available_start": 9422868480,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/independent_tests/hand_shape_contract.gd"
+        ],
+        "download_receipt_sha256": "7e2101ffba89ca61ad5e1b3dd9072325a98a3b7a27dbd111fd52a53f1973d34a",
+        "elapsed": 0.7229746050034009,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T15:00:08.713621+00:00",
+        "log_sha256": "9cfe9ea9837815c461791db5425e4df910fb8f8a997f171a3f8feea279848e65",
+        "manifest_sha256": "05a5648bbf9b28a8b5a5f8aba1a65e73a762c97b46b624583815c2d819ed9749",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "hand_shape_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "c9e056c1e35a22dcfb68786b9db07614306e51de0b0d861f70007b90d0174b65",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 105091072,
+        "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+        "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+        "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+        "source_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+          "bytes": 1550857132,
+          "extra": [],
+          "files": 27982,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T15:00:07.990667+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "5996cd153040c5dbe63ca9a85827a3971bb1169fd99c7de13a3fc2982a643bff"
+      },
+      "result_sha256": "2f3face4948a5f7690e03ae0cdaf4d27e1b411082f02f1a1ffc8bafe5702035f",
+      "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e"
+    },
+    "lava_content_contract": {
+      "failures": [],
+      "log_sha256": "cc2b436c81ce15bc2debe59942e91e2b854d1797175212d2c8a6a08e60c453c2",
+      "passed_checks": 211,
+      "result": {
+        "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+        "available_start": 9359261696,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/independent_tests/lava_content_contract.gd"
+        ],
+        "download_receipt_sha256": "7e2101ffba89ca61ad5e1b3dd9072325a98a3b7a27dbd111fd52a53f1973d34a",
+        "elapsed": 0.7054280739976093,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T14:59:40.127044+00:00",
+        "log_sha256": "cc2b436c81ce15bc2debe59942e91e2b854d1797175212d2c8a6a08e60c453c2",
+        "manifest_sha256": "05a5648bbf9b28a8b5a5f8aba1a65e73a762c97b46b624583815c2d819ed9749",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "lava_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "c9e056c1e35a22dcfb68786b9db07614306e51de0b0d861f70007b90d0174b65",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 108699648,
+        "source": "tests/darkcrest_lava_20261112/content_contract.gd",
+        "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+        "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+        "source_sha256": "301a5c9e56618baf42ae6ccbd80eea92f3eadc27a3fcfa02030fb51052004beb",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+          "bytes": 1550857132,
+          "extra": [],
+          "files": 27982,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T14:59:39.421633+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "c3f41e2533f1237ca274e2370a97d1434b72bce028cc3597b0fd01afdbc9bf99"
+      },
+      "result_sha256": "6c0d307ce6c7902b65cb0090e979a0b4ab69bd3f2ecdff126447a6ea08fa328e",
+      "source": "tests/darkcrest_lava_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "301a5c9e56618baf42ae6ccbd80eea92f3eadc27a3fcfa02030fb51052004beb"
+    },
+    "lava_permanent_content_contract": {
+      "failures": [],
+      "log_sha256": "c0f8f6c87a34704f7e2ff16ebf91a2f2f479db59ca00556c8af0a509edc247ac",
+      "passed_checks": 344,
+      "result": {
+        "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+        "available_start": 9438928896,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/independent_tests/lava_permanent_content_contract.gd"
+        ],
+        "download_receipt_sha256": "7e2101ffba89ca61ad5e1b3dd9072325a98a3b7a27dbd111fd52a53f1973d34a",
+        "elapsed": 1.0247028359990509,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T14:59:22.293103+00:00",
+        "log_sha256": "c0f8f6c87a34704f7e2ff16ebf91a2f2f479db59ca00556c8af0a509edc247ac",
+        "manifest_sha256": "05a5648bbf9b28a8b5a5f8aba1a65e73a762c97b46b624583815c2d819ed9749",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "lava_permanent_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "c9e056c1e35a22dcfb68786b9db07614306e51de0b0d861f70007b90d0174b65",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 113139712,
+        "source": "tests/darkcrest_lava_permanent_20261112/content_contract.gd",
+        "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+        "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+        "source_sha256": "2fd3807f7d983fff73fc876576fb77c1db427ccb4883383bda15ffc346de34d4",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+          "bytes": 1550857132,
+          "extra": [],
+          "files": 27982,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T14:59:21.268777+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "994277f5fc65ccf4fe9a48a7248ceb7bb6a1942fc3e3307c73a09ce99a8ed6fe"
+      },
+      "result_sha256": "a0fe7fdcd1b3746287b1a266a5dd4fae652200197095b4fd865804784bb28ad1",
+      "source": "tests/darkcrest_lava_permanent_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "2fd3807f7d983fff73fc876576fb77c1db427ccb4883383bda15ffc346de34d4"
+    },
+    "lava_permanent_real_matrix": {
+      "failures": [],
+      "log_sha256": "f2401a92bd008ff23a85220ea9f29b0a16a768613ffda31e73abbff5ffc21431",
+      "passed_checks": 131,
+      "result": {
+        "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+        "available_start": 9452060672,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/independent_tests/lava_permanent_real_matrix.gd"
+        ],
+        "download_receipt_sha256": "7e2101ffba89ca61ad5e1b3dd9072325a98a3b7a27dbd111fd52a53f1973d34a",
+        "elapsed": 350.14670465499876,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T14:59:08.591553+00:00",
+        "log_sha256": "f2401a92bd008ff23a85220ea9f29b0a16a768613ffda31e73abbff5ffc21431",
+        "manifest_sha256": "05a5648bbf9b28a8b5a5f8aba1a65e73a762c97b46b624583815c2d819ed9749",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "lava_permanent_real_matrix_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "c9e056c1e35a22dcfb68786b9db07614306e51de0b0d861f70007b90d0174b65",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 3050635264,
+        "source": "tests/darkcrest_lava_permanent_20261112/real_matrix.gd",
+        "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+        "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+        "source_sha256": "fba10fa8e508df4bc1843fdc7a5ec5b0ad6ec33b78153a703336f6dc6982ffa2",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+          "bytes": 1550857132,
+          "extra": [],
+          "files": 27982,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T14:53:18.444933+00:00",
+        "timeout_seconds": 3600,
+        "wrapper_sha256": "19828210f8ce2bd25f60540df1ffc3f0eacf8c94cdaf7b693540d5610882100a"
+      },
+      "result_sha256": "319c04eb6f79914f1e10a78ae66a1f2aff29a05c56b2820f79f7a45104991091",
+      "scenario_sha256": "c21411d22d524e5bd69d2aa65abd66035e81b88d2a33e114e243b87de0a99e9c",
+      "source": "tests/darkcrest_lava_permanent_20261112/real_matrix.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "fba10fa8e508df4bc1843fdc7a5ec5b0ad6ec33b78153a703336f6dc6982ffa2",
+      "verified_scenario_fields": {
+        "acquisitions": [
+          {
+            "id": "BG23_000",
+            "rolls": 0,
+            "source_owned": false,
+            "uid": "u4"
+          },
+          {
+            "id": "BG23_009",
+            "rolls": 1,
+            "source_owned": false,
+            "uid": "u28"
+          }
+        ],
+        "buffed_sale_rebuy_opened": false,
+        "casts": [
+          {
+            "attack_after": 4,
+            "attack_before": 2,
+            "health": 5,
+            "kept": 1,
+            "round": 1,
+            "source_uid": "u4",
+            "target_uid": "u28",
+            "token_uid": "u123"
+          },
+          {
+            "attack_after": 6,
+            "attack_before": 4,
+            "health": 5,
+            "kept": 1,
+            "round": 2,
+            "source_uid": "u4",
+            "target_uid": "u28",
+            "token_uid": "u131"
+          }
+        ],
+        "checks": 130,
+        "coin_pre_source_fixture": true,
+        "combats": [
+          {
+            "combat_start": {
+              "attachments": [],
+              "attack": 4,
+              "base_unit": {
+                "attack": 2,
+                "card_id": "BG23_009",
+                "effects": [
+                  {
+                    "count": 1,
+                    "type": "spellcraft_permanent"
+                  }
+                ],
+                "golden": false,
+                "health": 5,
+                "keywords": [],
+                "max_health": 5,
+                "name": "\u7194\u5ca9\u6f5c\u4f0f\u8005",
+                "tier": 2,
+                "tribes": [
+                  "\u7eb3\u8fe6"
+                ]
+              },
+              "blood_gems_received_turn": 0,
+              "card_id": "BG23_009",
+              "cost": 0,
+              "effects": [
+                {
+                  "count": 1,
+                  "type": "spellcraft_permanent"
+                }
+              ],
+              "golden": false,
+              "golden_rebase_state": "additive_v1",
+              "health": 5,
+              "image": "res://assets/cards/BG23_009.jpg",
+              "individually_frozen": false,
+              "is_spellcraft": false,
+              "keywords": [],
+              "kind": "minion",
+              "magnetic_tribes": [],
+              "max_health": 5,
+              "name": "\u7194\u5ca9\u6f5c\u4f0f\u8005",
+              "permanent_keywords": [],
+              "pool_components": [],
+              "pool_count": 1,
+              "pool_id": "BG23_009",
+              "recruit_shop_aura_attack": 0,
+              "recruit_shop_aura_health": 0,
+              "recruit_shop_bonus_applied": {},
+              "spell_triggers": 0,
+              "spellcraft_kept": 1,
+              "temporary": false,
+              "temporary_buffs": [],
+              "text": "\u6bcf\u56de\u5408\u4ece\u624b\u724c\u5bf9\u672c\u968f\u4ece\u4f7f\u7528\u7684\u7b2c\u4e00\u5f20\u5851\u9020\u6cd5\u672f\u7684\u6cd5\u672f\u724c\u6c38\u4e45\u6709\u6548\u3002\uff08\u8fd8\u52691\u5f20\uff01\uff09",
+              "tier": 2,
+              "tribes": [
+                "\u7eb3\u8fe6"
+              ],
+              "uid": "u28"
+            },
+            "recruit_attack": 4,
+            "recruit_health": 5,
+            "recruit_kept": 0,
+            "round": 1,
+            "target_uid": "u28"
+          },
+          {
+            "combat_start": {
+              "attachments": [],
+              "attack": 6,
+              "base_unit": {
+                "attack": 2,
+                "card_id": "BG23_009",
+                "effects": [
+                  {
+                    "count": 1,
+                    "type": "spellcraft_permanent"
+                  }
+                ],
+                "golden": false,
+                "health": 5,
+                "keywords": [],
+                "max_health": 5,
+                "name": "\u7194\u5ca9\u6f5c\u4f0f\u8005",
+                "tier": 2,
+                "tribes": [
+                  "\u7eb3\u8fe6"
+                ]
+              },
+              "blood_gems_received_turn": 0,
+              "card_id": "BG23_009",
+              "cost": 0,
+              "effects": [
+                {
+                  "count": 1,
+                  "type": "spellcraft_permanent"
+                }
+              ],
+              "golden": false,
+              "golden_rebase_state": "additive_v1",
+              "health": 5,
+              "image": "res://assets/cards/BG23_009.jpg",
+              "individually_frozen": false,
+              "is_spellcraft": false,
+              "keywords": [],
+              "kind": "minion",
+              "magnetic_tribes": [],
+              "max_health": 5,
+              "name": "\u7194\u5ca9\u6f5c\u4f0f\u8005",
+              "permanent_keywords": [],
+              "pool_components": [],
+              "pool_count": 1,
+              "pool_id": "BG23_009",
+              "recruit_shop_aura_attack": 0,
+              "recruit_shop_aura_health": 0,
+              "recruit_shop_bonus_applied": {},
+              "spell_triggers": 0,
+              "spellcraft_kept": 1,
+              "temporary": false,
+              "temporary_buffs": [],
+              "text": "\u6bcf\u56de\u5408\u4ece\u624b\u724c\u5bf9\u672c\u968f\u4ece\u4f7f\u7528\u7684\u7b2c\u4e00\u5f20\u5851\u9020\u6cd5\u672f\u7684\u6cd5\u672f\u724c\u6c38\u4e45\u6709\u6548\u3002\uff08\u8fd8\u52691\u5f20\uff01\uff09",
+              "tier": 2,
+              "tribes": [
+                "\u7eb3\u8fe6"
+              ],
+              "uid": "u28"
+            },
+            "recruit_attack": 6,
+            "recruit_health": 5,
+            "recruit_kept": 0,
+            "round": 2,
+            "target_uid": "u28"
+          },
+          {
+            "combat_start": {
+              "attachments": [],
+              "attack": 6,
+              "base_unit": {
+                "attack": 2,
+                "card_id": "BG23_009",
+                "effects": [
+                  {
+                    "count": 1,
+                    "type": "spellcraft_permanent"
+                  }
+                ],
+                "golden": false,
+                "health": 5,
+                "keywords": [],
+                "max_health": 5,
+                "name": "\u7194\u5ca9\u6f5c\u4f0f\u8005",
+                "tier": 2,
+                "tribes": [
+                  "\u7eb3\u8fe6"
+                ]
+              },
+              "blood_gems_received_turn": 0,
+              "card_id": "BG23_009",
+              "cost": 0,
+              "effects": [
+                {
+                  "count": 1,
+                  "type": "spellcraft_permanent"
+                }
+              ],
+              "golden": false,
+              "golden_rebase_state": "additive_v1",
+              "health": 5,
+              "image": "res://assets/cards/BG23_009.jpg",
+              "individually_frozen": false,
+              "is_spellcraft": false,
+              "keywords": [],
+              "kind": "minion",
+              "magnetic_tribes": [],
+              "max_health": 5,
+              "name": "\u7194\u5ca9\u6f5c\u4f0f\u8005",
+              "permanent_keywords": [],
+              "pool_components": [],
+              "pool_count": 1,
+              "pool_id": "BG23_009",
+              "recruit_shop_aura_attack": 0,
+              "recruit_shop_aura_health": 0,
+              "recruit_shop_bonus_applied": {},
+              "spell_triggers": 0,
+              "spellcraft_kept": 0,
+              "temporary": false,
+              "temporary_buffs": [],
+              "text": "\u6bcf\u56de\u5408\u4ece\u624b\u724c\u5bf9\u672c\u968f\u4ece\u4f7f\u7528\u7684\u7b2c\u4e00\u5f20\u5851\u9020\u6cd5\u672f\u7684\u6cd5\u672f\u724c\u6c38\u4e45\u6709\u6548\u3002\uff08\u8fd8\u52691\u5f20\uff01\uff09",
+              "tier": 2,
+              "tribes": [
+                "\u7eb3\u8fe6"
+              ],
+              "uid": "u28"
+            },
+            "recruit_attack": 6,
+            "recruit_health": 5,
+            "recruit_kept": 0,
+            "round": 3,
+            "target_uid": "u28"
+          }
+        ],
+        "darkcrest_final_tier": 4,
+        "darkcrest_uid": "u118",
+        "entirely_natural_game": false,
+        "lava_uid": "u28",
+        "mini_uid": "u4",
+        "native_preview_diagnostic": {
+          "actual_token_issuance": false,
+          "base_key_types": [
+            {
+              "key": "card_id",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "name",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "tier",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "attack",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "health",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "max_health",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "keywords",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "tribes",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "effects",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "golden",
+              "key_type": 4,
+              "value_type": 1
+            }
+          ],
+          "key_types": [
+            {
+              "key": "uid",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "card_id",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "name",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "kind",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "tier",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "attack",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "health",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "keywords",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "tribes",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "effects",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "golden",
+              "key_type": 4,
+              "value_type": 1
+            },
+            {
+              "key": "cost",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "temporary",
+              "key_type": 4,
+              "value_type": 1
+            },
+            {
+              "key": "is_spellcraft",
+              "key_type": 4,
+              "value_type": 1
+            },
+            {
+              "key": "temporary_buffs",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "permanent_keywords",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "text",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "image",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "pool_count",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "spellcraft_kept",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "spell_triggers",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "attachments",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "pool_components",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "magnetic_tribes",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "individually_frozen",
+              "key_type": 4,
+              "value_type": 1
+            },
+            {
+              "key": "blood_gems_received_turn",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "recruit_shop_bonus_applied",
+              "key_type": 4,
+              "value_type": 27
+            },
+            {
+              "key": "recruit_shop_aura_attack",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "recruit_shop_aura_health",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "max_health",
+              "key_type": 21,
+              "value_type": 2
+            },
+            {
+              "key": "base_unit",
+              "key_type": 21,
+              "value_type": 27
+            },
+            {
+              "key": "expires_at_end_turn",
+              "key_type": 21,
+              "value_type": 1
+            }
+          ],
+          "native_factory_preview": true,
+          "shape_error": "",
+          "uid_allocated": false,
+          "zone_inserted": false
+        },
+        "old_matrices_repeated": false,
+        "same_turn_second_cast_tested": false,
+        "scope": "one ordinary Mini authentic first Spellcraft per turn permanently buffs one Lava in finite Darkcrest room",
+        "seed": 20261120,
+        "unused_token_expiry": {
+          "attack": 6,
+          "cast_count_after": 54,
+          "cast_count_before": 54,
+          "kept": 0,
+          "new_token_uid": "u173",
+          "old_token_uid": "u152",
+          "round": 4
+        }
+      }
+    },
+    "lava_rebuy_content_contract": {
+      "failures": [],
+      "log_sha256": "25df15ef4acde4a5002d1adcb524f64de31f369e38ece065fe9a920849567a7f",
+      "passed_checks": 89,
+      "result": {
+        "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+        "available_start": 9372323840,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/independent_tests/lava_rebuy_content_contract.gd"
+        ],
+        "download_receipt_sha256": "7e2101ffba89ca61ad5e1b3dd9072325a98a3b7a27dbd111fd52a53f1973d34a",
+        "elapsed": 0.9114609950011072,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T14:59:28.614897+00:00",
+        "log_sha256": "25df15ef4acde4a5002d1adcb524f64de31f369e38ece065fe9a920849567a7f",
+        "manifest_sha256": "05a5648bbf9b28a8b5a5f8aba1a65e73a762c97b46b624583815c2d819ed9749",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "lava_rebuy_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "c9e056c1e35a22dcfb68786b9db07614306e51de0b0d861f70007b90d0174b65",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 110972928,
+        "source": "tests/darkcrest_lava_rebuy_20261112/content_contract.gd",
+        "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+        "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+        "source_sha256": "e197cf58afdac7b751ab9056d3822152331416c3d1cf504f77b9177e7ede9f73",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+          "bytes": 1550857132,
+          "extra": [],
+          "files": 27982,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T14:59:27.703452+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "5469d8e02e6d5c2a2c60f739e1e7a40d0c77afc2bdf5092a4e4a738c592650aa"
+      },
+      "result_sha256": "b3d3011afae26fe8b62974e2d46a461e6d4dd03dc1124bdd0f2fb61e0d36e5d2",
+      "source": "tests/darkcrest_lava_rebuy_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "e197cf58afdac7b751ab9056d3822152331416c3d1cf504f77b9177e7ede9f73"
+    },
+    "lava_sale_content_contract": {
+      "failures": [],
+      "log_sha256": "4bf527178693ebc77a7f58a8d7b9c47c682b04a44af486b355a8952d4c8eebcc",
+      "passed_checks": 140,
+      "result": {
+        "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+        "available_start": 9392205824,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/independent_tests/lava_sale_content_contract.gd"
+        ],
+        "download_receipt_sha256": "7e2101ffba89ca61ad5e1b3dd9072325a98a3b7a27dbd111fd52a53f1973d34a",
+        "elapsed": 0.8207264400007261,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T14:59:34.595809+00:00",
+        "log_sha256": "4bf527178693ebc77a7f58a8d7b9c47c682b04a44af486b355a8952d4c8eebcc",
+        "manifest_sha256": "05a5648bbf9b28a8b5a5f8aba1a65e73a762c97b46b624583815c2d819ed9749",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "lava_sale_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "c9e056c1e35a22dcfb68786b9db07614306e51de0b0d861f70007b90d0174b65",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 109699072,
+        "source": "tests/darkcrest_lava_sale_20261112/content_contract.gd",
+        "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+        "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+        "source_sha256": "18570c38bb5b3d52238aa6cadb84d515ef5d8caa886c86365e79fa9a88d140f6",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+          "bytes": 1550857132,
+          "extra": [],
+          "files": 27982,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T14:59:33.775202+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "a20c4c9eaef7cce78302d1348faf4fd74c26040377a2f5c9f00824be7cfac06e"
+      },
+      "result_sha256": "138c4006fb3a0564f98d7e6307f6d1fac038f56a040e56557164b39e22ac2f0d",
+      "source": "tests/darkcrest_lava_sale_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "18570c38bb5b3d52238aa6cadb84d515ef5d8caa886c86365e79fa9a88d140f6"
+    },
+    "seafloor_annotation_contract": {
+      "failures": [],
+      "log_sha256": "15d4458f7dab1dd44acd095f523c50faed18498f947ef66473e2b04c9cebe112",
+      "passed_checks": 267,
+      "result": {
+        "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+        "available_start": 9421533184,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/independent_tests/seafloor_annotation_contract.gd"
+        ],
+        "download_receipt_sha256": "7e2101ffba89ca61ad5e1b3dd9072325a98a3b7a27dbd111fd52a53f1973d34a",
+        "elapsed": 0.4040431620014715,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T15:00:14.470844+00:00",
+        "log_sha256": "15d4458f7dab1dd44acd095f523c50faed18498f947ef66473e2b04c9cebe112",
+        "manifest_sha256": "05a5648bbf9b28a8b5a5f8aba1a65e73a762c97b46b624583815c2d819ed9749",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "seafloor_annotation_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "c9e056c1e35a22dcfb68786b9db07614306e51de0b0d861f70007b90d0174b65",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 66883584,
+        "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+        "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+        "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+        "source_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+          "bytes": 1550857132,
+          "extra": [],
+          "files": 27982,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T15:00:14.066814+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "661fada5df74ebbcfc5398af40e3a2a44118e2acece819c6083ec3e647c871d3"
+      },
+      "result_sha256": "4e1e7b726c7873e71bb924643b18a753aa45bce38f6e83590aecf67329de5a1b",
+      "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb"
+    },
+    "source_eot_contract": {
+      "failures": [],
+      "log_sha256": "cd531c473dc115192227cd840cf7ec19cf45fbd9aeaccec8b2f2284db259da42",
+      "passed_checks": 68,
+      "result": {
+        "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+        "available_start": 9403953152,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/independent_tests/source_eot_contract.gd"
+        ],
+        "download_receipt_sha256": "7e2101ffba89ca61ad5e1b3dd9072325a98a3b7a27dbd111fd52a53f1973d34a",
+        "elapsed": 0.809166049999476,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T15:00:02.443983+00:00",
+        "log_sha256": "cd531c473dc115192227cd840cf7ec19cf45fbd9aeaccec8b2f2284db259da42",
+        "manifest_sha256": "05a5648bbf9b28a8b5a5f8aba1a65e73a762c97b46b624583815c2d819ed9749",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "source_eot_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "c9e056c1e35a22dcfb68786b9db07614306e51de0b0d861f70007b90d0174b65",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 94097408,
+        "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+        "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+        "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+        "source_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+          "bytes": 1550857132,
+          "extra": [],
+          "files": 27982,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T15:00:01.634834+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "4b8cf5cc20bf13c94c6b1757a0565acdde62297bb7a3e8d0acafbfef5c99d025"
+      },
+      "result_sha256": "fa0bc0fcc4a740b72fa7a5324e32d98c0cababfdbe69228a66a3bd7a803e81e2",
+      "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790"
+    },
+    "tier5_content_contract": {
+      "failures": [],
+      "log_sha256": "7712bc303f08530226d227aefaa0f7b912594b27f79f60414781c527c8787943",
+      "passed_checks": 810,
+      "result": {
+        "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+        "available_start": 9378385920,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/independent_tests/tier5_content_contract.gd"
+        ],
+        "download_receipt_sha256": "7e2101ffba89ca61ad5e1b3dd9072325a98a3b7a27dbd111fd52a53f1973d34a",
+        "elapsed": 0.809602339999401,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T14:59:56.122712+00:00",
+        "log_sha256": "7712bc303f08530226d227aefaa0f7b912594b27f79f60414781c527c8787943",
+        "manifest_sha256": "05a5648bbf9b28a8b5a5f8aba1a65e73a762c97b46b624583815c2d819ed9749",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "tier5_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "c9e056c1e35a22dcfb68786b9db07614306e51de0b0d861f70007b90d0174b65",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 106250240,
+        "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+        "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+        "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+        "source_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+          "bytes": 1550857132,
+          "extra": [],
+          "files": 27982,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T14:59:55.313126+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "7aae9d95200bb67f5d35d56999f7ded7363e70009ab8acec0f6968aab8635899"
+      },
+      "result_sha256": "62a88cf4e153f1b05cb735af98790f8549de2b77a1a1f2a4d3dc7daec978b175",
+      "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248"
+    },
+    "tier6_content_contract": {
+      "failures": [],
+      "log_sha256": "9db06cc43053de4220d03ebf4e9aa39320a31e7505164ad0124b9878cfc35e4e",
+      "passed_checks": 966,
+      "result": {
+        "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+        "available_start": 9380294656,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/independent_tests/tier6_content_contract.gd"
+        ],
+        "download_receipt_sha256": "7e2101ffba89ca61ad5e1b3dd9072325a98a3b7a27dbd111fd52a53f1973d34a",
+        "elapsed": 5.239354748999176,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T14:59:50.380407+00:00",
+        "log_sha256": "9db06cc43053de4220d03ebf4e9aa39320a31e7505164ad0124b9878cfc35e4e",
+        "manifest_sha256": "05a5648bbf9b28a8b5a5f8aba1a65e73a762c97b46b624583815c2d819ed9749",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "tier6_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "c9e056c1e35a22dcfb68786b9db07614306e51de0b0d861f70007b90d0174b65",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 438996992,
+        "source": "tests/darkcrest_tier6_20261112/content_contract.gd",
+        "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+        "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+        "source_sha256": "01e5874b444db4950cd9a3a08aec18a0bd4443c28c2a17500f59ee39f38eb787",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+          "bytes": 1550857132,
+          "extra": [],
+          "files": 27982,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T14:59:45.141068+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "d9f936e637ce55837cc7a60e512588c68259a83db3e1ca6af79081a5b66c98c8"
+      },
+      "result_sha256": "126ab83d9e956a91a939c6d5641a93c610d600228955ba3b3152a34df4dbc6d9",
+      "source": "tests/darkcrest_tier6_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "01e5874b444db4950cd9a3a08aec18a0bd4443c28c2a17500f59ee39f38eb787"
+    }
+  },
+  "trees": {
+    "candidate": {
+      "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+      "bytes": 1550857132,
+      "extra": [],
+      "files": 27982,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "observed_source_map_file": "FINAL_candidate_source_map.json",
+      "observed_source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/candidate"
+    },
+    "restored_snapshot": {
+      "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+      "bytes": 1550857132,
+      "extra": [],
+      "files": 27982,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "observed_source_map_file": "FINAL_restored_snapshot_source_map.json",
+      "observed_source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot"
+    }
+  },
+  "two_runtime_copies": false,
+  "verified_at_utc": "2026-11-12T15:00:31.434600+00:00"
+}
