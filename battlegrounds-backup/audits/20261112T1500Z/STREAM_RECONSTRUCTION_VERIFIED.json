@@ -1,0 +1,27 @@
+{
+  "status": "PASS_FRESH_REMOTE_STREAMED_RECONSTRUCTION_ALL_FILE_BYTES",
+  "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+  "checked_at_utc": "2026-11-12T15:02:16.599358+00:00",
+  "fresh_input_files": 42,
+  "fresh_input_bytes": 333420694,
+  "base": {
+    "files": 27920,
+    "bytes": 1549340406,
+    "aggregate_sha256": "5ba04ef124fc78cf20e2a942a60589fb92dc76e6808155648226a534a4599e05"
+  },
+  "target": {
+    "files": 27982,
+    "bytes": 1550857132,
+    "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d"
+  },
+  "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+  "delta_sha256": "b56f97d967368f32aba7355aae62259549b08936d2279283f259705cbd92b354",
+  "changed_files": 145,
+  "removed_files": [],
+  "new_complete_directory_created": false,
+  "existing_source_tree_read": false,
+  "gameplay_tested_by_this_audit": false,
+  "old_backups_deleted": false,
+  "missing": [],
+  "mismatched": []
+}
