@@ -1,0 +1,82 @@
+{
+  "archive_sha256": "952a96edc17b1d672dd3f423c4da9a56eacd9f2174b21f36a0b18994f58c8959",
+  "members": {
+    "TOOL_SNAPSHOT_NOTE.json": {
+      "bytes": 223,
+      "sha256": "dcf10f4045ecb2b8b82e4cb3ca5a0d6067586f48eda26c8bf6ffbfcf1f5806dc"
+    },
+    "fresh_remote/download_fresh.py": {
+      "bytes": 1862,
+      "sha256": "cd6d6326f785834ddd1f77939370fa4806db8ee5fd63066f8a41aa3c553acd08"
+    },
+    "fresh_remote/snapshot_tools/FIXED_REMOTE_5d98887_METADATA.json": {
+      "bytes": 23879,
+      "sha256": "e92486bfc9a0a031f17d9a961304c02f93bfbe59c994a61e93fc46b87e20c75d"
+    },
+    "fresh_remote/snapshot_tools/PREPARATION_VERIFIED.json": {
+      "bytes": 800,
+      "sha256": "824a82fc238d2e905a2500848a37553cdb4f6368190923e3401925be2295da26"
+    },
+    "fresh_remote/snapshot_tools/add_frozen_evidence.py": {
+      "bytes": 4112,
+      "sha256": "7f9f615d0929dde7da143b885dc2d7d873463d160de379e929760c2de0261745"
+    },
+    "fresh_remote/snapshot_tools/build_unaccepted.py": {
+      "bytes": 8182,
+      "sha256": "07d64ca988a0276aaad51151e61fb4eddf50bbe4e569ce36d763881b682bb82f"
+    },
+    "fresh_remote/snapshot_tools/common.py": {
+      "bytes": 1493,
+      "sha256": "0a250b8037223b51dfacaddfeef66f82500e15eb278d8ef218d562452eb829a9"
+    },
+    "fresh_remote/snapshot_tools/restore_fixed_remote.py": {
+      "bytes": 5392,
+      "sha256": "800f8a8699866eb20b260ab3258f3a5dba777612404690e754d62ee3001e14fd"
+    },
+    "fresh_remote/snapshot_tools/verify_remote_evidence.py": {
+      "bytes": 1495,
+      "sha256": "a6e1a058c65c1bf9c21650186ea9f05c85c0c5426a321e1d708f5232c0ef7ca8"
+    },
+    "fresh_remote/verify_baseline.py": {
+      "bytes": 2915,
+      "sha256": "df1ae7d7f19f9440a8ce8d7016b958618c9502c4ed7e7c17dc9a7ce27d3960ac"
+    },
+    "preparation/PREPARATION_DEPENDENCIES_SHA256.json": {
+      "bytes": 2298,
+      "sha256": "f98e08627d007cc5548e7a3b3b7282c542290ad08a568fdc6de029cc24695282"
+    },
+    "preparation/REMOTE_RUNNER_PREPARATION_VERIFIED.json": {
+      "bytes": 705,
+      "sha256": "3614449b6711dda4e21e154869ec08f66e6ea9f0435f89ff654fc264d94484d5"
+    },
+    "preparation/RUNNER_STATIC_NOTES.md": {
+      "bytes": 3481,
+      "sha256": "8d6a45abfbab4fdc6ce07cdf7e1a56cff32dd6b4e0b701e215d79580b4de20ab"
+    },
+    "preparation/SYNTHETIC_VALIDATOR_RESULT.json": {
+      "bytes": 541,
+      "sha256": "a2a21ac8d0aa17cc6edc883eca55847b05773e7a9db6fbee2c002a4d42f14b07"
+    },
+    "preparation/audit_lava_attempt.py": {
+      "bytes": 3558,
+      "sha256": "172ff749712a3daa41cc3ed9a904efa8f3d24955debac95b9e5af16c3ee5fff9"
+    },
+    "preparation/prepare_restore_receipt.py": {
+      "bytes": 5980,
+      "sha256": "acab5dcba24bb7989cbbc039495b090f009bc041b18e9b52fea7e38b46fd6108"
+    },
+    "preparation/repin_candidate.py": {
+      "bytes": 1928,
+      "sha256": "64018d0b4963637b984d76ef58fddd75fa4dd2156f57b9515e081760e893fa4f"
+    },
+    "preparation/run_remote_lava.py": {
+      "bytes": 22047,
+      "sha256": "c4c7368aee2bb41f7a2dd371e1802e17b9a841c41e0df11964045307d393edc3"
+    },
+    "preparation/synthetic_validator_tests.py": {
+      "bytes": 4410,
+      "sha256": "63261a087905ff172c093b85fdf380d592d6dc5c26b5535217e3fb3017675f01"
+    }
+  },
+  "source_commit": "5d988875054ad4eea47d6615f8a9fdd65bfe7b4d"
+}
