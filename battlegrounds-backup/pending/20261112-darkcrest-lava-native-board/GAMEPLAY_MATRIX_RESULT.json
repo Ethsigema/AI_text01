@@ -1,0 +1,202 @@
+{
+  "cases": [
+    {
+      "final_board_uids": [
+        "u111",
+        "u88"
+      ],
+      "final_round": 6,
+      "kind": "generated_front_to6",
+      "lava_damage_events": 4,
+      "lava_uid": "u111",
+      "seed": 20261120,
+      "source_tier": 6,
+      "source_uid": "u88",
+      "tier2_choices": [
+        {
+          "id": "BG23_002",
+          "stock": 14
+        },
+        {
+          "id": "BG23_009",
+          "stock": 14
+        },
+        {
+          "id": "BG31_924",
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "final_board_uids": [
+        "u88",
+        "u111"
+      ],
+      "final_round": 4,
+      "kind": "generated_back_then_moves",
+      "lava_damage_events": 1,
+      "lava_uid": "u111",
+      "seed": 20261120,
+      "source_tier": 4,
+      "source_uid": "u88",
+      "tier2_choices": [
+        {
+          "id": "BG23_002",
+          "stock": 14
+        },
+        {
+          "id": "BG23_009",
+          "stock": 14
+        },
+        {
+          "id": "BG31_924",
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "actual_board_indices": [
+        0,
+        2
+      ],
+      "final_round": 3,
+      "kind": "shop_lava_two_sources",
+      "lava_uid": "u126",
+      "seed": 20261220,
+      "source_tiers": [
+        3,
+        2
+      ],
+      "source_uids": [
+        "u1063",
+        "u1064"
+      ]
+    }
+  ],
+  "checks": 485,
+  "combat_damage": [
+    {
+      "event": {
+        "amount": 2,
+        "attack_sequence": 4,
+        "event": "damage",
+        "health": 3,
+        "health_before": 5,
+        "kind": "retaliation",
+        "lethal_keyword": false,
+        "sequence": 7,
+        "source": "u104",
+        "source_combat_id": 1,
+        "target": "u111"
+      },
+      "round": 2,
+      "uid": "u111"
+    },
+    {
+      "event": {
+        "amount": 5,
+        "attack_sequence": 4,
+        "event": "damage",
+        "health": 0,
+        "health_before": 5,
+        "kind": "retaliation",
+        "lethal_keyword": false,
+        "sequence": 7,
+        "source": "u108",
+        "source_combat_id": 3,
+        "target": "u111"
+      },
+      "round": 3,
+      "uid": "u111"
+    },
+    {
+      "event": {
+        "amount": 5,
+        "attack_sequence": 4,
+        "event": "damage",
+        "health": 0,
+        "health_before": 5,
+        "kind": "retaliation",
+        "lethal_keyword": false,
+        "sequence": 7,
+        "source": "u100",
+        "source_combat_id": 1,
+        "target": "u111"
+      },
+      "round": 4,
+      "uid": "u111"
+    },
+    {
+      "event": {
+        "amount": 2,
+        "attack_sequence": 4,
+        "event": "damage",
+        "health": 3,
+        "health_before": 5,
+        "kind": "retaliation",
+        "lethal_keyword": false,
+        "sequence": 7,
+        "source": "u104",
+        "source_combat_id": 1,
+        "target": "u111"
+      },
+      "round": 5,
+      "uid": "u111"
+    },
+    {
+      "event": {
+        "amount": 2,
+        "attack_sequence": 4,
+        "event": "damage",
+        "health": 3,
+        "health_before": 5,
+        "kind": "retaliation",
+        "lethal_keyword": false,
+        "sequence": 7,
+        "source": "u104",
+        "source_combat_id": 1,
+        "target": "u111"
+      },
+      "round": 2,
+      "uid": "u111"
+    }
+  ],
+  "no_live_state_injection": true,
+  "old_tier6_eight_case_matrix_repeated": false,
+  "permanent_enchantment_opened": false,
+  "scope": "ordinary Darkcrest plus one untouched ordinary Lava hand-to-board and real EOT index compatibility only",
+  "tier6_casts": [
+    {
+      "choices": [
+        {
+          "id": "BG31_035",
+          "stock": 7
+        },
+        {
+          "id": "BG32_837",
+          "stock": 6
+        },
+        {
+          "id": "BG36_622",
+          "stock": 7
+        },
+        {
+          "id": "BG36_640",
+          "stock": 7
+        }
+      ],
+      "id": "BG36_640",
+      "rng": {
+        "range": 27,
+        "reason": "random_generated_minion",
+        "type": "rng",
+        "value": 23
+      },
+      "seed": 20261120,
+      "source_uid": "u88",
+      "tavern_history": 51,
+      "token_uid": "u182",
+      "uid": "u195"
+    }
+  ]
+}
