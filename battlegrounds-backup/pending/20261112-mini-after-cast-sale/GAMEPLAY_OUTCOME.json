@@ -1,0 +1,54 @@
+{
+  "baseline": {
+    "accepted_final_commit": "d914d66999536eb4250841488d09ae7ba3f82ccf",
+    "empty_slot_v1_v2_v3_excluded": true,
+    "old_full_matrices_repeated": false,
+    "source_commit": "a96a03307c43c5641793663b99e864877543d1b5"
+  },
+  "game_started_by_packager": false,
+  "not_run_tests_are_not_passes": true,
+  "outcome": "success",
+  "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+  "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+  "source_integrity_ok": true,
+  "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+  "test_classifications": {
+    "hand_shape_contract": "executed_validated",
+    "lava_content_contract": "executed_validated",
+    "lava_permanent_content_contract": "executed_validated",
+    "lava_rebuy_content_contract": "executed_validated",
+    "lava_sale_content_contract": "executed_validated",
+    "mini_after_cast_content_contract": "executed_validated",
+    "mini_after_cast_real_matrix": "executed_validated",
+    "mini_sale_content_contract": "executed_validated",
+    "seafloor_annotation_contract": "executed_validated",
+    "source_eot_contract": "executed_validated",
+    "tier5_content_contract": "executed_validated",
+    "tier6_content_contract": "executed_validated"
+  },
+  "tests_without_result_receipt": [],
+  "trees": {
+    "candidate": {
+      "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+      "bytes": 1550904881,
+      "extra": [],
+      "files": 27988,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/candidate"
+    },
+    "restored_snapshot": {
+      "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+      "bytes": 1550904881,
+      "extra": [],
+      "files": 27988,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+    }
+  },
+  "two_runtime_copies": false,
+  "validation_errors": {}
+}

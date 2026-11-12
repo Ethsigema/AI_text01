@@ -1,0 +1,1179 @@
+{
+  "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+  "baseline": {
+    "accepted_final_commit": "d914d66999536eb4250841488d09ae7ba3f82ccf",
+    "empty_slot_v1_v2_v3_excluded": true,
+    "old_full_matrices_repeated": false,
+    "source_commit": "a96a03307c43c5641793663b99e864877543d1b5"
+  },
+  "default_pool_promoted": false,
+  "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+  "fixtures": {
+    "darkcrest_sources_archived.gd": {
+      "bytes": 168341,
+      "kind": "small_remote_fixture_copy",
+      "sha256": "aab40e4847ab19b74f3e24008d38e28e75642cd84323e0768b82abf99d7285ef",
+      "source": "tests/darkcrest_20261112/darkcrest_sources_archived.gd"
+    },
+    "hand_shape_contract.gd": {
+      "bytes": 64,
+      "kind": "external_wrapper",
+      "sha256": "5996cd153040c5dbe63ca9a85827a3971bb1169fd99c7de13a3fc2982a643bff",
+      "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+      "source_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e"
+    },
+    "lava_content_contract.gd": {
+      "bytes": 66,
+      "kind": "external_wrapper",
+      "sha256": "c3f41e2533f1237ca274e2370a97d1434b72bce028cc3597b0fd01afdbc9bf99",
+      "source": "tests/darkcrest_lava_20261112/content_contract.gd",
+      "source_sha256": "301a5c9e56618baf42ae6ccbd80eea92f3eadc27a3fcfa02030fb51052004beb"
+    },
+    "lava_permanent_content_contract.gd": {
+      "bytes": 76,
+      "kind": "external_wrapper",
+      "sha256": "994277f5fc65ccf4fe9a48a7248ceb7bb6a1942fc3e3307c73a09ce99a8ed6fe",
+      "source": "tests/darkcrest_lava_permanent_20261112/content_contract.gd",
+      "source_sha256": "2fd3807f7d983fff73fc876576fb77c1db427ccb4883383bda15ffc346de34d4"
+    },
+    "lava_rebuy_content_contract.gd": {
+      "bytes": 72,
+      "kind": "external_wrapper",
+      "sha256": "5469d8e02e6d5c2a2c60f739e1e7a40d0c77afc2bdf5092a4e4a738c592650aa",
+      "source": "tests/darkcrest_lava_rebuy_20261112/content_contract.gd",
+      "source_sha256": "e197cf58afdac7b751ab9056d3822152331416c3d1cf504f77b9177e7ede9f73"
+    },
+    "lava_sale_content_contract.gd": {
+      "bytes": 71,
+      "kind": "external_wrapper",
+      "sha256": "a20c4c9eaef7cce78302d1348faf4fd74c26040377a2f5c9f00824be7cfac06e",
+      "source": "tests/darkcrest_lava_sale_20261112/content_contract.gd",
+      "source_sha256": "18570c38bb5b3d52238aa6cadb84d515ef5d8caa886c86365e79fa9a88d140f6"
+    },
+    "mini_after_cast_content_contract.gd": {
+      "bytes": 77,
+      "kind": "external_wrapper",
+      "sha256": "41c1c70e000dced8c572926b060972c1f7f6c888f04a4f018ee167a27fdc2cf0",
+      "source": "tests/darkcrest_mini_after_cast_20261112/content_contract.gd",
+      "source_sha256": "8aec0b31be23ceed2f6b344618c70a3aedf8999fcd73358bbb0d73f8315a80dc"
+    },
+    "mini_after_cast_real_matrix.gd": {
+      "bytes": 72,
+      "kind": "external_wrapper",
+      "sha256": "2f90a031091f8b7b9e8156cef63c4b08ad5054fad15b885f44e4e9f511249e27",
+      "source": "tests/darkcrest_mini_after_cast_20261112/real_matrix.gd",
+      "source_sha256": "47e2fb62a94f1904009eeda5f24c71855573b0f6f6c8734dba84d733a121cdbf"
+    },
+    "mini_sale_content_contract.gd": {
+      "bytes": 71,
+      "kind": "external_wrapper",
+      "sha256": "7b833343d7e9ffd02cc06063bce4d274a311f68aad3cd2fd7fc32486351d79e8",
+      "source": "tests/darkcrest_mini_sale_20261112/content_contract.gd",
+      "source_sha256": "e390781a2cc7af2131f06357d814472801486f2328433f3b239d3db2a443f9ef"
+    },
+    "seafloor_annotation_contract.gd": {
+      "bytes": 73,
+      "kind": "external_wrapper",
+      "sha256": "661fada5df74ebbcfc5398af40e3a2a44118e2acece819c6083ec3e647c871d3",
+      "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+      "source_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb"
+    },
+    "source_eot_contract.gd": {
+      "bytes": 64,
+      "kind": "external_wrapper",
+      "sha256": "4b8cf5cc20bf13c94c6b1757a0565acdde62297bb7a3e8d0acafbfef5c99d025",
+      "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+      "source_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790"
+    },
+    "tier5_content_contract.gd": {
+      "bytes": 67,
+      "kind": "external_wrapper",
+      "sha256": "7aae9d95200bb67f5d35d56999f7ded7363e70009ab8acec0f6968aab8635899",
+      "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+      "source_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248"
+    },
+    "tier6_content_contract.gd": {
+      "bytes": 67,
+      "kind": "external_wrapper",
+      "sha256": "d9f936e637ce55837cc7a60e512588c68259a83db3e1ca6af79081a5b66c98c8",
+      "source": "tests/darkcrest_tier6_20261112/content_contract.gd",
+      "source_sha256": "01e5874b444db4950cd9a3a08aec18a0bd4443c28c2a17500f59ee39f38eb787"
+    }
+  },
+  "full_game_acceptance": false,
+  "full_game_processes": 1,
+  "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+  "new_native_permanence_algorithm_added": false,
+  "new_test_metadata": {
+    "full_cases": 1,
+    "full_checks_mode": "exact_PASS_count_and_JSON_checks_plus_one",
+    "native_mini_sales": 1,
+    "native_round_cycles": 1,
+    "native_targeted_casts": 1,
+    "pure_checks": 85,
+    "scenario_file": "DARKCREST_MINI_AFTER_CAST_MATRIX_RESULT.json",
+    "scope": "single ordinary Mini native first cast before same-turn sale with preserved consumed history",
+    "status": "FROZEN_REVIEWED",
+    "test_revision": "real_47e2fb62_pure_8aec0b31_cast_then_sale_v1"
+  },
+  "old_full_matrices_repeated": false,
+  "planned_scope": {
+    "cast_before_sale": true,
+    "native_mini_sales": 1,
+    "native_round_cycles": 1,
+    "native_targeted_casts": 1,
+    "new_full_cases": 1,
+    "new_full_game_processes": 1,
+    "new_native_permanence_algorithm_added": false,
+    "old_full_matrices_repeated": false,
+    "sale_with_no_child_in_hand": true,
+    "second_mini_or_rebuy_or_golden_opened": false
+  },
+  "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+  "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+  "runtime_trees": [
+    "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+  ],
+  "scope": "single ordinary Mini native first cast before same-turn sale with preserved consumed history",
+  "sequential_game_execution": true,
+  "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+  "source_integrity_trees": [
+    "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/candidate",
+    "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+  ],
+  "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+  "status": "PASS_FIXED_REMOTE_MINI_AFTER_CAST_SINGLE_RUNTIME_AND_CONTRACTS_POST_TEST_DUAL_SOURCE_REHASH",
+  "tests": {
+    "hand_shape_contract": {
+      "failures": [],
+      "log_sha256": "f488a187c3493e3fac2747a93c90975fd5916224be5ef24d8a903afde1b8819b",
+      "passed_checks": 166,
+      "result": {
+        "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+        "available_start": 9236619264,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/independent_tests/hand_shape_contract.gd"
+        ],
+        "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+        "elapsed": 0.7095569010016334,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T16:17:46.778565+00:00",
+        "log_sha256": "f488a187c3493e3fac2747a93c90975fd5916224be5ef24d8a903afde1b8819b",
+        "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "hand_shape_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 106360832,
+        "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+        "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+        "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+        "source_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+          "bytes": 1550904881,
+          "extra": [],
+          "files": 27988,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T16:17:46.069022+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "5996cd153040c5dbe63ca9a85827a3971bb1169fd99c7de13a3fc2982a643bff"
+      },
+      "result_sha256": "e8aca3fed0263789b052a27411b7c676b0c90ddf84ece4128c41f9cdaeb920ca",
+      "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e"
+    },
+    "lava_content_contract": {
+      "failures": [],
+      "log_sha256": "cc2b436c81ce15bc2debe59942e91e2b854d1797175212d2c8a6a08e60c453c2",
+      "passed_checks": 211,
+      "result": {
+        "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+        "available_start": 9201639424,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/independent_tests/lava_content_contract.gd"
+        ],
+        "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+        "elapsed": 0.9082238759983738,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T16:17:10.171213+00:00",
+        "log_sha256": "cc2b436c81ce15bc2debe59942e91e2b854d1797175212d2c8a6a08e60c453c2",
+        "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "lava_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 109940736,
+        "source": "tests/darkcrest_lava_20261112/content_contract.gd",
+        "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+        "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+        "source_sha256": "301a5c9e56618baf42ae6ccbd80eea92f3eadc27a3fcfa02030fb51052004beb",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+          "bytes": 1550904881,
+          "extra": [],
+          "files": 27988,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T16:17:09.263004+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "c3f41e2533f1237ca274e2370a97d1434b72bce028cc3597b0fd01afdbc9bf99"
+      },
+      "result_sha256": "83c33ba69a7cbd8211df32fb87d0679c8757b0598da49627d8248721742f94cc",
+      "source": "tests/darkcrest_lava_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "301a5c9e56618baf42ae6ccbd80eea92f3eadc27a3fcfa02030fb51052004beb"
+    },
+    "lava_permanent_content_contract": {
+      "failures": [],
+      "log_sha256": "c0f8f6c87a34704f7e2ff16ebf91a2f2f479db59ca00556c8af0a509edc247ac",
+      "passed_checks": 344,
+      "result": {
+        "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+        "available_start": 9088405504,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/independent_tests/lava_permanent_content_contract.gd"
+        ],
+        "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+        "elapsed": 0.9071504250023281,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T16:16:48.612795+00:00",
+        "log_sha256": "c0f8f6c87a34704f7e2ff16ebf91a2f2f479db59ca00556c8af0a509edc247ac",
+        "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "lava_permanent_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 113897472,
+        "source": "tests/darkcrest_lava_permanent_20261112/content_contract.gd",
+        "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+        "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+        "source_sha256": "2fd3807f7d983fff73fc876576fb77c1db427ccb4883383bda15ffc346de34d4",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+          "bytes": 1550904881,
+          "extra": [],
+          "files": 27988,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T16:16:47.705677+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "994277f5fc65ccf4fe9a48a7248ceb7bb6a1942fc3e3307c73a09ce99a8ed6fe"
+      },
+      "result_sha256": "da2fbc6dc2394047d09ef6390c24cf057c9247f45f125a088a93a33cca9f7695",
+      "source": "tests/darkcrest_lava_permanent_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "2fd3807f7d983fff73fc876576fb77c1db427ccb4883383bda15ffc346de34d4"
+    },
+    "lava_rebuy_content_contract": {
+      "failures": [],
+      "log_sha256": "25df15ef4acde4a5002d1adcb524f64de31f369e38ece065fe9a920849567a7f",
+      "passed_checks": 89,
+      "result": {
+        "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+        "available_start": 9039204352,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/independent_tests/lava_rebuy_content_contract.gd"
+        ],
+        "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+        "elapsed": 0.8562764870002866,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T16:16:55.527555+00:00",
+        "log_sha256": "25df15ef4acde4a5002d1adcb524f64de31f369e38ece065fe9a920849567a7f",
+        "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "lava_rebuy_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 112021504,
+        "source": "tests/darkcrest_lava_rebuy_20261112/content_contract.gd",
+        "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+        "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+        "source_sha256": "e197cf58afdac7b751ab9056d3822152331416c3d1cf504f77b9177e7ede9f73",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+          "bytes": 1550904881,
+          "extra": [],
+          "files": 27988,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T16:16:54.671318+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "5469d8e02e6d5c2a2c60f739e1e7a40d0c77afc2bdf5092a4e4a738c592650aa"
+      },
+      "result_sha256": "ec9351880aeffe77c3c7987ebe0c1e1876a4a25398d626badd9eba974d92db93",
+      "source": "tests/darkcrest_lava_rebuy_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "e197cf58afdac7b751ab9056d3822152331416c3d1cf504f77b9177e7ede9f73"
+    },
+    "lava_sale_content_contract": {
+      "failures": [],
+      "log_sha256": "4bf527178693ebc77a7f58a8d7b9c47c682b04a44af486b355a8952d4c8eebcc",
+      "passed_checks": 140,
+      "result": {
+        "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+        "available_start": 9187520512,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/independent_tests/lava_sale_content_contract.gd"
+        ],
+        "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+        "elapsed": 0.8356390150001971,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T16:17:02.617655+00:00",
+        "log_sha256": "4bf527178693ebc77a7f58a8d7b9c47c682b04a44af486b355a8952d4c8eebcc",
+        "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "lava_sale_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 110276608,
+        "source": "tests/darkcrest_lava_sale_20261112/content_contract.gd",
+        "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+        "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+        "source_sha256": "18570c38bb5b3d52238aa6cadb84d515ef5d8caa886c86365e79fa9a88d140f6",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+          "bytes": 1550904881,
+          "extra": [],
+          "files": 27988,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T16:17:01.782036+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "a20c4c9eaef7cce78302d1348faf4fd74c26040377a2f5c9f00824be7cfac06e"
+      },
+      "result_sha256": "6f743926b32941cc4f0cb39e26fc9989cafc2f9df7b7d9ef5ab2df8b514ffa59",
+      "source": "tests/darkcrest_lava_sale_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "18570c38bb5b3d52238aa6cadb84d515ef5d8caa886c86365e79fa9a88d140f6"
+    },
+    "mini_after_cast_content_contract": {
+      "failures": [],
+      "log_sha256": "5ccb1d2699265740f671a561739f4ce099393524a0ea84214e99ac544e3d2790",
+      "passed_checks": 85,
+      "result": {
+        "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+        "available_start": 9331490816,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/independent_tests/mini_after_cast_content_contract.gd"
+        ],
+        "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+        "elapsed": 1.0112128889995802,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T16:16:35.008724+00:00",
+        "log_sha256": "5ccb1d2699265740f671a561739f4ce099393524a0ea84214e99ac544e3d2790",
+        "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "mini_after_cast_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 115716096,
+        "source": "tests/darkcrest_mini_after_cast_20261112/content_contract.gd",
+        "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+        "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+        "source_sha256": "8aec0b31be23ceed2f6b344618c70a3aedf8999fcd73358bbb0d73f8315a80dc",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+          "bytes": 1550904881,
+          "extra": [],
+          "files": 27988,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T16:16:33.997527+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "41c1c70e000dced8c572926b060972c1f7f6c888f04a4f018ee167a27fdc2cf0"
+      },
+      "result_sha256": "4f3c20642f7d5bb277ce4b516a41c369ef7f7cca04c872630e548a63c63f9748",
+      "source": "tests/darkcrest_mini_after_cast_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "8aec0b31be23ceed2f6b344618c70a3aedf8999fcd73358bbb0d73f8315a80dc"
+    },
+    "mini_after_cast_real_matrix": {
+      "failures": [],
+      "log_sha256": "2c80aed1906c18d88411442b83e12bc296f69b42231e45226fe9660bf855f8be",
+      "passed_checks": 103,
+      "result": {
+        "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+        "available_start": 9100738560,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/independent_tests/mini_after_cast_real_matrix.gd"
+        ],
+        "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+        "elapsed": 437.9552594300003,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T16:16:23.588151+00:00",
+        "log_sha256": "2c80aed1906c18d88411442b83e12bc296f69b42231e45226fe9660bf855f8be",
+        "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "mini_after_cast_real_matrix_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 3052294144,
+        "source": "tests/darkcrest_mini_after_cast_20261112/real_matrix.gd",
+        "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+        "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+        "source_sha256": "47e2fb62a94f1904009eeda5f24c71855573b0f6f6c8734dba84d733a121cdbf",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+          "bytes": 1550904881,
+          "extra": [],
+          "files": 27988,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T16:09:05.632906+00:00",
+        "timeout_seconds": 3600,
+        "wrapper_sha256": "2f90a031091f8b7b9e8156cef63c4b08ad5054fad15b885f44e4e9f511249e27"
+      },
+      "result_sha256": "f201121dfd543fc0ccf5df23234bd2263b4341b502cf10b945159cf0e6a2670c",
+      "scenario_sha256": "dca18b1d90c9a9ece1c8fc805486fdfaf9783535bfe62c1a3041befa8955d036",
+      "source": "tests/darkcrest_mini_after_cast_20261112/real_matrix.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "47e2fb62a94f1904009eeda5f24c71855573b0f6f6c8734dba84d733a121cdbf",
+      "verified_scenario_fields": {
+        "acquisitions": [
+          {
+            "id": "BG23_000",
+            "rolls": 0,
+            "source_owned": false,
+            "uid": "u4"
+          },
+          {
+            "id": "BG23_009",
+            "rolls": 1,
+            "source_owned": false,
+            "uid": "u28"
+          }
+        ],
+        "cast_before_sale": true,
+        "casts": [
+          {
+            "attack_after": 4,
+            "attack_before": 2,
+            "health": 5,
+            "kept": 1,
+            "round": 1,
+            "source_uid": "u4",
+            "target_uid": "u28",
+            "token_uid": "u123"
+          }
+        ],
+        "checks": 102,
+        "coin_pre_source_fixture": true,
+        "combats": [
+          {
+            "combat_start": {
+              "attachments": [],
+              "attack": 4,
+              "base_unit": {
+                "attack": 2,
+                "card_id": "BG23_009",
+                "effects": [
+                  {
+                    "count": 1,
+                    "type": "spellcraft_permanent"
+                  }
+                ],
+                "golden": false,
+                "health": 5,
+                "keywords": [],
+                "max_health": 5,
+                "name": "\u7194\u5ca9\u6f5c\u4f0f\u8005",
+                "tier": 2,
+                "tribes": [
+                  "\u7eb3\u8fe6"
+                ]
+              },
+              "blood_gems_received_turn": 0,
+              "card_id": "BG23_009",
+              "cost": 0,
+              "effects": [
+                {
+                  "count": 1,
+                  "type": "spellcraft_permanent"
+                }
+              ],
+              "golden": false,
+              "golden_rebase_state": "additive_v1",
+              "health": 5,
+              "image": "res://assets/cards/BG23_009.jpg",
+              "individually_frozen": false,
+              "is_spellcraft": false,
+              "keywords": [],
+              "kind": "minion",
+              "magnetic_tribes": [],
+              "max_health": 5,
+              "name": "\u7194\u5ca9\u6f5c\u4f0f\u8005",
+              "permanent_keywords": [],
+              "pool_components": [],
+              "pool_count": 1,
+              "pool_id": "BG23_009",
+              "recruit_shop_aura_attack": 0,
+              "recruit_shop_aura_health": 0,
+              "recruit_shop_bonus_applied": {},
+              "spell_triggers": 0,
+              "spellcraft_kept": 1,
+              "temporary": false,
+              "temporary_buffs": [],
+              "text": "\u6bcf\u56de\u5408\u4ece\u624b\u724c\u5bf9\u672c\u968f\u4ece\u4f7f\u7528\u7684\u7b2c\u4e00\u5f20\u5851\u9020\u6cd5\u672f\u7684\u6cd5\u672f\u724c\u6c38\u4e45\u6709\u6548\u3002\uff08\u8fd8\u52691\u5f20\uff01\uff09",
+              "tier": 2,
+              "tribes": [
+                "\u7eb3\u8fe6"
+              ],
+              "uid": "u28"
+            },
+            "recruit_attack": 4,
+            "recruit_health": 5,
+            "recruit_kept": 0,
+            "round": 1,
+            "target_uid": "u28"
+          }
+        ],
+        "darkcrest_final_tier": 2,
+        "darkcrest_uid": "u118",
+        "entirely_natural_game": false,
+        "lava_uid": "u28",
+        "mini_uid": "u4",
+        "native_preview_diagnostic": {
+          "actual_token_issuance": false,
+          "base_key_types": [
+            {
+              "key": "card_id",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "name",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "tier",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "attack",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "health",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "max_health",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "keywords",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "tribes",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "effects",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "golden",
+              "key_type": 4,
+              "value_type": 1
+            }
+          ],
+          "key_types": [
+            {
+              "key": "uid",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "card_id",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "name",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "kind",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "tier",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "attack",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "health",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "keywords",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "tribes",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "effects",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "golden",
+              "key_type": 4,
+              "value_type": 1
+            },
+            {
+              "key": "cost",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "temporary",
+              "key_type": 4,
+              "value_type": 1
+            },
+            {
+              "key": "is_spellcraft",
+              "key_type": 4,
+              "value_type": 1
+            },
+            {
+              "key": "temporary_buffs",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "permanent_keywords",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "text",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "image",
+              "key_type": 4,
+              "value_type": 4
+            },
+            {
+              "key": "pool_count",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "spellcraft_kept",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "spell_triggers",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "attachments",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "pool_components",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "magnetic_tribes",
+              "key_type": 4,
+              "value_type": 28
+            },
+            {
+              "key": "individually_frozen",
+              "key_type": 4,
+              "value_type": 1
+            },
+            {
+              "key": "blood_gems_received_turn",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "recruit_shop_bonus_applied",
+              "key_type": 4,
+              "value_type": 27
+            },
+            {
+              "key": "recruit_shop_aura_attack",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "recruit_shop_aura_health",
+              "key_type": 4,
+              "value_type": 2
+            },
+            {
+              "key": "max_health",
+              "key_type": 21,
+              "value_type": 2
+            },
+            {
+              "key": "base_unit",
+              "key_type": 21,
+              "value_type": 27
+            },
+            {
+              "key": "expires_at_end_turn",
+              "key_type": 21,
+              "value_type": 1
+            }
+          ],
+          "native_factory_preview": true,
+          "shape_error": "",
+          "uid_allocated": false,
+          "zone_inserted": false
+        },
+        "no_next_round_mini_token": true,
+        "old_full_matrix_repeated": false,
+        "ready_token_at_sale": false,
+        "sale": {
+          "gold_after": 7,
+          "gold_before": 6,
+          "index": 1,
+          "mini_uid": "u4",
+          "retired": true,
+          "retired_sequence": 72,
+          "rng_after": -5197053047974767558,
+          "rng_before": -5197053047974767558,
+          "round": 1,
+          "sold_after": 1,
+          "sold_before": 0,
+          "stock_after": 12,
+          "stock_before": 11,
+          "token_absent_from_zones": true,
+          "token_record_same_reference": true,
+          "token_same_reference": true,
+          "token_uid": "u123",
+          "token_used_before_sale": true,
+          "uid_after": 124,
+          "uid_before": 124
+        },
+        "scope": "single ordinary Mini native first cast before same-turn sale with preserved consumed history",
+        "seed": 20261120,
+        "sold_source_unused_expiry_tested": false
+      }
+    },
+    "mini_sale_content_contract": {
+      "failures": [],
+      "log_sha256": "78e0f0cfda6b73a28a148b7a9a20321c992b760b7917d08611d7336a21d1a860",
+      "passed_checks": 102,
+      "result": {
+        "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+        "available_start": 9215868928,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/independent_tests/mini_sale_content_contract.gd"
+        ],
+        "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+        "elapsed": 0.9089925450025476,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T16:16:42.000248+00:00",
+        "log_sha256": "78e0f0cfda6b73a28a148b7a9a20321c992b760b7917d08611d7336a21d1a860",
+        "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "mini_sale_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 115503104,
+        "source": "tests/darkcrest_mini_sale_20261112/content_contract.gd",
+        "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+        "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+        "source_sha256": "e390781a2cc7af2131f06357d814472801486f2328433f3b239d3db2a443f9ef",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+          "bytes": 1550904881,
+          "extra": [],
+          "files": 27988,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T16:16:41.091270+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "7b833343d7e9ffd02cc06063bce4d274a311f68aad3cd2fd7fc32486351d79e8"
+      },
+      "result_sha256": "c1177c480d0c8ccb68abf94ee18fcecbf087a33c76583925bfd5d1af3623af64",
+      "source": "tests/darkcrest_mini_sale_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "e390781a2cc7af2131f06357d814472801486f2328433f3b239d3db2a443f9ef"
+    },
+    "seafloor_annotation_contract": {
+      "failures": [],
+      "log_sha256": "15d4458f7dab1dd44acd095f523c50faed18498f947ef66473e2b04c9cebe112",
+      "passed_checks": 267,
+      "result": {
+        "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+        "available_start": 9075892224,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/independent_tests/seafloor_annotation_contract.gd"
+        ],
+        "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+        "elapsed": 0.4031587860008585,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T16:17:53.403328+00:00",
+        "log_sha256": "15d4458f7dab1dd44acd095f523c50faed18498f947ef66473e2b04c9cebe112",
+        "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "seafloor_annotation_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 66899968,
+        "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+        "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+        "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+        "source_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+          "bytes": 1550904881,
+          "extra": [],
+          "files": 27988,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T16:17:53.000186+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "661fada5df74ebbcfc5398af40e3a2a44118e2acece819c6083ec3e647c871d3"
+      },
+      "result_sha256": "89a8f26489fb96fffea66e1bea4f6d0a6a1739cc1285d0ee68796cfd1af47c5f",
+      "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb"
+    },
+    "source_eot_contract": {
+      "failures": [],
+      "log_sha256": "cd531c473dc115192227cd840cf7ec19cf45fbd9aeaccec8b2f2284db259da42",
+      "passed_checks": 68,
+      "result": {
+        "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+        "available_start": 9267122176,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/independent_tests/source_eot_contract.gd"
+        ],
+        "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+        "elapsed": 0.9088432819989976,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T16:17:39.390864+00:00",
+        "log_sha256": "cd531c473dc115192227cd840cf7ec19cf45fbd9aeaccec8b2f2284db259da42",
+        "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "source_eot_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 96444416,
+        "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+        "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+        "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+        "source_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+          "bytes": 1550904881,
+          "extra": [],
+          "files": 27988,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T16:17:38.482041+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "4b8cf5cc20bf13c94c6b1757a0565acdde62297bb7a3e8d0acafbfef5c99d025"
+      },
+      "result_sha256": "f55cb25c6310335c630b8caecf86c550f61b65b52048fb2a2e6eb1539004d1b1",
+      "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790"
+    },
+    "tier5_content_contract": {
+      "failures": [],
+      "log_sha256": "7712bc303f08530226d227aefaa0f7b912594b27f79f60414781c527c8787943",
+      "passed_checks": 810,
+      "result": {
+        "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+        "available_start": 9088475136,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/independent_tests/tier5_content_contract.gd"
+        ],
+        "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+        "elapsed": 1.0812274859999889,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T16:17:32.237320+00:00",
+        "log_sha256": "7712bc303f08530226d227aefaa0f7b912594b27f79f60414781c527c8787943",
+        "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "tier5_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 107282432,
+        "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+        "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+        "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+        "source_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+          "bytes": 1550904881,
+          "extra": [],
+          "files": 27988,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T16:17:31.156106+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "7aae9d95200bb67f5d35d56999f7ded7363e70009ab8acec0f6968aab8635899"
+      },
+      "result_sha256": "c6e2e5b08ecae5594e7361537e478c01886315629cfea8d83d8e049f3bb599ec",
+      "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248"
+    },
+    "tier6_content_contract": {
+      "failures": [],
+      "log_sha256": "9db06cc43053de4220d03ebf4e9aa39320a31e7505164ad0124b9878cfc35e4e",
+      "passed_checks": 966,
+      "result": {
+        "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+        "available_start": 9125920768,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/independent_tests/tier6_content_contract.gd"
+        ],
+        "download_receipt_sha256": "c5b6b138d8bd2940d09fccf1759cc12ccdfd3b149e9bf448a41d94e93c2b10e0",
+        "elapsed": 6.85951122500046,
+        "exception": null,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T16:17:23.746549+00:00",
+        "log_sha256": "9db06cc43053de4220d03ebf4e9aa39320a31e7505164ad0124b9878cfc35e4e",
+        "manifest_sha256": "ce3e411998700a5be5ceed08034c442df93f321359001ebc22437a117eb4c282",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "precheck_file": "tier6_content_contract_PRECHECK.json",
+        "process_started": true,
+        "reason": "exited",
+        "restore_receipt_sha256": "37c58525a02f5baa07b10621f3f3df68e6a8c944f44af220393ef2d5cf144b8c",
+        "rss_soft_limit": 4294967296,
+        "runtime_mode": "single_new_restored_snapshot_no_run_tree_copy",
+        "sampled_process_group_peak_rss": 439177216,
+        "source": "tests/darkcrest_tier6_20261112/content_contract.gd",
+        "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+        "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+        "source_sha256": "01e5874b444db4950cd9a3a08aec18a0bd4443c28c2a17500f59ee39f38eb787",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+          "bytes": 1550904881,
+          "extra": [],
+          "files": 27988,
+          "matches": true,
+          "mismatched": [],
+          "missing": [],
+          "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+        },
+        "started_at_utc": "2026-11-12T16:17:16.887053+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "d9f936e637ce55837cc7a60e512588c68259a83db3e1ca6af79081a5b66c98c8"
+      },
+      "result_sha256": "fdb1393515e64afa78d6ffbfb85bc512fff27a412ec835f7060fc7c5bd114bdd",
+      "source": "tests/darkcrest_tier6_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "01e5874b444db4950cd9a3a08aec18a0bd4443c28c2a17500f59ee39f38eb787"
+    }
+  },
+  "trees": {
+    "candidate": {
+      "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+      "bytes": 1550904881,
+      "extra": [],
+      "files": 27988,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "observed_source_map_file": "FINAL_candidate_source_map.json",
+      "observed_source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/candidate"
+    },
+    "restored_snapshot": {
+      "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+      "bytes": 1550904881,
+      "extra": [],
+      "files": 27988,
+      "matches": true,
+      "mismatched": [],
+      "missing": [],
+      "observed_source_map_file": "FINAL_restored_snapshot_source_map.json",
+      "observed_source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+      "path": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot"
+    }
+  },
+  "two_runtime_copies": false,
+  "verified_at_utc": "2026-11-12T16:18:13.617571+00:00"
+}
