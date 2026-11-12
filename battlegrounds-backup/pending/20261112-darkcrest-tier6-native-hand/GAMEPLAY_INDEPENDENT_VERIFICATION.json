@@ -1,0 +1,675 @@
+{
+  "default_pool_promoted": false,
+  "fixtures": {
+    "darkcrest_sources_archived.gd": {
+      "bytes": 168341,
+      "kind": "remote_fixture_copy",
+      "sha256": "aab40e4847ab19b74f3e24008d38e28e75642cd84323e0768b82abf99d7285ef",
+      "source": "tests/darkcrest_20261112/darkcrest_sources_archived.gd"
+    },
+    "hand_shape_contract.gd": {
+      "bytes": 64,
+      "kind": "external_wrapper",
+      "sha256": "5996cd153040c5dbe63ca9a85827a3971bb1169fd99c7de13a3fc2982a643bff",
+      "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+      "source_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e"
+    },
+    "seafloor_annotation_contract.gd": {
+      "bytes": 73,
+      "kind": "external_wrapper",
+      "sha256": "661fada5df74ebbcfc5398af40e3a2a44118e2acece819c6083ec3e647c871d3",
+      "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+      "source_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb"
+    },
+    "source_eot_contract.gd": {
+      "bytes": 64,
+      "kind": "external_wrapper",
+      "sha256": "4b8cf5cc20bf13c94c6b1757a0565acdde62297bb7a3e8d0acafbfef5c99d025",
+      "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+      "source_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790"
+    },
+    "tier5_content_contract.gd": {
+      "bytes": 67,
+      "kind": "external_wrapper",
+      "sha256": "7aae9d95200bb67f5d35d56999f7ded7363e70009ab8acec0f6968aab8635899",
+      "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+      "source_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248"
+    },
+    "tier6_content_contract.gd": {
+      "bytes": 67,
+      "kind": "external_wrapper",
+      "sha256": "d9f936e637ce55837cc7a60e512588c68259a83db3e1ca6af79081a5b66c98c8",
+      "source": "tests/darkcrest_tier6_20261112/content_contract.gd",
+      "source_sha256": "01e5874b444db4950cd9a3a08aec18a0bd4443c28c2a17500f59ee39f38eb787"
+    },
+    "tier6_real_matrix.gd": {
+      "bytes": 62,
+      "kind": "external_wrapper",
+      "sha256": "2ebc4be6ac80bfc3ba03f819c416dd830951354d4b26f10246f5077c769d13d1",
+      "source": "tests/darkcrest_tier6_20261112/real_matrix.gd",
+      "source_sha256": "03ee88b1b50f8b1212fb8d7e5d71445347084576238a8905eb9c29e976f12914"
+    }
+  },
+  "full_game_acceptance": false,
+  "full_game_processes": 1,
+  "old_tier5_full_matrix_repeated": false,
+  "scope": "ordinary Darkcrest Tier6 complete-domain native hand acquisition only",
+  "sequential_game_execution": true,
+  "source_commit": "dd428c21867d4c15340ff6d4d8868d027d1067e4",
+  "source_map_sha256": "f6305aee3349b70d01292b351ac0923a2a3152b56a1f41fb1f18c763410d3e9c",
+  "status": "PASS_FIXED_REMOTE_DARKCREST_TIER6_MATRIX_AND_CONTRACTS_POST_TEST_DOUBLE_REHASH",
+  "tests": {
+    "hand_shape_contract": {
+      "failures": [],
+      "log_sha256": "cba4435b4664c7903a6035d8503d1847e5a8690616aa5a15e74bcf908a04fefc",
+      "passed_checks": 166,
+      "result": {
+        "available_start": 9290510336,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/independent_tests/hand_shape_contract.gd"
+        ],
+        "elapsed": 0.5040185739999288,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T10:57:24.780505+00:00",
+        "log_sha256": "cba4435b4664c7903a6035d8503d1847e5a8690616aa5a15e74bcf908a04fefc",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 99758080,
+        "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+        "source_commit": "dd428c21867d4c15340ff6d4d8868d027d1067e4",
+        "source_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "d72e2b1a7a0b6c257c3001f63959a9f717b2a1645feb02c33002c728786cf2fc",
+          "bytes": 1550696801,
+          "extra": [],
+          "files": 27968,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T10:57:24.276488+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "5996cd153040c5dbe63ca9a85827a3971bb1169fd99c7de13a3fc2982a643bff"
+      },
+      "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e"
+    },
+    "seafloor_annotation_contract": {
+      "failures": [],
+      "log_sha256": "15d4458f7dab1dd44acd095f523c50faed18498f947ef66473e2b04c9cebe112",
+      "passed_checks": 267,
+      "result": {
+        "available_start": 9283702784,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/independent_tests/seafloor_annotation_contract.gd"
+        ],
+        "elapsed": 0.4038117309992231,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T10:57:30.430952+00:00",
+        "log_sha256": "15d4458f7dab1dd44acd095f523c50faed18498f947ef66473e2b04c9cebe112",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 66899968,
+        "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+        "source_commit": "dd428c21867d4c15340ff6d4d8868d027d1067e4",
+        "source_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "d72e2b1a7a0b6c257c3001f63959a9f717b2a1645feb02c33002c728786cf2fc",
+          "bytes": 1550696801,
+          "extra": [],
+          "files": 27968,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T10:57:30.027139+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "661fada5df74ebbcfc5398af40e3a2a44118e2acece819c6083ec3e647c871d3"
+      },
+      "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb"
+    },
+    "source_eot_contract": {
+      "failures": [],
+      "log_sha256": "cd531c473dc115192227cd840cf7ec19cf45fbd9aeaccec8b2f2284db259da42",
+      "passed_checks": 68,
+      "result": {
+        "available_start": 9249042432,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/independent_tests/source_eot_contract.gd"
+        ],
+        "elapsed": 0.6047600599995349,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T10:57:18.999053+00:00",
+        "log_sha256": "cd531c473dc115192227cd840cf7ec19cf45fbd9aeaccec8b2f2284db259da42",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 92209152,
+        "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+        "source_commit": "dd428c21867d4c15340ff6d4d8868d027d1067e4",
+        "source_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "d72e2b1a7a0b6c257c3001f63959a9f717b2a1645feb02c33002c728786cf2fc",
+          "bytes": 1550696801,
+          "extra": [],
+          "files": 27968,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T10:57:18.394295+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "4b8cf5cc20bf13c94c6b1757a0565acdde62297bb7a3e8d0acafbfef5c99d025"
+      },
+      "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790"
+    },
+    "tier5_content_contract": {
+      "failures": [],
+      "log_sha256": "7712bc303f08530226d227aefaa0f7b912594b27f79f60414781c527c8787943",
+      "passed_checks": 810,
+      "result": {
+        "available_start": 9329430528,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/independent_tests/tier5_content_contract.gd"
+        ],
+        "elapsed": 0.7059049429990409,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T10:57:13.170399+00:00",
+        "log_sha256": "7712bc303f08530226d227aefaa0f7b912594b27f79f60414781c527c8787943",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 100888576,
+        "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+        "source_commit": "dd428c21867d4c15340ff6d4d8868d027d1067e4",
+        "source_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "d72e2b1a7a0b6c257c3001f63959a9f717b2a1645feb02c33002c728786cf2fc",
+          "bytes": 1550696801,
+          "extra": [],
+          "files": 27968,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T10:57:12.464497+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "7aae9d95200bb67f5d35d56999f7ded7363e70009ab8acec0f6968aab8635899"
+      },
+      "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248"
+    },
+    "tier6_content_contract": {
+      "failures": [],
+      "log_sha256": "9db06cc43053de4220d03ebf4e9aa39320a31e7505164ad0124b9878cfc35e4e",
+      "passed_checks": 966,
+      "result": {
+        "available_start": 9438216192,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/independent_tests/tier6_content_contract.gd"
+        ],
+        "elapsed": 5.461116599999514,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T10:57:07.342617+00:00",
+        "log_sha256": "9db06cc43053de4220d03ebf4e9aa39320a31e7505164ad0124b9878cfc35e4e",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 437202944,
+        "source": "tests/darkcrest_tier6_20261112/content_contract.gd",
+        "source_commit": "dd428c21867d4c15340ff6d4d8868d027d1067e4",
+        "source_sha256": "01e5874b444db4950cd9a3a08aec18a0bd4443c28c2a17500f59ee39f38eb787",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "d72e2b1a7a0b6c257c3001f63959a9f717b2a1645feb02c33002c728786cf2fc",
+          "bytes": 1550696801,
+          "extra": [],
+          "files": 27968,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T10:57:01.881563+00:00",
+        "timeout_seconds": 180,
+        "wrapper_sha256": "d9f936e637ce55837cc7a60e512588c68259a83db3e1ca6af79081a5b66c98c8"
+      },
+      "source": "tests/darkcrest_tier6_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "01e5874b444db4950cd9a3a08aec18a0bd4443c28c2a17500f59ee39f38eb787"
+    },
+    "tier6_real_matrix": {
+      "failures": [],
+      "log_sha256": "5392f1a93e84541cdf85d04bfed13fd0f0c7a45e1564de7cbbea2548a88f0965",
+      "passed_checks": 973,
+      "result": {
+        "available_start": 9325510656,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/develop_darkcrest_tier6_20261112/remote_snapshot_dd428c2/independent_tests/tier6_real_matrix.gd"
+        ],
+        "elapsed": 1809.3395338070004,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T10:56:47.509409+00:00",
+        "log_sha256": "5392f1a93e84541cdf85d04bfed13fd0f0c7a45e1564de7cbbea2548a88f0965",
+        "memory_enforcement": "sampled process-group soft limit, not a cgroup hard cap",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 3044810752,
+        "source": "tests/darkcrest_tier6_20261112/real_matrix.gd",
+        "source_commit": "dd428c21867d4c15340ff6d4d8868d027d1067e4",
+        "source_sha256": "03ee88b1b50f8b1212fb8d7e5d71445347084576238a8905eb9c29e976f12914",
+        "source_snapshot_matches": true,
+        "start_tree": {
+          "aggregate_sha256": "d72e2b1a7a0b6c257c3001f63959a9f717b2a1645feb02c33002c728786cf2fc",
+          "bytes": 1550696801,
+          "extra": [],
+          "files": 27968,
+          "mismatched": [],
+          "missing": []
+        },
+        "started_at_utc": "2026-11-12T10:26:38.169914+00:00",
+        "timeout_seconds": 4200,
+        "wrapper_sha256": "2ebc4be6ac80bfc3ba03f819c416dd830951354d4b26f10246f5077c769d13d1"
+      },
+      "scenario_sha256": "0ac5fc4b443213d3a55c29c5a4ff166978de83d62eb1f6a50096db4190673d5b",
+      "source": "tests/darkcrest_tier6_20261112/real_matrix.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "03ee88b1b50f8b1212fb8d7e5d71445347084576238a8905eb9c29e976f12914",
+      "verified_scenario_fields": {
+        "cases": [
+          {
+            "choices": [
+              {
+                "id": "BG31_035",
+                "stock": 7
+              },
+              {
+                "id": "BG32_837",
+                "stock": 6
+              },
+              {
+                "id": "BG36_622",
+                "stock": 7
+              },
+              {
+                "id": "BG36_640",
+                "stock": 6
+              }
+            ],
+            "id": "BG36_640",
+            "rng": {
+              "range": 26,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 24
+            },
+            "seed": 20261120,
+            "source_uid": "u88",
+            "tavern_history": 51,
+            "token_uid": "u182",
+            "uid": "u209"
+          },
+          {
+            "choices": [
+              {
+                "id": "BG31_035",
+                "stock": 6
+              },
+              {
+                "id": "BG32_837",
+                "stock": 7
+              },
+              {
+                "id": "BG36_622",
+                "stock": 6
+              },
+              {
+                "id": "BG36_640",
+                "stock": 7
+              }
+            ],
+            "id": "BG32_837",
+            "rng": {
+              "range": 26,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 10
+            },
+            "seed": 20261121,
+            "source_uid": "u79",
+            "tavern_history": 50,
+            "token_uid": "u169",
+            "uid": "u182"
+          },
+          {
+            "choices": [
+              {
+                "id": "BG31_035",
+                "stock": 7
+              },
+              {
+                "id": "BG32_837",
+                "stock": 7
+              },
+              {
+                "id": "BG36_622",
+                "stock": 7
+              },
+              {
+                "id": "BG36_640",
+                "stock": 6
+              }
+            ],
+            "id": "BG32_837",
+            "rng": {
+              "range": 27,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 13
+            },
+            "seed": 20261122,
+            "source_uid": "u88",
+            "tavern_history": 51,
+            "token_uid": "u177",
+            "uid": "u190"
+          },
+          {
+            "choices": [
+              {
+                "id": "BG31_035",
+                "stock": 7
+              },
+              {
+                "id": "BG32_837",
+                "stock": 7
+              },
+              {
+                "id": "BG36_622",
+                "stock": 6
+              },
+              {
+                "id": "BG36_640",
+                "stock": 7
+              }
+            ],
+            "id": "BG32_837",
+            "rng": {
+              "range": 27,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 9
+            },
+            "seed": 20261123,
+            "source_uid": "u79",
+            "tavern_history": 50,
+            "token_uid": "u169",
+            "uid": "u189"
+          },
+          {
+            "choices": [
+              {
+                "id": "BG31_035",
+                "stock": 7
+              },
+              {
+                "id": "BG32_837",
+                "stock": 6
+              },
+              {
+                "id": "BG36_622",
+                "stock": 7
+              },
+              {
+                "id": "BG36_640",
+                "stock": 7
+              }
+            ],
+            "id": "BG32_837",
+            "rng": {
+              "range": 27,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 8
+            },
+            "seed": 20261124,
+            "source_uid": "u80",
+            "tavern_history": 50,
+            "token_uid": "u169",
+            "uid": "u182"
+          },
+          {
+            "choices": [
+              {
+                "id": "BG31_035",
+                "stock": 7
+              },
+              {
+                "id": "BG32_837",
+                "stock": 6
+              },
+              {
+                "id": "BG36_622",
+                "stock": 7
+              },
+              {
+                "id": "BG36_640",
+                "stock": 7
+              }
+            ],
+            "id": "BG31_035",
+            "rng": {
+              "range": 27,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 0
+            },
+            "seed": 20261125,
+            "source_uid": "u84",
+            "tavern_history": 51,
+            "token_uid": "u177",
+            "uid": "u232"
+          },
+          {
+            "choices": [
+              {
+                "id": "BG31_035",
+                "stock": 7
+              },
+              {
+                "id": "BG32_837",
+                "stock": 7
+              },
+              {
+                "id": "BG36_622",
+                "stock": 6
+              },
+              {
+                "id": "BG36_640",
+                "stock": 7
+              }
+            ],
+            "id": "BG31_035",
+            "rng": {
+              "range": 27,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 5
+            },
+            "seed": 20261126,
+            "source_uid": "u116",
+            "tavern_history": 55,
+            "token_uid": "u209",
+            "uid": "u222"
+          },
+          {
+            "choices": [
+              {
+                "id": "BG31_035",
+                "stock": 7
+              },
+              {
+                "id": "BG32_837",
+                "stock": 7
+              },
+              {
+                "id": "BG36_622",
+                "stock": 7
+              },
+              {
+                "id": "BG36_640",
+                "stock": 5
+              }
+            ],
+            "id": "BG36_622",
+            "rng": {
+              "range": 26,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 16
+            },
+            "seed": 20261127,
+            "source_uid": "u91",
+            "tavern_history": 52,
+            "token_uid": "u185",
+            "uid": "u198"
+          }
+        ],
+        "checks": 972,
+        "coverage": {
+          "BG31_035": 2,
+          "BG32_837": 4,
+          "BG36_622": 1,
+          "BG36_640": 1
+        },
+        "five_actual_eots": true,
+        "four_player_rooms": true,
+        "golden_gameplay_tested": false,
+        "lower_tier_records": [
+          {
+            "choices": [
+              {
+                "id": "BG23_008",
+                "stock": 9
+              },
+              {
+                "id": "BG31_920",
+                "stock": 7
+              },
+              {
+                "id": "BG31_925",
+                "stock": 7
+              },
+              {
+                "id": "BG32_111",
+                "stock": 9
+              },
+              {
+                "id": "BG32_820",
+                "stock": 9
+              },
+              {
+                "id": "BG32_835",
+                "stock": 9
+              }
+            ],
+            "id": "BG23_008",
+            "rng": {
+              "range": 50,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 8
+            },
+            "seed": 20261120,
+            "source_uid": "u88",
+            "tavern_history": 51,
+            "token_uid": "u161",
+            "uid": "u174"
+          }
+        ],
+        "no_live_state_injection": true,
+        "old_tier5_full_matrix_repeated": false,
+        "other_output_abilities_opened": false,
+        "scope": "ordinary Darkcrest tier6 native hand acquisition only",
+        "seed_plan": [
+          20261120,
+          20261121,
+          20261122,
+          20261123,
+          20261124,
+          20261125,
+          20261126,
+          20261127,
+          20261128,
+          20261129,
+          20261130,
+          20261131,
+          20261132,
+          20261133,
+          20261134,
+          20261135
+        ],
+        "tier5_triple_boundary_reused": true
+      }
+    }
+  },
+  "trees": {
+    "restored_snapshot": {
+      "aggregate_sha256": "d72e2b1a7a0b6c257c3001f63959a9f717b2a1645feb02c33002c728786cf2fc",
+      "bytes": 1550696801,
+      "extra": [],
+      "files": 27968,
+      "mismatched": [],
+      "missing": []
+    },
+    "run_tree": {
+      "aggregate_sha256": "d72e2b1a7a0b6c257c3001f63959a9f717b2a1645feb02c33002c728786cf2fc",
+      "bytes": 1550696801,
+      "extra": [],
+      "files": 27968,
+      "mismatched": [],
+      "missing": []
+    }
+  },
+  "verified_at_utc": "2026-11-12T10:57:48.850150+00:00",
+  "verified_tier5_baseline": {
+    "empty_slot_v1_v2_v3_excluded": true,
+    "receipt_commit": "fd0355f88ef67f7e05fb5eae8c7e677356624734",
+    "source_commit": "3da3922e990fd2ed2637d1cc95c8a6e11322e32f"
+  }
+}
