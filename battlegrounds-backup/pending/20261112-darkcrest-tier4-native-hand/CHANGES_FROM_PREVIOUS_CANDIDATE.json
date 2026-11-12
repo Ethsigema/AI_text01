@@ -1,0 +1,73 @@
+{
+  "core/darkcrest_host.gd": {
+    "after": {
+      "bytes": 37430,
+      "sha256": "42dd0490a6f9c81ee0b2992ce2fc4171770f7957b3b8be296077e751c46024b2"
+    },
+    "before": {
+      "bytes": 36183,
+      "sha256": "ab2c355f6dd508415c7d27a8726b1cec2e2825a7e49ad3bf7c99d9b8fd33710a"
+    }
+  },
+  "core/darkcrest_sources.gd": {
+    "after": {
+      "bytes": 206971,
+      "sha256": "a559b1d24cb1422e2735e6ddff871163f1918b434ff5812c8dde987739668849"
+    },
+    "before": {
+      "bytes": 171270,
+      "sha256": "1c5501421b27cd844a1a01ad861013ebb9b4388936b1133e31743e86f14c61bf"
+    }
+  },
+  "core/darkcrest_tier_four.gd": {
+    "after": {
+      "bytes": 3057,
+      "sha256": "0803ad3ac320cc6d0a5bbee9e01a86e26dd19d4ba2a26d46cf7318a4f9e6ed4b"
+    },
+    "before": null
+  },
+  "data/darkcrest_overlay.json": {
+    "after": {
+      "bytes": 69510,
+      "sha256": "07c47fb123b9f76f1e30e348141aa17ea7cf3c97f757e276e8694cee2b0a78ed"
+    },
+    "before": {
+      "bytes": 69011,
+      "sha256": "eaa89f7e4007dddd2341bbc93f48ea866b9cd10a16b6d58d897557532d84617a"
+    }
+  },
+  "research/darkcrest/hand_candidate_records.json": {
+    "after": {
+      "bytes": 163043,
+      "sha256": "21c4de96792698d449cf88b6beba6e595824effb8a6c081cee028c79beb9083e"
+    },
+    "before": {
+      "bytes": 120137,
+      "sha256": "41472e88e93c3cea7396d95dd8967c89fd36b37b794bc8a8ef134213ad17739d"
+    }
+  },
+  "tests/darkcrest_20261112/README.md": {
+    "after": {
+      "bytes": 1790,
+      "sha256": "b747cf1cbb4ee8f5bfdffe56cc3189f3f9f065fa3727568af38822cc2fe116ab"
+    },
+    "before": {
+      "bytes": 1393,
+      "sha256": "9bad8437461cc600ab7a62affa318677becb06f5a6abf7f3a400295cedcf0e43"
+    }
+  },
+  "tests/darkcrest_tier4_20261112/README.md": {
+    "after": {
+      "bytes": 1422,
+      "sha256": "7a793b7f49f1069916c79d25d59590473d39e5208155dcaa137077edb8f25bf4"
+    },
+    "before": null
+  },
+  "tests/darkcrest_tier4_20261112/real_matrix.gd": {
+    "after": {
+      "bytes": 10364,
+      "sha256": "6264f574bfa063d9f96488f893da0ac71d23b12b46040b0c202341e1c6baeb9d"
+    },
+    "before": null
+  }
+}
