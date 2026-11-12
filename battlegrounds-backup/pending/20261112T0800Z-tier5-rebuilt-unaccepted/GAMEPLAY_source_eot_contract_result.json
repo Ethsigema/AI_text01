@@ -1,0 +1,22 @@
+{
+  "available_start": 9503686656,
+  "command": [
+    "godot",
+    "--headless",
+    "--path",
+    "/workspace/scratch/dd4f12b08ec0/recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/independent_run_tree",
+    "--script",
+    "/workspace/scratch/dd4f12b08ec0/recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/independent_tests/tests/darkcrest_20261112/source_eot_contract.gd"
+  ],
+  "elapsed": 0.6039037350001308,
+  "exit": 0,
+  "finished_at_utc": "2026-11-12T08:39:11.102875+00:00",
+  "hard_limit": "unavailable: cgroup filesystem not exposed",
+  "reason": "exited",
+  "rss_soft_limit": 4294967296,
+  "sampled_process_group_peak_rss": 89026560,
+  "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+  "source_commit": "3da3922e990fd2ed2637d1cc95c8a6e11322e32f",
+  "started_at_utc": "2026-11-12T08:39:10.498989+00:00",
+  "timeout_seconds": 180
+}

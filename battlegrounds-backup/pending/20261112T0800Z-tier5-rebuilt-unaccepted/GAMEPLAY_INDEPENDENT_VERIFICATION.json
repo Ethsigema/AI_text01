@@ -1,0 +1,507 @@
+{
+  "default_pool_promoted": false,
+  "fixtures": {
+    "tests/darkcrest_20261112/darkcrest_sources_archived.gd": {
+      "bytes": 168341,
+      "sha256": "aab40e4847ab19b74f3e24008d38e28e75642cd84323e0768b82abf99d7285ef"
+    },
+    "tests/darkcrest_20261112/hand_shape_contract.gd": {
+      "bytes": 5866,
+      "sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e"
+    },
+    "tests/darkcrest_20261112/real_matrix.gd": {
+      "bytes": 15893,
+      "sha256": "2f1d22423e80716173c82d0c01de7bf5cb460c84d68337d272552ede650c458d"
+    },
+    "tests/darkcrest_20261112/seafloor_annotation_contract.gd": {
+      "bytes": 5773,
+      "sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb"
+    },
+    "tests/darkcrest_20261112/source_eot_contract.gd": {
+      "bytes": 4100,
+      "sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790"
+    },
+    "tests/darkcrest_tier4_20261112/real_matrix.gd": {
+      "bytes": 10364,
+      "sha256": "6264f574bfa063d9f96488f893da0ac71d23b12b46040b0c202341e1c6baeb9d"
+    },
+    "tests/darkcrest_tier5_20261112/content_contract.gd": {
+      "bytes": 6326,
+      "sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248"
+    },
+    "tests/darkcrest_tier5_20261112/real_matrix.gd": {
+      "bytes": 15645,
+      "sha256": "94bb257330d24c0ec67ba313ff5f798df0bb0926661a8e8788de1e607fe4bef7"
+    }
+  },
+  "full_game_acceptance": false,
+  "sequential_game_execution": true,
+  "source_commit": "3da3922e990fd2ed2637d1cc95c8a6e11322e32f",
+  "source_map_sha256": "7701a57e0cf2e97b82149be5ad6cc3d82e38a443b56477998daa80b4350f5014",
+  "status": "PASS_FIXED_REMOTE_MATRIX_AND_FOUR_CONTRACTS_POST_TEST_DOUBLE_REHASH",
+  "tests": {
+    "hand_shape_contract": {
+      "failures": [],
+      "log_sha256": "350d70bedf2a1c00e78a5f08c3c31654f8a83d1c9721a9884d05a2913bb66754",
+      "passed_checks": 166,
+      "result": {
+        "available_start": 9511727104,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/independent_run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/independent_tests/tests/darkcrest_20261112/hand_shape_contract.gd"
+        ],
+        "elapsed": 0.4033266619999267,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T08:39:11.507269+00:00",
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 96129024,
+        "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+        "source_commit": "3da3922e990fd2ed2637d1cc95c8a6e11322e32f",
+        "started_at_utc": "2026-11-12T08:39:11.103963+00:00",
+        "timeout_seconds": 180
+      },
+      "source": "tests/darkcrest_20261112/hand_shape_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "1577c66e9524b4db1875309104cf55cf67d254d1e024a41b9b094fff8331fa2e"
+    },
+    "seafloor_annotation_contract": {
+      "failures": [],
+      "log_sha256": "15d4458f7dab1dd44acd095f523c50faed18498f947ef66473e2b04c9cebe112",
+      "passed_checks": 267,
+      "result": {
+        "available_start": 9507614720,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/independent_run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/independent_tests/tests/darkcrest_20261112/seafloor_annotation_contract.gd"
+        ],
+        "elapsed": 0.5255483199998707,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T08:39:12.034079+00:00",
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 65859584,
+        "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+        "source_commit": "3da3922e990fd2ed2637d1cc95c8a6e11322e32f",
+        "started_at_utc": "2026-11-12T08:39:11.508582+00:00",
+        "timeout_seconds": 180
+      },
+      "source": "tests/darkcrest_20261112/seafloor_annotation_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "c0e0046fa010ccfb83d87bedf87a4616b23fef5e1700e88438f27f9aca6dc4cb"
+    },
+    "source_eot_contract": {
+      "failures": [],
+      "log_sha256": "cd531c473dc115192227cd840cf7ec19cf45fbd9aeaccec8b2f2284db259da42",
+      "passed_checks": 68,
+      "result": {
+        "available_start": 9503686656,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/independent_run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/independent_tests/tests/darkcrest_20261112/source_eot_contract.gd"
+        ],
+        "elapsed": 0.6039037350001308,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T08:39:11.102875+00:00",
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 89026560,
+        "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+        "source_commit": "3da3922e990fd2ed2637d1cc95c8a6e11322e32f",
+        "started_at_utc": "2026-11-12T08:39:10.498989+00:00",
+        "timeout_seconds": 180
+      },
+      "source": "tests/darkcrest_20261112/source_eot_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "2d37ee1063792093a0fd1ad683c2e8786f196caad43abe0c82ea831caaaf7790"
+    },
+    "tier5_content_contract": {
+      "failures": [],
+      "log_sha256": "6f6af3dbfcb5a0acced303425af30e0832ec3dc6d919be119523f6e0b341d995",
+      "passed_checks": 810,
+      "result": {
+        "available_start": 9561260032,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/independent_run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/independent_tests/tests/darkcrest_tier5_20261112/content_contract.gd"
+        ],
+        "elapsed": 0.7058718780003801,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T08:39:10.497060+00:00",
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 97366016,
+        "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+        "source_commit": "3da3922e990fd2ed2637d1cc95c8a6e11322e32f",
+        "started_at_utc": "2026-11-12T08:39:09.791197+00:00",
+        "timeout_seconds": 180
+      },
+      "source": "tests/darkcrest_tier5_20261112/content_contract.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "d039a22573d7340d0779e17adbbc70b0e2f3f958334fd7c742bdd4b6e3bd6248"
+    },
+    "tier5_real_matrix": {
+      "failures": [],
+      "log_sha256": "1629b9b68d5a322fa6e6643eb9bd8e917910da0c066ea33609bd1e05b7b14fb5",
+      "passed_checks": 640,
+      "result": {
+        "available_start": 9462382592,
+        "command": [
+          "godot",
+          "--headless",
+          "--path",
+          "/workspace/scratch/dd4f12b08ec0/recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/independent_run_tree",
+          "--script",
+          "/workspace/scratch/dd4f12b08ec0/recover_tier5_after_environment_change_20261112/remote_snapshot_3da3922/independent_tests/tests/darkcrest_tier5_20261112/real_matrix.gd"
+        ],
+        "elapsed": 1547.6771710350001,
+        "exit": 0,
+        "finished_at_utc": "2026-11-12T08:39:09.785905+00:00",
+        "hard_limit": "unavailable: cgroup filesystem not exposed",
+        "reason": "exited",
+        "rss_soft_limit": 4294967296,
+        "sampled_process_group_peak_rss": 3042820096,
+        "source": "tests/darkcrest_tier5_20261112/real_matrix.gd",
+        "source_commit": "3da3922e990fd2ed2637d1cc95c8a6e11322e32f",
+        "started_at_utc": "2026-11-12T08:13:22.108764+00:00",
+        "timeout_seconds": 3600
+      },
+      "source": "tests/darkcrest_tier5_20261112/real_matrix.gd",
+      "source_snapshot_matches": true,
+      "test_sha256": "94bb257330d24c0ec67ba313ff5f798df0bb0926661a8e8788de1e607fe4bef7",
+      "verified_scenario_fields": {
+        "cases": [
+          {
+            "choices": [
+              {
+                "id": "BG23_008",
+                "stock": 9
+              },
+              {
+                "id": "BG31_920",
+                "stock": 6
+              },
+              {
+                "id": "BG31_925",
+                "stock": 8
+              },
+              {
+                "id": "BG32_111",
+                "stock": 9
+              },
+              {
+                "id": "BG32_820",
+                "stock": 9
+              },
+              {
+                "id": "BG32_835",
+                "stock": 9
+              }
+            ],
+            "coverage": {
+              "BG31_920": 1
+            },
+            "id": "BG31_920",
+            "rng": {
+              "range": 50,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 10
+            },
+            "seed": 20261120,
+            "source_uid": "u71",
+            "tavern_history": 40,
+            "token_uid": "u143",
+            "uid": "u156"
+          },
+          {
+            "choices": [
+              {
+                "id": "BG23_008",
+                "stock": 9
+              },
+              {
+                "id": "BG31_920",
+                "stock": 8
+              },
+              {
+                "id": "BG31_925",
+                "stock": 9
+              },
+              {
+                "id": "BG32_111",
+                "stock": 9
+              },
+              {
+                "id": "BG32_820",
+                "stock": 9
+              },
+              {
+                "id": "BG32_835",
+                "stock": 8
+              }
+            ],
+            "coverage": {
+              "BG23_008": 1,
+              "BG31_920": 1
+            },
+            "id": "BG23_008",
+            "rng": {
+              "range": 52,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 3
+            },
+            "seed": 20261121,
+            "source_uid": "u84",
+            "tavern_history": 42,
+            "token_uid": "u153",
+            "uid": "u166"
+          },
+          {
+            "choices": [
+              {
+                "id": "BG23_008",
+                "stock": 8
+              },
+              {
+                "id": "BG31_920",
+                "stock": 8
+              },
+              {
+                "id": "BG31_925",
+                "stock": 9
+              },
+              {
+                "id": "BG32_111",
+                "stock": 9
+              },
+              {
+                "id": "BG32_820",
+                "stock": 9
+              },
+              {
+                "id": "BG32_835",
+                "stock": 8
+              }
+            ],
+            "coverage": {
+              "BG23_008": 1,
+              "BG31_920": 1,
+              "BG32_820": 1
+            },
+            "id": "BG32_820",
+            "rng": {
+              "range": 51,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 34
+            },
+            "seed": 20261122,
+            "source_uid": "u63",
+            "tavern_history": 39,
+            "token_uid": "u132",
+            "uid": "u145"
+          },
+          {
+            "choices": [
+              {
+                "id": "BG23_008",
+                "stock": 8
+              },
+              {
+                "id": "BG31_920",
+                "stock": 8
+              },
+              {
+                "id": "BG31_925",
+                "stock": 9
+              },
+              {
+                "id": "BG32_111",
+                "stock": 9
+              },
+              {
+                "id": "BG32_820",
+                "stock": 9
+              },
+              {
+                "id": "BG32_835",
+                "stock": 9
+              }
+            ],
+            "coverage": {
+              "BG23_008": 1,
+              "BG31_920": 1,
+              "BG32_111": 1,
+              "BG32_820": 1
+            },
+            "id": "BG32_111",
+            "rng": {
+              "range": 52,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 26
+            },
+            "seed": 20261123,
+            "source_uid": "u58",
+            "tavern_history": 38,
+            "token_uid": "u125",
+            "uid": "u138"
+          },
+          {
+            "choices": [
+              {
+                "id": "BG23_008",
+                "stock": 8
+              },
+              {
+                "id": "BG31_920",
+                "stock": 8
+              },
+              {
+                "id": "BG31_925",
+                "stock": 9
+              },
+              {
+                "id": "BG32_111",
+                "stock": 9
+              },
+              {
+                "id": "BG32_820",
+                "stock": 9
+              },
+              {
+                "id": "BG32_835",
+                "stock": 9
+              }
+            ],
+            "coverage": {
+              "BG23_008": 1,
+              "BG31_920": 1,
+              "BG32_111": 1,
+              "BG32_820": 1,
+              "BG32_835": 1
+            },
+            "id": "BG32_835",
+            "rng": {
+              "range": 52,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 44
+            },
+            "seed": 20261126,
+            "source_uid": "u114",
+            "tavern_history": 46,
+            "token_uid": "u181",
+            "uid": "u194"
+          },
+          {
+            "choices": [
+              {
+                "id": "BG23_008",
+                "stock": 9
+              },
+              {
+                "id": "BG31_920",
+                "stock": 8
+              },
+              {
+                "id": "BG31_925",
+                "stock": 8
+              },
+              {
+                "id": "BG32_111",
+                "stock": 7
+              },
+              {
+                "id": "BG32_820",
+                "stock": 9
+              },
+              {
+                "id": "BG32_835",
+                "stock": 9
+              }
+            ],
+            "coverage": {
+              "BG23_008": 1,
+              "BG31_920": 1,
+              "BG31_925": 1,
+              "BG32_111": 1,
+              "BG32_820": 1,
+              "BG32_835": 1
+            },
+            "id": "BG31_925",
+            "rng": {
+              "range": 50,
+              "reason": "random_generated_minion",
+              "type": "rng",
+              "value": 18
+            },
+            "seed": 20261142,
+            "source_uid": "u109",
+            "tavern_history": 45,
+            "token_uid": "u174",
+            "uid": "u187"
+          }
+        ],
+        "checks": 639,
+        "coverage": {
+          "BG23_008": 1,
+          "BG31_920": 1,
+          "BG31_925": 1,
+          "BG32_111": 1,
+          "BG32_820": 1,
+          "BG32_835": 1
+        },
+        "four_player_rooms": true,
+        "lower_tier_regression": true,
+        "reconstructed": true,
+        "scope": "reconstructed ordinary Darkcrest full tier5 random domain and private native generated-parent origin; not all output abilities or whole game",
+        "triple_refusal": true,
+        "unowned_factory_rejection": true,
+        "waiting_regression": true
+      }
+    }
+  },
+  "trees": {
+    "independent_run_tree": {
+      "aggregate_sha256": "ca24bc997ed0661ea9b5c45194fb19c76777d66b1a0bbfaf19724b580d0b6612",
+      "bytes": 1550610791,
+      "extra": [],
+      "files": 27965,
+      "mismatched": [],
+      "missing": []
+    },
+    "restored_snapshot": {
+      "aggregate_sha256": "ca24bc997ed0661ea9b5c45194fb19c76777d66b1a0bbfaf19724b580d0b6612",
+      "bytes": 1550610791,
+      "extra": [],
+      "files": 27965,
+      "mismatched": [],
+      "missing": []
+    }
+  },
+  "unknown_unuploaded_tier5_recovered": false,
+  "verified_at_utc": "2026-11-12T08:39:40.604471+00:00"
+}
