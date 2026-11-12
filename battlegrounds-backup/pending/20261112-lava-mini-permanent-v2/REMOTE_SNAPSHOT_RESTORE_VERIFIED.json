@@ -1,0 +1,24 @@
+{
+  "checked_at_utc": "2026-11-12T14:49:56.844686+00:00",
+  "fresh_base_checkpoint_then_single_target_tree": true,
+  "game_started": false,
+  "gameplay_acceptance": false,
+  "new_snapshot_files_downloaded": 17,
+  "restored": {
+    "aggregate_sha256": "97259318470a89b3ad5e774e258b886b9ac6d92cf998991c7084b7d741bf067d",
+    "bytes": 1550857132,
+    "extra": [],
+    "files": 27982,
+    "mismatched": [],
+    "missing": []
+  },
+  "restored_tree": "/workspace/scratch/dd4f12b08ec0/develop_lava_permanent_v2_20261112/remote_snapshot_0b2962c/single_tree_restore/restored_snapshot",
+  "same_current_batch_dependencies_rehashed": 53,
+  "separate_runtime_copy_created": false,
+  "snapshot_status": "UNACCEPTED_LAVA_MINI_PERMANENT_V2_BEFORE_GAME",
+  "source_commit": "0b2962c294aa4c0e4354bdc119f2fecd732d3c03",
+  "source_map_sha256": "ca877c349b8ac23c15e851a850cbf10cc260b66fffc22f04c45883dcffa72a22",
+  "status": "PASS_REMOTE_UNACCEPTED_SINGLE_TREE_SOURCE_RESTORE_BYTES_ONLY",
+  "unknown_unuploaded_tier5_recovered": false,
+  "uploads": 0
+}
