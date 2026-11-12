@@ -1,0 +1,254 @@
+{
+  "status": "PASS_FINAL_PUBLICATION_FRESH_BYTES_AND_ALL_GAMEPLAY_EVIDENCE_MEMBERS",
+  "commit": "c3873696df2d384a833bc78a6a58897faa810dce",
+  "source_commit": "73ef3f42e2a52b71aacd29fac2d6392731015d9d",
+  "verified_at_utc": "2026-11-12T12:55:20.782681+00:00",
+  "files": 30,
+  "bytes": 3960877,
+  "sha256sums_entries": 29,
+  "sha256sums_sha256": "633e3b0764abfc3689a02098d55109ce9bacdb5f29b1a3a99e97e5604e047c22",
+  "records": [
+    {
+      "bytes": 668,
+      "git_sha": "8c80c92a31bb6d782ec926e458e077435223dd70",
+      "name": "BASE_RESTORE_CURRENT.json",
+      "sha256": "4bec2b4f92bb1ec91c27932c03f1aded81e27d79b13a4007ad16321e6a554422",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/BASE_RESTORE_CURRENT.json"
+    },
+    {
+      "bytes": 406,
+      "git_sha": "7024d7e5a09a57fa9174bab6b5d04ec2de4b72a8",
+      "name": "BUILD_VERIFIED.json",
+      "sha256": "c1f8ca463bc5ace7c380a8615b3e2eac024cb3e71fe403b843aa01add92c922b",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/BUILD_VERIFIED.json"
+    },
+    {
+      "bytes": 836,
+      "git_sha": "fdde8705bad1ffe28e45f15be54d00720772de12",
+      "name": "CANDIDATE_REMOTE_RESTORE_DOUBLE_REHASH.json",
+      "sha256": "5b54096fc554e5e33405371598a04f3830e3e0870b206779d7ea54e1eeead32b",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/CANDIDATE_REMOTE_RESTORE_DOUBLE_REHASH.json"
+    },
+    {
+      "bytes": 27509,
+      "git_sha": "ca1a2fc61957a20dbb24f6db34264555a1378189",
+      "name": "CHANGES_FROM_LAVA.json",
+      "sha256": "096e0e5777a1f6d0082e7d57ef792f21302ce337d781b6c20c5cef05090c8175",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/CHANGES_FROM_LAVA.json"
+    },
+    {
+      "bytes": 239,
+      "git_sha": "03b7d6bbf48ac6dbc2becf52833aa5b4fc5a5e9e",
+      "name": "CURRENT_EVIDENCE_VERIFIED.json",
+      "sha256": "3519e3038bcb4728ae0d7c531ebb7c9efd67cf3e5c6cb8cb58f051f2d834b165",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/CURRENT_EVIDENCE_VERIFIED.json"
+    },
+    {
+      "bytes": 822,
+      "git_sha": "dc30dd343199556b0f4af786b46f1b95fe9b2019",
+      "name": "CURRENT_RECOVERY_VERIFIED.json",
+      "sha256": "36c281d5f17066ac9dd2d2b9f33611ce4e2a525ab1d65410899e1e1135ef6336",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/CURRENT_RECOVERY_VERIFIED.json"
+    },
+    {
+      "bytes": 974156,
+      "git_sha": "df6ad1b57d6d4f1d0502fb5872face1dc3b09ea8",
+      "name": "FIX_EVIDENCE.tar.xz",
+      "sha256": "989f7c1180a794bb6a4d62f26a60dfa9553ba0abfbf51a4e387dc7bb63ef6c56",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/FIX_EVIDENCE.tar.xz"
+    },
+    {
+      "bytes": 4306,
+      "git_sha": "5d3c3d62fe92e9eaba7d9fdf4439ecb8764f6f19",
+      "name": "FIX_EVIDENCE_MANIFEST.json",
+      "sha256": "4ef81e97ece578097750ebc374fb73cdee829dee1ea1dc18b89aa4f941407e0e",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/FIX_EVIDENCE_MANIFEST.json"
+    },
+    {
+      "bytes": 28817,
+      "git_sha": "fad94a4d6e6f94f7a43f78907de673767de499aa",
+      "name": "FRESH_DOWNLOAD_VERIFIED.json",
+      "sha256": "d72bf83688de8593fb64d7eb2793fcd45b195f4de19535e0c5a84eecd5f39dd6",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/FRESH_DOWNLOAD_VERIFIED.json"
+    },
+    {
+      "bytes": 996536,
+      "git_sha": "6a38238d48aadf988fed474fb52e21ae45fb085a",
+      "name": "GAMEPLAY_EVIDENCE.tar.xz",
+      "sha256": "da8a136ea0f9848556d53a7140f2d101a72ff649fabc1658a0e3ab1b4be81412",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/GAMEPLAY_EVIDENCE.tar.xz"
+    },
+    {
+      "bytes": 9377,
+      "git_sha": "8c799b2e2d4b460951b65677b9287cc3345c6bfc",
+      "name": "GAMEPLAY_EVIDENCE_MANIFEST.json",
+      "sha256": "6582d4e41679de16d0818a732314088be8084d2bb491d18fb4c5f7026633e77c",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/GAMEPLAY_EVIDENCE_MANIFEST.json"
+    },
+    {
+      "bytes": 785,
+      "git_sha": "be687f2c8ac0c7ee932ae9d57749fb696b38d0ad",
+      "name": "GAMEPLAY_FINAL_AUDIT.json",
+      "sha256": "9fad5139b614475a5b8cd2d21193205403d209424dd26e0e0de0162e6ff0fd03",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/GAMEPLAY_FINAL_AUDIT.json"
+    },
+    {
+      "bytes": 24078,
+      "git_sha": "7f51d16eb81e29bb5f10e6de3510d99cae349c0f",
+      "name": "GAMEPLAY_INDEPENDENT_VERIFICATION.json",
+      "sha256": "5e7a3a9f2e7fd243a9a3a9b598bed0ad30471a07ef18d73bebeb8f9c9524e96e",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/GAMEPLAY_INDEPENDENT_VERIFICATION.json"
+    },
+    {
+      "bytes": 2895,
+      "git_sha": "1976d4025f0b223e8800680f3f440465ada6dfee",
+      "name": "GAMEPLAY_MATRIX_RESULT.json",
+      "sha256": "c4dec10566ad12d84665d384b662a00294f3a080d06937cbe7efc99ddc329125",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/GAMEPLAY_MATRIX_RESULT.json"
+    },
+    {
+      "bytes": 2833,
+      "git_sha": "ef43931ad50fb623c6fc3641c65e792bb14f60fb",
+      "name": "GAMEPLAY_VERIFIED_SLICE.md",
+      "sha256": "07c4267ff58c31b5ea1503572838b17fecb5e1518c967d5cca647d6c7149fbdc",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/GAMEPLAY_VERIFIED_SLICE.md"
+    },
+    {
+      "bytes": 579,
+      "git_sha": "71bc160dbbd37a6303881454ea6892e05e3a3018",
+      "name": "LAVA_PREIMAGE_METADATA_VERIFIED.json",
+      "sha256": "d63d233c947c2772f1ce245d8f98d50d1508c8b71f0db7363d869c266c31ccc7",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/LAVA_PREIMAGE_METADATA_VERIFIED.json"
+    },
+    {
+      "bytes": 24050,
+      "git_sha": "4078a5c26ee59a66c10d11876e3bdce08f291be9",
+      "name": "MANIFEST.json",
+      "sha256": "fa1df715bd282c2909406b1663c3284670fb6d99082a40b24ecaea3136d532b8",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/MANIFEST.json"
+    },
+    {
+      "bytes": 3177,
+      "git_sha": "4450f8a8e6bbcd848e6d8e316df0cae6f60add99",
+      "name": "RECONSTRUCTION_NOTE.md",
+      "sha256": "602480c0334b3714fb3a5a76bb4138faf2beb59c874c94340c8d0611a38407dd",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/RECONSTRUCTION_NOTE.md"
+    },
+    {
+      "bytes": 3370,
+      "git_sha": "cc86513962dd611054ad3c3c2603b6e91fa07d36",
+      "name": "RECOVERY.md",
+      "sha256": "c7b74f336783da1d06d776f23d0861e9004c01d439ccd1ede1335c46c1b91ef8",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/RECOVERY.md"
+    },
+    {
+      "bytes": 481,
+      "git_sha": "5db6e2090445d9eb40d86b1fe7aa19a131272927",
+      "name": "REMOTE_FIX_EVIDENCE_VERIFIED.json",
+      "sha256": "2a4bf2fd0cf7b805b9d0464769f2672eb718a5569d3ddbf7488475ccca00852b",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/REMOTE_FIX_EVIDENCE_VERIFIED.json"
+    },
+    {
+      "bytes": 7185,
+      "git_sha": "cf4f27a205ee78f449b850d2a914a35fcdcc1979",
+      "name": "REMOTE_SNAPSHOT_DOWNLOAD_VERIFIED.json",
+      "sha256": "29d5e761339f018a584dc2e3c89cf96f0b89e8b4a51326758c91fc01f6be57e6",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/REMOTE_SNAPSHOT_DOWNLOAD_VERIFIED.json"
+    },
+    {
+      "bytes": 765,
+      "git_sha": "a4cb2edfee04ed42e3752c962d12738aed02f69c",
+      "name": "REMOTE_SNAPSHOT_RESTORE_VERIFIED.json",
+      "sha256": "d6912c888f72839b2c17b37987f9e16ef3b6ce880af0ba3dfb6a615ba2466572",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/REMOTE_SNAPSHOT_RESTORE_VERIFIED.json"
+    },
+    {
+      "bytes": 1307,
+      "git_sha": "bffc0535a9066d75363f68cce83f2e43af104f38",
+      "name": "RESTORE_VERIFIED.md",
+      "sha256": "07f0e307efba1cc1789b27e652546687b178d7d9c2d8be87f03b27f4cc18611a",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/RESTORE_VERIFIED.md"
+    },
+    {
+      "bytes": 2688,
+      "git_sha": "4998ac6ad6e7d220190a647cef7406715971ea07",
+      "name": "SHA256SUMS.txt",
+      "sha256": "633e3b0764abfc3689a02098d55109ce9bacdb5f29b1a3a99e97e5604e047c22",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/SHA256SUMS.txt"
+    },
+    {
+      "bytes": 1282026,
+      "git_sha": "0b1b67dc83c83e9d5ecb5657a6daee9fa505598e",
+      "name": "SOURCE_MAP.json.gz",
+      "sha256": "e90fcf80344a0f66ceda6b597a34f3d9694da9bdd1d981d3778462c6540acd73",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/SOURCE_MAP.json.gz"
+    },
+    {
+      "bytes": 786,
+      "git_sha": "3a7149c6276089875dfe9111c8357d256b9ebd43",
+      "name": "STATIC_SHA_VERIFIED.json",
+      "sha256": "6c86b21c7b85d3970c4c168b8a9452264da1e0c557a746189a618929563e12a4",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/STATIC_SHA_VERIFIED.json"
+    },
+    {
+      "bytes": 22672,
+      "git_sha": "ff55f714fb2c87b13738073cadcede9a8f814bd5",
+      "name": "TOOLS_EVIDENCE.tar.xz",
+      "sha256": "0a379b0186872d8c3870cd9958cec6d222330e7d92d87a0900d40c7e45fbf84a",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/TOOLS_EVIDENCE.tar.xz"
+    },
+    {
+      "bytes": 3252,
+      "git_sha": "8e00ac58a614ca409a720ce609b1dc1061685fb0",
+      "name": "TOOLS_EVIDENCE_MANIFEST.json",
+      "sha256": "0e20dfbaa9f1d8e0baae059efadfa46e7221bc15f136bd890fc0a96409ed40b1",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/TOOLS_EVIDENCE_MANIFEST.json"
+    },
+    {
+      "bytes": 530760,
+      "git_sha": "7c9c8aefc49ae5993519889701e5eb53be2bce90",
+      "name": "delta.tar.xz",
+      "sha256": "519cf1d8bf09dcab0de54522d8e155de1af1d105cc4f612b3d93e57061fe9803",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/delta.tar.xz"
+    },
+    {
+      "bytes": 3516,
+      "git_sha": "2d90bb29327a6f488c3ca620c0a2f2e1a023b7bc",
+      "name": "restore_increment.py",
+      "sha256": "5dc44cb3f02f230c690b5da3a0b8d6fc7e3b83b69848fa66478cfde3eef23550",
+      "url": "https://raw.githubusercontent.com/Ethsigema/AI_text01/c3873696df2d384a833bc78a6a58897faa810dce/battlegrounds-backup/pending/20261112-lava-native-sale/restore_increment.py"
+    }
+  ],
+  "immutable_source_files_match_fixed_source_commit": {
+    "BASE_RESTORE_CURRENT.json": "4bec2b4f92bb1ec91c27932c03f1aded81e27d79b13a4007ad16321e6a554422",
+    "BUILD_VERIFIED.json": "c1f8ca463bc5ace7c380a8615b3e2eac024cb3e71fe403b843aa01add92c922b",
+    "CHANGES_FROM_LAVA.json": "096e0e5777a1f6d0082e7d57ef792f21302ce337d781b6c20c5cef05090c8175",
+    "CURRENT_EVIDENCE_VERIFIED.json": "3519e3038bcb4728ae0d7c531ebb7c9efd67cf3e5c6cb8cb58f051f2d834b165",
+    "CURRENT_RECOVERY_VERIFIED.json": "36c281d5f17066ac9dd2d2b9f33611ce4e2a525ab1d65410899e1e1135ef6336",
+    "FIX_EVIDENCE.tar.xz": "989f7c1180a794bb6a4d62f26a60dfa9553ba0abfbf51a4e387dc7bb63ef6c56",
+    "FIX_EVIDENCE_MANIFEST.json": "4ef81e97ece578097750ebc374fb73cdee829dee1ea1dc18b89aa4f941407e0e",
+    "FRESH_DOWNLOAD_VERIFIED.json": "d72bf83688de8593fb64d7eb2793fcd45b195f4de19535e0c5a84eecd5f39dd6",
+    "LAVA_PREIMAGE_METADATA_VERIFIED.json": "d63d233c947c2772f1ce245d8f98d50d1508c8b71f0db7363d869c266c31ccc7",
+    "MANIFEST.json": "fa1df715bd282c2909406b1663c3284670fb6d99082a40b24ecaea3136d532b8",
+    "RECONSTRUCTION_NOTE.md": "602480c0334b3714fb3a5a76bb4138faf2beb59c874c94340c8d0611a38407dd",
+    "RECOVERY.md": "c7b74f336783da1d06d776f23d0861e9004c01d439ccd1ede1335c46c1b91ef8",
+    "SOURCE_MAP.json.gz": "e90fcf80344a0f66ceda6b597a34f3d9694da9bdd1d981d3778462c6540acd73",
+    "STATIC_SHA_VERIFIED.json": "6c86b21c7b85d3970c4c168b8a9452264da1e0c557a746189a618929563e12a4",
+    "delta.tar.xz": "519cf1d8bf09dcab0de54522d8e155de1af1d105cc4f612b3d93e57061fe9803",
+    "restore_increment.py": "5dc44cb3f02f230c690b5da3a0b8d6fc7e3b83b69848fa66478cfde3eef23550"
+  },
+  "source_evidence_members": 29,
+  "gameplay_receipt_sha256": "5e7a3a9f2e7fd243a9a3a9b598bed0ad30471a07ef18d73bebeb8f9c9524e96e",
+  "post_game_double_tree_reports_match_source": true,
+  "preserved_tools_evidence_members": 19,
+  "gameplay_evidence_members": 55,
+  "gameplay_evidence_uncompressed_bytes": 28660165,
+  "gameplay_evidence_every_member_rehashed": true,
+  "missing": [],
+  "extra": [],
+  "mismatched": [],
+  "acceptance": "ordinary_lava_native_sale_departure_only",
+  "full_game_or_trinket_family_acceptance": false,
+  "game_started_by_this_verifier": false,
+  "uploaded": false
+}
