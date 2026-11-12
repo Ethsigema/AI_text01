@@ -1,0 +1,26 @@
+{
+  "scope": {
+    "minions": {
+      "completion_percent": null,
+      "reason": "No reliable current-scope total and fully accepted count",
+      "new_fully_accepted": 0
+    },
+    "tavern_spells": {
+      "completion_percent": null,
+      "reason": "No reliable current-scope total and fully accepted count",
+      "new_fully_accepted": 0
+    },
+    "trinkets": {
+      "completion_percent": null,
+      "reason": "No reliable last-complete-appearance total and fully accepted count",
+      "new_fully_accepted": 0
+    }
+  },
+  "snapshot_status": "in_progress_unaccepted",
+  "tests_this_run": [],
+  "source_progress_files_absent": [
+    "PROGRESS.md",
+    "docs/progress_ledger.json"
+  ],
+  "previous_verified_candidate": "6156c10d37e0da197510c006c6a7330066602253"
+}
