@@ -1,0 +1,22 @@
+{
+  "actual_evidence_members_byte_identical_to_initial": 112,
+  "bytes": 5661321,
+  "changed_old_archive_members": [
+    "GAMEPLAY_VERIFIED_SLICE.md",
+    "preparation/render_verified_slice.py",
+    "preparation/test_verified_slice.py"
+  ],
+  "early_22_non_sums_unchanged": true,
+  "files": 30,
+  "game_repeated": false,
+  "gameplay_archive_sha256": "4b0334b0f6434f055ffe4b03faa13702dcd85756e7bfee03b1ae3b98d4a12159",
+  "gameplay_scope_unchanged": true,
+  "initial_package_preserved": "final_wording_initial_610cad0",
+  "new_archive_members": 162,
+  "renderer_synthetic_passed": 14,
+  "source_16_non_sums_unchanged": true,
+  "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+  "status": "PASS_CORRECTED_LOCAL_FINAL_PACKAGE_PENDING_UPLOAD",
+  "total_actual_checks": 3351,
+  "upload_metadata_sha256": "429d84fd277f661f384f1ddd60cc3c4b6357804b975de32ab63f01bc7da48d5d"
+}
