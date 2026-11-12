@@ -1,0 +1,37 @@
+{
+  "checked_at_utc": "2026-11-12T00:08:53.063608+00:00",
+  "known_paths": [
+    {
+      "path": "game_working",
+      "exists": false
+    },
+    {
+      "path": "game_candidate_shatterer",
+      "exists": false
+    },
+    {
+      "path": "historical_tools_batch14_20261109T191857Z/runtime",
+      "exists": false
+    },
+    {
+      "path": "backup_batch14_20261109/fresh_remote_verification/REBUILT_SOURCE_MAP.json",
+      "exists": false
+    },
+    {
+      "path": "backup_batch16_20261109/fresh_remote_verification/isolated_restored_candidate",
+      "exists": false
+    },
+    {
+      "path": "night_backup_audit_20261109T1507Z/runtime_final_current",
+      "exists": false
+    }
+  ],
+  "project_locations_before_current_restore": [
+    "night_backup_check_20261111T1500Z/restored_base/project.godot",
+    "night_backup_check_20261111T1500Z/restored_shatterer_candidate/project.godot"
+  ],
+  "search_scope": "Visible /workspace and readable /tmp; initial search before current restorations. Restricted directories were not searched.",
+  "cause_of_absent_worktree": "unknown",
+  "unuploaded_changes_cannot_be_ruled_out": true,
+  "permanent_loss_claimed": false
+}

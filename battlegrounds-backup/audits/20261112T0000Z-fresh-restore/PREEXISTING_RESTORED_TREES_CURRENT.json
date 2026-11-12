@@ -1,0 +1,26 @@
+{
+  "checked_at_utc": "2026-11-12T00:08:53.062971+00:00",
+  "trees": [
+    {
+      "tree_role": "previous_audit_restoration_not_original_worktree",
+      "directory": "night_backup_check_20261111T1500Z/restored_base",
+      "files": 27920,
+      "bytes": 1549340406,
+      "missing": [],
+      "extra": [],
+      "mismatched": [],
+      "status": "PASS_NO_FILE_CONTENT_CHANGES"
+    },
+    {
+      "tree_role": "previous_audit_restoration_not_original_worktree",
+      "directory": "night_backup_check_20261111T1500Z/restored_shatterer_candidate",
+      "files": 27927,
+      "bytes": 1549517087,
+      "missing": [],
+      "extra": [],
+      "mismatched": [],
+      "status": "PASS_NO_FILE_CONTENT_CHANGES"
+    }
+  ],
+  "original_worktree_covered": false
+}

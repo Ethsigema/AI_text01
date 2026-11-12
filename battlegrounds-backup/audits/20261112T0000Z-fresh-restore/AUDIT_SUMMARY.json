@@ -1,0 +1,36 @@
+{
+  "scheduled_at_utc": "2026-11-12T00:00:00Z",
+  "checked_at_utc": "2026-11-12T00:10:03.684523+00:00",
+  "status": "PASS_FRESH_KNOWN_BASE_AND_CANDIDATE_RESTORE; INCOMPLETE_ORIGINAL_WORKTREE_BACKUP",
+  "repository": "Ethsigema/AI_text01",
+  "branch": "battlegrounds-recovery-20261103",
+  "checked_content_commit": "b3619a13d2c0b50fc25e929d358cdbd69818dd31",
+  "main_commit_at_start": "32180d3af0db59fb3374f53100f9eaa5bb62d26a",
+  "main_last_commit_utc": "2026-11-06T13:38:10Z",
+  "original_worktree_available": false,
+  "unuploaded_original_changes_cannot_be_ruled_out": true,
+  "known_preexisting_restored_copies_changed_files": 0,
+  "new_game_source_increment_generated": false,
+  "fresh_download_count": 46,
+  "fresh_repository_files": 45,
+  "base_files_verified": 27920,
+  "candidate_files_verified": 27927,
+  "candidate_delta_files": 87,
+  "evidence_members_verified": 24,
+  "new_gameplay_tests": 0,
+  "new_engine_runs": 0,
+  "default_pool_promoted": false,
+  "new_complete_identity_credit": {
+    "minions": 0,
+    "tavern_spells": 0,
+    "trinkets": 0
+  },
+  "completion_percentages": {
+    "minions": null,
+    "tavern_spells": null,
+    "trinkets": null
+  },
+  "old_backups_deleted_or_overwritten": false,
+  "new_artifact_kind": "audit_receipts_only_not_game_increment",
+  "scope": "Known recoverable base and isolated candidate only; not proof that all unavailable original work is backed up."
+}

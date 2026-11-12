@@ -1,0 +1,94 @@
+{
+  "checked_at_utc": "2026-11-12T00:08:53.077544+00:00",
+  "scope_manifest": {
+    "path": "data/current_scope_manifest.json",
+    "hash": {
+      "bytes": 17512,
+      "sha256": "60ba04da35d3db6933f5177207f70e713da5efa2ebc0707c863a24248de2fcff"
+    },
+    "scope_id": "current_solo_six_extras_naga_20261029",
+    "status": "ready",
+    "implementation_status": "written_unverified",
+    "patch_slice": {
+      "revision": "partial-37.0.2-four-tavern-spells-v1",
+      "ids": [
+        "BG28_838",
+        "BG34_990",
+        "BG28_888",
+        "BG28_845"
+      ],
+      "status": "candidate_not_engine_tested",
+      "full_latest_patch": false,
+      "baseline_revision": "37.0.0.255790+37.0.1-bg36.6.3-naga36.4.2-20261029"
+    },
+    "membership_patch_slice": {
+      "revision": "partial-37.0.2-murcules-aviator-v1",
+      "status": "candidate_not_engine_tested",
+      "full_latest_patch": false,
+      "add_normal_ids": [
+        "BG27_023"
+      ],
+      "remove_normal_ids": [
+        "BG34_140"
+      ],
+      "golden_shop_ids": [],
+      "source": "https://raw.githubusercontent.com/HearthSim/hsdata/31b034c26f24b8a66ece845ffd03c1ca397b9a02/CardDefs.Bacon.xml",
+      "native_build": 256589
+    },
+    "policy": "Source-reconstructed membership only; do not remove unsupported current IDs or silently change dependent card effects. Naga overlay applies to minions only; optional heroes/spells are not default.",
+    "excluded_aberration_ids_count": 27,
+    "naga_overlay_ids_count": 20
+  },
+  "historical_coverage_not_current_acceptance": {
+    "path": "data/runtime_coverage.json",
+    "hash": {
+      "bytes": 644699,
+      "sha256": "91c91f9f4aa23c0394503a75d31678f59253e844047212009a82aeaa3ae0d619"
+    },
+    "generated_at_as_stored": "2026-10-17T03:45:00",
+    "scope_as_stored": "实体数含普通、金色和衍生；可购池另计。通过能力校验不代表穷尽官方组合验证。",
+    "by_kind_as_stored": {
+      "minion": {
+        "conditional_implemented": 202,
+        "conditional_pool_eligible": 55,
+        "default_pool": 321,
+        "entities": 2689,
+        "implemented": 1219,
+        "pool_eligible": 397
+      },
+      "spell": {
+        "conditional_implemented": 56,
+        "conditional_pool_eligible": 2,
+        "default_pool": 43,
+        "entities": 447,
+        "implemented": 204,
+        "pool_eligible": 45
+      },
+      "trinket": {
+        "conditional_implemented": 9,
+        "conditional_pool_eligible": 0,
+        "default_pool": 0,
+        "entities": 425,
+        "implemented": 62,
+        "pool_eligible": 0
+      }
+    },
+    "unsupported_count_as_stored": 2389
+  },
+  "effect_coverage_hash": {
+    "bytes": 443612,
+    "sha256": "a18d1fc11cccec0ddd2dba7de20e2dcd78e8999c1cc0a52baba501a80643a9e1"
+  },
+  "new_complete_identity_credit": {
+    "minions": 0,
+    "tavern_spells": 0,
+    "trinkets": 0
+  },
+  "completion_percentages": {
+    "minions": null,
+    "tavern_spells": null,
+    "trinkets": null
+  },
+  "reason": "Stored capability counts mix ordinary, golden and derived entities and are not current full-scope acceptance numerators or target denominators. The scope remains written_unverified. No gameplay test was run this audit.",
+  "candidate_status": "Shatterer remains isolated and unpromoted; existing historical report was read, no historical test credited as a new run."
+}
