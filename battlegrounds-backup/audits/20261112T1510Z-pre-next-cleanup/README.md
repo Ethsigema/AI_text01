@@ -1,0 +1,9 @@
+# 清理前迟到证据封存（未执行删除）
+
+本包保留最终7f88新下载实际核验、首次HTTP403中止及4已成功/26串行续传证据、外部验证器diff与依赖，以及下一批只读空间预检。最终30文件/391成员全核通过；不重新跑Game、不复制大树。原source16非SUMS未改，失败前像9d6证据仍保留。
+
+先验证SHA256SUMS.txt，再以LATE_EVIDENCE_MANIFEST.json逐tar regular member核SHA/长度。路径为工作区相对路径，恢复请解到新的空目录，不覆盖现有工程。本包不是完整工程备份：source0b2962c与final7f88目录保留完整累计包和恢复说明，原Release/base14依赖仍须按其说明获取。
+
+预检两候选为已完成非备份开发副本，完整等价immutable源；sale restored_base为完成恢复流程的基线中间树，等价保留Tier5 restored_base，不是最终snapshot/备份包。这里没有删除授权或删除结果。若今后另获许可，仍须执行前重新锁定与完整核验。旧脚本引用sale基线目录的任务须改用保留等价base，不能声称原路径仍存在。
+
+首轮候选预检曾因Tier5历史RECOVERY.md追加而停止；实查仅RECOVERY/SUMS文档差异，delta/map/manifest不变，最终预检已明确记录并全量重核通过。原失败Mini/空位树、所有backup/logs/audit树均不在清理范围。
