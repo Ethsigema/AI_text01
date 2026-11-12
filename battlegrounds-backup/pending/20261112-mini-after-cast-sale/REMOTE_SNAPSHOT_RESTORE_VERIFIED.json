@@ -1,0 +1,24 @@
+{
+  "checked_at_utc": "2026-11-12T16:04:36.496328+00:00",
+  "fresh_base_checkpoint_then_single_target_tree": true,
+  "game_started": false,
+  "gameplay_acceptance": false,
+  "new_snapshot_files_downloaded": 17,
+  "restored": {
+    "aggregate_sha256": "5d50a63d42883f99295d40aee1daaa1ee494330644d21afe42c14d0ffc4d88ed",
+    "bytes": 1550904881,
+    "extra": [],
+    "files": 27988,
+    "mismatched": [],
+    "missing": []
+  },
+  "restored_tree": "/workspace/scratch/dd4f12b08ec0/develop_mini_after_cast_20261112/remote_snapshot_610cad0/single_tree_restore/restored_snapshot",
+  "same_current_batch_dependencies_rehashed": 55,
+  "separate_runtime_copy_created": false,
+  "snapshot_status": "UNACCEPTED_MINI_AFTER_CAST_SALE_BEFORE_GAME",
+  "source_commit": "610cad09b7d19fe2615201f054a68c6e1a31d79d",
+  "source_map_sha256": "378619e4219a4f394b972d79c79e9e173c86abd562e3e4cba00f453bcc07bb9e",
+  "status": "PASS_REMOTE_UNACCEPTED_SINGLE_TREE_SOURCE_RESTORE_BYTES_ONLY",
+  "unknown_unuploaded_tier5_recovered": false,
+  "uploads": 0
+}
