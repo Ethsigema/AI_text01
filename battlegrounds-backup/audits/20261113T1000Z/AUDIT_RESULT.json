@@ -1,0 +1,41 @@
+{
+  "scheduled_at_utc": "2026-11-13T10:00:00Z",
+  "checked_at_utc": "2026-11-13T10:09:49.986142+00:00",
+  "status": "PASS_PUBLISHED_SOURCE_FRESH_COMPLETE_RECOVERY_LATEST_UNUPLOADED_CAPTURE_UNKNOWN",
+  "source_commit": "32a8b33abe2bfb980c5ec890e7950f6b5a9f1346",
+  "remote_snapshot_commit": "0632e9bf414b669a7f860cd9de4a640a0e575425",
+  "source_head_changed_this_period": false,
+  "fresh_inputs": 55,
+  "fresh_download_bytes": 334962378,
+  "restored_files": 27994,
+  "restored_bytes": 1550944027,
+  "source_map_sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef",
+  "aggregate_sha256": "6e7409fe6c9889e6b2ae0c7515764646bbaf8dd5454c20fffd986aabec59fd72",
+  "new_complete_source_directories_created": true,
+  "existing_tree_reused_instead_of_download": false,
+  "new_source_delta_generated": false,
+  "new_game_backup_package_generated": false,
+  "unknown_unuploaded_work_captured": false,
+  "developer_status": "interrupted; fresh thread read contains no visible new items; current visible workspace has no accessible latest developer worktree",
+  "new_game_tests": 0,
+  "full_game_acceptance": false,
+  "old_save_compatibility_verified": false,
+  "missing": [],
+  "extra": [],
+  "mismatched": [],
+  "old_backups_deleted_or_modified": false,
+  "fallback_game_attachment_generated": false,
+  "fallback_reason": "No new source increment could be captured from the inaccessible interrupted developer worktree. Published source recovery succeeded. No new game package exists to represent as a failed-upload fallback.",
+  "progress_documents_in_restored_source": false,
+  "progress_documents_separately_updated_in_audit": true,
+  "requirements": {
+    "Godot": "4.6.3",
+    "Python": "3.12+",
+    "tested_restore_environment": "Linux; fresh two-tree disk recovery"
+  },
+  "dependency_order": [
+    "original_release.zip SHA256 33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+    "5143e8fb41bc8332ce4ba196144172167a74318c consolidated batch14, all 24 files and 13 payload parts",
+    "32a8b33a cumulative Lava carried-sale delta pinned via final snapshot 0632e9bf; directly apply to batch14, not earlier candidate layers"
+  ]
+}

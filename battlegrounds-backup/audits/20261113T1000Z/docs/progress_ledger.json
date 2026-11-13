@@ -1,0 +1,59 @@
+{
+  "source_commit": "32a8b33abe2bfb980c5ec890e7950f6b5a9f1346",
+  "audit_at_utc": "2026-11-13T10:09:49.986142+00:00",
+  "minions": {
+    "completed": null,
+    "total_verified": null,
+    "current_candidate_total": 247,
+    "scope_provisional": true,
+    "percentage": null,
+    "count_rule": "One minion type requires ordinary and golden implementation and applicable functional evidence. Registration, mapping, placeholders and bounded slices do not establish full completion."
+  },
+  "tavern_spells": {
+    "completed": null,
+    "total_verified": null,
+    "percentage": null
+  },
+  "trinkets": {
+    "completed": null,
+    "total_verified": null,
+    "percentage": null,
+    "scope": "Complete contents from most recent live appearance"
+  },
+  "scope_constraints": {
+    "retain_naga": true,
+    "exclude_aberrations": true,
+    "new_heroes_and_other_mechanics_paused": true
+  },
+  "this_audit_gameplay_tests": 0,
+  "new_game_source_changes_captured": 0,
+  "published_recovery": {
+    "status": "PASS_INCREMENT_RESTORED_AND_EVERY_FILE_REHASHED",
+    "verified_at_utc": "2026-11-13T10:06:55.702245+00:00",
+    "base_files_verified": 27920,
+    "target_files_verified": 27994,
+    "target_bytes": 1550944027,
+    "delta_files": 157,
+    "source_map_sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef",
+    "aggregate_sha256": "6e7409fe6c9889e6b2ae0c7515764646bbaf8dd5454c20fffd986aabec59fd72",
+    "missing": [],
+    "mismatched": [],
+    "extra": [],
+    "gameplay_rerun_by_restore": false,
+    "default_pool_promoted": false
+  },
+  "unknown_unuploaded_work_captured": false,
+  "historical_bounded_gameplay": {
+    "game_checks": 155,
+    "pure_checks": 3334,
+    "game_processes": 1,
+    "rerun_this_audit": false,
+    "not_full_card_acceptance": true
+  },
+  "known_open_items": [
+    "Complete per-card acceptance numerator and current latest-pool denominator",
+    "Golden, full matches, saves and broader sale/repurchase combinations",
+    "Interrupted developer worktree and unknown unuploaded changes",
+    "Previously reported missing compiler/contracts/tools and original evidence remain outside manifest-equality completeness guarantee"
+  ]
+}
