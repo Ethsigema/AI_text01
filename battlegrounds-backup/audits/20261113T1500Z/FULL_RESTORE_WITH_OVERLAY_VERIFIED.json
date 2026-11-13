@@ -1,0 +1,43 @@
+{
+  "status": "PASS_NEW_DISK_RESTORE_BASE_CANDIDATE_AND_LEDGER_OVERLAY_ALL_FILES",
+  "utc": "2026-11-13T15:04:59.737431+00:00",
+  "head": "6a047aadfb2562c464bc06fd17777275c2a3b246",
+  "source_revision": "32a8b33abe2bfb980c5ec890e7950f6b5a9f1346",
+  "files": 28000,
+  "bytes": 1553142049,
+  "source_map_sha256": "37f865a1801ef0ef21cc3ad966b5b529f8f8b97f8c92282b4f4dd46ea6489ea9",
+  "aggregate_sha256": "bf59b4cf2198a4dd364449b3244e50216d85edfb0600ffb443619b6628ab9973",
+  "overlay_added": {
+    "docs/minion_acceptance/README.md": {
+      "bytes": 1071,
+      "sha256": "2300b9cd24b08abd89ca5b46c3132946721e0386768556451d97820d1259ad7e"
+    },
+    "docs/minion_acceptance/SHA256SUMS.txt": {
+      "bytes": 267,
+      "sha256": "02485933f80b7a4fd21a1b1cd8510617671b0132f07354caa37344188220d02c"
+    },
+    "docs/minion_acceptance/minion_acceptance_ledger.csv": {
+      "bytes": 25764,
+      "sha256": "89883217e38d7431b1ea9971713f513cfa948c89b64831c1824be153f9211e56"
+    },
+    "docs/minion_acceptance/minion_acceptance_ledger.json": {
+      "bytes": 2156678,
+      "sha256": "9eac84eb143f1e1e484a129a88e6de04e91e19a2c652519e6ac976b033e5767d"
+    },
+    "tests/ledger/test_minion_ledger.py": {
+      "bytes": 4161,
+      "sha256": "078f4b777ae1c096a388f6f8533eb2eae611356638583dacd0e92c0a9c6fafaa"
+    },
+    "tools/build_minion_acceptance_ledger.py": {
+      "bytes": 10081,
+      "sha256": "467772ef264b91eebac025118addc21a4ba4e9fa9d3159702bfd595c48428d76"
+    }
+  },
+  "removed": [],
+  "missing": [],
+  "extra": [],
+  "mismatched": [],
+  "unknown_unuploaded_work_captured": false,
+  "gameplay_tested": false,
+  "existing_tree_reused": false
+}
