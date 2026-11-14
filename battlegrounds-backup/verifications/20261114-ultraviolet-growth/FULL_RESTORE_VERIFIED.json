@@ -1,0 +1,32 @@
+{
+  "status": "PASS_POST_PUBLICATION_FRESH_COMPLETE_CHAIN_NEW_DISK_RESTORE",
+  "verified_at_utc": "2026-11-14T11:29:45.075083+00:00",
+  "source_package_commit": "3628b54a0ca04a2b56f5916ca9d4a565ae9f3be7",
+  "previous_increment_commit": "5a1cd70bc1f818d5abde913d6482fb6573a15401",
+  "fresh_download_files": 93,
+  "dependency_files": 78,
+  "this_package_files": 15,
+  "fresh_download_bytes": 338225066,
+  "files": 28024,
+  "bytes": 1553223494,
+  "target_manifest_sha256": "66f679ab96a42dd1624440812a321867779736c4da3d5e26e19348c835ff0f7c",
+  "aggregate_sha256": "16785686f96fff7063f891f6ba0da1aa3b92af8c4301c7940e852aac7580add4",
+  "delta_sha256": "b484d30ecff512e42cafdc4eab656b2bedccaa79ddc1ea8067394a6a5edd5305",
+  "added": 13,
+  "modified": 87,
+  "removed": 0,
+  "missing": [],
+  "extra": [],
+  "mismatched": [],
+  "new_complete_project_directory_created": true,
+  "existing_tree_reused": false,
+  "functional_tests_rerun_by_backup": 0,
+  "development_scoped_test_evidence": {
+    "ultraviolet_assertions": 59,
+    "shipwrecked_regression_assertions": 73,
+    "warning": "Ultraviolet exit logs contain ObjectDB leaked-instance and 182-resources-in-use messages. These scoped tests are not full gameplay acceptance."
+  },
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "old_backups_deleted": false
+}

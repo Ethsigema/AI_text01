@@ -1,0 +1,58 @@
+{
+  "base": {
+    "status": "PASS_ACTUAL_DISK_RESTORE_EVERY_FILE_REHASHED",
+    "checked_at_utc": "2026-11-14T11:29:06.790874+00:00",
+    "files": 27920,
+    "bytes": 1549340406,
+    "source_map_sha256": "7fec8d69e82de8bfcb7373549951f9456671b5c3980135d6ec6f983a3daf5ed7",
+    "aggregate_sha256": "5ba04ef124fc78cf20e2a942a60589fb92dc76e6808155648226a534a4599e05",
+    "baseline_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+    "payload_sha256": "eb3a81406cf04ce629d001a72e8f0f099c8a1db07f28713e2818898f2faf7e12",
+    "parts": 13,
+    "payload_members": 6821,
+    "missing": [],
+    "mismatched": [],
+    "extra": [],
+    "gameplay_tested": false,
+    "old_save_tested": false
+  },
+  "cumulative_source": {
+    "status": "PASS_INCREMENT_RESTORED_AND_EVERY_FILE_REHASHED",
+    "verified_at_utc": "2026-11-14T11:29:16.969378+00:00",
+    "base_files_verified": 27920,
+    "target_files_verified": 27994,
+    "target_bytes": 1550944027,
+    "delta_files": 157,
+    "source_map_sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef",
+    "aggregate_sha256": "6e7409fe6c9889e6b2ae0c7515764646bbaf8dd5454c20fffd986aabec59fd72",
+    "missing": [],
+    "mismatched": [],
+    "extra": [],
+    "gameplay_rerun_by_restore": false,
+    "default_pool_promoted": false
+  },
+  "shipwrecked": {
+    "status": "PASS_FRESH_COMPLETE_CHAIN_RESTORED_AND_EVERY_FILE_REHASHED",
+    "files": 28011,
+    "bytes": 1553163887,
+    "changed": 12,
+    "removed": 0,
+    "missing": [],
+    "extra": [],
+    "mismatched": [],
+    "gameplay_accepted": false,
+    "unknown_unuploaded_work_captured": false
+  },
+  "ultraviolet": {
+    "status": "PASS_FRESH_COMPLETE_CHAIN_RESTORED_AND_EVERY_FILE_REHASHED",
+    "files": 28024,
+    "bytes": 1553223494,
+    "changed": 100,
+    "removed": 0,
+    "missing": [],
+    "extra": [],
+    "mismatched": [],
+    "gameplay_accepted": false,
+    "unknown_unuploaded_work_captured": false
+  }
+}

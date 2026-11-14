@@ -1,0 +1,18 @@
+{
+  "status": "PASS_INDEPENDENT_EXACT_CAPTURE_AND_SCOPED_SENSITIVE_SCAN",
+  "utc": "2026-11-14T11:18:46.545576+00:00",
+  "source_files": 28024,
+  "source_bytes": 1553223494,
+  "added": 13,
+  "modified": 87,
+  "removed": 0,
+  "delta_members": 100,
+  "package_files": 15,
+  "target_manifest_sha256": "66f679ab96a42dd1624440812a321867779736c4da3d5e26e19348c835ff0f7c",
+  "delta_sha256": "b484d30ecff512e42cafdc4eab656b2bedccaa79ddc1ea8067394a6a5edd5305",
+  "rebuildable_cache_files_excluded": 0,
+  "sensitive_scan": "All target path names; current delta and package text contents. No credential-pattern hits or forbidden paths; source/evidence files only. Previous unchanged source content not reclassified.",
+  "sensitive_pattern_hits": [],
+  "unknown_unuploaded_work_captured": false,
+  "functional_tests_rerun_by_backup": false
+}
