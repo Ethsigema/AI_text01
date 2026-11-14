@@ -1,0 +1,33 @@
+{
+  "status": "PASS_POST_PUBLICATION_FRESH_COMPLETE_CHAIN_NEW_DISK_RESTORE",
+  "verified_at_utc": "2026-11-14T12:30:11.947994+00:00",
+  "source_package_commit": "8150b6e0be811636cfd3b8f29be3479aed595264",
+  "previous_increment_commit": "3628b54a0ca04a2b56f5916ca9d4a565ae9f3be7",
+  "fresh_download_files": 109,
+  "dependency_files": 93,
+  "this_package_files": 16,
+  "fresh_download_bytes": 339604740,
+  "files": 28029,
+  "bytes": 1553240507,
+  "target_manifest_sha256": "1f33a1a0c36431f8141f7facfa5090cf7547a320e5e1c7fd9b8a0d3912fc0fed",
+  "aggregate_sha256": "92e850b76cc804f18e6914d8ad92dd2400f7811cffaeb7cd6238cb8733a5bc11",
+  "delta_sha256": "b18fe61bf71151c21528b53b9491c00c29100b3935f7db05dd72278b131449f8",
+  "added": 5,
+  "modified": 3,
+  "removed": 0,
+  "missing": [],
+  "extra": [],
+  "mismatched": [],
+  "core_unchanged": true,
+  "new_complete_project_directory_created": true,
+  "existing_tree_reused": false,
+  "functional_tests_rerun_by_backup": 0,
+  "development_scoped_test_evidence": {
+    "display_assertions": 79,
+    "exitcode": 0,
+    "warning": "ObjectDB leaked-instance and 182-resources-in-use messages persist. Headless node/text assertions are not screenshot/layout/native-window or full-game acceptance."
+  },
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "old_backups_deleted": false
+}

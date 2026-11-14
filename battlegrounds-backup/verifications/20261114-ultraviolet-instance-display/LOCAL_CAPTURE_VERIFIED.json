@@ -1,0 +1,28 @@
+{
+  "status": "PASS_INDEPENDENT_FROZEN_SOURCE_AND_DELTA_CAPTURE",
+  "utc": "2026-11-14T12:19:31.022609+00:00",
+  "files": 28029,
+  "bytes": 1553240507,
+  "added": [
+    "tests/ultraviolet_display_20261114/REPORT.md",
+    "tests/ultraviolet_display_20261114/final_79_checks.log",
+    "tests/ultraviolet_display_20261114/real_matrix.gd",
+    "tests/ultraviolet_display_20261114/tested_source_sha256.json",
+    "ui/ultraviolet_growth_info.gd"
+  ],
+  "modified": [
+    "PROGRESS.md",
+    "docs/progress_ledger.json",
+    "ui/main.gd"
+  ],
+  "removed": [],
+  "core_unchanged": true,
+  "target_manifest_sha256": "1f33a1a0c36431f8141f7facfa5090cf7547a320e5e1c7fd9b8a0d3912fc0fed",
+  "delta_sha256": "b18fe61bf71151c21528b53b9491c00c29100b3935f7db05dd72278b131449f8",
+  "sensitive_scan": "All target path names and all current delta text; no secret-pattern hits. Unchanged historical content not reclassified.",
+  "sensitive_pattern_hits": [],
+  "rebuildable_cache_excluded_count": 0,
+  "developer_test_source_hashes_matched": true,
+  "backup_gameplay_tests_rerun": false,
+  "unknown_unuploaded_work_captured": false
+}
