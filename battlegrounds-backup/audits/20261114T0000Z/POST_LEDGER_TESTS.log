@@ -1,0 +1,13 @@
+test_duplicate_mapping_fails_closed (test_minion_ledger.LedgerTests.test_duplicate_mapping_fails_closed) ... ok
+test_exact_reference_and_line_numbers (test_minion_ledger.LedgerTests.test_exact_reference_and_line_numbers) ... ok
+test_golden_uses_explicit_identity_not_suffix (test_minion_ledger.LedgerTests.test_golden_uses_explicit_identity_not_suffix) ... ok
+test_no_overwrite_and_checksum_outputs (test_minion_ledger.LedgerTests.test_no_overwrite_and_checksum_outputs) ... ok
+test_refuses_completion_claim (test_minion_ledger.LedgerTests.test_refuses_completion_claim) ... ok
+test_refuses_numeric_latest_total (test_minion_ledger.LedgerTests.test_refuses_numeric_latest_total) ... ok
+test_scope_exclusion_and_overlay (test_minion_ledger.LedgerTests.test_scope_exclusion_and_overlay) ... ok
+test_supported_and_reference_do_not_complete (test_minion_ledger.LedgerTests.test_supported_and_reference_do_not_complete) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.005s
+
+OK
