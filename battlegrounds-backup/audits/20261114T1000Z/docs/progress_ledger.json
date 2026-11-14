@@ -1,0 +1,40 @@
+{
+  "audit_time_utc": "2026-11-14T10:11:11.891341+00:00",
+  "source_commit": "5a1cd70bc1f818d5abde913d6482fb6573a15401",
+  "minions": {
+    "scope_revision": "37.0.0.255790+37.0.1-bg36.6.3-naga36.4.2-20261029+partial-37.0.2-four-tavern-spells-v1+partial-37.0.2-murcules-aviator-v1",
+    "scope_is_verified_latest_complete_pool": false,
+    "completed_types": null,
+    "verified_latest_total_types": null,
+    "candidate_types": 247,
+    "base_types": 227,
+    "naga_overlay_types": 20,
+    "ledger_rows": 247,
+    "accepted_ledger_entries": 0,
+    "ledger_status_counts": {
+      "unverified": 247
+    },
+    "zero_accepted_means_unreviewed_not_zero_implemented": true,
+    "completion_policy": "One type requires reviewed complete normal AND golden behavior, version-correct content and functional evidence; registration, partial or conditional mappings alone do not count.",
+    "source_progress_sha256": "78b403440afbe3f4abebfa6b477fdd6b330ed5f2cd776ebe473737c65308a7a3",
+    "source_ledger_sha256": "23a052a36f95548b2e3b10124da27812cacba88fabf36aa57bc0b1dcfe35e003",
+    "source_scope_sha256": "60ba04da35d3db6933f5177207f70e713da5efa2ebc0707c863a24248de2fcff"
+  },
+  "tavern_spells": {
+    "completed": null,
+    "verified_latest_total": null,
+    "percent": null
+  },
+  "trinkets": {
+    "completed": null,
+    "verified_latest_total": null,
+    "percent": null,
+    "requested_scope": "Complete content of most recent live appearance"
+  },
+  "minion_percent": null,
+  "new_complete_minion_credit": 0,
+  "retain_naga": true,
+  "exclude_aberration_tribe": true,
+  "new_hero_and_extra_system_development_paused": true,
+  "full_game_accepted": false
+}
