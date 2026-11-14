@@ -1,0 +1,11 @@
+# 11月14日23点已发布工程零变更检查点
+
+本目录只新增备份核验/进度记录，没有新增或修改游戏文件，不是独立全量游戏包。冻结源码增量为8150b6e0be811636cfd3b8f29be3479aed595264；开始检查时recovery分支HEAD为ae9fd3f12cadf17179d6d87c64d468e8353d0a1f。最新开发目录当前不可见，不能保证捕获未知未上传工作。
+
+完整恢复入口：
+https://github.com/Ethsigema/AI_text01/blob/8150b6e0be811636cfd3b8f29be3479aed595264/battlegrounds-backup/increments/20261114-ultraviolet-instance-display/RECOVERY.md
+
+下载上述目录全部16件（包括6个FULL_MANIFEST.json.gz分卷）并核对SHA256SUMS.txt。全量文件清单解压SHA256为1f33a1a0c36431f8141f7facfa5090cf7547a320e5e1c7fd9b8a0d3912fc0fed。按其download_inputs.py下载93项固定依赖，再用restore.py恢复到不存在的新目录。
+顺序：原Release→batch14→累积源码→6文件台账overlay→船难增量→紫外成长→极紫外显示。本包DOWNLOAD_REQUESTS.json保存全部109件固定URL、大小和固定SHA/Git对象身份，FRESH_DOWNLOAD_VERIFIED.json记录本次实际下载SHA。
+
+Python3.12+，Godot4.6.3，恢复测试为Linux；工程入口workspace/project/project.godot。期望28029文件、1553240507字节。旧包全部保留，无轮换删除。恢复字节匹配不等于完整玩法/整卡验收；本检查点不重跑历史Game测试。
