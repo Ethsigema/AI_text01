@@ -1,0 +1,32 @@
+{
+  "status": "PASS_FRESH_INPUTS_AND_NEW_FULL_DISK_RESTORE_MATCH_PUBLISHED_FROZEN_MAP",
+  "utc": "2026-11-14T00:09:41.914069+00:00",
+  "frozen_head": "2b69f534430148d2048903056448c838e4b9d7d9",
+  "files": 28000,
+  "bytes": 1553142049,
+  "aggregate_sha256": "bf59b4cf2198a4dd364449b3244e50216d85edfb0600ffb443619b6628ab9973",
+  "compressed_map_sha256": "a28a85fbd61e75546ac906223166709bf9e0d564847f5fa65971195888ea8c32",
+  "evidence_archives": [
+    {
+      "archive": "FIX_EVIDENCE.tar.xz",
+      "members": 85,
+      "sha256": "fbd1d68e36b5b152793d277dbd5657874ff25eb0100d8150eac9f282ba43e9c2"
+    },
+    {
+      "archive": "GAMEPLAY_EVIDENCE.tar.xz",
+      "members": 202,
+      "sha256": "cbea272890b0802f62a9dc03d524d1b2396d015bc586becd97f8f3d67d79ae07"
+    },
+    {
+      "archive": "TOOLS_EVIDENCE.tar.xz",
+      "members": 93,
+      "sha256": "63e02ccaff1da2ccbf281a506f4a4787bf3e50623ffe5251505fbdda119c5ec9"
+    }
+  ],
+  "evidence_members": 380,
+  "missing": [],
+  "extra": [],
+  "mismatched": [],
+  "game_tested": false,
+  "unknown_unuploaded_work_captured": false
+}
