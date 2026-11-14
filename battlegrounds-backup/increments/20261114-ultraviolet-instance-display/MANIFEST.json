@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "base_game_commit": "3628b54a0ca04a2b56f5916ca9d4a565ae9f3be7",
+  "base_manifest_sha256": "66f679ab96a42dd1624440812a321867779736c4da3d5e26e19348c835ff0f7c",
+  "target_manifest_sha256": "1f33a1a0c36431f8141f7facfa5090cf7547a320e5e1c7fd9b8a0d3912fc0fed",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 250000,
+      "sha256": "a3d3c7939897a324f29ac549c91580d5beb8269b953847b9a6848c792db46c94"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 250000,
+      "sha256": "8ef8f2de660f7e79ad7018d10bab66e1b957f167a491fee9699b3909328ef3e4"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 250000,
+      "sha256": "801f797c8cf3d8939b51ccf2b0e1c9861237e3e35f56291e5b43173abc0ce13d"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 250000,
+      "sha256": "0e466fc6e2ca8013881f5d1bf9f68adcc9bb0ad9a1051dfff0818b6baeee5797"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 250000,
+      "sha256": "fe5d0a80a8aa3fd9983b3e1e73d863bcbe5937ecedcbb85deb41364977d3053a"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 34884,
+      "sha256": "545f1e16eae499764a709664e50eed1f2aa67016d67a6771bc11106e59175893"
+    }
+  ],
+  "delta_bytes": 46092,
+  "delta_sha256": "b18fe61bf71151c21528b53b9491c00c29100b3935f7db05dd72278b131449f8",
+  "added": [
+    "tests/ultraviolet_display_20261114/REPORT.md",
+    "tests/ultraviolet_display_20261114/final_79_checks.log",
+    "tests/ultraviolet_display_20261114/real_matrix.gd",
+    "tests/ultraviolet_display_20261114/tested_source_sha256.json",
+    "ui/ultraviolet_growth_info.gd"
+  ],
+  "modified": [
+    "PROGRESS.md",
+    "docs/progress_ledger.json",
+    "ui/main.gd"
+  ],
+  "removed": [],
+  "target_files": 28029,
+  "target_bytes": 1553240507,
+  "godot_version": "4.6.3",
+  "runtime": "Linux headless tested; Python 3.12+ recovery",
+  "core_unchanged": true,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "remote_verified": false
+}
