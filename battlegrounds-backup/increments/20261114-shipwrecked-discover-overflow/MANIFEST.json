@@ -1,0 +1,64 @@
+{
+  "added": [
+    "PROGRESS.md",
+    "docs/progress_ledger.json",
+    "tests/shipwrecked_overflow_20261114/README.md",
+    "tests/shipwrecked_overflow_20261114/REPORT.md",
+    "tests/shipwrecked_overflow_20261114/SHA256SUMS.txt",
+    "tests/shipwrecked_overflow_20261114/evidence/shipwrecked_final.log",
+    "tests/shipwrecked_overflow_20261114/evidence/shipwrecked_final_v2.log",
+    "tests/shipwrecked_overflow_20261114/evidence/shipwrecked_test.log",
+    "tests/shipwrecked_overflow_20261114/evidence/shipwrecked_test_retry.log",
+    "tests/shipwrecked_overflow_20261114/evidence/source_change.json",
+    "tests/shipwrecked_overflow_20261114/real_matrix.gd"
+  ],
+  "base_manifest_sha256": "37f865a1801ef0ef21cc3ad966b5b529f8f8b97f8c92282b4f4dd46ea6489ea9",
+  "base_source_commit": "32a8b33abe2bfb980c5ec890e7950f6b5a9f1346",
+  "baseline_published_head": "77cf7c1ec803240ce2e54aadaec1a0e79e7cb5a4",
+  "delta_bytes": 20876,
+  "delta_sha256": "5e7c60b255b2fc24d22e4b7c0600fe1cde0eafef66de36e58848870d18a58cfe",
+  "format": 1,
+  "godot_version": "4.6.3",
+  "ledger_commit": "f2296d9db1209f4b8c0068fb2edb51f5f7df2f0b",
+  "manifest_parts": [
+    {
+      "bytes": 250000,
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "sha256": "2975f3a3b96ba45fc2e3cbe66ecff628b2f127ea8e68ddd88a4894cddeb47f83"
+    },
+    {
+      "bytes": 250000,
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "sha256": "b0020b36fdf3279c64a71b88b077f57aea26121425f71f25f684d43c4d45da59"
+    },
+    {
+      "bytes": 250000,
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "sha256": "38298526a98cc14cb61ea347750fe88f943cc4837a7da6ce81439808d64a3bdd"
+    },
+    {
+      "bytes": 250000,
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "sha256": "78e2b6b9217877d6ad80ec83a3fed8ff5657ffde9c4d9c0b513081a829b0a091"
+    },
+    {
+      "bytes": 250000,
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "sha256": "85fe28fcce364ec65e93083c7d800f9d97d5b501ee189d3805a0128a37afa002"
+    },
+    {
+      "bytes": 33954,
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "sha256": "8f4bd395b4f5c184558c2a1be7e84b7eadaec979b0edc03fb1a51129415bc8e9"
+    }
+  ],
+  "modified": [
+    "core/bulk_minion_activate.gd"
+  ],
+  "removed": [],
+  "runtime": "Linux tested; Python 3.12+ recovery",
+  "target_bytes": 1553163887,
+  "target_files": 28011,
+  "target_manifest_sha256": "b87ac445740efce0256e0082d24c12053e30c8940e1a2bee37822d9268aa3249",
+  "unknown_unuploaded_work_captured": false
+}
