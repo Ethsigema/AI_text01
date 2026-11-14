@@ -1,0 +1,62 @@
+{
+  "source_revision": "32a8b33abe2bfb980c5ec890e7950f6b5a9f1346",
+  "scope_revision": "37.0.0.255790+37.0.1-bg36.6.3-naga36.4.2-20261029+partial-37.0.2-four-tavern-spells-v1+partial-37.0.2-murcules-aviator-v1",
+  "scope_verified_latest": false,
+  "minions": {
+    "completed_types": null,
+    "verified_latest_total_types": null,
+    "candidate_types": 247,
+    "base_types": 227,
+    "naga_overlay_types": 20,
+    "accepted_ledger_entries": 0,
+    "unreviewed_types": 247,
+    "normal_supported_mapping_count": 229,
+    "golden_supported_mapping_count": 229
+  },
+  "tavern_spells": {
+    "completed": null,
+    "total_verified": null
+  },
+  "trinkets": {
+    "completed": null,
+    "total_verified": null
+  },
+  "this_run_tool_tests": 0,
+  "this_run_game_tests": 0,
+  "unknown_unuploaded_work_captured": false,
+  "this_run_restore_status": "PASS",
+  "frozen_head": "a021548f63b821fb71742a781c4cae9569739e9c",
+  "new_gameplay_source_changes": false,
+  "restore": {
+    "status": "PASS_FRESH_INPUTS_AND_NEW_FULL_DISK_RESTORE_MATCH_PUBLISHED_FROZEN_MAP",
+    "utc": "2026-11-14T05:05:30.441769+00:00",
+    "frozen_head": "a021548f63b821fb71742a781c4cae9569739e9c",
+    "files": 28000,
+    "bytes": 1553142049,
+    "aggregate_sha256": "bf59b4cf2198a4dd364449b3244e50216d85edfb0600ffb443619b6628ab9973",
+    "compressed_map_sha256": "a28a85fbd61e75546ac906223166709bf9e0d564847f5fa65971195888ea8c32",
+    "evidence_archives": [
+      {
+        "archive": "FIX_EVIDENCE.tar.xz",
+        "members": 85,
+        "sha256": "fbd1d68e36b5b152793d277dbd5657874ff25eb0100d8150eac9f282ba43e9c2"
+      },
+      {
+        "archive": "GAMEPLAY_EVIDENCE.tar.xz",
+        "members": 202,
+        "sha256": "cbea272890b0802f62a9dc03d524d1b2396d015bc586becd97f8f3d67d79ae07"
+      },
+      {
+        "archive": "TOOLS_EVIDENCE.tar.xz",
+        "members": 93,
+        "sha256": "63e02ccaff1da2ccbf281a506f4a4787bf3e50623ffe5251505fbdda119c5ec9"
+      }
+    ],
+    "evidence_members": 380,
+    "missing": [],
+    "extra": [],
+    "mismatched": [],
+    "game_tested": false,
+    "unknown_unuploaded_work_captured": false
+  }
+}
