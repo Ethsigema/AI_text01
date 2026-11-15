@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "base_game_commit": "b57846597da84b7c57db98f0cc86999b3c69b809",
+  "base_manifest_sha256": "27e6b7b5ba1464872636bf9aafe20c320fc1da4c734e4955094e891bfb874155",
+  "target_manifest_sha256": "2451db37b61314c15477279fb277c5e44775b4bcc4f02fd7f8684663522fab8d",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "543fb1ce35c834ea4e3e4d94e660ef14c77f9327ea09fce4f3168df345b4f745"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "b5c53f0bde899e93602253cfebe043ac2ba2e1f05b6ee20ead1cf9246a296830"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "dd1a78805ce78c488ff4bdd2df2ea97f1350f6ac5b2ed8164e25bcf0d5b32b77"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "de27b6e6bb6b3a869637591064c7ba2e1a63b809e606c60c0e959086b78cda0b"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "eef9c5d0c9c2dfd9e889b091e2102b4e0fb21635b6cbd3d3ed025dda1695e35f"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 86526,
+      "sha256": "f78dfe4ffc0c7205c4590e74cec197dba6801ac27d591a4e17d5f6bb65004a41"
+    }
+  ],
+  "delta_bytes": 220220,
+  "delta_sha256": "37477c584f2e1d45c2755c28dab80a8d3b90249339f87bee8e83467d9b121a53",
+  "added": [
+    "tests/weapons_forge_rerun_20261115/REPORT.md",
+    "tests/weapons_forge_rerun_20261115/SHA256SUMS",
+    "tests/weapons_forge_rerun_20261115/SOURCE_MANIFEST.json",
+    "tests/weapons_forge_rerun_20261115/final.exit",
+    "tests/weapons_forge_rerun_20261115/final.log",
+    "tests/weapons_forge_rerun_20261115/test.gd",
+    "tests/weighted_gauntlet_retest_20261115/REPORT.md",
+    "tests/weighted_gauntlet_retest_20261115/SHA256SUMS",
+    "tests/weighted_gauntlet_retest_20261115/final.exit",
+    "tests/weighted_gauntlet_retest_20261115/final.log",
+    "tests/weighted_gauntlet_retest_20261115/provenance.json",
+    "tests/weighted_gauntlet_retest_20261115/source_sha256.json",
+    "tests/weighted_gauntlet_retest_20261115/test.gd"
+  ],
+  "modified": [],
+  "removed": [],
+  "files": 28060,
+  "bytes": 1554683302,
+  "new_tests_only": true,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "original_missing_tests_recovered": false
+}
