@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "base_game_commit": "125b529fd7caf5264085eeacdfb28a64d72241f7",
+  "base_manifest_sha256": "329a8f7448d16d50307392a6746b08cc854dbef2178b268c387b5f9618773593",
+  "target_manifest_sha256": "3d9042c3c5a6fd4e334f2b7c37ea4b0ac13ec27b15f0925574e222939320b035",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "47e48b2b3a8ba53e3e5e8b200154d0e602dd3ca70603455baa4fcd62b5d8db73"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "b546ab0298b8a38bfd64aa51c0d9c60f92b2690c5b3b16f83304dd287f5aae9d"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "223e6abb0e9c625043efdcb14439a6ec210c877328dd93b2cd6f491c87213312"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "a73c27478dbfaa8d3957161ac037f53abacde19733d42689a143566822588b47"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "2028bfa01581a26f8c40eb92a4696c086bc2bb7d7fbf6c4e7774ec8fe78bc279"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 89331,
+      "sha256": "eb19f0e0247e2ca02026465171f40cb0c93eee2956b72fcec3a02294bdbed7d7"
+    }
+  ],
+  "delta_bytes": 148520,
+  "delta_sha256": "ca917a75ddf5b8caa5a9b05c7d4fd693c9a23c6c74a86dc718dfdd7369bdfeb5",
+  "added": [
+    "research/hsbg_api_comparison_20261115/COMPARISON.json",
+    "research/hsbg_api_comparison_20261115/README.md",
+    "research/hsbg_api_comparison_20261115/SHA256SUMS",
+    "research/hsbg_api_comparison_20261115/analyze.py",
+    "research/hsbg_api_comparison_20261115/candidate_inventory_source.json",
+    "research/hsbg_api_comparison_20261115/copied_prior_REVIEW.json",
+    "research/hsbg_api_comparison_20261115/fetch.py",
+    "research/hsbg_api_comparison_20261115/raw/api_docs.html",
+    "research/hsbg_api_comparison_20261115/raw/current_0.json",
+    "research/hsbg_api_comparison_20261115/raw/current_100.json",
+    "research/hsbg_api_comparison_20261115/raw/current_1000.json",
+    "research/hsbg_api_comparison_20261115/raw/current_1100.json",
+    "research/hsbg_api_comparison_20261115/raw/current_1200.json",
+    "research/hsbg_api_comparison_20261115/raw/current_1300.json",
+    "research/hsbg_api_comparison_20261115/raw/current_1400.json",
+    "research/hsbg_api_comparison_20261115/raw/current_200.json",
+    "research/hsbg_api_comparison_20261115/raw/current_300.json",
+    "research/hsbg_api_comparison_20261115/raw/current_400.json",
+    "research/hsbg_api_comparison_20261115/raw/current_500.json",
+    "research/hsbg_api_comparison_20261115/raw/current_600.json",
+    "research/hsbg_api_comparison_20261115/raw/current_700.json",
+    "research/hsbg_api_comparison_20261115/raw/current_800.json",
+    "research/hsbg_api_comparison_20261115/raw/current_900.json",
+    "research/hsbg_api_comparison_20261115/raw/id117858.json",
+    "research/hsbg_api_comparison_20261115/requests.json",
+    "research/redeemer_review_20261115/REVIEW.json",
+    "research/redeemer_review_20261115/SHA256SUMS",
+    "research/redeemer_review_20261115/candidate_inventory_source.json"
+  ],
+  "modified": [],
+  "removed": [],
+  "files": 28116,
+  "bytes": 1556899390,
+  "research_only": true,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "original_missing_tests_recovered": false
+}
