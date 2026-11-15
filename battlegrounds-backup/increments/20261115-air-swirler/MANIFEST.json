@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "base_game_commit": "27acae4ff8e0d7d9ce979e8b791fbdb9ae13b860",
+  "base_manifest_sha256": "0d2963f64ca764fbfc32fd076ed4a90e9fe428a6aaa6a7e9783b2f2f4e84d4ea",
+  "target_manifest_sha256": "8512f38c9ed13e073ab7eaf54aff2b7d40c61ebe458a2b54308ba2b5b1e01f01",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "2de7b42450ceb76a33a05c94288163074fb275eb77dee51fbfc2e0d2afa9c6cc"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "1b9222a0fc4c301db3df67f4e17042db91da6bf8af47b3ff93b25fa4b31f3029"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "86f9185d5c5610ef1e7e132a63f451490c92fece09bb22b34b47804dff83ce22"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "7b6e925b1eb8686297b6c9b18ba78a26281e6baf169c0e854dcc2c06ebf1bf34"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "1b06b48ea18651cf1b368dd01da8f0af5199aa71682e30ad8bd968a2b21aea12"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 87323,
+      "sha256": "d2e55ce5a106dbd1dcf53921b1e92d60c0d164d88410aba2703776f579b77b85"
+    }
+  ],
+  "delta_bytes": 17320,
+  "delta_sha256": "440bbee09d2960b62f201397abef4c206765c4e4487ad0c2f2f7a79ed8f2bba8",
+  "added": [
+    "tests/air_swirler_20261115/FAILED_expanded_initial_fixture.log",
+    "tests/air_swirler_20261115/FAILED_initial_fixture.log",
+    "tests/air_swirler_20261115/PASS_final_76.log",
+    "tests/air_swirler_20261115/PASS_ordinary_regression_118.log",
+    "tests/air_swirler_20261115/PLAN.md",
+    "tests/air_swirler_20261115/REPORT.md",
+    "tests/air_swirler_20261115/final_test.gd",
+    "tests/air_swirler_20261115/test.gd"
+  ],
+  "modified": [
+    "PROGRESS.md",
+    "core/air_baller_host.gd",
+    "core/patch_3702_air_baller_golden_sources.gd",
+    "core/patch_3702_air_baller_sources.gd",
+    "core/patch_3702_timewarp_swirler_golden_sources.gd",
+    "core/patch_3702_timewarp_swirler_sources.gd",
+    "core/timewarp_swirler_host.gd",
+    "docs/progress_ledger.json"
+  ],
+  "removed": [],
+  "files": 28078,
+  "bytes": 1554742564,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "original_missing_tests_recovered": false
+}
