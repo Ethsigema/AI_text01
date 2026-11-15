@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "base_game_commit": "b0f9408307c9f1b27ba55ec8b76b0a998fdbd7ae",
+  "base_manifest_sha256": "8512f38c9ed13e073ab7eaf54aff2b7d40c61ebe458a2b54308ba2b5b1e01f01",
+  "target_manifest_sha256": "329a8f7448d16d50307392a6746b08cc854dbef2178b268c387b5f9618773593",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "47e48b2b3a8ba53e3e5e8b200154d0e602dd3ca70603455baa4fcd62b5d8db73"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "b546ab0298b8a38bfd64aa51c0d9c60f92b2690c5b3b16f83304dd287f5aae9d"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "223e6abb0e9c625043efdcb14439a6ec210c877328dd93b2cd6f491c87213312"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "2c910704b3975086b1301af94252f7ac2230f7016b3e0c31986eeb750bd86f15"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "cb6b4fe07f08f9683f6455a410b7c8a11bcd9adc14ed00fad7a0b2daf3d734d9"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 87787,
+      "sha256": "de161a4fa253bd162cbfa63bd23d23ebe36c130b763c9a90016c4e85c86381ca"
+    }
+  ],
+  "delta_bytes": 14752,
+  "delta_sha256": "d962bb3badbbc46280d20b7bd110057755f3c2c1a20388d6adf8a3f56cd11a2d",
+  "added": [
+    "research/defiler_data_20261115/REVIEW.json",
+    "research/defiler_data_20261115/SHA256SUMS",
+    "tests/ultra_swirler_20261115/REPORT.md",
+    "tests/ultra_swirler_20261115/matrix.gd",
+    "tests/ultra_swirler_20261115/matrix.log",
+    "tests/ultra_swirler_20261115/matrix_final.log",
+    "tests/ultra_swirler_20261115/matrix_retry.log",
+    "tests/ultra_swirler_20261115/matrix_reviewed.log",
+    "tests/ultra_swirler_20261115/matrix_verified.log",
+    "tests/ultra_swirler_20261115/regression.log"
+  ],
+  "modified": [
+    "PROGRESS.md",
+    "core/patch_3702_timewarp_swirler_golden_sources.gd",
+    "core/patch_3702_timewarp_swirler_sources.gd",
+    "core/timewarp_swirler_host.gd",
+    "docs/progress_ledger.json"
+  ],
+  "removed": [],
+  "files": 28088,
+  "bytes": 1554766467,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "original_missing_tests_recovered": false,
+  "checkpoint_only": false,
+  "local_latest_development_available": true,
+  "source_frozen_path_label": "ultra_swirler_20261115/development",
+  "research_overlay": "research/defiler_data_20261115",
+  "base_checkpoint_commit": "754d58ff4c8f26ae0877449bd285d62c7b2cc0be"
+}
