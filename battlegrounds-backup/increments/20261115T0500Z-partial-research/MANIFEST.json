@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "base_game_commit": "c256a6300c1aacc3155cd5fa9b4742fbd8110060",
+  "base_manifest_sha256": "f0aa3fff77c1e116227d2d6d1dd3b893f419154dc71ef2c851e1c1251f868f4a",
+  "target_manifest_sha256": "27e6b7b5ba1464872636bf9aafe20c320fc1da4c734e4955094e891bfb874155",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "543fb1ce35c834ea4e3e4d94e660ef14c77f9327ea09fce4f3168df345b4f745"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "b5c53f0bde899e93602253cfebe043ac2ba2e1f05b6ee20ead1cf9246a296830"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "dd1a78805ce78c488ff4bdd2df2ea97f1350f6ac5b2ed8164e25bcf0d5b32b77"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "de27b6e6bb6b3a869637591064c7ba2e1a63b809e606c60c0e959086b78cda0b"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "eef9c5d0c9c2dfd9e889b091e2102b4e0fb21635b6cbd3d3ed025dda1695e35f"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 85922,
+      "sha256": "53cac85bd8c0c299d5add444a55476c47e99555364bda0af351d84ffaaa916e6"
+    }
+  ],
+  "delta_bytes": 2612,
+  "delta_sha256": "61eed1406256d0d3b2ca4222b2a57d556f0ff9038e10fb829d996ac8d5cc16f0",
+  "added": [
+    "research/baller_mixed_20261115/REVIEW.json",
+    "research/baller_mixed_20261115/SHA256SUMS",
+    "research/naga_darkcrest_20261115/REVIEW.json",
+    "research/naga_darkcrest_20261115/SHA256SUMS"
+  ],
+  "modified": [],
+  "removed": [],
+  "files": 28047,
+  "bytes": 1553536113,
+  "research_only": true,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "capture_complete_for_requested_four_artifacts": false,
+  "missing_requested_artifacts": [
+    "spell_generation_20261115/development/tests/weapons_forge_20261115/",
+    "gauntlet_check_20261115/development/tests/weighted_gauntlet_20261115/"
+  ]
+}
