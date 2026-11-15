@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "base_game_commit": "ca9ae9c401a757967aa47dfe134a344b7a0b87b4",
+  "base_manifest_sha256": "3d9042c3c5a6fd4e334f2b7c37ea4b0ac13ec27b15f0925574e222939320b035",
+  "target_manifest_sha256": "8ebdf5138c21028320991c883c0e1fa4f0158ae6fab84dc501c2867f9776a13e",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "6990951036c31de88994b41d3814429cebf587e30b744454b4a3803c21fb9165"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "c1173c2670e0be47adfc8f4ebb004c9dfa6ab7d296d90b674c0739ebbe41b02b"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "0367d3825917464492555f982b2aae701bde0d8cc5f2231d6b42a43b691ad446"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "d14f93717365ac702988c6d3b940b640d00fb2dfc85d8ddd7db40f540108fa4d"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "aae098f58bd3c0ebc82e3e6120dc636bbac5b03917fd9c9e60136ab84ba38575"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 90204,
+      "sha256": "ce5d2845213f0ee8506541cc67ef858eeec0b66d3faffaf25252845169405bbd"
+    }
+  ],
+  "delta_bytes": 21324,
+  "delta_sha256": "9f901a7efc00f910472bbf55d16cc03f209b736817d328f6034c30c6b34cf757",
+  "added": [
+    "docs/SNOW_GROWTH_HANDOFF_20261115.md",
+    "research/trinket_rules_review_20261115/REPORT.md",
+    "research/trinket_rules_review_20261115/SOURCE_SHA256.json",
+    "tests/snow_baller_growth_20261115/REPORT.md",
+    "tests/snow_baller_growth_20261115/REVIEW.md",
+    "tests/snow_baller_growth_20261115/SHA256SUMS",
+    "tests/snow_baller_growth_20261115/air_regression.gd",
+    "tests/snow_baller_growth_20261115/candidate.exit",
+    "tests/snow_baller_growth_20261115/candidate.log",
+    "tests/snow_baller_growth_20261115/candidate2.exit",
+    "tests/snow_baller_growth_20261115/candidate2.log",
+    "tests/snow_baller_growth_20261115/final.exit",
+    "tests/snow_baller_growth_20261115/final.log",
+    "tests/snow_baller_growth_20261115/first.exit",
+    "tests/snow_baller_growth_20261115/first.log",
+    "tests/snow_baller_growth_20261115/proof_verification.json",
+    "tests/snow_baller_growth_20261115/regression.exit",
+    "tests/snow_baller_growth_20261115/regression.log",
+    "tests/snow_baller_growth_20261115/rule_evidence.json",
+    "tests/snow_baller_growth_20261115/test.gd",
+    "tests/snow_baller_growth_20261115/tested_source_sha256.json"
+  ],
+  "modified": [
+    "PROGRESS.md",
+    "core/patch_3702_snow_baller_golden_sources.gd",
+    "core/patch_3702_snow_baller_sources.gd",
+    "core/patch_3702_temperature_shift_sources.gd",
+    "core/snow_baller_host.gd",
+    "data/patch_3702_snow_baller_golden_overlay.json",
+    "data/patch_3702_snow_baller_overlay.json",
+    "docs/progress_ledger.json"
+  ],
+  "removed": [],
+  "files": 28137,
+  "bytes": 1556940393,
+  "research_only": false,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "original_missing_tests_recovered": false
+}
