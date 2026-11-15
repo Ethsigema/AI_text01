@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "base_game_commit": "b0f9408307c9f1b27ba55ec8b76b0a998fdbd7ae",
+  "base_manifest_sha256": "8512f38c9ed13e073ab7eaf54aff2b7d40c61ebe458a2b54308ba2b5b1e01f01",
+  "target_manifest_sha256": "8512f38c9ed13e073ab7eaf54aff2b7d40c61ebe458a2b54308ba2b5b1e01f01",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "2de7b42450ceb76a33a05c94288163074fb275eb77dee51fbfc2e0d2afa9c6cc"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "1b9222a0fc4c301db3df67f4e17042db91da6bf8af47b3ff93b25fa4b31f3029"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "86f9185d5c5610ef1e7e132a63f451490c92fece09bb22b34b47804dff83ce22"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "7b6e925b1eb8686297b6c9b18ba78a26281e6baf169c0e854dcc2c06ebf1bf34"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "1b06b48ea18651cf1b368dd01da8f0af5199aa71682e30ad8bd968a2b21aea12"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 87323,
+      "sha256": "d2e55ce5a106dbd1dcf53921b1e92d60c0d164d88410aba2703776f579b77b85"
+    }
+  ],
+  "delta_bytes": 108,
+  "delta_sha256": "5ca1b6c461fc194055d52b181f57c63dc1d34c19d041f6395e6f6abc039692bb",
+  "added": [],
+  "modified": [],
+  "removed": [],
+  "files": 28078,
+  "bytes": 1554742564,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "original_missing_tests_recovered": false,
+  "checkpoint_only": true,
+  "local_latest_development_available": false
+}
