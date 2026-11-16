@@ -1,0 +1,27 @@
+{
+  "status": "PASS_REMOTE_FULL_CHAIN_INDEPENDENT_RESTORE",
+  "source_commit": "008fc3512179d4e7df498226a90ea648dce0bbf4",
+  "source_directory": "battlegrounds-backup/increments/20261116-latest-baller",
+  "downloaded_items": 377,
+  "all_downloaded_sizes_and_hashes_match": true,
+  "download_report_sha256": "93429645cdf57150a6432574ffdeabd41994801b63601a626254ba6daa208347",
+  "restore_log_sha256": "962ca209883dfce8f32150b9b267706a85a07018811ac499e6156ff2ea55a0bd",
+  "target_manifest_sha256": "28ae235757ad6a6c5ea0b2561e922c90cdc58a1d7d92759acb14894f04777aa7",
+  "restore": {
+    "status": "PASS_FRESH_COMPLETE_CHAIN_RESTORED_AND_EVERY_FILE_REHASHED",
+    "files": 28271,
+    "bytes": 1557459597,
+    "changed": 148,
+    "removed": 0,
+    "missing": [],
+    "extra": [],
+    "mismatched": [],
+    "gameplay_accepted": false,
+    "unknown_unuploaded_work_captured": false
+  },
+  "previous_bonehead_gap_resolved_in_this_run": true,
+  "old_backups_retained": true,
+  "gameplay_accepted": false,
+  "unknown_unpublished_work_captured": false,
+  "historical_backup_status_notice": "Package BACKUP_STATUS.json is pre-publication status. This later receipt records actual completed upload and recovery."
+}
