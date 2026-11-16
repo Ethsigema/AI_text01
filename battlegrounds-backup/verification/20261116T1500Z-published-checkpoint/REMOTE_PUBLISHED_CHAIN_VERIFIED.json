@@ -1,0 +1,26 @@
+{
+  "status": "PASS_REMOTE_PUBLISHED_SCOPE_FULL_CHAIN_INDEPENDENT_RESTORE",
+  "source_commit": "b45d993af46d215743e3e0605f26b5dd432877ad",
+  "downloaded_items": 407,
+  "all_downloaded_sizes_and_hashes_match": true,
+  "download_report_sha256": "31f0a59857b302056b09d8b2246096e86e4b47d844c2048409dc5bb2a105007a",
+  "restore_log_sha256": "069358df5567cc01522bf5cab986057358808a24d29b054566e12c1f998da1d7",
+  "target_manifest_sha256": "a7f023ddfa7e095d895d99abf96a8faee2068c77a35f32fe4619336d7265152c",
+  "restore": {
+    "status": "PASS_FRESH_COMPLETE_CHAIN_RESTORED_AND_EVERY_FILE_REHASHED",
+    "files": 28279,
+    "bytes": 1557470279,
+    "changed": 0,
+    "removed": 0,
+    "missing": [],
+    "extra": [],
+    "mismatched": [],
+    "gameplay_accepted": false,
+    "unknown_unuploaded_work_captured": false
+  },
+  "local_latest_development_directory_available": false,
+  "capture_scope": "Published source only; no new work known by developer since ed6b5430, unknown unpublished changes not guaranteed captured.",
+  "new_gameplay_changes": false,
+  "game_tests_run_this_cycle": false,
+  "old_remote_backups_retained": true
+}
