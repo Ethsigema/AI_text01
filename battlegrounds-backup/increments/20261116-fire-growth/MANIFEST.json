@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "base_game_commit": "d3d7b8bbd851bdf88747b9e52e80ce9af440d7b8",
+  "base_checkpoint_commit": "87d6a07c6d686cf4198f08e8752b6db7a128669d",
+  "base_manifest_sha256": "8ebdf5138c21028320991c883c0e1fa4f0158ae6fab84dc501c2867f9776a13e",
+  "target_manifest_sha256": "f2cd49d2ea4b3060666c5f79f5a25e00684fc10991a1293b24debd4444de0782",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "d7ad78ec44cabc85117c3bd1839aae6ea42272461093dce19d8d1ad232956c53"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "1b2df3c1756f35d14cede69c48bee87512e10571d704693e9c3bb2e0d092f456"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "02542715d18b5f933e29da189f2ba86482b22bcae6fa58e794503dac3e18e048"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "53d37faf3baa869de6ae38a0cc7d5c920c8507eb18eb7cbf9b385e1bc32d9aa8"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "e72d58851ff2ac815ae3d9cd9092bcf0687654e6dd47c152d3016f9dbfbe5942"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 90678,
+      "sha256": "bd4c1c91ff472847dd8731afb19c35833fbdc8a5db60e565a92b26ba3c713b1e"
+    }
+  ],
+  "delta_bytes": 17536,
+  "delta_sha256": "f22d00e0e50c624d848e0dc26099a9b278cafae7b425cf771505e67441a7057f",
+  "added": [
+    "docs/HANDOFF_FIRE_GROWTH_20261116.md",
+    "tests/fire_baller_growth_20261116/REPORT.md",
+    "tests/fire_baller_growth_20261116/extra.exit",
+    "tests/fire_baller_growth_20261116/extra.gd",
+    "tests/fire_baller_growth_20261116/extra.log",
+    "tests/fire_baller_growth_20261116/final.exit",
+    "tests/fire_baller_growth_20261116/final.log",
+    "tests/fire_baller_growth_20261116/first.exit",
+    "tests/fire_baller_growth_20261116/first.log",
+    "tests/fire_baller_growth_20261116/rule_evidence.json",
+    "tests/fire_baller_growth_20261116/snow_regression.exit",
+    "tests/fire_baller_growth_20261116/snow_regression.log",
+    "tests/fire_baller_growth_20261116/test.gd",
+    "tests/fire_baller_growth_20261116/tested_source_sha256.json"
+  ],
+  "modified": [
+    "PROGRESS.md",
+    "core/fire_baller_host.gd",
+    "core/patch_3702_fire_baller_golden_sources.gd",
+    "core/patch_3702_fire_baller_sources.gd",
+    "core/patch_3702_temperature_shift_sources.gd",
+    "data/patch_3702_fire_baller_golden_overlay.json",
+    "data/patch_3702_fire_baller_overlay.json",
+    "docs/progress_ledger.json"
+  ],
+  "removed": [],
+  "files": 28151,
+  "bytes": 1556976280,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "original_missing_tests_recovered": false
+}
