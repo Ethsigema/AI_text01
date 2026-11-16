@@ -1,0 +1,1 @@
+本包为零游戏变化增量，非独立完整游戏包。392项固定依赖涵盖原始基包及全部历史链至ed6b5430。Python3.12+：python download_inputs.py --destination /new/inputs，再 python restore.py --inputs /new/inputs --workspace /new/restored。脚本递归恢复并逐文件核对全量清单大小及SHA256。Godot4.6.3 Linux兼容桌面运行project.godot。最新开发目录不可见，只保证实际核验的已发布范围，不保证未知本地修改已备份。保留旧备份。本期未运行游戏测试，未新增游戏功能。
