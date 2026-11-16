@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "base_game_commit": "42f133ada291b30a8955a87e9de31c04cfff7db7",
+  "base_checkpoint_commit": "42f133ada291b30a8955a87e9de31c04cfff7db7",
+  "base_manifest_sha256": "fad59d7e398217b067acb6e61d7fe190bf32be287654acbc752884e20b71ec8b",
+  "target_manifest_sha256": "b34fd2efec139889d426cd4b3d698f6d44862d77368df0b67421d71e18f5e0ba",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "a9af2f9e8416aa19bad365c804f042d51a64336b3c74ea57688c185bcf005f00"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "373f92f73d14e1011b660cf3f68f0d6bc3b7f186c1550dfb727d47892c3765a5"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "1dac7b5caf9530615294ef51d025883afed648ea428f809bd5286947f8c6c92f"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "698145b16f092ec1d18b9a81dbfe73f0dc87e1827bafe5493cf95cb8564f6450"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "0cf8eca658e7bb0c22c0f530a9223505c77a9c060d2d1a06b7a755af191971c4"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 92767,
+      "sha256": "8cc5d0fefc734c4d26bc9c4d9fb41a87bade71151a50efdb950df76af61a5ad0"
+    }
+  ],
+  "delta_bytes": 25344,
+  "delta_sha256": "cf0f679b2c94cb66d0d7eb6007f9d368ca47b3f2ed3a590e5025b2703a9d3dfa",
+  "added": [
+    "core/baller_inert_sale.gd",
+    "docs/HANDOFF_BONEHEAD_SALE_20261116.md",
+    "research/bonehead_sale_20261116/EVIDENCE.json",
+    "tests/bonehead_sale_20261116/CODE_REVIEW.json",
+    "tests/bonehead_sale_20261116/REPORT.md",
+    "tests/bonehead_sale_20261116/initial.exit",
+    "tests/bonehead_sale_20261116/initial.log",
+    "tests/bonehead_sale_20261116/regression.exit",
+    "tests/bonehead_sale_20261116/regression.log",
+    "tests/bonehead_sale_20261116/test.exit",
+    "tests/bonehead_sale_20261116/test.gd",
+    "tests/bonehead_sale_20261116/test.log",
+    "tests/bonehead_sale_20261116/tested_source_sha256.json"
+  ],
+  "modified": [
+    "PROGRESS.md",
+    "core/air_baller_host.gd",
+    "core/fire_baller_host.gd",
+    "core/patch_3702_air_baller_golden_sources.gd",
+    "core/patch_3702_air_baller_sources.gd",
+    "core/patch_3702_fire_baller_golden_sources.gd",
+    "core/patch_3702_fire_baller_sources.gd",
+    "core/patch_3702_snow_baller_golden_sources.gd",
+    "core/patch_3702_snow_baller_sources.gd",
+    "core/patch_3702_temperature_shift_sources.gd",
+    "core/patch_3702_timewarp_swirler_sources.gd",
+    "core/snow_baller_host.gd",
+    "docs/NEXT_CONTENT_GAPS_20261116.md",
+    "docs/progress_ledger.json"
+  ],
+  "removed": [],
+  "files": 28209,
+  "bytes": 1557130094,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "original_missing_tests_recovered": false
+}
