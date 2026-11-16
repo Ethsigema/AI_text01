@@ -1,0 +1,1 @@
+本包为单大型肖像下普通火/雪投球手出售兼容增量，非独立完整包。407项固定依赖涵盖原始基包及全部历史链至b45d993a。Python3.12+：python download_inputs.py --destination /new/inputs，再 python restore.py --inputs /new/inputs --workspace /new/restored。脚本递归恢复，应用增量及删除项后逐文件核对全量清单大小和SHA256。Godot4.6.3 Linux兼容桌面运行project.godot。完整卡新增0；开发者定向测试不等于全游戏验收，备份流程不冒称重跑游戏测试。三类可靠完成数和分母待核。不保证未知不可见成果捕获，原失踪测试未恢复。保留全部旧备份。上传和本期远端恢复实际状态见后续回执。

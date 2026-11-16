@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "base_game_commit": "b45d993af46d215743e3e0605f26b5dd432877ad",
+  "base_checkpoint_commit": "3259a040a7d967f82e2e17989ddede36660d354a",
+  "base_manifest_sha256": "a7f023ddfa7e095d895d99abf96a8faee2068c77a35f32fe4619336d7265152c",
+  "target_manifest_sha256": "ce70fa36ab3bfcbbb086627877ec593039209ea268b1d91b483fa21b36abf586",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "6cccc3b82bb57bf8fd192bb0b8bb2f1b6c2a0609be02a578fed17a01e9de572b"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "f9656e992e1a6a161013bbd8c3638a899b5de2d524c87452e01102f9b4162839"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "85bab6548fb88afa2c90c634a213874d838fb703649d6b7e9031fed749ae76dc"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "3e6c432b183c65ff5835c1c019fbf26ab5243638fd03f26333c98a702b1fbf13"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "5b84006c22832fdc0add7d833d315b0c2233a7465679c0ad8442a26a832602b9"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 95439,
+      "sha256": "c678e5205e0569f310859745b65b1f506af7b0838118cf734a25ac092ff41adc"
+    }
+  ],
+  "delta_bytes": 12740,
+  "delta_sha256": "10f32eb1bbf14ba0964a7d64ff204197fa009f76f8cdb63adc9363af47d82a4b",
+  "delta_parts": [
+    {
+      "name": "delta.tar.xz",
+      "bytes": 12740,
+      "sha256": "10f32eb1bbf14ba0964a7d64ff204197fa009f76f8cdb63adc9363af47d82a4b"
+    }
+  ],
+  "added": [
+    "docs/HANDOFF_GREATER_BALLER_SALES_20261116.md",
+    "tests/greater_baller_sales_20261116/REPORT.md",
+    "tests/greater_baller_sales_20261116/fire_regression.exit",
+    "tests/greater_baller_sales_20261116/fire_regression.log",
+    "tests/greater_baller_sales_20261116/initial.exit",
+    "tests/greater_baller_sales_20261116/initial.log",
+    "tests/greater_baller_sales_20261116/snow_regression.exit",
+    "tests/greater_baller_sales_20261116/snow_regression.log",
+    "tests/greater_baller_sales_20261116/test.gd",
+    "tests/greater_baller_sales_20261116/tested_source_sha256.json"
+  ],
+  "modified": [
+    "core/fire_baller_host.gd",
+    "core/patch_3702_fire_baller_golden_sources.gd",
+    "core/patch_3702_fire_baller_sources.gd",
+    "core/patch_3702_snow_baller_golden_sources.gd",
+    "core/patch_3702_snow_baller_sources.gd",
+    "core/patch_3702_temperature_shift_sources.gd",
+    "core/snow_baller_host.gd"
+  ],
+  "removed": [],
+  "files": 28289,
+  "bytes": 1557486234,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "original_missing_tests_recovered": false
+}
