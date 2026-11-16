@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "base_game_commit": "090dcb11937c28dda0d0e8ab7e12aff5142f7cc2",
+  "base_checkpoint_commit": "090dcb11937c28dda0d0e8ab7e12aff5142f7cc2",
+  "base_manifest_sha256": "536cafaad2b8e192b12bc423d57a7c8e433259114cd75c85c1cd769cea836b30",
+  "target_manifest_sha256": "fad59d7e398217b067acb6e61d7fe190bf32be287654acbc752884e20b71ec8b",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "5730c4fcf06fdfabaf22ec035cce356e488432f34b59844fe124ad2a09c2e9d0"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "6cf477fce3c5e8552b1d564758067b0a4db75a3da6463874f54f37b87cb5e6bd"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "6a00ef7f0a3cfa64cd709c49df34b5d96acf60a68dddd60982a43375ea0eeb9d"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "88510876c98f26e0b63ac5bf3c738a47ca92061be116a20213d9845b6504f232"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "8e17b32baba567a9808d228ef8f547b2daa7da1099a614e6a8c64fee2ae38405"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 92257,
+      "sha256": "04f55437f22c6b2fd32600c940a645e0622298fa54e89b5e00d7d329ab67a99f"
+    }
+  ],
+  "delta_bytes": 52096,
+  "delta_sha256": "3f7bd2b63a258a9c9fa9890d0b9628f53a19479520a2ed8ae615bf1aaff7bc74",
+  "added": [
+    "docs/HANDOFF_BALLER_UI_20261116.md",
+    "docs/NEXT_CONTENT_GAPS_20261116.md",
+    "tests/baller_ui_20261116/CODE_REVIEW.json",
+    "tests/baller_ui_20261116/REPORT.md",
+    "tests/baller_ui_20261116/initial.exit",
+    "tests/baller_ui_20261116/initial.log",
+    "tests/baller_ui_20261116/test.exit",
+    "tests/baller_ui_20261116/test.gd",
+    "tests/baller_ui_20261116/test.log",
+    "tests/baller_ui_20261116/tested_source_sha256.json",
+    "ui/baller_sale_info.gd"
+  ],
+  "modified": [
+    "PROGRESS.md",
+    "docs/progress_ledger.json",
+    "ui/main.gd"
+  ],
+  "removed": [],
+  "files": 28196,
+  "bytes": 1557095193,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "original_missing_tests_recovered": false
+}
