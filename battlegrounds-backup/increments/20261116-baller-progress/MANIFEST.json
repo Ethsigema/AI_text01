@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "base_game_commit": "008fc3512179d4e7df498226a90ea648dce0bbf4",
+  "base_checkpoint_commit": "9cd9bff67cf6c5386992328ba1ee220f1ccad687",
+  "base_manifest_sha256": "28ae235757ad6a6c5ea0b2561e922c90cdc58a1d7d92759acb14894f04777aa7",
+  "target_manifest_sha256": "a7f023ddfa7e095d895d99abf96a8faee2068c77a35f32fe4619336d7265152c",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "6cccc3b82bb57bf8fd192bb0b8bb2f1b6c2a0609be02a578fed17a01e9de572b"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "a280833afc8d504429d8fc9fbd6326445589e64f85b8191301f729e5f92a8a32"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "2af4ab3240af73ebaa444e21edba21f9062811203f3d81d8683518ef1b0aa02c"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "6487103920e5f594795ba28447010aed669b19c87e98d632865524df0b0e58aa"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "d7ae7ff0455da45579e56b7782cb0812d533f7d7603fc86f64f06f83db6f2ba5"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 95148,
+      "sha256": "aaa90f4ffe1ef4c7f811f63dd24c3581605c052926eac65dd100d28d7066597b"
+    }
+  ],
+  "delta_bytes": 44044,
+  "delta_sha256": "96bde0dabc5272bf9fb187f0046da7f42987784f2c14c7c37bb8ea958414712b",
+  "delta_parts": [
+    {
+      "name": "delta.tar.xz",
+      "bytes": 44044,
+      "sha256": "96bde0dabc5272bf9fb187f0046da7f42987784f2c14c7c37bb8ea958414712b"
+    }
+  ],
+  "added": [
+    "docs/HANDOFF_GREATER_BALLER_PROGRESS_20261116.md",
+    "research/baller_progress_20261116/REVIEW.json",
+    "tests/greater_baller_progress_20261116/REPORT.md",
+    "tests/greater_baller_progress_20261116/initial.exit",
+    "tests/greater_baller_progress_20261116/initial.log",
+    "tests/greater_baller_progress_20261116/test.gd",
+    "tests/greater_baller_progress_20261116/tested_source_sha256.json",
+    "ui/greater_baller_progress.gd"
+  ],
+  "modified": [
+    "ui/main.gd"
+  ],
+  "removed": [],
+  "files": 28279,
+  "bytes": 1557470279,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "original_missing_tests_recovered": false
+}

@@ -1,0 +1,1 @@
+本包为大型肖像周期显示增量，非独立完整包。377项固定依赖包括原始基包及完整历史链至008fc351。Python3.12+：python download_inputs.py --destination /new/inputs，然后 python restore.py --inputs /new/inputs --workspace /new/restored。脚本递归按固定历史顺序恢复后应用本增量与删除项，核对全部文件大小与SHA256。Godot4.6.3 Linux兼容桌面运行project.godot。所有旧备份保留。显示39项定向检查是开发者当前源码测试，非GUI视觉或全游戏验收；备份流程不冒称重跑游戏测试。三类可靠完成数/总数/百分比待核，完整卡新增0，不保证未知不可见成果捕获。上传及本次远端核验状态见后续回执。
