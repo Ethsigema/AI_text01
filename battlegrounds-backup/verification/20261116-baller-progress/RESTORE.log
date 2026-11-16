@@ -1,0 +1,231 @@
+{
+  "status": "PASS_ACTUAL_DISK_RESTORE_EVERY_FILE_REHASHED",
+  "checked_at_utc": "2026-11-16T12:40:23.580380+00:00",
+  "files": 27920,
+  "bytes": 1549340406,
+  "source_map_sha256": "7fec8d69e82de8bfcb7373549951f9456671b5c3980135d6ec6f983a3daf5ed7",
+  "aggregate_sha256": "5ba04ef124fc78cf20e2a942a60589fb92dc76e6808155648226a534a4599e05",
+  "baseline_sha256": "33b3a1a12185cf9035cec33da4fff7008c7680194eb045b37234fbb934803d65",
+  "payload_sha256": "eb3a81406cf04ce629d001a72e8f0f099c8a1db07f28713e2818898f2faf7e12",
+  "parts": 13,
+  "payload_members": 6821,
+  "missing": [],
+  "mismatched": [],
+  "extra": [],
+  "gameplay_tested": false,
+  "old_save_tested": false
+}
+{
+  "status": "PASS_INCREMENT_RESTORED_AND_EVERY_FILE_REHASHED",
+  "verified_at_utc": "2026-11-16T12:40:36.892131+00:00",
+  "base_files_verified": 27920,
+  "target_files_verified": 27994,
+  "target_bytes": 1550944027,
+  "delta_files": 157,
+  "source_map_sha256": "a20b935157ef28e0fd8e2953e4e121824ba2fc665c0df851554892ca6cd7e9ef",
+  "aggregate_sha256": "6e7409fe6c9889e6b2ae0c7515764646bbaf8dd5454c20fffd986aabec59fd72",
+  "missing": [],
+  "mismatched": [],
+  "extra": [],
+  "gameplay_rerun_by_restore": false,
+  "default_pool_promoted": false
+}
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/previous/restore.py", line 42, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/previous/restore.py", line 28, in main
+    rel=n[len('overlay/'):];assert safe(rel);q=root/rel;assert not q.exists();q.parent.mkdir(parents=True,exist_ok=True);q.write_bytes(z.read(n))
+                                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1311, in mkdir
+    os.mkdir(self, mode)
+OSError: [Errno 28] No space left on device: '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/ordinary_sales_restore/retests_restore/afternoon_review_restore/morning_review_restore/inventory_restore/air_restore/display_restore/growth_restore/previous_restore/project/tests/ledger'
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/growth/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/growth/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'previous/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'previous_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/previous/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/ordinary_sales_restore/retests_restore/afternoon_review_restore/morning_review_restore/inventory_restore/air_restore/display_restore/growth_restore/previous_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/display/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/display/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'growth/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'growth_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/growth/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/ordinary_sales_restore/retests_restore/afternoon_review_restore/morning_review_restore/inventory_restore/air_restore/display_restore/growth_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/air/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/air/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'display/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'display_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/display/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/ordinary_sales_restore/retests_restore/afternoon_review_restore/morning_review_restore/inventory_restore/air_restore/display_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/inventory/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/inventory/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'air/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'air_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/air/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/ordinary_sales_restore/retests_restore/afternoon_review_restore/morning_review_restore/inventory_restore/air_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/morning_review/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/morning_review/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'inventory/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'inventory_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/inventory/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/ordinary_sales_restore/retests_restore/afternoon_review_restore/morning_review_restore/inventory_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/afternoon_review/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/afternoon_review/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'morning_review/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'morning_review_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/morning_review/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/ordinary_sales_restore/retests_restore/afternoon_review_restore/morning_review_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/retests/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/retests/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'afternoon_review/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'afternoon_review_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/afternoon_review/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/ordinary_sales_restore/retests_restore/afternoon_review_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/ordinary_sales/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/ordinary_sales/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'retests/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'retests_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/retests/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/ordinary_sales_restore/retests_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/swirler/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/swirler/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'ordinary_sales/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'ordinary_sales_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/ordinary_sales/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/ordinary_sales_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/checkpoint23/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/checkpoint23/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'swirler/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'swirler_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/swirler/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/ultra_swirler/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/ultra_swirler/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'checkpoint23/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'swirler_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/checkpoint23/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/trinket_api/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/trinket_api/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'ultra_swirler/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'swirler_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/ultra_swirler/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/snow_growth/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/snow_growth/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'trinket_api/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'swirler_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/trinket_api/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/morning16/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/morning16/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'snow_growth/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'swirler_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/snow_growth/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/fire_growth/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/fire_growth/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'morning16/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'swirler_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/morning16/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/fire_ordinary/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/fire_ordinary/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'fire_growth/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'swirler_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/fire_growth/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/snow_ordinary/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/snow_ordinary/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'fire_ordinary/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'swirler_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/fire_ordinary/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/baller_ui/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/baller_ui/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'snow_ordinary/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'swirler_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/snow_ordinary/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore/swirler_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/bonehead/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/bonehead/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'baller_ui/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'swirler_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/baller_ui/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore/swirler_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/latest_baller/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/latest_baller/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'bonehead/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'swirler_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/bonehead/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore/swirler_restore']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/package/restore.py", line 37, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/package/restore.py", line 22, in main
+    subprocess.run(['python3',str(a.inputs/'latest_baller/restore.py'),'--inputs',str(a.inputs),'--workspace',str(a.workspace/'swirler_restore')],check=True)
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs/latest_baller/restore.py', '--inputs', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/inputs', '--workspace', '/workspace/scratch/dd4f12b08ec0/baller_progress_backup_20261116/postupload/fresh_restore/swirler_restore']' returned non-zero exit status 1.

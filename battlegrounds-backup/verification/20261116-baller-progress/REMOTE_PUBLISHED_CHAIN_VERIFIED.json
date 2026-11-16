@@ -1,0 +1,26 @@
+{
+  "status": "PASS_REMOTE_FULL_CHAIN_INDEPENDENT_RESTORE",
+  "source_commit": "ed6b5430fd261eb62dea1666412ef82f62e452ed",
+  "downloaded_items": 392,
+  "all_downloaded_sizes_and_hashes_match": true,
+  "download_report_sha256": "d5ca5aa9a65b05109394ec4f23077ed43e7293f08476675ff9bf635f663d0fea",
+  "restore_log_sha256": "eae1b6c2d88c0420af7e00fb72def78547ced4ee8915af520f955d96ddaa34a9",
+  "first_attempt": "Disk full; failed restore log preserved. Only reproducible temporary restore trees removed; all backups, source, and downloaded dependencies retained. Repeated full restore in a new directory using freshly downloaded inputs.",
+  "first_failure_log_sha256": "58a7ef63dcf4d9ce74fcbb9de0ce520daf601232a0fc7534a37c73167983b8c5",
+  "target_manifest_sha256": "a7f023ddfa7e095d895d99abf96a8faee2068c77a35f32fe4619336d7265152c",
+  "restore": {
+    "status": "PASS_FRESH_COMPLETE_CHAIN_RESTORED_AND_EVERY_FILE_REHASHED",
+    "files": 28279,
+    "bytes": 1557470279,
+    "changed": 9,
+    "removed": 0,
+    "missing": [],
+    "extra": [],
+    "mismatched": [],
+    "gameplay_accepted": false,
+    "unknown_unuploaded_work_captured": false
+  },
+  "old_backups_retained": true,
+  "gameplay_accepted": false,
+  "unknown_unpublished_work_captured": false
+}
