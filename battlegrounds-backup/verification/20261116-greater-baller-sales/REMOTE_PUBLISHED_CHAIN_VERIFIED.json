@@ -1,0 +1,24 @@
+{
+  "status": "PASS_REMOTE_FULL_CHAIN_INDEPENDENT_RESTORE",
+  "source_commit": "a8c772876ffcda63d0e3cf8f119bb416e195ac5f",
+  "downloaded_items": 422,
+  "all_downloaded_sizes_and_hashes_match": true,
+  "download_report_sha256": "2e09096d9ab33768883f1c63ef7cc9fd84953a5c399acf638134dad3b769abd2",
+  "restore_log_sha256": "97999a24156c6a7ceadc2fc3ce1df5cce118629017648f4d4163f00b394cf487",
+  "target_manifest_sha256": "ce70fa36ab3bfcbbb086627877ec593039209ea268b1d91b483fa21b36abf586",
+  "restore": {
+    "status": "PASS_FRESH_COMPLETE_CHAIN_RESTORED_AND_EVERY_FILE_REHASHED",
+    "files": 28289,
+    "bytes": 1557486234,
+    "changed": 17,
+    "removed": 0,
+    "missing": [],
+    "extra": [],
+    "mismatched": [],
+    "gameplay_accepted": false,
+    "unknown_unuploaded_work_captured": false
+  },
+  "game_tests_run_by_backup": false,
+  "old_backups_retained": true,
+  "unknown_unpublished_work_captured": false
+}
