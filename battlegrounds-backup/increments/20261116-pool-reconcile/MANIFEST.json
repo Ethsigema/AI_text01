@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "base_game_commit": "a8c772876ffcda63d0e3cf8f119bb416e195ac5f",
+  "base_checkpoint_commit": "2585d46c35d837efa81226ce4f1f73aab68c9412",
+  "base_manifest_sha256": "ce70fa36ab3bfcbbb086627877ec593039209ea268b1d91b483fa21b36abf586",
+  "target_manifest_sha256": "32515c7072c1fea367947453aa121a97009af04f9e1a90d2669dd72f6e7fb741",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "6cccc3b82bb57bf8fd192bb0b8bb2f1b6c2a0609be02a578fed17a01e9de572b"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "f9656e992e1a6a161013bbd8c3638a899b5de2d524c87452e01102f9b4162839"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "85bab6548fb88afa2c90c634a213874d838fb703649d6b7e9031fed749ae76dc"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "3e6c432b183c65ff5835c1c019fbf26ab5243638fd03f26333c98a702b1fbf13"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "945ff31ae8788c33aef710bf112345714b01164b26d917c67deb77443aa56621"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 96087,
+      "sha256": "b047e3cbd24c260038f7dda812d0694b2b703ed6c8b6bd2db4443383abd9ba5c"
+    }
+  ],
+  "delta_bytes": 44448,
+  "delta_sha256": "a1089bd7b4959005ee8f43681e603759605f3dbd8a3afd5144a55c708260f7ac",
+  "delta_parts": [
+    {
+      "name": "delta.tar.xz",
+      "bytes": 44448,
+      "sha256": "a1089bd7b4959005ee8f43681e603759605f3dbd8a3afd5144a55c708260f7ac"
+    }
+  ],
+  "added": [
+    "research/pool_reconcile_20261116/DERIVED_CANDIDATES.json",
+    "research/pool_reconcile_20261116/INPUT_SHA256.json",
+    "research/pool_reconcile_20261116/ORIGINAL_MANIFEST.json",
+    "research/pool_reconcile_20261116/README.md",
+    "research/pool_reconcile_20261116/SPELL_IDENTITIES.json",
+    "research/pool_reconcile_20261116/SUMMARY.json",
+    "research/pool_reconcile_20261116/TARGETED_LEDGER.csv",
+    "research/pool_reconcile_20261116/TARGETED_LEDGER.json",
+    "research/pool_reconcile_20261116/build.py",
+    "research/pool_reconcile_20261116/research_delta.zip"
+  ],
+  "modified": [],
+  "removed": [],
+  "files": 28299,
+  "bytes": 1557809849,
+  "new_complete_card_credit": 0,
+  "full_game_accepted": false,
+  "unknown_unuploaded_work_captured": false,
+  "original_missing_tests_recovered": false
+}
