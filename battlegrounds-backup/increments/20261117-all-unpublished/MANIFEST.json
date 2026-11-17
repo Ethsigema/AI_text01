@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "base_game_commit": "ea2c5269dc84288b5a1ead87f1320de51fd34815",
+  "base_checkpoint_commit": "72fc59aa06a1c26965863dfbb83b26fde0afc12d",
+  "base_manifest_sha256": "32515c7072c1fea367947453aa121a97009af04f9e1a90d2669dd72f6e7fb741",
+  "target_manifest_sha256": "edea472f97c6f1c15d92956b5a03db221d91cd27128991e74a2e8f82a77a6db7",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "6cccc3b82bb57bf8fd192bb0b8bb2f1b6c2a0609be02a578fed17a01e9de572b"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "c2149b98d2d18795feacb246c8efb28e499ef4bffebf3b7cf42e680a5d3c8ecc"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "30d9a2ca2839ace00a605140902634309fdf518f6c6e32a89fcc522b31f4d95c"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "a2dd31f9f253c357b60dd0afc8f9dec2687f92cdd506f55e81ad620dfc1be01c"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "427a63f9312f969ebca59cdfcfe21be34aaf66fa12cb1271abcdb01a3e30d1d4"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 98073,
+      "sha256": "e9bf1c55ea682d14f42b099e4de5f30d7d8d7e836732656cc2ce05b52fefc768"
+    }
+  ],
+  "delta_bytes": 22816,
+  "delta_sha256": "468c13aeaad7e1ab853288f38f5aa325782f1cfdb5d919ce1869063d9f95d2f8",
+  "delta_parts": [
+    {
+      "name": "delta.tar.xz",
+      "bytes": 22816,
+      "sha256": "468c13aeaad7e1ab853288f38f5aa325782f1cfdb5d919ce1869063d9f95d2f8"
+    }
+  ],
+  "added": [
+    "docs/HANDOFF_GREATER_BALLER_ORDINARY_20261116.md",
+    "docs/HANDOFF_GREATER_BALLER_PURCHASE_RESUME_20261117.md",
+    "docs/HANDOFF_GREATER_BALLER_SPELL_BUY_20261117.md",
+    "research/defiler_followup_20261116/REVIEW.json",
+    "research/spell_dependency_audit_20261117/REVIEW.json",
+    "research/spell_dependency_audit_20261117/TESTED_SOURCES.json",
+    "research/spell_dependency_audit_20261117/first_assertion_failed.exit",
+    "research/spell_dependency_audit_20261117/first_assertion_failed.log",
+    "research/spell_dependency_audit_20261117/forge_current.exit",
+    "research/spell_dependency_audit_20261117/forge_current.log",
+    "research/spell_dependency_audit_20261117/forge_retry.exit",
+    "research/spell_dependency_audit_20261117/forge_retry.log",
+    "research/spell_dependency_audit_20261117/test.gd",
+    "research/spell_dependency_audit_20261117/test_retry.exit",
+    "research/spell_dependency_audit_20261117/test_retry.log",
+    "tests/greater_baller_ordinary_20261116/REPORT.md",
+    "tests/greater_baller_ordinary_20261116/fire_regression.exit",
+    "tests/greater_baller_ordinary_20261116/fire_regression.log",
+    "tests/greater_baller_ordinary_20261116/initial.exit",
+    "tests/greater_baller_ordinary_20261116/initial.log",
+    "tests/greater_baller_ordinary_20261116/snow_regression.exit",
+    "tests/greater_baller_ordinary_20261116/snow_regression.log",
+    "tests/greater_baller_ordinary_20261116/test.gd",
+    "tests/greater_baller_ordinary_20261116/tested_source_sha256.json",
+    "tests/greater_baller_purchase_20261117/REPORT.md",
+    "tests/greater_baller_purchase_20261117/after.exit",
+    "tests/greater_baller_purchase_20261117/after.log",
+    "tests/greater_baller_purchase_20261117/before.exit",
+    "tests/greater_baller_purchase_20261117/before.log",
+    "tests/greater_baller_purchase_20261117/ordinary_regression.exit",
+    "tests/greater_baller_purchase_20261117/ordinary_regression.log",
+    "tests/greater_baller_purchase_20261117/test.gd",
+    "tests/greater_baller_purchase_20261117/tested_source_sha256.json",
+    "tests/greater_baller_spell_purchase_20261117/REPORT.md",
+    "tests/greater_baller_spell_purchase_20261117/after.exit",
+    "tests/greater_baller_spell_purchase_20261117/after.log",
+    "tests/greater_baller_spell_purchase_20261117/after_failed.exit",
+    "tests/greater_baller_spell_purchase_20261117/after_failed.log",
+    "tests/greater_baller_spell_purchase_20261117/before.exit",
+    "tests/greater_baller_spell_purchase_20261117/before.log",
+    "tests/greater_baller_spell_purchase_20261117/debug.exit",
+    "tests/greater_baller_spell_purchase_20261117/debug.log",
+    "tests/greater_baller_spell_purchase_20261117/final.exit",
+    "tests/greater_baller_spell_purchase_20261117/final.log",
+    "tests/greater_baller_spell_purchase_20261117/purchase_regression.exit",
+    "tests/greater_baller_spell_purchase_20261117/purchase_regression.log",
+    "tests/greater_baller_spell_purchase_20261117/test.gd",
+    "tests/greater_baller_spell_purchase_20261117/tested_sources.json",
+    "tests/spell_dependency_audit_20261117/test.gd",
+    "tests/spellcraft_audit_20261117/REVIEW.md",
+    "tests/spellcraft_audit_20261117/run.exit",
+    "tests/spellcraft_audit_20261117/run.log",
+    "tests/spellcraft_audit_20261117/source_sha256.txt",
+    "tests/spellcraft_audit_20261117/test.gd"
+  ],
+  "modified": [
+    "core/fire_baller_host.gd",
+    "core/greater_baller_portrait.gd",
+    "core/patch_3702_fire_baller_golden_sources.gd",
+    "core/patch_3702_fire_baller_sources.gd",
+    "core/patch_3702_snow_baller_golden_sources.gd",
+    "core/patch_3702_snow_baller_sources.gd",
+    "core/patch_3702_temperature_shift_sources.gd",
+    "core/snow_baller_host.gd"
+  ],
+  "removed": [],
+  "target_files": 28353
+}
