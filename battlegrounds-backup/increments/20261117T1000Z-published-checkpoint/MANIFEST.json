@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "base_game_commit": "5d1db66bf8cdc9918544553b1c79a128f107d687",
+  "base_checkpoint_commit": "d0709cd68a875f22a75f42d99002da935216cc03",
+  "base_manifest_sha256": "edea472f97c6f1c15d92956b5a03db221d91cd27128991e74a2e8f82a77a6db7",
+  "target_manifest_sha256": "edea472f97c6f1c15d92956b5a03db221d91cd27128991e74a2e8f82a77a6db7",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "6cccc3b82bb57bf8fd192bb0b8bb2f1b6c2a0609be02a578fed17a01e9de572b"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "c2149b98d2d18795feacb246c8efb28e499ef4bffebf3b7cf42e680a5d3c8ecc"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "30d9a2ca2839ace00a605140902634309fdf518f6c6e32a89fcc522b31f4d95c"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "a2dd31f9f253c357b60dd0afc8f9dec2687f92cdd506f55e81ad620dfc1be01c"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "427a63f9312f969ebca59cdfcfe21be34aaf66fa12cb1271abcdb01a3e30d1d4"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 98073,
+      "sha256": "e9bf1c55ea682d14f42b099e4de5f30d7d8d7e836732656cc2ce05b52fefc768"
+    }
+  ],
+  "delta_bytes": 108,
+  "delta_sha256": "5ca1b6c461fc194055d52b181f57c63dc1d34c19d041f6395e6f6abc039692bb",
+  "delta_parts": [
+    {
+      "name": "delta.tar.xz",
+      "bytes": 108,
+      "sha256": "5ca1b6c461fc194055d52b181f57c63dc1d34c19d041f6395e6f6abc039692bb"
+    }
+  ],
+  "added": [],
+  "modified": [],
+  "removed": [],
+  "target_files": 28353
+}
