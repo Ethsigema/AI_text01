@@ -1,0 +1,1 @@
+23点零变化检查点，依赖dbfdbb4与517项固定版本完整旧链，不是独立完整游戏包。Python3.12+：python download_inputs.py --destination /new/inputs；python restore.py --inputs /new/inputs --workspace /new/restored。在全新目录恢复原基包及全部增量后应用本次空增量，每个文件核对大小和SHA256。Godot4.6.3 Linux打开project.godot。旧备份及依赖全部保留；当前可见工程已全树核对，无法保证不可见成果。未增加游戏功能/完整卡，未重跑玩法测试。上传核验结果见后续固定回执。
