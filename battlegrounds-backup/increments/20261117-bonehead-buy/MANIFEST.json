@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "base_game_commit": "55e0b21eb1a430e057ef1bf8cf98383b52f5d58c",
+  "base_checkpoint_commit": "b5179b0aec93eeb80a758171c5e7101fd19c11a1",
+  "base_manifest_sha256": "13df61f13080764333de69230577ef5c2bb5f2b2835f641c763cb7d9e1d775e9",
+  "target_manifest_sha256": "8be7a86eaa4ee31608d579046c4d64249073853feb09f3dee7bbf88e33ece7ae",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "6cccc3b82bb57bf8fd192bb0b8bb2f1b6c2a0609be02a578fed17a01e9de572b"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "3ea820e6d2cf449cc329f285e907033fd06733d1f7d01859b6c0bf1aa331260c"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "1045f1bef887a6b54f5adf632882e06101aa38ce7e94da202ef8692debc664a9"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "03f8e2381309a605bdcc4c03dd974ecd9439e4ac59731e8e671afbcc90407f00"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "eb4f75f731776683e800016c4d020caf64048e3790a79dff4443ecbcf8f97767"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 98901,
+      "sha256": "b348790da4985a8b3de367ce864c0fde3d3af2497d0585c9fe325e22e93e341e"
+    }
+  ],
+  "delta_bytes": 8108,
+  "delta_sha256": "18f84838558e649dd88da873cba81448f1646f28bd9cf67c3692596f7a486241",
+  "delta_parts": [
+    {
+      "name": "delta.tar.xz",
+      "bytes": 8108,
+      "sha256": "18f84838558e649dd88da873cba81448f1646f28bd9cf67c3692596f7a486241"
+    }
+  ],
+  "added": [
+    "docs/HANDOFF_PORTRAIT_BONEHEAD_BUY_20261117.md",
+    "tests/portrait_bonehead_buy_20261117/REVIEW.md",
+    "tests/portrait_bonehead_buy_20261117/after.exit",
+    "tests/portrait_bonehead_buy_20261117/after.log",
+    "tests/portrait_bonehead_buy_20261117/before.exit",
+    "tests/portrait_bonehead_buy_20261117/before.log",
+    "tests/portrait_bonehead_buy_20261117/regression.exit",
+    "tests/portrait_bonehead_buy_20261117/regression.log",
+    "tests/portrait_bonehead_buy_20261117/test.gd",
+    "tests/portrait_bonehead_buy_20261117/tested_sources.json"
+  ],
+  "modified": [
+    "core/greater_baller_portrait.gd"
+  ],
+  "removed": [],
+  "target_files": 28382
+}
