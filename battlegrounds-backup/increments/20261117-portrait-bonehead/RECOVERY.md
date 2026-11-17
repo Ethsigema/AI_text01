@@ -1,0 +1,1 @@
+真实肖像/骨颅增量，依赖18点9e168a及469项固定版本完整旧链，不是独立完整游戏包。Python3.12+：python download_inputs.py --destination /new/inputs；python restore.py --inputs /new/inputs --workspace /new/restored。新目录恢复全链再应用本次增量，每个文件核对大小及SHA256。Godot4.6.3 Linux打开project.godot。已知可见最新工程完整覆盖，其他不可见成果不能保证。旧备份全部保留。玩法仍为部分实现，完整卡新增0；最终上传恢复状态见后续回执。

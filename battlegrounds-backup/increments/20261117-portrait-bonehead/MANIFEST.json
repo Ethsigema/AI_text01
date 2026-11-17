@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "base_game_commit": "9e168a2548f637cebd85526109aa1433c185fd4f",
+  "base_checkpoint_commit": "9ee14254a8b23daf7f3f2db29dfdbf313d8df56c",
+  "base_manifest_sha256": "edea472f97c6f1c15d92956b5a03db221d91cd27128991e74a2e8f82a77a6db7",
+  "target_manifest_sha256": "13df61f13080764333de69230577ef5c2bb5f2b2835f641c763cb7d9e1d775e9",
+  "manifest_parts": [
+    {
+      "name": "FULL_MANIFEST.json.gz.part0000",
+      "bytes": 240000,
+      "sha256": "6cccc3b82bb57bf8fd192bb0b8bb2f1b6c2a0609be02a578fed17a01e9de572b"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0001",
+      "bytes": 240000,
+      "sha256": "3f88b263d5457aaf29217f1e603c83c7576f60a78bbef704b2dc56c961a12b9b"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0002",
+      "bytes": 240000,
+      "sha256": "2e54bef21452a91bdbb37ccb66e33ee5c93e1ea8780e34ddf78136f98e6fb5c8"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0003",
+      "bytes": 240000,
+      "sha256": "7046668e73263ab061ae3021da78ef2699cd475504aba32d0ccd352a38b31b31"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0004",
+      "bytes": 240000,
+      "sha256": "580d5761a36086861c84810e94874eb66773a452cb25965cacb150f11647861f"
+    },
+    {
+      "name": "FULL_MANIFEST.json.gz.part0005",
+      "bytes": 98577,
+      "sha256": "65d1426c11218476499e69b167f393e544e453fb0d3629ca01740114bd122896"
+    }
+  ],
+  "delta_bytes": 17536,
+  "delta_sha256": "2cf654b27a824d65c41edfd9c84932d6a6205acdca48bd2edbfe98c746b50391",
+  "delta_parts": [
+    {
+      "name": "delta.tar.xz",
+      "bytes": 17536,
+      "sha256": "2cf654b27a824d65c41edfd9c84932d6a6205acdca48bd2edbfe98c746b50391"
+    }
+  ],
+  "added": [
+    "docs/HANDOFF_PORTRAIT_BONEHEAD_20261117.md",
+    "tests/portrait_bonehead_20261117/PIN_CHANGES.json",
+    "tests/portrait_bonehead_20261117/REPORT.md",
+    "tests/portrait_bonehead_20261117/after.exit",
+    "tests/portrait_bonehead_20261117/after.log",
+    "tests/portrait_bonehead_20261117/after_dependency_failed.exit",
+    "tests/portrait_bonehead_20261117/after_dependency_failed.log",
+    "tests/portrait_bonehead_20261117/after_integrity_failed.exit",
+    "tests/portrait_bonehead_20261117/after_integrity_failed.log",
+    "tests/portrait_bonehead_20261117/before.exit",
+    "tests/portrait_bonehead_20261117/before.log",
+    "tests/portrait_bonehead_20261117/regression.exit",
+    "tests/portrait_bonehead_20261117/regression.log",
+    "tests/portrait_bonehead_20261117/regression_dependency_failed.exit",
+    "tests/portrait_bonehead_20261117/regression_dependency_failed.log",
+    "tests/portrait_bonehead_20261117/regression_integrity_failed.exit",
+    "tests/portrait_bonehead_20261117/regression_integrity_failed.log",
+    "tests/portrait_bonehead_20261117/test.gd",
+    "tests/portrait_bonehead_20261117/tested_sources.json"
+  ],
+  "modified": [
+    "core/baller_inert_sale.gd",
+    "core/fire_baller_host.gd",
+    "core/greater_baller_portrait.gd",
+    "core/patch_3702_air_baller_golden_sources.gd",
+    "core/patch_3702_air_baller_sources.gd",
+    "core/patch_3702_fire_baller_golden_sources.gd",
+    "core/patch_3702_fire_baller_sources.gd",
+    "core/patch_3702_snow_baller_golden_sources.gd",
+    "core/patch_3702_snow_baller_sources.gd",
+    "core/patch_3702_temperature_shift_sources.gd",
+    "core/snow_baller_host.gd"
+  ],
+  "removed": [],
+  "target_files": 28372
+}
